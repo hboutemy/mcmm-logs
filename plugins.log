@@ -61,6 +61,7 @@ ch.digitalfondue.stampo -> stampo:stampo-maven-plugin = "stampo-maven-plugin"
 ch.fortysix -> postman:maven-postman-plugin = "Postman mail plugin"
 ch.hortis.sonar -> db:db-maven-plugin = "Sonar database plugin"
 ch.hortis.sonar -> sonar:sonar-maven-plugin = "Sonar maven2 plugin"
+ch.ifocusit.livingdoc -> livingdoc:livingdoc-maven-plugin = "Living Documentation maven plugin"
 ch.inftec.flyway -> flyway-extension:flyway-extension-maven-plugin = 
 ch.inftec.ju -> ju:ju-maven-plugin = 
 ch.ledcom.maven -> sitespeed:sitespeed-maven-plugin = "SiteSpeed.io Maven plugin"
