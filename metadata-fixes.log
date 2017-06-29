@@ -4914,6 +4914,7 @@ io.thekraken:grok => -0.1.3
 io.tiler:tiler => +0.1.15, +0.1.16
 io.tiler:tiler-collector-loggly => +0.1.10, +0.1.11
 io.tiler:tiler-core => +0.1.3
+io.toast-tk:toast-tk-selenium-plugin => +0.1.5
 io.tromba:testdriver => +0.2.0
 io.undertow.jastow:jastow => +1.1.0.Final
 io.v:vanadium => +2.1.3
