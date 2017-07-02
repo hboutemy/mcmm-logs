@@ -482,6 +482,7 @@ com.github.greengerong -> ng-protractor:maven-ng-protractor = "maven-ng-protract
 com.github.greengerong -> nghtml2js:nghtml2js = "nghtml2js"
 com.github.gtxtreme21 -> passfailreport:passfailreport-maven-plugin = "Jmeter PassFailReport"
 com.github.harti2006 -> neo4j-server:neo4j-server-maven-plugin = "Neo4j Server Maven Plugin"
+com.github.hazendaz.spotbugs -> spotbugs:spotbugs-maven-plugin = "SpotBugs Maven Plugin"
 com.github.hcguersoy -> nexus:nexus-maven-plugin = "maven-nexus-plugin Maven Mojo"
 com.github.helpermethod -> membrane:membrane-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.hermod -> hermod-generator:hermod-generator-maven-plugin = 
