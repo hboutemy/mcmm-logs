@@ -979,6 +979,7 @@ com.lukegb.mojo -> gitdescribe:gitdescribe-maven-plugin = "Git Describe Maven Pl
 com.luuuis -> smartass:smartass-maven-plugin = "Maven Smart Assembly Plugin"
 com.madgag -> android:android-maven-plugin = "Android Maven Plugin - android-maven-plugin"
 com.mainstreethub -> ecr:ecr-maven-plugin = "Main Street Hub Maven ECR Plugin"
+com.marvinformatics -> adt:adt-maven-plugin = "Adobe AIR Development tools Maven plugin"
 com.marvinformatics -> manifest-validator:manifest-validator-maven-plugin = "manifest-validator-maven-plugin"
 com.marvinformatics.formatter -> formatter:formatter-maven-plugin = 
 com.massfords -> i18njson:i18njson-maven-plugin = "i18njson Maven Plugin"
