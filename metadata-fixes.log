@@ -3592,6 +3592,7 @@ com.yandex.yoctodb:yoctodb-core => -0.0.14, -0.0.15
 com.yandex.yoctodb:yoctodb-parent => -0.0.14, -0.0.15
 com.yoctopuce.java:yoctolib => +1.10.20652
 com.youbenzi:MD2File => +1.0
+com.youbenzi:MDTool => +1.1.0
 com.yy:android-push-sdk => +1.0.124, +1.1.2
 com.zanclus.codepalousa:vertx-js-archetype => +3.0.0-M4
 com.zaubersoftware:commons-ws => +1.0
