@@ -1590,6 +1590,7 @@ io.github.yas99en -> script:script-maven-plugin = "${project.groupId}:${project.
 io.github.zlika -> reproducible-build:reproducible-build-maven-plugin = "Reproducible Build Maven Plugin"
 io.gravitee.maven.plugins -> json-schema-generator:json-schema-generator-maven-plugin = "JSON Schema generator Maven plugin"
 io.gumga -> gumgag:gumgag = "gumgag Maven Plugin"
+io.gupshup.maven -> gsbot:gsbot-maven-plugin = "Gupshup Bot Maven Plugin"
 io.hawt -> hawtio-json-schema-generator:hawtio-json-schema-generator-plugin = "${project.artifactId}"
 io.hawt -> hawtio:hawtio-maven-plugin = "${project.artifactId}"
 io.ingenieux -> ngrok:ngrok-maven-plugin = "ngrok maven plugin"

@@ -7787,6 +7787,7 @@ org.bitbucket.bradleysmithllc.star-schema-commander:ssc-awt-gui => +ssc.1.B
 org.bitbucket.bradleysmithllc.star-schema-commander:ssc-cli => +ssc.1.B
 org.bitbucket.bradleysmithllc.star-schema-commander:ssc-core => +ssc.1.B
 org.bitbucket.frankmonza:kustomapi => -0.7
+org.bitbucket.jplantdev:p1_2.11 => +0.2.0+1-d62eeba1
 org.bitbucket.pshirshov.sbt:idl_2.10 => +1.0, +1.1
 org.bitbucket.pshirshov.sbt:idl_2.11 => +1.0, +1.1
 org.bitbucket.samuel8mille:samulib => +1.0.0.
