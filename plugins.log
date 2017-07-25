@@ -209,6 +209,7 @@ com.bluetrainsoftware.bathe.web -> bathe-jetty-jspc:bathe-jetty-jspc-maven-plugi
 com.bluetrainsoftware.dtogen -> dtogen:dtogen = 
 com.bluetrainsoftware.maven -> bathe:bathe-plugin = "Maven Bathe plugin"
 com.bluetrainsoftware.maven -> branch-check:branch-check-maven-plugin = "Maven plugin for branch checks"
+com.bluetrainsoftware.maven -> gen-code-scanner:gen-code-scanner = "gen-code-scanner"
 com.bluetrainsoftware.maven -> groovydoc:groovydoc-maven-plugin = "Maven plugin for groovydoc"
 com.bluetrainsoftware.maven -> jaxrs2typescript:jaxrs2typescript-maven-plugin = "jaxrs2typescript maven plugin"
 com.bluetrainsoftware.maven -> karma-runner:karma-runner-plugin = "Maven Karma Runner plugin"
