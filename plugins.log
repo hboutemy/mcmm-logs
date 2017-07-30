@@ -615,6 +615,7 @@ com.github.phuonghuynh -> gitflow:gitflow-maven-plugin = "gitflow-maven-plugin"
 com.github.phuonghuynh -> named-mvn:named-mvn = "${project.groupId}:${project.artifactId}"
 com.github.phuonghuynh -> yml2prop:yml2prop = "${project.groupId}:${project.artifactId}"
 com.github.pinguet62 -> java2typescript:java2typescript-maven-plugin = "Java2Typescript Maven plugin"
+com.github.pkoli -> xls2pojo:xls2pojo-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.pms1.tppt -> tppt:tppt-maven-plugin = 
 com.github.podal.codejavadoc -> codejavadoc:codejavadoc-maven-plugin = "Copy Code to JavaDoc Maven plugin"
 com.github.praxissoftware.maven.plugins -> features:features-maven-plugin = "Praxis Software - Maven Plugins - Features Maven Plugin"
