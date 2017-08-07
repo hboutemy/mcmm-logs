@@ -15739,6 +15739,7 @@ org.tinygroup:org.tinygroup.weblayer => +2.0.1, +2.0.2
 org.tinygroup:org.tinygroup.webservice => +2.0.1, +2.0.2
 org.tinygroup:org.tinygroup.websitestyle => +2.0.0
 org.tinygroup:org.tinygroup.webstandard => +2.0.1, +2.0.2
+org.tinygroup:org.tinygroup.weixinuser => -3.4.1
 org.tinygroup:org.tinygroup.wijmo => +2.0.0
 org.tinygroup:org.tinygroup.wijmoientity => +2.0.0
 org.tinygroup:org.tinygroup.x-editable => +2.0.0
