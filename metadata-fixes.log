@@ -15956,7 +15956,6 @@ org.webjars.npm:readable-stream => +2.2.11
 org.webjars.npm:regenerator => +0.8.30
 org.webjars.npm:save-svg-as-png => -1.0.1, -1.0.2
 org.webjars.npm:source-map => +0.1.34
-org.webjars.npm:tablesorter => +2.28.15
 org.webjars.npm:yargs => +3.5.3, +3.7.0
 org.webjars.npm:yargs-parser => +4.2.1
 org.webjars:pdf-js => +1.1.3
