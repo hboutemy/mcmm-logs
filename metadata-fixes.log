@@ -396,6 +396,7 @@ com.alexvasilkov:events => +0.4.0
 com.alexvasilkov:gradle-vcs-dependency => +0.2.3
 com.algolia:algoliasearch-android => +3.5.0, +3.8.0, +3.9.0
 com.algolia:algoliasearch-offline-android => +3.5.0, +3.8.0, +3.9.0
+com.alibaba.edas:edas-sdk => +1.6.0
 com.alibaba:multithread.context => +1.2.0
 com.aliyun:aliyun-java-sdk-core => -2.3.6
 com.aliyun:aliyun-java-sdk-httpdns => -2.0.0
