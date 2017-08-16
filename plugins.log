@@ -3233,6 +3233,7 @@ org.kevoree.tools -> org.kevoree.tools.merger.:org.kevoree.tools.merger.mavenplu
 org.kevoree.watchdog -> org.kevoree.watchdog.runner:org.kevoree.watchdog.mavenrunner = "Kevoree :: Watchdog :: MavenRunner"
 org.kie -> jboss-modules:jboss-modules = "KIE EAP - Maven plugin"
 org.kie -> kie:kie-maven-plugin = "Kie Maven Plugin"
+org.kie.server -> kieserver:kie-server-maven-plugin = "KIE :: Execution Server :: Deploy Maven Plugin"
 org.kite9 -> kite9-java:kite9-java-maven-plugin = "Kite9 Maven Mojo"
 org.kitesdk -> kite:kite-maven-plugin = "Kite Maven Plugin"
 org.kitteh -> kittehversionizer:kitteh-maven-versionizer = "Kitteh Maven Versionizer Plugin"
