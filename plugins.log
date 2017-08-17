@@ -1153,6 +1153,7 @@ com.savage7.maven.plugins -> external-dependency:maven-external-dependency-plugi
 com.scireum -> github-tag:github-tag-plugin = "Github Tag Mojo"
 com.scireum -> sds:sds-maven-plugin = "SDS Maven Mojo"
 com.seanshubin.detangler -> mysql-jdbc-compliance:detangler-maven-plugin = "${project.groupId}:${project.artifactId}"
+com.seanshubin.detangler -> detangler:detangler-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.sebastian-daschner -> jaxrs-analyzer:jaxrs-analyzer-maven-plugin = "JAX-RS Analyzer Maven Plugin"
 com.seovic.coherence -> pof:pof-maven-plugin = "POF Maven Plugin"
 com.seovic.maven.plugins -> npm:npm-maven-plugin = "npm Maven Plugin"
