@@ -1691,6 +1691,7 @@ io.ultreia.java4all.eugene -> eugene:eugene-maven-plugin = "EUGene :: Maven plug
 io.ultreia.java4all.http -> http:http-maven-plugin = "Http :: Maven Plugin"
 io.ultreia.java4all.i18n -> i18n:i18n-maven-plugin = "I18n :: Maven Plugin"
 io.ultreia.java4all.jaxx -> jaxx:jaxx-maven-plugin = "JAXX :: Maven plugin"
+io.ultreia.java4all.jgitflow -> jgitflow:jgitflow-maven-plugin = "JGitFlow :: Maven Plugin"
 io.ultreia.maven -> gitlab:gitlab-maven-plugin = "Gitlab Maven Plugin"
 io.vertx -> vertx:vertx-maven-plugin = "vertx-maven-plugin"
 io.wcm.caravan.maven.plugins -> hal-docs:hal-docs-maven-plugin = "HAL Documentation Maven Plugin"
