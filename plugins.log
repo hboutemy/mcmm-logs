@@ -447,6 +447,7 @@ com.github.davidmoten -> aws:aws-maven-plugin =
 com.github.davidmoten -> decrypt:decrypt-maven-plugin = 
 com.github.davidmoten -> state-machine:state-machine-maven-plugin = "${project.artifactId}"
 com.github.davidmoten -> xuml-tools:xuml-tools-maven-plugin = "${project.artifactId}"
+com.github.deanjameseverett -> k8:k8-maven-plugin = "Kubernetes-Plugin"
 com.github.devmix -> car:maven-car-plugin = "Carbon Application Archive Maven Plugin"
 com.github.dgrandemange -> txnmgrflow-docgen:txnmgrflow-docgen-maven-plugin = "Transaction manager flow doc generator plugin"
 com.github.dkschlos -> wsdlget:wsdlget-maven-plugin = "wsdlget-maven-plugin Maven Mojo"
