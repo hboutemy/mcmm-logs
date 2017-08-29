@@ -3351,6 +3351,7 @@ org.mobicents.tools.snmp.mib -> :maven-plugin = "Restcomm :: SNMP :: MIB :: Mave
 org.mock-server -> mockserver:mockserver-maven-plugin = "MockServer Maven Plugin"
 org.mod4j -> mod4j:mod4j-maven-plugin = "mod4j-maven-plugin"
 org.modeone -> ${prefix}:${plugin-prefix}-maven-plugin = "org.modeone.releasenote - MavenMojo"
+org.moditect -> moditect:moditect-maven-plugin = "ModiTect Maven Plug-In"
 org.mortbay.hightide -> hightide:maven-hightide-plugin = "Maven Hightide Plugin"
 org.mortbay.jetty -> jetty-jspc:jetty-jspc-maven-plugin = "Jetty :: Jetty JSPC Maven Plugin"
 org.mortbay.jetty -> jetty:jetty-maven-plugin = "Jetty :: Jetty Maven Plugin"
