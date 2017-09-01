@@ -298,6 +298,7 @@ com.creditkarma -> exec-jar:exec-jar-plugin = "Executable Jar Maven Plugin"
 com.custardsource.dybdob -> dybdob-mojo:dybdob-mojo = "dybdob Maven Mojo"
 com.custardsource.dybdob -> dybdob-util-mojos:dybdob-util-mojos = "dybdob Maven Utility Mojos"
 com.cvent -> raml-validator:raml-validator = "raml-validator"
+com.cyc.model.maven -> cyc-model-generator:cyc-model-generator-plugin = "Model Generator Plugin"
 com.cyrusinnovation -> start-stubble:start-stubble-plugin = "Start Stubble Maven Plugin"
 com.cyrusinnovation -> start-stubble_2.10:start-stubble-plugin_2.10 = 
 com.cyrusinnovation -> start-stubble_2.9.2:start-stubble-plugin_2.9.2 = 
