@@ -10780,6 +10780,7 @@ org.jetbrains.kotlin:kotlin-stdlib => +0.12.613
 org.jetbrains.kotlin:kotlin-stdlib-validator => +0.12.613
 org.jetbrains.kotlin:kotlin-swing => +0.12.613
 org.jetbrains.kotlin:kunit => +0.12.613
+org.jetbrains.xodus:dnq => +1.0.158
 org.jfaster:mango => +1.2.6
 org.jfree:jfreesvg => +3.0
 org.jfrog.buildinfo:build-info-api => +2.1.1, +2.1.2
