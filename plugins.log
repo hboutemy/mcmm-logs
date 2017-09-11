@@ -683,6 +683,7 @@ com.github.shyiko.usage-maven-plugin -> usage:usage-maven-plugin = "usage-maven-
 com.github.siom79.japicmp -> japicmp:japicmp-maven-plugin = "japicmp-maven-plugin"
 com.github.sixro -> confluence:confluence-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.sixro -> vodafoneitaly:vodafoneitaly-maven-plugin = "Vodafone Italy Maven Plugin"
+com.github.skjolber.log-domain -> log-domain:log-domain-maven-plugin = "log-domain-maven-plugin"
 com.github.skwakman.nodejs-maven-plugin -> nodejs:nodejs-maven-plugin = "nodejs-maven-plugin Maven Plugin"
 com.github.slavaz -> embedded-postgresql:embedded-postgresql-maven-plugin = "Embedded PostgreSQL Maven Plugin"
 com.github.softinica.maven -> jmeter-report:jmeter-report-maven-plugin = "${project.groupId}:${project.artifactId}"
