@@ -3813,7 +3813,7 @@ org.wildfly.maven.plugins -> quickstart-documentation:quickstart-documentation-p
 org.wildfly.plugins -> wildfly-extension:wildfly-extension-maven-plugin = "Wildfly Extension Installer Maven Plugin"
 org.wildfly.plugins -> wildfly:wildfly-maven-plugin = "WildFly Maven Plugin"
 org.wildfly.swarm -> wildfly-swarm-fraction:wildfly-swarm-fraction-plugin = "WildFly Swarm: Fraction Plugin"
-org.wildfly.swarm -> wildfly-swarm:wildfly-swarm-plugin = "WildFly Swarm: Plugin"
+org.wildfly.swarm -> wildfly-swarm:wildfly-swarm-plugin = "Plugin for Maven"
 org.wisdom-framework -> wisdom-asciidoc:wisdom-asciidoc-maven-plugin = 
 org.wisdom-framework -> wisdom-markdown:wisdom-markdown-maven-plugin = 
 org.wisdom-framework -> wisdom:wisdom-maven-plugin = "Maven Wisdom Plugin"
@@ -3915,6 +3915,7 @@ tk.skuro -> plan:plan-maven-plugin = "Maven plugin to analyse the execution plan
 top.marchand.xml -> xquerydoc:xquerydoc-maven-plugin = "xquerydoc-maven-plugin"
 top.marchand.xml -> xslDoc:xslDoc-maven-plugin = "xslDoc-maven-plugin"
 top.marchand.xml.maven -> catalogBuilder:catalogBuilder-maven-plugin = "catalogBuilder-maven-plugin Maven Mojo"
+top.marchand.xml.maven -> gaulois-compiler:gaulois-compiler-maven-plugin = "Gaulois Compiler"
 top.marchand.xml.maven -> xslcompiler:xslcompiler-maven-plugin = "XSL Compiler plugin for Saxon EE"
 tv.bodil -> testlol:maven-testlol-plugin = "Testlol"
 ua.in.dej -> ClosureTemplateCompiller:ClosureTemplateCompiller = "ClosureTemplateCompiller Maven Mojo"
