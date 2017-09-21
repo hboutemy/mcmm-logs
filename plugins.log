@@ -2313,6 +2313,7 @@ org.apache.maven.plugins -> javadoc:maven-javadoc-plugin = "Apache Maven Javadoc
 org.apache.maven.plugins -> javadoc:maven-javadoc-plugin = "Apache Maven Javadoc Plugin"
 org.apache.maven.plugins -> jdeps:maven-jdeps-plugin = "Apache Maven JDeps Plugin"
 org.apache.maven.plugins -> jlink:maven-jlink-plugin = "Apache Maven JLink Plugin"
+org.apache.maven.plugins -> jmod:maven-jmod-plugin = "Apache Maven JMod Plugin"
 org.apache.maven.plugins -> jxr:maven-jxr-plugin = "Maven JXR Plugin"
 org.apache.maven.plugins -> linkcheck:maven-linkcheck-plugin = "Apache Maven Linkcheck Plugin"
 org.apache.maven.plugins -> maven-one-plugin:maven-one-plugin = "Maven 1.x Plugin"
