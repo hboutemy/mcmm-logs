@@ -550,6 +550,7 @@ com.github.jlgrock.javascript-framework -> jspreprocessor:jspreprocessor-maven-p
 com.github.jlgrock.javascript-framework -> source-archive:source-archive-maven-plugin = "Source Archive Maven Plugin"
 com.github.jlgrock.javascript-framework -> source-overlay:source-overlay-maven-plugin = "Source Overlay Maven Plugin"
 com.github.joelittlejohn.embedmongo -> embedmongo:embedmongo-maven-plugin = "embedmongo-maven-plugin"
+com.github.jonasrutishauser.maven.plugin -> bpmn:bpmn-maven-plugin = "BPMN Maven Plugin"
 com.github.jrh3k5 -> flume-agent:flume-agent-maven-plugin = "Flume Agent Maven Plugin"
 com.github.jrh3k5 -> flume:flume-plugin-maven-plugin = "Flume Plugin Maven Plugin"
 com.github.jrh3k5 -> l10n:l10n-maven-plugin = "l10n Maven Plugin"
