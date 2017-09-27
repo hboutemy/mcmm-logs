@@ -17499,7 +17499,6 @@ xfire:xfire-aegis => -0.1-dev
 xfire:xfire-all => +1.0-20050913.005848, +1.0-20050920.030322
 xfire:xfire-java => -0.1-dev
 xfire:xfire-src => +1.2.3, +1.2.4, +1.2.5, +1.2.6
-xml-resolver:xml-resolver => +1.2
 ## xmlbeans:xbean-apache => -1.0-DEV
 xmlbeans:xbean_xpath => +2.2.0
 xmlbeans:xmlbeans => -2.0-dev, +2.2.0, +2.3.0
