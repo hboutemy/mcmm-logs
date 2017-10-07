@@ -3890,6 +3890,7 @@ pl.coderion.mongodb -> mongeez:mongeez-maven-plugin = "Mongeez Maven Plugin"
 pl.decerto -> decerto-liquibase:decerto-liquibase-maven-plugin = "Decerto Liquibase Maven Plugin"
 pl.jojczykp.maven.plugins -> aws:aws-maven-plugin = "${project.groupId}:${project.artifactId}"
 pl.project13.maven -> git-commit-id:git-commit-id-plugin = "Git Commit Id Maven Plugin"
+pl.touk.osgi -> metatype-exporter:metatype-exporter-maven-plugin = "OSGi metatype exporter"
 pl.wavesoftware -> glassfish-console:glassfish-console-maven-plugin = "Glassfish Console - Maven Plugin"
 pl.waw.michal.maven.plugin -> javabean-test-generator:javabean-test-generator-maven-plugin = "Maven Mojo for generating Java Bean unit tests"
 null.plexus -> plexus:plexus-maven-plugin = 
