@@ -566,6 +566,7 @@ com.github.kingamajick.admp -> android-drawables:android-drawables-maven-plugin 
 com.github.klieber -> phantomjs:phantomjs-maven-plugin = "PhantomJS Maven Plugin"
 com.github.knightliao.plugin -> starter-assembly:starter-assembly-maven-plugin = "starter-assembly-maven-plugin"
 com.github.knightliao.plugin -> starter-shade:starter-shade-maven-plugin = "starter-shade-maven-plugin"
+com.github.kobusgrobler -> fileswitcher:fileswitcher-maven-plugin = "FileSwitcher Maven Plugin"
 com.github.kongchen -> swagger:swagger-maven-plugin = "Swagger Maven Plugin"
 com.github.konum -> junitaward:junitaward-maven-plugin = "JUnit Award"
 com.github.koraktor -> mavanagaiata:mavanagaiata = "Mavanagaiata"
