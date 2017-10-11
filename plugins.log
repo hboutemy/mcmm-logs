@@ -294,6 +294,7 @@ com.collaborne.maven -> json-schema-validator:json-schema-validator-maven-plugin
 com.comeon.mojo -> git-changelog:git-changelog-maven-plugin = "git-changelog-maven-plugin"
 com.comeon.mojo -> project-info:project-info-maven-plugin = "project-info-maven-plugin"
 com.commercetools.build.iron-maven-plugin -> iron:iron-maven-plugin = "iron-maven-plugin"
+com.commsen.em -> em:em-maven-plugin = "EM - Maven plugin"
 com.commsen.wedeploy -> wedeploy:wedeploy-maven-plugin = "WeDeploy Maven Plugin"
 com.comoyo.commons -> emjar:emjar-maven-plugin = "emjar-maven-plugin -- for building executable embedded jar files"
 com.comoyo.maven.plugins -> protoc-bundled:protoc-bundled-plugin = "protoc-bundled-plugin -- Batteries included Maven Protobuf compiler Plugin"
@@ -3101,6 +3102,7 @@ org.honton.chas -> process-exec:process-exec-maven-plugin = "Process execution m
 org.honton.chas -> testpojo:testpojo-maven-plugin = "Test Pojos Maven Plugin"
 org.hornetq -> hornetq:hornetq-maven-plugin = 
 org.hudsonci.stapler -> stapler:maven-stapler-plugin = "Maven Stapler plugin"
+org.iartisan -> iartisan-generator-apiDoc:iartisan-generator-apiDoc = "apiDoc plugin"
 org.iartisan -> iartisan-generator:iartisan-generator-plugin = "code plugin"
 org.ibboost.orqa -> orqa:orqa-maven-plugin = "ORQA Maven Plugin"
 org.ikasan -> ikasan-build-parent:ikasan-build-parent-maven-plugin = "IkasanEIP Maven Archetype for a build parent"
