@@ -3909,6 +3909,7 @@ pro.foundev.cassandra -> cassandra-commons-migrations-mvn:cassandra-commons-migr
 pro.savant.circumflex -> cx:maven-cx-plugin = "Circumflex Maven Plugin"
 pw.krejci -> multi-release-jar:multi-release-jar-maven-plugin = "Multi Release JAR Maven Plugin"
 red.sukun1899 -> schemaspy:schemaspy-maven-plugin = "SchemaSpy Maven Plugin"
+report.donut -> donut:donut-maven-plugin = "Donut Maven Plugin"
 ro.isdc.wro4j -> wro4j:wro4j-maven-plugin = "wro4j maven plugin"
 ro.kuberam.maven.plugins -> kuberam-expath:kuberam-expath-plugin = "kuberam expath plugin"
 ro.kuberam.maven.plugins -> kuberam-i18n:kuberam-i18n-plugin = "kuberam i18n plugin"
