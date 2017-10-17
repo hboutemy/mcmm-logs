@@ -1026,6 +1026,7 @@ com.letsdoapps.depsio.maven -> depsio-maven-plugin:depsio-maven-plugin = "Deps.i
 com.lewisd -> lint:lint-maven-plugin = "Maven POM lint plugin"
 com.lewisd -> lint:lint-maven-plugin = "Maven POM lint plugin"
 com.lexicalscope.jewelcli -> jewelclireport:jewelcli-maven-report-plugin = "JewelCli Report Maven Mojo"
+com.lifeonwalden -> ddlgenerator:ddlgenerator-maven-plugin = "ddlgenerator-maven-plugin"
 com.liferay.faces -> com.liferay.faces..:com.liferay.faces.maven.plugin = "Liferay Faces Maven Plugin"
 com.liferay.maven.plugins -> liferay:liferay-maven-plugin = "Liferay Maven Plugin"
 com.likeness.mojo -> numbers:maven-numbers-plugin = ""
@@ -3859,7 +3860,7 @@ org.wildfly.maven.plugins -> quickstart-documentation:quickstart-documentation-p
 org.wildfly.plugins -> wildfly-extension:wildfly-extension-maven-plugin = "Wildfly Extension Installer Maven Plugin"
 org.wildfly.plugins -> wildfly:wildfly-maven-plugin = "WildFly Maven Plugin"
 org.wildfly.swarm -> wildfly-swarm-fraction:wildfly-swarm-fraction-plugin = "WildFly Swarm: Fraction Plugin"
-org.wildfly.swarm -> wildfly-swarm:wildfly-swarm-plugin = "WildFly Swarm: Plugin"
+org.wildfly.swarm -> wildfly-swarm:wildfly-swarm-plugin = "Plugin for Maven"
 org.wisdom-framework -> wisdom-asciidoc:wisdom-asciidoc-maven-plugin = 
 org.wisdom-framework -> wisdom-markdown:wisdom-markdown-maven-plugin = 
 org.wisdom-framework -> wisdom:wisdom-maven-plugin = "Maven Wisdom Plugin"
