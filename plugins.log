@@ -1602,6 +1602,7 @@ guru.nidi.maven.plugins -> atlassian:atlassian-maven-plugin = "${project.artifac
 guru.nidi.maven.plugins -> snippets:snippets-maven-plugin = "${project.artifactId}"
 guru.nidi.maven.plugins -> tools:tools-maven-plugin = "${project.artifactId}"
 guru.nidi.maven.plugins -> use-webjars:use-webjars-maven-plugin = "${project.artifactId}"
+hu.advancedweb -> scott:scott-maven-plugin = "Scott Maven Plugin"
 hu.skawa -> migrator:migrator-maven-plugin = "Maven-Bazel Migration Plugin"
 in.ashwanthkumar -> editsource:maven-editsource = "maven-editsource"
 in.mayurshah -> testng-xml-maker:testng-xml-maker-maven-plugin = "selenium-helper"
@@ -3319,7 +3320,9 @@ org.kevoree.watchdog -> org.kevoree.watchdog.runner:org.kevoree.watchdog.mavenru
 org.kie -> jboss-modules:jboss-modules = "KIE EAP - Maven plugin"
 org.kie -> kie:kie-maven-plugin = "Kie Maven Plugin"
 org.kie.server -> kie-ctrl:kie-server-controller-plugin = "KIE :: Execution Server :: Controller :: Deploy Maven Plugin"
+org.kie.server -> kie-server-controller:kie-server-controller-plugin = "KIE :: Execution Server :: Controller :: Deploy Maven Plugin"
 org.kie.server -> kieserver:kie-server-maven-plugin = "KIE :: Execution Server :: Deploy Maven Plugin"
+org.kie.server -> kie-server:kie-server-maven-plugin = "KIE :: Execution Server :: Deploy Maven Plugin"
 org.kite9 -> kite9-java:kite9-java-maven-plugin = "Kite9 Maven Mojo"
 org.kitesdk -> kite:kite-maven-plugin = "Kite Maven Plugin"
 org.kitteh -> kittehversionizer:kitteh-maven-versionizer = "Kitteh Maven Versionizer Plugin"
@@ -3860,7 +3863,7 @@ org.wildfly.maven.plugins -> quickstart-documentation:quickstart-documentation-p
 org.wildfly.plugins -> wildfly-extension:wildfly-extension-maven-plugin = "Wildfly Extension Installer Maven Plugin"
 org.wildfly.plugins -> wildfly:wildfly-maven-plugin = "WildFly Maven Plugin"
 org.wildfly.swarm -> wildfly-swarm-fraction:wildfly-swarm-fraction-plugin = "WildFly Swarm: Fraction Plugin"
-org.wildfly.swarm -> wildfly-swarm:wildfly-swarm-plugin = "Plugin for Maven"
+org.wildfly.swarm -> wildfly-swarm:wildfly-swarm-plugin = "WildFly Swarm: Plugin"
 org.wisdom-framework -> wisdom-asciidoc:wisdom-asciidoc-maven-plugin = 
 org.wisdom-framework -> wisdom-markdown:wisdom-markdown-maven-plugin = 
 org.wisdom-framework -> wisdom:wisdom-maven-plugin = "Maven Wisdom Plugin"
