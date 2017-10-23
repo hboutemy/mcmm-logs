@@ -1554,6 +1554,7 @@ com.github.rtoshiro.securesharedpreferences:securesharedpreferences => +1.0.1
 com.github.rvesse:airline => +1.0.0, +1.0.1
 com.github.s4u:jfatek => +2.0.0
 com.github.samtools:htsjdk => +1.134
+com.github.sarahbuisson:kotlin-parser => +1.0
 com.github.scalaprops:scalaprops-all_2.13.0-M1 => +0.1.19
 com.github.scalaprops:scalaprops-core_2.10 => +0.1.8, +0.1.9
 com.github.scalaprops:scalaprops-core_2.11 => +0.1.8, +0.1.9
