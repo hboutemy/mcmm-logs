@@ -2292,6 +2292,7 @@ org.apache.httpcomponents -> notice:maven-notice-plugin = "Maven NOTICE and LICE
 org.apache.hyracks -> hyracks-virtualcluster:hyracks-virtualcluster-maven-plugin = "Hyracks VirtualCluster Maven Plugin"
 org.apache.hyracks -> license-automation:license-automation-plugin = 
 org.apache.isis.tool -> isis:isis-maven-plugin = "Apache Isis Maven Plugin (isis-maven-plugin)"
+org.apache.jackrabbit -> filevault-package:filevault-package-maven-plugin = "Apache Jackrabbit FileVault - Package Maven Plugin"
 org.apache.james -> mailetdocs:mailetdocs-maven-plugin = "Apache James :: Mailetdocs Maven Plugin"
 org.apache.james -> mailetdocs:maven-mailetdocs-plugin = "Mailetdocs Maven Plugin"
 org.apache.james -> mpt:maven-mpt-plugin = "Apache James MPT Maven2 Plugin"
