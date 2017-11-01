@@ -1069,6 +1069,7 @@ com.mtvnet.boxspring -> boxspring:boxspring-maven-plugin = "Maven BoxSpring Plug
 com.mycila -> license:license-maven-plugin = "license-maven-plugin"
 com.mycila.maven-license-plugin -> license:maven-license-plugin = "${project.artifactId}"
 com.myjavadoc -> hibernate4:hibernate4-maven-plugin = "hibernate4-maven-plugin Maven Plugin"
+com.mypurecloud -> mock-kinesis:mock-kinesis-maven-plugin = "Mock AWS Kinesis maven plugin"
 com.mysema.maven -> apt:apt-maven-plugin = "Maven - APT plugin"
 com.mysema.maven -> apt:maven-apt-plugin = "Maven - APT plugin"
 com.mysema.maven -> version:version-maven-plugin = "Maven - Version plugin"
