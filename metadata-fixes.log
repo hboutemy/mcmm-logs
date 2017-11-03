@@ -2196,6 +2196,7 @@ com.liferay.portal:util-java => +5.2.3, +6.0.2, +6.0.3, +6.0.4, +6.0.5, +6.0.6, 
 com.liferay.portal:util-slf4j => +6.1.2, +6.2.0-B1, +6.2.0-B2, +6.2.0-B3, +6.2.0-RC1, +6.2.0-RC2, +6.2.0-RC3, +6.2.0-RC4, +6.2.0-RC5, +7.0.0-nightly
 com.liferay.portal:util-taglib => +5.2.3, +6.0.2, +6.0.3, +6.0.4, +6.0.5, +6.0.6, +6.1.0, +6.1.1, +6.1.2, +6.2.0-B2, +6.2.0-B3, +6.2.0-M5, +6.2.0-M6, +6.2.0-RC1, +6.2.0-RC2, +6.2.0-RC3, +6.2.0-RC4, +6.2.0-RC5, +7.0.0-nightly
 com.liferay.webjars:com.liferay.webjars.alloy-ui => -3.0.3-deprecated.20
+com.liferay.webjars:com.liferay.webjars.clay => +2.0.0-beta.0
 com.liferay.webjars:senna.js => -1.0.0-alpha.5, -1.0.0-alpha.5.2
 com.lihaoyi:ammonite-sshd_2.10.4 => +COMMIT-6663d65
 com.linecorp.armeria:armeria => -0.6.3.Final, -0.35.0
