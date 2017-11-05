@@ -950,6 +950,7 @@ com.io7m.jpra -> com.io7m.jpra..:com.io7m.jpra.maven.plugin = "com.io7m.jpra.mav
 com.io7m.jpra -> io7m-jpra:io7m-jpra-maven-plugin = "io7m-jpra-maven-plugin"
 com.io7m.jstructural -> io7m-jstructural:io7m-jstructural-maven-plugin = "${project.artifactId}"
 com.io7m.kstructural -> io7m-kstructural:io7m-kstructural-maven-plugin = "io7m-kstructural-maven-plugin"
+com.io7m.minisite -> com.io7m.minisite._:com.io7m.minisite.maven_plugin = "com.io7m.minisite.maven_plugin"
 com.io7m.saxon-plugin -> io7m-saxon:io7m-saxon-plugin = "io7m-saxon-plugin"
 com.iodesystems -> whatjdk:whatjdk-maven-plugin = 
 com.iorga -> ivif:ivif-maven-plugin = "IVIF Maven plugin"
