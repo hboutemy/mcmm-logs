@@ -1686,6 +1686,7 @@ io.github.jeffskj.cdversions -> cd-versions:cd-versions-maven-plugin = "cd-versi
 io.github.livingdocumentation -> livingdoc:livingdoc-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.marmer.testutils -> hamcrest-matcher-generator:hamcrest-matcher-generator-maven-plugin = "hamcrest-matcher-generator-maven-plugin"
 io.github.matf -> layer-dependency-check:layer-dependency-check-maven-plugin = "${project.groupId}:${project.artifactId}"
+io.github.mcwarman -> jfiglet:jfiglet-maven-plugin = "JFiglet Maven Plugin"
 io.github.michaldo -> nashorn:nashorn-maven-plugin = "nashorn-maven-plugin Maven Plugin"
 io.github.olivierlemasle.maven -> plaintext:plaintext-maven-plugin = "plaintext-maven-plugin Maven Plugin"
 io.github.stackinfo -> stackinfo:stackinfo-maven-plugin = "StackInfo Maven Plugin"
