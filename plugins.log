@@ -687,6 +687,7 @@ com.github.s4u.plugins -> sitemapxml:sitemapxml-maven-plugin = "Maven Sitemap ge
 com.github.saiprasadkrishnamurthy -> cuke-style:cuke-style-maven-plugin = "Cukestyle plugin"
 com.github.samskiter.jsonschema2pojo -> jsonschema2pojo:jsonschema2pojo-maven-plugin = "jsonschema2pojo-maven-plugin"
 com.github.sanity4j -> sanity4j:sanity4j = "Sanity4J"
+com.github.sarahbuisson -> universal-module-aggregator:maven-universal-module-aggregator-plugin = "maven-universal-module-aggregator-plugin"
 com.github.sarxos -> fasm-compiler:fasm-compiler-plugin = "FASM Compiler Maven Plugin"
 com.github.sarxos -> overcast:overcast-maven-plugin = "Overcast Maven Plugin"
 com.github.scizeron.jidr -> jidr-app:jidr-app-maven-plugin = "Jidr App Maven Plugin"
