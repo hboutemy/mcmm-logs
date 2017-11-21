@@ -244,6 +244,7 @@ com.bugvm -> bugvm:bugvm-maven = "BugVM Maven"
 com.buschmais.jqassistant -> jqassistant:jqassistant-maven-plugin = "jQAssistant Plugin for Apache Maven"
 com.buschmais.jqassistant.maven -> jqassistant:jqassistant-maven-plugin = 
 com.buschmais.jqassistant.scm -> jqassistant:jqassistant-maven-plugin = 
+com.busyducks -> speakingDuck:speakingDuck-maven-plugin = "speakingDuck"
 com.byclosure.maven.plugins -> bundle:bundler-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.byclosure.maven.plugins -> byclosure-plugins:google-storage-upload = "com.byclosure.maven.plugins:google-storage-upload"
 com.byclosure.maven.plugins -> phonegap:phonegap-maven-plugin = "phonegap-maven-plugin"
