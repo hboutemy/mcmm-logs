@@ -251,6 +251,7 @@ com.byclosure.maven.plugins -> phonegap:phonegap-maven-plugin = "phonegap-maven-
 com.capgemini.platina.maven -> aspectj:aspectj-maven-plugin = "AspectJ compiler Maven Plugin"
 com.capgemini.platina.maven -> release:maven-release-plugin = "Maven Release Plugin"
 com.carmatechnologies.maven -> properties-files:properties-files-maven-plugin = "${project.artifactId}"
+com.carrotgarden.maven -> bintray:bintray-maven-plugin = "Bintray Maven Plugin"
 com.carrotgarden.maven -> carrotaws:carrot-maven-aws-plugin = ""
 com.carrotgarden.maven -> carrotbatik:carrot-maven-batik-plugin = ""
 com.carrotgarden.maven -> carrotimage4j:carrot-maven-image4j-plugin = ""
