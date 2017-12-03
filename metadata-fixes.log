@@ -8677,7 +8677,6 @@ org.datanucleus:datanucleus-rdbms => +4.1.1
 org.dbflute:dbflute-runtime => +1.1.0-sp5, +1.1.0-sp5-RC1
 org.dbflute.mail:mailflute => +0.4.0-RCA, +0.4.0-RCB, +0.4.0-RCC
 org.dbtools:dbtools-gen => -3.1.1
-org.dbunit:dbunit => +2.2, +2.2.1, +2.2.2, +2.2.3, +2.3.0, +2.4.0, +2.4.1, +2.4.2, +2.4.3, +2.4.4, +2.4.5, +2.4.6, +2.4.7, +2.4.8, +2.4.9
 org.ddogleg:ddogleg => -0.9
 org.devefx:validator-web => +1.0.1-alphal
 org.devlib.schmidt:imageinfo => +1.9
