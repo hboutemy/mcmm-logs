@@ -19772,6 +19772,7 @@ tomcat:tomcat4-coyote => +4.1.36
 tools.xor:xor => -1.2.14
 top.chenat:common-dao => +1.0
 top.hmtools:hm-tools-common => +0.0.1.beta.20171128
+top.hmtools:spring-boot-starter-js-css => +0.0.1.beta-20171203
 top.marchand.xml.maven:gaulois-compiler-maven-plugin => +1.0.0-RC1
 torque:maven-torque-plugin => -3.1.1-dev, +3.2, +3.3, +3.3-RC1, +3.3-RC2, +3.3-RC3
 torque:torque => -3.1-dev, -3.1.1-dev, -3.0-b3-dev.20020711.025538, -3.0-b4-dev.20020724.014157, -3.0-b4-dev.20020814.103755, +3.3, +3.3-RC1, +3.3-RC2, +3.3-RC3
