@@ -3949,7 +3949,7 @@ org.wildfly.maven.plugins -> quickstart-documentation:quickstart-documentation-p
 org.wildfly.plugins -> wildfly-extension:wildfly-extension-maven-plugin = "Wildfly Extension Installer Maven Plugin"
 org.wildfly.plugins -> wildfly:wildfly-maven-plugin = "WildFly Maven Plugin"
 org.wildfly.swarm -> wildfly-swarm-fraction:wildfly-swarm-fraction-plugin = "WildFly Swarm: Fraction Plugin"
-org.wildfly.swarm -> wildfly-swarm:wildfly-swarm-plugin = "Plugin for Maven"
+org.wildfly.swarm -> wildfly-swarm:wildfly-swarm-plugin = "WildFly Swarm: Plugin"
 org.wisdom-framework -> wisdom-asciidoc:wisdom-asciidoc-maven-plugin = 
 org.wisdom-framework -> wisdom-markdown:wisdom-markdown-maven-plugin = 
 org.wisdom-framework -> wisdom:wisdom-maven-plugin = "Maven Wisdom Plugin"
