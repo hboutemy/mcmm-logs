@@ -461,6 +461,7 @@ com.github.codeframes -> hal-tooling-api-doc:hal-tooling-api-doc-maven-plugin = 
 com.github.coderepositories -> jcommonss-mbg:jcommons-plugins-mbg = "jcommons-plugins-mbg Maven Plugin"
 com.github.coderepositories -> mbg:mbg-maven-plugin = "mbg-maven-plugin Maven Plugin"
 com.github.coderepositories -> mybatis-auxiliary:mybatis-auxiliary-maven = "mybatis-auxiliary-maven Maven Plugin"
+com.github.cradloff -> fit:fit-maven-plugin = "Fit Maven Plugin"
 com.github.crazyfrozenpenguin -> jasminejvm:jasminejvm-maven-plugin = "jasminejvm-maven-plugin"
 com.github.crisposs -> jabsc:jabsc-maven-plugin = "Maven Plugin for ABS to Java Compiler (jabsc)"
 com.github.ctalau -> cporder:cporder-maven-plugin = "cporder Maven plugin"
