@@ -627,6 +627,7 @@ com.github.maxxkrakoa.lineman-maven-plugin -> lineman:lineman-maven-plugin = "li
 com.github.mcheely -> requirejs:requirejs-maven-plugin = "RequireJS Maven Plugin"
 com.github.mdr -> dependencygraph:maven-dependencygraph-plugin = "Maven Dependency Graph Plugin"
 com.github.mike10004 -> concatenate:concatenate-maven-plugin = "concatenate-maven-plugin"
+com.github.mike10004 -> crxtool:crxtool-maven-plugin = "crxtool-maven-plugin"
 com.github.mike10004 -> debian:debian-maven-plugin = "Debian Maven Plugin"
 com.github.mike10004 -> jcabi-mysql:jcabi-mysql-maven-plugin = "jcabi-mysql-maven-plugin"
 com.github.mikesena.maven.plugins -> environments:environments-maven-plugin = "Environments Maven Plugin"
