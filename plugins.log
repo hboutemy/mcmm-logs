@@ -759,6 +759,7 @@ com.github.swissquote -> zet:zet-maven-plugin =
 com.github.sylvainlaurent.maven -> swagger-validator:swagger-validator-maven-plugin = "swagger-validator-maven-plugin Maven Plugin"
 com.github.sylvainlaurent.maven -> yaml-json-validator:yaml-json-validator-maven-plugin = "yaml-json-validator-maven-plugin Maven Plugin"
 com.github.taodong -> ngcli:ngcli-maven-plugin = "Angular Client Maven Plugin"
+com.github.tashoyan -> scalariform:scalariform-maven-plugin = "Maven Scalariform Plugin"
 com.github.taxone.plugins -> classpath:classpath-maven-plugin = "ClassPath Maven Plugin"
 com.github.techflavors -> smc:smc-maven-plugin = "Simple Message or Object Conversion Component"
 com.github.temyers -> cucumber-jvm-parallel:cucumber-jvm-parallel-plugin = "cucumber-jvm-parallel-plugin Maven Plugin"
