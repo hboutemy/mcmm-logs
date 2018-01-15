@@ -2139,6 +2139,7 @@ net.sulea.cristian -> set-license:maven-plugin-set-license = "Maven Plugin SET L
 net.surguy -> displaylicense:maven-displaylicense-plugin = "maven-displaylicense-plugin Maven Mojo"
 net.tascalate.javaflow -> net.tascalate.javaflow.tools.:net.tascalate.javaflow.tools.maven = "Tascalate JavaFlow / Tools / Apache Maven"
 net.technearts -> external-resources:external-resources-maven-plugin = "External Resources Maven Plugin"
+net.technearts -> remote-enforcer:remote-enforcer-maven-plugin = "remote-dependency Maven Plugin"
 net.thucydides.maven.plugins -> thucydides:maven-thucydides-plugin = "Thucydides Maven Plugin"
 net.thucydides.maven.plugins -> thucydides-dashboard:thucydides-dashboard-maven-plugin = "thucydides-dashboard Maven Mojo"
 net.tietema.versioning -> versioning:versioning-maven-plugin = "Versioning Maven Plugin"
