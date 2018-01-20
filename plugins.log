@@ -791,6 +791,7 @@ com.github.vbmacher -> cup:cup-maven-plugin = "Java CUP Maven Plugin"
 com.github.vdubus -> velocity:velocity-maven-plugin = "velocity-maven-plugin Maven Mojo"
 com.github.veithen.alta -> alta:alta-maven-plugin = "Alta Maven Plugin"
 com.github.veithen.phos -> enforcer:enforcer-maven-plugin = "Phos Enforcer Plugin"
+com.github.veithen.phos -> jacoco:jacoco-maven-plugin = 
 com.github.venkatramanm.swf-all -> swf:swf-maven-plugin = "swf-maven-plugin Maven Mojo"
 com.github.verylazyboy -> sablecc:sablecc-maven-plugin = "sablecc-maven-plugin"
 com.github.vincent-fuchs -> cucumber-results-aggregator:cucumber-results-aggregator-plugin = "cucumber-results-aggregator-plugin"
