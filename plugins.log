@@ -1802,6 +1802,7 @@ io.redlink.ssix.moven -> moven:moven-maven-plugin = "Moven Maven Plugin"
 io.reformanda.semper -> dependencyversion:dependencyversion-maven-plugin = "Maven Dependency Version Plugin"
 io.repaint.maven -> tiles:tiles-maven-plugin = "Tiles Maven Plugin"
 io.rhpatrick.maven -> properties-toolchain:properties-toolchain-plugin = "Properties Toolchain Maven Plugin"
+io.rhpatrick.mojo -> wlst-test:wlst-test-maven-plugin = "WLST Test Maven Plugin"
 io.ruck -> classfinder:classfinder-maven-plugin = 
 io.rudin.webdoc -> webdoc:webdoc-maven-plugin = 
 io.saagie -> saagie:saagie-maven-plugin = "saagie-maven-plugin"
