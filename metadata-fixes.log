@@ -20463,6 +20463,7 @@ org.wso2.orbit.org.apache.httpcomponents:httpclient => -4.3.1.wso2v2, -4.3.2.wso
 org.wso2.orbit.org.apache.ode:ode => -1.3.5-wso2v15, -1.3.5-wso2v16, -1.3.5-wso2v17, -1.3.5-wso2v18
 org.wso2.orbit.org.apache.solr:solr => -5.2.1.wso2v1
 ## org.wso2.orbit.org.opensaml:opensaml => -2.6.4.wso2v1, -2.6.4.wso2v2, -2.6.4.wso2v3, -2.6.4.wso2v4, -2.6.6.wso2v1
+org.wso2.orbit.org.owasp:csrfguard => -3.1.0.wso2v1, -3.1.0.wso2v2
 ## org.wso2.orbit.org.owasp.encoder:encoder => -1.2.0.wso2v1, -1.2.0.wso2v2
 ## org.wso2.orbit.org.quartz-scheduler:quartz => -2.3.0.wso2v1, -2.3.0.wso2v2
 org.wso2.orbit.org.reflections:reflections => -0.9.10.wso2v1

@@ -619,6 +619,7 @@ com.github.lucapino -> dependency:dependency-maven-plugin = "Maven Dependency Pl
 com.github.lucapino -> jira:jira-maven-plugin = "Maven Jira Plugin"
 com.github.lucapino -> versions-list:versions-list-maven-plugin = "Maven Version List Plugin"
 com.github.luccappellaro -> jzopfli-mvn:jzopfli-mvn = "JZopfli Maven"
+com.github.luismanuelamengual -> warlauncher:warlauncher-maven-plugin = "War Launcher Maven Plugin"
 com.github.lynzabo.codegen -> codegen:codegen-mavenplugin = "codegen-mavenplugin"
 com.github.m451 -> o11n-deploy:o11n-deploy-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.madgnome -> h2spec:h2spec-maven-plugin = "h2spec-maven-plugin Maven Mojo"
