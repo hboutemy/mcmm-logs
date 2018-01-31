@@ -1776,6 +1776,7 @@ io.hawt -> hawtio-json-schema-generator:hawtio-json-schema-generator-plugin = "$
 io.hawt -> hawtio:hawtio-maven-plugin = "${project.artifactId}"
 io.ingenieux -> ngrok:ngrok-maven-plugin = "ngrok maven plugin"
 io.ingenieux.lambada -> lambada:lambada-maven-plugin = 
+io.jenkins.updatebot -> updatebot:updatebot-maven-plugin = "updatebot :: maven-plugin"
 io.joshworks -> snappy:snappy-maven-plugin = 
 io.joynr.tools.generator -> joynr-generator:joynr-generator-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.koara -> koara:koara-maven-plugin = "first-maven-plugin Maven Mojo"
