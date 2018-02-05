@@ -2690,6 +2690,7 @@ org.basepom.maven -> duplicate-finder:duplicate-finder-maven-plugin = "duplicate
 org.basepom.maven -> property-helper:property-helper-maven-plugin = "Property Helper Maven Plugin root"
 org.batoo.jpa -> batoo:batoo-maven-plugin = "Batoo JPA Maven Plugin"
 org.beamfoundry.bundles.spring-dm -> org.beamfoundry.bundles.spring-dm-bundle-archetype:org.beamfoundry.bundles.spring-dm-bundle-archetype = "Spring DM Archetype"
+org.beangle -> style:style-maven-plugin = "Beangle Code Style Maven Plugin"
 org.beangle.maven -> beangle:beangle-maven-plugin = "Beangle Maven Plugin"
 org.bedework -> bw-deploy:bw-deploy-maven-plugin = 
 org.bekwam -> talendroutine:talendroutine-maven-plugin = "TalendRoutine Maven Plugin"

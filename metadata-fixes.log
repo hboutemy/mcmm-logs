@@ -16876,6 +16876,7 @@ org.webjars.bower:vue => -1.0.17
 org.webjars.bower:vue-router => -0.7.11
 org.webjars.bower:zui => -1.8.0
 org.webjars.bowergithub.brightspaceui:icons => +4.6.0
+org.webjars.bowergithub.vaadin:vaadin-grid => +5.0.0-alpha7
 org.webjars:bpmn-js => +0.10.3
 org.webjars:datatables => +1.10.7
 org.webjars:datatables-plugins => +1.10.7
