@@ -3067,6 +3067,7 @@ org.dbtools -> dbtools:maven-dbtools-plugin = "DBTools Maven Plugin"
 org.deflaker -> deflaker:deflaker-maven-plugin = 
 org.dellroad -> dellroad-stuff:dellroad-stuff-maven-plugin = "DellRoad Stuff Maven Plugin"
 org.develrulez.thinjar -> thin-jar:thin-jar-maven-plugin = "Thin-JAR Maven Plugin"
+org.devocative -> demeter:demeter-maven-plugin = "${project.groupId}:${project.artifactId}"
 org.devzendo -> CrossPlatformLauncherPlugin:CrossPlatformLauncherPlugin = "CrossPlatformLauncherPlugin"
 org.devzendo -> cross-platform-launcher:cross-platform-launcher-plugin = "cross-platform-launcher-plugin"
 org.dhatim -> dropwizard-launcher:dropwizard-launcher-maven-plugin = "${project.groupId}:${project.artifactId}"
