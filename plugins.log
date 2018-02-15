@@ -1985,6 +1985,7 @@ net.imadz -> lifecycle-static-weaving:lifecycle-static-weaving-maven-plugin = "L
 net.imagej -> imagej:imagej-maven-plugin = "ImageJ Maven plugin"
 net.israfil.mojo -> flex2:maven-flex2-plugin = "Flex 2.0 maven plugin"
 net.israfil.mojo -> flex2support:maven-flex2-plugin-support = "Flex 2.0 maven plugin support classes"
+net.itarray -> automotion:automotion-maven-plugin = "Automotion Maven plugin"
 net.jangaroo -> exml:exml-maven-plugin = "exml-maven-plugin"
 net.jangaroo -> ext-xml:ext-xml-maven-plugin = "Maven Plugin: Ext-XML to AS3"
 net.jangaroo -> jangaroo-lifecycle:jangaroo-lifecycle = "Jangaroo Build Lifecycle + Artifact Handling"
