@@ -3059,6 +3059,7 @@ org.cruxframework.plugin -> crux:crux-maven-plugin = "Crux Maven Plugin"
 org.cryptable.zap -> zap:zap-maven-plugin = "${project.groupId}:${project.artifactId}"
 org.cryptoclassloader -> cryptoclassloader:cryptoclassloader-maven-plugin = "cryptoclassloader-maven-plugin"
 org.cthul.api4j -> api4j:api4j-maven-plugin = "Api4J Maven Plugin"
+org.cubeengine.maven.plugins -> githead:githead-maven-plugin = "${project.artifactId}"
 org.cubeengine.maven.plugins -> ore-deploy:ore-deploy-maven-plugin = "${project.artifactId}"
 org.cubeengine.maven.plugins -> pericopist:pericopist-maven-plugin = 
 org.cyclopsgroup -> flatsite:flatsite-maven-plugin = "Flatsite Maven2 Plugin"
