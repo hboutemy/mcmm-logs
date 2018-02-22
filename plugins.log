@@ -760,6 +760,7 @@ com.github.sriki77 -> keychain-passwd:keychain-passwd-maven-plugin = "keychain-p
 com.github.stadler -> hibernate-tools:hibernate-tools-maven-plugin = "Hibernate Tools maven plugin"
 com.github.stefanbirkner -> no-primitives:no-primitives-maven-plugin = "No Primitives Maven Plugin"
 com.github.stefanbirkner -> semantic-wrapper:semantic-wrapper-maven-plugin = "Semantic Wrapper Maven Plugin"
+com.github.stephenc.continuous -> git-timestamp:git-timestamp-maven-plugin = "Git Timestamp Maven Plugin"
 com.github.stephenc.definalizer -> definalizer:definalizer-maven-plugin = "Stephen's Definalizer Maven Plugin"
 com.github.stephenc.diffpatch -> diffpatch:diffpatch-maven-plugin = "Diff-Patch Maven Plugin"
 com.github.stephenc.java-iso-tools -> iso9660:iso9660-maven-plugin = "Iso9660 Maven Plugin"
