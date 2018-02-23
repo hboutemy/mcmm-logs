@@ -1771,6 +1771,7 @@ io.github.codemumbler.maven.plugin -> mdbconverter:mdbconverter = "mdbconverter 
 io.github.divinespear -> jpa-schema:jpa-schema-maven-plugin = "jpa-schema-maven-plugin"
 io.github.faketime-java -> faketime:faketime-maven-plugin = "FakeTime Maven Plugin"
 io.github.flaw101 -> concat:concat-maven-plugin = "Concat Maven Plugin"
+io.github.jdlopez -> dbdoc:dbdoc-maven-plugin = "dbdoc Maven Plugin"
 io.github.jebeaudet -> flyway-validator:flyway-validator-maven-plugin = "flyway-validator-maven-plugin"
 io.github.jeffskj.cdversions -> cd-versions:cd-versions-maven-plugin = "cd-versions-maven-plugin Maven Plugin"
 io.github.lbellonda -> checklocale:checklocale = "Check Locale Maven Mojo"
