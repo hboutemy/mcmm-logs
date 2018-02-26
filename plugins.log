@@ -3273,6 +3273,7 @@ org.honton.chas -> dependency:dependency-maven-plugin = "Dependency Manifest Mav
 org.honton.chas -> exists:exists-maven-plugin = "Artifact Exists Maven Plugin"
 org.honton.chas -> git-tag:git-tag-maven-plugin = "Git Tag Maven Plugin"
 org.honton.chas -> process-exec:process-exec-maven-plugin = "Process execution maven plugin"
+org.honton.chas -> readfiles:readfiles-maven-plugin = "Read Files Maven Plugin"
 org.honton.chas -> testpojo:testpojo-maven-plugin = "Test Pojos Maven Plugin"
 org.hornetq -> hornetq:hornetq-maven-plugin = 
 org.hudsonci.stapler -> stapler:maven-stapler-plugin = "Maven Stapler plugin"
