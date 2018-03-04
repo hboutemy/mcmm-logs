@@ -1102,6 +1102,7 @@ com.lifeonwalden -> ddlgenerator:ddlgenerator-maven-plugin = "ddlgenerator-maven
 com.liferay.faces -> com.liferay.faces..:com.liferay.faces.maven.plugin = "Liferay Faces Maven Plugin"
 com.liferay.maven.plugins -> liferay:liferay-maven-plugin = "Liferay Maven Plugin"
 com.likeness.mojo -> numbers:maven-numbers-plugin = ""
+com.listeningframework.boot -> listening-boot-codegen:listening-boot-codegen = 
 com.lotaris.maven.plugins -> lotaris-dbunit:lotaris-dbunit-maven-plugin = "Lotaris DB Unit Maven Plugin"
 com.lotaris.maven.plugins -> lotaris-glassfish:lotaris-glassfish-maven-plugin = "Lotaris Glassfish Maven Plugin"
 com.lotaris.maven.rox.plugins -> rox-jee-itf:rox-jee-itf-maven-plugin = "Lotaris Maven ROX Java EE ITF Plugin"
