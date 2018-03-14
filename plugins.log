@@ -3605,6 +3605,7 @@ org.linuxstuff.maven -> trinidad:trinidad-maven-plugin = "trinidad-maven-plugin 
 org.liquibase -> liquibase:liquibase-maven-plugin = "Liquibase Maven Plugin"
 org.liquigraph -> liquigraph:liquigraph-maven-plugin = "liquigraph-maven-plugin"
 org.llorllale -> loggit:loggit-maven-plugin = "loggit-maven-plugin"
+org.llorllale -> releasecat:releasecat-maven-plugin = "releasecat-maven-plugin"
 org.lucee -> lco:lco-plugin = "lco-maven-plugin"
 org.m1theo -> apt-repo:apt-repo = "apt-repo Maven Plugin"
 org.mdlavin -> tycho.junit.fixer:tycho.junit.fixer = "tycho.junit.fixer Maven Plugin"
