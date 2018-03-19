@@ -4985,6 +4985,7 @@ io.apiman.plugins:apiman-plugins-test-policy => -1.2.2.Final, +1.0.2.Final, +1.0
 io.apiman.plugins:apiman-plugins-transformation-policy => -1.2.2.Final, +1.1.4.Final, +1.1.5.Final, +1.1.6.Final, +1.1.7.Final, +1.1.8.Final, +1.2.0.Alpha1, +1.2.0.Alpha2, +1.2.0.Alpha3, +1.2.0.Beta1
 io.appbricks:appbricks-archetype-dubbox-service => +3.0, +3.0.1
 io.appium:java-client => +3.0.0
+io.astraea:rf_2.11 => +0.6.0
 io.atlassian.aws-scala:aws-scala-cloudformation_2.11 => -8.0.2
 io.atlassian.aws-scala:aws-scala-cloudformation_2.12 => -8.0.2
 io.atlassian.aws-scala:aws-scala-core_2.11 => -8.0.2
