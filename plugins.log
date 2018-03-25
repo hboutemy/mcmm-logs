@@ -1148,6 +1148,7 @@ com.messapix.ftatr.jfxmobile -> jfxmobile:jfxmobile-maven-plugin = "jfxmobile Ma
 com.michaelhradek -> aurkitu:aurkitu-maven-plugin = "Aurkitu Maven Plugin"
 com.microsoft.azure -> azure-functions:azure-functions-maven-plugin = "Maven Plugin for Azure Functions"
 com.microsoft.azure -> azure-webapp:azure-webapp-maven-plugin = "Maven Plugin for Azure Web Apps"
+com.microsoft.azure -> bundler:bundler-maven-plugin = "Maven Artifacts Bundler"
 com.microsoft.azure -> webapp:webapp-maven-plugin = "Azure Web Apps Maven Plugin"
 com.mmakowski -> specs2:maven-specs2-plugin = "specs2 Maven plugin"
 com.mmakowski -> specs2:specs2-maven-plugin = "specs2 Maven plugin"
