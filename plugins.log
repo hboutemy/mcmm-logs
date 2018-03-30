@@ -431,6 +431,7 @@ com.getperka.flatpack -> flatpack-fast:flatpack-fast-maven-plugin = "FlatPack Au
 com.gfk.senbot -> senbot:senbot-maven-plugin = "senbot-maven-plugin"
 com.gitee.l0km -> cassdk-service:cassdk-service-maven-plugin = "cassdk-service-maven-plugin"
 com.gitee.l0km -> cassdk-wrapper-service:cassdk-wrapper-service-maven-plugin = "cassdk-wrapper-service-maven-plugin"
+com.gitee.l0km -> codegen-decorator:codegen-decorator-maven-plugin = "codegen-decorator-maven-plugin"
 com.gitee.l0km -> decorator:decorator-maven-plugin = "decorator-maven-plugin"
 com.gitee.l0km -> facelogservice:facelogservice-maven-plugin = "facelogservice-maven-plugin"
 com.gitee.l0km -> swift2thrift:swift2thrift-maven-plugin = "swift2thrift-maven-plugin"
