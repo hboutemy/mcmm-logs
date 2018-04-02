@@ -2003,6 +2003,7 @@ me.noroutine -> tobacco:tobacco = "tobacco maven plugin for managing Tobacco app
 me.nqkdev.plugins -> hamcrest-proto:hamcrest-proto-plugin = "Hamcrest Matcher Generator for Protobuf"
 me.springframework -> spring-me:spring-me-maven-plugin = "Spring ME Maven Plugin"
 ml.alternet -> prop-bind:prop-bind-maven-plugin = "Alternet Tools - Properties Binder Maven Plugin"
+name.valery1707.kaitai -> kaitai:kaitai-maven-plugin = "Kaitai Maven Plugin"
 net.adamcin -> graniteit:graniteit-maven-plugin = "Granite IT Maven Plugin"
 net.adamcin -> scalamojo:scalamojo-maven-plugin = "Scala Mojo Maven Plugin"
 net.adamcin -> snagjar:snagjar-maven-plugin = "Snag Jar Maven Plugin"
