@@ -1812,6 +1812,7 @@ io.fares.maven.plugins -> design-builder:design-builder-maven-plugin = "Design B
 io.fastup -> fastup:fastup-maven-plugin = "fastup-maven-plugin"
 io.fastup -> s3-upload:s3-upload-maven-plugin = "S3 upload maven plugin"
 io.gatling -> gatling:gatling-maven-plugin = "gatling-maven-plugin"
+io.gatling -> gatlingshade:gatling-maven-shade-plugin = "Gatling Maven Shade Plugin, fork of Apache's"
 io.gatling -> shade:maven-shade-plugin = "Apache Maven Shade Plugin"
 io.github.agileek -> java-checksum-flyway:java-checksum-flyway-maven-plugin = "${project.artifactId}"
 io.github.bbarker -> scalaxb:scalaxb-maven-plugin = "scalaxb Maven Plugin"
