@@ -2785,6 +2785,7 @@ org.beamfoundry.bundles.spring-dm -> org.beamfoundry.bundles.spring-dm-bundle-ar
 org.beangle -> style:style-maven-plugin = "Beangle Code Style Maven Plugin"
 org.beangle.maven -> beangle:beangle-maven-plugin = "Beangle Maven Plugin"
 org.bedework -> bw-deploy:bw-deploy-maven-plugin = 
+org.bedework -> bw-utildeploy:bw-util-maven-deploy = 
 org.bekwam -> talendroutine:talendroutine-maven-plugin = "TalendRoutine Maven Plugin"
 org.betteridiots.ddf -> ddf-maven-plugin:ddf-maven-plugin = "DDF Maven Plugin"
 org.betteridiots.ddf -> ddf:ddf-maven-plugin = "DDF Maven Plugin"
