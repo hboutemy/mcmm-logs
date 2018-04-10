@@ -723,6 +723,7 @@ com.github.podal.codejavadoc -> codejavadoc:codejavadoc-maven-plugin = "Copy Cod
 com.github.praxissoftware.maven.plugins -> features:features-maven-plugin = "Praxis Software - Maven Plugins - Features Maven Plugin"
 com.github.protobufel -> resource-exec:resource-exec-maven-plugin = "Resource Friendly Maven Exec Plugin"
 com.github.psorobka -> appium:appium-maven-plugin = "Appium Maven Plugin 1.0"
+com.github.ptdien -> rancher:rancher-maven-plugin = "Rancher Maven Plugin"
 com.github.puddingspudding -> confluence:confluence-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.pudovika -> uglifyjs-cleancss:uglifyjs-cleancss-maven-plugin = "uglifyjs-cleancss-maven-plugin"
 com.github.pukkaone -> closure-compiler:closure-compiler-maven-plugin = "${project.artifactId}"
