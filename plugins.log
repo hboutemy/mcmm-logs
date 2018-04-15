@@ -1945,6 +1945,7 @@ io.timothyheider -> springrestdoc:springrestdoc-maven-plugin = "Spring REST Docu
 io.toast-tk -> toast-tk:toast-tk-maven-plugin = "Toast Toolkit - Maven Plugin"
 io.trygvis.usb -> nar:maven-nar-plugin = "Maven NAR Plugin"
 io.tvarit -> tvarit:tvarit-maven-plugin = "tvarit-maven-plugin"
+io.ultreia.java4all.config -> config:config-maven-plugin = "Config :: Maven plugin"
 io.ultreia.java4all.config -> nuiton-config:nuiton-config-maven-plugin = "Nuiton Config :: Maven plugin"
 io.ultreia.java4all.eugene -> eugene:eugene-maven-plugin = "EUGene :: Maven plugin"
 io.ultreia.java4all.http -> http:http-maven-plugin = "Http :: Maven Plugin"
