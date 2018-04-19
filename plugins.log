@@ -1625,6 +1625,7 @@ de.philippkatz.maven.plugins -> test-parser:test-parser-plugin = "Test Parser Pl
 de.plushnikov.maven.plugin -> intellijmodul-importer:intellij-plugin-modul-importer-plugin = "IntelliJ-Plugin-Modul-Importer maven plugin"
 de.quaddy-services.mule.maven -> mule-metrics-report:mule-metrics-report = "mule-metrics-report"
 de.quaddyservices.mvn.plugin.unused -> mvn-remove-unused-dependencies:mvn-remove-unused-dependencies = "mvn-remove-unused-dependencies"
+de.redsix -> dmn-check:dmn-check = "dmn-check"
 de.sandroboehme.lesscss -> lesscss:lesscss-maven-plugin = "Fork of the official LESS CSS Maven Plugin"
 de.saumya.mojo -> bundler:bundler-maven-plugin = "Bundler Maven Mojo"
 de.saumya.mojo -> cucumber:cucumber-maven-plugin = "Cucumber Maven Mojo"
