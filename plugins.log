@@ -484,6 +484,7 @@ com.github.cafaudit -> caf-audit:caf-audit-maven-plugin =
 com.github.cameroncan -> cachemanifest:cachemanifest-maven-plugin = "Cache Manifest Generation Maven Plugin"
 com.github.caofangkun -> version:version-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.casperjs -> casperjs-runner:casperjs-runner-maven-plugin = "CasperJS runner Maven plugin"
+com.github.ch3cho -> bundler:bundler-maven-plugin = "bundler-maven-plugin"
 com.github.charithe -> kafka:kafka-maven-plugin = "kafka-maven-plugin Maven Plugin"
 com.github.chrischristo -> capsule:capsule-maven-plugin = "Capsule Maven Plugin"
 com.github.chrisdchristo -> capsule:capsule-maven-plugin = "Capsule Maven Plugin"
