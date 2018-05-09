@@ -823,6 +823,7 @@ com.github.temyers -> cucumber-jvm-parallel:cucumber-jvm-parallel-plugin = "cucu
 com.github.terma -> fast-release:fast-release-maven-plugin = "Fast Release Maven Plugin"
 com.github.terma.gigaspace-web-console -> :plugin = "GigaSpace Web Console Plugin"
 com.github.thesmartenergy -> ontop:ontop-maven-plugin = "Ontology Platform - Maven Plugin"
+com.github.timofeevda.jstressy -> jstressy:jstressy-maven-plugin = 
 com.github.timols -> seeder:seeder = "Database Seeder"
 com.github.timurstrekalov -> saga:saga-maven-plugin = 
 com.github.timvlaer -> tscfg:tscfg-maven-plugin = "tscfg Maven Plugin"
@@ -1326,6 +1327,7 @@ com.sap.cloud.adk -> com.sap.cloud.adk.build.archive:com.sap.cloud.adk.build.arc
 com.sap.cloud.s4hana.datamodel -> odata-generator:odata-generator-maven-plugin = "S/4HANA - Data Model - OData Generator Maven Plugin"
 com.sap.cloud.s4hana.plugins -> scp-neo:scp-neo-maven-plugin = "SCP Maven Plugin for Local Neo Runtime"
 com.sap.cloud.s4hana.quality -> pmd:pmd-plugin = "Quality - PMD Maven Plugin"
+com.sap.cloud.servicesdk.csn2jpa -> csn2jpa:csn2jpa-maven-plugin = "csn2jpa:maven-plugin"
 com.sap.cloud.yaas.service-sdk -> service-sdk-generator:service-sdk-generator-maven-plugin = "service-sdk-generator-maven-plugin"
 com.sap.prd.mobile.ios.maven.plugins -> resolve-pom:resolve-pom-maven-plugin = "resolve-pom-maven-plugin"
 com.sap.prd.mobile.ios.mios -> xcode:xcode-maven-plugin = "Xcode Maven Plugin"
