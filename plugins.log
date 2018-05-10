@@ -250,6 +250,7 @@ com.bluetrainsoftware.maven -> release-pom:release-pom = "Maven Release POM Plug
 com.bluetrainsoftware.maven.plugins -> s3-upload:s3-upload-maven-plugin = "S3 upload maven plugin"
 com.bradleydwyer -> springmvc-router-ide:springmvc-router-ide = "springmvc-router-ide Maven Mojo"
 com.brewinapps -> ios:ios-maven-plugin = "iOS Maven Plugin"
+com.browserstack -> automate:automate-maven-plugin = "Automate Maven Plugin"
 com.brunokrebs -> fastweb:fastweb = "fastweb Maven Mojo"
 com.btc-ag.redg -> redg:redg-maven-plugin = "RedG Maven Plugin"
 com.btmatthews.maven.plugins -> crx:crx-maven-plugin = "CRX Maven Plugin"
