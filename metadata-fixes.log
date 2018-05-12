@@ -303,7 +303,6 @@ co.cask.common:common-lang => +0.7.0
 co.cask.common:common-security => +0.7.0
 co.elastic.apm:apm-agent-parent => +0.1.1
 co.gongzh.servicekit:servicekit => -1.3
-co.luminositylabs.oss.distributions:payara-web => -4.1.1.154
 co.openfin:openfin-desktop-java-adapter => +4.40.2.6
 co.pjrt:stags-cli_2.12 => -0.3.1
 co.pjrt:stags_2.12 => -0.3.1
