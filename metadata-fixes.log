@@ -16702,6 +16702,7 @@ org.webjars.bowergithub.brightspaceui:icons => +4.6.0
 org.webjars.bowergithub.tinymce:tinymce-dist => +4.7.9
 org.webjars.bowergithub.vaadin:vaadin-grid => +5.0.0-alpha7
 org.webjars.bowergithub.webcomponents:shadycss => +1.2.0
+org.webjars.bowergithub.webcomponents:webcomponentsjs => +2.0.0
 org.webjars:bpmn-js => +0.10.3
 org.webjars:datatables => +1.10.7
 org.webjars:datatables-plugins => +1.10.7
