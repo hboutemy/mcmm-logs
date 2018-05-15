@@ -4164,6 +4164,7 @@ org.wildfly.core -> wildfly-build:wildfly-build-plugin = "WildFly: Server Build 
 org.wildfly.galleon-plugins -> wildfly-galleons:wildfly-galleon-maven-plugins = "WildFly Galleon Maven Plugins"
 org.wildfly.maven.plugins -> licenses:licenses-plugin = "Licenses plugin"
 org.wildfly.maven.plugins -> quickstart-documentation:quickstart-documentation-plugin = "Quickstarts documentation plugin"
+org.wildfly.plugins -> wildfly-component-matrix:wildfly-component-matrix-plugin = 
 org.wildfly.plugins -> wildfly-extension:wildfly-extension-maven-plugin = "Wildfly Extension Installer Maven Plugin"
 org.wildfly.plugins -> wildfly:wildfly-maven-plugin = "WildFly Maven Plugin"
 org.wildfly.swarm -> wildfly-swarm-fraction:wildfly-swarm-fraction-plugin = "WildFly Swarm: Fraction Plugin"
