@@ -752,6 +752,7 @@ com.github.rmannibucau -> dita:dita-maven-plugin = "Dita Maven Plugin"
 com.github.rmannibucau -> landslide:landslide-maven-plugin = "Landslide Maven plugin"
 com.github.rmannibucau -> pdf-helper:pdf-helper-maven-plugin = 
 com.github.robtimus -> i18n:i18n-maven-plugin = "I18N Maven Plugin"
+com.github.rvesse -> airline:airline-maven-plugin = "Airline - Maven Plugin"
 com.github.rwsargent -> requirejssm:requirejs-maven-plugin-sm = "RequireJS Maven Plugin - SM"
 com.github.ryanholdren -> resourcecompressor:resourcecompressor = "ResourceCompressor"
 com.github.ryanholdren -> resourcegzipper:resourcegzipper = "ResourceGZipper"
