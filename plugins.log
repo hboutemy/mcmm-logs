@@ -1427,6 +1427,7 @@ com.systemsplanet.plugin -> google-api-translate-java:google-api-translate-java-
 com.tacitknowledge -> autopatch:autopatch-maven-plugin = "AutoPatch Maven Plugin"
 com.tacitknowledge.maven.plugins -> cobertura-checker:cobertura-checker = "Cobertura XML Check Maven Plugin"
 com.tacitknowledge.maven.plugins -> crx-packager:maven-crx-packager-plugin = "CRX Package Maven Plugin"
+com.tasktop.maven -> change-impact:change-impact = "change.impact Maven Plugin"
 com.teamtter.mavennatives -> nativedependencies:nativedependencies-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.technophobia.substeps -> substeps-glossary-builder:substeps-glossary-builder = "SubSteps Glossary Builder"
 com.technophobia.substeps -> substeps:substeps-maven-plugin = "SubSteps Maven Plugin"
