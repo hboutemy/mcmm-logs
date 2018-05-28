@@ -671,6 +671,7 @@ com.github.madprogger.metamodel -> metamodel:metamodel-maven-plugin = "metamodel
 com.github.manouti -> jar-timestamp-normalize:jar-timestamp-normalize-maven-plugin = "jar-timestamp-normalize-maven-plugin Maven Plugin"
 com.github.marc-christian-schulze.structs4java -> structs4java:structs4java-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.marcosemiao.maven.plugins -> tomcat:tomcat-maven-plugin = "Tomcat Maven Plugin"
+com.github.marks-yag -> punner:punner = "punner"
 com.github.markusmo3.urm -> urm:urm-maven-plugin = "urm-maven"
 com.github.marschall -> jdeps:jdeps-maven-plugin = "Maven jdeps plugin"
 com.github.matinh.vdldoc -> vdldoc:vdldoc-maven-plugin = "Vdldoc Maven Plugin"
