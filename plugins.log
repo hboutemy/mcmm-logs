@@ -672,6 +672,7 @@ com.github.manouti -> jar-timestamp-normalize:jar-timestamp-normalize-maven-plug
 com.github.marc-christian-schulze.structs4java -> structs4java:structs4java-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.marcosemiao.maven.plugins -> tomcat:tomcat-maven-plugin = "Tomcat Maven Plugin"
 com.github.marks-yag -> punner:punner = "punner"
+com.github.marks-yag -> punner:punner-maven-plugin = "punner"
 com.github.markusmo3.urm -> urm:urm-maven-plugin = "urm-maven"
 com.github.marschall -> jdeps:jdeps-maven-plugin = "Maven jdeps plugin"
 com.github.matinh.vdldoc -> vdldoc:vdldoc-maven-plugin = "Vdldoc Maven Plugin"
@@ -855,6 +856,7 @@ com.github.veithen.alta -> alta:alta-maven-plugin = "Alta Maven Plugin"
 com.github.veithen.cosmos -> p2-bundle-import:p2-bundle-import-maven-plugin = 
 com.github.veithen.cosmos -> p2-publisher:p2-publisher-maven-plugin = 
 com.github.veithen.daemon -> daemon:daemon-maven-plugin = "daemon-maven-plugin"
+com.github.veithen.filecheck -> filecheck:filecheck-maven-plugin = "Filecheck Maven Plugin"
 com.github.veithen.invoker -> resolver-proxy:resolver-proxy-maven-plugin = 
 com.github.veithen.phos -> enforcer:enforcer-maven-plugin = "Phos Enforcer Plugin"
 com.github.veithen.phos -> jacoco:jacoco-maven-plugin = 
