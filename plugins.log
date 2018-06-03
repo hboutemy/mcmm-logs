@@ -867,6 +867,7 @@ com.github.venkatramanm.swf-all -> swf:swf-maven-plugin = "swf-maven-plugin Mave
 com.github.verylazyboy -> sablecc:sablecc-maven-plugin = "sablecc-maven-plugin"
 com.github.vincent-fuchs -> cucumber-results-aggregator:cucumber-results-aggregator-plugin = "cucumber-results-aggregator-plugin"
 com.github.vincentrussell -> springmvc-rest-docs:springmvc-rest-docs-maven-plugin = 
+com.github.vlsi.gettext -> gettext:gettext-maven-plugin = "Maven Gettext Plugin"
 com.github.vongosling -> mediator:dependency-mediator-maven-plugin = "component dependency mediator maven plugin"
 com.github.vongosling -> dependency-mediator:dependency-mediator-maven-plugin = "component dependency mediator maven plugin"
 com.github.warmuuh -> libsass:libsass-maven-plugin = "libsass plugin"
