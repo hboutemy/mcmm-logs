@@ -4294,6 +4294,7 @@ de.bwaldvogel:mongo-java-server-memory-backend => +1.4.1
 de.bwaldvogel:mongo-java-server-test-common => +1.4.1
 de.caluga:morphium => +2.2.22
 de.codecentric:spring-boot-starter-batch-web => +1.3.5.RELEASE
+de.deltatree.tools:qrsct => +1.1.0
 de.dimensionv:androDialogs-nativelibs => +1.0.0-196
 de.dimensionv:androDialogs-supportlibs => +1.0.0-196
 de.dimensionv:commonutilities => +2.1.0
