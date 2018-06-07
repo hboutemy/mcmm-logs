@@ -2369,6 +2369,7 @@ nl.topicus.plugins -> javassist:javassist-maven-plugin = "Maven Javassist Plugin
 nl.ulso.magisto -> magisto:magisto = "Magisto"
 no.arktekk.unix -> unix:unix-maven-plugin = "Maven Unix Plug-In"
 no.flowlab.plugins -> elasticmapreduce:elasticmapreduce-maven-plugin = "${project.groupId}:${project.artifactId}"
+no.oms.maven -> pre-commit:pre-commit-maven-plugin = "pre-commit Maven Plugin"
 no.skatteetaten.aurora.maven.plugins -> aurora-cd:aurora-cd = "aurora-cd"
 nu.jibe -> jibe-tools-erb:jibe-tools-erb-maven-plugin = "${project.groupId}:${project.artifactId}"
 nz.ac.auckland.groupapps.maven -> gitlog:uoa-gitlog-plugin = "UOA Git Log Plugin"
