@@ -1865,6 +1865,7 @@ io.github.agileek -> java-checksum-flyway:java-checksum-flyway-maven-plugin = "$
 io.github.bbarker -> scalaxb:scalaxb-maven-plugin = "scalaxb Maven Plugin"
 io.github.benas -> jql:jql-maven-plugin = 
 io.github.borisnaguet -> solr:solr-maven-plugin = "Solr Maven Plugin"
+io.github.carousell -> testrail:testrail-maven-plugin = "Maven plugin to create test runs on Testrails"
 io.github.catcoderr -> artifact-publisher:artifact-publisher-plugin = "Artifact Publisher Maven Mojo"
 io.github.cjkent.osiris -> osiris:osiris-maven-plugin = "Osiris Maven Plugin"
 io.github.codemumbler.maven.plugin -> mdbconverter:mdbconverter = "mdbconverter Maven Mojo"
