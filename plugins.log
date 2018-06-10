@@ -368,6 +368,7 @@ com.devsmobile -> mvn-scalafmt:mvn-scalafmt = "Scala FMT Maven Plugin (Not offic
 com.devspan.mojo.javascript -> javascript:javascript-maven-plugin = "Javascript Maven Plugin"
 com.devspan.mojo.javascript -> javascript-report:javascript-report-maven-plugin = "Javascript Maven Report Plugin"
 com.dgwave.car -> ceylon:ceylon-maven-plugin = "Ceylon Maven Plugin"
+com.diamondq.maven -> osgi-target:osgi-target-maven-plugin = "osgi-target-maven-plugin Maven Plugin"
 com.digitalbarista -> getdown:getdown-maven-plugin = "Getdown Maven Plugin"
 com.digitalml.plugins -> poller:poller-maven-plugin = "Ignite Poller Maven Plugin"
 com.dinstone.motor -> motor:motor-maven-plugin = 
