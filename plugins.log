@@ -1693,6 +1693,7 @@ de.sekmi.histream.maven -> histream:histream-maven-plugin = "HIStream : Maven pl
 de.shadowhunt.maven.plugins -> package-info:package-info-maven-plugin = "Maven package-info.java Plugin"
 de.shadowhunt.maven.plugins -> properties:properties-maven-plugin = "Maven properties Plugin"
 de.shadowhunt.maven.plugins -> sonarignore:sonarignore-maven-plugin = "Maven Sonar-Ignore Plugin"
+de.silpion.opencms.maven.plugins -> opencms:opencms-maven-plugin = "OpenCms Maven Plugin"
 de.skiptag -> rhino:rhino-maven-plugin = "rhino-maven-plugin"
 de.smartics.maven.plugin -> buildmetadata:buildmetadata-maven-plugin = "Buildmetadata Maven Plugin"
 de.smartics.maven.plugin -> smartics-jboss-modules:smartics-jboss-modules-maven-plugin = "${project.artifactId}"
