@@ -3212,6 +3212,7 @@ org.cyclonedx -> cyclonedx:cyclonedx-maven-plugin = "CycloneDX"
 org.cyclopsgroup -> flatsite:flatsite-maven-plugin = "Flatsite Maven2 Plugin"
 org.cyclopsgroup -> s3upload:s3upload-maven-plugin = "S3 Upload Maven Plugin"
 org.cyclopsgroup -> uberjar:uberjar-maven-plugin = "UberJar Maven2 Plugin"
+org.daijie -> daijie-jdbc:daijie-jdbc-plugin = 
 org.daisy.maven -> xproc:xproc-maven-plugin = "xproc-maven-plugin"
 org.daisy.maven -> xspec:xspec-maven-plugin = "XSpec Maven Plugin"
 org.daisy.pipeline.build -> modules-build-helper:modules-build-helper = "DAISY Pipeline 2 :: Modules Build Helper"
