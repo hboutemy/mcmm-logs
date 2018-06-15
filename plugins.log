@@ -1887,6 +1887,7 @@ io.github.jsfrench -> swaggerhub:swaggerhub-maven-plugin = "SwaggerHub Maven Plu
 io.github.lbellonda -> checklocale:checklocale = "Check Locale Maven Mojo"
 io.github.livingdocumentation -> livingdoc:livingdoc-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.marmer.testutils -> hamcrest-matcher-generator:hamcrest-matcher-generator-maven-plugin = "hamcrest-matcher-generator-maven-plugin"
+io.github.martinschneider -> aws-devicefarm:aws-devicefarm-maven-plugin = "aws-devicefarm-maven-plugin"
 io.github.martinschneider -> cucumber2junit:cucumber2junit-maven-plugin = "JUnit code generator for Cucumber tests"
 io.github.martinschneider -> testrail:testrail-maven-plugin = "Maven plugin to create test runs on Testrails"
 io.github.matf -> layer-dependency-check:layer-dependency-check-maven-plugin = "${project.groupId}:${project.artifactId}"
