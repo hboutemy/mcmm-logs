@@ -2096,6 +2096,7 @@ net.bpelunit -> net.bpelunit.framework.client.maven:maven-bpelunit-plugin = "BPE
 net.bytebuddy -> byte-buddy:byte-buddy-maven-plugin = "Byte Buddy (Maven plugin)"
 net.catte -> scalapb:scalapb-maven-plugin = "ScalaPB Maven Plugin"
 net.champemont.jean.hogancompile -> hogancompile:hogancompile-maven-plugin = "hogancompile-maven-plugin Maven Mojo"
+net.cpollet.maven.plugins -> postman:postman-maven-plugin = "Postman Maven Plugin :: Plugin"
 net.databinder -> data-app:data-app = "Databinder application archetype"
 net.databinder.maven.net.databinder -> data-app:data-app = "Databinder application archetype"
 net.deffer.maven -> aws-tools:aws-tools-maven-plugin = "AWS tools maven plugin (S3 upload)"

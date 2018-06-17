@@ -1781,6 +1781,7 @@ com.github.tchoulihan:musicbrainz-tagger => +1.0.8, +1.0.9, +1.1.0, +1.1.1, +1.1
 ## com.github.techflavors:simple-message-converters => -1.0.0
 com.github.terma.gigaspace-web-console:aggregator => +0.0.45, +1.0.18
 com.github.tigertian:bluetoothprinter => -0.0.7
+com.github.timo-reymann:spring-boot-vue-starter => +1.0.0
 com.github.tkrs:orcus-free_2.11 => +0.15.0
 com.github.tntim96:JSCover => +1.0.19
 com.github.tntim96:jscover-common-maven-plugin => +1.0.14
