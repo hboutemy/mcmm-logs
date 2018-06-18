@@ -2569,6 +2569,7 @@ org.apache.karaf.tooling -> features:features-maven-plugin = "Apache Karaf :: To
 org.apache.karaf.tooling -> features:features-maven-plugin = "Apache Karaf :: Tooling :: Maven2 Features plugin"
 org.apache.karaf.tooling -> karaf:karaf-maven-plugin = "Apache Karaf :: Tooling :: Maven Karaf Plugin"
 org.apache.karaf.tooling -> karaf-services:karaf-services-maven-plugin = "Apache Karaf :: Tooling :: Maven Karaf Plugin for Services Metadata"
+org.apache.logging.log4j -> log4j-audit:log4j-audit-maven-plugin = "log4j-audit-maven-plugin Maven Plugin"
 org.apache.mahout -> mahout-collection-codegen:mahout-collection-codegen-plugin = "Maven Mojo to generate code for collections"
 org.apache.marmotta -> buildinfo:buildinfo-maven-plugin = "Maven Buildinfo Plugin"
 org.apache.marmotta -> marmotta:marmotta-maven-plugin = "Maven Marmotta Plugin"
