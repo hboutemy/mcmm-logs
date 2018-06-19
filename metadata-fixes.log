@@ -1647,6 +1647,7 @@ com.github.mohd-bh:instagram => +0.1.0
 com.github.moraisigor:slidingdrawer => +1.5.1
 com.github.mrharibo.micronet:mn-archetype-accountservice => +0.1.4
 com.github.mrharibo.micronet:mn-archetype-activemq => +0.1.2
+com.github.mrpowers:spark-fast-tests_2.11 => +0.12.1
 com.github.mwegrz:scala-util_2.12 => -0.1.21
 com.github.mygreen:standalone-el => +0.1
 com.github.ndrew:jasmine-maven-plugin => +2.3
