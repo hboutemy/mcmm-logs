@@ -251,6 +251,7 @@ com.bluetrainsoftware.maven -> jaxrs2typescript:jaxrs2typescript-maven-plugin = 
 com.bluetrainsoftware.maven -> karma-runner:karma-runner-plugin = "Maven Karma Runner plugin"
 com.bluetrainsoftware.maven -> release-pom:release-pom = "Maven Release POM Plugin"
 com.bluetrainsoftware.maven.plugins -> s3-upload:s3-upload-maven-plugin = "S3 upload maven plugin"
+com.bobpaulin.maven.jsonp -> jsonp:jsonp-maven-plugin = "jsonp-maven-plugin Maven Plugin"
 com.bradleydwyer -> springmvc-router-ide:springmvc-router-ide = "springmvc-router-ide Maven Mojo"
 com.brewinapps -> ios:ios-maven-plugin = "iOS Maven Plugin"
 com.browserstack -> automate:automate-maven-plugin = "Automate Maven Plugin"
@@ -2065,7 +2066,7 @@ jp.igapyon.blanco.apex.formatter.plugin -> blancoApexFormatterPlugin:blancoApexF
 jp.igapyon.diary.igapyonv3.plugin -> igapyonv3:igapyonv3-maven-plugin = "igapyonv3 diary system - igapyonv3 Maven Plugin"
 jp.objectfanatics -> assertion-mojo:assertion-mojo = "OBJECT FANATICS Assertion Library [assertion-mojo]"
 jp.skypencil -> jsr305:jsr305-maven-plugin = "jsr305-maven-plugin Maven Mojo"
-jp.skypencil.sonarqube -> rule-xml:rule-xml-maven-plugin = 
+jp.skypencil.sonarqube -> rule-xml:rule-xml-maven-plugin = "SonarQube rule.xml generator"
 kim.sesame.framework -> reload-resources-file:reload-resources-file = "${project.artifactId}-${project.version}"
 kim.sesame.framework -> zip:zip = "${project.artifactId}-${project.version}"
 kr.motd.maven -> exec:exec-maven-plugin = "exec-maven-plugin"
