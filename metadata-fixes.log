@@ -15498,6 +15498,7 @@ org.quasar-analytics:quasar-frontend-internal_2.12 => +34.2.4
 org.querki:requester_2.11 => +1.1
 org.randombits.confluence:confluence-metadata => +5.11, +6.0.6
 org.randombits.storage:storage-confluence => +5.2.2
+org.rapidpm.microservice:rapidpm-microservice => +1.0.6
 org.reactivemongo:reactivemongo-bson-macros_2.10 => +0.11.0-M1
 org.reactivemongo:reactivemongo-bson-macros_2.11 => +0.11.0-M1
 org.reactivemongo:reactivemongo-bson_2.10 => +0.11.0-M1
