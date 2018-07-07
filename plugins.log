@@ -1272,6 +1272,7 @@ com.nouveauxterritoires.maven -> wti:wti-maven-plugin = "wti-maven-plugin Maven 
 com.octo.mtg -> grails:grails-maven-plugin = "Maven plugin for GRAILS applications"
 com.offbynull.coroutines -> coroutines:maven-plugin = "${project.groupId}:${project.artifactId}"
 com.offbynull.coroutines -> :maven-plugin = "${project.groupId}:${project.artifactId}"
+com.okta -> okta-code-snippet:okta-code-snippet-maven-plugin = "Okta Doc List Maven Plugin"
 com.okta -> okta-doclist:okta-doclist-maven-plugin = "Okta Doc List Maven Plugin"
 com.oneops.maven.plugins -> really-executable-jar:really-executable-jar-maven-plugin = "Really Executable Jar Maven Plugin"
 com.onpositive.aml -> java2raml:java2raml-maven-plugin = "Java2RAML Maven Plugin"
