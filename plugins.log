@@ -1948,6 +1948,7 @@ io.mathan.maven -> mathan-latex:mathan-latex-maven-plugin = "Mathan LaTeX Maven 
 io.openapitools.api.specification -> api-pp:api-pp-maven-plugin = "API Post Processing Maven Plugin"
 io.openapitools.swagger -> swagger:swagger-maven-plugin = "Swagger Maven Plugin"
 io.paradoxical -> resolved-pom:resolved-pom-maven-plugin = "resolved-pom-maven-plugin Maven Plugin"
+io.perfana -> perfana-gatling:perfana-gatling-maven-plugin = "perfana-gatling-maven-plugin"
 io.permazen -> permazen:permazen-maven-plugin = "Permazen Maven Plugin"
 io.probedock.maven.plugins -> glassfish:glassfish-maven-plugin = "Glassfish Maven Plugin"
 io.probedock.maven.plugins -> probedock-uid:probedock-uid-maven-plugin = "Probe Dock Report UID Plugin"

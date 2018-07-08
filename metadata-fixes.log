@@ -2444,7 +2444,6 @@ com.liferay:com.liferay.ce.portal.third.party => +7.0-GA7
 com.liferay:com.liferay.configuration.admin.web => +2.0.7
 com.liferay:com.liferay.css.builder => +2.0.2
 com.liferay:com.liferay.exportimport.web => +2.0.4
-com.liferay:com.liferay.fragment.api => +1.1.0
 com.liferay:com.liferay.frontend.image.editor.capability.brightness => +2.0.2
 com.liferay:com.liferay.frontend.js.loader.modules.extender => +3.0.3
 com.liferay:com.liferay.gradle.plugins => -1.0.150, -1.0.155, -1.0.156, -1.0.157, -1.0.161, +3.12.50
