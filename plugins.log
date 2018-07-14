@@ -3474,6 +3474,7 @@ org.imixs.workflow -> imixs-workflow-jsf-sample-archetype:imixs-workflow-jsf-sam
 org.immutables.tools -> shade:maven-shade-plugin = "${project.groupId}.${project.artifactId}"
 org.impalaframework -> impala:impala-maven-plugin = "impala-maven-plugin Maven Mojo"
 org.infinispan -> infinispan-defaults:infinispan-defaults-maven-plugin = "Infinispan Defaults Maven Plugin"
+org.infinispan -> infinispan-protocol-parser-generator:infinispan-protocol-parser-generator-maven-plugin = "Protocol Parser Generator Maven Plugin"
 org.inigma.maven -> scm-version:maven-scm-version-plugin = "SCM Version"
 org.intellifl -> intelliFL:intelliFL-maven-plugin = "intelliFL-maven-plugin Maven Plugin"
 org.intelligents-ia -> keystone:keystone-plugin = "keystone-plugin"
