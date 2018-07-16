@@ -802,6 +802,7 @@ com.github.seanroy -> lambduh:lambduh-maven-plugin = "lambduh-maven-plugin Maven
 com.github.searls -> jasmine:jasmine-maven-plugin = "jasmine-maven-plugin"
 com.github.sebhoss.yosql -> yosql:yosql-maven-plugin = 
 com.github.sedus -> s3:s3-maven-plugin = "s3-maven-plugin"
+com.github.segator -> jbinary:jbinary-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.seratch -> testgen:maven-testgen-plugin = "maven-testgen-plugin Maven Mojo"
 com.github.sergeybudnik -> smart.config:smart.config = "SmartConfig"
 com.github.sevntu-checkstyle -> dsm:dsm-maven-plugin = "DSM maven plugin"
