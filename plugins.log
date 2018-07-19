@@ -289,6 +289,7 @@ com.carrotgarden.maven -> flatten:flatten-maven-plugin = "Flatten Maven Plugin"
 com.carrotgarden.maven -> scalor_2.12:scalor-maven-plugin_2.12 = "Scalor Maven Plugin 2.12"
 com.carrotsearch -> hppc-template-processor:hppc-template-processor = "HPPC Template Processor"
 com.carrotsearch.randomizedtesting -> junit4:junit4-maven-plugin = "RandomizedTesting JUnit4 Maven Plugin"
+com.cast-info.devops -> robotest-suite-cases-json-generator:robotest-suite-cases-json-generator = "${project.groupId}:${project.artifactId}"
 com.cedarsoft -> instrumentation:instrumentation-maven-plugin = 
 com.cedarsoft -> osgi-validator:osgi-validator-maven-plugin = 
 com.cedarsoft.maven -> instrumentation:instrumentation-plugin = 
@@ -2459,6 +2460,7 @@ org.andromda.maven.plugins.site -> andromda-site-cartridge:andromda-site-cartrid
 org.andromda.maven.plugins.site -> andromda-site:andromda-site-plugin = "AndroMDA Site Plugin"
 org.andromda.maven.site -> andromda-site:andromda-site-plugin = "AndroMDA Site Plugin"
 org.antipathy -> mvn-scalafmt:mvn-scalafmt = "Scalafmt Maven Plugin"
+org.antipathy -> mvn-scalafmt_${version.scala.binary}:mvn-scalafmt_${version.scala.binary} = "Scalafmt Maven Plugin"
 org.antlr -> antlr3:antlr3-maven-plugin = "ANTLR 3 Maven plugin"
 org.antlr -> antlr4:antlr4-maven-plugin = "ANTLR 4 Maven plugin"
 org.antlr -> gunit:maven-gunit-plugin = "ANTLR 3 gUnit Maven plugin"
