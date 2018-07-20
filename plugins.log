@@ -4111,6 +4111,7 @@ org.sonatype.book -> book-sitemesh:book-sitemesh-plugin = "A simple plugin that 
 org.sonatype.flexmojos -> flexmojos-generator:flexmojos-generator-maven-plugin = "Flexmojos Generator Maven Plugin"
 org.sonatype.flexmojos -> flexmojos-generator-mojo:flexmojos-generator-mojo = "Flexmojos Generator Plugin"
 org.sonatype.flexmojos -> flexmojos:flexmojos-maven-plugin = "Flexmojos Maven Plugin"
+org.sonatype.goodies.dionysus -> dionysus:dionysus-maven-plugin = "${project.groupId}:${project.artifactId}"
 org.sonatype.gshell -> gshell:gshell-maven-plugin = "GShell :: Maven Plugin"
 org.sonatype.install4j -> install4j:install4j-maven-plugin = "${project.artifactId}"
 org.sonatype.maven.archetype -> archetype:archetype-plugin = "Sonatype Archetype :: Plugin"
