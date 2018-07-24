@@ -1523,6 +1523,7 @@ com.tunyk.mvn.plugins.htmlcompressor -> htmlcompressor:htmlcompressor-maven-plug
 com.twitter -> scrooge:scrooge-maven-plugin = "scrooge-maven-plugin"
 com.twitter -> scrooge_2.10:scrooge-maven-plugin_2.10 = "scrooge-maven-plugin"
 com.twitter -> scrooge_2.9.2:scrooge-maven-plugin_2.9.2 = "scrooge-maven-plugin"
+com.twosigma.webtau -> webtau:webtau-maven-plugin = 
 com.twosigmaiq -> magic-beanstalk:magic-beanstalk-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.umakantpatil -> phpcodesniffer:phpcodesniffer-maven-plugin = "PHP CodeSniffer Maven Plugin"
 com.unboundid -> server-sdk-docs:server-sdk-docs-maven-plugin = "UnboundID Server SDK Extension Docs Plugin"
@@ -2523,7 +2524,7 @@ org.apache.camel.maven -> camel-servicenow:camel-servicenow-maven-plugin = "Came
 org.apache.cayenne.plugins -> cayenne:cayenne-maven-plugin = "cayenne-maven-plugin: Cayenne Maven Plugin"
 org.apache.cayenne.plugins -> cayenne-modeler:cayenne-modeler-maven-plugin = "cayenne-modeler-maven-plugin: Cayenne Modeler Maven Plugin"
 org.apache.cayenne.plugins -> cayenne-modeler:maven-cayenne-modeler-plugin = "Cayenne Modeler Maven Plugin"
-org.apache.cayenne.plugins -> cayenne:maven-cayenne-plugin = "maven-cayenne-plugin: Deprecated Cayenne Maven Plugin"
+org.apache.cayenne.plugins -> cayenne:maven-cayenne-plugin = "Cayenne Maven Plugin"
 org.apache.clerezza -> jaxrs-report:maven-jaxrs-report-plugin = "Clerezza - Maven JaxRs Report Plugin"
 org.apache.clerezza -> ontologies:maven-ontologies-plugin = "Clerezza - RDF - SchemaGen: Maven Ontologies Plugin"
 org.apache.clerezza -> pladoc.core:maven-pladoc-plugin.core = "Clerezza - Maven PlaDoc Plugin Core"
