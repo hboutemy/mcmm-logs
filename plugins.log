@@ -120,6 +120,7 @@ co.luminositylabs.oss.maven.plugins -> embedded-payara:embedded-payara-maven-plu
 co.luminositylabs.oss.maven.plugins -> payara-micro:payara-micro-maven-plugin = "Payara Micro Maven Plugin"
 co.mewf.humpty -> humpty:humpty-maven-plugin = "humpty-maven-plugin"
 codes.rafael.gradlemavenplugin -> gradle:gradle-maven-plugin = "gradle-maven-plugin Maven Mojo"
+codes.rafael.modulemaker -> modulemaker:modulemaker-maven-plugin = "Module Maker Maven Plugin"
 com.abstratt -> cloudfier:cloudfier-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.actionjava -> aj-assets:aj-assets = "ActionJava Assets"
 com.addicticks.oss.maven -> httpsupload:httpsupload-maven-plugin = "HTTPS Upload Maven Plugin"
