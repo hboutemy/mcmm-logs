@@ -1324,6 +1324,7 @@ com.getbase:floatingactionbutton => +1.9.1
 com.gilt:gfc-aws-cloudwatch_2.10 => +0.2.0, +0.3.0, +0.4.0
 com.gilt:gfc-aws-cloudwatch_2.11 => +0.2.0, +0.3.0, +0.4.0
 com.ginsberg:cirkle => -1.0.0
+com.gitee.hengboy:mybatis-pageable-core => +1.0.0.RELEASE
 com.gitee.l0km:facelog => -1.0.2
 com.gitee.l0km:facelog-client => -1.0.2
 com.gitee.l0km:facelog-db => -1.0.2
