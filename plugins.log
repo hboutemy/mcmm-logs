@@ -1850,6 +1850,7 @@ guru.nidi.maven.plugins -> snippets:snippets-maven-plugin = "${project.artifactI
 guru.nidi.maven.plugins -> tools:tools-maven-plugin = "${project.artifactId}"
 guru.nidi.maven.plugins -> use-webjars:use-webjars-maven-plugin = "${project.artifactId}"
 hu.advancedweb -> scott:scott-maven-plugin = "Scott Maven Plugin"
+hu.blackbelt.epsilon -> epsilon:epsilon-maven-plugin = "epsilon-maven-plugin"
 hu.skawa -> migrator:migrator-maven-plugin = "Maven-Bazel Migration Plugin"
 in.ashwanthkumar -> editsource:maven-editsource = "maven-editsource"
 in.mayurshah -> testng-xml-maker:testng-xml-maker-maven-plugin = "selenium-helper"
