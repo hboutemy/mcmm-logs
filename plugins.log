@@ -2941,6 +2941,7 @@ org.bitbucket.bradleysmithllc.regular-expression-proxy-compiler -> regular-expre
 org.bitbucket.cowwoc -> cmake:maven-cmake-plugin = "CMake Maven Plugin"
 org.bitbucket.cowwoc -> requirements:requirements-maven-plugin = "Requirements-Maven-Plugin"
 org.bitbucket.daniel_schreiber.release-manager-for-bitbucket -> bitbucket-release-manager:bitbucket-release-manager-maven-plugin = "Bitbucket release manager maven plugin"
+org.bitbucket.idensitylab -> cucumber-features-pp:cucumber-features-pp-maven-plugin = "${project.groupId}:${project.artifactId}"
 org.bitbucket.joxley -> getdown:getdown-maven-plugin = "getdown-maven-plugin"
 org.bitbucket.joxley -> wix:wix-maven-plugin = "wix-maven-plugin Maven Mojo"
 org.bitbucket.jscl -> jscover-legacy:jscover-legacy-plugin = 
