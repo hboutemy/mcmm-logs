@@ -426,6 +426,7 @@ com.algolia:algoliasearch-offline-android => +3.5.0, +3.8.0, +3.9.0
 com.algolia:instantsearch-android => +1.0.2
 com.alibaba.android:tangram => -2.0.5
 com.alibaba.android:vlayout => -1.2.9.2
+com.alibaba:dubbo-common => +2.6.3
 com.alibaba.edas.acm:acm-sdk => -1.0.3
 ## com.alibaba.edas:acm-sdk-parrent => -1.0.1
 com.alibaba.edas:edas-sdk => +1.6.0
