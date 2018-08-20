@@ -2413,7 +2413,6 @@ com.jporm:jpo-test-rx-integration => -8.5.3
 com.jporm:jporm => -8.5.3
 com.jtransc:jtransc => +0.2.5
 com.julianpeeters:avro-scala-macro-annotations_2.11 => +0.9.0
-com.jwebmp:jwebmp-parent => -0.58.0.17-RCTEST
 com.kailuowang:henkan-convert_2.11 => -0.6.1
 com.kailuowang:henkan-convert_2.12 => -0.6.1
 com.kailuowang:henkan-optional_2.11 => -0.6.1
