@@ -1374,6 +1374,7 @@ com.rodiontsev.maven.plugins -> build-info:build-info-maven-plugin = "Build Info
 com.rodiontsev.maven.plugins -> build-info:maven-build-info-plugin = "Maven Build Info Plugin"
 com.ruleoftech -> markdown-page-generator:markdown-page-generator-plugin = "Markdown Page Generator Maven Plugin"
 com.rultor -> rultor:rultor-maven-plugin = "rultor-maven-plugin"
+com.salesforce.servicelibs -> proto-backwards-compatibility:proto-backwards-compatibility = "Proto Backwards Compatibility Maven Mojo"
 com.samajackun.arco -> arco:arco-maven-plugin = "Arco Maven Plugin"
 com.samaxes.maven -> minify:maven-minify-plugin = "Maven Minify Plugin"
 com.samaxes.maven -> minify:minify-maven-plugin = "Minify Maven Plugin"
