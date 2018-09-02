@@ -525,6 +525,7 @@ com.github.cjnygard -> rest:rest-maven-plugin = "${project.groupId}:${project.ar
 com.github.code2358 -> jcdk:jcdk-maven-plugin = "Java Card SDK Maven Plugin"
 com.github.codeframes -> hal-tooling-api-doc-html:hal-tooling-api-doc-html-maven-plugin = "HAL Tooling API Doc HTML Maven Plugin"
 com.github.codeframes -> hal-tooling-api-doc:hal-tooling-api-doc-maven-plugin = "HAL Tooling API Doc Maven Plugin"
+com.github.codemonstur -> graalhelper:graalhelper = "${project.groupId}:${project.artifactId}"
 com.github.codemonstur -> htmlcompiler:htmlcompiler = "${project.groupId}:${project.artifactId}"
 com.github.coderepositories -> jcommonss-mbg:jcommons-plugins-mbg = "jcommons-plugins-mbg Maven Plugin"
 com.github.coderepositories -> mbg:mbg-maven-plugin = "mbg-maven-plugin Maven Plugin"
