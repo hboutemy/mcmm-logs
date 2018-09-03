@@ -2228,6 +2228,7 @@ net.kemitix -> kemitix-quality:kemitix-quality-maven-plugin = "Kemitix Quality M
 net.kennychua -> urlpoller:maven-urlpoller-plugin = "maven-urlpoller-plugin Maven Mojo"
 net.kennychua -> phantomjs-qunit-runner:phantomjs-qunit-runner = "phantomjs-qunit-runner Maven Mojo"
 net.kindleit -> gae:maven-gae-plugin = "Maven GAE Plugin"
+net.kosto -> database:database-maven-plugin = "${project.groupId}:${project.artifactId}"
 net.kozelka.maven -> contentcheck:contentcheck-maven-plugin = 
 net.kozelka.maven -> gitsite:gitsite-maven-plugin = 
 net.kozelka.maven -> npmpack:npmpack-maven-plugin = "${project.artifactId}"
