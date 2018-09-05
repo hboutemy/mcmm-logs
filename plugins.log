@@ -1,5 +1,6 @@
 # groupId -> prefix:artifactId = "name"
 app.myoss.cloud.maven.plugins -> myoss:archetypes-maven-plugin = ""
+app.myoss.cloud.maven.plugins -> archetypes:archetypes-maven-plugin = "archetypes-maven-plugin"
 asia.redact.bracket.properties -> pcompiler:pcompiler-maven-plugin = "PCompiler Maven Plugin - Compiled Properties"
 at.bestsolution -> bindex:bindex-maven-plugin = "bindex2 maven plugin"
 at.bestsolution -> osgi-exec:maven-osgi-exec-plugin = "Maven OSGi Execution Plug-in"
