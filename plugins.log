@@ -775,6 +775,7 @@ com.github.pinguet62 -> java2typescript:java2typescript-maven-plugin = "Java2Typ
 com.github.pkoli -> xls2pojo:xls2pojo-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.pms1.tppt -> tppt:tppt-maven-plugin = 
 com.github.podal.codejavadoc -> codejavadoc:codejavadoc-maven-plugin = "Copy Code to JavaDoc Maven plugin"
+com.github.pos0637 -> generate-restful-service:generate-restful-service-plugin = "generate-restful-service-plugin Maven Mojo"
 com.github.praxissoftware.maven.plugins -> features:features-maven-plugin = "Praxis Software - Maven Plugins - Features Maven Plugin"
 com.github.protobufel -> resource-exec:resource-exec-maven-plugin = "Resource Friendly Maven Exec Plugin"
 com.github.psorobka -> appium:appium-maven-plugin = "Appium Maven Plugin 1.0"
