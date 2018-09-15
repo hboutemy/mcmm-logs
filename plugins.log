@@ -2512,7 +2512,7 @@ org.andromda.maven.plugins.site -> andromda-site-cartridge:andromda-site-cartrid
 org.andromda.maven.plugins.site -> andromda-site:andromda-site-plugin = "AndroMDA Site Plugin"
 org.andromda.maven.site -> andromda-site:andromda-site-plugin = "AndroMDA Site Plugin"
 org.antipathy -> mvn-scalafmt:mvn-scalafmt = "Scalafmt Maven Plugin"
-org.antipathy -> mvn-scalafmt_${version.scala.binary}:mvn-scalafmt_${version.scala.binary} = "Scalafmt Maven Plugin"
+org.antipathy -> mvn-scalafmt_${version.scala.binary}:mvn-scalafmt_${version.scala.binary} = "ScalaFmt Maven Plugin (${version.scala.binary})"
 org.antlr -> antlr3:antlr3-maven-plugin = "ANTLR 3 Maven plugin"
 org.antlr -> antlr4:antlr4-maven-plugin = "ANTLR 4 Maven plugin"
 org.antlr -> gunit:maven-gunit-plugin = "ANTLR 3 gUnit Maven plugin"
