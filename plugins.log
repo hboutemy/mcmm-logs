@@ -547,6 +547,7 @@ com.github.danielflower.mavenplugins -> gitlog:maven-gitlog-plugin = "Maven Git 
 com.github.danielflower.mavenplugins -> multi-modulerelease:multi-module-maven-release-plugin = "The Multi Module Maven Release Plugin"
 com.github.danielflower.mavenplugins -> multi-module-release:multi-module-release-maven-plugin = 
 com.github.dantwining.whitespace-maven-plugin -> whitespace:whitespace-maven-plugin = "whitespace-maven-plugin Maven Mojo"
+com.github.dapeng-soa -> dapeng:dapeng-maven-plugin = "dapeng-maven-plugin"
 com.github.davidmoten -> aws:aws-maven-plugin = 
 com.github.davidmoten -> decrypt:decrypt-maven-plugin = 
 com.github.davidmoten -> state-machine:state-machine-maven-plugin = "${project.artifactId}"
