@@ -1686,6 +1686,7 @@ de.is24.mavenplugins -> deadcode:deadcode-maven-plugin = "deadcode4j Maven Plugi
 de.is24.mavenplugins -> deadcode4j:deadcode4j-maven-plugin = "deadcode4j Maven Plugin"
 de.jbellmann.maven.plugins -> md:markdown-maven-plugin = 
 de.jbellmann.maven.plugins -> smtp:smtp-maven-plugin = ""
+de.jflex -> cup:cup-maven-plugin = "CUP Maven plugin"
 de.jflex -> jflex:jflex-maven-plugin = "JFlex Maven Plugin"
 de.jiac.micro.tools -> microjiac-midlet:microjiac-midlet-maven-plugin = "MicroJIAC MIDlet-Maven-Plugin"
 de.jpdigital -> hibernate4-ddl:hibernate4-ddl-maven-plugin = "Maven DDL generator plugin for Hibernate 4"
