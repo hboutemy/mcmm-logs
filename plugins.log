@@ -1965,6 +1965,7 @@ io.github.divinespear -> jpa-schema:jpa-schema-maven-plugin = "jpa-schema-maven-
 io.github.faketime-java -> faketime:faketime-maven-plugin = "FakeTime Maven Plugin"
 io.github.flaw101 -> concat:concat-maven-plugin = "Concat Maven Plugin"
 io.github.frostingwolf -> saluki:saluki-maven-plugin = 
+io.github.handofgod94 -> jacoco-cov-badge:jacoco-cov-badge-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.jdlopez -> dbdoc:dbdoc-maven-plugin = "dbdoc Maven Plugin"
 io.github.jebeaudet -> flyway-validator:flyway-validator-maven-plugin = "flyway-validator-maven-plugin"
 io.github.jeffskj.cdversions -> cd-versions:cd-versions-maven-plugin = "cd-versions-maven-plugin Maven Plugin"
@@ -3772,9 +3773,7 @@ org.keycloak -> keycloak-distribution-licenses:keycloak-distribution-licenses-ma
 org.kie -> jboss-modules:jboss-modules = "KIE EAP - Maven plugin"
 org.kie -> kie:kie-maven-plugin = "Kie Maven Plugin"
 org.kie.server -> kie-ctrl:kie-server-controller-plugin = "KIE :: Execution Server :: Controller :: Deploy Maven Plugin"
-org.kie.server -> kie-server-controller:kie-server-controller-plugin = "KIE :: Execution Server :: Controller :: Deploy Maven Plugin"
 org.kie.server -> kieserver:kie-server-maven-plugin = "KIE :: Execution Server :: Deploy Maven Plugin"
-org.kie.server -> kie-server:kie-server-maven-plugin = "KIE :: Execution Server :: Deploy Maven Plugin"
 org.kie.workbench.services -> kie-wb-common-compilers:kie-wb-common-compiler-maven-plugins = "Kie Workbench - Common - Compiler - Maven Plugins"
 org.kite9 -> kite9-java:kite9-java-maven-plugin = "Kite9 Maven Mojo"
 org.kitesdk -> kite:kite-maven-plugin = "Kite Maven Plugin"
