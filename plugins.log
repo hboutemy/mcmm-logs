@@ -744,6 +744,7 @@ com.github.mkolisnyk -> sirius:sirius-maven-plugin = "sirius-maven-plugin"
 com.github.mogikanen9.maven.plugins -> xml-cleanup:xml-cleanup-maven-plugin = "xml-cleanup-maven-plugin"
 com.github.monkeywie -> copy-rename:copy-rename-maven-plugin = "Copy Rename Maven Plugin"
 com.github.mpkorstanje -> tr39-confusables-table-generator:tr39-confusables-table-generator-maven-plugin = "Unicode TR39 Table Generator"
+com.github.mxsm -> jetcd-launcher:jetcd-launcher-maven-plugin = 
 com.github.myoss.maven.plugins -> archetypes:archetypes-maven-plugin = 
 com.github.mzachar.maven.plugins -> virgo-plan:virgo-plan-maven-plugin = "Virgo Plan Maven Plugin"
 com.github.nahuelolgiati -> jaxrs-angular:jaxrs-angular-maven-plugin = "jaxrs-angular-maven-plugin"
