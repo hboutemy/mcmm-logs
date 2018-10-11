@@ -3470,6 +3470,7 @@ org.fabric3 -> fabric3-packager:fabric3-packager-plugin = "Fabric3 Packager Plug
 org.fabrician.maven-plugins -> distribution:distribution-plugin = "Maven Plugin for SilverFabric Distributions"
 org.fakereplace -> fakereplace:fakereplace-maven-plugin = "Fakereplace Maven Plugin"
 org.fastnate -> fastnate:fastnate-maven-plugin = "Fastnate Maven Plugin"
+org.fcrepo -> jetty-console:jetty-console-maven-plugin = "Jetty-Console Maven Plugin"
 org.fedoraproject.xmvn -> xmvn-mojo:xmvn-mojo = "XMvn MOJO"
 org.fiirs -> drools-knowledge-packager:drools-knowledge-packager = "Drools Knowledge Packager Maven Plugin"
 org.finra.herd -> herd-swaggergen:herd-swaggergen-maven-plugin = "herd swaggergen maven plugin"
