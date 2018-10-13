@@ -1645,6 +1645,7 @@ de.akquinet.android.rindirect -> rindirect:maven-rindirect-plugin = "maven-rindi
 de.akquinet.innovation.play2 -> play2:play2-maven-plugin = "play2-maven-plugin"
 de.akquinet.jbosscc.latex -> latex:maven-latex-plugin = "Maven LaTeX Plugin"
 de.alpharogroup -> jpa-data-gen:jpa-data-gen-maven-plugin = "${project.artifactId}"
+de.andreasgerhard -> exception-logging-generator:exception-logging-generator-mavenplugin = 
 de.andrena.tools.macker -> macker:macker-maven-plugin = "Macker Maven Plugin"
 de.androbit -> brainslug:brainslug-maven-bpmn = "brainslug-maven-bpmn-plugin"
 de.androbit -> brainslugbpmn:brainslug-maven-bpmn = "brainslug-maven-bpmn-plugin"
