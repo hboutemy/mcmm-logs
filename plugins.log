@@ -1398,6 +1398,7 @@ com.rimerosolutions.maven.plugins -> wrapper:wrapper-maven-plugin = "Maven Wrapp
 com.robertboothby -> delegator-generator:delegator-generator-maven-plugin = "Delegator Generator Plugin"
 com.rodiontsev.maven.plugins -> build-info:build-info-maven-plugin = "Build Info Maven Plugin"
 com.rodiontsev.maven.plugins -> build-info:maven-build-info-plugin = "Maven Build Info Plugin"
+com.rudikershaw.gitbuildhook -> git-build-hook:git-build-hook-maven-plugin = "Git Build Hook Maven Plugin"
 com.ruleoftech -> markdown-page-generator:markdown-page-generator-plugin = "Markdown Page Generator Maven Plugin"
 com.rultor -> rultor:rultor-maven-plugin = "rultor-maven-plugin"
 com.salesforce.servicelibs -> proto-backwards-compatibility:proto-backwards-compatibility = "Proto Backwards Compatibility Maven Mojo"
