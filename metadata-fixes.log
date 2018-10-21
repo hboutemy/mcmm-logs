@@ -2017,7 +2017,6 @@ com.google.apis:google-api-services-siteVerification => -v1-rev45-1.18.0-rc, -v1
 com.google.apis:google-api-services-sqladmin => -v1beta3-rev47-1.18.0-rc, -v1beta3-rev47-1.20.0, -v1beta4-rev19-1.18.0-rc, -v1beta4-rev19-1.19.1, -v1beta4-rev19-1.21.0
 com.google.apis:google-api-services-streetviewpublish => -v1-rev66-1.18.0-rc, -v1-rev66-1.22.0, -v1-rev66-1.23.0
 com.google.apis:google-api-services-vision => -v1-rev8-1.18.0-rc, -v1-rev8-1.19.1, -v1-rev8-1.20.0, -v1-rev8-1.21.0
-com.google.apis:google-api-services-websecurityscanner => -v1alpha-rev111-1.22.0
 com.google.apis:google-api-services-youtube => -v3-rev163-1.18.0-rc, -v3-rev163-1.19.1, -v3-rev163-1.20.0, +v3-rev140-1.18.0-rc, +v3-rev140-1.19.0, +v3-rev140-1.19.1, +v3-rev140-1.20.0, +v3-rev79-1.17.0-rc
 ## com.google.appengine.orm:datanucleus-core => -1.1.5
 ## com.google.appengine.orm:datanucleus-jpa => -1.1.5
