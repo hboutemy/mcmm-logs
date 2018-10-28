@@ -917,6 +917,7 @@ com.github.veithen.cosmos -> p2-publisher:p2-publisher-maven-plugin =
 com.github.veithen.daemon -> daemon:daemon-maven-plugin = "daemon-maven-plugin"
 com.github.veithen.filecheck -> filecheck:filecheck-maven-plugin = "Filecheck Maven Plugin"
 com.github.veithen.invoker -> resolver-proxy:resolver-proxy-maven-plugin = 
+com.github.veithen.maven -> wsimport:wsimport-maven-plugin = 
 com.github.veithen.maven -> xjc:xjc-maven-plugin = 
 com.github.veithen.phos -> enforcer:enforcer-maven-plugin = "Phos Enforcer Plugin"
 com.github.veithen.phos -> jacoco:jacoco-maven-plugin = 
