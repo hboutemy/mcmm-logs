@@ -1985,6 +1985,7 @@ io.github.catcoderr -> artifact-publisher:artifact-publisher-plugin = "Artifact 
 io.github.cjkent.osiris -> osiris:osiris-maven-plugin = "Osiris Maven Plugin"
 io.github.codemumbler.maven.plugin -> mdbconverter:mdbconverter = "mdbconverter Maven Mojo"
 io.github.dibog -> pom-to-dot:pom-to-dot-maven-plugin = 
+io.github.dimitrovvlado -> proto-lint:proto-lint-maven-plugin = "proto-lint-maven-plugin"
 io.github.divinespear -> jpa-schema:jpa-schema-maven-plugin = "jpa-schema-maven-plugin"
 io.github.faketime-java -> faketime:faketime-maven-plugin = "FakeTime Maven Plugin"
 io.github.flaw101 -> concat:concat-maven-plugin = "Concat Maven Plugin"
