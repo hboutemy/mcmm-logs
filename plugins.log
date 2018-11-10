@@ -1853,6 +1853,7 @@ eu.numberfour.maven.plugins -> jscoverage-cobertura:jscoverage-cobertura-maven-p
 eu.openminted.share.annotations -> omtd-share-annotations:omtd-share-annotations-maven-plugin = "OpenMinTeD SHARE (v${omtd-share.version}) Annotations for Java - Maven Plugin"
 eu.ralph-schuster -> uploadfiles:uploadfiles-maven-plugin = "${project.groupId}.${project.artifactId}"
 eu.somatik.serviceloader-maven-plugin -> serviceloader:serviceloader-maven-plugin = "Serviceloader Plugin"
+eu.stamp-project -> botsing:botsing-maven = "Botsing Maven Plugin"
 eu.stamp-project -> diff-test-selection:diff-test-selection = "Diff Test Selection"
 eu.stamp-project -> dspot:dspot-maven = "DSpot - Maven Plugin"
 eu.stamp-project -> pitmp:pitmp-maven-plugin = "${project.groupId}:${project.artifactId}"
