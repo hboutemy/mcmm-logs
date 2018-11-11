@@ -2174,6 +2174,7 @@ io.yegair -> kotlin-js-bundle:kotlin-js-bundle-maven-plugin = "KotlinJS Bundle M
 io.zatarox.satellite -> dumper:dumper-maven-plugin = "Satellite :: Plugins :: Dumper"
 io.zatarox.satellite -> satellite:satellite-maven-plugin = "Satellite :: Plugins :: Runner"
 io.zeebe -> zb-githooks:zb-githooks-plugin = "Zeebe Git Hooks Maven Plugin"
+io.zerocopy.maven.plugins -> resources:resources-maven-plugin = 
 io.zipkin.centralsync-maven-plugin -> centralsync:centralsync-maven-plugin = "Central Sync Maven Plugin"
 io.zipkin.java -> centralsync:centralsync-maven-plugin = "Central Sync Maven Plugin"
 it.anyplace.web -> a-web:a-web-maven-plugin = "a-web-maven-plugin"
