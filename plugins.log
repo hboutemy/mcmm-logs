@@ -755,6 +755,7 @@ com.github.mzachar.maven.plugins -> virgo-plan:virgo-plan-maven-plugin = "Virgo 
 com.github.nahuelolgiati -> jaxrs-angular:jaxrs-angular-maven-plugin = "jaxrs-angular-maven-plugin"
 com.github.napp-com -> resource-minifier:resource-minifier = "Resource Minifier"
 com.github.ndrew -> jasmine:jasmine-maven-plugin = "jasmine-maven-plugin"
+com.github.ngeor -> yak4j-filename-conventions:yak4j-filename-conventions-maven-plugin = "yak4j Filename Conventions Maven Plugin"
 com.github.ngeor -> yak4j-swagger:yak4j-swagger-maven-plugin = "yak4j Swagger Maven Plugin"
 com.github.nicholasastuart -> mule-mmc-rest:mule-mmc-rest-plugin = "Mule MMC REST Plugin"
 com.github.nikodem911 -> s3-upload:s3-upload-maven-plugin = "S3 upload maven plugin"
