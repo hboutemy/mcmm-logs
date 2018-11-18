@@ -651,6 +651,7 @@ com.github.jegr78 -> image-gallery:image-gallery-maven-plugin = "Maven Image Gal
 com.github.jeluard -> plantuml:maven-plantuml-plugin = "Maven PlantUML plugin"
 com.github.jeluard -> plantuml:plantuml-maven-plugin = "Maven PlantUML plugin"
 com.github.jeluard.ion.plugins -> ion:ion-maven-plugin = "iON maven plugin"
+com.github.jiangxincode -> emma:emma-maven-plugin = "Maven Emma Plugin"
 com.github.jiangxincode -> simian:simian-maven-plugin = "Simian Maven Plugin"
 com.github.jiayuhan-it -> hadoops:hadoop-maven-plugins = "Apache Hadoop Maven Plugins"
 com.github.jinahya -> semver:semver-maven-plugin = "${project.artifactId}"
