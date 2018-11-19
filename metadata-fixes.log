@@ -6235,6 +6235,7 @@ io.mangoo:mangooio-maven-archetype => +4.0.0-Aplha1
 io.mangoo:mangooio-maven-plugin => +4.0.0-Aplha1
 io.mangoo:mangooio-test => +4.0.0-Aplha1
 io.minio:minio => +0.0.3, +0.1.0
+io.muserver:mu-server => +0.15.0.0
 io.netty:netty-all => +4.0.29.Final
 io.netty:netty-buffer => +4.0.29.Final
 io.netty:netty-codec => +4.0.29.Final
