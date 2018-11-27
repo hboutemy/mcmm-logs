@@ -2938,6 +2938,7 @@ org.apache.sling -> jspc:maven-jspc-plugin = "Apache Sling Maven Plugin for Comp
 org.apache.sling -> launchpad:maven-launchpad-plugin = "Apache Sling Launchpad Maven Plugin"
 org.apache.sling -> sling:maven-sling-plugin = "Apache Sling Maven Sling Plugin"
 org.apache.sling -> sling:maven-sling-plugin = "Apache Sling Maven Plugin for Supporting Bundle Development"
+org.apache.sling -> slingfeature:slingfeature-maven-plugin = "Apache Sling OSGi Feature Maven Plugin"
 org.apache.sling -> slingstart:slingstart-maven-plugin = "Apache Sling SlingStart Maven Plugin"
 org.apache.storm -> storms:storm-maven-plugins = "storm-maven-plugins"
 org.apache.streams.plugins -> streamscassandra:streams-plugin-cassandra = 
