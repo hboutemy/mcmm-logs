@@ -3755,6 +3755,7 @@ org.jnario -> jnarioreport:jnario-maven-report-plugin = "Jnario Maven Report Plu
 org.jnario -> report:report = "Jnario Maven Report Plugin"
 org.joda -> joda-beans:joda-beans-maven-plugin = "Joda-Beans Maven plugin"
 org.joda -> joda-beans:maven-joda-beans-plugin = "Joda Beans Maven plugin"
+org.joinfaces -> joinfaces:joinfaces-maven-plugin = "JoinFaces Maven Plugin"
 org.jolokia -> docker:docker-maven-plugin = "maven-docker-plugin"
 org.jomc -> jomc:maven-jomc-plugin = "JOMC ⁑ Maven Plugin"
 org.jomc -> jomc:maven-jomc-plugin = "Maven JOMC Plugin"
