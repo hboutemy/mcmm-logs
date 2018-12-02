@@ -17605,6 +17605,7 @@ org.webjars:datatables => +1.10.7
 org.webjars:datatables-plugins => +1.10.7
 org.webjars:datatables-tools => +2.2.4
 org.webjars:diff2html => +0.2.3
+org.webjars:dojo-src => +1.10.4
 org.webjars:flag-icon-css => +0.7.1
 org.webjars:hal-browser => +0c629d4
 org.webjars:jquery => +1.11.3, +2.1.4
