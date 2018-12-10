@@ -203,6 +203,7 @@ com.arpnetworking.commons -> javassist:javassist-maven-plugin = "Maven Javassist
 com.artnaseef -> activemq:activemq-maven-plugin = "ActiveMQ Maven Plugin"
 com.artnaseef -> kafka:kafka-maven-plugin = "kafka-maven-plugin Maven Plugin"
 com.arturmkrtchyan.kafka -> kafka:kafka-maven-plugin = "kafka-maven-plugin"
+com.assertthat.plugins -> assertthat-bdd:assertthat-bdd-maven-plugin = "assertthat-bdd-maven-plugin"
 com.astutebits -> jsquint:jsquint-maven-plugin = "jsquint-maven-plugin"
 com.atlassian.bamboo -> bamboo-specs-runner:bamboo-specs-runner = "Bamboo Specs Runner Maven Plugin"
 com.atlassian.maven.plugins -> aws-integration-test:aws-integration-test-plugin = "AWS Integration Test Plugin"
