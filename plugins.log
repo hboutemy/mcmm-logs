@@ -2412,6 +2412,7 @@ net.pdiaz.nfunction -> nfunction:nfunction-maven-plugin = "nFunction Maven Plugi
 net.peachjean.mojo.pegdown -> pegdown:pegdown-maven-plugin = "pegdown-maven-plugin Maven Mojo"
 net.peachjean.tater -> tater:tater-maven-plugin = "Tater :: Maven Plugin"
 net.phaedra -> phaedra-archetype:phaedra-archetype = "phaedra-archetype"
+net.psybit.factory -> mother-factory:mother-factory = "mother-factory generator Maven Plugin"
 net.quies.colfer -> colfer:colfer-maven-plugin = "Colfer Maven Plugin"
 net.radai -> grep:grep-maven-plugin = "grep-maven-plugin"
 net.rationalminds -> sql:sql-maven-plugin = "SQL Maven Plugin"

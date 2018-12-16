@@ -17718,7 +17718,6 @@ org.webjars.npm:babel => +5.5.8
 org.webjars.npm:babel-core => +5.5.8
 org.webjars.npm:babel-plugin-styled-components => +1.9.0
 org.webjars.npm:block-stream => +0.0.8
-org.webjars.npm:bootstrap-table => +1.12.2
 org.webjars.npm:bower => +1.4.0
 org.webjars.npm:bpmn-js => +0.12.0
 org.webjars.npm:bytes => +3.0.0
