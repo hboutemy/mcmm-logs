@@ -1521,6 +1521,7 @@ com.github.emc-mongoose:mongoose-tests-system => +4.0.0-alpha
 com.github.emc-mongoose:mongoose-tests-unit => +4.0.0-alpha
 com.github.emc-mongoose:mongoose-ui => +4.0.0-alpha
 com.github.esrrhs:fakescript-java => -1.0.4
+com.github.f4irline:ezparser => -2.0
 com.github.fabiojose.kafka:gson-serde => +1.1
 com.github.fangasvsass:react-native => +0.53.3
 com.github.fartherp:framework => +1.0.0
