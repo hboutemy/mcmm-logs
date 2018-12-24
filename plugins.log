@@ -2047,6 +2047,7 @@ io.github.stephenc.maven -> rfmm:rfmm-maven-plugin = "Release From My Machine Ma
 io.github.tfahub -> local-repository:local-repository-maven-plugin = "Local Repository Maven Plugin"
 io.github.theangrydev.fluentbdd -> assertj-extensions-generator:assertj-extensions-generator = 
 io.github.therealarthurdent -> jsonpath:jsonpath-maven-plugin = "JsonPath Maven Plugin"
+io.github.thingersoft -> properties-manager:properties-manager-maven-plugin = "Properties Manager Maven Plugin"
 io.github.tobiashochguertel -> documentation:documentation-maven-plugin = "documentation-maven-plugin"
 io.github.wanghuayao -> oaktree:maven-plugin-oaktree = "maven plugin oaktree"
 io.github.yas99en -> script:script-maven-plugin = "${project.groupId}:${project.artifactId}"
