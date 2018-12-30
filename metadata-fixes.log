@@ -2560,6 +2560,7 @@ com.liferay:com.liferay.announcements.web => -3.0.5, -2.0.15, -3.0.6, -2.0.16
 com.liferay:com.liferay.ant.bnd => -2.0.11
 com.liferay:com.liferay.apio.architect.api => -1.4.0
 com.liferay:com.liferay.apio.architect.impl => -1.0.7, -1.0.8
+com.liferay:com.liferay.apio.architect.test.fragment => +1.0.0
 com.liferay:com.liferay.apio.architect.test.util => -1.0.8, -1.0.9
 com.liferay:com.liferay.application.list.my.account.permissions => -2.0.1, -1.0.2
 com.liferay:com.liferay.application.list.user.personal.site.permissions => -3.0.1
