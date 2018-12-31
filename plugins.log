@@ -813,6 +813,7 @@ com.github.puddingspudding -> confluence:confluence-maven-plugin = "${project.gr
 com.github.pudovika -> uglifyjs-cleancss:uglifyjs-cleancss-maven-plugin = "uglifyjs-cleancss-maven-plugin"
 com.github.pukkaone -> closure-compiler:closure-compiler-maven-plugin = "${project.artifactId}"
 com.github.putpixel -> liquibase-unwrap-all:liquibase-unwrap-all-maven-plugin = "liquibase-unwrap-all-maven-plugin Maven Plugin"
+com.github.quantumcs -> ocean:ocean-maven-plugin = "ocean-maven-plugin"
 com.github.ramonnteixeira -> dependency-analizer:dependency-analizer-plugin = "Maven dependency analiser plugin"
 com.github.randomcodeorg.ppplugin -> pp:ppplugin = "Post Processor Plugin"
 com.github.raphc -> selenese4j:selenese4j-maven-plugin = "${project.artifactId}"
