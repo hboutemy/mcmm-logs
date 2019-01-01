@@ -4516,6 +4516,7 @@ ph.samson.maven -> cpages:cpages-maven-plugin = "cpages-maven-plugin Maven Plugi
 pl.allegro -> grunt:grunt-maven-plugin = "grunt-maven-plugin"
 pl.coderion.mongodb -> mongeez:mongeez-maven-plugin = "Mongeez Maven Plugin"
 pl.decerto -> decerto-liquibase:decerto-liquibase-maven-plugin = "Decerto Liquibase Maven Plugin"
+pl.decerto.hyperon.persistence -> codegen:codegen-maven-plugin = "${project.groupId}:${project.artifactId}"
 pl.jojczykp.maven.plugins -> aws:aws-maven-plugin = "${project.groupId}:${project.artifactId}"
 pl.kubiczak -> jade-to-filters:jade-to-filters-maven-plugin = "Jade to Filters Maven Plugin"
 pl.project13.maven -> git-commit-id:git-commit-id-plugin = "Git Commit Id Maven Plugin"
