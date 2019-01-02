@@ -634,6 +634,7 @@ com.github.gtxtreme21 -> passfailreport:passfailreport-maven-plugin = "Jmeter Pa
 com.github.guru107 -> flinkjobupload:flinkjobupload-maven-plugin = "Apache Flink Job Upload Plugin"
 com.github.harti2006 -> neo4j-server:neo4j-server-maven-plugin = "Neo4j Server Maven Plugin"
 com.github.havardh -> javaflow:javaflow-maven-plugin = "Javaflow Maven Plugin"
+com.github.hazendaz.maven -> htmlcompressor:htmlcompressor-maven-plugin = "Maven HTMLCompressor Plugin"
 com.github.hazendaz.maven -> makeself:makeself-maven-plugin = "makeself-maven-plugin"
 com.github.hazendaz.maven -> smartsprites:smartsprites-maven-plugin = "smartsprites-maven-plugin"
 com.github.hazendaz.spotbugs -> spotbugs:spotbugs-maven-plugin = "SpotBugs Maven Plugin"
