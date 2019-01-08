@@ -71,6 +71,7 @@ cd.connect.pipeline -> docker-manifest-collectosaur:docker-manifest-collectosaur
 cd.connect.plugins -> connect-prescan:connect-prescan-plugin = "connect-prescan-plugin"
 ch.acanda.maven -> spring-banner:spring-banner-plugin = "Spring Banner Plugin"
 ch.carve -> consulkv:consulkv-maven-plugin = "consulkv-maven-plugin"
+ch.cern.eam -> javamerger:javamerger-maven-plugin = "Java Merger Maven Plugin"
 ch.cern.hadoop -> hadoops:hadoop-maven-plugins = "Apache Hadoop Maven Plugins"
 ch.cmbntr -> modulizer:modulizer-plugin = "Modulizer Maven Plugin"
 ch.digitalfondue.jscover -> jscoverproxy:jscoverproxy-maven-plugin = "jscoverproxy-maven-plugin Maven Plugin"
