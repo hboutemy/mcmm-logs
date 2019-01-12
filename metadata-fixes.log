@@ -5755,7 +5755,6 @@ info.novatec.testit:testutils-logrecorder => +0.2.0
 info.novatec.testit:testutils-logrecorder-logback => +0.2.0
 info.novatec.testit:testutils-logsuppressor-logback => +0.2.0
 info.novatec.testit:testutils-mockito => +0.2.0
-info.picocli:picocli-codegen => +3.9.1
 info.ronjenkins:smart-reactor-maven-extension => -0.1.1, -0.1.2
 io.adaptivecards:adaptivecards-android-arm => +0.5.0
 io.advantageous.qbit:qbit-admin => +0.8.10, +0.8.9
