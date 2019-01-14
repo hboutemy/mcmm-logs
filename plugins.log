@@ -2031,6 +2031,7 @@ io.github.carousell -> testrail:testrail-maven-plugin = "Maven plugin to create 
 io.github.catcoderr -> artifact-publisher:artifact-publisher-plugin = "Artifact Publisher Maven Mojo"
 io.github.cjkent.osiris -> osiris:osiris-maven-plugin = "Osiris Maven Plugin"
 io.github.codemumbler.maven.plugin -> mdbconverter:mdbconverter = "mdbconverter Maven Mojo"
+io.github.daniloarcidiacono.typescriptmapper -> typescript-mapper:typescript-mapper-maven-plugin = "Typescript mapper Maven plugin"
 io.github.dibog -> pom-to-dot:pom-to-dot-maven-plugin = 
 io.github.dimitrovvlado -> proto-lint:proto-lint-maven-plugin = "proto-lint-maven-plugin"
 io.github.divinespear -> jpa-schema:jpa-schema-maven-plugin = "jpa-schema-maven-plugin"
