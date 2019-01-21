@@ -7476,6 +7476,7 @@ net.sf.sfac:sfac => +0.3, +0.4
 net.sf.sfac:sfac-core => +0.3, +0.4
 net.sf.sfac:sfac-launcher => +0.3, +0.4
 net.sf.sfac:sfac-utils => +0.3, +0.4
+net.sf.smc:smc => +4.3
 net.sf.speculoos:speculoos => +1.0.1
 net.sf.speculoos:speculoos-all => +1.0.1
 net.sf.speculoos:speculoos-commons => +1.0.1
