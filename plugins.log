@@ -651,6 +651,7 @@ com.github.himadri77 -> generate-default-impl:generate-default-impl-plugin = "Ge
 com.github.hotchemi -> deploygate:deploygate-maven-plugin = "deploygate-maven-plugin"
 com.github.houbb -> gen:gen-maven-plugin = "maven-gen-plugin"
 com.github.htfv.maven.plugins -> build-configurator:build-configurator-maven-plugin = "Build Configurator Maven Plugin"
+com.github.iarellano -> iad-j2y2j-converter:iad-j2y2j-converter-maven-plugin = "Json to Yaml to Json Converter Maven Plugin"
 com.github.iarellano -> iad-json-properties:iad-json-properties-maven-plugin = "Properties loader from Json file"
 com.github.iarellano -> iad-rest-client:iad-rest-client-maven-plugin = "REST Client Maven Plugin"
 com.github.iesen -> rabbitmq:rabbitmq-maven-plugin = "RabbitMQ Maven Plugin"
