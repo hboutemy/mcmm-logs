@@ -1889,6 +1889,7 @@ com.github.spinalhdl:spinalhdl-core_2.11 => +0.3.4, +0.3.5, +0.3.6, +0.3.7
 com.github.spinalhdl:spinalhdl-lib_2.11 => +0.3.4, +0.3.5, +0.3.6, +0.3.7
 com.github.springbootPlus:coder-maven-plugin => +1.0.2.0
 com.github.spyhunter99:install-cert => +1.0.0
+com.github.sridhar-001:UtilTestListener => +1.0.0
 com.github.stanford-futuredata.momentsketch:momentsketch-solver => +0.1.0
 com.github.staslev:AtomicMapOperations => +trunk
 com.github.stefanbirkner:system-rules => +1.11.0
