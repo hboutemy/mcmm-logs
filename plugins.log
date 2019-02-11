@@ -445,6 +445,7 @@ com.expedia.tesla -> tesla-compiler:tesla-compiler-maven-plugin = "tesla-compile
 com.facebook.mojo -> swift:swift-maven-plugin = "${project.artifactId}"
 com.famaridon -> scoped-properties:scoped-properties-maven-plugin = "Scoped properties Maven plugin"
 com.fasterxml -> stringtemplate:maven-stringtemplate-plugin = "maven-stringtemplate-plugin"
+com.fastjrun.codeg -> sdkg-helper:sdkg-helper = 
 com.fengjx.maven.cdn -> cdn-alioss:maven-cdn-alioss-plugin = "alioss"
 com.ffbit.maven.plugins -> solr:solr-maven-plugin = "Apache Solr Maven Plugin"
 com.filmon.maven -> blackberry10:blackberry10-maven-plugin = "Blackberry 10 Maven Mojo"
