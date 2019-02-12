@@ -3212,6 +3212,7 @@ com.linecorp.armeria:armeria-zookeeper => -0.56.0
 com.linecorp.armeria:armeria-zookeeper-shaded => -0.56.0
 com.linkedin.android.spyglass:spyglass => +1.1.0
 com.linkedin.gobblin:gobblin-admin => +0.6.2
+com.linkedin.play-restli:play-restli_2.11 => -0.1.6
 com.linkmobility.events:test-events => +1.0.0
 com.liuguangqiang.support:sample => +0.0.1
 com.livae:android-loadingHelper => -1.1.1

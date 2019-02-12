@@ -983,6 +983,7 @@ com.github.wokier.progress-maven-plugin -> progress:progress-maven-plugin = "Pro
 com.github.wolf480pl.maven-plugins -> template:template-maven-plugin = "Template Maven Plugin"
 com.github.wpic -> coffeescript:coffeescript-maven-plugin = "coffeescript-maven-plugin"
 com.github.wpic -> less:less-maven-plugin = "less-maven-plugin"
+com.github.wtbian -> generator:generator-maven-plugin = "generator-maven-plugin Maven Mojo"
 com.github.wuic.plugins -> metadata-generator:metadata-generator-maven-plugin = 
 com.github.wuic.plugins -> static-helper:static-helper-maven-plugin = 
 com.github.wvengen -> proguard:proguard-maven-plugin = "proguard-maven-plugin"
