@@ -482,6 +482,7 @@ com.gitee.l0km -> codegen-thrift:codegen-thrift-maven-plugin = "codegen-thrift-m
 com.gitee.l0km -> decorator:decorator-maven-plugin = "decorator-maven-plugin"
 com.gitee.l0km -> facelogservice:facelogservice-maven-plugin = "facelogservice-maven-plugin"
 com.gitee.l0km -> swift2thrift:swift2thrift-maven-plugin = "swift2thrift-maven-plugin"
+com.gitee.l0km -> thrifty-compiler:thrifty-compiler-maven-plugin = "maven plugin for Microsoft/thrifty compiler"
 com.github.ChenChiaHung -> testrail:testrail-maven-plugin = "Maven plugin to create test runs on TestRail"
 com.github.Cka3o4Huk -> jmeter-graph:jmeter-graph-maven-plugin = "JMeter Graphs Maven Plugin"
 com.github.K0zka -> contentgzip:contentgzip-maven-plugin = "Content Gzip Maven Plugin"
