@@ -2675,6 +2675,7 @@ org.andromda.maven.plugins.site -> andromda-site:andromda-site-plugin = "AndroMD
 org.andromda.maven.site -> andromda-site:andromda-site-plugin = "AndroMDA Site Plugin"
 org.antipathy -> mvn-scalafmt:mvn-scalafmt = "Scalafmt Maven Plugin"
 org.antipathy -> mvn-scalafmt_${version.scala.binary}:mvn-scalafmt_${version.scala.binary} = "ScalaFmt Maven Plugin (${version.scala.binary})"
+org.antipathy -> mvn-scoozie:mvn-scoozie = "Scoozie Maven Plugin"
 org.antlr -> antlr3:antlr3-maven-plugin = "ANTLR 3 Maven plugin"
 org.antlr -> antlr4:antlr4-maven-plugin = "ANTLR 4 Maven plugin"
 org.antlr -> gunit:maven-gunit-plugin = "ANTLR 3 gUnit Maven plugin"
