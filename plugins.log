@@ -374,6 +374,7 @@ com.cyrusinnovation -> start-stubble_2.9.2:start-stubble-plugin_2.9.2 =
 com.cyrusinnovation -> stop-stubble:stop-stubble-plugin = "Stop Stubble Maven Plugin"
 com.cyrusinnovation -> stop-stubble_2.10:stop-stubble-plugin_2.10 = 
 com.cyrusinnovation -> stop-stubble_2.9.2:stop-stubble-plugin_2.9.2 = 
+com.d4iot.oss.plugin.ci -> ci-version:ci-version-plugin = 
 com.d4iot.oss.plugin.packager -> jar-manifest-builder:jar-manifest-builder-plugin = 
 com.dajudge.yabuto -> yabuto:yabuto-maven-plugin = "Yabuto ${project.artifactId}"
 com.dajudge.yabuto -> yabuto:yabuto-plugin = 
