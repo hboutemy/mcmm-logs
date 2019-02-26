@@ -2023,6 +2023,7 @@ io.datawire.quark.build -> quark:quark-maven-plugin = "quark maven plugin"
 io.dazraf -> vertx-hot:vertx-hot-maven-plugin = "vert.x-hot maven plugin"
 io.determan -> jschema:jschema-maven-plugin = "jschema-maven-plugin"
 io.determan -> json-schema:json-schema-maven-plugin = "json-schema-maven-plugin"
+io.devbench.uibuilder.i18n.plugin -> uibuilder-i18n:uibuilder-i18n-maven-plugin = "UIBuilder i18n - plugins - maven plugin"
 io.dmuncle.maven -> dmuncle:dmuncle-maven-plugin = "DM Uncle Maven Plugin"
 io.doov -> doov-generator:doov-generator = "dOOv Generator Maven Plugin"
 io.earcam.maven.plugin -> io.earcam...jigsaw:io.earcam.maven.plugin.jigsaw = 
