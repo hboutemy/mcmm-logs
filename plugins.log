@@ -4198,6 +4198,7 @@ org.openengsb.tooling.pluginsuite -> openengsb:openengsb-maven-plugin = "OpenEng
 org.openengsb.tooling.wsdl2dll -> wsdl2dll:wsdl2dll-maven-plugin = "OpenEngSB :: Loom :: CSharp :: Common :: WSDL to DLL Maven Plugin"
 org.openhab.tools.sat -> sat:sat-plugin = "Static Code Analysis Tool Maven Plugin"
 org.openjdk.jmh -> jmh-generator:jmh-generator-maven-plugin = "JMH Generator Maven Plugin"
+org.openjfx -> javafx:javafx-maven-plugin = "javafx-maven-plugin Maven Mojo"
 org.openl.rules -> openl:openl-maven-plugin = "OpenL Maven Plugin"
 org.openmrs.maven.plugins -> openmrs-sdk-docker:openmrs-sdk-docker-maven-plugin = "OpenMRS SDK Docker Maven Plugin"
 org.openmrs.maven.plugins -> openmrs-sdk:openmrs-sdk-maven-plugin = "OpenMRS SDK Maven Plugin"
