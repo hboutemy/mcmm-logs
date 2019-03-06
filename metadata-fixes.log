@@ -5172,6 +5172,7 @@ de.fhg.fokus.nubomedia:nubomedia-media-client => -1.0.1
 de.flapdoodle.embed:de.flapdoodle.embed.mongo => +1.48.0
 de.heikoseeberger:akka-http-json-play_2.11 => +0.6.0, +0.7.0-b9281f84ab3cb119ad2d3ff1d48701eca6f77f37
 de.hhu.stups:alloy2b => +1.1-BETA
+de.hhu.stups:cliparser => -2.9.19
 de.hilling.junit.cdi:cdi-test => +0.10.1
 de.hilling.junit.cdi:cdi-test-core => +0.10.1
 de.hilling.junit.cdi:cdi-test-cucumber => +0.10.1
