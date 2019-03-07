@@ -2162,6 +2162,8 @@ io.probedock.maven.plugins -> probedock-uuid:probedock-uuid-maven-plugin = "Prob
 io.protostuff -> protostuff:protostuff-maven-plugin = "Protostuff Compiler - Maven Plugin"
 io.pst.mojo -> s3-static-uploader:s3-static-uploader-plugin = "S3 Static Uploader Plugin"
 io.qameta.allure -> allure:allure-maven = "Allure Maven"
+io.quarkus -> quarkus-extension:quarkus-extension-plugin = "Quarkus - Extension Maven plugin"
+io.quarkus -> quarkus:quarkus-maven-plugin = "Quarkus - Maven Plugin"
 io.reactiverse -> vertx:vertx-maven-plugin = "A Maven Plugin for Eclipse Vert.x"
 io.redlink.ssix.moven -> moven:moven-maven-plugin = "Moven Maven Plugin"
 io.redskap -> swagger-brake:swagger-brake-maven-plugin = "${project.groupId}:${project.artifactId}"
@@ -3148,6 +3150,7 @@ org.bitbucket.bradleysmithllc.regular-expression-proxy-compiler -> regular-expre
 org.bitbucket.bradleysmithllc.regular-expression-proxy-compiler -> regular-expression-proxy-compiler:regular-expression-proxy-compiler = "regular-expression-proxy-compiler Maven Plugin"
 org.bitbucket.cowwoc -> cmake:maven-cmake-plugin = "CMake Maven Plugin"
 org.bitbucket.cowwoc -> requirements:requirements-maven-plugin = "Requirements-Maven-Plugin"
+org.bitbucket.cowwoc.requirements -> _:maven_plugin = 
 org.bitbucket.daniel_schreiber.release-manager-for-bitbucket -> bitbucket-release-manager:bitbucket-release-manager-maven-plugin = "Bitbucket release manager maven plugin"
 org.bitbucket.idensitylab -> cucumber-features-pp:cucumber-features-pp-maven-plugin = "${project.groupId}:${project.artifactId}"
 org.bitbucket.joxley -> getdown:getdown-maven-plugin = "getdown-maven-plugin"
