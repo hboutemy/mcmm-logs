@@ -303,6 +303,7 @@ cn.qianyanglong.sdk:sdk-for-qianyanglong => +0.0.1
 cn.snowheart:dingtalk-robot => +1.0.0.RELEASE
 cn.songxinqiang:ssmv-parent => +1.0.2
 cn.univyz:univyz-framework => -1.2.6
+cn.yueshutong:AiPa => +1.0.0.RELEASE
 cn.zkdcloud:weChat => +0.1-RELEASE
 co.actioniq.thirdparty.ohnosequences:ivy-s3-resolver => -0.8.0
 co.cask.common:common => +0.7.0
