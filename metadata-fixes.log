@@ -1461,6 +1461,7 @@ com.github.chendb:flagwind-mybatis => -0.0.8
 com.github.chendb:flagwind-persistent => -0.0.8
 com.github.choonchernlim:build-reports => -0.2.0
 com.github.choonchernlim:spring-security-adfs-saml2 => -0.1.0, -0.2.0
+com.github.chris2018998:BeeCP => +0.70
 com.github.chrischristo:capsule-maven-plugin => -1.0.4
 com.github.clans:fab => +1.5.1, +1.5.2
 com.github.claymantwinkle:recyclerviewassist => +0.0.2
