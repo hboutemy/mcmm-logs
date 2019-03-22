@@ -1722,6 +1722,7 @@ com.zenika -> varnishtest:varnishtest-maven-plugin = "Maven plugin for varnishte
 com.zenjava -> jfx:javafx-maven-plugin = "JavaFX Maven Plugin"
 com.zenjava -> javafx:javafx-maven-plugin = "JavaFX Maven Plugin"
 com.zenofx.maven -> marketplace:marketplace-maven-plugin = "Atlassian Marketplace publishing Maven Plugin"
+com.zusmart -> zusmart:zusmart-maven-plugin = "zusmart-maven-plugin"
 cz.alry -> plantuml:plantuml-maven-plugin = "Maven PlantUML plugin"
 cz.cuni.mff.d3s.spl -> jmh_spl:jmh_spl-maven-plugin = "SPL integration into JMH Maven Plugin"
 cz.cvut.kbss.jopa -> jopa:jopa-maven-plugin = "JOPA - maven plugin"
