@@ -1841,6 +1841,7 @@ de.ntcomputer -> executable-packer:executable-packer-maven-plugin = "Executable 
 de.oscillation.maven -> doxygen:doxygen-maven-plugin = "Doxygen Plugin for Maven"
 de.paktosan -> mcServer:mcServer-maven-plugin = "mcServer-maven-plugin"
 de.pentabyte.tools -> i18n:i18n-maven-plugin = "Language File Generator"
+de.perdian.maven.plugins -> macosappbundler:macosappbundler-maven-plugin = "macOS App Bundler Plugin"
 de.pfabulist -> ianal-but:ianal-but-maven-plugin = "ianal-but-maven-plugin"
 de.pfabulist -> loracle:loracle-maven-plugin = "loracle-maven-plugin"
 de.philippkatz.maven.plugins -> test-parser:test-parser-plugin = "Test Parser Plugin for Maven"
