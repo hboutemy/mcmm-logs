@@ -1250,6 +1250,7 @@ com.jolira -> onejar:onejar-maven-plugin = "One-Jar Maven Plugin"
 com.jolira.types.checkers -> checkers:checkersplugin = "Checkers plugin"
 com.jslsolucoes -> db-migrate:db-migrate-maven-plugin = 
 com.jslsolucoes -> replaceregexp:replaceregexp-maven-plugin = 
+com.jslsolucoes -> resource:resource-maven-plugin = 
 com.jtransc -> jtransc-buildjar:jtransc-buildjar-maven-plugin = "jtransc build jar maven plugin"
 com.jtransc -> jtransc:jtransc-maven-plugin = "jtransc maven plugin"
 com.jukta -> j-tahoe:j-tahoe-maven = 
