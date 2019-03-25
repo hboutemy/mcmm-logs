@@ -16613,6 +16613,7 @@ org.rouplex:rouplex-platform-jaxrs-client => +1.0.0
 org.rouplex:rouplex-platform-jersey => +1.0.0
 org.rouplex:rouplex-platform-parent => +1.0.0
 org.rouplex:rouplex-platform-tcp => +1.0.0
+org.ryoframework.core:ryo-core-web => +1.1.6
 org.rythmengine:rythm-engine => -1.2.1
 org.sakaiproject.mailsender:mailsender-api => +1.7.0-rc1
 org.sakaiproject.mailsender:mailsender-assembly => +1.7.0-rc01
