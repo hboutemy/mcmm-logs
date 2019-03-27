@@ -1330,6 +1330,7 @@ com.mebigfatguy.fbp-maven-plugin -> fbp:fbp-maven-plugin = "fbp-maven-plugin Mav
 com.messapix.ftatr.jfxmobile -> jfxmobile:jfxmobile-maven-plugin = "jfxmobile Maven Plugin"
 com.michaelhradek -> aurkitu:aurkitu-maven-plugin = "Aurkitu Maven Plugin"
 com.microsoft.azure -> azure-functions:azure-functions-maven-plugin = "Maven Plugin for Azure Functions"
+com.microsoft.azure -> azure-relay:azure-relay = "azure-relay"
 com.microsoft.azure -> azure-sfmesh:azure-sfmesh-maven-plugin = "Service Fabric Mesh Maven Plugin"
 com.microsoft.azure -> azure-webapp:azure-webapp-maven-plugin = "Maven Plugin for Azure Web Apps"
 com.microsoft.azure -> bundler:bundler-maven-plugin = "Maven Artifacts Bundler"
