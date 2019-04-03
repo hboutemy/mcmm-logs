@@ -539,6 +539,7 @@ com.github.bmsantos -> cola:cola-maven-plugin = "cola-maven-plugin"
 com.github.bohnman -> package-info:package-info-maven-plugin = "Package Info Maven Plugin"
 com.github.bookong -> cooly:cooly-plugin = "cooly"
 com.github.bordertech.buildtools -> badger:badger = 
+com.github.bordertech.lde -> lde-exec:lde-exec-maven-plugin = "lde-exec-maven-plugin"
 com.github.born2go -> gen-doctor:gen-doctor = "Gen-Doctor"
 com.github.bric3.maven -> cql:cql-maven-plugin = "Simple CQL Maven Plugin"
 com.github.bric3.maven -> kafka:kafka-maven-plugin = "Simple Kafka Maven Plugin"
