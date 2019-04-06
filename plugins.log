@@ -2176,6 +2176,7 @@ io.nanoservices -> serverless:serverless-maven-plugin = "Serverless Maven Plugin
 io.openapitools.api.specification -> api-pp:api-pp-maven-plugin = "API Post Processing Maven Plugin"
 io.openapitools.swagger -> swagger:swagger-maven-plugin = "Swagger Maven Plugin"
 io.openliberty.boost -> boost:boost-maven-plugin = 
+io.opentracing.contrib.specialagent -> agentrule:agentrule-maven-plugin = "AgentRule Maven Plugin for SpecialAgent"
 io.paradoxical -> resolved-pom:resolved-pom-maven-plugin = "resolved-pom-maven-plugin Maven Plugin"
 io.perfana -> perfana-gatling:perfana-gatling-maven-plugin = "perfana-gatling-maven-plugin"
 io.perfana -> perfana-jmeter:perfana-jmeter-maven-plugin = "Perfana JMeter Maven Plugin"
