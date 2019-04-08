@@ -6359,6 +6359,7 @@ io.github.jklingsporn:vertx-jooq => +2.2.1
 io.github.jnasmartcardio:jnasmartcardio => +0.1
 io.github.jpenren:thymeleaf-spring-data-dialect => -1.0.0.BETA02
 io.github.kohsah:akomantoso-lib => +1.0.13
+io.github.laplacedemon:light-mysql-protocol => +0.1.0
 io.github.lognet:grpc-spring-boot-starter => +3.0.1-SNAPHSOT
 io.github.lukehutch:fast-classpath-scanner => +1.2.5
 io.github.magic-core:easy-poi => +1.0, +2.0
