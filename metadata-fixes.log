@@ -4769,6 +4769,7 @@ com.untzuntz.ustack:ustack-server => +2.1.45, +2.1.46
 com.uphyca.galette:galette => +0.9.12
 com.uphyca.galette:galette-instrumentation => +0.9.12
 com.uphyca.galette:galette-plugin => +0.9.12
+com.upyun:java-sdk => +4.1.1
 com.urx.android:widgets => +1.0
 com.usedopamine:dopaminekit => +3.1.02
 com.utest:apphance-preprod => +1.9.2

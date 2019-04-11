@@ -824,6 +824,7 @@ com.github.odavid.maven.plugins -> mojo-descriptor:mojo-descriptor-maven-plugin 
 com.github.odavid.maven.plugins -> unpacked-repository:unpacked-repository-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.orolle -> smc:smc-maven-plugin = 
 com.github.os72 -> protoc-jar:protoc-jar-maven-plugin = "protoc-jar-maven-plugin"
+com.github.ozsie -> detekt:detekt-maven-plugin = "detekt-maven-plugin Maven Plugin"
 com.github.packleader.rapid -> rapid-client-integration:rapid-client-integration-maven-plugin = "${project.artifactId}"
 com.github.patching -> warsync:maven-warsync-plugin = "WarSync Maven Plugin"
 com.github.paweladamski -> JInstall:JInstall = "${project.groupId}:${project.artifactId}"
@@ -2178,6 +2179,7 @@ io.magentys -> donut:donut-maven-plugin = "Donut Maven Plugin"
 io.mangoo -> mangooio:mangooio-maven-plugin = 
 io.mathan.maven -> mathan-latex:mathan-latex-maven-plugin = "Mathan LaTeX Maven Plugin"
 io.nanoservices -> serverless:serverless-maven-plugin = "Serverless Maven Plugin"
+io.nuls.ccc -> nuls-sc:nuls-sc-maven-plugin = "nuls-smartcontract-maven-plugin Maven Mojo"
 io.openapitools.api.specification -> api-pp:api-pp-maven-plugin = "API Post Processing Maven Plugin"
 io.openapitools.swagger -> swagger:swagger-maven-plugin = "Swagger Maven Plugin"
 io.openliberty.boost -> boost:boost-maven-plugin = 
