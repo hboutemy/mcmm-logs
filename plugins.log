@@ -4469,6 +4469,7 @@ org.sonatype.plugins -> nexus-m2settings:nexus-m2settings-maven-plugin = "Nexus 
 org.sonatype.plugins -> nexus:nexus-maven-plugin = "Nexus Plugin for Maven"
 org.sonatype.plugins -> nexus-staging:nexus-staging-maven-plugin = "Nexus Staging Maven Plugin"
 org.sonatype.plugins -> nexus-test-environment:nexus-test-environment-maven-plugin = "Nexus Test Environment maven-plugin"
+org.sonatype.plugins -> nxrm3-staging:nxrm3-staging-maven-plugin = "Nexus Staging Maven Plugin"
 org.sonatype.plugins -> plx:plx-maven-plugin = "Sonatype Plexus Plugin"
 org.sonatype.plugins -> port-allocator:port-allocator-maven-plugin = "Port Allocator Plugin"
 org.sonatype.plugins -> provided-dependencies:provided-dependencies-maven-plugin = "Provided dependencies maven-plugin"
