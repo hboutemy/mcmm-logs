@@ -2340,6 +2340,7 @@ kim.sesame.framework -> zip:zip = "${project.artifactId}-${project.version}"
 kr.motd.maven -> exec:exec-maven-plugin = "exec-maven-plugin"
 kr.motd.maven -> os:os-maven-plugin = "os-maven-plugin"
 kr.motd.maven -> sphinx:sphinx-maven-plugin = "sphinx-maven-plugin"
+kz.idsoftware.maven.plugins -> camunda-deploy:camunda-deploy-plugin = "camunda-deploy-plugin"
 li.rudin.mavenjs -> js:mavenjs-maven-plugin = 
 li.rudin.webdoc -> webdoc:webdoc-maven-plugin = 
 li.rudin.webdoc -> webdoc-upload:webdoc-upload-maven-plugin = 
