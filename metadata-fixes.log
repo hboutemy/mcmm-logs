@@ -1851,6 +1851,7 @@ com.github.qiujiayu:autoload-cache => +6.9.3
 com.github.qiujiayu:autoload-cache-spring-boot-starter => +6.7.0
 com.github.qiyueW:JWeb => +2.0-final
 com.github.rahatarmanahmed:circularprogressview => +2.3.2
+com.github.rahulsom:grooves-api => +0.6.0
 com.github.rarnu:rarnubase => +1.0.5
 ## com.github.roar109:syring => -1.0.0
 com.github.rockjam:hello-world-core_2.12.4 => +0.0.2
