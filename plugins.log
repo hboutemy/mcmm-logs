@@ -4776,6 +4776,7 @@ software.amazon.awssdk -> codegen-lite:codegen-lite-maven-plugin = "AWS Java SDK
 software.amazon.awssdk -> codegen:codegen-maven-plugin = "AWS Java SDK :: Code Generator Maven Plugin"
 software.hoegg.mule -> mule-bundle:mule-bundle-maven-plugin = "Mule Application Bundle Maven Plugin"
 solutions.deepfield -> spark-itcase:spark-itcase-maven = "spark-itcase-maven"
+team.quad -> cloudify:cloudify-maven-plugin = "Cloudify"
 tech.rsqn -> build-tasks:build-tasks = "build-tasks"
 tk.skuro -> plan:plan-maven-plugin = "Maven plugin to analyse the execution plan"
 top.marchand.maven -> dep-tree:dep-tree-maven-plugin = "Dependency-tree generator"
