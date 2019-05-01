@@ -3267,6 +3267,7 @@ org.carlspring.maven -> relocation:relocation-maven-plugin = "Maven Artifact Rel
 org.carlspring.maven -> properties:system-properties-maven-plugin = "system-properties-maven-plugin"
 org.carlspring.maven -> unboundid:unboundid-maven-plugin = "UnboundID Maven Plugin"
 org.ceylon-lang -> ceylon:ceylon-maven-plugin = "Ceylon Maven Plugin"
+org.chare.maven.plugins -> update-xml-file:update-xml-file-maven-plugin = "Update xml file plugin"
 org.checkerframework -> checkerframework:checkerframework-maven-plugin = "Checker Framework Maven Plugin"
 org.chiknrice -> classpath:classpath-maven-plugin = "classpath-maven-plugin"
 org.chrisjaehnen.tibco -> tibco-bw-profiles:tibco-bw-profiles-maven-plugin = "TIBCO BW Profiles Maven Plugin"
