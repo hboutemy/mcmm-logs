@@ -835,6 +835,7 @@ com.github.os72 -> protoc-jar:protoc-jar-maven-plugin = "protoc-jar-maven-plugin
 com.github.ozsie -> detekt:detekt-maven-plugin = "detekt-maven-plugin Maven Plugin"
 com.github.packleader.rapid -> rapid-client-integration:rapid-client-integration-maven-plugin = "${project.artifactId}"
 com.github.patching -> warsync:maven-warsync-plugin = "WarSync Maven Plugin"
+com.github.paveljakov -> queryless:queryless-plugin-maven = "Queryless Maven Plugin"
 com.github.paweladamski -> JInstall:JInstall = "${project.groupId}:${project.artifactId}"
 com.github.perfrobo -> perfana-jmeter:perfana-jmeter-maven-plugin = "perfana-jmeter-maven-plugin"
 com.github.peterwippermann.maven -> changelog-buildbreaker:changelog-buildbreaker-maven-plugin = "Changelog Buildbreaker Maven Plugin"
