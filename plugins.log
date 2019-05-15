@@ -396,6 +396,7 @@ com.deciphernow -> bouncycastle:bouncycastle-maven-plugin = "Bouncy Castle Maven
 com.deciphernow -> vault:vault-maven-plugin = "Vault Maven Plugin"
 com.deliver8r -> redline:redline-maven-plugin = "Redline Maven Plugin"
 com.deliver8r -> servicewrapper:servicewrapper-maven-plugin = "Service Wrapper Maven Plugin"
+com.deliveredtechnologies -> tf:tf-maven-plugin = "tf-maven-plugin"
 com.dependencywatcher -> dependencywatcher:dependencywatcher-maven-plugin = "DependencyWatcher Maven Plug-In"
 com.despegar.maven.plugin -> m2e-codestyle:maven-m2e-codestyle = "Maven M2E Code-style plugin"
 com.dev9 -> watcher:watcher-maven-plugin = "mvnwatcher"
