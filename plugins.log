@@ -678,7 +678,9 @@ com.github.heuermh.maven.plugin.changes -> github-changes:github-changes-maven-p
 com.github.hilcode -> teng:teng-maven-plugin = "Teng Maven Plugin"
 com.github.himadri77 -> generate-default-impl:generate-default-impl-plugin = "Generate Default Implementation Maven Plugin"
 com.github.hotchemi -> deploygate:deploygate-maven-plugin = "deploygate-maven-plugin"
+com.github.houbb -> gen-comment:gen-comment-plugin = "gen-comment-plugin"
 com.github.houbb -> gen:gen-maven-plugin = "maven-gen-plugin"
+com.github.houbb -> gen-test:gen-test-plugin = "gen-test-plugin"
 com.github.houbb -> idoc-core:idoc-core = 
 com.github.htfv.maven.plugins -> build-configurator:build-configurator-maven-plugin = "Build Configurator Maven Plugin"
 com.github.iarellano -> iad-j2y2j-converter:iad-j2y2j-converter-maven-plugin = "Json to Yaml to Json Converter Maven Plugin"
