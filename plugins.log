@@ -4871,6 +4871,7 @@ us.fatehi -> schemacrawler:schemacrawler-maven-plugin = "SchemaCrawler Report - 
 us.hornerscorners.mojo -> eclipselink-ddlgeneration:eclipselink-ddlgeneration-maven-plugin = "eclipselink-ddlgeneration-maven-plugin"
 us.hornerscorners.mojo -> glassfish-inplace:glassfish-inplace-maven-plugin = "glassfish-inplace-maven-plugin"
 us.springett -> uuid-generator:maven-uuid-generator = "Maven UUID Generator"
+us.vchain -> jvcn:jvcn-maven-plugin = "JVCN Maven Plugin"
 win.hupubao -> dockit:dockit-maven-plugin = "dockit"
 works.lmz.plugins -> webservice-generator:webservice-generator-plugin = "webservice-generator-plugin"
 ws.l10n -> l10n:l10n-maven-plugin = "L10n Maven Plugin"
