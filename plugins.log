@@ -1530,6 +1530,7 @@ com.sap.cloud -> neo-java-web:neo-java-web-maven-plugin = "Maven plugin for the 
 com.sap.cloud -> neo-javaee6-wp:neo-javaee6-wp-maven-plugin = "Maven plugin for the SAP Cloud Platform SDK for Neo environment (Java EE 6 Web Profile)"
 com.sap.cloud -> neo-javaee7-wp:neo-javaee7-wp-maven-plugin = "Maven plugin for the SAP Cloud Platform SDK for Neo environment (Java EE 7 Web Profile TomEE 7)"
 com.sap.cloud.adk -> com.sap.cloud.adk.build.archive:com.sap.cloud.adk.build.archive = "${project.groupId}:${project.artifactId}"
+com.sap.cloud.mkt -> kyma:kyma-maven-plugin = "kyma-maven-plugin Maven Plugin"
 com.sap.cloud.s4hana.datamodel -> odata-generator:odata-generator-maven-plugin = "SAP S/4HANA - OData VDM - Generator Maven Plugin"
 com.sap.cloud.s4hana.plugins -> s4sdk:s4sdk-maven-plugin = "SAP Cloud SDK Maven Plugin"
 com.sap.cloud.s4hana.plugins -> scp-neo:scp-neo-maven-plugin = "SAP CP Maven Plugin Local Neo Runtime"
