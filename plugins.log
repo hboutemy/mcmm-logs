@@ -843,6 +843,7 @@ com.github.packleader.rapid -> rapid-client-integration:rapid-client-integration
 com.github.patching -> warsync:maven-warsync-plugin = "WarSync Maven Plugin"
 com.github.paveljakov -> queryless:queryless-plugin-maven = "Queryless Maven Plugin"
 com.github.paweladamski -> JInstall:JInstall = "${project.groupId}:${project.artifactId}"
+com.github.peacetrue.modelgenerator -> peacetrue-modelgenerator:peacetrue-modelgenerator-maven-plugin = "peacetrue model generator maven plugin"
 com.github.perfrobo -> perfana-jmeter:perfana-jmeter-maven-plugin = "perfana-jmeter-maven-plugin"
 com.github.peterwippermann.maven -> changelog-buildbreaker:changelog-buildbreaker-maven-plugin = "Changelog Buildbreaker Maven Plugin"
 com.github.pguedes -> capsule:capsule-maven-plugin = "Capsule Maven Plugin"

@@ -18021,7 +18021,6 @@ org.webjars:angularjs-google-maps => +1.7.11
 org.webjars:async => +1.2.1
 org.webjars:atmosphere-javascript => +2.2.11
 org.webjars:bootstrap => +3.3.5
-org.webjars:bootstrap-datetimepicker => +2.4.2
 org.webjars:bootstrap-multiselect => +0.9.13
 org.webjars:bootstrap-switch => +3.3.2
 org.webjars.bower:CodeMirror => +4.8.0
