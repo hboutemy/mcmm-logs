@@ -1101,6 +1101,7 @@ com.dhemery.runtime-suite:classpath.c => +0.1, +0.2, +0.3
 com.dhemery.runtime-suite:classpath.d => +0.1, +0.2, +0.3
 com.dhemery.runtime-suite:core => +0.1, +0.2, +0.3
 com.dhemery.runtime-suite:runtime-suite => +0.1, +0.2, +0.3
+com.didiglobal.booster:booster-android-api => +0.12.0
 com.digium.respoke:respoke-sdk => +1.0.4
 com.dilipkumarg.projects:jackson-cyclic-ref-handler-module => +1.0
 com.disdar:disdar-api-client-java => +3.2.0
