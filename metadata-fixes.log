@@ -3245,7 +3245,6 @@ com.malliina:util-html_2.12 => -4.5.1
 com.malliina:util-html_sjs0.6_2.12 => -4.5.0, -4.5.1
 com.malliina:util-play_2.12 => -4.5.0, -4.5.1
 com.mangopay:mangopay2-java-sdk => +2.4.0
-com.mantledillusion.metrics:trail-metrics-parentpom => +1.0.0.ALPHA2
 com.manywho:sdk => +1.4.1, +1.5.0, +1.5.1, +1.5.2, +1.6.0, +1.7.0
 com.manywho.services:example-archetype => -1.3.0
 com.mappedin.sdk:mappedin => +0.4.2
