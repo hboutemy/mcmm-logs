@@ -412,6 +412,7 @@ com.despegar.maven.plugin -> m2e-codestyle:maven-m2e-codestyle = "Maven M2E Code
 com.dev9 -> watcher:watcher-maven-plugin = "mvnwatcher"
 com.devappliance.qdslhbmplugin -> querydsl-hbm:querydsl-hbm-maven-plugin = "Query DSL HBM Plugin"
 com.devialab -> jackson-jsonld:jackson-jsonld-maven = "jackson-jsonld-maven"
+com.deviceinsight.azure -> azure-blob-upload:azure-blob-upload-maven-plugin = "Azure Blob Upload Maven Plugin"
 com.deviceinsight.helm -> helm:helm-maven-plugin = "Helm Maven Plugin"
 com.devonfw.cobigen -> :maven-plugin = "CobiGen Maven Plugin"
 com.devsmobile -> mvn-scalafmt:mvn-scalafmt = "Scala FMT Maven Plugin (Not official)"
