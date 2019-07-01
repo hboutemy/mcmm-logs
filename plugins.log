@@ -710,6 +710,7 @@ com.github.igor-petruk.protobuf -> protobuf:protobuf-maven-plugin = "Maven Proto
 com.github.igorperikov -> hollow:hollow-maven-plugin = "Hollow maven plugin"
 com.github.igoryeremin -> doxygen-report:doxygen-report-maven-plugin = "Doxygen API Report"
 com.github.iron9light -> coffeescript:coffeescript-maven-plugin = "Coffeescript Maven Plugin"
+com.github.j2ts -> java-to-typescript:java-to-typescript-maven-plugin = "Java to Typescript Maven plugin"
 com.github.janssk1 -> dependencygraph:maven-dependencygraph-plugin = "Maven Dependency Graph Plugin"
 com.github.jasonmfehr -> combiner:combiner-maven-plugin = "${project.artifactId}"
 com.github.jcustenborder.kafka.connect -> kafka-connect-documentation:kafka-connect-documentation-plugin = "kafka-connect-documentation-plugin"
