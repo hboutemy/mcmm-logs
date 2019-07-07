@@ -2009,6 +2009,7 @@ com.github.vkorchik:qualitet-utils_2.11 => +0.1.2
 com.github.vtex:vtex-application-sdk => +1.0
 com.github.waikato:fcms-widgets => -0.0.11
 com.github.wangjiegulu:AndroidInject => +1.0.4, +1.0.5
+com.github.wangzihaogithub:spring-boot-protocol => +2.0.1
 com.github.wasiqb.coteafs:configs => -1.4.0
 com.github.willtong:mybatis-helper => +1.1
 com.github.wseemann:FFmpegMediaMetadataRetriever => +1.0.1
