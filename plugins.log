@@ -4798,6 +4798,7 @@ org.xwiki.commons -> xwiki-commons-tool-extension:xwiki-commons-tool-extension-p
 org.xwiki.commons -> xwiki-commons-tool-remote-resource:xwiki-commons-tool-remote-resource-plugin = "XWiki Commons - Tools - Remote Resource Plugin"
 org.xwiki.commons -> xwiki-commons-tool-xar:xwiki-commons-tool-xar-plugin = "XWiki Commons - Tools - XAR Tools - XAR Plugin"
 org.xwiki.commons -> xwiki-commons-tool-xar:xwiki-commons-tool-xar-plugin = "XWiki Commons - Tools - XAR Tools - XAR Plugin"
+org.yamcs -> yamcs:yamcs-maven-plugin = "Yamcs Maven Plugin"
 org.yestech.maven -> hibernate-search:maven-hibernate-search = "Hibernate Search Maven Mojo"
 org.yuanheng.cookcc -> cookcc:cookcc-maven-plugin = "cookcc-maven-plugin"
 org.zalando -> cassandra:cassandra-maven-plugin = "Mojo's Cassandra Maven Plugin"
