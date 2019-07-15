@@ -7385,6 +7385,7 @@ net.kemitix.tiles:pmd-tile => -0.2.0
 net.kemitix.tiles:release-tile => -0.2.0
 net.kemitix.tiles:testing-tile => -0.2.0
 net.kemitix.tiles:tiles-parent => -0.2.0
+net.leadware:kafka-embedded-core => +1.0.4
 net.lecousin:core => -0.9.4, -0.9.13, -0.9.15
 net.liftweb:lift-actor_2.11 => +3.2.0, +3.2.0-M3, +3.2.0-RC1, +3.3.0, +3.3.0-M1, +3.3.0-M2, +3.3.0-M3, +3.3.0-RC1
 net.liftweb:lift-actor_2.12 => +3.2.0, +3.2.0-M3, +3.2.0-RC1, +3.3.0, +3.3.0-M1, +3.3.0-M2, +3.3.0-M3, +3.3.0-RC1
