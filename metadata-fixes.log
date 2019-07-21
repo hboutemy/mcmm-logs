@@ -1486,6 +1486,7 @@ com.github.cfparser:cfml.parsing => +2.0.0
 com.github.cfparser:cfparser => +2.0.0
 com.github.chandu0101.scalajs-react-native:core_sjs0.6_2.11 => +0.0.1
 com.github.chandu0101.scalajs-react-native:styles_sjs0.6_2.11 => +0.0.1
+com.github.checkmarx-ts:cx-spring-boot-sdk => +0.01
 com.github.chendb:flagwind-mybatis => -0.0.8
 com.github.chendb:flagwind-persistent => -0.0.8
 com.github.choonchernlim:build-reports => -0.2.0
