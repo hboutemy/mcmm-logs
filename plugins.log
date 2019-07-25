@@ -826,6 +826,7 @@ com.github.mike10004 -> jcabi-mysql:jcabi-mysql-maven-plugin = "jcabi-mysql-mave
 com.github.mikesena.maven.plugins -> environments:environments-maven-plugin = "Environments Maven Plugin"
 com.github.misterreg.mavenplugins -> build-graph:build-graph-maven-plugin = "BuildGraph maven plugin"
 com.github.mjeanroy -> node:node-maven-plugin = "node-maven-plugin"
+com.github.mkgoingup -> docmerge:docmerge-maven-plugin = 
 com.github.mkolisnyk -> aerial:aerial-maven-plugin = 
 com.github.mkolisnyk -> cucumber-reporting:cucumber-reporting-maven-plugin = "Cucumber Reporting Maven Plugin"
 com.github.mkolisnyk -> muto:muto = "Muto"
