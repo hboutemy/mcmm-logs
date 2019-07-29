@@ -3905,6 +3905,7 @@ org.infinispan.maven-plugins -> protocol-parser-generator:protocol-parser-genera
 org.infradoop -> infradoopoozie:infradoop-maven-oozie = "infradoop-maven-oozie"
 org.infradoop -> infradoopspark:infradoop-maven-spark = "infradoop-maven-spark"
 org.infrastructurebuilder.maven -> ibversions:ibversions-maven-plugin = "${project.artifactId}"
+org.infrastructurebuilder.templating -> templating-engine:templating-engine-maven-plugin = "${project.artifactId}"
 org.inigma.maven -> scm-version:maven-scm-version-plugin = "SCM Version"
 org.intellifl -> intelliFL:intelliFL-maven-plugin = "intelliFL-maven-plugin Maven Plugin"
 org.intelligents-ia -> keystone:keystone-plugin = "keystone-plugin"
