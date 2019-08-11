@@ -6506,6 +6506,7 @@ io.github.lognet:grpc-spring-boot-starter => +3.0.1-SNAPHSOT
 io.github.longphamduc:courgette-jvm => +1.0.0
 io.github.lukehutch:fast-classpath-scanner => +1.2.5
 io.github.magic-core:easy-poi => +1.0, +2.0
+io.github.mauriciojovel:faker-generator => +1.0.0
 io.github.mkotsur:aws-lambda-scala_2.12 => +0.0.8
 io.github.msdk:msdk-db => +0.0.9
 io.github.msdk:msdk-db-metabolights => +0.0.9

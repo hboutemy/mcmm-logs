@@ -4888,6 +4888,7 @@ ru.greatbit -> transitive-dependency:transitive-dependency-maven-plugin = "Trans
 ru.i-novus.components -> liquibase:liquibase-maven-plugin = "Liquibase Maven Plugin"
 ru.lagoshny -> docker-compose:docker-compose-maven-plugin = "Docker-compose maven plugin"
 ru.lanwen.raml -> rarc:rarc-maven-plugin = "rest-assured-raml-codegen-maven-plugin"
+ru.mihkopylov -> versioner:versioner-maven-plugin = "${project.groupId}:${project.artifactId}"
 ru.omickron -> versioner:versioner-maven-plugin = "${project.groupId}:${project.artifactId}"
 ru.send-to.less -> lesscss:lesscss-maven-plugin = "Fork of official LESS CSS Maven Plugin"
 ru.trylogic.maven -> flexmojos-create-rsl:flexmojos-create-rsl-plugin = "Adobe Flash RSL creator from file using Flexmojos code base."
