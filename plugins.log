@@ -1739,6 +1739,7 @@ com.twitter -> scrooge:scrooge-maven-plugin = "scrooge-maven-plugin"
 com.twitter -> scrooge_2.10:scrooge-maven-plugin_2.10 = "scrooge-maven-plugin"
 com.twitter -> scrooge_2.9.2:scrooge-maven-plugin_2.9.2 = "scrooge-maven-plugin"
 com.twosigma.webtau -> webtau:webtau-maven-plugin = 
+com.twosigma.znai -> znai:znai-maven-plugin = 
 com.twosigmaiq -> magic-beanstalk:magic-beanstalk-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.uifuture.maven.plugins -> agt:agt-maven-plugin = 
 com.uifuture.maven.plugins -> auto-generate-test:auto-generate-test-maven-plugin = "auto-generate-test-maven-plugin"
