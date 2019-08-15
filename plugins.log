@@ -2266,6 +2266,7 @@ io.jenkins.updatebot -> updatebot:updatebot-maven-plugin = "updatebot :: maven-p
 io.jooby -> jooby:jooby-maven-plugin = 
 io.joshworks -> snappy:snappy-maven-plugin = 
 io.joshworks.snappy -> snappy:snappy-maven-plugin = 
+io.joynr.tools.generator -> joynr-generator-gradle:joynr-generator-gradle-plugin = "${project.groupId}:${project.artifactId}"
 io.joynr.tools.generator -> joynr-generator:joynr-generator-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.jshift -> k8s:k8s-maven-plugin = "Kubernetes Maven Plugin :: Plugin"
 io.jshift -> oc:oc-maven-plugin = "Openshift Maven Plugin"
