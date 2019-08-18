@@ -595,6 +595,7 @@ com.github.codemonstur -> htmlcompiler:htmlcompiler = "${project.groupId}:${proj
 com.github.coderepositories -> jcommonss-mbg:jcommons-plugins-mbg = "jcommons-plugins-mbg Maven Plugin"
 com.github.coderepositories -> mbg:mbg-maven-plugin = "mbg-maven-plugin Maven Plugin"
 com.github.coderepositories -> mybatis-auxiliary:mybatis-auxiliary-maven = "mybatis-auxiliary-maven Maven Plugin"
+com.github.congnt24 -> kafka:kafka-maven-plugin = "kafka-maven-plugin Maven Mojo"
 com.github.connollyst -> jolt:jolt-maven-plugin = "Jolt Maven Plugin"
 com.github.cradloff -> fit:fit-maven-plugin = "Fit Maven Plugin"
 com.github.crazyfrozenpenguin -> jasminejvm:jasminejvm-maven-plugin = "jasminejvm-maven-plugin"
