@@ -1080,6 +1080,7 @@ com.github.zerkseez -> gwtpojo:gwtpojo-maven-plugin = "${project.groupId}.${proj
 com.github.zetten -> xvfb:xvfb-maven-plugin = "Xvfb Maven Plugin"
 com.github.zhve -> idea:idea-maven-plugin = "IDEA Maven Plugin"
 com.github.ztq2016 -> svn:svn-maven-plugin = "svn-maven-plugin Maven Mojo"
+com.gitlab.haynes -> libsass:libsass-maven-plugin = "libsass plugin"
 com.gitlab.haynes.paranamer -> paranamer:paranamer-maven-plugin = "ParaNamer Maven plugin"
 com.gitlab.janecekpetr -> embedded-postgresql:embedded-postgresql-maven-plugin = "Embedded PostgreSQL Maven Plugin"
 com.gkatzioura.maven.cloud -> azure-storage-wagon:azure-storage-wagon = 
