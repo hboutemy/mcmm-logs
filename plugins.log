@@ -2629,6 +2629,7 @@ net.oneandone.maven.plugins -> spritepacker:spritepacker-maven-plugin = "spritep
 net.onedaybeard.agrotera -> agrotera:agrotera-maven-plugin = "agrotera-maven-plugin"
 net.onedaybeard.artemis -> artemis-fluid:artemis-fluid-maven-plugin = 
 net.onedaybeard.artemis -> artemis-odb:artemis-odb-maven-plugin = "artemis-odb-maven-plugin"
+net.onedaybeard.graftt -> graftt:graftt-maven-plugin = "graftt - maven plugin"
 net.ontopia -> documentation:documentation-maven-plugin = "Ontopia documentation plugin"
 net.openhft -> jpsg:jpsg-maven-plugin = "JPSG Maven plugin"
 net.orfjackal.retrolambda -> retrolambda:retrolambda-maven-plugin = 
