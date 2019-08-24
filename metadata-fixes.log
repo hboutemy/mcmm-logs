@@ -312,6 +312,7 @@ cn.songxinqiang:ssmv-parent => +1.0.2
 cn.tdchain:jbcc => +2.0.3.TD2
 cn.tenfell:cn-tenfell-tools-nocontroller => +1.0.5
 cn.univyz:univyz-framework => -1.2.6
+cn.wandersnail:common-full => +1.0.0
 cn.willingxyz.restdoc:RestDocCore => +0.1.6
 cn.yueshutong:AiPa => +1.0.0.RELEASE
 cn.zkdcloud:weChat => +0.1-RELEASE
