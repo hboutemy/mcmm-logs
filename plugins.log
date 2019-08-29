@@ -2303,6 +2303,7 @@ io.nuls.ccc -> nuls-sc:nuls-sc-maven-plugin = "nuls-smartcontract-maven-plugin M
 io.openapitools.api.specification -> api-pp:api-pp-maven-plugin = "API Post Processing Maven Plugin"
 io.openapitools.swagger -> swagger:swagger-maven-plugin = "Swagger Maven Plugin"
 io.openliberty.boost -> boost:boost-maven-plugin = 
+io.openliberty.tools -> liberty:liberty-maven-plugin = "liberty-maven-plugin"
 io.opentracing.contrib.specialagent -> agentrule:agentrule-maven-plugin = "AgentRule Maven Plugin for SpecialAgent"
 io.opentracing.contrib.specialagent -> assemble:assemble-maven-plugin = "Assemble Maven Plugin for SpecialAgent"
 io.paradoxical -> resolved-pom:resolved-pom-maven-plugin = "resolved-pom-maven-plugin Maven Plugin"
