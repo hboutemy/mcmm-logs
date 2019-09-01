@@ -6030,7 +6030,6 @@ im.actor:actor-util_2.11 => -0.0.14
 im.actor:android-google-push => -1.0.183, -1.0.245, -1.0.254, -1.0.256, -1.0.257, -1.0.258
 im.actor:android-sdk => -1.0.183, -1.0.245, -1.0.254, -1.0.256, -1.0.257, -1.0.258
 in.clouthink.daas:daas-token => +1.1.1, +1.2.0
-in.norbor:yoda-orm_2.13 => +4.1.0
 in.srain.cube:ultra-ptr => +1.0.10
 in.wavelabs:identity-network => -0.0.2
 info.android15.nucleus:nucleus => +1.3.2, +1.3.3
