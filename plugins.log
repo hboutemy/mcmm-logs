@@ -1960,6 +1960,7 @@ de.philippkatz.maven.plugins -> test-parser:test-parser-plugin = "Test Parser Pl
 de.plushnikov.maven.plugin -> intellijmodul-importer:intellij-plugin-modul-importer-plugin = "IntelliJ-Plugin-Modul-Importer maven plugin"
 de.poiu.kilt -> kilt:kilt-maven-plugin = 
 de.qaware.maven -> go-offline:go-offline-maven-plugin = "Go Offline Maven Plugin"
+de.qaware.tools.sonarqube-build-breaker -> sqbb:sqbb-maven-plugin = 
 de.quaddy-services.mule.maven -> mule-metrics-report:mule-metrics-report = "mule-metrics-report"
 de.quaddyservices.mvn.plugin.unused -> mvn-remove-unused-dependencies:mvn-remove-unused-dependencies = "mvn-remove-unused-dependencies"
 de.redsix -> dmn-check:dmn-check = "dmn-check"
