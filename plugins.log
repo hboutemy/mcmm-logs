@@ -1508,6 +1508,7 @@ com.opsdatastore -> opsdatastore:opsdatastore-plugin-plugin = "OpsDataStore Plug
 com.oracle.ips -> ips:ips-maven-plugin = "IPS maven plugin"
 com.oracle.substratevm -> native-image:native-image-maven-plugin = "native-image-maven-plugin Maven Plugin"
 com.orctom.mojo -> was:was-maven-plugin = "was-maven-plugin"
+com.outofmemo.plugins -> xml-pmd:xml-pmd-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.ovea.tajin -> tajin:tajin-maven-plugin = "Tajin :: Maven Plugin"
 com.ovh.ws -> jsonizer:jsonizer-maven-plugin = "Jsonizer Maven Plugin"
 com.partnet -> seauto-driver-manager:seauto-driver-manager = "seauto-driver-manager"
