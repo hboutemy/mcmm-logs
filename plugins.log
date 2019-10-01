@@ -753,6 +753,7 @@ com.github.jonasrutishauser.maven.plugin -> bpmn:bpmn-maven-plugin = "BPMN Maven
 com.github.jonasrutishauser.maven.plugin -> cdi:cdi-maven-plugin = "CDI Maven Plugin"
 com.github.jpmsilva.ppmp -> pom-properties:pom-properties-maven-plugin = "Project Properties Maven Plugin"
 com.github.jradolfo -> ajunte:ajunte-maven-plugin = "ajunte-maven-plugin"
+com.github.jrcodeza -> spring-openapi-client-generator:spring-openapi-client-generator-plugin = "Spring Open API - Client generator plugin"
 com.github.jrcodeza -> spring-openapi-schema-generator:spring-openapi-schema-generator-plugin = "Spring Open API - Schema generator plugin"
 com.github.jrh3k5 -> flume-agent:flume-agent-maven-plugin = "Flume Agent Maven Plugin"
 com.github.jrh3k5 -> flume:flume-plugin-maven-plugin = "Flume Plugin Maven Plugin"
