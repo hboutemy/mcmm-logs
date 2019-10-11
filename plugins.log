@@ -5052,6 +5052,7 @@ uk.co.probablyfine -> search:search-maven-plugin = "${project.artifactId}"
 uk.co.probablyfine -> validate:validate-maven-plugin = "${project.artifactId}"
 uk.co.solong -> gemfury:gemfury-maven-plugin = "Gemfury Maven Mojo"
 uk.co.solong -> github-release:github-release-maven-plugin = "GitHub Release Maven Plugin"
+uk.co.solong -> gitlab-release:gitlab-release-maven-plugin = "gitlab Release Maven Plugin"
 uk.co.solong -> rest2java:rest2java-maven-plugin = "rest2java Maven Mojo"
 uk.co.szmg.grafana -> domain-generator:domain-generator-maven-plugin = 
 uk.co.szmg.grafana -> grafana-dashboard:grafana-dashboard-maven-plugin = 
