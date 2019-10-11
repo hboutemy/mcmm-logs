@@ -4428,7 +4428,7 @@ org.objectweb.petals -> archetype-petals-jbi-service-assembly:maven-archetype-pe
 org.objectweb.petals -> archetype-petals-jbi-service-engine:maven-archetype-petals-jbi-service-engine = "Petals archetype :: JBI service engine archetype"
 org.objectweb.petals -> archetype-petals-jbi-service-unit:maven-archetype-petals-jbi-service-unit = "Petals archetype :: JBI service unit archetype"
 org.objectweb.proactive -> proactive:proactive-maven-plugin = "proactive-maven-plugin"
-org.odftoolkit -> schema2template:schema2template-maven-plugin = "Schema2template Maven2 Plugin"
+org.odftoolkit -> schema2template:schema2template-maven-plugin = "XML Schema to Template Mapping Tool: Maven2 Plugin"
 org.okkam.owl -> jaob:jaob-maven-plugin = "JAOB maven plugin"
 org.ol4jsf -> jsf:maven-jsf-plugin = "maven-jsf-plugin Maven Mojo"
 org.olengski -> requirejs-optimize:requirejs-optimize-plugin = "requirejs-optimize-plugin"
