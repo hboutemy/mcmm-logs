@@ -2852,6 +2852,7 @@ nl.pieni.maven.dependency-analyzer -> dependency-analyzer:maven-dependency-analy
 nl.praegus -> jetspeed-unpack:jetspeed-unpack-maven-plugin = "Jetspeed 2 Unpack Maven Plugin"
 nl.psek.fitnesse -> psek-fitnesse-documentation:psek-fitnesse-documentation-plugin = "psek-fitnesse-documentation-plugin"
 nl.sijpesteijn.testing.fitnesse.plugins -> mafia:mafia-maven-plugin = "MAven FItnesse Adaptor"
+nl.stokpop -> events-gatling:events-gatling-maven-plugin = "events-gatling-maven-plugin"
 nl.stokpop -> targetsio-gatling:targetsio-gatling-maven-plugin = "targetsio-gatling-maven-plugin"
 nl.timmybankers.maven -> transform-xml:transform-xml-maven-plugin = "Transform XML Maven Plugin"
 nl.topicus.plugins -> javassist:javassist-maven-plugin = "Maven Javassist Plugin"
