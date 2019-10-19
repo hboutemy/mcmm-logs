@@ -10,6 +10,7 @@ at.makubi.maven.plugin -> avrohugger_2.11:avrohugger-maven-plugin_2.11 = "Avrohu
 at.makubi.maven.plugin -> rpm-systemd:rpm-systemd-maven-plugin = "RPM Systemd Maven Plugin"
 at.molindo -> git-commit-id:git-commit-id-plugin = "Git Commit Id Plugin Maven Mojo"
 at.nonblocking -> nonsnapshot:nonsnapshot-maven-plugin = "Maven Nonsnapshot Plugin"
+at.porscheinformatik.zanata -> zanata:zanata-maven-plugin = "Zanata Maven Plugin"
 at.yawk.mdep -> mdep:mdep-maven-plugin = 
 au.com.acegi -> xml-format:xml-format-maven-plugin = "XML Format Maven Plugin"
 au.com.alderaan -> eclipselink-staticweave:eclipselink-staticweave-maven-plugin = "eclipselink-staticweave-maven-plugin Maven Mojo"
