@@ -1094,6 +1094,7 @@ com.github.ztq2016 -> svn:svn-maven-plugin = "svn-maven-plugin Maven Mojo"
 com.gitlab.haynes -> libsass:libsass-maven-plugin = "libsass plugin"
 com.gitlab.haynes.paranamer -> paranamer:paranamer-maven-plugin = "ParaNamer Maven plugin"
 com.gitlab.janecekpetr -> embedded-postgresql:embedded-postgresql-maven-plugin = "Embedded PostgreSQL Maven Plugin"
+com.gitlab.smueller18.gitlab -> gitlab-codeclimate:gitlab-codeclimate-maven-plugin = "com.gitlab.smueller18.gitlab:gitlab-codeclimate-maven-plugin"
 com.gitlab.smueller18.gitlab -> gitlab-dependency:gitlab-dependency-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.gkatzioura.maven.cloud -> azure-storage-wagon:azure-storage-wagon = 
 com.gkatzioura.maven.cloud -> google-storage-wagon:google-storage-wagon = 
