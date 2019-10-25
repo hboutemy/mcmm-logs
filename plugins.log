@@ -4001,6 +4001,7 @@ org.infinispan.maven-plugins -> proto-schema-compatibility:proto-schema-compatib
 org.infinispan.maven-plugins -> protocol-parser-generator:protocol-parser-generator = "Protocol Parser Generator Maven Plugin"
 org.infradoop -> infradoopoozie:infradoop-maven-oozie = "infradoop-maven-oozie"
 org.infradoop -> infradoopspark:infradoop-maven-spark = "infradoop-maven-spark"
+org.infrastructurebuilder.data -> ibdata:ibdata-maven-plugin = "${project.artifactId}"
 org.infrastructurebuilder.maven -> ibversions:ibversions-maven-plugin = "${project.artifactId}"
 org.infrastructurebuilder.templating -> templating-engine:templating-engine-maven-plugin = "${project.artifactId}"
 org.inigma.maven -> scm-version:maven-scm-version-plugin = "SCM Version"
