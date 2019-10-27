@@ -3454,6 +3454,7 @@ org.carlspring.maven -> little-proxy:little-proxy-maven-plugin = "LittleProxy Ma
 org.carlspring.maven -> relocation:relocation-maven-plugin = "Maven Artifact Relocation Plugin"
 org.carlspring.maven -> properties:system-properties-maven-plugin = "system-properties-maven-plugin"
 org.carlspring.maven -> unboundid:unboundid-maven-plugin = "UnboundID Maven Plugin"
+org.caseine -> caseine.vpl.tools.goals:caseine.vpl.tools.goals = 
 org.ceylon-lang -> ceylon:ceylon-maven-plugin = "Ceylon Maven Plugin"
 org.chare.maven.plugins -> update-xml-file:update-xml-file-maven-plugin = "Update xml file plugin"
 org.checkerframework -> checkerframework:checkerframework-maven-plugin = "Checker Framework Maven Plugin"
