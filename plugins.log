@@ -2356,6 +2356,7 @@ io.openliberty.boost -> boost:boost-maven-plugin =
 io.openliberty.tools -> liberty:liberty-maven-plugin = "liberty-maven-plugin"
 io.opentracing.contrib.specialagent -> agentrule:agentrule-maven-plugin = "AgentRule Maven Plugin for SpecialAgent"
 io.opentracing.contrib.specialagent -> assemble:assemble-maven-plugin = "Assemble Maven Plugin for SpecialAgent"
+io.opentracing.contrib.specialagent -> itest:itest-maven-plugin = "ITest Maven Plugin for SpecialAgent"
 io.paradoxical -> resolved-pom:resolved-pom-maven-plugin = "resolved-pom-maven-plugin Maven Plugin"
 io.perfana -> perfana-gatling:perfana-gatling-maven-plugin = "perfana-gatling-maven-plugin"
 io.perfana -> perfana-jmeter:perfana-jmeter-maven-plugin = "Perfana JMeter Maven Plugin"
