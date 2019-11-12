@@ -2093,6 +2093,7 @@ eu.doppel-helix.jna.tlbcodegenerator -> TlbCodeGenerator:TlbCodeGenerator = "Tlb
 eu.evops.maven.plugins -> cucumber-runner:cucumber-runner-maven-plugin = "Executes cucumber features in parallel using fork"
 eu.icole -> portainer:portainer-plugin = "Portainer Deployment Plugin"
 eu.lindenbaum -> erlang:maven-erlang-plugin = "Maven Erlang Plug-In"
+eu.lundegaard.maven -> git-checkout:git-checkout-plugin = "git-checkout-plugin"
 eu.lundegaard.maven -> selective-build:selective-build-maven-plugin = "Selective Build Maven Plugin (${project.packaging})"
 eu.lunisolar.magma -> magma-doc:magma-doc = "${project.artifactId}"
 eu.malanik -> csv-db:csv-db-maven-plugin = "csv db maven plugin"
