@@ -849,6 +849,7 @@ com.github.mdr -> dependencygraph:maven-dependencygraph-plugin = "Maven Dependen
 com.github.memorylorry -> JSON2SQL:JSON2SQL = "JSON2SQL Maven Mojo"
 com.github.mibo -> jaxrs-doc:jaxrs-doc-maven-plugin = "JAX-RS Documentation Maven Plugin"
 com.github.mike10004 -> concatenate:concatenate-maven-plugin = "concatenate-maven-plugin"
+com.github.mike10004 -> containment:containment-maven-plugin = 
 com.github.mike10004 -> crxtool:crxtool-maven-plugin = "crxtool-maven-plugin"
 com.github.mike10004 -> debian:debian-maven-plugin = "Debian Maven Plugin"
 com.github.mike10004 -> jcabi-mysql:jcabi-mysql-maven-plugin = "jcabi-mysql-maven-plugin"
