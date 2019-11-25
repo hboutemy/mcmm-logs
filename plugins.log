@@ -566,6 +566,7 @@ com.github.bassman5 -> concordion-reporting:maven-concordion-reporting-plugin = 
 com.github.batkinson.plugins -> pack200:maven-pack200-plugin = "Pack200 Maven Plugin"
 com.github.beingcoder -> openapi-generator:openapi-generator-maven-plugin = "openapi-generator (maven-plugin)"
 com.github.belyiz -> code-statistics:code-statistics = "Code statisctics"
+com.github.bex1111 -> msv:msv-maven-plugin = "Mongo Script Versioning"
 com.github.billyjulius -> eagle:eagle-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.binbin0915 -> sb2ws:sb2ws = "springboot to windows Maven Mojo"
 com.github.bingoohuang -> blackcat:blackcat-maven-plugin = "blackcat-maven-plugin"
