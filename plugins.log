@@ -149,6 +149,7 @@ com.abstratt -> cloudfier:cloudfier-maven-plugin = "${project.groupId}:${project
 com.actionjava -> aj-assets:aj-assets = "ActionJava Assets"
 com.addc.mojo -> asciidoc:asciidoc-maven-plugin = "asciidoc-maven-plugin"
 com.addc.mojo -> aspell:aspell-maven-plugin = "aspell-maven-plugin"
+com.addc.mojo -> ova:ova-maven-plugin = "ova-maven-plugin"
 com.addicticks.oss.maven -> httpsupload:httpsupload-maven-plugin = "HTTPS Upload Maven Plugin"
 com.adeptj -> adeptj:adeptj-maven-plugin = "AdeptJ :: Maven Plugin"
 com.adgear -> anoa:anoa-maven-plugin = 
