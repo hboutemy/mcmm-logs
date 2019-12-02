@@ -12091,7 +12091,6 @@ org.fusesource.mvnplugins:mvnplugins => +1.29
 org.fusesource.mvnplugins:scala-mojo-support => +1.29
 org.fusesource.restygwt:restygwt => +1.5, +2.0, +2.0.1, +2.0.2, +2.0.3, +2.1.0, +2.1.1, +2.2.0, +2.2.1, +2.2.2, +2.2.3, +2.2.4, +2.2.5, +2.2.6
 org.fusesource.restygwt:restygwt-project => +1.5, +2.0, +2.0.1, +2.0.2, +2.0.3, +2.1.0, +2.1.1, +2.2.0, +2.2.1, +2.2.2, +2.2.3, +2.2.4, +2.2.5, +2.2.6
-org.fxmisc.richtext:richtextfx => +0.10.3
 org.gcontracts:gcontracts-doc => +1.2.2
 org.gdal:gdal => +2.0.0
 org.gedcomx:enunciate-gedcomx-support => +1.0.127.M1
