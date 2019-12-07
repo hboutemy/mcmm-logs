@@ -485,6 +485,7 @@ com.expediagroup.streamplatform -> stream-registry-graphql:stream-registry-graph
 com.exsoinn -> code-quality:code-quality-maven-plugin = "code-quality-maven-plugin"
 com.facebook.drift -> drift:drift-maven-plugin = 
 com.facebook.mojo -> swift:swift-maven-plugin = "${project.artifactId}"
+com.faendir.maven -> resource-class-generator:resource-class-generator = "resource-class-generator"
 com.famaridon -> scoped-properties:scoped-properties-maven-plugin = "Scoped properties Maven plugin"
 com.fasterxml -> stringtemplate:maven-stringtemplate-plugin = "maven-stringtemplate-plugin"
 com.fastjrun.codeg -> sdkg-helper:sdkg-helper = 
@@ -3794,7 +3795,7 @@ org.coosproject.maven.archetypes -> coos-plugin-noapi:coos-plugin-noapi = "Coos-
 org.coosproject.maven.archetypes -> coos-plugin-api:coos-plugin-api = "Coos-plugin-api-archetype"
 org.corejet -> corejet:corejet-maven-plugin = 
 org.cornutum.tcases -> tcases:tcases-maven-plugin = "Tcases Plugin"
-org.corpus-tools -> cff:cff-maven-plugin = "cff Maven Plugin"
+org.corpus-tools -> cff:cff-maven-plugin = "CFF Maven Plugin"
 org.cortx -> cortx:cortx-maven-plugin = "cortx-maven-plugin"
 org.coursera.courier -> courier:courier-maven-plugin = "Courier Data Binding Generator"
 org.craftercms.mariaDB4j -> mariaDB4j:mariaDB4j-maven-plugin = "mariaDB4j-maven-plugin"
