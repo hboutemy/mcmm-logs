@@ -1607,6 +1607,7 @@ com.rackspace.cloud.api -> rackspace-docs:rackspace-docs-maven-plugin = "Rackspa
 com.ragedunicorn.tools.maven -> github-release:github-release-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.ragedunicorn.tools.maven -> sql-execute:sql-execute-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.randomnoun.maven.plugins -> vmaint:vmaint-maven-plugin = "Bamboo label maven plugin"
+com.rationaleemotions.maven.plugins -> simplese-codegenerator:simplese-codegenerator = "simplese-codegenerator Maven Plugin"
 com.ravellosystems.plugins -> ravello:ravellosystems-maven-plugin = "ravellosystems-maven-plugin"
 com.ravellosystems.plugins -> ravellosystems:ravellosystems-maven-plugin = "ravellosystems-maven-plugin"
 com.redhat.lightblue.plugin.maven -> lightblue:lightblue-maven-plugin = 
