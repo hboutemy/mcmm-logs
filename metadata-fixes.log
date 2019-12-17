@@ -15619,6 +15619,7 @@ org.nmdp.ngs:ngs-sra => +1.8.3
 org.nmdp.ngs:ngs-tools => +1.8.3
 org.nmdp.ngs:ngs-variant => +1.8.3
 org.nmdp.ngs:ngs-xjc-plugins => +1.8.3
+org.noear:weed3-parent => +3.2.3.12
 org.noggit:noggit => +0.5
 org.nuiton:jaxx => +2.42, +3.0-alpha-4, +3.0-alpha-5, +3.0-alpha-6
 org.nuiton.jaxx:jaxx-application-api => +2.42
@@ -21362,6 +21363,10 @@ org.wso2.carbon.extension.identity.authenticator:org.wso2.carbon.extension.ident
 org.wso2.carbon.extension.identity.authenticator:org.wso2.carbon.extension.identity.authenticator.passwordpolicy => -1.0.13, -1.0.14
 org.wso2.carbon.extension.identity.authenticator:org.wso2.carbon.extension.identity.authenticator.passwordpolicy.connector => -1.0.13, -1.0.14
 org.wso2.carbon.extension.identity.authenticator:org.wso2.carbon.extension.identity.authenticator.passwordpolicy.feature => -1.0.13, -1.0.14
+org.wso2.carbon.extension.identity.authenticator:org.wso2.carbon.extension.identity.authenticator.x509Certificate => -2.0.10, -2.0.11, -2.0.12, -2.0.13
+org.wso2.carbon.extension.identity.authenticator:org.wso2.carbon.extension.identity.authenticator.x509Certificate.connector => -2.0.10, -2.0.11, -2.0.12, -2.0.13
+org.wso2.carbon.extension.identity.authenticator:org.wso2.carbon.extension.identity.authenticator.x509Certificate.endpoint => -2.0.10, -2.0.11, -2.0.12, -2.0.13
+org.wso2.carbon.extension.identity.authenticator:org.wso2.carbon.extension.identity.authenticator.x509Certificate.feature => -2.0.10, -2.0.11, -2.0.12, -2.0.13
 org.wso2.carbon.extension.identity.authenticator.outbound.duo:identity-outbound-auth-duo => -1.0.6
 org.wso2.carbon.extension.identity.authenticator.outbound.duo:org.wso2.carbon.extension.identity.authenticator.duo.connector => -1.0.6
 org.wso2.carbon.extension.identity.authenticator.outbound.duo:org.wso2.carbon.extension.identity.authenticator.duo.endpoint => -1.0.6
@@ -21909,7 +21914,7 @@ org.wso2.carbon.identity.tool.validator.sso.saml2:org.wso2.carbon.identity.tools
 org.wso2.carbon.identity.tool.validator.sso.saml2:org.wso2.carbon.identity.tools.saml.validator.stub => -5.1.2, -5.1.3
 org.wso2.carbon.identity.tool.validator.sso.saml2:org.wso2.carbon.identity.tools.saml.validator.ui => -5.1.2, -5.1.3
 org.wso2.carbon.identity.tool.validator.sso.saml2:org.wso2.carbon.identity.tools.saml.validator.ui.feature => -5.1.2, -5.1.3
-org.wso2.carbon.identity.user.api:identity-api-user => -1.0.0, -1.0.1, -1.0.2, -1.0.3, -1.0.4, -1.0.5, -1.0.6, -1.0.7, -1.0.8, -1.0.9, -1.0.10, -1.0.11, -1.0.12, -1.0.13, -1.0.14, -1.0.15, -1.0.16, -1.0.17, -1.0.18, -1.0.19, -1.0.20, -1.0.21, -1.0.22, -1.0.23, -1.0.24, -1.0.25, -1.0.26, -1.0.27, -1.0.28, -1.0.29, -1.0.30, -1.0.31, -1.0.32, -1.0.33, -1.0.34, -1.0.35, -1.0.36, -1.0.37, -1.0.38, -1.0.39, -1.0.40, -1.0.41, -1.0.42, -1.0.51, -1.0.52, -1.0.53, -1.0.54, -1.0.55, -1.0.56, -1.0.57
+org.wso2.carbon.identity.user.api:identity-api-user => -1.0.0, -1.0.1, -1.0.2, -1.0.3, -1.0.4, -1.0.5, -1.0.6, -1.0.7, -1.0.8, -1.0.9, -1.0.10, -1.0.11, -1.0.12, -1.0.13, -1.0.14, -1.0.15, -1.0.16, -1.0.17, -1.0.18, -1.0.19, -1.0.20, -1.0.21, -1.0.22, -1.0.23, -1.0.24, -1.0.25, -1.0.26, -1.0.27, -1.0.28, -1.0.29, -1.0.30, -1.0.31, -1.0.32, -1.0.33, -1.0.34, -1.0.35, -1.0.36, -1.0.37, -1.0.38, -1.0.39, -1.0.40, -1.0.41, -1.0.42, -1.0.51, -1.0.52, -1.0.53, -1.0.54, -1.0.55, -1.0.56, -1.0.57, +1.0.61
 org.wso2.carbon.identity.user.api:org.wso2.carbon.identity.api.user.application => -1.0.51, -1.0.52, -1.0.53, -1.0.54, -1.0.55, -1.0.56, -1.0.57
 org.wso2.carbon.identity.user.api:org.wso2.carbon.identity.api.user.application.common => -1.0.51, -1.0.52, -1.0.53, -1.0.54, -1.0.55, -1.0.56, -1.0.57
 org.wso2.carbon.identity.user.api:org.wso2.carbon.identity.api.user.approval => -1.0.16, -1.0.17, -1.0.18, -1.0.19, -1.0.20, -1.0.21, -1.0.22, -1.0.23, -1.0.24, -1.0.25, -1.0.26, -1.0.27, -1.0.28, -1.0.29, -1.0.30, -1.0.31, -1.0.32, -1.0.33, -1.0.34, -1.0.35, -1.0.36, -1.0.37, -1.0.38, -1.0.39, -1.0.40, -1.0.41, -1.0.42, -1.0.51, -1.0.52, -1.0.53, -1.0.54, -1.0.55, -1.0.56, -1.0.57

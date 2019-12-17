@@ -2286,6 +2286,7 @@ io.gatling -> gatlingshade:gatling-maven-shade-plugin = "Gatling Maven Shade Plu
 io.gatling -> shade:maven-shade-plugin = "Apache Maven Shade Plugin"
 io.gatling.frontline -> frontline:frontline-maven-plugin = "frontline-maven-plugin"
 io.github.agileek -> java-checksum-flyway:java-checksum-flyway-maven-plugin = "${project.artifactId}"
+io.github.akayibrahim -> jsontopojo:jsontopojo = "jsontopojo"
 io.github.anoopsivarajan -> reruncuke:reruncuke-plugin = "reruncuke-plugin"
 io.github.aquen -> test:test-maven-plugin = "test Maven Plugin"
 io.github.bbarker -> scalaxb:scalaxb-maven-plugin = "scalaxb Maven Plugin"
