@@ -2013,6 +2013,7 @@ de.matrixweb.smaller -> smaller-node-builder:smaller-node-builder-maven-plugin =
 de.mhus.cherry.reactive -> reactive:reactive-maven-plugin = "Reactive Maven Plugin"
 de.mhus.inka -> constgenerator:constgenerator = "ConstGenerator"
 de.mhus.lib -> constgenerator:constgenerator-maven-plugin = "ConstGenerator"
+de.mhus.mvn.plugin -> gpg:gpg-maven-plugin = "Modified Maven GPG Plugin"
 de.mhus.ports.karaf.tooling -> karaf-services:karaf-services-maven-plugin = "Apache Karaf :: Tooling :: Maven Karaf Plugin for Services Metadata"
 de.mirkosertic.bytecoder -> bytecoder:bytecoder-mavenplugin = "Bytecoder Maven Plugin"
 de.mirkosertic.mavensonarsputnik -> sputnik:sputnik = "The Maven Sonar Sputnik Plugin"
