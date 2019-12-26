@@ -5109,6 +5109,7 @@ se.javasoft.development -> process:process = "Process Generator ${project.versio
 se.javasoft.development -> storage:storage = "Storage Generator ${project.version}"
 se.jguru.nazgul.tools.plugin.checkstyle -> nazgul-tools-checkstyle:nazgul-tools-checkstyle-maven-plugin = "${project.artifactId}"
 se.jiderhamn -> promote:promote-maven-plugin = "promote-maven-plugin Maven Plugin"
+se.kth.castor -> depclean:depclean-maven-plugin = "depclean-maven-plugin"
 se.natusoft.tools.codelicmgr -> CodeLicenseManager:CodeLicenseManager-maven-plugin = "CodeLicenseManager-maven-plugin"
 se.natusoft.tools.doc.markdowndoc -> markdowndoc:markdowndoc-maven-plugin = "MarkdownDoc Maven Plugin"
 se.romanredz.mouse -> mouse:mouse-maven-plugin = "MousePEG Maven Plugin"
