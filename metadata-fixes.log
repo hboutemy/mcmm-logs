@@ -3367,6 +3367,7 @@ com.liferay.maven.plugins:liferay-maven-plugin => +6.0.2, +6.0.3, +6.0.4, +6.0.5
 com.liferay.mobile:liferay-android-oauth => +1.0.3
 com.liferay.mobile:liferay-android-sdk => -7.0.0
 com.liferay.mobile:liferay-sdk-builder => +6.2.0.14
+com.liferay:org-gradle-resources-http => +5.6.4.LIFERAY-PATCHED-1
 com.liferay:org.apache.felix.scr => -2.0.6.LIFERAY-PATCHED-2
 com.liferay:org.eclipse.osgi => -3.10.200-20150904.172142-1.LIFERAY-PATCHED-2
 com.liferay.plugins:admin-theme => -2.0.11, -2.0.12, -2.0.13
