@@ -3982,6 +3982,7 @@ org.fortasoft -> gemfile:gemfile-maven-plugin = "Gemfile Maven Pugin"
 org.fortasoft -> gradle:gradle-maven-plugin = "gradle-maven-plugin Maven Mojo"
 org.freehep -> freehep-chartable-converter:freehep-chartable-converter-plugin = "FreeHEP Character Table Converter"
 org.fugerit.java -> fj-daogen:fj-daogen-maven-plugin = "fj-daogen-maven-plugin"
+org.fugerit.java -> freemarker:freemarker-maven-plugin = "Freemarker Maven Plugin"
 org.fugerit.java.mvn -> fj-daogen:fj-daogen-maven-plugin = "Maven plugin for DaoGen framework"
 org.fuin.esmp -> es:es-maven-plugin = "es-maven-plugin"
 org.fuin.smp -> system:system-maven-plugin = 

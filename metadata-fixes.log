@@ -2102,6 +2102,7 @@ com.github.yuyenews:mars-cloud-start => +2.1.7-final
 com.github.zhangyingwei:cockroach-annotation => +1.0.5.04-Beta
 com.github.zhengzhanpeng:itchat4j => +1.0.4
 com.github.zouchongjin:zopen-ueditor-starter => +1.0.0
+com.github.zouchongjin:zutil => +1.1.2
 com.github.zxhTom:common => +1.0.0
 com.github.zyndev:fastsql => +0.0.4
 com.gkatzioura.maven.cloud:cloud-storage-maven => +1.4
