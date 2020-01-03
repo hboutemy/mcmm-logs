@@ -285,6 +285,7 @@ cn.atomicer.sikong:chopsticks => +1.0.0
 cn.bingoogolapple:bga-banner => +2.0.0
 cn.bingoogolapple:bga-refreshlayout => -1.1.4, +1.0.3
 cn.boommanpro:wechat-spring-boot-starter => +1.0.0.RELEASE
+cn.bywei:swagger-lazydoc-core => +1.0.3
 cn.cescforz:commons-encrypt => +1.0.0
 cn.com.binging:excel => +2.0
 cn.com.fishin:Tuz => +0.5.7-BETA
