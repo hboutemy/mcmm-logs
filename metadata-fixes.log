@@ -6111,6 +6111,7 @@ design.aem:aemdesign-aem-common => +2.0.261, +2.0.309
 design.aem:aemdesign-aem-core-deploy => +2.0.261
 design.aem:aemdesign-aem-services => +2.0.261, +2.0.309
 dev.tuxjsql:sqlite => +2.0.RC0
+dev.zio:zio-config_2.13 => +1.0.0-RC11
 dev.zio:zio-interop-future_2.11 => +2.12.8.0-RC1
 dev.zio:zio-interop-java_2.11 => +1.1.0.0-RC1
 dev.zio:zio-interop-java_2.12 => +1.1.0.0-RC1
