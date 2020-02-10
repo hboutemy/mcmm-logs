@@ -73,6 +73,7 @@ ca.nanometrics.maven.plugins -> testtime:testtime-maven-plugin = "${project.grou
 ca.szc.maven -> jsonpath:jsonpath-maven-plugin = "JsonPath Maven Plugin"
 ca.uhn.hapi -> hapi-sourcegen:hapi-sourcegen = "HAPI - Java HL7 API - Source Generator Plugin"
 ca.uhn.hapi.fhir -> hapi-tinder:hapi-tinder-plugin = "HAPI Tinder Plugin"
+ca.vanzyl -> dockerfile:dockerfile-maven-plugin = "Dockerfile Maven Plugin"
 ca.weblite -> mirah:maven-mirah-plugin = "maven-mirah-plugin"
 cat.inspiracio -> orange:orange-maven-plugin = "Orange Servlet Maven Plugin"
 cc.catalysts -> swagger-jaxrs:swagger-jaxrs-maven-plugin = "Swagger JAX-RS maven plugin"
