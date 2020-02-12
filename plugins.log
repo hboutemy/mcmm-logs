@@ -5121,6 +5121,7 @@ ro.kuberam.maven.plugins -> kuberam-expath:kuberam-expath-plugin = "Kuberam EXPa
 ro.kuberam.maven.plugins -> kuberam-i18n:kuberam-i18n-plugin = "kuberam i18n plugin"
 ro.kuberam.maven.plugins -> kuberam-xml:kuberam-xml-plugin = "kuberam xml plugin"
 rocks.juergen -> jython:jython-maven-plugin = "Jython Maven Plugin"
+rocks.voss.maven.plugins -> content-generator:content-generator = "Content Generator Maven Mojo"
 ru.circumflex -> cx:maven-cx-plugin = "Circumflex Maven Plugin"
 ru.concerteza.buildnumber -> jgit-buildnumber:maven-jgit-buildnumber-plugin = "Maven JGit Build Number Plugin"
 ru.curs -> celesta:celesta-maven-plugin = "celesta-maven-plugin"
