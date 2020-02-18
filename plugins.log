@@ -2114,6 +2114,7 @@ de.thomas-oster -> rest2typescript:rest2typescript-maven-plugin = "rest2typescri
 de.tolina.maven.plugins -> jsign:jsign-maven-plugin = "Maven Plugin for Jsign"
 de.tototec -> de.tobiasroeser.eclipse:de.tobiasroeser.eclipse-maven-plugin = "eclipse-maven-plugin"
 de.twentyeleven.unitprofiler -> unitprofiler:unitprofiler-maven-plugin = "unitProfiler :: Maven Plugin"
+de.uni-mannheim.informatik.dws.melt -> hobbit:hobbit-maven-plugin = 
 de.unkrig.txt2html -> txt2html:txt2html-maven-plugin = "txt2html Maven Plugin"
 de.vandermeer -> project-manager:project-manager-maven-plugin = "Maven Plugin - Project Manager"
 de.viaboxx -> jruby-gems:jruby-gems-plugin = "JRuby Gems-in-jar plugin"
