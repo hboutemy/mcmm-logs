@@ -3002,6 +3002,7 @@ nl.psek.fitnesse -> psek-fitnesse-documentation:psek-fitnesse-documentation-plug
 nl.sijpesteijn.testing.fitnesse.plugins -> mafia:mafia-maven-plugin = "MAven FItnesse Adaptor"
 nl.stokpop -> events-gatling:events-gatling-maven-plugin = "events-gatling-maven-plugin"
 nl.stokpop -> targetsio-gatling:targetsio-gatling-maven-plugin = "targetsio-gatling-maven-plugin"
+nl.thanus -> reboot:reboot-maven-plugin = 
 nl.timmybankers.maven -> transform-xml:transform-xml-maven-plugin = "Transform XML Maven Plugin"
 nl.topicus.plugins -> javassist:javassist-maven-plugin = "Maven Javassist Plugin"
 nl.ulso.magisto -> magisto:magisto = "Magisto"
