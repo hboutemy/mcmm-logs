@@ -1936,6 +1936,7 @@ com.yamanyar -> restrict-maven-plugin:restrict-maven-plugin = "restrict-maven-pl
 com.yamanyar -> restrict:restrict-maven-plugin = "restrict-maven-plugin Maven Plugin"
 com.yantonov -> gitdep:gitdep-maven-plugin = "gitdep-maven-plugin"
 com.yeetrack.selenium -> spoon:spoon = "selenium-spoon-plugin"
+com.yesql4j -> yesql4j:yesql4j-maven-plugin = 
 com.yinzara -> jasperreports-fonts:jasperreports-fonts-maven-plugin = "jasperreports-fonts-maven-plugin Maven Plugin"
 com.yinzara -> jasperreports-fonts-maven-plugin:jasperreports-fonts-maven-plugin = "jasperreports-fonts-maven-plugin Maven Plugin"
 com.yopeso -> jacococoverage:jacococoverage-maven-plugin = "jacococoverage-maven-plugin Maven Mojo"
