@@ -1483,6 +1483,7 @@ com.madgag -> android:android-maven-plugin = "Android Maven Plugin - android-mav
 com.mainstreethub -> ecr:ecr-maven-plugin = "Main Street Hub Maven ECR Plugin"
 com.manamind.jgitflow -> jgitflow:jgitflow-maven-plugin = "JGitFlow :: Maven Plugin"
 com.marcoeckstein -> autoannotator:autoannotator-maven-plugin = 
+com.mariocairone.mule -> anypoint:anypoint-maven-plugin = "Anypoint Maven Plugin"
 com.markstickel.openapi -> openapi-docgen:openapi-docgen-maven-plugin = "openapi-docgen-maven-plugin Maven Plugin"
 com.marvinformatics -> adt:adt-maven-plugin = "Adobe AIR Development tools Maven plugin"
 com.marvinformatics -> link-dependencies:link-dependencies-maven-plugin = "Apache Maven Dependency Plugin"
