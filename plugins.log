@@ -1722,6 +1722,7 @@ com.sebastian-daschner -> jaxrs-analyzer:jaxrs-analyzer-maven-plugin = "JAX-RS A
 com.seovic.coherence -> pof:pof-maven-plugin = "POF Maven Plugin"
 com.seovic.maven.plugins -> npm:npm-maven-plugin = "npm Maven Plugin"
 com.sequoiadb -> jarjar:jarjar-maven-plugin = "JarJar Maven Plugin"
+com.sequsoft.maven.plugins -> flatbuffers:flatbuffers-maven-plugin = "Flatbuffers maven plugin"
 com.serenitec -> serenitec:serenitec = "Maven Serenitec Plugin"
 com.servprise.maven.plugins -> jython:maven-jython-plugin = "Jython Maven Plugin"
 com.sfhuskie.plugins -> githooks:githooks-maven-plugin = "githooks-maven-plugin"
