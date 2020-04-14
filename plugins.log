@@ -582,6 +582,7 @@ com.github.ansell.rdf4j-schema-generator -> schema-generator:schema-generator-ma
 com.github.antonsjava -> sb-splitter:sb-splitter-plugin = "sb-splitter-plugin"
 com.github.apiggs -> apiggs:apiggs-maven-plugin = "apiggs-maven-plugin"
 com.github.atshow -> orm:orm-maven-plugin = "Orm Maven Build Helper"
+com.github.atshow -> sorm:sorm = "sorm"
 com.github.axet -> versions:versions-maven-plugin = "Versions Maven Plugin"
 com.github.badamowicz -> sonar-hla:sonar-hla-maven-plugin = "Sonar-HLA Maven Plugin"
 com.github.bannmann.maven.probe -> probe:probe-maven-plugin = "${project.groupId}:${project.artifactId}"
@@ -1739,6 +1740,8 @@ com.shankyank.mojo -> configurator:template-resgen-maven-plugin = "Templated Res
 com.sharethis -> mongomigration:mongomigration = "mongo-migrations"
 com.shrevl -> jshint:jshint-maven-plugin = "jshint-maven-plugin"
 com.sigpwned -> jacoco-badge:jacoco-badge-maven-plugin = "jacoco-badge-maven-plugin"
+com.simiacryptus -> autocoder-core:autocoder-core = 
+com.simiacryptus -> refcount-autocoder:refcount-autocoder = 
 com.simplaex -> waitfor:waitfor-maven-plugin = "Simplaex WaitFor Maven Plugin"
 com.simpligility.maven.plugins -> android:android-maven-plugin = "Android Maven Plugin - android-maven-plugin"
 com.simpligility.maven.plugins -> android-ndk:android-ndk-maven-plugin = "Android NDK Maven Plugin - android-ndk-maven-plugin"
