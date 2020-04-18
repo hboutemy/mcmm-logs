@@ -1764,6 +1764,7 @@ com.socialbakers -> easy-config:easy-config-maven-plugin = "Easy Config Maven Pl
 com.socialbakers.easy-config -> easy-config:easy-config-maven-plugin = "Easy Config - Maven Plugin"
 com.societegenerale.commons -> arch-unit:arch-unit-maven-plugin = "ArchUnit Maven plugin"
 com.socklabs -> protobuff:maven-protobuff = "maven-protobuff"
+com.soebes.itf.jupiter.extension -> itf:itf-maven-plugin = 
 com.soebes.maven.plugins -> doxygen:doxygen-maven-plugin = "Doxygen Maven Plugin"
 com.soebes.maven.plugins -> echo:echo-maven-plugin = "Maven Echo Plugin"
 com.soebes.maven.plugins -> iterator:iterator-maven-plugin = "The Iterator Maven Plugin."
