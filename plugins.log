@@ -760,6 +760,7 @@ com.github.helpermethod -> dependency-update:dependency-update-maven-plugin = "$
 com.github.helpermethod -> membrane:membrane-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.hermod -> hermod-generator:hermod-generator-maven-plugin = 
 com.github.heuermh.maven.plugin.changes -> github-changes:github-changes-maven-plugin = "github-changes-maven-plugin Maven Plugin"
+com.github.hexindai.maven.plugins -> hexindai:hexindai-maven-plugin = "Hexindai Maven Plugin"
 com.github.hilcode -> teng:teng-maven-plugin = "Teng Maven Plugin"
 com.github.himadri77 -> generate-default-impl:generate-default-impl-plugin = "Generate Default Implementation Maven Plugin"
 com.github.hotchemi -> deploygate:deploygate-maven-plugin = "deploygate-maven-plugin"
@@ -1181,6 +1182,7 @@ com.gitlab.smueller18.gitlab -> gitlab-dependency:gitlab-dependency-maven-plugin
 com.gkatzioura.maven.cloud -> azure-storage-wagon:azure-storage-wagon = 
 com.gkatzioura.maven.cloud -> google-storage-wagon:google-storage-wagon = 
 com.gkatzioura.maven.cloud -> s3-storage-wagon:s3-storage-wagon = 
+com.gluonhq -> client:client-maven-plugin = "client-maven-plugin Maven Mojo"
 com.goldmansachs.jdmn -> jdmn:jdmn-maven-plugin = "jDMN: Maven Plugin"
 com.goldmansachs.obevo -> obevo:obevo-maven-plugin = "Obevo Maven Plugin"
 com.google.appengine -> appengine:appengine-maven-plugin = "A Maven Plugin for running and deploying appengine applications"
