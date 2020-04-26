@@ -3183,6 +3183,7 @@ org.apache.camel -> guice:guice-maven-plugin = "Camel :: Maven Plugins :: Camel 
 org.apache.camel -> html-to-pdf:maven-html-to-pdf = "Camel :: Html to Pdf Plugin"
 org.apache.camel -> html-to-pdf:maven-html-to-pdf = "Camel :: Maven Plugins :: Camel Manual"
 org.apache.camel.k -> camel-k:camel-k-maven-plugin = 
+org.apache.camel.kafkaconnector -> camel-kafka-connector-generator:camel-kafka-connector-generator-maven-plugin = "Camel-Kafka-Connector :: Generator Maven Plugin"
 org.apache.camel.karaf -> camel-catalog-generator-karaf:camel-catalog-generator-karaf-maven-plugin = "Camel Karaf :: Tooling :: Catalog Generator Maven Plugin"
 org.apache.camel.karaf -> camel-karaf-docs:camel-karaf-docs-maven-plugin = "Camel Karaf :: Tooling :: Docs Maven Plugin"
 org.apache.camel.maven -> camel-debezium:camel-debezium-maven-plugin = "Camel :: Debezium :: Maven plugin"
