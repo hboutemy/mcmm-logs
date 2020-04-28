@@ -23009,9 +23009,9 @@ org.wso2.carbon.identity.outbound.auth.oidc:org.wso2.carbon.identity.application
 org.wso2.carbon.identity.outbound.auth.openid:identity-application-auth-openid => -5.1.2
 org.wso2.carbon.identity.outbound.auth.openid:org.wso2.carbon.identity.application.authenticator.openid => -5.1.2
 org.wso2.carbon.identity.outbound.auth.openid:org.wso2.carbon.identity.application.authenticator.openid.server.feature => -5.1.2
-org.wso2.carbon.identity.outbound.auth.saml2:identity-application-auth-samlsso => -5.1.4, -5.1.5, -5.1.6, -5.1.7, -5.2.0, -5.2.1, -5.2.2, -5.2.3, -5.2.4, -5.2.5, -5.2.8, -5.2.9, -5.3.0
-org.wso2.carbon.identity.outbound.auth.saml2:org.wso2.carbon.identity.application.authenticator.samlsso => -5.1.4, -5.1.5, -5.1.6, -5.1.7, -5.2.0, -5.2.1, -5.2.2, -5.2.3, -5.2.4, -5.2.5, -5.2.8, -5.2.9, -5.3.0
-org.wso2.carbon.identity.outbound.auth.saml2:org.wso2.carbon.identity.application.authenticator.samlsso.server.feature => -5.1.4, -5.1.5, -5.1.6, -5.1.7, -5.2.0, -5.2.1, -5.2.2, -5.2.3, -5.2.4, -5.2.5, -5.2.8, -5.2.9, -5.3.0
+org.wso2.carbon.identity.outbound.auth.saml2:identity-application-auth-samlsso => -5.1.4, -5.1.5, -5.1.6, -5.1.7, -5.2.0, -5.2.1, -5.2.2, -5.2.3, -5.2.4, -5.2.5, -5.2.8, -5.2.9, -5.2.10, -5.3.0, -5.3.2, -5.3.3, -5.3.4, -5.3.5, -5.3.6
+org.wso2.carbon.identity.outbound.auth.saml2:org.wso2.carbon.identity.application.authenticator.samlsso => -5.1.4, -5.1.5, -5.1.6, -5.1.7, -5.2.0, -5.2.1, -5.2.2, -5.2.3, -5.2.4, -5.2.5, -5.2.8, -5.2.9, -5.2.10, -5.3.0, -5.3.2, -5.3.3, -5.3.4, -5.3.5, -5.3.6
+org.wso2.carbon.identity.outbound.auth.saml2:org.wso2.carbon.identity.application.authenticator.samlsso.server.feature => -5.1.4, -5.1.5, -5.1.6, -5.1.7, -5.2.0, -5.2.1, -5.2.2, -5.2.3, -5.2.4, -5.2.5, -5.2.8, -5.2.9, -5.2.10, -5.3.0, -5.3.2, -5.3.3, -5.3.4, -5.3.5, -5.3.6
 org.wso2.carbon.identity.outbound.auth.sts.passive:identity-application-auth-passive-sts => -5.2.0, -5.2.3, -5.2.4, -5.3.0, -5.3.1, -5.3.2, -5.3.3, -5.3.4
 org.wso2.carbon.identity.outbound.auth.sts.passive:org.wso2.carbon.identity.application.authenticator.passive.sts => -5.2.0, -5.2.3, -5.2.4, -5.3.0, -5.3.1, -5.3.2, -5.3.3, -5.3.4
 org.wso2.carbon.identity.outbound.auth.sts.passive:org.wso2.carbon.identity.application.authenticator.passive.sts.server.feature => -5.2.0, -5.2.3, -5.2.4, -5.3.0, -5.3.1, -5.3.2, -5.3.3, -5.3.4
