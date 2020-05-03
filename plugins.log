@@ -2329,6 +2329,7 @@ info.plichta.maven.plugins -> git-changelog:git-changelog-maven-plugin = "${proj
 int.esa.ccsds.mo -> StubGenerator:StubGenerator = "ESA MO Stub Generator"
 io.aalam.maven -> aalam:aalam-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.airlift.drift -> drift:drift-maven-plugin = 
+io.airlift.maven.plugins -> redlinerpm:redlinerpm-maven-plugin = "redlinerpm-maven-plugin"
 io.airlift.maven.plugins -> sphinx:sphinx-maven-plugin = "sphinx-maven-plugin"
 io.allune -> bigquery:bigquery-maven-plugin = "BigQuery Maven Plugin"
 io.apicurio -> apicurio-registry:apicurio-registry-maven-plugin = "apicurio-registry-maven-plugin"
