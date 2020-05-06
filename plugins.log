@@ -2585,6 +2585,7 @@ io.sitoolkit.cv -> sit-cv:sit-cv-maven-plugin = "sit-cv-maven-plugin"
 io.sitoolkit.rdg -> sit-rdg:sit-rdg-maven-plugin = 
 io.sitoolkit.wt -> sit-wt:sit-wt-maven-plugin = "sit-wt-maven-plugin Maven Plugin"
 io.skullabs.kikaha -> kikaha:kikaha-maven-plugin = "Kikaha: Maven Plugin"
+io.smallrye -> smallrye-graphql:smallrye-graphql-maven-plugin = "SmallRye: MicroProfile GraphQL Maven Plugin"
 io.smallrye -> smallrye:smallrye-maven-plugin = "SmallRye Maven Plugin"
 io.snyk -> snyk:snyk-maven-plugin = "Snyk.io Maven Plugin"
 io.solit.maven -> cat:cat-maven-plugin = "concatenation maven plugin"
