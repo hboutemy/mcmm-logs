@@ -4260,6 +4260,7 @@ com.microsoft.azure:applicationinsights-logging-logback => +0.9.6
 com.microsoft.azure:applicationinsights-web => +0.9.6
 com.microsoft.azure:azure-storage => +1.3.0
 com.microsoft.azure:azure-storage-java => +10.0.0
+com.microsoft.azure:spark-cdm-connector => +0.02
 com.microsoft.graph:microsoft-graph-core => +1.0.1
 com.microsoft.sqlserver:mssql-jdbc => +8.1.1.jre11, +8.1.1.jre13, +8.1.1.jre8
 com.mikelduke:jtest-data => -.0.0.1
