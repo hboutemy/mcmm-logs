@@ -2002,6 +2002,7 @@ com.yinzara -> jasperreports-fonts:jasperreports-fonts-maven-plugin = "jasperrep
 com.yinzara -> jasperreports-fonts-maven-plugin:jasperreports-fonts-maven-plugin = "jasperreports-fonts-maven-plugin Maven Plugin"
 com.yopeso -> jacococoverage:jacococoverage-maven-plugin = "jacococoverage-maven-plugin Maven Mojo"
 com.yourmediashelf.fedora -> fedora-cargo:fedora-cargo-plugin = "fedora-cargo-plugin"
+com.yuxuan66 -> ehi-blog:ehi-blog-plugin-maven-plugin = "ehi-blog-plugin-maven-plugin"
 com.zavakid.citrus.tool -> autoconfig:autoconfig-maven-plugin = "Antx Auto-config Maven Plugin"
 com.zenika -> varnishtest:varnishtest-maven-plugin = "Maven plugin for varnishtest"
 com.zenjava -> jfx:javafx-maven-plugin = "JavaFX Maven Plugin"
