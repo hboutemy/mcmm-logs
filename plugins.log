@@ -1021,6 +1021,7 @@ com.github.ryanholdren.typesafesql -> typesafesql:typesafesql-maven-plugin = "Ty
 com.github.s4u.plugins -> pgpverify:pgpverify-maven-plugin = "Verify PGP signatures plugin"
 com.github.s4u.plugins -> sitemapxml:sitemapxml-maven-plugin = "Maven Sitemap generator plugin"
 com.github.saiprasadkrishnamurthy -> cuke-style:cuke-style-maven-plugin = "Cukestyle plugin"
+com.github.saiprasadkrishnamurthy -> k8s-utils:k8s-utils-maven-plugin = "K8S utilities"
 com.github.samskiter.jsonschema2pojo -> jsonschema2pojo:jsonschema2pojo-maven-plugin = "jsonschema2pojo-maven-plugin"
 com.github.sanity4j -> sanity4j:sanity4j = "Sanity4J"
 com.github.sarahbuisson -> universal-module-aggregator:maven-universal-module-aggregator-plugin = "maven-universal-module-aggregator-plugin"
