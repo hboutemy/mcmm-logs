@@ -571,6 +571,7 @@ com.github.adrianboimvaser -> postgresql:postgresql-maven-plugin = "PostgreSQL M
 com.github.agliznetsov.swagger-tools -> swagger-tools:swagger-tools-maven-plugin = 
 com.github.agogs -> securekey:securekey-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.ahodanenok.maven.plugins -> gwt-sdm-url:gwt-sdm-url-maven-plugin = "${project.groupId}:${project.artifactId}"
+com.github.akman -> jlink:jlink-maven-plugin = "JLink maven plugin"
 com.github.akvone -> update-image:update-image-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.albanseurat -> spring-boot-frontend:spring-boot-frontend-maven-plugin = "spring-boot-frontend-maven-plugin"
 com.github.albfernandez.richfaces -> richfaces-resource-optimizer:richfaces-resource-optimizer-maven-plugin = "RichFaces Resources Maven Plugin"
