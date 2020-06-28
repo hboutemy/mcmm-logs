@@ -574,6 +574,7 @@ com.github.agliznetsov.swagger-tools -> swagger-tools:swagger-tools-maven-plugin
 com.github.agogs -> securekey:securekey-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.ahodanenok.maven.plugins -> gwt-sdm-url:gwt-sdm-url-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.akman -> jlink:jlink-maven-plugin = "JLink Maven Plugin"
+com.github.akman -> jpackage:jpackage-maven-plugin = "JPackage Maven Plugin"
 com.github.akvone -> update-image:update-image-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.albanseurat -> spring-boot-frontend:spring-boot-frontend-maven-plugin = "spring-boot-frontend-maven-plugin"
 com.github.albfernandez.richfaces -> richfaces-resource-optimizer:richfaces-resource-optimizer-maven-plugin = "RichFaces Resources Maven Plugin"
@@ -2479,6 +2480,8 @@ io.github.dovaleac -> stateless4j-yaml-importer:stateless4j-yaml-importer = "Sta
 io.github.ericsson-mts -> mts-asn1:mts-asn1-plugin = 
 io.github.evis -> scalafix:scalafix-maven-plugin = "scalafix-maven-plugin"
 io.github.faketime-java -> faketime:faketime-maven-plugin = "FakeTime Maven Plugin"
+io.github.fastcube.factory.tibco.bw.maven -> bw-javaxpath:bw-javaxpath-maven-plugin = "bwMaven Java XPath plugin"
+io.github.fastcube.factory.tibco.bw.maven -> bw:bw-maven-plugin = "bwMaven plugin"
 io.github.flaw101 -> concat:concat-maven-plugin = "Concat Maven Plugin"
 io.github.frostingwolf -> saluki:saluki-maven-plugin = 
 io.github.fvarrui -> javapackager:javapackager = "JavaPackager Maven Plugin"
