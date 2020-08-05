@@ -2558,6 +2558,7 @@ io.github.thingersoft -> properties-manager:properties-manager-maven-plugin = "P
 io.github.tobiashochguertel -> documentation:documentation-maven-plugin = "documentation-maven-plugin"
 io.github.ttj4 -> scalapb:scalapb-maven-plugin = "ScalaPB Maven Plugin"
 io.github.wanghuayao -> oaktree:maven-plugin-oaktree = "maven plugin oaktree"
+io.github.willianwd -> quarkus-spring-cloud-config:quarkus-spring-cloud-config-maven-plugin = "Quarkus Spring Cloud Config Maven Plugin"
 io.github.wilson-he -> generator:generator-maven-plugin = "generator-maven-plugin Maven Mojo"
 io.github.wimdeblauwe -> jpearl:jpearl-maven-plugin = "JPearl Maven Plugin"
 io.github.yangshuo -> db-deployer:db-deployer-maven-plugin = 
