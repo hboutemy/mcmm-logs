@@ -5435,6 +5435,7 @@ tech.grasshopper -> extentreports-cucumberjson:extentreports-cucumberjson-plugin
 tech.ibit -> ibit-mybatis-generator:ibit-mybatis-generator-maven-plugin = "ibit-mybatis-generator-maven-plugin"
 tech.rsqn -> build-tasks:build-tasks = "build-tasks"
 tk.skuro -> plan:plan-maven-plugin = "Maven plugin to analyse the execution plan"
+tools.mdsd -> pom-enhancer:pom-enhancer-maven-plugin = "CBI Deployment POM-Enhancer Maven Plugin"
 top.marchand.maven -> dep-tree:dep-tree-maven-plugin = "Dependency-tree generator"
 top.marchand.maven -> setbaseuri:setbaseuri-maven-plugin = "BaseUri definer"
 top.marchand.maven -> spring-xd-archiver:spring-xd-archiver-maven-plugin = "Spring-XD archiver maven plugin"
