@@ -2364,6 +2364,7 @@ fr.opensagres.maven.plugins -> no-annotations:no-annotations-maven-plugin = "no-
 fr.shingle -> shingle:shingle-maven-plugin = 
 fr.xebia.maven.plugins -> mindmap:mindmap-maven-plugin = "Maven dependency :: ${project.artifactId} ${project.packaging}"
 ga.rugal.maven -> commitlinter:commitlinter-maven-plugin = "Git Commit Message Linter Maven Plugin"
+gg.jte -> jte:jte-maven-plugin = "jte-maven-plugin"
 gg.neko.spiceit -> spiceit:spiceit-maven-plugin = "SpiceIt Maven Plugin"
 global.namespace.truelicense -> truelicense:truelicense-maven-plugin = "TrueLicense Maven Plugin"
 gov.nasa.pds.model -> model-dmdocument:model-dmdocument = "Model DM-Document Maven Plugin"
