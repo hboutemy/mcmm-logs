@@ -2419,6 +2419,7 @@ io.avaje.maven -> tiles:tiles-maven-plugin = "Tiles Maven Plugin"
 io.avaje.metrics -> metrics:metrics-maven-plugin = "Maven byte code enhancement for Timed metric collection"
 io.baratine -> baratine:baratine-maven-plugin = "Baratine Maven Plugin"
 io.basestar -> basestar:basestar-maven-plugin = 
+io.bindingz -> bindingz:bindingz-maven-plugin = "${project.artifactId}"
 io.blitz -> blitz:blitz-maven-plugin = "blitz-maven"
 io.brachu -> docker-compose:docker-compose-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.brooklyn.maven -> brooklyn:brooklyn-maven-plugin = "Brooklyn Maven Plugin"
