@@ -2679,6 +2679,7 @@ io.sitoolkit.wt -> sit-wt:sit-wt-maven-plugin = "sit-wt-maven-plugin Maven Plugi
 io.skullabs.kikaha -> kikaha:kikaha-maven-plugin = "Kikaha: Maven Plugin"
 io.smallrye -> smallrye-graphql:smallrye-graphql-maven-plugin = "SmallRye: GraphQL Tools :: Maven"
 io.smallrye -> smallrye:smallrye-maven-plugin = "SmallRye Maven Plugin"
+io.smallrye -> smallrye-open-api:smallrye-open-api-maven-plugin = "SmallRye: OpenAPI Tools :: Maven"
 io.snyk -> snyk:snyk-maven-plugin = "Snyk.io Maven Plugin"
 io.solit.maven -> cat:cat-maven-plugin = "concatenation maven plugin"
 io.solit.maven -> deb:deb-maven-plugin = ".deb maven plugin"
