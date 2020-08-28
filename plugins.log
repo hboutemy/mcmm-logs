@@ -2515,6 +2515,7 @@ io.github.guitaro -> erb-templating:erb-templating-maven-plugin = "${project.gro
 io.github.hadix-lin -> springfox-plus:springfox-plus-maven-plugin = 
 io.github.handofgod94 -> jacoco-cov-badge:jacoco-cov-badge-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.houssemba -> dependencytrack-mvn-publisher:dependencytrack-mvn-publisher = "DependencyTrack Maven Publisher"
+io.github.janhicken -> versions:versions-maven-plugin = "Versions Maven Plugin"
 io.github.jdlopez -> dbdoc:dbdoc-maven-plugin = "dbdoc Maven Plugin"
 io.github.jebeaudet -> flyway-validator:flyway-validator-maven-plugin = "flyway-validator-maven-plugin"
 io.github.jeffskj.cdversions -> cd-versions:cd-versions-maven-plugin = "cd-versions-maven-plugin Maven Plugin"
@@ -5415,6 +5416,7 @@ se.bjurr.violations -> violation-comments-to-gitlab:violation-comments-to-gitlab
 se.bjurr.violations -> violations:violations-maven-plugin = "violations-maven-plugin"
 se.bluebrim.maven.plugin -> screenshot:screenshot-maven-plugin = "${project.artifactId}"
 se.eris -> notnull-instrumenter:notnull-instrumenter-maven-plugin = "IntelliJ Annotations Instrumenter"
+se.haleby.aspectj -> aspectj:aspectj-maven-plugin = "Mojo's AspectJ Maven Plugin - Johan Haleby Fork"
 se.javasoft.development -> external:external = "External Generator ${project.version}"
 se.javasoft.development -> frontend:frontend = "Frontend generator ${project.version}"
 se.javasoft.development -> metagenerator:metagenerator = "Meta generator ${project.version}"
