@@ -1819,6 +1819,7 @@ com.sinnerschrader.aem.react -> generate-typescript:generate-typescript-maven-pl
 com.sinnerschrader.aem.spa -> generate-typescript:generate-typescript-maven-plugin = "generate-typescript-maven-plugin Maven Plugin"
 com.sinnerschrader.vw.aem.react -> generate-typescript:generate-typescript-maven-plugin = "generate-typescript-maven-plugin Maven Plugin"
 com.sixdimensions.wcm.cq -> cq-deploy:cq-deploy-plugin = "Adobe CQ Deploy Maven Plugin"
+com.sixsixsix516 -> sun-deploy:sun-deploy-maven-plugin = "sun-deploy-maven-plugin"
 com.sixsq.slipstream -> slipstream:slipstream-maven-plugin = "SlipStream Maven Plugin"
 com.sksamuel.scoverage -> scoverage:maven-scoverage-plugin = "Maven plugin for scoverage"
 com.smartbear.readyapi -> testserver:testserver-maven-plugin = "Ready! API TestServer Maven Plugin"
