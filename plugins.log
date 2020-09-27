@@ -4456,7 +4456,6 @@ org.jboss.maven.plugins.jbossas -> jboss-as-control:maven-jboss-as-control-plugi
 org.jboss.maven.surefire.modular -> surefire:maven-surefire-plugin = "Maven Surefire Plugin"
 org.jboss.module-info -> module-info:module-info = "JBoss module-info"
 org.jboss.narayana.blacktie.plugins -> cpp:blacktie-cpp-plugin = "Blacktie C++ Plugin"
-org.jboss.narayana.blacktie.plugins -> blacktie-cpp:blacktie-cpp-plugin = "Blacktie C++ Plugin"
 org.jboss.narayana.blacktie.plugins -> cpp:cpp-plugin = "Blacktie C++ Plugin"
 org.jboss.narayana.rts -> lra-annotation-checker:lra-annotation-checker-maven-plugin = "Maven plugin LRA annotation checker"
 org.jboss.portletbridge.archetypes -> 1.2-basic:1.2-basic = "JSF Portlet archetype"
