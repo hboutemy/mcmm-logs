@@ -473,6 +473,7 @@ com.distelli.graphql -> graphql-apigen:graphql-apigen = "Generate Java interface
 com.dkanejs.maven.plugins -> docker-compose:docker-compose-maven-plugin = "Docker Compose Maven Plugin"
 com.dkirrane.maven.plugins -> ggitflow:ggitflow-maven-plugin = "ggitflow-maven-plugin"
 com.dooapp -> gaedo-informer-generator:gaedo-informer-generator = "Gaedo informer generator"
+com.dottydingo.plugins -> protoc-codegen:protoc-codegen = "Protoc Code Generation Plugin"
 com.dplugin.maven.plugins -> properties:properties-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.draagon -> metaobjects:metaobjects-maven-plugin = "MetaObjects :: Maven Plugin"
 com.dragome -> dragome:dragome-maven-plugin = "dragome-maven-plugins"
