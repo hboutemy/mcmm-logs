@@ -2233,6 +2233,7 @@ de.saumya.mojo -> rake:rake-maven-plugin = "Rake Maven Mojo"
 de.saumya.mojo -> rspec:rspec-maven-plugin = "RSpec Maven Mojo"
 de.saumya.mojo -> runit:runit-maven-plugin = "RUnit Maven Mojo"
 de.schrieveslaach.nlpf -> nlp:nlp-maven-plugin = 
+de.scravy -> waitfor:waitfor-maven-plugin = "Simplaex WaitFor Maven Plugin"
 de.sekmi.histream.maven -> histream:histream-maven-plugin = "HIStream : Maven plugin"
 de.shadowhunt.maven.plugins -> package-info:package-info-maven-plugin = "Maven package-info.java Plugin"
 de.shadowhunt.maven.plugins -> properties:properties-maven-plugin = "Maven properties Plugin"
