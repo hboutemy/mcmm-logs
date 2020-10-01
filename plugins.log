@@ -580,6 +580,7 @@ com.github.adrianboimvaser -> postgresql:postgresql-maven-plugin = "PostgreSQL M
 com.github.agliznetsov.swagger-tools -> swagger-tools:swagger-tools-maven-plugin = 
 com.github.agogs -> securekey:securekey-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.ahodanenok.maven.plugins -> gwt-sdm-url:gwt-sdm-url-maven-plugin = "${project.groupId}:${project.artifactId}"
+com.github.aistomin -> dependencies-analyser:maven-dependencies-analyser = "Maven Dependencies Analyser"
 com.github.akman -> jlink:jlink-maven-plugin = "JLink Maven Plugin"
 com.github.akman -> jpackage:jpackage-maven-plugin = "JPackage Maven Plugin"
 com.github.akvone -> update-image:update-image-maven-plugin = "${project.groupId}:${project.artifactId}"
