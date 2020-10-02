@@ -512,6 +512,7 @@ com.exadatum.xsuite.xmaven -> workflow:workflow-maven-plugin = "Maven Workflow G
 com.exadel.aem -> aem-authoring-toolkit:aem-authoring-toolkit-plugin = "${project.prettyName} Maven Plugin"
 com.exadel.flamingo.maven.plugin -> flamingoapp:flamingoapp = "Flamingo Application Generator Maven Plugin"
 com.exasol -> artifact-reference-checker:artifact-reference-checker-maven-plugin = "Artifact reference checker and unifier"
+com.exasol -> project-keeper:project-keeper-maven-plugin = "Project keeper maven plugin"
 com.excelsiorjet -> excelsior-jet:excelsior-jet-maven-plugin = "Excelsior JET Maven Plugin"
 com.expedia.tesla -> tesla-compiler:tesla-compiler-maven-plugin = "tesla-compiler-maven-plugin Maven Plugin"
 com.expediagroup -> graphql-kotlin:graphql-kotlin-maven-plugin = "com.expediagroup:graphql-kotlin-maven-plugin"
