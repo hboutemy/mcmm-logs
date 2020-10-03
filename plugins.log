@@ -4992,6 +4992,7 @@ org.preesm.maven -> sftp:sftp-maven-plugin = "Preesm Maven :: SFTP Transfert Plu
 org.primefaces.extensions -> resources-optimizer:resources-optimizer-maven-plugin = "PrimeFaces Extensions Resource Optimizer Plugin"
 org.projectlombok -> lombok:lombok-maven-plugin = "Lombok Maven Plugin"
 org.projectlombok -> lombok:maven-lombok-plugin = "Maven Lombok Plugin"
+org.projectnessie -> nessie-apprunner:nessie-apprunner-maven-plugin = "Nessie Quarkus Application Runner Maven Plugin"
 org.projectodd.jrapidoc -> jrapidoc-rest:jrapidoc-rest-plugin = 
 org.projectodd.jrapidoc -> jrapidoc-soap:jrapidoc-soap-plugin = 
 org.projectodd.shrinkwrap.descriptors -> shrinkwrap-descriptors-metadata-parser:shrinkwrap-descriptors-metadata-parser = "ShrinkWrap Descriptors Metadata Parser"
