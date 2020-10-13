@@ -144,6 +144,7 @@ cn.smallbun.screw -> screw:screw-maven-plugin =
 cn.wangdm.maven.plugins -> wangdm-fake:wangdm-fake-maven-plugin = "Fake Maven Plugin"
 cn.wangdm.maven.plugins -> wangdm-fake:wangdm-fake-plugin = "Fake Maven Plugin"
 cn.wanghaomiao -> seimicrawler:maven-seimicrawler-plugin = "SeimiCrawler Package Plugin"
+cn.weforward -> build:build-maven-plugin = "weforward-buildplugin"
 cn.wjee.boot -> wjee-spring-boot:wjee-spring-boot-maven-plugin = 
 cn.xphsc -> xpack:xpack-maven-plugin = "xpack-maven-plugin"
 co.aurasphere.maven.plugins -> zip:zip-maven-plugin = "Zip Maven Plugin"
