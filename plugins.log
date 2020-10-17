@@ -2267,6 +2267,7 @@ de.starwit.apacheds -> apacheds:apacheds-maven-plugin = "${project.groupId}:${pr
 de.steffen-rumpf -> asciidoc-blog:asciidoc-blog-maven-plugin = "asciidoc-blog-maven-plugin"
 de.struller-baumann -> visualee:visualee = "visualee"
 de.svenkubiak -> mangooio:mangooio-maven-plugin = 
+de.syquel.maven.reactorstate -> reactorstate:reactorstate-maven-plugin = "ReactorState Maven Plugin"
 de.taimos -> daemon:daemon-maven-plugin = "Maven plugin for daemon framework"
 de.taimos -> interconnect:interconnect-maven-plugin = "Dvalin interconnect maven plugin for source generation"
 de.taimos -> redmine:redmine-maven-plugin = "redmine-maven-plugin Maven Mojo"
