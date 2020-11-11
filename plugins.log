@@ -3192,6 +3192,7 @@ net.tascalate.javaflow -> net.tascalate.javaflow.tools.:net.tascalate.javaflow.t
 net.technearts -> external-resources:external-resources-maven-plugin = "External Resources Maven Plugin"
 net.technearts -> remote-enforcer:remote-enforcer-maven-plugin = "remote-dependency Maven Plugin"
 net.therore -> therore-artifact-cache:therore-artifact-cache-plugin = "therore-artifact-cache-plugin"
+net.thevpc.maven -> writer:writer-maven-plugin = "net.thevpc.maven.writer-maven-plugin"
 net.thucydides.maven.plugins -> thucydides:maven-thucydides-plugin = "Thucydides Maven Plugin"
 net.thucydides.maven.plugins -> thucydides-dashboard:thucydides-dashboard-maven-plugin = "thucydides-dashboard Maven Mojo"
 net.tietema.versioning -> versioning:versioning-maven-plugin = "Versioning Maven Plugin"
