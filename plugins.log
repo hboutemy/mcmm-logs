@@ -1231,6 +1231,7 @@ com.github.yiwangqingshui -> mybatis:mybatis-maven-plugin = "mybatis-gen-maven-p
 com.github.yogurt-dev -> codegen:codegen = 
 com.github.yracnet.maven -> fragment:fragment-maven-plugin = "fragment-maven-plugin"
 com.github.yracnet.maven -> qualitycode:qualitycode-maven-plugin = "qualitycode-maven-plugin"
+com.github.yujiaao -> tablegen:tablegen-maven-plugin = 
 com.github.yungyu16.maven -> version:version-maven-plugin = "${project.artifactId}"
 com.github.z3d1k -> ktlint:ktlint-maven-plugin = "Ktlint maven plugin"
 com.github.zaplatynski -> archive-packagetype:archive-packagetype = "Archive Maven Package Type"
