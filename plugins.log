@@ -3735,6 +3735,7 @@ org.apache.uima -> uima-build-helper:uima-build-helper-maven-plugin = "UIMA ${pr
 org.apache.uima -> uima-build-helper:uima-build-helper-maven-plugin = "Apache UIMA ${project.artifactId}"
 org.apache.uima -> uimafit:uimafit-maven-plugin = "Apache UIMA uimaFIT - Maven Plugin"
 org.apache.wicket -> wicket-archetype-quickstart:wicket-archetype-quickstart = "Wicket Quickstart Archetype"
+org.apache.winegrower -> winegrower:winegrower-maven-plugin = "Apache Winegrower :: Extension :: Build :: Maven"
 org.apache.woden -> woden-converter:woden-converter-maven-plugin = "Woden - converter Maven plugin"
 org.apache.ws.commons.axiom -> javadoc-postprocessor:javadoc-postprocessor-plugin = 
 org.apache.ws.jaxme -> jaxme:maven-jaxme-plugin = "Maven JaxMe Plugin"
