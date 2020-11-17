@@ -2422,6 +2422,7 @@ gov.nasa.pds.model -> model-dmdocument:model-dmdocument = "Model DM-Document Mav
 gov.nist.secauto.swid -> swid:swid-maven-plugin = "Maven SWID Tag Generation Plugin"
 gr.abiss.mvn.plugins -> jstools:maven-jstools-plugin = "Maven JSTools Plugin"
 group.idealworld.dew -> dew:dew-maven-plugin = "2.0 Dew DevOps Maven Plugin"
+group.idealworld.dew -> sdkgen:sdkgen-maven-plugin = "1.3.1 Dew SDK Generate Maven Plugin"
 guru.nidi -> code-assert:code-assert-maven-plugin = "${project.artifactId}"
 guru.nidi.languager -> languager:languager-maven-plugin = "${project.artifactId}"
 guru.nidi.maven.plugins -> atlassian:atlassian-maven-plugin = "${project.artifactId}"
