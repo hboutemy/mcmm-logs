@@ -3073,6 +3073,7 @@ net.onedaybeard.artemis -> artemis-fluid:artemis-fluid-maven-plugin =
 net.onedaybeard.artemis -> artemis-odb:artemis-odb-maven-plugin = "artemis-odb-maven-plugin"
 net.onedaybeard.graftt -> graftt:graftt-maven-plugin = "graftt - maven plugin"
 net.ontopia -> documentation:documentation-maven-plugin = "Ontopia documentation plugin"
+net.openhft -> binary-compatibility-enforcer:binary-compatibility-enforcer-plugin = "Binary Compatibility Enforcer Plugin"
 net.openhft -> jpsg:jpsg-maven-plugin = "JPSG Maven plugin"
 net.orfjackal.retrolambda -> retrolambda:retrolambda-maven-plugin = 
 net.oschina.bilbodai.maven.plugin -> thrift:thrift-maven-plugin = "thrift-maven-plugin"
