@@ -3066,6 +3066,7 @@ net.oneandone.maven.plugins -> active-markdown:active-markdown = "Maven Active M
 net.oneandone.maven.plugins -> application:application = "Maven Application Plugin"
 net.oneandone.maven.plugins -> attach-qar:attach-qar-maven-plugin = "Attach QA Reports Maven Plugin"
 net.oneandone.maven.plugins -> bill-of-materials:bill-of-materials-maven-plugin = "1-and-1 :: Bill of Materials Plugin for Maven"
+net.oneandone.maven.plugins -> dockerbuild:dockerbuild = "Maven Dockerbuild Plugin"
 net.oneandone.maven.plugins -> prerelease:prerelease = "Maven Prerelease Plugin"
 net.oneandone.maven.plugins -> spritepacker:spritepacker-maven-plugin = "spritepacker-maven-plugin Maven Mojo"
 net.onedaybeard.agrotera -> agrotera:agrotera-maven-plugin = "agrotera-maven-plugin"
