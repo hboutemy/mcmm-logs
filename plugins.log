@@ -2750,6 +2750,7 @@ io.smallrye -> smallrye-graphql:smallrye-graphql-maven-plugin = "SmallRye: Graph
 io.smallrye -> smallrye:smallrye-maven-plugin = "SmallRye Maven Plugin"
 io.smallrye -> smallrye-open-api:smallrye-open-api-maven-plugin = "SmallRye: OpenAPI Tools :: Maven"
 io.snice.codecs -> diameter:diameter-maven-plugin = "Diamter Codegen"
+io.snice.codecs -> gtp:gtp-maven-plugin = "Gtp Codegen"
 io.snyk -> snyk:snyk-maven-plugin = "Snyk.io Maven Plugin"
 io.solit.maven -> cat:cat-maven-plugin = "concatenation maven plugin"
 io.solit.maven -> deb:deb-maven-plugin = ".deb maven plugin"
