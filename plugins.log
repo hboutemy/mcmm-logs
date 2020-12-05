@@ -2082,6 +2082,7 @@ com.yeetrack.selenium -> spoon:spoon = "selenium-spoon-plugin"
 com.yesql4j -> yesql4j:yesql4j-maven-plugin = 
 com.yinzara -> jasperreports-fonts:jasperreports-fonts-maven-plugin = "jasperreports-fonts-maven-plugin Maven Plugin"
 com.yinzara -> jasperreports-fonts-maven-plugin:jasperreports-fonts-maven-plugin = "jasperreports-fonts-maven-plugin Maven Plugin"
+com.yo1000 -> newrelic-instrumentation:newrelic-instrumentation-maven-plugin = "newrelic-instrumentation-maven-plugin"
 com.yopeso -> jacococoverage:jacococoverage-maven-plugin = "jacococoverage-maven-plugin Maven Mojo"
 com.youengineering -> openapi:openapi-maven-plugin = "OpenAPI Maven Plugin"
 com.yourmediashelf.fedora -> fedora-cargo:fedora-cargo-plugin = "fedora-cargo-plugin"
