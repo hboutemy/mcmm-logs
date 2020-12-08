@@ -123,6 +123,7 @@ ch.sourcepond.maven.plugins -> multi-module-release:multi-module-release-maven-p
 ch.sourcepond.maven.plugins -> repository-builder:repository-builder-plugin = "Repository Builder Maven Plugin"
 ch.vorburger.mariaDB4j -> mariaDB4j:mariaDB4j-maven-plugin = "mariaDB4j-maven-plugin"
 ch.welld.kie -> welld-kogito-kjar:welld-kogito-kjar-maven-plugin = "WellD Kogito KJAR Maven Plugin"
+cloud.iswift.framework -> frontend:maven-plugin-frontend = 
 cloud.piranha.maven.plugins -> piranha-micro:piranha-micro-maven-plugin = "Piranha Maven Plugins - Piranha Micro"
 club.trandiscuss -> api-doc-gen:api-doc-gen = "api-doc-gen"
 cn.caohongliang -> mybatis-generator:mybatis-generator-maven-plugin = "mybatis-generator-maven-plugin"
@@ -5424,6 +5425,7 @@ org.wso2.maven -> wso2-esb-inboundendpoint:wso2-esb-inboundendpoint-plugin = "Ma
 org.wso2.maven -> wso2-esb-localentry:wso2-esb-localentry-plugin = "Maven ESB Local Entry Plugin"
 org.wso2.maven -> wso2-esb-messageprocessor:wso2-esb-messageprocessor-plugin = "Maven MessageProcessor Plugin"
 org.wso2.maven -> wso2-esb-messagestore:wso2-esb-messagestore-plugin = "Maven MessageStore Plugin"
+org.wso2.maven -> wso2-esb-metadata:wso2-esb-metadata-plugin = "Maven Metadata Plugin"
 org.wso2.maven -> wso2-esb-proxy:wso2-esb-proxy-plugin = "Maven Proxy Plugin"
 org.wso2.maven -> wso2-esb-sequence:wso2-esb-sequence-plugin = "Maven ESB Sequence Plugin"
 org.wso2.maven -> wso2-esb-synapse:wso2-esb-synapse-plugin = "WSO2  ESB Synapse Configuration Plugin"
