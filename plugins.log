@@ -5176,6 +5176,7 @@ org.smallmind -> spark-tanukisoft-mojo:spark-tanukisoft-mojo = "Spark-Tanukisoft
 org.smartboot.maven.archetype -> smartboot-archetype:smartboot-archetype = "${project.artifactId}"
 org.smartboot.maven.plugin -> mydalgen:maven-mydalgen-plugin = "${project.artifactId}"
 org.smartboot.maven.plugin -> mybatisdalgen:mybatisdalgen = "${project.groupId}:${project.artifactId}"
+org.smartboot.servlet -> smart-servlet:smart-servlet-maven-plugin = 
 org.smyld.app.pe -> smyld-pe:smyld-pe-maven-plugin = "SMYLD Portal Engine plugin"
 org.sodeac -> org.sodeac.mvn.:org.sodeac.mvn.plugin = "Sodeac Maven Plugin"
 org.soitoolkit.tools.generator -> soitoolkit-generator:soitoolkit-generator-maven-plugin = "soitoolkit-generator-maven-plugin Maven Mojo"
