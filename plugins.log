@@ -5267,6 +5267,9 @@ org.springframework.boot.experimental -> spring-boot-thin:spring-boot-thin-maven
 org.springframework.cloud -> spring-cloud-app-starter-doc:spring-cloud-app-starter-doc-maven-plugin = 
 org.springframework.cloud -> spring-cloud-app-starter-metadata:spring-cloud-app-starter-metadata-maven-plugin = 
 org.springframework.cloud -> spring-cloud-contract:spring-cloud-contract-maven-plugin = "Spring Cloud Contract Maven Plugin"
+org.springframework.cloud -> spring-cloud-dataflow-apps-docs:spring-cloud-dataflow-apps-docs-plugin = 
+org.springframework.cloud -> spring-cloud-dataflow-apps-generator:spring-cloud-dataflow-apps-generator-plugin = "spring-cloud-dataflow-apps-generator-plugin"
+org.springframework.cloud -> spring-cloud-dataflow-apps-metadata:spring-cloud-dataflow-apps-metadata-plugin = 
 org.springframework.cloud.stream.app.plugin -> spring-cloud-stream-app-documentation:spring-cloud-stream-app-documentation-maven-plugin = ""
 org.springframework.cloud.stream.app.plugin -> scs:spring-cloud-stream-app-maven-plugin = "spring-cloud-stream-app-maven-plugin Maven Plugin"
 org.springframework.cloud.stream.app.plugin -> spring-cloud-stream-app:spring-cloud-stream-app-maven-plugin = "spring-cloud-stream-app-maven-plugin Maven Plugin"
