@@ -1234,6 +1234,7 @@ com.github.yadickson -> autoplsp:autoplsp = "Maven Auto PLSQL/SP Generator Plugi
 com.github.yishenggudou -> com.github.yishenggudou.test:com.github.yishenggudou.test = "Maven Jython packaging"
 com.github.yishenggudou -> jython-compile:jython-compile-maven-plugin = "jython-compile-maven-plugin"
 com.github.yishenggudou -> jython:mavenjython = "Maven Jython packaging"
+com.github.yituhealthcare -> arc:arc-maven-plugin = "arc-maven-plugin"
 com.github.yiwangqingshui -> mybatis:mybatis-maven-plugin = "mybatis-gen-maven-plugin"
 com.github.yogurt-dev -> codegen:codegen = 
 com.github.yracnet.maven -> fragment:fragment-maven-plugin = "fragment-maven-plugin"
