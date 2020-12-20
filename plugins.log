@@ -1199,6 +1199,7 @@ com.github.verylazyboy -> sablecc:sablecc-maven-plugin = "sablecc-maven-plugin"
 com.github.victools -> jsonschema:jsonschema-maven-plugin = "Java JSON Schema Generator Maven Plugin"
 com.github.vincent-fuchs -> cucumber-results-aggregator:cucumber-results-aggregator-plugin = "cucumber-results-aggregator-plugin"
 com.github.vincentrussell -> bulkrepository-deploy:bulk-maven-repository-deploy-plugin = "bulk-maven-repository-deploy-plugin Maven Plugin"
+com.github.vincentrussell -> jenkins-dependency:jenkins-dependency-plugin = "jenkins-dependency-plugin Maven Plugin"
 com.github.vincentrussell -> springmvc-rest-docs:springmvc-rest-docs-maven-plugin = 
 com.github.vlsi.gettext -> gettext:gettext-maven-plugin = "Maven Gettext Plugin"
 com.github.volodya-lombrozo -> hg-revision:hg-revision-plugin = "${project.groupId}:${project.artifactId}"
