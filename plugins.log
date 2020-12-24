@@ -1112,6 +1112,7 @@ com.github.souzen -> light-jpf:light-jpf-maven-plugin =
 com.github.sparow199 -> apollo-client:apollo-client-maven-plugin = "apollo-client-maven-plugin"
 com.github.spirylics -> constant:constant-maven-plugin = "${project.artifactId}"
 com.github.spirylics.web2app -> web2app:web2app-maven-plugin = "${project.artifactId}"
+com.github.splunk.lightproto -> lightproto:lightproto-maven-plugin = "lightproto-maven-plugin"
 com.github.spotbugs -> spotbugs:spotbugs-maven-plugin = "SpotBugs Maven Plugin"
 com.github.springbootPlus -> coder:coder-maven-plugin = "codinghelper"
 com.github.springbootPlus -> coder:maven-coder-plugin = "codinghelper"
