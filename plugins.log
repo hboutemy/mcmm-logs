@@ -954,6 +954,7 @@ com.github.mcheely -> requirejs:requirejs-maven-plugin = "RequireJS Maven Plugin
 com.github.mdr -> dependencygraph:maven-dependencygraph-plugin = "Maven Dependency Graph Plugin"
 com.github.meixuesong -> merge-cpd-pmd-report:merge-cpd-pmd-report-maven-plugin = "merge-cpd-pmd-report-maven-plugin"
 com.github.memorylorry -> JSON2SQL:JSON2SQL = "JSON2SQL Maven Mojo"
+com.github.mengweijin -> code-generator:code-generator-maven-plugin = "code-generator-maven-plugin"
 com.github.mhoffrog.io.onedev -> :plugin-maven = 
 com.github.mibo -> jaxrs-doc:jaxrs-doc-maven-plugin = "JAX-RS Documentation Maven Plugin"
 com.github.mike10004 -> concatenate:concatenate-maven-plugin = "concatenate-maven-plugin"
