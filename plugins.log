@@ -579,6 +579,7 @@ com.gitee.l0km -> swift2thrift:swift2thrift-maven-plugin = "swift2thrift-maven-p
 com.gitee.l0km -> thrifty-compiler:thrifty-compiler-maven-plugin = "maven plugin for Microsoft/thrifty compiler"
 com.github.618lf -> swak-api:swak-api = "swak-api"
 com.github.Azim -> azimdp:azimdp-maven-plugin = "AzimDP maven plugin to save a list of your dependencies"
+com.github.BonaparteDawn -> easy:easy-plugin = "easy-plugin ${project.version}"
 com.github.ChenChiaHung -> testrail:testrail-maven-plugin = "Maven plugin to create test runs on TestRail"
 com.github.Cka3o4Huk -> jmeter-graph:jmeter-graph-maven-plugin = "JMeter Graphs Maven Plugin"
 com.github.GitHub-Xzhi -> pack:pack-maven-plugin = "pack-maven-plugin"
@@ -5647,6 +5648,8 @@ us.hornerscorners.mojo -> eclipselink-ddlgeneration:eclipselink-ddlgeneration-ma
 us.hornerscorners.mojo -> glassfish-inplace:glassfish-inplace-maven-plugin = "glassfish-inplace-maven-plugin"
 us.springett -> uuid-generator:maven-uuid-generator = "Maven UUID Generator"
 us.vchain -> jvcn:jvcn-maven-plugin = "JVCN Maven Plugin"
+wiki.primo.generator -> primo-generator-mock-test:primo-generator-mock-test-maven-plugin = 
+wiki.primo.generator -> primo-generator-mybatis-plus:primo-generator-mybatis-plus-maven-plugin = 
 win.hupubao -> dockit:dockit-maven-plugin = "dockit"
 works.lmz.plugins -> webservice-generator:webservice-generator-plugin = "webservice-generator-plugin"
 ws.l10n -> l10n:l10n-maven-plugin = "L10n Maven Plugin"
