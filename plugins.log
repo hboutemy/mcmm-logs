@@ -1470,6 +1470,7 @@ com.io7m.kstructural -> io7m-kstructural:io7m-kstructural-maven-plugin = "io7m-k
 com.io7m.minisite -> com.io7m.minisite._:com.io7m.minisite.maven_plugin = "com.io7m.minisite.maven_plugin"
 com.io7m.modulechaser -> com.io7m.modulechaser:com.io7m.modulechaser = "com.io7m.modulechaser"
 com.io7m.saxon-plugin -> io7m-saxon:io7m-saxon-plugin = "io7m-saxon-plugin"
+com.io7m.stmp -> string-template:string-template-maven-plugin = "string-template-maven-plugin"
 com.iodesystems -> whatjdk:whatjdk-maven-plugin = 
 com.iorga -> ivif:ivif-maven-plugin = "IVIF Maven plugin"
 com.iqarr.maven.plugin -> jcv:jcv-maven-plugin = "jcv-maven-plugin"
