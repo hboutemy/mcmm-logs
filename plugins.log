@@ -3057,6 +3057,7 @@ net.liftweb -> lift-archetype-sbt_2.8.1:lift-archetype-sbt_2.8.1 = "lift-archety
 net.liftweb -> lift-archetype-jpa-blank-single_2.8.1:lift-archetype-jpa-blank-single_2.8.1 = "lift-archetype-jpa-blank-single_2.8.1"
 net.liftweb -> lift-archetype-jpa-blank_2.8.1:lift-archetype-jpa-blank_2.8.1 = "lift-archetype-jpa-blank_2.8.1"
 net.liftweb -> lift-archetype-jpa-basic_2.8.1:lift-archetype-jpa-basic_2.8.1 = "lift-archetype-jpa-basic_2.8.1"
+net.logicsquad -> minifier:minifier-maven-plugin = "Minifier Maven Plugin"
 net.lopht.maven-plugins -> upload:upload-maven-plugin = "Upload Maven Plugin"
 net.ltgt.gwt.maven -> gwt:gwt-maven-plugin = "Maven Plugin for GWT"
 net.maritimecloud.msdl -> msdl-compiler:mc-msdl-maven-plugin = "MaritimeCloud MSDL Maven Plugin"
