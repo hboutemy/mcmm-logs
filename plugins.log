@@ -4830,6 +4830,7 @@ org.metaeffekt.dcc -> dcc-bundle:dcc-bundle-maven-plugin =
 org.metaeffekt.dcc -> dcc-documentation:dcc-documentation-maven-plugin = 
 org.metaeffekt.dita -> ae-dita:ae-dita-maven-plugin = 
 org.metatype.sxc -> sxc-jaxb:sxc-jaxb-maven-plugin = "SXC JAXB :: Maven Plugin"
+org.meyvn -> appimagetool:appimagetool-maven-plugin = "appimagetool-maven-plugin Maven Mojo"
 org.microbean -> freemarker:freemarker-maven-plugin = "Freemarker Maven Plugin"
 org.microbean -> helm:helm-maven-plugin = "microBean Helm Maven Plugin"
 org.microshed.boost -> boost:boost-maven-plugin = 
