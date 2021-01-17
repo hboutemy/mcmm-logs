@@ -263,6 +263,7 @@ com.arturmkrtchyan.kafka -> kafka:kafka-maven-plugin = "kafka-maven-plugin"
 com.assertthat.plugins -> assertthat-bdd:assertthat-bdd-maven-plugin = "assertthat-bdd-maven-plugin"
 com.astralanguage -> astra:astra-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.astutebits -> jsquint:jsquint-maven-plugin = "jsquint-maven-plugin"
+com.asyncapi -> asyncapi:asyncapi-maven-plugin = 
 com.atlassian.bamboo -> bamboo-specs-runner:bamboo-specs-runner = "Bamboo Specs Runner Maven Plugin"
 com.atlassian.maven.plugins -> artifactory-staging:artifactory-staging-maven-plugin = "Artifactory Staging Maven Plugin"
 com.atlassian.maven.plugins -> clover2:maven-clover2-plugin = "Maven Clover Plugin"
