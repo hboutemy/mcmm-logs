@@ -1494,6 +1494,7 @@ com.itzhai.tools -> git-hook:git-hook-maven-plugin = "git-hook-maven-plugin"
 com.iwaconsolti -> flyway-check:flyway-check-plugin = "flyway-check-plugin"
 com.iwdnb -> blqs:blqs-maven-plugin = 
 com.iwillfailyou -> iwillfailyou:iwillfailyou-maven-plugin = "plugin-maven"
+com.j256.testcheckpublisher -> test-check-publisher:test-check-publisher-maven-plugin = "Test Check Publisher Maven Plugin"
 com.jakewharton -> github-deploy:github-deploy-maven-plugin = "GitHub Deploy Maven Plugin"
 com.jakewharton.retrolambda -> retrolambda:retrolambda-maven-plugin = 
 com.jakewharton.twirl -> twirl:twirl-maven-plugin = "Twirl Maven Plugin"
