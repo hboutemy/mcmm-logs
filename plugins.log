@@ -905,6 +905,7 @@ com.github.konum -> junitaward:junitaward-maven-plugin = "JUnit Award"
 com.github.koraktor -> mavanagaiata:mavanagaiata = "Mavanagaiata"
 com.github.korthout -> cantis:cantis = "Cantis"
 com.github.kospiotr -> bundler:bundler-maven-plugin = "bundler-maven-plugin"
+com.github.krraghavan -> schema-generator:schema-generator-maven-plugin = 
 com.github.krraghavan -> swagger:swagger-maven-plugin = "swagger-maven-plugin"
 com.github.kugel-soft -> kugel-param-scanner:kugel-param-scanner-maven-plugin = "kugel-param-scanner-maven-plugin"
 com.github.kumako -> raml-jaxrs:raml-jaxrs-maven-plugin = "RAML JAX-RS Maven Plug-in"
