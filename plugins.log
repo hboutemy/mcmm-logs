@@ -1791,6 +1791,7 @@ com.pyx4me -> proguard:proguard-maven-plugin = "proguard-maven-plugin"
 com.pyx4me -> j2me:j2me-maven-plugin = "j2me-maven-plugin"
 com.pyx4me -> j2me-simple:j2me-simple = "j2me Archetype"
 com.pyx4me -> obex:obex-maven-plugin = "obex-maven-plugin"
+com.qlangtech.tis -> tisasm:tisasm-maven-plugin = "tisasm-maven-plugin"
 com.qoomon -> branch-versioning-extension:maven-branch-versioning-extension = "Maven Branch Versioning Extension"
 com.qoomon -> git-versioning-extension:maven-git-versioning-extension = "Maven Git Versioning Extension"
 com.qualinsight.mojo.cobertura -> qualinsight-mojo-cobertura-core:qualinsight-mojo-cobertura-core = 
