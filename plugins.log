@@ -994,6 +994,7 @@ com.github.mpkorstanje -> tr39-confusables-table-generator:tr39-confusables-tabl
 com.github.mxsm -> jetcd-launcher:jetcd-launcher-maven-plugin = 
 com.github.myoss.maven.plugins -> archetypes:archetypes-maven-plugin = 
 com.github.mzachar.maven.plugins -> virgo-plan:virgo-plan-maven-plugin = "Virgo Plan Maven Plugin"
+com.github.nagyesta.abort-mission -> abort-mission:abort-mission-maven-plugin = "abort-mission-maven-plugin Maven Mojo"
 com.github.nahuelolgiati -> jaxrs-angular:jaxrs-angular-maven-plugin = "jaxrs-angular-maven-plugin"
 com.github.napp-com -> resource-minifier:resource-minifier = "Resource Minifier"
 com.github.ndrew -> jasmine:jasmine-maven-plugin = "jasmine-maven-plugin"
