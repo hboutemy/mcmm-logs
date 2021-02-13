@@ -1616,6 +1616,7 @@ com.liferay.faces -> com.liferay.faces..:com.liferay.faces.maven.plugin = "Lifer
 com.lightbend.rp -> reactive-app:reactive-app-maven-plugin = "reactive-app-maven-plugin"
 com.likeness.mojo -> numbers:maven-numbers-plugin = ""
 com.link-time.maven.plugin.atlassian -> upm:upm-maven-plugin = "UPM Maven Plugin"
+com.linked-planet.maven -> upm:upm-maven-plugin = "UPM Maven Plugin"
 com.listeningframework.boot -> listening-boot-codegen:listening-boot-codegen = 
 com.listeningframework.boot -> listening-boot:listening-boot-maven-plugin = 
 com.lotaris.maven.plugins -> lotaris-dbunit:lotaris-dbunit-maven-plugin = "Lotaris DB Unit Maven Plugin"
