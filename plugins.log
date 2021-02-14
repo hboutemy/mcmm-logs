@@ -398,6 +398,7 @@ com.code-troopers -> merge-properties:merge-properties-maven-plugin = "Merge Pro
 com.code54.mojo -> buildversion:buildversion-plugin = "buildversion-plugin"
 com.codeages -> generate-bin:generate-bin = "generate-bin"
 com.codegik -> gitflow:gitflow-maven-plugin = "${project.artifactId}"
+com.codenameone -> codenameone:codenameone-maven-plugin = "codenameone-maven-plugin"
 com.codenuity.jboss -> jboss-modules-builder:jboss-modules-builder = "Jboss Modules Builder"
 com.codeplex.wsitbt -> wsit:wsit-maven-plugin = "WSIT Maven Mojo"
 com.coderplus.maven.plugins -> copy-rename:copy-rename-maven-plugin = "Copy Rename Maven Plugin"
