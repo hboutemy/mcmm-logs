@@ -3120,6 +3120,7 @@ net.officefloor.maven -> site-aggregate:maven-site-aggregate-plugin = "Maven Sit
 net.officefloor.maven -> woof:maven-woof-plugin = "Maven WoOF Plugin"
 net.officefloor.maven -> officefloor-appengine:officefloor-appengine-maven-plugin = "OfficeFloor AppEngine Maven Plugin"
 net.officefloor.maven -> officefloor:officefloor-maven-plugin = "Maven OfficeFloor Plugin"
+net.officefloor.maven -> officefloor-sam:officefloor-sam-maven-plugin = "OfficeFloor SAM Maven Plugin"
 net.officefloor.maven -> site-aggregate:site-aggregate-maven-plugin = "Maven Site Aggregate Plugin"
 net.officefloor.maven -> tycho-shade:tycho-shade-maven-plugin = "Tycho creation of uber jar"
 net.officefloor.maven -> woof:woof-maven-plugin = "Maven WoOF Plugin"
