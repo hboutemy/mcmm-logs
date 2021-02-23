@@ -2906,6 +2906,7 @@ io.whelk.asciidoc -> asciidoc-template:asciidoc-template-maven-plugin = "Asciido
 io.xspec.maven -> xspec:xspec-maven-plugin = "XSpec plugin for Maven"
 io.yawp -> yawp:yawp-maven-plugin = "YAWP! maven plugin"
 io.yegair -> kotlin-js-bundle:kotlin-js-bundle-maven-plugin = "KotlinJS Bundle Maven Plugin"
+io.yupiik -> bundlebee:bundlebee-maven-plugin = "BundleBee :: Maven Plugin"
 io.yupiik.maven -> yupiik-tools:yupiik-tools-maven-plugin = "Yupiik Tools Maven Plugin"
 io.zatarox.satellite -> dumper:dumper-maven-plugin = "Satellite :: Plugins :: Dumper"
 io.zatarox.satellite -> satellite:satellite-maven-plugin = "Satellite :: Plugins :: Runner"
