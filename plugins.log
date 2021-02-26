@@ -2180,6 +2180,7 @@ de.ck35.maven.plugins -> jacoco-report-changes:jacoco-report-changes = "JaCoCo r
 de.codecentric -> check-staging-properties:check-staging-properties-maven-plugin = "check-staging-properties-maven-plugin"
 de.codecentric -> cxf-spring-boot-starter:cxf-spring-boot-starter-maven-plugin = "cxf-spring-boot-starter-maven-plugin"
 de.codecentric -> jmeter-graph:jmeter-graph-maven-plugin = "JMeter Graphs Maven Plugin"
+de.codecentric.reedelk -> module:module-maven-plugin = 
 de.cologneintelligence -> fitgoodies:fitgoodies-maven-plugin = "fitgoodies-maven-plugin Maven Plugin"
 de.cooperate-project -> de.cooperate-project..bintray.deploy:de.cooperate-project.maven.bintray.deploy = "Bintray Deployment Plugin"
 de.cooperate-project.maven -> de.cooperate-project..bintray.deploy:de.cooperate-project.maven.bintray.deploy = "Bintray Deployment Plugin"
