@@ -2798,6 +2798,7 @@ io.reformanda.semper -> dependencyversion:dependencyversion-maven-plugin = "Mave
 io.repaint.maven -> tiles:tiles-maven-plugin = "Tiles Maven Plugin"
 io.resys.hdes -> hdes:hdes-maven-plugin = 
 io.rhpatrick.maven -> properties-toolchain:properties-toolchain-plugin = "Properties Toolchain Maven Plugin"
+io.rhpatrick.mojo -> github:github-maven-plugin = "github-maven-plugin"
 io.rhpatrick.mojo -> wlst-test:wlst-test-maven-plugin = "WLST Test Maven Plugin"
 io.rivulet -> rivulet:rivulet-maven-plugin = 
 io.ruck -> classfinder:classfinder-maven-plugin = 
