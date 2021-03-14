@@ -2083,6 +2083,7 @@ com.vecna -> artifact-location:artifact-location-plugin = "Artifact Location Plu
 com.vecna -> hibernate-schema:hibernate-schema-plugin = "hibernate-schema-plugin"
 com.vecna -> taglib:taglib-metadata-plugin = "taglib-metadata-plugin Maven Mojo"
 com.vecna.maven -> db-manager:db-manager-plugin = "db-manager-plugin"
+com.vegardit.maven -> depcheck:depcheck-maven-plugin = "${project.artifactId}"
 com.versioneye -> indexer:maven-indexer = "maven-indexer"
 com.versioneye -> versioneye:versioneye-maven-plugin = "versioneye-maven-plugin"
 com.vertabelo.maven -> vertabelo:vertabelo-maven-plugin = "Vertabelo Maven Plugin"
