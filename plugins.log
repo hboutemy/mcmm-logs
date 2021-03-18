@@ -2659,6 +2659,7 @@ io.github.marmer.testutils -> hamcrest-matcher-generator:hamcrest-matcher-genera
 io.github.martinschneider -> aws-devicefarm:aws-devicefarm-maven-plugin = "aws-devicefarm-maven-plugin"
 io.github.martinschneider -> cucumber2junit:cucumber2junit-maven-plugin = "JUnit code generator for Cucumber tests"
 io.github.martinschneider -> testrail:testrail-maven-plugin = "Maven plugin to create test runs on Testrails"
+io.github.marwin1991 -> keep-changelog:keep-changelog-maven-plugin = "keep-changelog-maven-plugin"
 io.github.matf -> layer-dependency-check:layer-dependency-check-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.mcwarman -> jfiglet:jfiglet-maven-plugin = "JFiglet Maven Plugin"
 io.github.michaldo -> nashorn:nashorn-maven-plugin = "nashorn-maven-plugin Maven Plugin"
@@ -2823,7 +2824,7 @@ io.sitoolkit.cv -> sit-cv:sit-cv-maven-plugin = "sit-cv-maven-plugin"
 io.sitoolkit.rdg -> sit-rdg:sit-rdg-maven-plugin = 
 io.sitoolkit.wt -> sit-wt:sit-wt-maven-plugin = "sit-wt-maven-plugin Maven Plugin"
 io.skullabs.kikaha -> kikaha:kikaha-maven-plugin = "Kikaha: Maven Plugin"
-io.smallrye -> power-jandex:power-jandex-maven-plugin = 
+io.smallrye -> power-jandex:power-jandex-maven-plugin = "Power Annotations Jandex Maven Plugin"
 io.smallrye -> smallrye-graphql:smallrye-graphql-maven-plugin = "SmallRye: GraphQL Tools :: Maven"
 io.smallrye -> smallrye:smallrye-maven-plugin = "SmallRye Maven Plugin"
 io.smallrye -> smallrye-open-api:smallrye-open-api-maven-plugin = "SmallRye: OpenAPI Tools :: Maven"
