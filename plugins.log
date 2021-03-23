@@ -4613,6 +4613,7 @@ org.jbehave -> jbehave:jbehave-maven-plugin = "JBehave Maven Plugin"
 org.jbehave -> jbehave-rest:jbehave-rest = "JBehave REST"
 org.jboss.arquillian.maven -> arquillian:arquillian-maven-plugin = "Arquillian Maven Plugin"
 org.jboss.as -> patch-gen-maven-plugin:patch-gen-maven-plugin = "JBoss patch-gen Maven Plugin"
+org.jboss.as -> patch-gen:patch-gen-maven-plugin = "JBoss patch-gen Maven Plugin"
 org.jboss.as.plugins -> jboss-as-deploy:jboss-as-deploy-plugin = "JBoss AS7 Deployment Plugin"
 org.jboss.as.plugins -> jboss-as:jboss-as-maven-plugin = "JBoss AS7 Deployment Plugin"
 org.jboss.bridger -> bridger:bridger = 
