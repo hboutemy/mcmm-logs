@@ -2615,6 +2615,7 @@ io.github.aquen -> test:test-maven-plugin = "test Maven Plugin"
 io.github.atos-digital-id -> paprika:paprika-maven-plugin = "Paprika Maven Plugin"
 io.github.bbarker -> scalaxb:scalaxb-maven-plugin = "scalaxb Maven Plugin"
 io.github.benas -> jql:jql-maven-plugin = 
+io.github.berkleytechnologyservices -> restdocs-spec:restdocs-spec-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.borisnaguet -> solr:solr-maven-plugin = "Solr Maven Plugin"
 io.github.c-a-services -> mule4-jar-size-reducer:mule4-jar-size-reducer-maven-plugin = "mule4-jar-size-reducer-maven-plugin"
 io.github.c-a-services.mule.maven -> mule-metrics-report:mule-metrics-report = "mule-metrics-report"
