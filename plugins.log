@@ -658,6 +658,7 @@ com.github.billyjulius -> eagle:eagle-maven-plugin = "${project.groupId}:${proje
 com.github.binbin0915 -> sb2ws:sb2ws = "springboot to windows Maven Mojo"
 com.github.bingoohuang -> blackcat:blackcat-maven-plugin = "blackcat-maven-plugin"
 com.github.binmagic -> codeguard:codeguard-maven-plugin = "codeguard-maven-plugin"
+com.github.blindpirate -> jsonschema2pojo:jsonschema2pojo-maven-plugin = "jsonschema2pojo-maven-plugin"
 com.github.blutorange -> closure-compiler:closure-compiler-maven-plugin = "Closure Compiler Maven Plugin"
 com.github.bmaggi -> conditional-validation:conditional-validation = "conditional-validation"
 com.github.bmsantos -> cola:cola-maven-plugin = "cola-maven-plugin"
