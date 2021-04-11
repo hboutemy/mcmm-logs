@@ -2705,6 +2705,7 @@ io.github.rockfireredmoon -> getdown:getdown-maven-plugin = "Getdown Maven Plugi
 io.github.roger-wernersson -> testdoxon:testdoxon-maven-plugin = "testdoxon"
 io.github.rsv-code -> knit:knit-maven-plugin = "knit-maven-plugin"
 io.github.selcukes -> selcukes-report:selcukes-report-plugin = "Selcukes Maven Plugin for Cucumber Reports"
+io.github.spafka -> feign-generator:feign-generator-plugin = "feign-generator-plugin"
 io.github.stackinfo -> stackinfo:stackinfo-maven-plugin = "StackInfo Maven Plugin"
 io.github.stayfool -> jpa:jpa-maven-plugin = "jpa entity code generation Maven Mojo"
 io.github.stephenc.maven -> rfmm:rfmm-maven-plugin = "Release From My Machine Maven Plugin"
