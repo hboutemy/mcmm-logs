@@ -4701,6 +4701,7 @@ org.jetbrains.kotlin -> kdoc:kdoc-maven-plugin =
 org.jetbrains.kotlin -> kotlin:kotlin-maven-plugin = 
 org.jetbrains.kotlinx -> atomicfu:atomicfu-maven-plugin = "atomicfu-maven-plugin"
 org.jeyzer.build -> jeyzer:jeyzer-maven-plugin = "Jeyzer Profile Updater Maven Plugin"
+org.jfrog.buildinfo -> artifactory:artifactory-maven-plugin = "Artifactory Maven plugin"
 org.jfxtras -> javafx:javafx-maven-plugin = "JavaFX Maven plugin"
 org.jibx -> jibx:jibx-maven-plugin = "Maven JiBX Plugin"
 org.jibx -> jibx:maven-jibx-plugin = "Maven JiBX Plugin"
