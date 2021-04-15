@@ -447,6 +447,7 @@ com.d4iot.oss.plugin.packager -> jar-manifest-builder:jar-manifest-builder-plugi
 com.dadapush.client -> dadapush:dadapush-maven-plugin = "Maven DaDaPush Notification Plugin"
 com.dajudge.yabuto -> yabuto:yabuto-maven-plugin = "Yabuto ${project.artifactId}"
 com.dajudge.yabuto -> yabuto:yabuto-plugin = 
+com.daml.extensions -> daml:daml-maven-plugin = "DAML Maven plugin"
 com.danidemi -> template-generator:template-generator-maven-plugin = "template-generator-maven-plugin"
 com.darrinholst -> sass-java:sass-java-maven-plugin = 
 com.dasberg.maven.plugins -> closure-compiler:maven-closure-compiler-plugin = "maven-closure-compiler-plugin"
