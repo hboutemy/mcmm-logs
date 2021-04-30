@@ -4481,6 +4481,7 @@ org.finos.legend.pure -> legend-purejava-compiled:legend-pure-maven-java-compile
 org.finos.legend.sdlc -> legend-sdlc-entity:legend-sdlc-entity-maven-plugin = "Legend SDLC Entity Maven Plugin"
 org.finos.legend.sdlc -> legend-sdlc-generation-file:legend-sdlc-generation-file-maven-plugin = "Legend SDLC File Generation Maven Plugin"
 org.finos.legend.sdlc -> legend-sdlc-generation-model:legend-sdlc-generation-model-maven-plugin = "Legend SDLC Model Generation Maven Plugin"
+org.finos.legend.sdlc -> legend-sdlc-generation-service:legend-sdlc-generation-service-maven-plugin = "Legend SDLC Service Generation Maven Plugin"
 org.finos.legend.sdlc -> legend-sdlc-version-package:legend-sdlc-version-package-maven-plugin = "Legend SDLC Version Package Maven Plugin"
 org.finra.herd -> herd-swaggergen:herd-swaggergen-maven-plugin = "herd swaggergen maven plugin"
 org.flexiblepower.defpi -> defpi:defpi-maven-plugin = "dEF-Pi service creation maven plugin"
