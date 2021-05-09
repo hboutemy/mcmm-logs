@@ -2649,6 +2649,7 @@ io.github.centercode -> cli:cli-maven-plugin =
 io.github.chrisruffalo -> syndo:syndo-maven-plugin = "Syndo :: Maven Plugin"
 io.github.cjkent.osiris -> osiris:osiris-maven-plugin = "Osiris Maven Plugin"
 io.github.codemumbler.maven.plugin -> mdbconverter:mdbconverter = "mdbconverter Maven Mojo"
+io.github.coolbeevip -> license:license-maven-plugin = 
 io.github.crizzis -> codenarc:codenarc-maven-plugin = "CodeNarc Maven Plugin"
 io.github.cyrilschumacher -> swagger:swagger-maven-plugin = "Swagger Maven Plugin"
 io.github.daniloarcidiacono.typescriptmapper -> typescript-mapper:typescript-mapper-maven-plugin = "Typescript mapper Maven plugin"
