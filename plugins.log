@@ -2970,6 +2970,7 @@ io.wcm.qa -> io.wcm.qa.galenium.:io.wcm.qa.galenium.maven-plugin = "Galenium Gal
 io.wcm.qa -> io.wcm.qa.galenium.specs:io.wcm.qa.galenium.specs-maven-plugin = "Galenium Galen Specs Maven Plugin"
 io.webfolder -> micro4j:micro4j-maven-plugin = "micro4-maven-plugin"
 io.whelk.asciidoc -> asciidoc-template:asciidoc-template-maven-plugin = "Asciidoc Template Plugin"
+io.winterframework.tool -> winter:winter-maven-plugin = "Winter Maven Plugin"
 io.xspec.maven -> xspec:xspec-maven-plugin = "XSpec plugin for Maven"
 io.yawp -> yawp:yawp-maven-plugin = "YAWP! maven plugin"
 io.yegair -> kotlin-js-bundle:kotlin-js-bundle-maven-plugin = "KotlinJS Bundle Maven Plugin"
