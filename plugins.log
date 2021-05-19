@@ -3960,6 +3960,7 @@ org.beangle.maven -> beangle:beangle-maven-plugin = "Beangle Maven Plugin"
 org.beangle.style -> style:style-maven-plugin = "Beangle Code Style Maven Plugin"
 org.bedework -> bw-deploy:bw-deploy-maven-plugin = 
 org.bedework -> bw-utildeploy:bw-util-maven-deploy = 
+org.bedework -> bw-utildeploy-wfmodule:bw-util-maven-deploy-wfmodule = 
 org.bekwam -> talendroutine:talendroutine-maven-plugin = "TalendRoutine Maven Plugin"
 org.betteridiots.ddf -> ddf-maven-plugin:ddf-maven-plugin = "DDF Maven Plugin"
 org.betteridiots.ddf -> ddf:ddf-maven-plugin = "DDF Maven Plugin"
