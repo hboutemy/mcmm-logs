@@ -5325,6 +5325,7 @@ org.semweb4j -> rdfreactor:rdfreactor-maven-plugin = "Semweb4j RDFReactor code g
 org.shredzone.maven -> mkdocs:mkdocs-maven-plugin = "Shredzone Maven Plugin: mkdocs"
 org.signserver.deploytools -> DeployTools-Maven:DeployTools-Maven = 
 org.sila-standard.sila_java.library -> _:maven_plugin = 
+org.silentsoft.maven.plugins -> acmicpc:acmicpc-maven-plugin = "acmicpc-maven-plugin"
 org.simart -> write-it-once:write-it-once-plugin = "write-it-once :: Maven Plugin"
 org.simplericity.jettyconsole -> jetty-console:jetty-console-maven-plugin = "Jetty-Console Maven Plugin"
 org.simplify4u.plugins -> pgpverify:pgpverify-maven-plugin = "Verify PGP signatures plugin"
