@@ -586,6 +586,7 @@ com.getperka.flatpack -> flatpack-fast:flatpack-fast-maven-plugin = "FlatPack Au
 com.gfk.senbot -> senbot:senbot-maven-plugin = "senbot-maven-plugin"
 com.ghunteranderson.nexus -> nexus:nexus-maven-plugin = "Nexus Maven Plugin"
 com.giantheadsoftware -> fmgen:fmgen-maven-plugin = "${project.version}+"
+com.gitee.chentaoah -> spirit:spirit-maven-plugin = 
 com.gitee.hengboy -> code-builder:code-builder-maven-plugin = 
 com.gitee.l0km -> cassdk-service:cassdk-service-maven-plugin = "cassdk-service-maven-plugin"
 com.gitee.l0km -> cassdk-wrapper-service:cassdk-wrapper-service-maven-plugin = "cassdk-wrapper-service-maven-plugin"
@@ -4624,6 +4625,7 @@ org.infinispan.maven-plugins -> proto-schema-compatibility:proto-schema-compatib
 org.infinispan.maven-plugins -> protocol-parser-generator:protocol-parser-generator = "Protocol Parser Generator Maven Plugin"
 org.infradoop -> infradoopoozie:infradoop-maven-oozie = "infradoop-maven-oozie"
 org.infradoop -> infradoopspark:infradoop-maven-spark = "infradoop-maven-spark"
+org.infrastructurebuilder.automation -> imaging:imaging-maven-plugin = "${project.artifactId}"
 org.infrastructurebuilder.data -> ibdata:ibdata-maven-plugin = "${project.artifactId}"
 org.infrastructurebuilder.maven -> ibversions:ibversions-maven-plugin = "${project.artifactId}"
 org.infrastructurebuilder.modello -> modellousurped:modello-maven-plugin-usurped = "Modello Maven Plugin"
