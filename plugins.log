@@ -2680,6 +2680,7 @@ io.github.flaw101 -> concat:concat-maven-plugin = "Concat Maven Plugin"
 io.github.floverfelt -> find-and-replace:find-and-replace-maven-plugin = "Find and Replace Maven Plugin"
 io.github.frostingwolf -> saluki:saluki-maven-plugin = 
 io.github.fvarrui -> javapackager:javapackager = "JavaPackager Maven Plugin"
+io.github.georgberky.maven.plugins.depsupdate -> dependency-update:dependency-update-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.ghokun -> updated:updated-maven-plugin = "Updated Maven Plugin"
 io.github.gitgabrio -> gwt-helper:gwt-helper-maven-plugin = "Gwt Helper Maven Plugin"
 io.github.guitaro -> erb-templating:erb-templating-maven-plugin = "${project.groupId}:${project.artifactId}"
