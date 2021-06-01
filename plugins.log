@@ -2869,6 +2869,7 @@ io.rhpatrick.maven -> properties-toolchain:properties-toolchain-plugin = "Proper
 io.rhpatrick.mojo -> github:github-maven-plugin = "github-maven-plugin"
 io.rhpatrick.mojo -> wlst-test:wlst-test-maven-plugin = "WLST Test Maven Plugin"
 io.rivulet -> rivulet:rivulet-maven-plugin = 
+io.rollout.rox -> rox-configuration:rox-configuration-maven-plugin = "Rollout Embedded Configuration Maven Plugin"
 io.ruck -> classfinder:classfinder-maven-plugin = 
 io.rudin.webdoc -> webdoc:webdoc-maven-plugin = 
 io.saagie -> saagie:saagie-maven-plugin = "saagie-maven-plugin"
