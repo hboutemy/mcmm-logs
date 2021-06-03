@@ -2413,6 +2413,7 @@ de.zebrajaeger -> opencms-resource:opencms-resource-plugin = "${project.groupId}
 de.zebrajaeger -> progen:progen-maven-plugin = "maven-project-plugin Maven Plugin"
 dev.alexengrig -> codecov:codecov-maven-plugin = "Codecov Maven Plugin"
 dev.aspectj -> aspectj:aspectj-maven-plugin = "AspectJ Maven Plugin"
+dev.aspectj -> plantuml:plantuml-maven-plugin = "Maven PlantUML plugin"
 dev.cookiecode -> protobuf:protobuf-maven-plugin = "Maven Protocol Buffers Plugin"
 dev.dimlight -> shellcheck:shellcheck-maven-plugin = "${project.groupId}:${project.artifactId}"
 dev.fuzzit.javafuzz -> javafuzz:javafuzz-maven-plugin = "javafuzz-maven-plugin Maven Mojo"
