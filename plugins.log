@@ -1737,6 +1737,7 @@ com.nativelibs4java -> javacl-generator-jna:javacl-generator-jna = "JavaCL OpenC
 com.nativelibs4java -> javacl:maven-javacl-plugin = "Maven JavaCL Plugin"
 com.nativelibs4java -> jnaerator:maven-jnaerator-plugin = "JNAerator Maven Plugin"
 com.nativelibs4java -> velocity:maven-velocity-plugin = "Maven Velocity Code Generator"
+com.nec.webotx -> ms-uberjar:ms-uberjar-maven-plugin = "WebOTX MicroService Maven Plugin"
 com.nemrod-software -> nemrod:maven-nemrod-plugin = "maven-nemrod Maven Mojo"
 com.neotys.ascode -> neoload:neoload-maven-plugin = 
 com.nerdynick -> mustache:mustache-maven-plugin = "Mustache Maven Plugin"
