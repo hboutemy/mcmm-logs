@@ -1321,6 +1321,7 @@ com.gkatzioura.maven.cloud -> azure-storage-wagon:azure-storage-wagon =
 com.gkatzioura.maven.cloud -> google-storage-wagon:google-storage-wagon = 
 com.gkatzioura.maven.cloud -> s3-storage-wagon:s3-storage-wagon = 
 com.gluonhq -> client:client-maven-plugin = "client-maven-plugin Maven Mojo"
+com.gluonhq -> gluonfx:gluonfx-maven-plugin = "GluonFX plugin for Maven"
 com.gocypher.cybench.launcher.plugin -> cybench-launcher:cybench-launcher-maven-plugin = "cybench-launcher-maven-plugin"
 com.goldmansachs.jdmn -> jdmn:jdmn-maven-plugin = "jDMN: Maven Plugin"
 com.goldmansachs.obevo -> obevo:obevo-maven-plugin = "Obevo Maven Plugin"
