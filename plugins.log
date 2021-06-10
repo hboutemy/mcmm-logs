@@ -3610,7 +3610,7 @@ org.apache.directory.server -> apacheds-schema-archetype:apacheds-schema-archety
 org.apache.directory.server -> apacheds-testcase-archetype:apacheds-testcase-archetype = "ApacheDS Testcase Archetype"
 org.apache.directory.studio -> studio:maven-studio-plugin = "Apache Directory Studio Plugin"
 org.apache.directory.studio -> studio:studio-maven-plugin = "Apache Directory Studio Plugin"
-org.apache.drill.tools -> drill-fmpp:drill-fmpp-maven-plugin = "tools/freemarker codegen tooling"
+org.apache.drill.tools -> drill-fmpp:drill-fmpp-maven-plugin = "Drill : Tools : Freemarker codegen"
 org.apache.empire-db -> empire-db:empire-db-maven-plugin = "Apache Empire-db Maven Plugin"
 org.apache.excalibur.fortress.meta -> fortress:maven-fortress-plugin = "Maven Fortress Plugin"
 org.apache.felix -> atomos:atomos-maven-plugin = "atomos-maven-plugin"
