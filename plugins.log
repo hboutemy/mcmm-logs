@@ -2164,6 +2164,7 @@ com.xenoamess -> add-from-repo:add-from-repo-maven-plugin = "${project.artifactI
 com.xenoamess -> jcpp:jcpp-maven-plugin = "${project.artifactId}"
 com.xenoamess -> remove-unused-imports:remove-unused-imports-maven-plugin = "${project.artifactId}"
 com.xfyre.maven.plugins -> git-changelog:git-changelog-maven-plugin = "${project.artifactId}"
+com.xishankeji -> xsloader4j:xsloader4j-maven-plugin = "xsloader4j-maven-plugin Maven Mojo"
 com.xored.maven -> integrity:integrity-maven-plugin = "Xored Integrity Maven Plugin"
 com.yahoo.vespa -> abi-check:abi-check-plugin = "${project.artifactId}"
 com.yahoo.vespa -> application-deploy:application-deploy-plugin = 
