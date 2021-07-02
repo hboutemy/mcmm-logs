@@ -2746,6 +2746,7 @@ io.github.parj -> createk8syaml:createk8syaml-maven-plugin = "createk8syaml-mave
 io.github.paulushcgcj -> dependbl:dependbl-maven-plugin = "Dependency management plugin for Maven"
 io.github.phantran -> m0c0:m0c0-maven-plugin = "m0c0-maven-plugin Maven Plugin"
 io.github.phillipuniverse -> githook:githook-maven-plugin = "Git Hook Plugin"
+io.github.pinkolik -> general-classes-generator:general-classes-generator-maven-plugin = "General Class Generator Maven Plugin"
 io.github.pmckeown -> dependency-track:dependency-track-maven-plugin = "Dependency Track Maven Plugin"
 io.github.q3769 -> semver:semver-maven-plugin = "SemVer Maven Plugin"
 io.github.r0bb3n -> sonar-quality-gate:sonar-quality-gate-maven-plugin = "Sonar Quality Gate Maven Plugin"
