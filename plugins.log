@@ -2746,6 +2746,7 @@ io.github.okvee -> tscfg-docgen:tscfg-docgen-maven-plugin = "Typesafe Config Doc
 io.github.olib963 -> javafire:javafire-maven-plugin = "JavaFire Maven Plugin"
 io.github.olivierlemasle.maven -> plaintext:plaintext-maven-plugin = "plaintext-maven-plugin Maven Plugin"
 io.github.parj -> createk8syaml:createk8syaml-maven-plugin = "createk8syaml-maven-plugin"
+io.github.patrickdoc -> auto-cluster:auto-cluster-maven-plugin = "Auto Cluster Maven Plugin"
 io.github.paulushcgcj -> dependbl:dependbl-maven-plugin = "Dependency management plugin for Maven"
 io.github.phantran -> m0c0:m0c0-maven-plugin = "m0c0-maven-plugin Maven Plugin"
 io.github.phillipuniverse -> githook:githook-maven-plugin = "Git Hook Plugin"
