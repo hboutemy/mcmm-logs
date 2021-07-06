@@ -81,6 +81,7 @@ ca.uhn.hapi -> hapi-sourcegen:hapi-sourcegen = "HAPI - Java HL7 API - Source Gen
 ca.uhn.hapi.fhir -> hapi-tinder:hapi-tinder-plugin = "HAPI Tinder Plugin"
 ca.vanzyl -> dockerfile:dockerfile-maven-plugin = "Dockerfile Maven Plugin"
 ca.weblite -> mirah:maven-mirah-plugin = "maven-mirah-plugin"
+ca.wheatstalk -> openapi-diff:openapi-diff-maven-plugin = "OpenAPI Diff Maven Plugin"
 cat.inspiracio -> orange:orange-maven-plugin = "Orange Servlet Maven Plugin"
 cc.catalysts -> swagger-jaxrs:swagger-jaxrs-maven-plugin = "Swagger JAX-RS maven plugin"
 cd.connect.common -> connect-gen-code-scanner:connect-gen-code-scanner = "connect-gen-code-scanner"
