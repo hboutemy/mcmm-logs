@@ -5565,6 +5565,7 @@ org.twdata.maven -> mojo-executor:mojo-executor-maven-plugin = "Mojo Executor Ma
 org.tynamo -> tynamo-archetype:tynamo-archetype = "Archetype - tynamo-archetype"
 org.typeframed -> typeframed-codegen:typeframed-codegen-maven-plugin = "Typeframed Maven Plugin"
 org.uniknow.agiledev.support -> embedded-mysql:maven-embedded-mysql = "Maven plugin Embedded MySQL Server"
+org.uniknow.c4Modeling -> c4Modeling:c4Modeling-maven-plugin = 
 org.uniknow.maven.plugins -> index:index = "Maven Site Indexer"
 org.utplsql -> utplsql:utplsql-maven-plugin = "utPLSQL Maven Plugin"
 org.vafer -> jdeb:jdeb = "jdeb"
