@@ -203,6 +203,7 @@ com.agilejava.docbkx -> docbkx:docbkx-maven-plugin = "Docbkx Maven Plugin"
 com.agiliumlabs.osxappbundle -> osxappbundle:osxappbundle-maven-plugin = "Maven OS X Application Bundle Plugin"
 com.airlenet.yang -> yang:yang-maven-plugin = 
 com.akathist.maven.plugins.launch4j -> launch4j:launch4j-maven-plugin = "Maven Launch4j Plugin"
+com.akkaserverless -> akkaserverless:akkaserverless-maven-plugin = "Akka Serverless Maven Plugin"
 com.aleax.blight -> blight:blight-maven-plugin = "bLight Maven plugin"
 com.alexecollins.docker -> docker:docker-maven-plugin = "Docker Maven Plugin"
 com.alexecollins.maven.plugin -> script:script-maven-plugin = "Script Plugin"
