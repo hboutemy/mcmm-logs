@@ -2041,6 +2041,7 @@ com.sun.xml.ws -> jaxws:jaxws-maven-plugin = "Maven JAXWS 3.x Plugin"
 com.symphony.oss.canon -> canon:canon-maven-plugin = 
 com.symphony.oss.canon -> canon2:canon2-maven-plugin = 
 com.syncleus.maven.plugins -> mongodb:maven-mongodb-plugin = "maven-mongodb-plugin"
+com.synopsys.blackducksoftware -> rapid-scan:rapid-scan-maven-plugin = "Rapid Scan Maven Plugin"
 com.systemsplanet.plugin -> google-api-translate-java:google-api-translate-java-maven-plugin = "Build localize plugin"
 com.tacitknowledge -> autopatch:autopatch-maven-plugin = "AutoPatch Maven Plugin"
 com.tacitknowledge.maven.plugins -> cobertura-checker:cobertura-checker = "Cobertura XML Check Maven Plugin"
