@@ -2714,6 +2714,7 @@ io.github.guitaro -> erb-templating:erb-templating-maven-plugin = "${project.gro
 io.github.hadix-lin -> springfox-plus:springfox-plus-maven-plugin = 
 io.github.handofgod94 -> jacoco-cov-badge:jacoco-cov-badge-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.houssemba -> dependencytrack-mvn-publisher:dependencytrack-mvn-publisher = "DependencyTrack Maven Publisher"
+io.github.itroadlabs -> apicross:apicross-maven-plugin = 
 io.github.janhicken -> versions:versions-maven-plugin = "Versions Maven Plugin"
 io.github.javthon -> mybatis-generator-yml:mybatis-generator-yml-maven-plugin = "mybatis-generator-yml-maven-plugin"
 io.github.jdlopez -> dbdoc:dbdoc-maven-plugin = "dbdoc Maven Plugin"
