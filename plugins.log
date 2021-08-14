@@ -2567,6 +2567,7 @@ guru.nidi.maven.plugins -> use-webjars:use-webjars-maven-plugin = "${project.art
 guru.qas -> martini:martini-maven-plugin = "${project.groupId}:${project.artifactId}"
 hr.yeti-it -> wad:wad-maven-plugin = "wad-maven-plugin"
 hu.advancedweb -> scott:scott-maven-plugin = "Scott Test Reporter - Maven Plugin"
+hu.blackbelt -> flutter:flutter-maven-plugin = "flutter-maven-plugin"
 hu.blackbelt -> unpack-artifact:unpack-artifact-maven-plugin = "Unpack artifact maven plugin"
 hu.blackbelt.epsilon -> epsilon:epsilon-maven-plugin = "epsilon-maven-plugin"
 hu.skawa -> migrator:migrator-maven-plugin = "Maven-Bazel Migration Plugin"
