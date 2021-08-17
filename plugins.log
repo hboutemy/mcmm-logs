@@ -259,6 +259,7 @@ com.appneta.agent.java -> appneta:appneta-maven-plugin = "AppNeta instrumentatio
 com.apporiented -> apidoc:spring-rest-doc-plugin = "Spring-REST-Doc Maven Plugin"
 com.apporiented -> spring-rest-doc:spring-rest-doc-plugin = "Spring-REST-Doc Maven Plugin"
 com.appslandia -> appslandia-jsp-processor:appslandia-jsp-processor = "appslandia-jsp-processor"
+com.arassec.igor -> igor:igor-maven-plugin = "igor-maven-plugin"
 com.argonio.gora -> gora:gora-maven-plugin = "Apache Gora Maven Plugin by Argonio"
 com.ariht -> config-generation:config-generation-maven-plugin = "config-generation-maven-plugin"
 com.ariht -> config-processor:config-processor-maven-plugin = "config-processor-maven-plugin"
