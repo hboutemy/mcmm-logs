@@ -5901,6 +5901,7 @@ wiki.primo.generator -> primo-generator-mock-test:primo-generator-mock-test-mave
 wiki.primo.generator -> primo-generator-mybatis-plus:primo-generator-mybatis-plus-maven-plugin = 
 win.hupubao -> dockit:dockit-maven-plugin = "dockit"
 works.lmz.plugins -> webservice-generator:webservice-generator-plugin = "webservice-generator-plugin"
+world.weibiansanjue.maven -> changelog2html:changelog2html-maven-plugin = "changelog2html-maven-plugin Maven Mojo"
 ws.l10n -> l10n:l10n-maven-plugin = "L10n Maven Plugin"
 ws.osiris -> osiris:osiris-maven-plugin = "Osiris Maven Plugin"
 wtf.g4s8.oot -> oot:oot-maven-plugin = "Maven Plugin to run OOT tests"
