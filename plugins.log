@@ -2812,6 +2812,7 @@ io.github.tobiashochguertel -> documentation:documentation-maven-plugin = "docum
 io.github.ttj4 -> scalapb:scalapb-maven-plugin = "ScalaPB Maven Plugin"
 io.github.vipcxj -> tools-dependency:tools-dependency-maven-plugin = "Tools Dependency Maven Plugin"
 io.github.wanghuayao -> oaktree:maven-plugin-oaktree = "maven plugin oaktree"
+io.github.wangjie-fourth -> projectGenerator:projectGenerator-maven-plugin = "Project Generator"
 io.github.willhains -> package-info:package-info-maven-plugin = "Package Info Maven Plugin"
 io.github.willianwd -> quarkus-spring-cloud-config:quarkus-spring-cloud-config-maven-plugin = "Quarkus Spring Cloud Config Maven Plugin"
 io.github.wilson-he -> generator:generator-maven-plugin = "generator-maven-plugin Maven Mojo"
