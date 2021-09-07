@@ -5554,6 +5554,7 @@ org.stuartgunter -> couchbase:couchbase-maven-plugin = "Couchbase Maven Plugin"
 org.substeps -> substeps-glossary-builder:substeps-glossary-builder = "SubSteps Glossary Builder"
 org.substeps -> substeps:substeps-maven-plugin = "SubSteps Maven Plugin"
 org.swisspush.maven.plugins -> apikana:apikana-maven-plugin = "${project.artifactId}"
+org.swisspush.maven.plugins -> jsons2xsd:jsons2xsd-maven-plugin = "jsons2xsd Maven Mojo"
 org.switchyard -> switchyard:switchyard-plugin = "SwitchYard: "switchyard" Plugin"
 org.symphonyoss.s2.canon -> canon:canon-maven-plugin = 
 org.symqle.modeler -> symqle-modeler:symqle-modeler-plugin = "Symqle modeler plugin"
