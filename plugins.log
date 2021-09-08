@@ -4647,6 +4647,7 @@ org.glassfish.hk2 -> consolidatedbundle:consolidatedbundle-maven-plugin = "conso
 org.glassfish.hk2 -> hk2-inhabitant-generator:hk2-inhabitant-generator = "Inhabitant Generator"
 org.glassfish.hk2 -> osgiversion:osgiversion-maven-plugin = "OSGiVersion Maven Plugin"
 org.glassfish.jersey.test-framework.maven -> container-runner:container-runner-maven-plugin = "jersey-test-framework-maven-container-runner-plugin"
+org.glassfish.jersey.tools.plugins -> jersey-release-notes:jersey-release-notes-maven-plugin = "jersey-release-notes-maven-plugin"
 org.glassfish.main.hk2 -> config-generator:config-generator = "HK2 configuration reader generator module"
 org.glassfish.maven.plugin -> glassfish:maven-glassfish-plugin = "Maven Glassfish Plugin"
 org.glassfish.metro -> harness:harness-maven-plugin = "WS Test Harness Maven Plugin"
