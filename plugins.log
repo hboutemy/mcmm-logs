@@ -1803,6 +1803,7 @@ com.onpositive.aml -> java2raml:java2raml-maven-plugin = "Java2RAML Maven Plugin
 com.onpositive.aml -> jaxrs-raml:jaxrs-raml-maven-plugin = "JAX-RS RAML Maven Plug-in"
 com.onpositive.aml -> raml-jaxrs:raml-jaxrs-maven-plugin = "RAML JAX-RS Maven Plug-in"
 com.onpositive.aml -> raml2java:raml2java-maven-plugin = "RAML2Java Maven Plugin"
+com.ontimize -> ontimize-openapi-generator:ontimize-openapi-generator = "Ontimize OpenAPI Generator"
 com.opentable -> expose-versions:expose-versions-maven-plugin = "Expose Versions Maven Plugin"
 com.opitzconsulting.orcas -> orcas:orcas-maven-plugin = "com.opitzconsulting.orcas:orcas-maven-plugin"
 com.opnworks.maven -> artifactory:artifactory-maven-plugin = "OpnWorks Artifactory Maven plugin"
