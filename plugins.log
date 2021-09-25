@@ -2816,6 +2816,7 @@ io.github.therealarthurdent -> jsonpath:jsonpath-maven-plugin = "JsonPath Maven 
 io.github.thingersoft -> properties-manager:properties-manager-maven-plugin = "Properties Manager Maven Plugin"
 io.github.tobiashochguertel -> documentation:documentation-maven-plugin = "documentation-maven-plugin"
 io.github.ttj4 -> scalapb:scalapb-maven-plugin = "ScalaPB Maven Plugin"
+io.github.unionj-cloud -> unionj-generator:unionj-generator-maven-plugin = "unionj-generator-maven-plugin Maven Plugin"
 io.github.vipcxj -> tools-dependency:tools-dependency-maven-plugin = "Tools Dependency Maven Plugin"
 io.github.wanghuayao -> oaktree:maven-plugin-oaktree = "maven plugin oaktree"
 io.github.wangjie-fourth -> projectGenerator:projectGenerator-maven-plugin = "Project Generator"
