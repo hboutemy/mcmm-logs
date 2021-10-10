@@ -2686,6 +2686,7 @@ io.github.1tchy -> variable-search-replace:variable-search-replace-plugin = "Var
 io.github.aaronanderson -> wdjrs:wdjrs-maven-plugin = "Maven Plugin for Workday OpenAPI Generator"
 io.github.aaronanderson -> wdjws:wdjws-maven-plugin = "Maven Plugin for Workday WSDL JAX-WS Import"
 io.github.acuccovi -> migrate-mongo:migrate-mongo-maven-plugin = "Migrate Mongo Maven Plugin"
+io.github.acuccovi.maven -> createdirs:createdirs-maven-plugin = "CreateDirs Maven Plugin"
 io.github.agileek -> java-checksum-flyway:java-checksum-flyway-maven-plugin = "${project.artifactId}"
 io.github.akayibrahim -> jsontopojo:jsontopojo = "jsontopojo"
 io.github.alexandertang -> frontend:frontend-maven-plugin = "Maven Frontend Plugin"
