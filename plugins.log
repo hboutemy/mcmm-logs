@@ -1180,6 +1180,7 @@ com.github.spyhunter99 -> jacoco-report:jacoco-report-plugin = "Jacoco Aggregate
 com.github.spyhunter99 -> pdf:maven-pdf-plugin = "Apache Maven PDF Plugin Fork"
 com.github.spyrospac -> frontend-files-uglifier:frontend-files-uglifier = "frontend-files-uglifier Maven Mojo"
 com.github.squirrelgrip -> travis:travis-maven-plugin = "${project.groupId}:${project.artifactId}"
+com.github.squirrelgrip -> update:update-maven-plugin = 
 com.github.sriki77 -> keychain-passwd:keychain-passwd-maven-plugin = "keychain-passwd-maven-plugin"
 com.github.stadler -> hibernate-tools:hibernate-tools-maven-plugin = "Hibernate Tools maven plugin"
 com.github.stefanbirkner -> no-primitives:no-primitives-maven-plugin = "No Primitives Maven Plugin"
