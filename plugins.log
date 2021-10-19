@@ -5413,6 +5413,7 @@ org.raml.plugins -> raml-jaxrs:raml-jaxrs-maven-plugin = "RAML JAX-RS Maven Plug
 org.rapidoid -> app:app = "Rapidoid App Plugin"
 org.reaktivity -> nukleus:nukleus-maven-plugin = "Nukleus Maven Plugin"
 org.reddwarfserver.maven.plugin -> sgs:sgs-maven-plugin = "RedDwarf Maven Plugin"
+org.redkale.maven.plugins -> redkale:redkale-maven-plugin = "RedkaleMavenPlugin"
 org.redkangaroo.maven.plugins -> properties-files-mojos:properties-files-mojos = "Properties Files Mojos"
 org.redkangaroo.maven.plugins -> rb-generator:rb-generator-plugin = "Resource Bundle Generator Maven Plugin"
 org.reficio -> p2:p2-maven-plugin = "p2-maven-plugin"
