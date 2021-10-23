@@ -1783,6 +1783,7 @@ com.networknt -> javadoc-packagelist:javadoc-packagelist-maven-plugin = "JavaDoc
 com.newrelic.agent.android -> agent:agent-maven-plugin = "New Relic Android Agent Maven Plugin"
 com.nextbreakpoint -> twitter:twitter-maven-plugin = "Twitter Maven Plugin"
 com.nfbsoftware -> sans-server:sans-server-plugin = "NFB Software SansServer Plugin"
+com.nginflow -> features-builder:features-builder = "com.nginflow:features-builder"
 com.nginflow -> microservice-builder:microservice-builder = "com.nginflow:microservice-builder"
 com.nhncorp.jumble -> jumble:jumble-maven-plugin = "Jumble Maven PlugIn"
 com.nhncorp.jumble -> jumble:maven-jumble-plugin = "Jumble Maven PlugIn"
