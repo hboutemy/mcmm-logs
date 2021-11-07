@@ -2838,6 +2838,7 @@ io.github.rockfireredmoon -> getdown:getdown-maven-plugin = "Getdown Maven Plugi
 io.github.roger-wernersson -> testdoxon:testdoxon-maven-plugin = "testdoxon"
 io.github.rsv-code -> knit:knit-maven-plugin = "knit-maven-plugin"
 io.github.ruedigerk.contractfirst.generator -> contractfirst-generator:contractfirst-generator-maven-plugin = 
+io.github.scapy -> proxy-settings:proxy-settings-maven-plugin = "Proxy Authentication Settings"
 io.github.schereradi -> vault:vault-maven-plugin = "Vault Maven Plugin"
 io.github.selcukes -> selcukes-report:selcukes-report-plugin = "Selcukes Maven Plugin for Cucumber Reports"
 io.github.shomeier -> openapi-util:openapi-util-maven-plugin = "openapi-util-maven-plugin Maven Plugin"
