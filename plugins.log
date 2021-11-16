@@ -2333,6 +2333,7 @@ de.jpdigital -> hibernate52-ddl:hibernate52-ddl-maven-plugin = "Maven DDL genera
 de.jpdigital -> hibernate53-ddl:hibernate53-ddl-maven-plugin = "Maven DDL generator plugin for Hibernate 5.3"
 de.jpdigital -> hibernate54-ddl:hibernate54-ddl-maven-plugin = "Maven DDL generator plugin for Hibernate 5.4"
 de.jpdigital -> hibernate55-ddl:hibernate55-ddl-maven-plugin = "Maven DDL generator plugin for Hibernate 5.5"
+de.jpdigital -> hibernate56-ddl:hibernate56-ddl-maven-plugin = "Maven DDL generator plugin for Hibernate 5.6"
 de.jpdigital -> owlapi-simplex:owlapi-simplex-maven-plugin = "Maven plugin for OWLAPI Simplex"
 de.jplanets.maven -> jplanets-frontpage-report:jplanets-frontpage-report = "jPlanets Frontpage Maven Report"
 de.juplo -> hibernate:hibernate-maven-plugin = "Hibernate Maven Plugin"
