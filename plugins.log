@@ -5292,6 +5292,7 @@ org.onosproject -> onos:onos-maven-plugin =
 org.onosproject -> onos-yang-compiler:onos-yang-compiler-maven-plugin = 
 org.onosproject -> onos-yang:onos-yang-maven-plugin = 
 org.openapitools -> openapi-generator:openapi-generator-maven-plugin = "openapi-generator (maven-plugin)"
+org.openapitools.openapidiff -> openapi-diff:openapi-diff-maven = "openapi-diff-maven"
 org.openclover -> clover:clover-maven-plugin = "Clover Maven Plugin"
 org.opendaylight.controller -> yang-test:yang-test-plugin = "${project.artifactId}"
 org.opendaylight.odlparent -> copy-files:copy-files-plugin = "ODL :: odlparent :: ${project.artifactId}"
