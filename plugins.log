@@ -2484,6 +2484,7 @@ dev.haeusler -> jasypt:jasypt-maven-plugin = "Jasypt Maven Plugin"
 dev.hubx -> jib:jib = "jib Maven Plugin"
 dev.iabudiab -> dependency-track:dependency-track-maven-plugin = "Dependency Track Maven Plugin"
 dev.jbang -> jbang:jbang-maven-plugin = "JBang Maven Plugin"
+dev.khbd.interp4j -> interp4j:interp4j-maven-plugin = "Interp4j maven plugin"
 dev.morphia.critter -> critter:critter-maven = 
 dev.nullzwo -> processor:maven-processor-plugin = "MAVEN PROCESSOR PLUGIN - ${project.version}"
 dev.qiao -> rancher:rancher-maven-plugin = "rancher-maven-plugin"
