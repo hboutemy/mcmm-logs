@@ -2770,6 +2770,7 @@ io.github.ghokun -> updated:updated-maven-plugin = "Updated Maven Plugin"
 io.github.git-commit-id -> git-commit-id:git-commit-id-maven-plugin = "Git Commit Id Maven Plugin"
 io.github.gitgabrio -> gwt-helper:gwt-helper-maven-plugin = "Gwt Helper Maven Plugin"
 io.github.gowrish9595 -> jinjava:jinjava-maven-plugin = "${project.groupId}:${project.artifactId}"
+io.github.graybytes -> module:module-maven-plugin = "module-maven-plugin project"
 io.github.guitaro -> erb-templating:erb-templating-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.hadix-lin -> springfox-plus:springfox-plus-maven-plugin = 
 io.github.handofgod94 -> jacoco-cov-badge:jacoco-cov-badge-maven-plugin = "${project.groupId}:${project.artifactId}"
