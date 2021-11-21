@@ -5288,6 +5288,7 @@ org.ol4jsf -> jsf:maven-jsf-plugin = "maven-jsf-plugin Maven Mojo"
 org.olengski -> requirejs-optimize:requirejs-optimize-plugin = "requirejs-optimize-plugin"
 org.omnaest.i18nbinder -> i18nbinder:i18nbinder-maven-plugin = "i18nbinder-maven-plugin Maven Mojo"
 org.omnaest.maven.plugin -> technology-timeline:maven-technology-timeline-plugin = "technology-timeline Maven Mojo"
+org.omnifaces -> antlr:antlr-maven-plugin = "Maven ANTLR Plugin"
 org.omnifaces -> renderkitdoc:renderkitdoc-maven-plugin = "renderkitdoc-maven-plugin"
 org.onebusaway.plugins -> hsqldb:maven-hsqldb-plugin = "Maven HSQLDB Plugin"
 org.onosproject -> onos:onos-maven-plugin = 
