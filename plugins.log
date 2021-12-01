@@ -227,6 +227,7 @@ com.alibaba.citrus.tool -> springext:springext-maven-plugin = "SpringExt Maven P
 com.alibaba.cloud -> toolkit:toolkit-maven-plugin = "toolkit-maven-plugin"
 com.alibaba.testable -> testable:testable-maven-plugin = "testable-maven-plugin"
 com.alilitech -> boot-plus-generator:boot-plus-generator = "boot-plus-generator Maven Mojo"
+com.alipay.chainstack -> cstack:cstack-maven-plugin = "cstack-maven-plugin Maven Mojo"
 com.alipay.sofa -> sofa-ark:sofa-ark-maven-plugin = 
 com.alipay.sofa -> sofa-ark:sofa-ark-plugin-maven-plugin = 
 com.alipay.sofa -> sofa-version:sofa-version-maven-plugin = "${project.groupId}:${project.artifactId}"
