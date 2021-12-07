@@ -5123,6 +5123,7 @@ org.linqs.plugins -> list-classes:list-classes-maven-plugin = "list-classes-mave
 org.linuxstuff.maven -> licensing:licensing-maven-plugin = "Licensing Maven Mojo"
 org.linuxstuff.maven -> trinidad:trinidad-maven-plugin = "trinidad-maven-plugin Maven Mojo"
 org.liquibase -> liquibase:liquibase-maven-plugin = "Liquibase Maven Plugin"
+org.liquibase.ext -> liquibase-sdk:liquibase-sdk-maven-plugin = "Liquibase SDK Maven Plugin"
 org.liquigraph -> liquigraph:liquigraph-maven-plugin = "liquigraph-maven-plugin"
 org.llorllale -> loggit:loggit-maven-plugin = "loggit-maven-plugin"
 org.llorllale -> releasecat:releasecat-maven-plugin = "releasecat-maven-plugin"
