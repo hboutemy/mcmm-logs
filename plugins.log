@@ -3251,6 +3251,7 @@ net.evilengineers.templates4j -> templates4j:templates4j-maven-plugin = "Templat
 net.flexmojos.oss -> flexmojos-generator-mojo:flexmojos-generator-mojo = "Flexmojos Generator Plugin"
 net.flexmojos.oss -> flexmojos:flexmojos-maven-plugin = "Flexmojos Maven Plugin"
 net.ggtools.maven -> ddlgenerator:ddlgenerator-maven-plugin = "DDL Generator: Maven Plugin"
+net.guerlab.cloud -> guerlab-cloud:guerlab-cloud-maven-plugin = "Guerlab Cloud Maven Plugin"
 net.happyonroad -> spring-component-builder:spring-component-builder = "Spring Component Builder"
 net.hasor -> dataql:dataql-maven-plugin = "Hasor-DataQL/Maven-Plugin"
 net.hserver.plugins.maven -> hserver:hserver-maven-plugin = "hserver-maven-plugin"
