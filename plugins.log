@@ -829,6 +829,7 @@ com.github.genthaler -> beanshell:beanshell-maven-plugin = "Beanshell Maven Plug
 com.github.genthaler -> credentials:credentials-maven-plugin = "Credentials Maven Plugin"
 com.github.gentity -> gentity:gentity-maven-plugin = "gentity-maven-plugin"
 com.github.ggerla -> java2csharp:java2csharp-maven-plugin = "Development Tools :: Java to C# code coverter"
+com.github.gianttreelp.proguardservicesmapper -> proguard-services-mapper:proguard-services-mapper-maven = "proguard-services-mapper"
 com.github.gino0631 -> icns:icns-maven-plugin = "ICNS Maven Plugin"
 com.github.gino0631 -> pac:pac-maven-plugin = "PAC Maven Plugin"
 com.github.gino0631 -> pkg:pkg-maven-plugin = "PKG Maven Plugin"
