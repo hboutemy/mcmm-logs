@@ -5966,6 +5966,7 @@ team.quad -> cloudify:cloudify-maven-plugin = "Cloudify"
 team.yi.maven.plugin -> semantic-gitlog:maven-semantic-gitlog = "maven-semantic-gitlog"
 tech.grasshopper -> cucumber-pdf:cucumber-pdf-plugin = "cucumber-pdf-plugin"
 tech.grasshopper -> extentreports-cucumberjson:extentreports-cucumberjson-plugin = "extentreports-cucumberjson-plugin"
+tech.grasshopper -> rest-assured-extent-report:rest-assured-extent-report-plugin = "rest-assured-extent-report-plugin"
 tech.guyi.ipojo -> compile:compile-maven-plugin = 
 tech.ibit -> ibit-mybatis-generator:ibit-mybatis-generator-maven-plugin = "ibit-mybatis-generator-maven-plugin"
 tech.rsqn -> build-tasks:build-tasks = "build-tasks"
