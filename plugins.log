@@ -412,6 +412,7 @@ com.cloudcontrolled -> cctrl:cctrl-maven-plugin = "cctrl-maven-plugin"
 com.cloudimpl -> code-generator:code-generator = 
 com.cloudimpl -> errorcode-generator:errorcode-generator = 
 com.cloudogu.spotter -> spotter:spotter-maven-plugin = 
+com.cmeza -> copy-minify:copy-minify-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.cmeza -> spring-data-generator:spring-data-generator = "${project.groupId}:${project.artifactId}"
 com.code-spotter -> codespotter:codespotter-maven-plugin = "Code Spotter Maven Plugin"
 com.code-troopers -> merge-properties:merge-properties-maven-plugin = "Merge Properties Maven Plugin"
