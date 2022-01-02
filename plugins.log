@@ -4933,6 +4933,7 @@ org.jcoffee -> custom-report:custom-report-maven-plugin = "Custom report maven p
 org.jdtaus.mojo -> jdtaus-container-mojo:jdtaus-container-mojo = "jDTAUS Core Container Mojo"
 org.jdtaus.mojo -> jdtaus-resource-mojo:jdtaus-resource-mojo = "jDTAUS Core ��� Resource Mojo"
 org.jentity -> jentity-generator:jentity-generator = "jentity facade generator"
+org.jesperancinha.plugins -> omni-coveragereporter:omni-coveragereporter-maven-plugin = "Omni Coverage Reporter Maven Plugin"
 org.jetbrains.kotlin -> kdoc:kdoc-maven-plugin = 
 org.jetbrains.kotlin -> kotlin:kotlin-maven-plugin = 
 org.jetbrains.kotlinx -> atomicfu:atomicfu-maven-plugin = "atomicfu-maven-plugin"
