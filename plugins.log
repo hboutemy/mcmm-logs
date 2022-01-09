@@ -2977,6 +2977,7 @@ io.mangoo -> mangooio:mangooio-maven-plugin =
 io.manycore.maven -> refrem:refrem-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.mateu.jpa-utils -> pujoiner:pujoiner-plugin = "pujoiner-plugin Maven Mojo"
 io.mathan.maven -> mathan-latex:mathan-latex-maven-plugin = "Mathan LaTeX Maven Plugin"
+io.meikle.maven.okapi -> okapi:okapi-maven-plugin = "Okapi Framework Maven Plugin"
 io.micronaut.build -> micronaut:micronaut-maven-plugin = "Micronaut Maven Plugin"
 io.moderne -> moderne:moderne-maven-plugin = "moderne-maven-plugin"
 io.mongock -> mongock-cli-generator:mongock-cli-generator = "Mongock CLI generator"
