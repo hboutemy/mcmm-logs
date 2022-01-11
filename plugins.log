@@ -2987,6 +2987,7 @@ io.narayana -> lra-annotations_1.0:maven-plugin-lra-annotations_1.0 = "Maven plu
 io.netty -> netty-build-glibccheck:netty-build-glibccheck-maven-plugin = "Netty/Build/GlibcCheck"
 io.netty.incubator -> netty-incubator-h3spec:netty-incubator-h3spec-maven-plugin = "h3spec-maven-plugin Maven Mojo"
 io.nuls.ccc -> nuls-sc:nuls-sc-maven-plugin = "nuls-smartcontract-maven-plugin Maven Mojo"
+io.objectbox -> objectbox:objectbox-maven-plugin = "ObjectBox Maven Plugin"
 io.openapiprocessor -> openapi-processor:openapi-processor-maven-plugin = "openapi-processor Maven Plugin"
 io.openapitools.api.specification -> api-pp:api-pp-maven-plugin = "API Post Processing Maven Plugin"
 io.openapitools.swagger -> swagger:swagger-maven-plugin = "Swagger Maven Plugin"
