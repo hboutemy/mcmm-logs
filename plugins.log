@@ -1734,7 +1734,7 @@ com.metaeffekt.artifact.analysis -> ae-artifact-analysis:ae-artifact-analysis-pl
 com.metaeffekt.artifact.analysis -> ae-dependency-track:ae-dependency-track-plugin = 
 com.metaeffekt.artifact.analysis -> ae-inventory-enrichment:ae-inventory-enrichment-plugin = 
 com.metaeffekt.artifact.analysis -> ae-mirror:ae-mirror-plugin = 
-com.metreeca -> mark:mark-maven-plugin = "Metreeca Static Site Generator"
+com.metreeca -> mark:mark-maven-plugin = "Metreeca/Mark"
 com.michaelhradek -> aurkitu:aurkitu-maven-plugin = "Aurkitu Maven Plugin"
 com.microfocus.adm.almoctane.bdd -> bdd2octane:bdd2octane = "bdd2octane"
 com.microfocus.adm.almoctane.sdk -> sdk-generate-entity-models:sdk-generate-entity-models-maven-plugin = 
@@ -4170,6 +4170,7 @@ org.bidib.buildnumber -> jgit-buildnumber:maven-jgit-buildnumber-plugin = "Maven
 org.bidib.com.akathist.maven.plugins.launch4j -> launch4j:launch4j-maven-plugin = "Maven Launch4j Plugin"
 org.bidib.com.thoughtworks.paranamer -> paranamer:paranamer-maven-plugin = "ParaNamer Maven plugin"
 org.bidib.jbidib.de.akquinet.jbosscc.maven -> image:image-maven-plugin = 
+org.bidib.jbidib.de.perdian.maven.plugins -> macosappbundler:macosappbundler-maven-plugin = "macOS app bundler Maven plugin"
 org.bidib.org.codehaus.izpack -> izpack:izpack-maven-plugin = "IzPack Maven Plugin"
 org.bitbucket.askllc.fermenter -> fermenter-mda:fermenter-mda = "Fermenter Model-Driven Architecture Code Generator"
 org.bitbucket.bradleysmithllc.etlunit -> etlunit-feature-compiler:etlunit-feature-compiler = "etlunit-feature-compiler"
