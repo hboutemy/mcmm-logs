@@ -1348,6 +1348,7 @@ com.github.zg2pro.formatter -> zg2pro-formatter:zg2pro-formatter-plugin = "zg2pr
 com.github.zhve -> idea:idea-maven-plugin = "IDEA Maven Plugin"
 com.github.zou8944 -> json-loader:json-loader-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.github.ztq2016 -> svn:svn-maven-plugin = "svn-maven-plugin Maven Mojo"
+com.github.zyndev -> thrift:thrift-maven-plugin = "Maven Thrift Plugin"
 com.gitlab.haynes -> gemnasium:gemnasium-maven-plugin = "Gemnasium Maven Plugin"
 com.gitlab.haynes -> libsass:libsass-maven-plugin = "libsass plugin"
 com.gitlab.haynes.paranamer -> paranamer:paranamer-maven-plugin = "ParaNamer Maven plugin"
