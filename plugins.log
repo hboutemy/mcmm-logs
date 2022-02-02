@@ -2515,6 +2515,7 @@ dev.khbd.interp4j -> interp4j:interp4j-maven-plugin = "Interp4j maven plugin"
 dev.morphia.critter -> critter:critter-maven = 
 dev.nullzwo -> processor:maven-processor-plugin = "MAVEN PROCESSOR PLUGIN - ${project.version}"
 dev.qiao -> rancher:rancher-maven-plugin = "rancher-maven-plugin"
+dev.vality.maven.plugins -> pg-embedded:pg-embedded-plugin = "pg-embedded-plugin Maven Mojo"
 dev.youshallnotpass -> youshallnotpass:youshallnotpass-maven-plugin = "plugin-maven"
 dk.kosmisk -> postgresql:postgresql-maven-plugin = "${project.groupId}:${project.artifactId} (maven 3.5+)"
 dk.kyuff.pomlint -> pomlint:pomlint-maven-plugin = "pomlint-maven-plugin Maven Mojo"
