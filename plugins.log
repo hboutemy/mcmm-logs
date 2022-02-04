@@ -2963,6 +2963,7 @@ io.kemtoa.swagger -> swagger-backwards-compat:swagger-backwards-compat-maven-plu
 io.koara -> koara:koara-maven-plugin = "first-maven-plugin Maven Mojo"
 io.kokuwa.edge -> esh-constants:esh-constants-maven-plugin = "Eclipse Smarthome Constants generator Maven Plugin"
 io.kokuwa.maven -> helm:helm-maven-plugin = "Helm Maven Plugin"
+io.kokuwa.maven -> k3s:k3s-maven-plugin = "k3s Maven Plugin"
 io.konig -> diff:diff = "Konig Diff"
 io.konig -> konig-aws-deploy:konig-aws-deploy-maven-plugin = "Konig AWS Deployment Maven Plugin"
 io.konig -> konig-content-system:konig-content-system-maven-plugin = "Konig Content System Maven Plugin"
