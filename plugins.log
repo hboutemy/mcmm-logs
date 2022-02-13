@@ -1884,6 +1884,7 @@ com.pojosontheweb -> woko:woko-maven-plugin = "Woko - Maven Mojo"
 com.powsybl -> powsybl-itools-packager:powsybl-itools-packager-maven-plugin = "iTools packager Maven plugin"
 com.pragmaticobjects.oo.atom -> atom:atom-maven-plugin = 
 com.pragmaticobjects.oo.equivalence -> equivalence:equivalence-maven-plugin = 
+com.prime157.docker -> load-to-docker:load-to-docker-maven-plugin = "load-to-docker-maven-plugin"
 com.pro-crafting -> swagger:swagger-maven-plugin = "Swagger Maven Plugin"
 com.pro-crafting.maven -> yaml-properties:yaml-properties-maven-plugin = "Yaml Properties Maven Plugin"
 com.processpuzzle.fitnesse -> fitnesse-launcher:fitnesse-launcher-maven-plugin = "FitNesse Launcher Maven Plugin"
