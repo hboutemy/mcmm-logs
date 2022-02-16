@@ -5162,6 +5162,7 @@ org.kualigan.maven.plugins -> redis:redis-maven-plugin = "redis-maven-plugin Mav
 org.kubek2k -> handlebars:handlebars-maven-plugin = "handlebars-maven-plugin"
 org.kurento -> kurento:kurento-maven-plugin = "Kurento Maven Plugin"
 org.l2x6.cq -> cq-camel-prod:cq-camel-prod-maven-plugin = "CQ Camel Prod Maven Plugin"
+org.l2x6.cq -> cq-camel-spring-boot-prod:cq-camel-spring-boot-prod-maven-plugin = "CQ Camel Spring Boot Prod Maven Plugin"
 org.l2x6.cq -> cq:cq-maven-plugin = "CQ Maven Plugin"
 org.l2x6.cq -> cq-prod:cq-prod-maven-plugin = "CQ Prod Maven Plugin"
 org.l2x6.maven.srcdeps -> srcdeps:srcdeps-maven-plugin = "Maven Source Dependencies Plugin"
