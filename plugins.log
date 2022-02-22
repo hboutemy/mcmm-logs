@@ -2053,6 +2053,7 @@ com.spotify -> docker:docker-maven-plugin = "docker-maven-plugin"
 com.spotify -> dockerfile:dockerfile-maven-plugin = "Dockerfile Maven Plugin"
 com.spotify -> missinglink:missinglink-maven-plugin = 
 com.spotify.docgenerator -> docgenerator:docgenerator-maven-plugin = "Spotify Docgenerator Maven Plugin"
+com.spotify.fmt -> fmt:fmt-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.sprylab.webinloop -> webinloop:webinloop-maven-plugin = "WebInLoop Maven Plugin"
 com.squareup -> dagger:dagger-androidmanifest-plugin = "Dagger AndroidManifest.xml Module Generator"
 com.squareup.osstrich -> osstrich:osstrich = 
