@@ -1,4 +1,5 @@
 # groupId -> prefix:artifactId = "name"
+ai.qianmo -> zally:zally-maven-plugin = "zally-maven-plugin"
 app.myoss.cloud.maven.plugins -> myoss:archetypes-maven-plugin = ""
 app.myoss.cloud.maven.plugins -> archetypes:archetypes-maven-plugin = "archetypes-maven-plugin"
 asia.redact.bracket.properties -> pcompiler:pcompiler-maven-plugin = "PCompiler Maven Plugin - Compiled Properties"
@@ -3283,6 +3284,7 @@ net.dongliu -> protoc:maven-protoc-plugin = "Maven Protoc Plugin for Protoc and 
 net.dongliu -> protoc:protoc-maven-plugin = "Maven Protoc Plugin for Protoc and Prettypb"
 net.dongliu.prettypb -> protoc:maven-protoc-plugin = "Prettypb Maven Protoc Plugin"
 net.dryuf.maven.plugin -> dryuf-csv-localizer:dryuf-csv-localizer-maven-plugin = "dryuf-csv-localizer-maven-plugin"
+net.dryuf.maven.plugin -> dryuf-executable-jar:dryuf-executable-jar-maven-plugin = "dryuf-executable-jar-maven-plugin"
 net.dubboclub.maven -> dubbom:dubbom-maven-plugin = "dubbom-maven-plugin"
 net.dynamic-tools -> jasmine:jasmine-maven-plugin = "jasmine-maven-plugin"
 net.dynamic-tools.javascript.maven -> javascript:javascript-maven-plugin = "Javascript Maven Plugin"
