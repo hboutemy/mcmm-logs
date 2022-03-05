@@ -4264,6 +4264,7 @@ org.buildobjects -> j:j-maven-plugin = "J Maven Plugin"
 org.bulbit.maven -> bulb:bulb-maven-plugin = "${project.groupId}:${project.artifactId}"
 org.bytedeco -> javacpp:javacpp = "JavaCPP"
 org.bytemechanics.maven -> copysource:copysource-maven-plugin = "Copy sources maven plugin"
+org.caffinitas.dump-maven-model -> dumpmodel:dump-maven-model = "Dump Maven Model Plugin"
 org.camunda.bpm.extension.springboot.maven -> camunda-bpm-spring-boot-webjar:camunda-bpm-spring-boot-webjar-maven-plugin = 
 org.camunda.bpm.extension.swagger.maven -> camunda-bpm-swagger:camunda-bpm-swagger-maven-plugin = "Camunda Swagger Model Generator Maven Plugin"
 org.camunda.bpm.extension.swagger.maven -> camunda-bpm-swaggerrest-docs:camunda-bpm-swagger-plugin-rest-docs = "Camunda Swagger Docs Extractor Maven Plugin"
