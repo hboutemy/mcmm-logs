@@ -1122,6 +1122,7 @@ com.github.pudovika -> uglifyjs-cleancss:uglifyjs-cleancss-maven-plugin = "uglif
 com.github.pukkaone -> closure-compiler:closure-compiler-maven-plugin = "${project.artifactId}"
 com.github.pukkaone -> grapid:grapid-maven-plugin = "grapid-maven-plugin"
 com.github.putpixel -> liquibase-unwrap-all:liquibase-unwrap-all-maven-plugin = "liquibase-unwrap-all-maven-plugin Maven Plugin"
+com.github.quanoc -> trio-build:trio-build-plugin = "trio-build-plugin"
 com.github.quantumcs -> ocean:ocean-maven-plugin = "ocean-maven-plugin"
 com.github.rabwallace.yabibuildinfo -> yabi-buildinfo:yabi-buildinfo-maven-plugin = "yabi-buildinfo-maven-plugin"
 com.github.raml2spring -> raml2spring:raml2spring-maven-plugin = "Raml2Spring"
