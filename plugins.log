@@ -409,6 +409,7 @@ com.cj.restspecs -> restspecs:restspecs-maven-plugin = "RESTSPECS :: Maven Plugi
 com.cj.restspecs.mojo -> rest-specs-mojo:rest-specs-mojo = "${pom.artifactId}"
 com.cjoop -> cjoop-proguard:cjoop-proguard-plugin = 
 com.clashinspector -> clashinspector:clashinspector-maven-plugin = "ClashInspector"
+com.clevertap -> supertest:supertest-maven-plugin = "supertest-maven-plugin"
 com.cloudbees -> maven-license-plugin:maven-license-plugin = "maven-license-plugin Maven Plugin"
 com.cloudbees -> license:maven-license-plugin = "maven-license-plugin Maven Plugin"
 com.cloudbees.maven.plugins -> autochangelog:autochangelog-maven-plugin = "Automatic Changelog Maven Plugin"
