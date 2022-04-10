@@ -5376,6 +5376,7 @@ org.nocrala.tools.database.builder -> database-builder:database-builder-maven-pl
 org.nocrala.tools.database.debbie -> debbie:debbie-maven-plugin = 
 org.nocrala.tools.database.sentinel -> sentinel:sentinel-maven-plugin = 
 org.nocrala.tools.sourcecode.maven -> artifacts-attach:artifacts-attach = "Artifacts Attach Maven Plugin"
+org.noear -> solon:solon-maven-plugin = "${project.artifactId}"
 org.noear -> weed3:weed3-maven-plugin = 
 org.noorm -> noorm-generator:noorm-generator = "NoORM Java Code Generator"
 org.nuisto -> mule-lint:mule-lint-maven-plugin = "mule-lint-maven-plugin"
