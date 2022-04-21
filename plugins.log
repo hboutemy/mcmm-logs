@@ -2158,6 +2158,7 @@ com.threerings -> tripleplay-convert-flump-libs:tripleplay-convert-flump-libs = 
 com.threerings -> tripleplay:tripleplay-maven-plugin = "Triple Play Tools"
 com.tibco.ep -> ep:ep-maven-plugin = "Event Processing Maven Plugin"
 com.tibco.plugins -> bw6:bw6-maven-plugin = "Plugin Code for Apache Maven and TIBCO BusinessWorks™"
+com.tigrisdata.tools.code-generator -> code-generator:code-generator-maven-plugin = 
 com.tigrisdata.tools.code-generator -> :maven-plugin = 
 com.tikal -> tikaljet:tikal-maven-jet-plugin = "Tikal Maven JET Plugin"
 com.tiobe.jacobe -> jacobe:maven-jacobe-plugin = "Maven Jacobe Plugin"
@@ -2834,6 +2835,7 @@ io.github.fastcube.factory.tibco.bw.maven -> bw-javaxpath:bw-javaxpath-maven-plu
 io.github.fastcube.factory.tibco.bw.maven -> bw:bw-maven-plugin = "bwMaven plugin"
 io.github.flaw101 -> concat:concat-maven-plugin = "Concat Maven Plugin"
 io.github.floverfelt -> find-and-replace:find-and-replace-maven-plugin = "Find and Replace Maven Plugin"
+io.github.floverfelt -> pom-visualizer:pom-visualizer-maven-plugin = "Pom Visualizer Maven Plugin"
 io.github.frostingwolf -> saluki:saluki-maven-plugin = 
 io.github.fslev -> cucumber-reporting-extended:maven-cucumber-reporting-extended = "maven-cucumber-reporting-extended"
 io.github.fvarrui -> javapackager:javapackager = "JavaPackager Maven Plugin"
