@@ -2550,6 +2550,7 @@ dev.morphia.critter -> critter:critter-maven =
 dev.morphia.morphia -> builds:build-plugins = 
 dev.nullzwo -> processor:maven-processor-plugin = "MAVEN PROCESSOR PLUGIN - ${project.version}"
 dev.qiao -> rancher:rancher-maven-plugin = "rancher-maven-plugin"
+dev.sassine.api -> sqlschema2java:sqlschema2java-maven-plugin = "sqlschema2java-maven-plugin"
 dev.vality.maven.plugins -> pg-embedded:pg-embedded-plugin = "pg-embedded-plugin Maven Mojo"
 dev.youshallnotpass -> youshallnotpass:youshallnotpass-maven-plugin = "plugin-maven"
 dk.kosmisk -> postgresql:postgresql-maven-plugin = "${project.groupId}:${project.artifactId} (maven 3.5+)"
