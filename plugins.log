@@ -2925,6 +2925,7 @@ io.github.r0bb3n -> sonar-quality-gate:sonar-quality-gate-maven-plugin = "Sonar 
 io.github.radkovo -> vocab-builder:vocab-builder-maven-plugin = "RDF4J Vocabulary Builder :: Maven Plugin"
 io.github.ranSprd -> depmeter:depmeter-maven-plugin = "Dependency Metrics Maven Plugin"
 io.github.randy-blancett -> bashDoc:bashDoc-maven-plugin = "bashDoc-maven-plugin Maven Plugin"
+io.github.remisbaima -> license-checker-cyclonedx:license-checker-cyclonedx-maven-plugin = "License Checker for CycloneDX Maven Plugin"
 io.github.renbangjie -> chaos-mybatis-generator:chaos-mybatis-generator = "chaos-mybatis-generator"
 io.github.ricardorlg -> devicefarm-tractor:devicefarm-tractor-maven-plugin = "AWS Device farm tractor maven plugin"
 io.github.rockfireredmoon -> getdown:getdown-maven-plugin = "Getdown Maven Plugin"
