@@ -2875,6 +2875,7 @@ io.github.jopatai -> lombok-config:lombok-config-maven-plugin = "lombok-config-m
 io.github.jsfrench -> swaggerhub:swaggerhub-maven-plugin = "SwaggerHub Maven Plugin"
 io.github.kc7bfi -> hjson:hjson-maven-plugin = "hjson Maven Plugin"
 io.github.kc7bfi -> jmsmapmsg:jmsmapmsg-maven-plugin = "JMS MapMessage Maven Plugin"
+io.github.kcmvp -> sbt:sbt-maven-plugin = "sbt-maven-plugin Maven Mojo"
 io.github.kerwin612 -> findclass:findclass-maven-plugin = "Maven Find Class Plugin"
 io.github.kerwin612 -> findclass:maven-findclass-plugin = "Maven Find Class Plugin"
 io.github.kilmajster -> boot-docker:boot-docker = "boot-docker Maven plugin"
