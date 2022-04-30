@@ -632,6 +632,7 @@ com.gitee.l0km -> swift2thrift:swift2thrift-maven-plugin = "swift2thrift-maven-p
 com.gitee.l0km -> thrifty-compiler:thrifty-compiler-maven-plugin = "maven plugin for Microsoft/thrifty compiler"
 com.gitee.pulanos.pangu -> pangu-framework-generator:pangu-framework-generator-maven-plugin = "pangu-framework-generator-maven-plugin"
 com.gitee.pulanos.pangu -> pangu-generator:pangu-generator-maven-plugin = "pangu-generator-maven-plugin"
+com.gitee.zhangchenyan -> takin-generator:takin-generator-maven-plugin = 
 com.github.618lf -> swak-api:swak-api = "swak-api"
 com.github.618lf -> swak-generate:swak-generate = "swak-generate"
 com.github.AnonymousMister.plugin -> confusion:confusion-maven-plugin = "confusion"
