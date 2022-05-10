@@ -155,6 +155,7 @@ cn.mapway -> mapway:mapway-maven-plugin = "mapway-maven-plugin Maven Plugin"
 cn.richinfo.agent.android -> agent:agent-maven-plugin = "RichAPM Android Agent Maven Plugin"
 cn.shenyanchao.ut -> ut:ut-maven-plugin = "ut-maven-plugin"
 cn.smallbun.screw -> screw:screw-maven-plugin = 
+cn.structured -> structure-mybatis-plus-generate:structure-mybatis-plus-generate = 
 cn.wangdm.maven.plugins -> wangdm-fake:wangdm-fake-maven-plugin = "Fake Maven Plugin"
 cn.wangdm.maven.plugins -> wangdm-fake:wangdm-fake-plugin = "Fake Maven Plugin"
 cn.wanghaomiao -> seimicrawler:maven-seimicrawler-plugin = "SeimiCrawler Package Plugin"
@@ -292,6 +293,7 @@ com.atlassian.performance.judgement -> performance-judgement:performance-judgeme
 com.atolcd.alfresco -> amp:amp-maven-plugin = "AMP Plugin"
 com.att.eelf -> eelf:eelf-maven-plugin = "Event and Error Logging Framework"
 com.augustnagro -> sbt-delegate:sbt-delegate-maven-plugin = "SBT-Delegate-Maven-Plugin"
+com.austindewey -> helm:helm-maven-plugin = "Helm Maven Plugin"
 com.avast -> syringe:syringe-maven-plugin = "Syringe Maven Plugin"
 com.avides.gitlab -> gitlab-release:gitlab-release-maven-plugin = "gitlab-release-maven-plugin"
 com.avioconsulting.maven -> ics:ics-maven-plugin = "${project.groupId}:${project.artifactId}"
