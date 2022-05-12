@@ -4760,6 +4760,7 @@ org.efaps -> efaps-jetty:maven-efaps-jetty = "maven-efaps-jetty"
 org.efaps -> efaps:maven-efaps-plugin = "Maven eFaps Plug-In"
 org.efaps -> wikiutil:wikiutil-maven-plugin = "Maven Plug-In for Wiki Utility"
 org.efaps.maven -> efaps:maven-efaps-plugin = "Maven eFaps Plug-In"
+org.ehrbase.openehr.sdk -> generator:generator-maven-plugin = 
 org.ekstazi -> ekstazi:ekstazi-maven-plugin = "${project.groupId}:${project.artifactId}"
 org.eluder.coveralls -> coveralls:coveralls-maven-plugin = "coveralls-maven-plugin"
 org.ensime.maven.plugins -> ensime:ensime-maven = "ensime-maven"
