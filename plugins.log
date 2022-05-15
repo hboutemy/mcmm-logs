@@ -2966,6 +2966,7 @@ io.github.theangrydev.fluentbdd -> assertj-extensions-generator:assertj-extensio
 io.github.therealarthurdent -> jsonpath:jsonpath-maven-plugin = "JsonPath Maven Plugin"
 io.github.thingersoft -> properties-manager:properties-manager-maven-plugin = "Properties Manager Maven Plugin"
 io.github.tobiashochguertel -> documentation:documentation-maven-plugin = "documentation-maven-plugin"
+io.github.tolisso -> easy-csv:easy-csv = "EasyCSV"
 io.github.tomaslad -> myversion:myversion-maven-plugin = "myversion-maven-plugin"
 io.github.ttj4 -> scalapb:scalapb-maven-plugin = "ScalaPB Maven Plugin"
 io.github.tuean -> tuean:tuean-maven-plugin = "tuean-maven-plugin"
