@@ -3010,6 +3010,7 @@ io.helidon.build-tools.archetype -> helidon-archetype:helidon-archetype-maven-pl
 io.holixon.avro.maven -> axon-avro-generator:axon-avro-generator-maven-plugin = "${project.artifactId}"
 io.hyperfoil -> hyperfoil-codegen:hyperfoil-codegen-maven-plugin = "Hyperfoil Code Generator"
 io.hyperfoil -> hyperfoil:hyperfoil-maven-plugin = "Hyperfoil Maven Plugin"
+io.hyperfoil.tools -> horreum-api-generator:horreum-api-generator = "Horreum API Generator"
 io.ingenieux -> ngrok:ngrok-maven-plugin = "ngrok maven plugin"
 io.ingenieux.lambada -> lambada:lambada-maven-plugin = 
 io.inugami.maven.plugin -> inugami:inugami-maven-plugin = "${project.groupId}:${project.artifactId}"
@@ -5665,6 +5666,7 @@ org.selunit -> selunit:selunit-maven-plugin = "selunit-maven-plugin"
 org.semantictools -> semantictools-gwt-generator:semantictools-gwt-generator = "semantictools gwt generator"
 org.semantictools -> semantictools:semantictools-maven-plugin = "semantictools maven plugin"
 org.semweb4j -> rdfreactor:rdfreactor-maven-plugin = "Semweb4j RDFReactor code generator Maven Mojo"
+org.seppiko.plugins -> project:project-maven-plugin = "Project Maven Plugin"
 org.shredzone.maven -> mkdocs:mkdocs-maven-plugin = "Shredzone Maven Plugin: mkdocs"
 org.signserver.deploytools -> DeployTools-Maven:DeployTools-Maven = 
 org.sila-standard.sila_java.library -> _:maven_plugin = 
