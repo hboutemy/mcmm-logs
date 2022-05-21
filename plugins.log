@@ -2687,6 +2687,7 @@ hu.blackbelt -> unpack-artifact:unpack-artifact-maven-plugin = "Unpack artifact 
 hu.blackbelt.epsilon -> epsilon:epsilon-maven-plugin = "epsilon-maven-plugin"
 hu.ibello -> ibello:ibello-maven-plugin = "Ibello maven plugin"
 hu.skawa -> migrator:migrator-maven-plugin = "Maven-Bazel Migration Plugin"
+icu.easyj.maven.plugins -> easyj:easyj-maven-plugin = "${project.groupId} :: ${project.artifactId}"
 in.ashwanthkumar -> editsource:maven-editsource = "maven-editsource"
 in.mayurshah -> testng-xml-maker:testng-xml-maker-maven-plugin = "selenium-helper"
 in.virit.vwscdn -> vwscdn:vwscdn-maven-plugin = 
