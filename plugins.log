@@ -2690,7 +2690,7 @@ hu.blackbelt -> unpack-artifact:unpack-artifact-maven-plugin = "Unpack artifact 
 hu.blackbelt.epsilon -> epsilon:epsilon-maven-plugin = "epsilon-maven-plugin"
 hu.ibello -> ibello:ibello-maven-plugin = "Ibello maven plugin"
 hu.skawa -> migrator:migrator-maven-plugin = "Maven-Bazel Migration Plugin"
-icu.easyj.maven.plugins -> easyj:easyj-maven-plugin = "${project.groupId} :: ${project.artifactId}"
+icu.easyj.maven.plugins -> easyj:easyj-maven-plugin = "icu.easyj.maven.plugins :: easyj-maven-plugin"
 in.ashwanthkumar -> editsource:maven-editsource = "maven-editsource"
 in.mayurshah -> testng-xml-maker:testng-xml-maker-maven-plugin = "selenium-helper"
 in.virit.vwscdn -> vwscdn:vwscdn-maven-plugin = 
@@ -5417,7 +5417,7 @@ org.nocrala.tools.database.builder -> database-builder:database-builder-maven-pl
 org.nocrala.tools.database.debbie -> debbie:debbie-maven-plugin = 
 org.nocrala.tools.database.sentinel -> sentinel:sentinel-maven-plugin = 
 org.nocrala.tools.sourcecode.maven -> artifacts-attach:artifacts-attach = "Artifacts Attach Maven Plugin"
-org.noear -> solon:solon-maven-plugin = "${project.artifactId}"
+org.noear -> solon:solon-maven-plugin = 
 org.noear -> weed3:weed3-maven-plugin = 
 org.noorm -> noorm-generator:noorm-generator = "NoORM Java Code Generator"
 org.nuisto -> mule-lint:mule-lint-maven-plugin = "mule-lint-maven-plugin"
