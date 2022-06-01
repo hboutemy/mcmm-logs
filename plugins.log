@@ -2320,6 +2320,7 @@ de.androbit -> brainslugbpmn:brainslug-maven-bpmn = "brainslug-maven-bpmn-plugin
 de.androbit -> brainslug:brainslug-maven-renderer = "brainslug-maven-renderer-plugin"
 de.androbit -> brainslugrenderer:brainslug-maven-renderer = "brainslug-maven-renderer-plugin"
 de.androbit -> raml-converter:raml-converter-maven-plugin = "raml converter maven plugin"
+de.audiophobe -> calcifer:calcifer-plugin = "The Calcifer Plugin"
 de.berlios.jsunit -> jsunit2:jsunit-maven2-plugin = "JsUnit Maven2 Plugin"
 de.bigmichi1 -> appengine:appengine-maven-plugin = "A Maven Plugin for the Google App Engine"
 de.bildschirmarbeiter.jbake -> jbake:jbake-maven-plugin = "JBake Maven Plugin"
@@ -2871,6 +2872,7 @@ io.github.hoodihub -> null-check-instrumenter:null-check-instrumenter-maven-plug
 io.github.houssemba -> dependencytrack-mvn-publisher:dependencytrack-mvn-publisher = "DependencyTrack Maven Publisher"
 io.github.hse-eolang -> eo:eo-maven-plugin = "eo-maven-plugin"
 io.github.humbinal -> i18n-message:i18n-message-maven-plugin = "i18n-message-maven-plugin"
+io.github.iamaldren -> doc-converter:doc-converter-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.invvk -> auto-increment:auto-increment-plugin = "Version auto increment Plugin"
 io.github.itroadlabs -> apicross:apicross-maven-plugin = 
 io.github.janhicken -> versions:versions-maven-plugin = "Versions Maven Plugin"
