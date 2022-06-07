@@ -2137,6 +2137,7 @@ com.teamtter.mavennatives -> nativedependencies:nativedependencies-maven-plugin 
 com.technophobia.substeps -> substeps-glossary-builder:substeps-glossary-builder = "SubSteps Glossary Builder"
 com.technophobia.substeps -> substeps:substeps-maven-plugin = "SubSteps Maven Plugin"
 com.technophobia.substeps -> substeps-runner:substeps-runner = "SubSteps Maven Runner"
+com.telenav.cactus -> cactus-build:cactus-build-maven-plugin = 
 com.tencent.tars -> tars:tars-maven-plugin = "${project.artifactId}"
 com.tenderowls.opensource -> haxemojos:haxemojos-maven-plugin = "Haxemojos"
 com.teradata -> redlinerpmtd:redlinerpm-maven-plugin-td = "maven-redlinerpm-plugin Maven Mojo"
@@ -6122,6 +6123,7 @@ tech.grasshopper -> extentreports-cucumberjson:extentreports-cucumberjson-plugin
 tech.grasshopper -> rest-assured-extent-report:rest-assured-extent-report-plugin = "rest-assured-extent-report-plugin"
 tech.guyi.ipojo -> compile:compile-maven-plugin = 
 tech.ibit -> ibit-mybatis-generator:ibit-mybatis-generator-maven-plugin = "ibit-mybatis-generator-maven-plugin"
+tech.mgl -> mgl-compress:mgl-compress-maven-plugin = "mgl-compress-maven-plugin Maven Mojo"
 tech.rsqn -> build-tasks:build-tasks = "build-tasks"
 tk.skuro -> plan:plan-maven-plugin = "Maven plugin to analyse the execution plan"
 tools.bestquality -> ci:ci-maven-plugin = "Maven CI Plugin"
