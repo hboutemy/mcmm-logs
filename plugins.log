@@ -2978,6 +2978,7 @@ io.github.stephenc.maven -> rfmm:rfmm-maven-plugin = "Release From My Machine Ma
 io.github.steveswinsburg -> xbdd:xbdd-maven-plugin = "XBDD Maven Plugin"
 io.github.techthird -> fast-mock:fast-mock-maven-plugin = 
 io.github.terjouxanthony -> jdk-downloader:jdk-downloader-maven-plugin = "jdk-downloader-maven-plugin"
+io.github.terminological -> r6-generator:r6-generator-maven-plugin = "R6 Generator Maven Plugin"
 io.github.tfahub -> local-repository:local-repository-maven-plugin = "Local Repository Maven Plugin"
 io.github.theangrydev.fluentbdd -> assertj-extensions-generator:assertj-extensions-generator = 
 io.github.therealarthurdent -> jsonpath:jsonpath-maven-plugin = "JsonPath Maven Plugin"
