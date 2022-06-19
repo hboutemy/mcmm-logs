@@ -1747,6 +1747,7 @@ com.marvinformatics -> partial-build:partial-build-plugin = "${project.groupId}:
 com.marvinformatics.avro -> avro:avro-maven-plugin = "Apache Avro Maven Plugin"
 com.marvinformatics.formatter -> formatter:formatter-maven-plugin = 
 com.massfords -> i18njson:i18njson-maven-plugin = "i18njson Maven Plugin"
+com.mastfrog -> automodule-inject:automodule-inject = "automodule-inject"
 com.mastfrog -> merge-configuration:maven-merge-configuration = "maven-merge-configuration"
 com.mastfrog -> revision-info:revision-info-plugin = "Revision Info Maven Plugin"
 com.mattjhoffman -> mule-mmc-rest:mule-mmc-rest-plugin = "Mule MMC REST Plugin"
