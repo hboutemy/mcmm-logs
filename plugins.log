@@ -2560,6 +2560,7 @@ dev.fuzzit.javafuzz -> javafuzz:javafuzz-maven-plugin = "javafuzz-maven-plugin M
 dev.galasa -> galasa:galasa-maven-plugin = "Galasa Maven Plugin"
 dev.galasa -> galasastaging:galasastaging-maven-plugin = "galasastaging-maven-plugin Maven Plugin"
 dev.galasa -> galasautils:galasautils-maven-plugin = 
+dev.grmek.maven -> build-config:build-config-plugin = "Build Config Maven Plugin"
 dev.guardrail -> guardrail:guardrail-maven-plugin = "guardrail-maven-plugin"
 dev.haeusler -> jasypt:jasypt-maven-plugin = "Jasypt Maven Plugin"
 dev.hilla -> hilla:hilla-maven-plugin = "Hilla Maven plugin"
