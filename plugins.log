@@ -5630,6 +5630,7 @@ org.pustefixframework.maven.plugins -> pustefix-validator:pustefix-validator-plu
 org.pustefixframework.maven.plugins -> pustefix-webapp:pustefix-webapp-plugin = "Pustefix Webapp Plugin"
 org.pustefixframework.maven.plugins -> pustefix-webservice:pustefix-webservice-plugin = "Pustefix AJAX webservices Plugin (for JAXWS service stub generation)"
 org.pustefixframework.maven.plugins -> pustefix-xslt:pustefix-xslt-plugin = "Pustefix XSLT Plugin"
+org.qbicc -> qbicc:qbicc-maven-plugin = "Qbicc: Maven Plugin"
 org.qbicc.rt -> qbicc-rt-openjdk-build-tools:qbicc-rt-openjdk-build-tools-maven-plugin = "Qbicc Build Tools Maven Plugin"
 org.qianalyze -> QiAnalyzeDroolsCompiler:QiAnalyzeDroolsCompiler = "QiAnalyzeDroolsCompiler"
 org.qooxdoo -> qooxdoo:qooxdoo-maven-plugin = "qooxdoo-maven-plugin Maven Mojo"
