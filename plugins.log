@@ -2992,6 +2992,7 @@ io.github.thingersoft -> properties-manager:properties-manager-maven-plugin = "P
 io.github.tobiashochguertel -> documentation:documentation-maven-plugin = "documentation-maven-plugin"
 io.github.tolisso -> easy-csv:easy-csv = "EasyCSV"
 io.github.tomaslad -> myversion:myversion-maven-plugin = "myversion-maven-plugin"
+io.github.tomboyo.lily -> lily-compiler:lily-compiler-maven-plugin = 
 io.github.ttj4 -> scalapb:scalapb-maven-plugin = "ScalaPB Maven Plugin"
 io.github.tuean -> tuean:tuean-maven-plugin = "tuean-maven-plugin"
 io.github.ulisse1996 -> jaorm:jaorm-maven-plugin = "JAORM (Maven Plugin)"
