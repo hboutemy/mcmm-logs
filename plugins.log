@@ -3682,6 +3682,7 @@ net.unit8.teststreamer -> test-streamer:test-streamer-maven-plugin = "test-strea
 net.unit8.waitt -> waitt:waitt-maven-plugin = 
 net.uvavru.maven.plugin -> jetty-conf:jetty-conf-maven-plugin = "jetty-conf-maven-plugin Maven Plugin"
 net.vergien.fig -> fluent-interface-generator:fluent-interface-generator-maven-plugin = "fluent-interface-generator-maven-plugin Maven Plugin"
+net.videki.semver -> conventional-commits:conventional-commits-maven-plugin = "Conventional Commits Maven Plugin"
 net.wasdev.maven.plugins -> swaggerdocgen:swaggerdocgen-maven-plugin = "Swagger Document Generator Maven Tool"
 net.wasdev.wlp.maven.plugins -> liberty:liberty-maven-plugin = "liberty-maven-plugin"
 net.wetheinter -> gwt:gwt-maven-plugin = "Maven GWT Plugin"
