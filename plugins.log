@@ -266,6 +266,7 @@ com.antwerkz.github -> issues:issues-maven-plugin =
 com.antwerkz.sofia -> :maven = "Sofia Maven Mojo"
 com.antwerkz.sofia -> sofia:sofia-maven = "Sofia Maven Mojo"
 com.apigee.edge.config -> apigee-config:apigee-config-maven-plugin = "apigee-config-maven-plugin"
+com.apigee.registry.config -> apigee-registry:apigee-registry-maven-plugin = "apigee-registry-maven-plugin"
 com.apigee.smartdocs.config -> apigee-smartdocs:apigee-smartdocs-maven-plugin = "apigee-smartdocs-maven-plugin"
 com.apiomat.helper -> nm:nm-maven-plugin = "NativeModule Helper Plugin"
 com.apmvista.agent.android -> tracing:tracing-maven-plugin = "tracing-maven-plugin Maven Mojo"
