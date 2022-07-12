@@ -2858,6 +2858,7 @@ io.github.dimitrovvlado -> proto-lint:proto-lint-maven-plugin = "proto-lint-mave
 io.github.divinespear -> jpa-schema:jpa-schema-maven-plugin = "jpa-schema-maven-plugin"
 io.github.dmlloyd.module-info -> module-info:module-info = "Module Info Generator"
 io.github.dovaleac -> stateless4j-yaml-importer:stateless4j-yaml-importer = "Stateless4j YAML importer"
+io.github.epi155 -> recfm:recfm-maven-plugin = 
 io.github.ericsson-mts -> mts-asn1:mts-asn1-plugin = 
 io.github.ermadmi78 -> kobby:kobby-maven-plugin = "io.github.ermadmi78:kobby-maven-plugin"
 io.github.evis -> scalafix:scalafix-maven-plugin = "scalafix-maven-plugin"
