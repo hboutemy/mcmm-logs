@@ -2586,6 +2586,7 @@ edu.berkeley.cs.jqf -> jqf:jqf-maven-plugin = "jqf-maven-plugin"
 edu.clemson.cs.resolve -> rsrg-git:git-plugin = "RSRG git plugin"
 edu.illinois -> nondex:nondex-maven-plugin = "NonDex Maven Plugin"
 edu.illinois -> starts:starts-maven-plugin = "STARTS Maven Plugin"
+edu.illinois.cs -> idflakies:idflakies-maven-plugin = "iDFlakies Maven Plugin"
 edu.illinois.cs -> testrunner:testrunner-maven-plugin = 
 edu.iu.ul.maven.plugins -> fileweaver:fileweaver = "FileWeaver"
 edu.minneapolis -> ygi:ygi-maven-plugin = "Your Grade Is..."
