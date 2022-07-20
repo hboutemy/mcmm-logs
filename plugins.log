@@ -3009,6 +3009,7 @@ io.github.vdaburon -> jmeter-graph-tool:jmeter-graph-tool-maven-plugin = "JMeter
 io.github.vipcxj -> tools-dependency:tools-dependency-maven-plugin = "Tools Dependency Maven Plugin"
 io.github.wanghuayao -> oaktree:maven-plugin-oaktree = "maven plugin oaktree"
 io.github.wangjie-fourth -> projectGenerator:projectGenerator-maven-plugin = "Project Generator"
+io.github.weblegacy -> taglib:taglib-maven-plugin = "Maven Taglib Plugin"
 io.github.willhains -> package-info:package-info-maven-plugin = "Package Info Maven Plugin"
 io.github.willianwd -> quarkus-spring-cloud-config:quarkus-spring-cloud-config-maven-plugin = "Quarkus Spring Cloud Config Maven Plugin"
 io.github.wilson-he -> generator:generator-maven-plugin = "generator-maven-plugin Maven Mojo"
