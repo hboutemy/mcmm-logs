@@ -3110,6 +3110,7 @@ io.openapitools.api.specification -> api-pp:api-pp-maven-plugin = "API Post Proc
 io.openapitools.swagger -> swagger:swagger-maven-plugin = "Swagger Maven Plugin"
 io.openliberty.boost -> boost:boost-maven-plugin = 
 io.openliberty.tools -> liberty:liberty-maven-plugin = "liberty-maven-plugin"
+io.openmanufacturing -> sds-aspect-model:sds-aspect-model-maven-plugin = "SDS Aspect Model Maven Plugin"
 io.opentracing.contrib.specialagent -> agentrule:agentrule-maven-plugin = "AgentRule Maven Plugin for SpecialAgent"
 io.opentracing.contrib.specialagent -> assemble:assemble-maven-plugin = "Assemble Maven Plugin for SpecialAgent"
 io.opentracing.contrib.specialagent -> itest:itest-maven-plugin = "ITest Maven Plugin for SpecialAgent"
