@@ -1741,6 +1741,7 @@ com.madgag -> android:android-maven-plugin = "Android Maven Plugin - android-mav
 com.mainstreethub -> ecr:ecr-maven-plugin = "Main Street Hub Maven ECR Plugin"
 com.manamind.jgitflow -> jgitflow:jgitflow-maven-plugin = "JGitFlow :: Maven Plugin"
 com.manolodominguez -> openlrae:openlrae-maven-plugin = "OpenLRAE Maven Plugin"
+com.maplecloudy.osrc -> maplecloudy-osrc:maplecloudy-osrc-maven-plugin = 
 com.maplecloudy.osrt -> maplecloudy-osrt:maplecloudy-osrt-maven-plugin = 
 com.marcoeckstein -> autoannotator:autoannotator-maven-plugin = 
 com.mariocairone.mule -> anypoint:anypoint-maven-plugin = "Anypoint Maven Plugin"
