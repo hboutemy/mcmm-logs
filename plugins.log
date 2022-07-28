@@ -3028,6 +3028,7 @@ io.github.yx91490 -> cli:cli-maven-plugin =
 io.github.zalvari -> changed-resources:changed-resources-plugin = "${project.groupId}:${project.artifactId}"
 io.github.zardoz89 -> ftldoc:ftldoc-maven-plugin = "ftldoc - Maven Plugin"
 io.github.zebraofjustice -> web3j:web3j-maven-plugin = "web3j Maven Mojo"
+io.github.zenwave360 -> zenwave-code-generator-mojo:zenwave-code-generator-mojo = "zenwave-code-generator-mojo Maven Mojo"
 io.github.zlika -> reproducible-build:reproducible-build-maven-plugin = "Reproducible Build Maven Plugin"
 io.gravitee.maven.plugins -> json-schema-generator:json-schema-generator-maven-plugin = "JSON Schema generator Maven plugin"
 io.gumga -> gumgag:gumgag = "gumgag Maven Plugin"
