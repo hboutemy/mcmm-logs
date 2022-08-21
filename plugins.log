@@ -2859,6 +2859,7 @@ io.github.carousell -> aws-devicefarm:aws-devicefarm-maven-plugin = "aws-devicef
 io.github.carousell -> cucumber2junit:cucumber2junit-maven-plugin = "JUnit code generator for Cucumber tests"
 io.github.carousell -> testrail:testrail-maven-plugin = "Maven plugin to create test runs on Testrails"
 io.github.catcoderr -> artifact-publisher:artifact-publisher-plugin = "Artifact Publisher Maven Mojo"
+io.github.censodev -> app-struct:app-struct-maven-plugin = "App Struct Maven Plugin"
 io.github.centercode -> cli:cli-maven-plugin = 
 io.github.cernier -> yml2props:yml2props-maven-plugin = "YAML to Properties Maven Plugin"
 io.github.chrisruffalo -> syndo:syndo-maven-plugin = "Syndo :: Maven Plugin"
