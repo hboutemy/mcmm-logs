@@ -6211,6 +6211,7 @@ software.amazon.awssdk -> codegen:codegen-maven-plugin = "AWS Java SDK :: Code G
 software.hoegg.mule -> mule-bundle:mule-bundle-maven-plugin = "Mule Application Bundle Maven Plugin"
 software.tnb -> odo-downloader:odo-downloader-maven-plugin = "ODO downloader plugin"
 solutions.deepfield -> spark-itcase:spark-itcase-maven = "spark-itcase-maven"
+store.taotao.docbook -> taotao-docbook:taotao-docbook-maven-plugin = 
 team.quad -> cloudify:cloudify-maven-plugin = "Cloudify"
 team.yi.maven.plugin -> semantic-gitlog:maven-semantic-gitlog = "maven-semantic-gitlog"
 tech.grasshopper -> cucumber-pdf:cucumber-pdf-plugin = "cucumber-pdf-plugin"
