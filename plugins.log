@@ -4714,6 +4714,7 @@ org.cornutum.tcases -> tcases:tcases-maven-plugin = "Tcases Plugin"
 org.corpus-tools -> cff:cff-maven-plugin = "CFF Maven Plugin"
 org.cortx -> cortx:cortx-maven-plugin = "cortx-maven-plugin"
 org.coursera.courier -> courier:courier-maven-plugin = "Courier Data Binding Generator"
+org.cqfn -> astranaut:astranaut-maven-plugin = "astranaut-maven-plugin"
 org.cqfn.diktat -> diktat:diktat-maven-plugin = 
 org.craftercms.mariaDB4j -> mariaDB4j:mariaDB4j-maven-plugin = "mariaDB4j-maven-plugin"
 org.cruxframework.plugin -> crux:crux-maven-plugin = "Crux Maven Plugin"
