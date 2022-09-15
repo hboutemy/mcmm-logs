@@ -2756,6 +2756,7 @@ io.airlift.maven.plugins -> redlinerpm:redlinerpm-maven-plugin = "redlinerpm-mav
 io.airlift.maven.plugins -> sphinx:sphinx-maven-plugin = "sphinx-maven-plugin"
 io.alauda -> mock-kubernetes:mock-kubernetes-maven-plugin = "mock-kubernetes-maven-plugin Maven Mojo"
 io.allune -> bigquery:bigquery-maven-plugin = "BigQuery Maven Plugin"
+io.apicurio -> apicurio-codegen:apicurio-codegen-maven-plugin = "apicurio-codegen-cli"
 io.apicurio -> apicurio-common-app-components:apicurio-common-app-components-maven-plugin = 
 io.apicurio -> apicurio-registry:apicurio-registry-maven-plugin = "apicurio-registry-maven-plugin"
 io.apigee.build-tools.enterprise4g -> apigee-enterprise:apigee-edge-maven-plugin = "apigee-edge-maven-plugin maven mojo"
