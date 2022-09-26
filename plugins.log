@@ -2604,6 +2604,7 @@ dev.hilla -> engine:engine-maven-plugin = "Maven Plugin for Hilla Engine"
 dev.hilla -> hilla:hilla-maven-plugin = "Hilla Maven plugin"
 dev.hubx -> jib:jib = "jib Maven Plugin"
 dev.iabudiab -> dependency-track:dependency-track-maven-plugin = "Dependency Track Maven Plugin"
+dev.jakartalemon -> jakarta-lemon:jakarta-lemon-plugin = "${project.groupId}:${project.artifactId}"
 dev.jbang -> jbang:jbang-maven-plugin = "JBang Maven Plugin"
 dev.khbd.interp4j -> interp4j:interp4j-maven-plugin = "Interp4j maven plugin"
 dev.logchange -> logchange:logchange-maven-plugin = 
