@@ -2741,6 +2741,7 @@ hu.advancedweb -> scott:scott-maven-plugin = "Scott Test Reporter - Maven Plugin
 hu.blackbelt -> flutter:flutter-maven-plugin = "flutter-maven-plugin"
 hu.blackbelt -> unpack-artifact:unpack-artifact-maven-plugin = "Unpack artifact maven plugin"
 hu.blackbelt.epsilon -> epsilon:epsilon-maven-plugin = "epsilon-maven-plugin"
+hu.blackbelt.judo.tatami -> judo-tatami-jsl-workflow:judo-tatami-jsl-workflow-maven-plugin = "Judo :: Tatami :: JSL :: Workflow :: Maven :: Plugin"
 hu.ibello -> ibello:ibello-maven-plugin = "Ibello maven plugin"
 hu.skawa -> migrator:migrator-maven-plugin = "Maven-Bazel Migration Plugin"
 icu.easyj.maven.plugins -> easyj:easyj-maven-plugin = "icu.easyj.maven.plugins :: easyj-maven-plugin"
