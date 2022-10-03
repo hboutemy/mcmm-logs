@@ -1592,6 +1592,7 @@ com.inocybe.api -> sdndocs:sdndocs-maven-plugin = "API and Guide Docbook Plugin"
 com.insightfullogic.release -> release-version:release-version-plugin = "Release Version Plugin"
 com.inteligr8 -> conditional:conditional-maven-plugin = "Conditional Maven Plugin"
 com.inteligr8 -> regex:regex-maven-plugin = "Regular Expression Maven Plugin"
+com.inteligr8.alfresco -> amp:amp-maven-plugin = "A Maven plugin to generate AMP files"
 com.intellectfactory.maven.plugins -> require-i18n:require-i18n-plugin = "require-i18n-plugin Maven Plugin"
 com.internetitem -> create-reactor-project:create-reactor-project-maven-plugin = 
 com.internetitem -> write-properties-file:write-properties-file-maven-plugin = "Write a Properties File"
