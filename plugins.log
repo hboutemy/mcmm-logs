@@ -592,6 +592,7 @@ com.exasol -> error-code-crawler:error-code-crawler-maven-plugin = "error-code-c
 com.exasol -> project-keeper-java-project-crawler:project-keeper-java-project-crawler = "Project keeper Java project crawler"
 com.exasol -> project-keeper:project-keeper-maven-plugin = "Project keeper maven plugin"
 com.excelsiorjet -> excelsior-jet:excelsior-jet-maven-plugin = "Excelsior JET Maven Plugin"
+com.exp-blog -> release-project:release-project-plugin = "release-project-plugin"
 com.expedia.tesla -> tesla-compiler:tesla-compiler-maven-plugin = "tesla-compiler-maven-plugin Maven Plugin"
 com.expediagroup -> graphql-kotlin:graphql-kotlin-maven-plugin = "com.expediagroup:graphql-kotlin-maven-plugin"
 com.expediagroup.streamplatform -> stream-registry-graphql:stream-registry-graphql-maven-plugin = 
