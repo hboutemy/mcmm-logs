@@ -6253,6 +6253,7 @@ tech.guyi.ipojo -> compile:compile-maven-plugin =
 tech.ibit -> ibit-mybatis-generator:ibit-mybatis-generator-maven-plugin = "ibit-mybatis-generator-maven-plugin"
 tech.mgl -> mgl-compress:mgl-compress-maven-plugin = "mgl-compress-maven-plugin Maven Mojo"
 tech.rsqn -> build-tasks:build-tasks = "build-tasks"
+tel.panfilov.maven -> reposync:reposync-maven-plugin = "reposync-maven-plugin"
 tk.skuro -> plan:plan-maven-plugin = "Maven plugin to analyse the execution plan"
 tools.bestquality -> ci:ci-maven-plugin = "Maven CI Plugin"
 tools.mdsd -> pom-enhancer:pom-enhancer-maven-plugin = "CBI Deployment POM-Enhancer Maven Plugin"
