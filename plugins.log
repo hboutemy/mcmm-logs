@@ -4453,7 +4453,7 @@ org.camunda.bpm.extension.springboot.maven -> camunda-bpm-spring-boot-webjar:cam
 org.camunda.bpm.extension.swagger.maven -> camunda-bpm-swagger:camunda-bpm-swagger-maven-plugin = "Camunda Swagger Model Generator Maven Plugin"
 org.camunda.bpm.extension.swagger.maven -> camunda-bpm-swaggerrest-docs:camunda-bpm-swagger-plugin-rest-docs = "Camunda Swagger Docs Extractor Maven Plugin"
 org.camunda.bpm.extension.swagger.maven -> camunda-bpm-swaggerspoon:camunda-bpm-swagger-plugin-spoon = "Camunda Swagger Spoon Maven Plugin"
-org.camunda.community -> bpmn-driven-testing:bpmn-driven-testing-maven-plugin = "BPMN Driven Testing Maven Plugin"
+org.camunda.community -> bpmn-driven-testing:bpmn-driven-testing-maven-plugin = 
 org.carewebframework -> help-extensions:org.carewebframework.mvn.plugin.helpconverter = "CareWeb Framework Help Converter Maven Plugin"
 org.carewebframework -> org.carewebframework.mvn..helpconverter:org.carewebframework.mvn.plugin.helpconverter = "CWF Help Converter Maven Plugin"
 org.carewebframework -> theme-extensions:org.carewebframework.mvn.plugin.themegenerator = "CareWeb Framework ZK Theme Generator Maven Plugin"
