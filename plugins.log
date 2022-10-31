@@ -2182,6 +2182,7 @@ com.technophobia.substeps -> substeps:substeps-maven-plugin = "SubSteps Maven Pl
 com.technophobia.substeps -> substeps-runner:substeps-runner = "SubSteps Maven Runner"
 com.telenav.cactus -> cactus-build:cactus-build-maven-plugin = 
 com.telenav.cactus -> cactus:cactus-maven-plugin = 
+com.telenav.cactus.metadata -> cactus-metadata:cactus-metadata-maven-plugin = "Cactus Metadata Maven Plugin"
 com.tencent.tars -> tars:tars-maven-plugin = "${project.artifactId}"
 com.tenderowls.opensource -> haxemojos:haxemojos-maven-plugin = "Haxemojos"
 com.teradata -> redlinerpmtd:redlinerpm-maven-plugin-td = "maven-redlinerpm-plugin Maven Mojo"
