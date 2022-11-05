@@ -1770,6 +1770,7 @@ com.lotaris.maven.plugins -> lotaris-glassfish:lotaris-glassfish-maven-plugin = 
 com.lotaris.maven.rox.plugins -> rox-jee-itf:rox-jee-itf-maven-plugin = "Lotaris Maven ROX Java EE ITF Plugin"
 com.lukegb.mojo -> gitdescribe:gitdescribe-maven-plugin = "Git Describe Maven Plugin"
 com.luuuis -> smartass:smartass-maven-plugin = "Maven Smart Assembly Plugin"
+com.maciejwalkowiak.paseq -> paseq:paseq-maven-plugin = "Paseq Maven Plugin"
 com.madgag -> android:android-maven-plugin = "Android Maven Plugin - android-maven-plugin"
 com.mainstreethub -> ecr:ecr-maven-plugin = "Main Street Hub Maven ECR Plugin"
 com.manamind.jgitflow -> jgitflow:jgitflow-maven-plugin = "JGitFlow :: Maven Plugin"
