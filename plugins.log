@@ -3263,6 +3263,7 @@ io.spot-next -> spot:spot-maven-plugin = "io.spot-next:spot-maven-plugin"
 io.spring.javaformat -> spring-javaformat:spring-javaformat-maven-plugin = "Spring JavaFormat Maven Plugin"
 io.squark.yggdrasil -> yggdrasil:yggdrasil-maven-plugin = "Yggdrasil Maven Plugin"
 io.staminaframework -> stamina:stamina-maven-plugin = "Stamina Maven Plugin"
+io.starburst -> really-executable-jar:really-executable-jar-maven-plugin = "Really Executable Jar Maven Plugin"
 io.starter -> aspectj:aspectj-maven-plugin = "Starter Inc Fork of Mojo's AspectJ Maven Plugin"
 io.staticcdn.sdk -> staticcdn-maven-plugin:staticcdn-sdk-maven-plugin = 
 io.staticcdn.sdk -> staticcdn-sdk:staticcdn-sdk-maven-plugin = 
