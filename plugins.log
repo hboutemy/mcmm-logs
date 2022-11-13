@@ -2910,6 +2910,7 @@ io.github.catcoderr -> artifact-publisher:artifact-publisher-plugin = "Artifact 
 io.github.censodev -> app-struct:app-struct-maven-plugin = "App Struct Maven Plugin"
 io.github.centercode -> cli:cli-maven-plugin = 
 io.github.cernier -> yml2props:yml2props-maven-plugin = "YAML to Properties Maven Plugin"
+io.github.chichengyu -> model-generator:model-generator-maven-plugin = "model-maven-plugin Maven Mojo"
 io.github.chrisruffalo -> syndo:syndo-maven-plugin = "Syndo :: Maven Plugin"
 io.github.cjkent.osiris -> osiris:osiris-maven-plugin = "Osiris Maven Plugin"
 io.github.cleydyr -> dart-sass:dart-sass-maven-plugin = "dart-sass-maven-plugin Maven Mojo"
