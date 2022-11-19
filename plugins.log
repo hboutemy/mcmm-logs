@@ -1715,6 +1715,7 @@ com.kbakhtiari -> helm:helm-maven-plugin = "${project.groupId}:${project.artifac
 com.keithbranton.mojo -> angular:angular-maven-plugin = "Angular Maven Plugin"
 com.kelveden -> karma:maven-karma-plugin = "Karma Maven Plugin"
 com.kelveden -> testacular:testacular-maven-plugin = "Testacular Maven Plugin"
+com.kerbaya -> run:run-maven-plugin = "Run Maven Plugin"
 com.kerbaya -> stamp:stamp-maven-plugin = "Stamp Maven Plugin"
 com.kerbaya.maven -> reposync:reposync-maven-plugin = "RepoSync Maven Plugin"
 com.kestreldigital.json-schema-simplifier -> json-schema-simplifier:json-schema-simplifier-maven-plugin = "com.kestreldigital.json-schema-simplifier.json-schema-simplifier-maven-plugin"
