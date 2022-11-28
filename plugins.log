@@ -1034,6 +1034,7 @@ com.github.madgnome -> h2spec:h2spec-maven-plugin = "h2spec-maven-plugin Maven M
 com.github.madprogger.metamodel -> metamodel:metamodel-maven-plugin = "metamodel - maven - plugin"
 com.github.mahendragohel -> graphql-schema-generator:graphql-schema-generator = "graphql-schema-generator Maven Plugin"
 com.github.maimas -> graphql-codegen:graphql-codegen = "GraphQL code generator plugin."
+com.github.manikmagar -> git-versioner:git-versioner-maven-plugin = "Git Versioner Maven Plugin"
 com.github.manjunathprabhakar -> cooker:cooker-maven-plugin = "Cooker Cucumber Maven Plugin"
 com.github.manouti -> jar-timestamp-normalize:jar-timestamp-normalize-maven-plugin = "jar-timestamp-normalize-maven-plugin Maven Plugin"
 com.github.marc-christian-schulze.structs4java -> structs4java:structs4java-maven-plugin = "${project.groupId}:${project.artifactId}"
