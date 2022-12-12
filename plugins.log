@@ -3502,6 +3502,7 @@ net.dongliu -> protoc:protoc-maven-plugin = "Maven Protoc Plugin for Protoc and 
 net.dongliu.prettypb -> protoc:maven-protoc-plugin = "Prettypb Maven Protoc Plugin"
 net.dryuf.maven.plugin -> dryuf-csv-localizer:dryuf-csv-localizer-maven-plugin = "dryuf-csv-localizer-maven-plugin"
 net.dryuf.maven.plugin -> dryuf-executable-jar:dryuf-executable-jar-maven-plugin = "dryuf-executable-jar-maven-plugin"
+net.dryuf.maven.plugin -> dryuf-jmh-review:dryuf-jmh-review-maven-plugin = "dryuf-jmh-review-maven-plugin"
 net.dubboclub.maven -> dubbom:dubbom-maven-plugin = "dubbom-maven-plugin"
 net.dynamic-tools -> jasmine:jasmine-maven-plugin = "jasmine-maven-plugin"
 net.dynamic-tools.javascript.maven -> javascript:javascript-maven-plugin = "Javascript Maven Plugin"
