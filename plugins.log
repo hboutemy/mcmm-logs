@@ -6279,6 +6279,7 @@ se.javasoft.development -> storage:storage = "Storage Generator ${project.versio
 se.jguru.nazgul.tools.plugin.checkstyle -> nazgul-tools-checkstyle:nazgul-tools-checkstyle-maven-plugin = "${project.artifactId}"
 se.jiderhamn -> promote:promote-maven-plugin = "promote-maven-plugin Maven Plugin"
 se.kth.castor -> depclean:depclean-maven-plugin = "depclean-maven-plugin"
+se.kth.castor -> deptrim:deptrim-maven-plugin = "DepTrim"
 se.kth.castor -> jdbl:jdbl-maven-plugin = "jdbl-maven-plugin"
 se.kth.castor -> sorald:sorald = "Sorald"
 se.natusoft.tools.codelicmgr -> CodeLicenseManager:CodeLicenseManager-maven-plugin = "CodeLicenseManager-maven-plugin"
