@@ -2445,7 +2445,7 @@ de.fenvariel -> gettext:gettext-maven-plugin = "Maven Gettext Plugin"
 de.flashpixx -> rrd-antlr4:rrd-antlr4 = "RRD-ANTLR4"
 de.fluxparticle -> jpackage:jpackage-maven-plugin = "jPackageMavenPlugin"
 de.garrus.maven -> minecraft-server:minecraft-server-plugin = "minecraft-server-launcher"
-de.gematik -> cucumber-test-combinations:cucumber-test-combinations-maven-plugin = "BDD Parameterizer Maven Plugin"
+de.gematik -> cucumber-test-combinations:cucumber-test-combinations-maven-plugin = "CuTest Combinations Maven Plugin"
 de.gematik.test -> tiger-aforeporter:tiger-aforeporter-plugin = 
 de.gematik.test -> tiger-bdd-driver-generator:tiger-bdd-driver-generator-maven-plugin = 
 de.gematik.test -> tiger:tiger-maven-plugin = 
@@ -5633,7 +5633,7 @@ org.objectweb.petals -> archetype-petals-jbi-service-engine:maven-archetype-peta
 org.objectweb.petals -> archetype-petals-jbi-service-unit:maven-archetype-petals-jbi-service-unit = "Petals archetype :: JBI service unit archetype"
 org.objectweb.proactive -> proactive:proactive-maven-plugin = "proactive-maven-plugin"
 org.obolibrary.robot -> robot:robot-maven-plugin = "robot-maven-plugin"
-org.odftoolkit -> schema2template:schema2template-maven-plugin = "XML Schema to Template Mapping Tool: Maven2 Plugin"
+org.odftoolkit -> schema2template:schema2template-maven-plugin = "XML Schema to Template Mapping Tool: Maven Plugin"
 org.okkam.owl -> jaob:jaob-maven-plugin = "JAOB maven plugin"
 org.ol4jsf -> jsf:maven-jsf-plugin = "maven-jsf-plugin Maven Mojo"
 org.olengski -> requirejs-optimize:requirejs-optimize-plugin = "requirejs-optimize-plugin"
