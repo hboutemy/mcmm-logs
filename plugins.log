@@ -1698,6 +1698,7 @@ com.jd.blockchain -> contract:contract-maven-plugin =
 com.jdotsoft -> svn-latest-revision:svn-latest-revision-maven-plugin = "SVN Latest Revision Maven Plugin"
 com.jelastic -> jelastic:jelastic-maven-plugin = "jelastic-maven-plugin"
 com.jeroensteenbeeke -> wicket-i18n:wicket-i18n-maven-plugin = "Wicket I18N Maven Plugin"
+com.jgazula -> easy-resources:easy-resources-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.jimetevenard.xml -> xsl-generator:maven-xsl-generator = "generateXSL Maven plugin"
 com.jimetevenard.xml -> relaxng-schema-simplifier:relaxng-schema-simplifier = "Maven RelaxNg Simplifier"
 com.jjlharrison -> coverage:coverage-maven-plugin = "Coverage Maven Plugin"
