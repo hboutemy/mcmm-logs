@@ -1280,6 +1280,7 @@ com.github.sviperll -> versioning:versioning-maven-plugin = "versioning-maven-pl
 com.github.swissquote -> zet:zet-maven-plugin = 
 com.github.sylvainlaurent.maven -> swagger-validator:swagger-validator-maven-plugin = "swagger-validator-maven-plugin Maven Plugin"
 com.github.sylvainlaurent.maven -> yaml-json-validator:yaml-json-validator-maven-plugin = "yaml-json-validator-maven-plugin Maven Plugin"
+com.github.szgabsz91 -> npm:npm-maven-plugin = "${project.artifactId}"
 com.github.talkwithkeyboard -> oss-upload:oss-upload-maven-plugin = "oss-upload-maven-plugin"
 com.github.taodong -> cloud:cloud-maven-plugin = "Cloud Development Maven Plugin"
 com.github.taodong -> ngcli:ngcli-maven-plugin = "Angular Client Maven Plugin"
