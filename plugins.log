@@ -78,6 +78,7 @@ br.com.objectos.db -> bootstrap:bootstrap-maven-plugin = "objectos :: db :: boot
 br.com.ripoli.xico -> release-properties:release-properties = "RELEASE Properties Plugin"
 br.com.softplan.security.zap -> zap:zap-maven-plugin = "ZAP Maven Plugin"
 br.gov.frameworkdemoiselle.component.behave -> demoiselle-behave-regression-report:demoiselle-behave-regression-report = "Demoiselle Behave Regression Report"
+br.puc-rio.tecgraf -> dependency-template:dependency-template-maven-plugin = "${project.groupId}:${project.artifactId}"
 ca.derekcormier.recipe -> recipe-generator:recipe-generator-maven-plugin = "Recipe Generator Maven Plugin"
 ca.grimoire.maven -> apacheds:apacheds-maven-plugin = "ApacheDS Maven Plugin"
 ca.mestevens.ios -> xcode:xcode-maven-plugin = "xcode-maven-plugin"
