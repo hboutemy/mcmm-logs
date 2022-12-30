@@ -3017,6 +3017,7 @@ io.github.kerwin612 -> findclass:maven-findclass-plugin = "Maven Find Class Plug
 io.github.kilmajster -> boot-docker:boot-docker = "boot-docker Maven plugin"
 io.github.kobylynskyi -> graphql-codegen:graphql-codegen-maven-plugin = "graphql-codegen-maven-plugin"
 io.github.kpeedosk -> concat:concat-maven-plugin = "Concat Maven Plugin"
+io.github.kpihlblad -> kumuluzee:kumuluzee-maven-plugin = "KumuluzEE Maven Plugin temporary fix"
 io.github.lanen -> jy-swagger:jy-swagger-maven-plugin = "Swagger Codegen Maven Plugin"
 io.github.lbellonda -> checklocale:checklocale = "Check Locale Maven Mojo"
 io.github.letitb -> selenium-test:selenium-test-maven-plugin = "${project.groupId}:${project.artifactId}"
