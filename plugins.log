@@ -4402,6 +4402,7 @@ org.atteo -> cachemanifest:cachemanifest-maven-plugin = "Cache manifest generato
 org.auxis.maven -> material:material-maven-plugin = "auxis - Material Maven Plugin"
 org.auxis.maven -> material:maven-material-plugin = "auxis - Maven Material Plugin"
 org.avaje -> ebeanenhancement:ebean-maven-enhancement-plugin = "ebean-maven-enhancement-plugin: Maven byte code enhancement tool"
+org.avaje -> openapi:openapi-maven-plugin = "openapi-maven-plugin"
 org.avaje.docker -> docker-run:docker-run-maven-plugin = 
 org.avaje.ebean -> codegen:codegen-maven-plugin = 
 org.avaje.ebean -> ebean:ebean-maven-plugin = "ebean-maven-plugin"
