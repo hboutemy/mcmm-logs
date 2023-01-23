@@ -121,6 +121,7 @@ ch.ledcom.maven -> sitespeed:sitespeed-maven-plugin = "SiteSpeed.io Maven plugin
 ch.mfrey.maven.plugin -> copy:copy-maven-plugin = "Copy Maven Plugin"
 ch.mfrey.maven.plugin -> file-rename:file-rename-maven-plugin = "File Rename Maven Plugin"
 ch.mobi.maven -> amw:amw-maven-plugin = "AMW Maven Plugin"
+ch.pricemeier -> unofficial-d2lang:unofficial-d2lang-maven-plugin = "Unofficial d2lang Maven plugin"
 ch.qos.cal10n.plugins -> cal10n:maven-cal10n-plugin = "Compiler assisted localization library (CAL10N) -  Maven"
 ch.racic.testing -> cm:cm-maven-plugin = "maven-cm-plugin Maven Mojo"
 ch.racic.testing -> cm:maven-cm-plugin = "maven-cm-plugin Maven Mojo"
