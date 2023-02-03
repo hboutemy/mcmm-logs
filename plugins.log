@@ -2817,6 +2817,7 @@ info.jerrinot -> rohypnol:rohypnol-maven =
 info.novatec.testit -> livingdoc:livingdoc-maven = "testIT | LivingDoc - Maven"
 info.plichta.maven.plugins -> git-changelog:git-changelog-maven-plugin = "${project.artifactId}"
 int.esa.ccsds.mo -> StubGenerator:StubGenerator = "ESA MO Stub Generator"
+int.esa.ccsds.mo -> api-generator:api-generator-maven-plugin = "ESA MO API Generator Maven Plugin"
 io.aalam.maven -> aalam:aalam-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.airlift.drift -> drift:drift-maven-plugin = 
 io.airlift.maven.plugins -> redlinerpm:redlinerpm-maven-plugin = "redlinerpm-maven-plugin"
