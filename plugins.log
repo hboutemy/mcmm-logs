@@ -636,6 +636,7 @@ com.fluxtion -> fluxtion:fluxtion-maven-plugin = "fluxtion :: maven plugin"
 com.fluxtion -> fluxtion-statemachine:fluxtion-statemachine-maven-plugin = "fluxtion.statemachine :: maven plugin"
 com.fluxtion -> fluxtionfx:fluxtionfx-maven-plugin = "fluxtionfx :: maven plugin"
 com.force -> force:maven-force-plugin = "maven-force-plugin"
+com.free-now.maven.plugins -> phrase:phrase-plugin = "phrase-plugin"
 com.freetmp -> xmbg:xmbg-maven-plugin = 
 com.g2forge.joint -> jo:jo-maven-plugin = 
 com.garethevans.plugin -> patch:patch-maven-plugin = "Patch Maven Plugin"
