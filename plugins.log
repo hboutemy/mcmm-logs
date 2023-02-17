@@ -3160,6 +3160,7 @@ io.github.yangshuo -> db-deployer:db-deployer-maven-plugin =
 io.github.yangziwen -> diff-jacoco:diff-jacoco-maven-plugin = "diff-jacoco-maven-plugin Maven Plugin"
 io.github.yas99en -> script:script-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.your-clock -> integracion-testlink-cucumber-serenity:integracion-testlink-cucumber-serenity = "io.github.your-clock:integracion-testlink-cucumber-serenity"
+io.github.yuenwk -> template-file:template-file-maven-plugin = "template-file-maven-plugin"
 io.github.yx91490 -> cli:cli-maven-plugin = 
 io.github.zalvari -> changed-resources:changed-resources-plugin = "${project.groupId}:${project.artifactId}"
 io.github.zardoz89 -> ftldoc:ftldoc-maven-plugin = "ftldoc - Maven Plugin"
