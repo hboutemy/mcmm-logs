@@ -974,6 +974,7 @@ com.github.jirkafm -> generic-artifactory-deploy:generic-artifactory-deploy-mave
 com.github.jjYBdx4IL.aop -> aspectj-ltw:aspectj-ltw-maven-plugin = "AspectJ Utils :: AspectJ LTW Maven Plugin"
 com.github.jknack -> amd4j:amd4j-maven-plugin = "amd4j-maven-plugin"
 com.github.jknack -> handlebars:handlebars-maven-plugin = "Handlebars.js maven plugin"
+com.github.jlgrock -> pom-check:pom-check-maven-plugin = "POM Check Maven Plugin"
 com.github.jlgrock.javascript-framework -> closure-compiler:closure-compiler-maven-plugin = "Closure Compiler Maven Plugin"
 com.github.jlgrock.javascript-framework -> closure-testing:closure-testing-maven-plugin = "Closure Testing Maven Plugin"
 com.github.jlgrock.javascript-framework -> closure-testing-report:closure-testing-report-maven-plugin = "Closure Testing Report Maven Plugin"
