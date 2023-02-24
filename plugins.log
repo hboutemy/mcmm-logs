@@ -1992,6 +1992,7 @@ com.pragmaticobjects.oo.equivalence -> equivalence:equivalence-maven-plugin = "e
 com.prime157.docker -> load-to-docker:load-to-docker-maven-plugin = "load-to-docker-maven-plugin"
 com.pro-crafting -> swagger:swagger-maven-plugin = "Swagger Maven Plugin"
 com.pro-crafting.maven -> yaml-properties:yaml-properties-maven-plugin = "Yaml Properties Maven Plugin"
+com.pro-crafting.tools -> jasperreports:jasperreports-plugin = "jasperreport-plugin"
 com.processpuzzle.fitnesse -> fitnesse-launcher:fitnesse-launcher-maven-plugin = "FitNesse Launcher Maven Plugin"
 com.processpuzzle.maven -> fitnesse-launcher:fitnesse-launcher-maven-plugin = "FitNesse Launcher Maven Plugin"
 com.projectdarkstar.maven.plugin -> sgs:sgs-maven-plugin = "Project Darkstar Maven Plugin"
