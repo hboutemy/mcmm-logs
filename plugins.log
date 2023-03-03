@@ -2051,6 +2051,7 @@ com.robertboothby.djenni -> djenni-source:djenni-source-maven-plugin = "djenni-s
 com.rodiontsev.maven.plugins -> build-info:build-info-maven-plugin = "Build Info Maven Plugin"
 com.rodiontsev.maven.plugins -> build-info:maven-build-info-plugin = "Maven Build Info Plugin"
 com.roncoo -> code-obfuscation:code-obfuscation = "${project.groupId}:${project.artifactId}"
+com.rudikershaw -> remove-attached-artifact:remove-attached-artifact-maven-plugin = "Remove Attached Artifact Maven Plugin"
 com.rudikershaw.gitbuildhook -> git-build-hook:git-build-hook-maven-plugin = "Git Build Hook Maven Plugin"
 com.ruleoftech -> markdown-page-generator:markdown-page-generator-plugin = "Markdown Page Generator Maven Plugin"
 com.rultor -> rultor:rultor-maven-plugin = "rultor-maven-plugin"
