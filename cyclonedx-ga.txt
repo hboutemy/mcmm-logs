@@ -1,0 +1,1 @@
+com/gitlab/haynes/libsass-maven-plugin
