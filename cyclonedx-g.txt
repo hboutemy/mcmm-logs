@@ -16,6 +16,9 @@ io/dropwizard/metrics
 io/dropwizard/metrics5
 io/dropwizard/modules
 net/intelie/pipes
+org/apache/arrow
+org/apache/arrow/gandiva
+org/apache/arrow/orc
 org/apache/bcel
 org/apache/commons
 org/apache/orc
