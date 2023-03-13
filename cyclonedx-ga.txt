@@ -878,9 +878,12 @@ org/opendaylight/odlparent/odl-apache-commons-codec
 org/opendaylight/odlparent/odl-apache-commons-lang3
 org/opendaylight/odlparent/odl-apache-commons-net
 org/opendaylight/odlparent/odl-apache-commons-text
+org/opendaylight/odlparent/odl-apache-spifly
+org/opendaylight/odlparent/odl-asm
 org/opendaylight/odlparent/odl-dropwizard-metrics
 org/opendaylight/odlparent/odl-gson
 org/opendaylight/odlparent/odl-guava
+org/opendaylight/odlparent/odl-jackson-2
 org/opendaylight/odlparent/odl-jackson-2.12
 org/opendaylight/odlparent/odl-jackson-2.13
 org/opendaylight/odlparent/odl-jakarta-activation-api
