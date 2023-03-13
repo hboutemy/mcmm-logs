@@ -4,6 +4,7 @@ com/hack23/sonar
 com/xenoamess
 commons-daemon
 dev/iabudiab
+dev/openfeature
 gov/nist/secauto/oscal
 io/dropwizard
 io/dropwizard/archetypes
