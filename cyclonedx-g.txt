@@ -21,6 +21,7 @@ org/apache/arrow/gandiva
 org/apache/arrow/orc
 org/apache/bcel
 org/apache/commons
+org/apache/hbase
 org/apache/orc
 org/apache/zookeeper
 org/cyclonedx
