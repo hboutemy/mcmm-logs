@@ -3,6 +3,15 @@ com/hack23/cia/cia-dist-cloudformation
 com/hack23/cia/cia-dist-deb
 com/hack23/cia/citizen-intelligence-agency
 com/hack23/sonar/sonar-cloudformation-plugin
+com/soartech/jsoar
+com/soartech/jsoar-core
+com/soartech/jsoar-debugger
+com/soartech/jsoar-demos
+com/soartech/jsoar-legilimens
+com/soartech/jsoar-performance-testing
+com/soartech/jsoar-repl
+com/soartech/jsoar-soarunit
+com/soartech/jsoar-tcl
 com/theoryinpractise/clojure-maven-plugin
 com/xenoamess/cyclonedx-maven-plugin
 commons-daemon/commons-daemon

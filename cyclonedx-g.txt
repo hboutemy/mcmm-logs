@@ -1,6 +1,7 @@
 com/gitlab/haynes
 com/hack23/cia
 com/hack23/sonar
+com/soartech
 com/theoryinpractise
 com/xenoamess
 commons-daemon
