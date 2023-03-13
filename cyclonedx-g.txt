@@ -4,5 +4,6 @@ com/hack23/sonar
 org/cyclonedx
 org/opendaylight/infrautils
 org/opendaylight/odlparent
+org/opendaylight/yangtools
 org/owasp/antisamy
 us/springett
