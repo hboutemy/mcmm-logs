@@ -4,6 +4,7 @@ com/hack23/sonar
 org/cyclonedx
 org/opendaylight/aaa
 org/opendaylight/aaa/web
+org/opendaylight/bgpcep
 org/opendaylight/controller
 org/opendaylight/controller/samples
 org/opendaylight/infrautils
