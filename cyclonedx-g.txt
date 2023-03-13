@@ -4,6 +4,8 @@ com/hack23/sonar
 com/xenoamess
 dev/iabudiab
 gov/nist/secauto/oscal
+io/dropwizard
+io/dropwizard/archetypes
 io/dropwizard/metrics
 net/intelie/pipes
 org/cyclonedx
