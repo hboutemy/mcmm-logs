@@ -3,6 +3,7 @@ com/hack23/cia/cia-dist-cloudformation
 com/hack23/cia/cia-dist-deb
 com/hack23/cia/citizen-intelligence-agency
 com/hack23/sonar/sonar-cloudformation-plugin
+com/theoryinpractise/clojure-maven-plugin
 com/xenoamess/cyclonedx-maven-plugin
 commons-daemon/commons-daemon
 commons-fileupload/commons-fileupload
