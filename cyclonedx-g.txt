@@ -9,6 +9,7 @@ io/dropwizard/archetypes
 io/dropwizard/metrics
 net/intelie/pipes
 org/cyclonedx
+org/openapitools/openapidiff
 org/opendaylight/aaa
 org/opendaylight/aaa/web
 org/opendaylight/bgpcep

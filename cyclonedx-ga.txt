@@ -76,6 +76,11 @@ net/intelie/pipes/pipes
 net/intelie/pipes/pipes-api
 org/cyclonedx/cyclonedx-core-java
 org/cyclonedx/cyclonedx-maven-plugin
+org/openapitools/openapidiff/openapi-diff-cli
+org/openapitools/openapidiff/openapi-diff-core
+org/openapitools/openapidiff/openapi-diff-maven
+org/openapitools/openapidiff/openapi-diff-maven-example
+org/openapitools/openapidiff/openapi-diff-parent
 org/opendaylight/aaa/aaa-artifacts
 org/opendaylight/aaa/aaa-authn-api
 org/opendaylight/aaa/aaa-cert
