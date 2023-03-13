@@ -2,4 +2,5 @@ com/hack23/cia/cia-dist-deb
 com/hack23/cia/citizen-intelligence-agency
 com/hack23/sonar/sonar-cloudformation-plugin
 org/spdx/cdx2spdx
+org/spdx/spdx-to-osv
 org/spdx/tools-java
