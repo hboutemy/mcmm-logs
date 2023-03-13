@@ -11,6 +11,7 @@ io/dropwizard/metrics5
 io/dropwizard/modules
 net/intelie/pipes
 org/cyclonedx
+org/eclipse/steady
 org/openapitools/openapidiff
 org/opendaylight/aaa
 org/opendaylight/aaa/web
