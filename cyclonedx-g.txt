@@ -1,6 +1,7 @@
 com/gitlab/haynes
 com/hack23/cia
 com/hack23/sonar
+com/xenoamess
 gov/nist/secauto/oscal
 net/intelie/pipes
 org/cyclonedx
