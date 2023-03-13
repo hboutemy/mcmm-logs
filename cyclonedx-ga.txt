@@ -126,8 +126,10 @@ io/dropwizard/metrics5/metrics-parent
 io/dropwizard/metrics5/metrics-servlet
 io/dropwizard/metrics5/metrics-servlets
 io/dropwizard/modules/dropwizard-jdbi
+io/dropwizard/modules/dropwizard-testing-junit4
 net/intelie/pipes/pipes
 net/intelie/pipes/pipes-api
+net/sigmalab/maven/plugins/jira-maven-plugin
 org/apache/arrow/arrow-algorithm
 org/apache/arrow/arrow-avro
 org/apache/arrow/arrow-c-data
@@ -165,6 +167,12 @@ org/apache/commons/commons-math4-neuralnet
 org/apache/commons/commons-math4-transform
 org/apache/commons/commons-parent
 org/apache/commons/commons-text
+org/apache/flink/flink-kubernetes-operator
+org/apache/flink/flink-kubernetes-operator-api
+org/apache/flink/flink-kubernetes-operator-autoscaler
+org/apache/flink/flink-kubernetes-operator-parent
+org/apache/flink/flink-kubernetes-standalone
+org/apache/flink/flink-kubernetes-webhook
 org/apache/hbase/hbase
 org/apache/hbase/hbase-annotations
 org/apache/hbase/hbase-archetype-builder
