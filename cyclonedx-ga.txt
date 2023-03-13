@@ -824,6 +824,7 @@ org/opendaylight/netconf/odl-restconf-nb
 org/opendaylight/netconf/odl-restconf-nb-bierman02
 org/opendaylight/netconf/odl-restconf-nb-rfc8040
 org/opendaylight/netconf/odl-yanglib
+org/opendaylight/netconf/restconf-api
 org/opendaylight/netconf/restconf-common
 org/opendaylight/netconf/restconf-common-models
 org/opendaylight/netconf/restconf-models
