@@ -119,6 +119,7 @@ io/dropwizard/modules/dropwizard-jdbi
 net/intelie/pipes/pipes
 net/intelie/pipes/pipes-api
 org/apache/bcel/bcel
+org/apache/commons/commons-compress
 org/apache/commons/commons-parent
 org/apache/commons/commons-text
 org/cyclonedx/cyclonedx-core-java
@@ -738,7 +739,9 @@ org/opendaylight/netconf/ietf-netconf-monitoring-extension
 org/opendaylight/netconf/ietf-netconf-nmda
 org/opendaylight/netconf/ietf-netconf-notifications
 org/opendaylight/netconf/ietf-netconf-with-defaults
+org/opendaylight/netconf/ietf-restconf
 org/opendaylight/netconf/ietf-restconf-monitoring
+org/opendaylight/netconf/ietf-yang-patch
 org/opendaylight/netconf/mdsal-netconf-connector
 org/opendaylight/netconf/mdsal-netconf-impl
 org/opendaylight/netconf/mdsal-netconf-monitoring
