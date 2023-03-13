@@ -924,7 +924,11 @@ org/owasp/antisamy/antisamy
 org/owasp/esapi/esapi
 org/sonarsource/dummy/sonar-dummy-oss-plugin
 us/springett/alpine
+us/springett/alpine-common
 us/springett/alpine-executable-war
+us/springett/alpine-infra
+us/springett/alpine-model
 us/springett/alpine-parent
+us/springett/alpine-server
 us/springett/nist-data-mirror
 us/springett/vulndb-data-mirror
