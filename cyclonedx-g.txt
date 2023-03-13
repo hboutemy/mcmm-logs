@@ -6,6 +6,8 @@ commons-daemon
 commons-net
 dev/iabudiab
 dev/openfeature
+dev/openfeature/contrib/hooks
+dev/openfeature/contrib/providers
 fr/marcwrobel
 gov/nist/secauto/oscal
 io/dropwizard
