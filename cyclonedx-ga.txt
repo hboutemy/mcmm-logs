@@ -742,6 +742,8 @@ org/opendaylight/netconf/ietf-netconf-with-defaults
 org/opendaylight/netconf/ietf-restconf
 org/opendaylight/netconf/ietf-restconf-monitoring
 org/opendaylight/netconf/ietf-yang-patch
+org/opendaylight/netconf/keystore-api
+org/opendaylight/netconf/keystore-none
 org/opendaylight/netconf/mdsal-netconf-connector
 org/opendaylight/netconf/mdsal-netconf-impl
 org/opendaylight/netconf/mdsal-netconf-monitoring
@@ -749,6 +751,7 @@ org/opendaylight/netconf/mdsal-netconf-notification
 org/opendaylight/netconf/mdsal-netconf-ssh
 org/opendaylight/netconf/mdsal-netconf-tcp
 org/opendaylight/netconf/mdsal-netconf-yang-library
+org/opendaylight/netconf/model/draft-ietf-netconf-crypto-types
 org/opendaylight/netconf/model/rfc5277
 org/opendaylight/netconf/model/rfc6022
 org/opendaylight/netconf/model/rfc6241
@@ -819,6 +822,10 @@ org/opendaylight/netconf/sal-rest-connector-config
 org/opendaylight/netconf/sal-rest-docgen
 org/opendaylight/netconf/shaded-exificient
 org/opendaylight/netconf/shaded-sshd
+org/opendaylight/netconf/transport-api
+org/opendaylight/netconf/transport-tcp
+org/opendaylight/netconf/truststore-api
+org/opendaylight/netconf/truststore-none
 org/opendaylight/netconf/websocket-client
 org/opendaylight/netconf/yanglib
 org/opendaylight/odlparent/abstract-feature-parent
