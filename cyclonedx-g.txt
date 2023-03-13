@@ -22,6 +22,7 @@ org/apache/arrow/orc
 org/apache/bcel
 org/apache/commons
 org/apache/orc
+org/apache/zookeeper
 org/cyclonedx
 org/eclipse/steady
 org/openapitools/openapidiff
