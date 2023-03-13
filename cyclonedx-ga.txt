@@ -1,1 +1,4 @@
 com/gitlab/haynes/libsass-maven-plugin
+us/springett/alpine
+us/springett/alpine-executable-war
+us/springett/alpine-parent
