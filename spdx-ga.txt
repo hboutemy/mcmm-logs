@@ -10,6 +10,7 @@ org/apache/commons/commons-math4-neuralnet
 org/apache/commons/commons-math4-transform
 org/apache/commons/commons-parent
 org/opendaylight
+org/opendaylight/transportpce
 org/spdx/cdx2spdx
 org/spdx/java-spdx-library
 org/spdx/licenseListPublisher
