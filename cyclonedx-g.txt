@@ -51,5 +51,6 @@ org/opendaylight/yangtools
 org/owasp/antisamy
 org/owasp/esapi
 org/sonarsource/dummy
+org/sonarsource/scanner/cli
 org/sonarsource/sonarqube
 us/springett

@@ -1168,6 +1168,7 @@ org/opendaylight/yangtools/yangtools-docs
 org/owasp/antisamy/antisamy
 org/owasp/esapi/esapi
 org/sonarsource/dummy/sonar-dummy-oss-plugin
+org/sonarsource/scanner/cli/sonar-scanner-cli
 org/sonarsource/sonarqube/sonar-application
 us/springett/alpine
 us/springett/alpine-common
