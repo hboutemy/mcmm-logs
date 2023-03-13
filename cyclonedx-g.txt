@@ -44,6 +44,7 @@ org/opendaylight/openflowplugin/openflowjava
 org/opendaylight/ovsdb
 org/opendaylight/serviceutils
 org/opendaylight/transportpce
+org/opendaylight/transportpce/models
 org/opendaylight/transportpce/ordmodels
 org/opendaylight/yangtools
 org/owasp/antisamy
