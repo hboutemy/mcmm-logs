@@ -1273,6 +1273,7 @@ org/owasp/esapi/esapi
 org/sonarsource/dummy/sonar-dummy-oss-plugin
 org/sonarsource/scanner/cli/sonar-scanner-cli
 org/sonarsource/sonarqube/sonar-application
+org/sonatype/nexus/plugins/nexus-blobstore-google-cloud
 org/xmlunit/xmlunit-assertj
 org/xmlunit/xmlunit-assertj3
 org/xmlunit/xmlunit-core
