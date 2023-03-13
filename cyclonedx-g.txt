@@ -3,6 +3,7 @@ com/hack23/cia
 com/hack23/sonar
 com/xenoamess
 commons-daemon
+commons-net
 dev/iabudiab
 dev/openfeature
 gov/nist/secauto/oscal
