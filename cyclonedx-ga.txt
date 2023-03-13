@@ -3,6 +3,7 @@ com/hack23/cia/cia-dist-cloudformation
 com/hack23/cia/cia-dist-deb
 com/hack23/cia/citizen-intelligence-agency
 com/hack23/sonar/sonar-cloudformation-plugin
+gov/nist/secauto/oscal/liboscal-java
 net/intelie/pipes/pipes
 net/intelie/pipes/pipes-api
 org/cyclonedx/cyclonedx-core-java
