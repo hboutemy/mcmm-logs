@@ -951,6 +951,7 @@ org/opendaylight/yangtools/yangtools-docs
 org/owasp/antisamy/antisamy
 org/owasp/esapi/esapi
 org/sonarsource/dummy/sonar-dummy-oss-plugin
+org/sonarsource/sonarqube/sonar-application
 us/springett/alpine
 us/springett/alpine-common
 us/springett/alpine-executable-war
