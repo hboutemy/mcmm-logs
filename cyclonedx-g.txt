@@ -10,6 +10,7 @@ io/dropwizard/metrics
 io/dropwizard/metrics5
 io/dropwizard/modules
 net/intelie/pipes
+org/apache/commons
 org/cyclonedx
 org/eclipse/steady
 org/openapitools/openapidiff
