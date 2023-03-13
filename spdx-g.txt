@@ -1,5 +1,6 @@
 com/hack23/cia
 com/hack23/sonar
+commons-fileupload
 org
 org/apache/commons
 org/opendaylight
