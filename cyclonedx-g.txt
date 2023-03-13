@@ -11,6 +11,7 @@ org/opendaylight/mdsal
 org/opendaylight/mdsal/binding/model/iana
 org/opendaylight/mdsal/binding/model/ietf
 org/opendaylight/mdsal/model
+org/opendaylight/netconf
 org/opendaylight/odlparent
 org/opendaylight/yangtools
 org/owasp/antisamy
