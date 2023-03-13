@@ -16,6 +16,7 @@ io/dropwizard/modules
 net/intelie/pipes
 org/apache/bcel
 org/apache/commons
+org/apache/orc
 org/cyclonedx
 org/eclipse/steady
 org/openapitools/openapidiff

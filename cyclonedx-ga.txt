@@ -133,6 +133,12 @@ org/apache/commons/commons-math4-neuralnet
 org/apache/commons/commons-math4-transform
 org/apache/commons/commons-parent
 org/apache/commons/commons-text
+org/apache/orc/orc
+org/apache/orc/orc-core
+org/apache/orc/orc-examples
+org/apache/orc/orc-mapreduce
+org/apache/orc/orc-shims
+org/apache/orc/orc-tools
 org/cyclonedx/cyclonedx-core-java
 org/cyclonedx/cyclonedx-maven-plugin
 org/eclipse/steady/cli-scanner
