@@ -10,6 +10,7 @@ dev/iabudiab/dependency-track-maven-plugin
 dev/openfeature/contrib/hooks/otel
 dev/openfeature/contrib/providers/flagd
 dev/openfeature/contrib/providers/flagsmith
+dev/openfeature/contrib/providers/go-feature-flag
 dev/openfeature/sdk
 fr/marcwrobel/jbanking
 gov/nist/secauto/oscal/liboscal-java
