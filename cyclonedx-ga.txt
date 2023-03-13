@@ -673,6 +673,7 @@ org/opendaylight/odlparent/odl-dropwizard-metrics
 org/opendaylight/odlparent/odl-gson
 org/opendaylight/odlparent/odl-guava
 org/opendaylight/odlparent/odl-jackson-2.12
+org/opendaylight/odlparent/odl-jackson-2.13
 org/opendaylight/odlparent/odl-jakarta-activation-api
 org/opendaylight/odlparent/odl-javassist-3
 org/opendaylight/odlparent/odl-jersey-2
