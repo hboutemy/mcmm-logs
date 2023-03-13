@@ -1,6 +1,13 @@
 com/hack23/cia/cia-dist-deb
 com/hack23/cia/citizen-intelligence-agency
 com/hack23/sonar/sonar-cloudformation-plugin
+org/apache/commons/commons-math-parent
+org/apache/commons/commons-math4-core
+org/apache/commons/commons-math4-legacy
+org/apache/commons/commons-math4-legacy-core
+org/apache/commons/commons-math4-legacy-exception
+org/apache/commons/commons-math4-neuralnet
+org/apache/commons/commons-math4-transform
 org/apache/commons/commons-parent
 org/opendaylight
 org/spdx/cdx2spdx
