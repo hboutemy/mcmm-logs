@@ -14,6 +14,7 @@ com/soartech/jsoar-soarunit
 com/soartech/jsoar-tcl
 com/theoryinpractise/clojure-maven-plugin
 com/xenoamess/cyclonedx-maven-plugin
+com/xenoamess/fork/org/apache/commons/commons-compress
 commons-daemon/commons-daemon
 commons-fileupload/commons-fileupload
 commons-net/commons-net
