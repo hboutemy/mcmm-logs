@@ -19,6 +19,7 @@ io/dropwizard/metrics5
 io/dropwizard/modules
 net/intelie/pipes
 net/sigmalab/maven/plugins
+nl/basjes/parse/useragent
 org/apache/arrow
 org/apache/arrow/gandiva
 org/apache/arrow/orc
