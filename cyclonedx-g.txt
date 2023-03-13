@@ -27,6 +27,7 @@ org/opendaylight/mdsal/binding/model/iana
 org/opendaylight/mdsal/binding/model/ietf
 org/opendaylight/mdsal/model
 org/opendaylight/netconf
+org/opendaylight/netconf/model
 org/opendaylight/odlparent
 org/opendaylight/openflowplugin
 org/opendaylight/openflowplugin/applications
