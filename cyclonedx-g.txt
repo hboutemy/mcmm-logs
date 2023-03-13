@@ -1,6 +1,7 @@
 com/gitlab/haynes
 com/hack23/cia
 com/hack23/sonar
+net/intelie/pipes
 org/cyclonedx
 org/opendaylight/aaa
 org/opendaylight/aaa/web
@@ -16,4 +17,5 @@ org/opendaylight/netconf
 org/opendaylight/odlparent
 org/opendaylight/yangtools
 org/owasp/antisamy
+org/sonarsource/dummy
 us/springett
