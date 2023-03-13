@@ -17,5 +17,6 @@ org/opendaylight/netconf
 org/opendaylight/odlparent
 org/opendaylight/yangtools
 org/owasp/antisamy
+org/owasp/esapi
 org/sonarsource/dummy
 us/springett
