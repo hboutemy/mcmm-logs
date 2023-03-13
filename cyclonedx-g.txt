@@ -7,6 +7,7 @@ gov/nist/secauto/oscal
 io/dropwizard
 io/dropwizard/archetypes
 io/dropwizard/metrics
+io/dropwizard/metrics5
 io/dropwizard/modules
 net/intelie/pipes
 org/cyclonedx
