@@ -6,6 +6,7 @@ com/hack23/sonar/sonar-cloudformation-plugin
 net/intelie/pipes/pipes
 net/intelie/pipes/pipes-api
 org/cyclonedx/cyclonedx-core-java
+org/cyclonedx/cyclonedx-maven-plugin
 org/opendaylight/aaa/aaa-artifacts
 org/opendaylight/aaa/aaa-authn-api
 org/opendaylight/aaa/aaa-cert
