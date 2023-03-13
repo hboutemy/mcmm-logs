@@ -1,3 +1,4 @@
 com/gitlab/haynes
 com/hack23/sonar
+org/cyclonedx
 us/springett

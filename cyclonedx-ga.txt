@@ -1,5 +1,6 @@
 com/gitlab/haynes/libsass-maven-plugin
 com/hack23/sonar/sonar-cloudformation-plugin
+org/cyclonedx/cyclonedx-core-java
 us/springett/alpine
 us/springett/alpine-executable-war
 us/springett/alpine-parent
