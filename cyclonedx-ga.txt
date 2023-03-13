@@ -117,6 +117,7 @@ io/dropwizard/metrics5/metrics-servlets
 io/dropwizard/modules/dropwizard-jdbi
 net/intelie/pipes/pipes
 net/intelie/pipes/pipes-api
+org/apache/bcel/bcel
 org/apache/commons/commons-parent
 org/apache/commons/commons-text
 org/cyclonedx/cyclonedx-core-java
