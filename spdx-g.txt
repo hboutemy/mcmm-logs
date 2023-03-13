@@ -1,1 +1,3 @@
+com/hack23/cia
+com/hack23/sonar
 org/spdx
