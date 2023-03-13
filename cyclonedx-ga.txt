@@ -8,4 +8,5 @@ org/owasp/antisamy/antisamy
 us/springett/alpine
 us/springett/alpine-executable-war
 us/springett/alpine-parent
+us/springett/nist-data-mirror
 us/springett/vulndb-data-mirror
