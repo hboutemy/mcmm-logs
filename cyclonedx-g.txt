@@ -54,6 +54,7 @@ org/owasp/esapi
 org/sonarsource/dummy
 org/sonarsource/scanner/cli
 org/sonarsource/sonarqube
+org/xmlunit
 ru/vyarus
 ru/vyarus/guicey
 us/springett
