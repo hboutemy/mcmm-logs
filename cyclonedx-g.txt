@@ -2,7 +2,15 @@ com/gitlab/haynes
 com/hack23/cia
 com/hack23/sonar
 org/cyclonedx
+org/opendaylight/aaa
+org/opendaylight/aaa/web
+org/opendaylight/controller
+org/opendaylight/controller/samples
 org/opendaylight/infrautils
+org/opendaylight/mdsal
+org/opendaylight/mdsal/binding/model/iana
+org/opendaylight/mdsal/binding/model/ietf
+org/opendaylight/mdsal/model
 org/opendaylight/odlparent
 org/opendaylight/yangtools
 org/owasp/antisamy
