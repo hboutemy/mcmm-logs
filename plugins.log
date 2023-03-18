@@ -95,6 +95,7 @@ ca.weblite -> mirah:maven-mirah-plugin = "maven-mirah-plugin"
 ca.wheatstalk -> openapi-diff:openapi-diff-maven-plugin = "OpenAPI Diff Maven Plugin"
 cat.inspiracio -> orange:orange-maven-plugin = "Orange Servlet Maven Plugin"
 cc.catalysts -> swagger-jaxrs:swagger-jaxrs-maven-plugin = "Swagger JAX-RS maven plugin"
+cc.shacocloud -> mirage:mirage-maven-plugin = "mirage maven 打包插件"
 cd.connect.common -> connect-gen-code-scanner:connect-gen-code-scanner = "connect-gen-code-scanner"
 cd.connect.maven -> merge-yaml:merge-yaml-plugin = "merge-yaml-plugin"
 cd.connect.pipeline -> docker-manifest-collectosaur:docker-manifest-collectosaur-plugin = "docker-manifest-collectosaur-plugin"
@@ -4110,6 +4111,7 @@ org.apache.directory.server -> apacheds-testcase-archetype:apacheds-testcase-arc
 org.apache.directory.studio -> studio:maven-studio-plugin = "Apache Directory Studio Plugin"
 org.apache.directory.studio -> studio:studio-maven-plugin = "Apache Directory Studio Plugin"
 org.apache.drill.tools -> drill-fmpp:drill-fmpp-maven-plugin = "Drill : Tools : Freemarker codegen"
+org.apache.dubbo -> dubbo:dubbo-maven-plugin = 
 org.apache.dubbo -> dubbo-native:dubbo-native-plugin = 
 org.apache.empire-db -> empire-db:empire-db-maven-plugin = "Apache Empire-db Maven Plugin"
 org.apache.excalibur.fortress.meta -> fortress:maven-fortress-plugin = "Maven Fortress Plugin"
