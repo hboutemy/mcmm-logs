@@ -2035,6 +2035,7 @@ com.randomnoun.build -> http-request:http-request-maven-plugin = "http-request-m
 com.randomnoun.maven.plugins -> java-to-graphviz:java-to-graphviz-maven-plugin = "Java to Graphviz maven plugin"
 com.randomnoun.maven.plugins -> swagger-combine:swagger-combine-maven-plugin = "Swagger combiner maven plugin"
 com.randomnoun.maven.plugins -> vmaint:vmaint-maven-plugin = "Bamboo label maven plugin"
+com.randomnoun.maven.plugins -> yaml-combine:yaml-combine-maven-plugin = "YAML combiner maven plugin"
 com.rapiddweller -> benerator:benerator-maven-plugin = "rapiddweller-benerator maven plugin"
 com.rationaleemotions.maven.plugins -> simplese-codegenerator:simplese-codegenerator = "simplese-codegenerator Maven Plugin"
 com.ravellosystems.plugins -> ravello:ravellosystems-maven-plugin = "ravellosystems-maven-plugin"
