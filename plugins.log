@@ -786,6 +786,7 @@ com.github.codeframes -> hal-tooling-api-doc:hal-tooling-api-doc-maven-plugin = 
 com.github.codemonstur -> graalhelper:graalhelper = "${project.groupId}:${project.artifactId}"
 com.github.codemonstur -> htmlcompiler:htmlcompiler = "${project.groupId}:${project.artifactId}"
 com.github.codemonstur -> jooq-preprocessor:jooq-preprocessor = "${project.groupId}:${project.artifactId}"
+com.github.codemonstur -> licensescan:licensescan-maven-plugin = "licensescan-maven-plugin"
 com.github.codemonstur -> slate4j:slate4j = "${project.groupId}:${project.artifactId}"
 com.github.coderepositories -> jcommonss-mbg:jcommons-plugins-mbg = "jcommons-plugins-mbg Maven Plugin"
 com.github.coderepositories -> mbg:mbg-maven-plugin = "mbg-maven-plugin Maven Plugin"
@@ -3004,6 +3005,7 @@ io.github.cjoseflores -> spring-boot-config-doc:spring-boot-config-doc-maven-plu
 io.github.cleydyr -> dart-sass:dart-sass-maven-plugin = "dart-sass-maven-plugin Maven Mojo"
 io.github.codemumbler.maven.plugin -> mdbconverter:mdbconverter = "mdbconverter Maven Mojo"
 io.github.coffeelibs -> jextract:jextract-maven-plugin = "jextract Maven Plugin"
+io.github.coolbeevip -> flyway:flyway-maven-plugin = "${project.artifactId}"
 io.github.coolbeevip -> license:license-maven-plugin = 
 io.github.crizzis -> codenarc:codenarc-maven-plugin = "CodeNarc Maven Plugin"
 io.github.cse1110 -> andy:andy-maven-plugin = "Andy Maven Plugin"
