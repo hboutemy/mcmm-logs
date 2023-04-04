@@ -3138,6 +3138,7 @@ io.github.olivierlemasle.maven -> plaintext:plaintext-maven-plugin = "plaintext-
 io.github.open-accelerators -> mercury:mercury-maven-plugin = "Mercury Maven Plugin"
 io.github.parj -> createk8syaml:createk8syaml-maven-plugin = "createk8syaml-maven-plugin"
 io.github.patrickdoc -> auto-cluster:auto-cluster-maven-plugin = "Auto Cluster Maven Plugin"
+io.github.patxibocos -> poetimizely:poetimizely-maven-plugin = "poetimizely"
 io.github.paulushcgcj -> dependbl:dependbl-maven-plugin = "Dependency management plugin for Maven"
 io.github.pepperkit -> git-hooks:git-hooks-maven-plugin = "Git Hooks Maven Plugin"
 io.github.phantomstr.testing-tools -> swagger-to-retrofit:swagger-to-retrofit = "swagger-to-retrofit"
