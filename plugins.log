@@ -819,6 +819,7 @@ com.github.davidmoten -> decrypt:decrypt-maven-plugin =
 com.github.davidmoten -> git-properties:git-properties-maven-plugin = "${project.artifactId}"
 com.github.davidmoten -> jax:jax-maven-plugin = 
 com.github.davidmoten -> odata-client:odata-client-maven-plugin = "${project.artifactId}"
+com.github.davidmoten -> openapi-codegen:openapi-codegen-maven-plugin = "${project.artifactId}"
 com.github.davidmoten -> plantuml:plantuml-maven-plugin = "${project.artifactId}"
 com.github.davidmoten -> ppk:ppk-maven-plugin = 
 com.github.davidmoten -> state-machine:state-machine-maven-plugin = "${project.artifactId}"
