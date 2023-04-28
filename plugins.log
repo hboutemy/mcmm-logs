@@ -2151,6 +2151,7 @@ com.smartnews -> jpa-entity-generator:maven-jpa-entity-generator-plugin = "maven
 com.smoope.utils -> j2objc:j2objc-maven-plugin = "Maven plugin for J2ObjC library"
 com.smyachenkov -> run-detekt:run-detekt-maven-plugin = "run-detekt maven plugin"
 com.sngular -> scs-multiapi:scs-multiapi-maven-plugin = "AsyncApi - OpenApi Code Generator Maven Plugin"
+com.snowflake -> snowflake:snowflake-maven-plugin = "Snowflake Maven Plugin"
 com.socialbakers -> easy-config:easy-config-maven-plugin = "Easy Config Maven Plugin"
 com.socialbakers.easy-config -> easy-config:easy-config-maven-plugin = "Easy Config - Maven Plugin"
 com.societegenerale.commons -> arch-unit:arch-unit-maven-plugin = "ArchUnit Maven plugin"
