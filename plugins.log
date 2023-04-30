@@ -3113,6 +3113,7 @@ io.github.lorenzobettini.edelta -> edelta:edelta-maven-plugin =
 io.github.lucacirillo2738 -> json:json = "LucasJson"
 io.github.luiinge -> docsite:docsite-maven-plugin = "Docsite Maven Plugin"
 io.github.luversof -> filecopy:filecopy-maven-plugin = "${project.groupId}:${project.artifactId}"
+io.github.lwlee2608 -> proto-java:proto-java-plugin = "Proto Java Plugin"
 io.github.lwq497539389 -> changelog:changelog-maven-plugin = "changelog-maven-plugin Maven Plugin"
 io.github.lyrric -> mybatis-generator:mybatis-generator-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.makingthematrix -> scala-suffix:scala-suffix-maven-plugin = "Scala SufFix Maven Plugin"
