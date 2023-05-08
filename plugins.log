@@ -3184,6 +3184,7 @@ io.github.schereradi -> vault:vault-maven-plugin = "Vault Maven Plugin"
 io.github.selcukes -> selcukes-report:selcukes-report-plugin = "Selcukes Maven Plugin for Cucumber Reports"
 io.github.shomeier -> openapi-util:openapi-util-maven-plugin = "openapi-util-maven-plugin Maven Plugin"
 io.github.silidos -> graphqxl:graphqxl-maven-plugin = "${project.artifactId}"
+io.github.sivalabs -> jooq-testcontainers-codegen:jooq-testcontainers-codegen-maven-plugin = "jooq-testcontainers-codegen-maven-plugin"
 io.github.solven-eu.cleanthat -> cleanthat:cleanthat-maven-plugin = 
 io.github.spafka -> feign-generator:feign-generator-plugin = "feign-generator-plugin"
 io.github.stackinfo -> stackinfo:stackinfo-maven-plugin = "StackInfo Maven Plugin"
