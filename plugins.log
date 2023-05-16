@@ -2226,6 +2226,7 @@ com.sun.tools.jxc.maven2 -> jaxb-schemagen:maven-jaxb-schemagen-plugin = "Maven 
 com.sun.tools.xjc.maven2 -> jaxb:maven-jaxb-plugin = "Maven JAXB Plugin"
 com.sun.wts.tools.ant -> package-rename-task:package-rename-task = "Package rename ant task"
 com.sun.xml.ws -> jaxws:jaxws-maven-plugin = "JAX-WS RI Maven Plugin"
+com.swan-pro -> code:code-maven-plugin = "maven-swan-code-plugin Maven Plugin"
 com.symphony.oss.canon -> canon:canon-maven-plugin = 
 com.symphony.oss.canon -> canon2:canon2-maven-plugin = 
 com.syncleus.maven.plugins -> mongodb:maven-mongodb-plugin = "maven-mongodb-plugin"
