@@ -2699,6 +2699,7 @@ dev.blanke.maven.plugins -> jextract:jextract-maven-plugin = "jextract Maven plu
 dev.cookiecode -> protobuf:protobuf-maven-plugin = "Maven Protocol Buffers Plugin"
 dev.crashteam.maven.plugins -> pg-embedded:pg-embedded-plugin = "pg-embedded-plugin Maven Mojo"
 dev.dimlight -> shellcheck:shellcheck-maven-plugin = "${project.groupId}:${project.artifactId}"
+dev.dsf -> dsf-tools-documentation-generator:dsf-tools-documentation-generator = 
 dev.fastball -> fastball:fastball-maven-plugin = "fastball-maven-plugin"
 dev.fuzzit.javafuzz -> javafuzz:javafuzz-maven-plugin = "javafuzz-maven-plugin Maven Mojo"
 dev.galasa -> galasa:galasa-maven-plugin = "Galasa Maven Plugin"
