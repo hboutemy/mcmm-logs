@@ -2329,7 +2329,7 @@ com.uyoqu.framework -> starter:maven-plugin-starter = "maven-plugins-starter"
 com.vaadin -> flow-code-generator:flow-code-generator = "Flow code generator"
 com.vaadin -> flow-dev-bundle:flow-dev-bundle-plugin = "Flow devBundle Maven plugin"
 com.vaadin -> flow:flow-maven-plugin = "Flow Maven plugin"
-com.vaadin -> vaadin:vaadin-maven-plugin = "Vaadin Maven plugin"
+com.vaadin -> vaadin:vaadin-maven-plugin = "Vaadin Plug-in for Maven"
 com.vaadin.wscdn -> wscdn:wscdn-maven-plugin = 
 com.vast -> scala-lifecycle:scala-lifecycle-plugin = "Scala Build Lifecycle Maven plugin"
 com.vast -> scala-surefire:scala-surefire-maven-plugin = "Scala Surefire Plugin"
@@ -6563,6 +6563,7 @@ us.hornerscorners.mojo -> eclipselink-ddlgeneration:eclipselink-ddlgeneration-ma
 us.hornerscorners.mojo -> glassfish-inplace:glassfish-inplace-maven-plugin = "glassfish-inplace-maven-plugin"
 us.springett -> uuid-generator:maven-uuid-generator = "Maven UUID Generator"
 us.vchain -> jvcn:jvcn-maven-plugin = "JVCN Maven Plugin"
+video.bug -> rename-file:rename-file-maven-plugin = "Rename multiple files - Maven Plugin"
 wiki.primo.generator -> primo-generator-mock-test:primo-generator-mock-test-maven-plugin = 
 wiki.primo.generator -> primo-generator-mybatis-plus:primo-generator-mybatis-plus-maven-plugin = 
 win.hupubao -> dockit:dockit-maven-plugin = "dockit"
