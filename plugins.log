@@ -2206,6 +2206,8 @@ com.squeakysand.jsp -> jsptld:jsptld-maven-plugin = "${project.groupId} - ${proj
 com.srcclr -> srcclr:srcclr-maven-plugin = "SourceClear - Maven Plugin"
 com.sshtools -> codeswitcher:codeswitcher-maven-plugin = "Codeswitcher Pre-processor."
 com.sshtools -> pf4jgenerator:pf4j-plugin-generator = "PF4J Plugin Generator"
+com.sshtools -> updatesxmlmerger:updatesxmlmerger-maven-plugin = "Updates XML Merger - Merge the Install4J updates.xml file from several
+		builds into a single file."
 com.stalary -> easydoc:easydoc-maven-plugin = "easydoc-maven-plugin"
 com.starlingbank -> reactor:reactor-maven-plugin = "Maven Reactor Plugin"
 com.stateforge.statebuilder.maven -> statebuilder:maven-statebuilder-plugin = "StateBuilder Maven plugin"
