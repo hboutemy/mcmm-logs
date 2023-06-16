@@ -2753,6 +2753,7 @@ edu.illinois.cs -> idflakies:idflakies-maven-plugin = "iDFlakies Maven Plugin"
 edu.illinois.cs -> testrunner:testrunner-maven-plugin = 
 edu.iu.ul.maven.plugins -> fileweaver:fileweaver = "FileWeaver"
 edu.minneapolis -> ygi:ygi-maven-plugin = "Your Grade Is..."
+edu.neu.ccs.prl.meringue -> meringue:meringue-maven-plugin = "Meringue-maven-plugin"
 edu.stanford.protege -> webprotege:webprotege-maven-plugin = "webprotege-maven-plugin"
 edu.umass.cs.iesl -> jflex-scala:jflex-scala-maven-plugin = "JFlex Scala Maven Plugin"
 edu.umass.cs.iesl -> jflex-testsuite:jflex-testsuite-maven-plugin = "JFlex Test Suite Maven Plugin"
