@@ -5,6 +5,7 @@ com/soartech
 com/theoryinpractise
 com/xenoamess
 com/xenoamess/fork/org/apache/commons
+commons-codec
 commons-daemon
 commons-fileupload
 commons-net

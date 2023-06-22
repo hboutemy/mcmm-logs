@@ -1,6 +1,7 @@
 com/hack23/cia
 com/hack23/sonar
 com/xenoamess/fork/org/apache/commons
+commons-codec
 commons-fileupload
 org
 org/apache/commons
