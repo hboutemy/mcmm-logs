@@ -22,6 +22,9 @@ io/dropwizard/metrics5
 io/dropwizard/modules
 net/intelie/pipes
 net/sigmalab/maven/plugins
+nl/basjes/codeowners
+nl/basjes/gitignore
+nl/basjes/maven/enforcer/codeowners
 nl/basjes/parse/useragent
 org/apache/arrow
 org/apache/arrow/gandiva
@@ -31,6 +34,7 @@ org/apache/commons
 org/apache/flink
 org/apache/hbase
 org/apache/orc
+org/apache/spark
 org/apache/zookeeper
 org/cyclonedx
 org/eclipse/steady
