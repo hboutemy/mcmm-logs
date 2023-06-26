@@ -138,6 +138,8 @@ io/dropwizard/metrics5/metrics-servlet
 io/dropwizard/metrics5/metrics-servlets
 io/dropwizard/modules/dropwizard-jdbi
 io/dropwizard/modules/dropwizard-testing-junit4
+me/dmmax/akka/akka-spawn-protocol
+me/dmmax/akka/akka-spawn-protocol-guice
 net/intelie/pipes/pipes
 net/intelie/pipes/pipes-api
 net/sigmalab/maven/plugins/jira-maven-plugin
