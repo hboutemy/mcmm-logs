@@ -33,7 +33,10 @@ org/apache/arrow/orc
 org/apache/bcel
 org/apache/commons
 org/apache/flink
+org/apache/hadoop
+org/apache/hadoop/applications/mawo
 org/apache/hbase
+org/apache/maven
 org/apache/orc
 org/apache/spark
 org/apache/zookeeper

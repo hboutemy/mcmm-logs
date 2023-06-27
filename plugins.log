@@ -5142,7 +5142,8 @@ org.factcast -> factcast-schema-registry:factcast-schema-registry-maven-plugin =
 org.fakereplace -> fakereplace:fakereplace-maven-plugin = "Fakereplace Maven Plugin"
 org.faktorips -> faktorips:faktorips-maven-plugin = "Faktor-IPS Build Maven Plugin"
 org.faktorips -> faktorips-validation:faktorips-validation-maven-plugin = "Faktor-IPS Validation Maven Plugin"
-org.faktorips.runtimejpa -> productdata-jpa-deployment:productdata-jpa-deployment-maven-plugin = "Maven Plugin to deploy Faktor-IPS Product Data with the remote Deployment API"
+org.faktorips.runtimejpa -> productdata-jpa-deployment:productdata-jpa-deployment-maven-plugin = "Maven Plugin to deploy Faktor-IPS Product Data with the remote
+        Deployment API"
 org.fastnate -> fastnate:fastnate-maven-plugin = "Fastnate Maven Plugin"
 org.fcrepo -> jetty-console:jetty-console-maven-plugin = "Jetty-Console Maven Plugin"
 org.fedoraproject.xmvn -> xmvn-mojo:xmvn-mojo = "XMvn MOJO"
