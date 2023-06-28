@@ -42,6 +42,7 @@ org/apache/spark
 org/apache/zookeeper
 org/cyclonedx
 org/eclipse/steady
+org/jreleaser
 org/openapitools/openapidiff
 org/opendaylight/aaa
 org/opendaylight/aaa/web
