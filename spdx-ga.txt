@@ -4,6 +4,7 @@ com/hack23/sonar/sonar-cloudformation-plugin
 com/xenoamess/fork/org/apache/commons/commons-compress
 commons-codec/commons-codec
 commons-fileupload/commons-fileupload
+org/apache/commons/commons-build-plugin
 org/apache/commons/commons-crypto
 org/apache/commons/commons-csv
 org/apache/commons/commons-math-parent
@@ -14,6 +15,7 @@ org/apache/commons/commons-math4-legacy-exception
 org/apache/commons/commons-math4-neuralnet
 org/apache/commons/commons-math4-transform
 org/apache/commons/commons-parent
+org/apache/commons/commons-release-plugin
 org/opendaylight
 org/opendaylight/transportpce
 org/spdx/cdx2spdx
