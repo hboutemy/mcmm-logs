@@ -210,6 +210,7 @@ org/apache/flink/flink-kubernetes-operator-autoscaler
 org/apache/flink/flink-kubernetes-operator-parent
 org/apache/flink/flink-kubernetes-standalone
 org/apache/flink/flink-kubernetes-webhook
+org/apache/fulcrum/fulcrum-intake
 org/apache/hadoop/applications/mawo/hadoop-yarn-applications-mawo
 org/apache/hadoop/applications/mawo/hadoop-yarn-applications-mawo-core
 org/apache/hadoop/hadoop-aliyun
