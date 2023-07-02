@@ -1,0 +1,6 @@
+dev/openfeature/contrib/hooks/otel/1.0.3/otel-1.0.3-cyclonedx.json
+dev/openfeature/contrib/hooks/otel/1.0.3/otel-1.0.3-cyclonedx.xml
+dev/openfeature/contrib/providers/flagd/0.5.10/flagd-0.5.10-cyclonedx.json
+dev/openfeature/contrib/providers/flagd/0.5.10/flagd-0.5.10-cyclonedx.xml
+dev/openfeature/contrib/providers/flagsmith/0.0.5/flagsmith-0.0.5-cyclonedx.xml
+dev/openfeature/contrib/providers/flagsmith/0.0.5/flagsmith-0.0.5-cyclonedx.json
