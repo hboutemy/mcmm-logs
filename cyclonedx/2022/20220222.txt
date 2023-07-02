@@ -1,0 +1,2 @@
+org/cyclonedx/cyclonedx-core-java/7.0.0/cyclonedx-core-java-7.0.0-cyclonedx.json
+org/cyclonedx/cyclonedx-core-java/7.0.0/cyclonedx-core-java-7.0.0-cyclonedx.xml
