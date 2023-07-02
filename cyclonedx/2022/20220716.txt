@@ -1,0 +1,2 @@
+org/owasp/antisamy/antisamy/1.7.0/antisamy-1.7.0-cyclonedx.json
+org/owasp/antisamy/antisamy/1.7.0/antisamy-1.7.0-cyclonedx.xml
