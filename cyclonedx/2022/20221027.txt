@@ -1,0 +1,2 @@
+gov/nist/secauto/oscal/liboscal-java/1.0.4.3/liboscal-java-1.0.4.3-cyclonedx.xml
+gov/nist/secauto/oscal/liboscal-java/1.0.4.3/liboscal-java-1.0.4.3-cyclonedx.json
