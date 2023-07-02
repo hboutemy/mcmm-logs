@@ -1164,4 +1164,5 @@ us.springett:alpine-model
 us.springett:alpine-parent
 us.springett:alpine-server
 us.springett:nist-data-mirror
+us.springett:owasp-risk-rating-calculator
 us.springett:vulndb-data-mirror
