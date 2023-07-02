@@ -1,0 +1,2 @@
+us/springett/nist-data-mirror/1.5.2/nist-data-mirror-1.5.2-cyclonedx.xml
+us/springett/nist-data-mirror/1.5.2/nist-data-mirror-1.5.2-cyclonedx.json
