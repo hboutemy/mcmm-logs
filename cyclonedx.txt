@@ -41,6 +41,7 @@ io.dropwizard.metrics:metrics-logback
 io.dropwizard.metrics:metrics-parent
 io.dropwizard.metrics:metrics-servlet
 io.dropwizard.metrics:metrics-servlets
+io.dropwizard.modules:dropwizard-jdbi
 io.dropwizard:dropwizard-assets
 io.dropwizard:dropwizard-auth
 io.dropwizard:dropwizard-bom
