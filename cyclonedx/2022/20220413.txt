@@ -1,0 +1,9 @@
+net/intelie/pipes/pipes-api/0.25.3/pipes-api-0.25.3-cyclonedx.json
+net/intelie/pipes/pipes-api/0.25.3/pipes-api-0.25.3-cyclonedx.xml
+net/intelie/pipes/pipes/0.25.3/pipes-0.25.3-cyclonedx.json
+net/intelie/pipes/pipes/0.25.3/pipes-0.25.3-cyclonedx.xml
+org/sonarsource/dummy/sonar-dummy-oss-plugin/2.5.0.264/sonar-dummy-oss-plugin-2.5.0.264-cyclonedx.json
+org/sonarsource/dummy/sonar-dummy-oss-plugin/2.5.0.266/sonar-dummy-oss-plugin-2.5.0.266-cyclonedx.json
+org/sonarsource/dummy/sonar-dummy-oss-plugin/2.5.0.267/sonar-dummy-oss-plugin-2.5.0.267-cyclonedx.json
+org/sonarsource/dummy/sonar-dummy-oss-plugin/2.5.0.269/sonar-dummy-oss-plugin-2.5.0.269-cyclonedx.json
+org/sonarsource/dummy/sonar-dummy-oss-plugin/2.5.0.271/sonar-dummy-oss-plugin-2.5.0.271-cyclonedx.json
