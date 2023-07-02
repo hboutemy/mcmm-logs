@@ -94,6 +94,7 @@ io.dropwizard.metrics:metrics-parent
 io.dropwizard.metrics:metrics-servlet
 io.dropwizard.metrics:metrics-servlets
 io.dropwizard.modules:dropwizard-jdbi
+io.dropwizard.modules:dropwizard-testing-junit4
 io.dropwizard:dropwizard-assets
 io.dropwizard:dropwizard-auth
 io.dropwizard:dropwizard-bom
@@ -128,6 +129,7 @@ io.dropwizard:dropwizard-views-freemarker
 io.dropwizard:dropwizard-views-mustache
 net.intelie.pipes:pipes
 net.intelie.pipes:pipes-api
+net.sigmalab.maven.plugins:jira-maven-plugin
 org.apache.arrow.gandiva:arrow-gandiva
 org.apache.arrow.orc:arrow-orc
 org.apache.arrow:arrow-algorithm
@@ -165,6 +167,12 @@ org.apache.commons:commons-math4-neuralnet
 org.apache.commons:commons-math4-transform
 org.apache.commons:commons-parent
 org.apache.commons:commons-text
+org.apache.flink:flink-kubernetes-operator
+org.apache.flink:flink-kubernetes-operator-api
+org.apache.flink:flink-kubernetes-operator-autoscaler
+org.apache.flink:flink-kubernetes-operator-parent
+org.apache.flink:flink-kubernetes-standalone
+org.apache.flink:flink-kubernetes-webhook
 org.apache.hbase:hbase
 org.apache.hbase:hbase-annotations
 org.apache.hbase:hbase-archetype-builder

@@ -1,0 +1,16 @@
+io/dropwizard/modules/dropwizard-testing-junit4/3.0.0-beta.4/dropwizard-testing-junit4-3.0.0-beta.4-cyclonedx.json
+io/dropwizard/modules/dropwizard-testing-junit4/3.0.0-beta.4/dropwizard-testing-junit4-3.0.0-beta.4-cyclonedx.xml
+net/sigmalab/maven/plugins/jira-maven-plugin/0.9.6/jira-maven-plugin-0.9.6-cyclonedx.json
+net/sigmalab/maven/plugins/jira-maven-plugin/0.9.6/jira-maven-plugin-0.9.6-cyclonedx.xml
+org/apache/flink/flink-kubernetes-operator-api/1.4.0/flink-kubernetes-operator-api-1.4.0-cyclonedx.json
+org/apache/flink/flink-kubernetes-operator-api/1.4.0/flink-kubernetes-operator-api-1.4.0-cyclonedx.xml
+org/apache/flink/flink-kubernetes-operator-autoscaler/1.4.0/flink-kubernetes-operator-autoscaler-1.4.0-cyclonedx.json
+org/apache/flink/flink-kubernetes-operator-autoscaler/1.4.0/flink-kubernetes-operator-autoscaler-1.4.0-cyclonedx.xml
+org/apache/flink/flink-kubernetes-operator-parent/1.4.0/flink-kubernetes-operator-parent-1.4.0-cyclonedx.json
+org/apache/flink/flink-kubernetes-operator-parent/1.4.0/flink-kubernetes-operator-parent-1.4.0-cyclonedx.xml
+org/apache/flink/flink-kubernetes-operator/1.4.0/flink-kubernetes-operator-1.4.0-cyclonedx.xml
+org/apache/flink/flink-kubernetes-operator/1.4.0/flink-kubernetes-operator-1.4.0-cyclonedx.json
+org/apache/flink/flink-kubernetes-standalone/1.4.0/flink-kubernetes-standalone-1.4.0-cyclonedx.json
+org/apache/flink/flink-kubernetes-standalone/1.4.0/flink-kubernetes-standalone-1.4.0-cyclonedx.xml
+org/apache/flink/flink-kubernetes-webhook/1.4.0/flink-kubernetes-webhook-1.4.0-cyclonedx.xml
+org/apache/flink/flink-kubernetes-webhook/1.4.0/flink-kubernetes-webhook-1.4.0-cyclonedx.json
