@@ -4,6 +4,7 @@ com.hack23.cia:cia-dist-deb
 com.hack23.cia:citizen-intelligence-agency
 com.hack23.sonar:sonar-cloudformation-plugin
 org.cyclonedx:cyclonedx-core-java
+org.owasp.antisamy:antisamy
 us.springett:alpine
 us.springett:alpine-executable-war
 us.springett:alpine-parent
