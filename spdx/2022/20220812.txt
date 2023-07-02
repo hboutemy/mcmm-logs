@@ -1,0 +1,4 @@
+org/spdx/spdx-jackson-store/1.1.0/spdx-jackson-store-1.1.0.spdx.rdf.xml
+org/spdx/spdx-rdf-store/1.1.0/spdx-rdf-store-1.1.0.spdx.rdf.xml
+org/spdx/spdx-spreadsheet-store/1.1.0/spdx-spreadsheet-store-1.1.0.spdx.rdf.xml
+org/spdx/spdx-tagvalue-store/1.1.0/spdx-tagvalue-store-1.1.0.spdx.rdf.xml

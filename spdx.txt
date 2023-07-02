@@ -4,3 +4,6 @@ com.hack23.sonar:sonar-cloudformation-plugin
 org.spdx:java-spdx-library
 org.spdx:licenseListPublisher
 org.spdx:spdx-jackson-store
+org.spdx:spdx-rdf-store
+org.spdx:spdx-spreadsheet-store
+org.spdx:spdx-tagvalue-store
