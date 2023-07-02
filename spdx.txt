@@ -1,1 +1,2 @@
+org.spdx:licenseListPublisher
 org.spdx:spdx-jackson-store
