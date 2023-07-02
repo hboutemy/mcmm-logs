@@ -3,6 +3,7 @@ com.hack23.cia:citizen-intelligence-agency
 com.hack23.sonar:sonar-cloudformation-plugin
 commons-daemon:commons-daemon
 org.apache.bcel:bcel
+org.apache.commons:commons-compress
 org.apache.commons:commons-parent
 org.apache.commons:commons-rng-client-api
 org.apache.commons:commons-rng-core
