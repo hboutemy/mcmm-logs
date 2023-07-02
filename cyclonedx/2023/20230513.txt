@@ -1,0 +1,10 @@
+me/dmmax/akka/akka-spawn-protocol-guice/1.0/akka-spawn-protocol-guice-1.0-cyclonedx.json
+me/dmmax/akka/akka-spawn-protocol-guice/1.0/akka-spawn-protocol-guice-1.0-cyclonedx.xml
+me/dmmax/akka/akka-spawn-protocol/1.0/akka-spawn-protocol-1.0-cyclonedx.json
+me/dmmax/akka/akka-spawn-protocol/1.0/akka-spawn-protocol-1.0-cyclonedx.xml
+tech/pantheon/triemap/bom/1.3.1/bom-1.3.1-cyclonedx.json
+tech/pantheon/triemap/bom/1.3.1/bom-1.3.1-cyclonedx.xml
+tech/pantheon/triemap/pt-triemap/1.3.1/pt-triemap-1.3.1-cyclonedx.json
+tech/pantheon/triemap/pt-triemap/1.3.1/pt-triemap-1.3.1-cyclonedx.xml
+tech/pantheon/triemap/triemap/1.3.1/triemap-1.3.1-cyclonedx.xml
+tech/pantheon/triemap/triemap/1.3.1/triemap-1.3.1-cyclonedx.json
