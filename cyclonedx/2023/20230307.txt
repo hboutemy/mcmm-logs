@@ -1,0 +1,2 @@
+org/sonatype/nexus/plugins/nexus-blobstore-google-cloud/0.48.0/nexus-blobstore-google-cloud-0.48.0-cyclonedx.json
+org/sonatype/nexus/plugins/nexus-blobstore-google-cloud/0.48.0/nexus-blobstore-google-cloud-0.48.0-cyclonedx.xml
