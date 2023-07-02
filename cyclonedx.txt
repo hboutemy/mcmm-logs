@@ -1170,6 +1170,17 @@ org.owasp.esapi:esapi
 org.sonarsource.dummy:sonar-dummy-oss-plugin
 org.sonarsource.scanner.cli:sonar-scanner-cli
 org.sonarsource.sonarqube:sonar-application
+ru.vyarus.guicey:guicey-admin-rest
+ru.vyarus.guicey:guicey-eventbus
+ru.vyarus.guicey:guicey-jdbi
+ru.vyarus.guicey:guicey-jdbi3
+ru.vyarus.guicey:guicey-lifecycle-annotations
+ru.vyarus.guicey:guicey-server-pages
+ru.vyarus.guicey:guicey-spa
+ru.vyarus.guicey:guicey-test-junit4
+ru.vyarus.guicey:guicey-test-spock
+ru.vyarus.guicey:guicey-validation
+ru.vyarus:dropwizard-guicey
 us.springett:alpine
 us.springett:alpine-common
 us.springett:alpine-executable-war
