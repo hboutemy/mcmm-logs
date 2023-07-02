@@ -187,6 +187,7 @@ org.apache.arrow:flight-sql
 org.apache.arrow:flight-sql-jdbc-driver
 org.apache.bcel:bcel
 org.apache.commons:commons-compress
+org.apache.commons:commons-configuration2
 org.apache.commons:commons-crypto
 org.apache.commons:commons-csv
 org.apache.commons:commons-jexl3
