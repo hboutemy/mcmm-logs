@@ -1,0 +1,2 @@
+org/apache/bcel/bcel/6.7.0/bcel-6.7.0-cyclonedx.json
+org/apache/bcel/bcel/6.7.0/bcel-6.7.0-cyclonedx.xml
