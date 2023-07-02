@@ -33,3 +33,4 @@ org.spdx:spdx-tagvalue-store
 org.spdx:spdx-to-osv
 org.spdx:spdx-tools
 org.spdx:tools-java
+org:opendaylight

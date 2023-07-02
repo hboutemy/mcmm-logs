@@ -1,0 +1,4 @@
+org/opendaylight/bgpcep/bgpcep-sbom-0.17.7.spdx
+org/opendaylight/controller/controller-sbom-6.0.3.spdx
+org/opendaylight/infrautils/infrautils-sbom-5.0.0.spdx
+org/opendaylight/mdsal/mdsal-sbom-10.0.3.spdx
