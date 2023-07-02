@@ -6,6 +6,7 @@ com.hack23.sonar:sonar-cloudformation-plugin
 com.xenoamess:cyclonedx-maven-plugin
 commons-daemon:commons-daemon
 dev.iabudiab:dependency-track-maven-plugin
+dev.openfeature:sdk
 gov.nist.secauto.oscal:liboscal-java
 io.dropwizard.archetypes:dropwizard-archetypes
 io.dropwizard.archetypes:java-simple
