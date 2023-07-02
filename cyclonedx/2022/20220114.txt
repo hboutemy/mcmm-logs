@@ -1,0 +1,6 @@
+us/springett/alpine/1.10.3/alpine-1.10.3-cyclonedx.xml
+us/springett/alpine/1.10.3/alpine-1.10.3-cyclonedx.json
+us/springett/alpine-executable-war/1.2.11/alpine-executable-war-1.2.11-cyclonedx.xml
+us/springett/alpine-executable-war/1.2.11/alpine-executable-war-1.2.11-cyclonedx.json
+us/springett/alpine-parent/1.10.3/alpine-parent-1.10.3-cyclonedx.json
+us/springett/alpine-parent/1.10.3/alpine-parent-1.10.3-cyclonedx.xml
