@@ -1,0 +1,6 @@
+dev/openfeature/contrib/providers/flagsmith/0.0.4/flagsmith-0.0.4-cyclonedx.xml
+dev/openfeature/contrib/providers/flagsmith/0.0.4/flagsmith-0.0.4-cyclonedx.json
+dev/openfeature/contrib/providers/go-feature-flag/0.2.3/go-feature-flag-0.2.3-cyclonedx.json
+dev/openfeature/contrib/providers/go-feature-flag/0.2.3/go-feature-flag-0.2.3-cyclonedx.xml
+gov/nist/secauto/oscal/liboscal-java/1.0.4.4/liboscal-java-1.0.4.4-cyclonedx.json
+gov/nist/secauto/oscal/liboscal-java/1.0.4.4/liboscal-java-1.0.4.4-cyclonedx.xml
