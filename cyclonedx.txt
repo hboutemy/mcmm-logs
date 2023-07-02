@@ -34,6 +34,7 @@ io.dropwizard.metrics5:metrics-jdbi
 io.dropwizard.metrics5:metrics-jdbi3
 io.dropwizard.metrics5:metrics-jersey2
 io.dropwizard.metrics5:metrics-jersey3
+io.dropwizard.metrics5:metrics-jersey31
 io.dropwizard.metrics5:metrics-jetty10
 io.dropwizard.metrics5:metrics-jetty11
 io.dropwizard.metrics5:metrics-jetty9
@@ -71,6 +72,7 @@ io.dropwizard.metrics:metrics-jdbi
 io.dropwizard.metrics:metrics-jdbi3
 io.dropwizard.metrics:metrics-jersey2
 io.dropwizard.metrics:metrics-jersey3
+io.dropwizard.metrics:metrics-jersey31
 io.dropwizard.metrics:metrics-jetty10
 io.dropwizard.metrics:metrics-jetty11
 io.dropwizard.metrics:metrics-jetty9
@@ -121,6 +123,13 @@ net.intelie.pipes:pipes
 net.intelie.pipes:pipes-api
 org.apache.bcel:bcel
 org.apache.commons:commons-compress
+org.apache.commons:commons-math-parent
+org.apache.commons:commons-math4-core
+org.apache.commons:commons-math4-legacy
+org.apache.commons:commons-math4-legacy-core
+org.apache.commons:commons-math4-legacy-exception
+org.apache.commons:commons-math4-neuralnet
+org.apache.commons:commons-math4-transform
 org.apache.commons:commons-parent
 org.apache.commons:commons-text
 org.cyclonedx:cyclonedx-core-java
@@ -1031,6 +1040,7 @@ org.opendaylight.serviceutils:tools-api
 org.opendaylight.serviceutils:tools-testutils
 org.opendaylight.serviceutils:upgrade
 org.opendaylight.transportpce.models:features-aggregator
+org.opendaylight.transportpce.models:features-transportpce-models
 org.opendaylight.transportpce.models:odl-openroadm-devices
 org.opendaylight.transportpce.models:odl-openroadm-models
 org.opendaylight.transportpce.models:odl-tapi-models
@@ -1044,11 +1054,13 @@ org.opendaylight.transportpce.models:openroadm-device-7.1.0
 org.opendaylight.transportpce.models:openroadm-network-10.1.0
 org.opendaylight.transportpce.models:openroadm-service-10.1.0
 org.opendaylight.transportpce.models:tapi-2.1.1
+org.opendaylight.transportpce.models:transportpce-models-artifacts
 org.opendaylight.transportpce.ordmodels:transportpce-ordmodels-common
 org.opendaylight.transportpce.ordmodels:transportpce-ordmodels-device
 org.opendaylight.transportpce.ordmodels:transportpce-ordmodels-network
 org.opendaylight.transportpce.ordmodels:transportpce-ordmodels-service
 org.opendaylight.transportpce:features-aggregator
+org.opendaylight.transportpce:features-transportpce
 org.opendaylight.transportpce:odl-transportpce
 org.opendaylight.transportpce:odl-transportpce-dmaap-client
 org.opendaylight.transportpce:odl-transportpce-inventory
@@ -1057,6 +1069,7 @@ org.opendaylight.transportpce:odl-transportpce-swagger
 org.opendaylight.transportpce:odl-transportpce-tapi
 org.opendaylight.transportpce:test-common
 org.opendaylight.transportpce:transportpce-api
+org.opendaylight.transportpce:transportpce-artifacts
 org.opendaylight.transportpce:transportpce-common
 org.opendaylight.transportpce:transportpce-dmaap-client
 org.opendaylight.transportpce:transportpce-inventory
