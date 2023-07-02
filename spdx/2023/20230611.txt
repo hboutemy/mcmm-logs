@@ -1,0 +1,5 @@
+org/opendaylight/aaa/aaa-sbom-0.17.10.spdx
+org/opendaylight/controller/controller-sbom-7.0.8.spdx
+org/opendaylight/mdsal/mdsal-sbom-11.0.11.spdx
+org/opendaylight/odlparent/odlparent-sbom-13.0.1.spdx
+org/opendaylight/yangtools/yangtools-sbom-10.0.8.spdx
