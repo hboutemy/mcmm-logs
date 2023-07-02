@@ -1,7 +1,13 @@
 com.hack23.cia:cia-dist-deb
 com.hack23.cia:citizen-intelligence-agency
 com.hack23.sonar:sonar-cloudformation-plugin
+commons-daemon:commons-daemon
 org.apache.commons:commons-parent
+org.apache.commons:commons-rng-client-api
+org.apache.commons:commons-rng-core
+org.apache.commons:commons-rng-parent
+org.apache.commons:commons-rng-sampling
+org.apache.commons:commons-rng-simple
 org.apache.commons:commons-text
 org.spdx:cdx2spdx
 org.spdx:java-spdx-library
