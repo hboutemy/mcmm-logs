@@ -1,0 +1,2 @@
+org/spdx/cdx2spdx/0.1.4/cdx2spdx-0.1.4.spdx.json
+org/spdx/spdx-to-osv/0.1.2/spdx-to-osv-0.1.2.spdx.json
