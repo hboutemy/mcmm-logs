@@ -1,0 +1,5 @@
+org/spdx/java-spdx-library/1.1.2/java-spdx-library-1.1.2.spdx.json
+org/spdx/spdx-jackson-store/1.1.2/spdx-jackson-store-1.1.2.spdx.rdf.xml
+org/spdx/spdx-rdf-store/1.1.2/spdx-rdf-store-1.1.2.spdx.rdf.xml
+org/spdx/spdx-spreadsheet-store/1.1.2/spdx-spreadsheet-store-1.1.2.spdx.rdf.xml
+org/spdx/spdx-tagvalue-store/1.1.2/spdx-tagvalue-store-1.1.2.spdx.rdf.xml
