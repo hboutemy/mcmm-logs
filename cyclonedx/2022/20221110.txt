@@ -1,0 +1,4 @@
+org/cyclonedx/cyclonedx-core-java/7.2.1/cyclonedx-core-java-7.2.1-cyclonedx.xml
+org/cyclonedx/cyclonedx-core-java/7.2.1/cyclonedx-core-java-7.2.1-cyclonedx.json
+org/cyclonedx/cyclonedx-maven-plugin/2.7.3/cyclonedx-maven-plugin-2.7.3-cyclonedx.json
+org/cyclonedx/cyclonedx-maven-plugin/2.7.3/cyclonedx-maven-plugin-2.7.3-cyclonedx.xml
