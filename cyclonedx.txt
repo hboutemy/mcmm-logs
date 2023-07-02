@@ -540,6 +540,7 @@ org.apache.flink:flink-walkthrough-common
 org.apache.flink:flink-walkthrough-datastream-java
 org.apache.flink:flink-walkthroughs
 org.apache.flink:flink-yarn
+org.apache.fulcrum:fulcrum-intake
 org.apache.hadoop.applications.mawo:hadoop-yarn-applications-mawo
 org.apache.hadoop.applications.mawo:hadoop-yarn-applications-mawo-core
 org.apache.hadoop:hadoop-aliyun

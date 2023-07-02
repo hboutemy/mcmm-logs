@@ -1,0 +1,2 @@
+org/apache/fulcrum/fulcrum-intake/3.0.0/fulcrum-intake-3.0.0-cyclonedx.json
+org/apache/fulcrum/fulcrum-intake/3.0.0/fulcrum-intake-3.0.0-cyclonedx.xml
