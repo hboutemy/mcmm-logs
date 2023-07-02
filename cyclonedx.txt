@@ -550,6 +550,7 @@ org.opendaylight.lispflowmapping:odl-lispflowmapping-mappingservice-shell
 org.opendaylight.lispflowmapping:odl-lispflowmapping-models
 org.opendaylight.lispflowmapping:odl-lispflowmapping-msmr
 org.opendaylight.lispflowmapping:odl-lispflowmapping-southbound
+org.opendaylight.mdsal.binding.model.iana:iana-crypt-hash
 org.opendaylight.mdsal.binding.model.iana:iana-hardware
 org.opendaylight.mdsal.binding.model.iana:iana-if-type
 org.opendaylight.mdsal.binding.model.iana:iana-routing-types
@@ -617,6 +618,7 @@ org.opendaylight.mdsal.model:odl-mdsal-model-rfc7223
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc7224
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc7224-20180703
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc7277
+org.opendaylight.mdsal.model:odl-mdsal-model-rfc7317-iana-crypt-hash
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc7895
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc7952
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc8040
@@ -660,6 +662,7 @@ org.opendaylight.mdsal:mdsal-binding-dom-codec-osgi
 org.opendaylight.mdsal:mdsal-binding-dom-codec-spi
 org.opendaylight.mdsal:mdsal-binding-generator
 org.opendaylight.mdsal:mdsal-binding-java-api-generator
+org.opendaylight.mdsal:mdsal-binding-loader
 org.opendaylight.mdsal:mdsal-binding-model-api
 org.opendaylight.mdsal:mdsal-binding-model-ri
 org.opendaylight.mdsal:mdsal-binding-runtime-api
