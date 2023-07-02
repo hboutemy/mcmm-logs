@@ -152,6 +152,7 @@ net.sourceforge.pmd:pmd-ant
 net.sourceforge.pmd:pmd-apex
 net.sourceforge.pmd:pmd-apex-jorje
 net.sourceforge.pmd:pmd-cli
+net.sourceforge.pmd:pmd-coco
 net.sourceforge.pmd:pmd-core
 net.sourceforge.pmd:pmd-cpp
 net.sourceforge.pmd:pmd-cs
