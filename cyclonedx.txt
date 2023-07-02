@@ -938,6 +938,7 @@ org.jreleaser:jreleaser
 org.jreleaser:jreleaser-ant-tasks
 org.jreleaser:jreleaser-artifactory-java-sdk
 org.jreleaser:jreleaser-azure-java-sdk
+org.jreleaser:jreleaser-bluesky-java-sdk
 org.jreleaser:jreleaser-codeberg-java-sdk
 org.jreleaser:jreleaser-command-java-sdk
 org.jreleaser:jreleaser-config-json
