@@ -687,6 +687,7 @@ org.opendaylight.yangtools:yang-xpath-impl
 org.opendaylight.yangtools:yangtools-artifacts
 org.opendaylight.yangtools:yangtools-docs
 org.owasp.antisamy:antisamy
+org.owasp.esapi:esapi
 org.sonarsource.dummy:sonar-dummy-oss-plugin
 us.springett:alpine
 us.springett:alpine-executable-war
