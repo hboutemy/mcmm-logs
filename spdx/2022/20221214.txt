@@ -1,0 +1,1 @@
+com/hack23/sonar/sonar-cloudformation-plugin/3.0.11/sonar-cloudformation-plugin-3.0.11.spdx.json
