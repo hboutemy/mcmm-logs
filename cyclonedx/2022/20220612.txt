@@ -1,0 +1,2 @@
+dev/iabudiab/dependency-track-maven-plugin/2.0.0/dependency-track-maven-plugin-2.0.0-cyclonedx.xml
+dev/iabudiab/dependency-track-maven-plugin/2.0.0/dependency-track-maven-plugin-2.0.0-cyclonedx.json
