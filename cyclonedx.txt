@@ -1645,3 +1645,12 @@ us.springett:alpine-server
 us.springett:nist-data-mirror
 us.springett:owasp-risk-rating-calculator
 us.springett:vulndb-data-mirror
+world.convex:convex
+world.convex:convex-benchmarks
+world.convex:convex-cli
+world.convex:convex-core
+world.convex:convex-gui
+world.convex:convex-java
+world.convex:convex-peer
+world.convex:convex-restapi
+world.convex:convex-sodium
