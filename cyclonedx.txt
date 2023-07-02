@@ -21,6 +21,7 @@ commons-fileupload:commons-fileupload
 commons-net:commons-net
 dev.iabudiab:dependency-track-maven-plugin
 dev.openfeature.contrib.hooks:otel
+dev.openfeature.contrib.providers:env-var
 dev.openfeature.contrib.providers:flagd
 dev.openfeature.contrib.providers:flagsmith
 dev.openfeature.contrib.providers:go-feature-flag
@@ -188,6 +189,7 @@ org.apache.bcel:bcel
 org.apache.commons:commons-compress
 org.apache.commons:commons-crypto
 org.apache.commons:commons-csv
+org.apache.commons:commons-jexl3
 org.apache.commons:commons-math-parent
 org.apache.commons:commons-math4-core
 org.apache.commons:commons-math4-legacy
