@@ -140,6 +140,7 @@ io.dropwizard:dropwizard-views-mustache
 net.intelie.pipes:pipes
 net.intelie.pipes:pipes-api
 net.sigmalab.maven.plugins:jira-maven-plugin
+nl.basjes.maven.release:conventional-commits-version-policy
 nl.basjes.parse.useragent:yauaa
 nl.basjes.parse.useragent:yauaa-beam
 nl.basjes.parse.useragent:yauaa-beam-sql

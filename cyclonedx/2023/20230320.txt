@@ -1,0 +1,2 @@
+nl/basjes/maven/release/conventional-commits-version-policy/1.0.0/conventional-commits-version-policy-1.0.0-cyclonedx.xml
+nl/basjes/maven/release/conventional-commits-version-policy/1.0.0/conventional-commits-version-policy-1.0.0-cyclonedx.json
