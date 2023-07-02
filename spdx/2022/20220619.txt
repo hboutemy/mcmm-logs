@@ -1,0 +1,1 @@
+com/hack23/sonar/sonar-cloudformation-plugin/3.0.6/sonar-cloudformation-plugin-3.0.6.spdx.rdf.xml
