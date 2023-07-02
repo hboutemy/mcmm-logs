@@ -995,6 +995,8 @@ org.opendaylight.yangtools:rfc8528-model-api
 org.opendaylight.yangtools:rfc8528-parser-support
 org.opendaylight.yangtools:rfc8639-model-api
 org.opendaylight.yangtools:rfc8639-parser-support
+org.opendaylight.yangtools:rfc8819-model-api
+org.opendaylight.yangtools:rfc8819-parser-support
 org.opendaylight.yangtools:testutils
 org.opendaylight.yangtools:util
 org.opendaylight.yangtools:yang-common
