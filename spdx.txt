@@ -5,6 +5,7 @@ commons-daemon:commons-daemon
 commons-net:commons-net
 org.apache.bcel:bcel
 org.apache.commons:commons-compress
+org.apache.commons:commons-crypto
 org.apache.commons:commons-math-parent
 org.apache.commons:commons-math4-core
 org.apache.commons:commons-math4-legacy

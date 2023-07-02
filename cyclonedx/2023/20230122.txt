@@ -1,0 +1,14 @@
+org/apache/commons/commons-crypto/1.2.0/commons-crypto-1.2.0-cyclonedx.json
+org/apache/commons/commons-crypto/1.2.0/commons-crypto-1.2.0-cyclonedx.xml
+org/apache/orc/orc-core/1.7.8/orc-core-1.7.8-cyclonedx.xml
+org/apache/orc/orc-core/1.7.8/orc-core-1.7.8-cyclonedx.json
+org/apache/orc/orc-examples/1.7.8/orc-examples-1.7.8-cyclonedx.json
+org/apache/orc/orc-examples/1.7.8/orc-examples-1.7.8-cyclonedx.xml
+org/apache/orc/orc-mapreduce/1.7.8/orc-mapreduce-1.7.8-cyclonedx.json
+org/apache/orc/orc-mapreduce/1.7.8/orc-mapreduce-1.7.8-cyclonedx.xml
+org/apache/orc/orc-shims/1.7.8/orc-shims-1.7.8-cyclonedx.json
+org/apache/orc/orc-shims/1.7.8/orc-shims-1.7.8-cyclonedx.xml
+org/apache/orc/orc-tools/1.7.8/orc-tools-1.7.8-cyclonedx.json
+org/apache/orc/orc-tools/1.7.8/orc-tools-1.7.8-cyclonedx.xml
+org/apache/orc/orc/1.7.8/orc-1.7.8-cyclonedx.json
+org/apache/orc/orc/1.7.8/orc-1.7.8-cyclonedx.xml
