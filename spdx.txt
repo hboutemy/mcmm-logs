@@ -1,2 +1,4 @@
+com.hack23.cia:cia-dist-deb
+com.hack23.cia:citizen-intelligence-agency
 org.spdx:licenseListPublisher
 org.spdx:spdx-jackson-store
