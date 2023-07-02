@@ -1,0 +1,6 @@
+com/hack23/cia/cia-dist-cloudformation/2022.9.10/cia-dist-cloudformation-2022.9.10-cyclonedx.xml
+com/hack23/cia/cia-dist-cloudformation/2022.9.10/cia-dist-cloudformation-2022.9.10-cyclonedx.json
+com/hack23/cia/cia-dist-deb/2022.9.10/cia-dist-deb-2022.9.10-cyclonedx.xml
+com/hack23/cia/cia-dist-deb/2022.9.10/cia-dist-deb-2022.9.10-cyclonedx.json
+com/hack23/cia/citizen-intelligence-agency/2022.9.10/citizen-intelligence-agency-2022.9.10-cyclonedx.xml
+com/hack23/cia/citizen-intelligence-agency/2022.9.10/citizen-intelligence-agency-2022.9.10-cyclonedx.json
