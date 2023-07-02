@@ -1,0 +1,4 @@
+net/intelie/pipes/pipes-api/0.25.4/pipes-api-0.25.4-cyclonedx.json
+net/intelie/pipes/pipes-api/0.25.4/pipes-api-0.25.4-cyclonedx.xml
+net/intelie/pipes/pipes/0.25.4/pipes-0.25.4-cyclonedx.xml
+net/intelie/pipes/pipes/0.25.4/pipes-0.25.4-cyclonedx.json
