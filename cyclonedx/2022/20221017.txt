@@ -1,0 +1,1 @@
+org/sonarsource/sonarqube/sonar-application/9.7.0.61563/sonar-application-9.7.0.61563-cyclonedx.json
