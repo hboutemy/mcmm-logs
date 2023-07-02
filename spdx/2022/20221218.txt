@@ -1,0 +1,2 @@
+org/opendaylight/integration/distribution-sbom-16.3.0.spdx
+org/opendaylight/transportpce/transportpce-sbom-5.2.0.spdx
