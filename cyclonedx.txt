@@ -287,6 +287,7 @@ org.apache.arrow:flight-core
 org.apache.arrow:flight-grpc
 org.apache.arrow:flight-integration-tests
 org.apache.arrow:flight-sql
+org.apache.arrow:flight-sql-jdbc-core
 org.apache.arrow:flight-sql-jdbc-driver
 org.apache.bcel:bcel
 org.apache.commons:commons-compress
