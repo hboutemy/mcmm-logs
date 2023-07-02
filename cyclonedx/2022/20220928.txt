@@ -1,0 +1,2 @@
+org/apache/commons/commons-text/1.10.0/commons-text-1.10.0-cyclonedx.xml
+org/apache/commons/commons-text/1.10.0/commons-text-1.10.0-cyclonedx.json
