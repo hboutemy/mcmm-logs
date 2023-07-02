@@ -7,6 +7,9 @@ com.xenoamess:cyclonedx-maven-plugin
 commons-daemon:commons-daemon
 commons-net:commons-net
 dev.iabudiab:dependency-track-maven-plugin
+dev.openfeature.contrib.hooks:otel
+dev.openfeature.contrib.providers:flagd
+dev.openfeature.contrib.providers:flagsmith
 dev.openfeature:sdk
 fr.marcwrobel:jbanking
 gov.nist.secauto.oscal:liboscal-java
