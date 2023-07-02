@@ -1,0 +1,6 @@
+org/opendaylight/aaa/aaa-sbom-0.17.7.spdx
+org/opendaylight/bgpcep/bgpcep-sbom-0.19.3.spdx
+org/opendaylight/netconf/netconf-sbom-3.0.9.spdx
+org/opendaylight/netconf/netconf-sbom-5.0.4.spdx
+org/opendaylight/transportpce/models/models-sbom-18.0.1.spdx
+org/opendaylight/transportpce/transportpce-sbom-7.0.1.spdx
