@@ -1,0 +1,2 @@
+io/dropwizard/modules/dropwizard-jdbi/2.1.4/dropwizard-jdbi-2.1.4-cyclonedx.json
+io/dropwizard/modules/dropwizard-jdbi/2.1.4/dropwizard-jdbi-2.1.4-cyclonedx.xml
