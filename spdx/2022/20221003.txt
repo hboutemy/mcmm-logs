@@ -1,0 +1,2 @@
+org/spdx/spdx-jackson-store/1.1.1/spdx-jackson-store-1.1.1.spdx.rdf.xml
+org/spdx/spdx-rdf-store/1.1.1/spdx-rdf-store-1.1.1.spdx.rdf.xml
