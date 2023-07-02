@@ -1,0 +1,6 @@
+org/cyclonedx/cyclonedx-core-java/7.2.0/cyclonedx-core-java-7.2.0-cyclonedx.xml
+org/cyclonedx/cyclonedx-core-java/7.2.0/cyclonedx-core-java-7.2.0-cyclonedx.json
+org/cyclonedx/cyclonedx-maven-plugin/2.7.1/cyclonedx-maven-plugin-2.7.1-cyclonedx.json
+org/cyclonedx/cyclonedx-maven-plugin/2.7.1/cyclonedx-maven-plugin-2.7.1-cyclonedx.xml
+org/owasp/esapi/esapi/2.5.0.0/esapi-2.5.0.0-cyclonedx.json
+org/owasp/esapi/esapi/2.5.0.0/esapi-2.5.0.0-cyclonedx.xml
