@@ -8,6 +8,7 @@ commons-daemon:commons-daemon
 commons-net:commons-net
 dev.iabudiab:dependency-track-maven-plugin
 dev.openfeature:sdk
+fr.marcwrobel:jbanking
 gov.nist.secauto.oscal:liboscal-java
 io.dropwizard.archetypes:dropwizard-archetypes
 io.dropwizard.archetypes:java-simple

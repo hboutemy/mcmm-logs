@@ -1,0 +1,2 @@
+fr/marcwrobel/jbanking/4.1.0/jbanking-4.1.0-cyclonedx.json
+fr/marcwrobel/jbanking/4.1.0/jbanking-4.1.0-cyclonedx.xml
