@@ -1,0 +1,8 @@
+org/opendaylight/aaa/aaa-sbom-0.16.7.spdx
+org/opendaylight/bgpcep/bgpcep-sbom-0.18.5.spdx
+org/opendaylight/controller/controller-sbom-6.0.7.spdx
+org/opendaylight/controller/controller-sbom-6.0.6.spdx
+org/opendaylight/infrautils/infrautils-sbom-4.0.4.spdx
+org/opendaylight/mdsal/mdsal-sbom-10.0.6.spdx
+org/opendaylight/netconf/netconf-sbom-4.0.5.spdx
+org/opendaylight/yangtools/yangtools-sbom-9.0.6.spdx
