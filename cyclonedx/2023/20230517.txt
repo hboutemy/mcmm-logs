@@ -1,0 +1,14 @@
+dev/openfeature/contrib/providers/go-feature-flag/0.2.7/go-feature-flag-0.2.7-cyclonedx.json
+dev/openfeature/contrib/providers/go-feature-flag/0.2.7/go-feature-flag-0.2.7-cyclonedx.xml
+org/apache/flink/flink-kubernetes-operator-api/1.5.0/flink-kubernetes-operator-api-1.5.0-cyclonedx.json
+org/apache/flink/flink-kubernetes-operator-api/1.5.0/flink-kubernetes-operator-api-1.5.0-cyclonedx.xml
+org/apache/flink/flink-kubernetes-operator-autoscaler/1.5.0/flink-kubernetes-operator-autoscaler-1.5.0-cyclonedx.json
+org/apache/flink/flink-kubernetes-operator-autoscaler/1.5.0/flink-kubernetes-operator-autoscaler-1.5.0-cyclonedx.xml
+org/apache/flink/flink-kubernetes-operator-parent/1.5.0/flink-kubernetes-operator-parent-1.5.0-cyclonedx.json
+org/apache/flink/flink-kubernetes-operator-parent/1.5.0/flink-kubernetes-operator-parent-1.5.0-cyclonedx.xml
+org/apache/flink/flink-kubernetes-operator/1.5.0/flink-kubernetes-operator-1.5.0-cyclonedx.xml
+org/apache/flink/flink-kubernetes-operator/1.5.0/flink-kubernetes-operator-1.5.0-cyclonedx.json
+org/apache/flink/flink-kubernetes-standalone/1.5.0/flink-kubernetes-standalone-1.5.0-cyclonedx.json
+org/apache/flink/flink-kubernetes-standalone/1.5.0/flink-kubernetes-standalone-1.5.0-cyclonedx.xml
+org/apache/flink/flink-kubernetes-webhook/1.5.0/flink-kubernetes-webhook-1.5.0-cyclonedx.json
+org/apache/flink/flink-kubernetes-webhook/1.5.0/flink-kubernetes-webhook-1.5.0-cyclonedx.xml
