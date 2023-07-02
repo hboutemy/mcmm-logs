@@ -1,0 +1,8 @@
+dev/openfeature/contrib/hooks/otel/1.0.2/otel-1.0.2-cyclonedx.xml
+dev/openfeature/contrib/hooks/otel/1.0.2/otel-1.0.2-cyclonedx.json
+dev/openfeature/contrib/providers/flagd/0.5.7/flagd-0.5.7-cyclonedx.json
+dev/openfeature/contrib/providers/flagd/0.5.7/flagd-0.5.7-cyclonedx.xml
+dev/openfeature/contrib/providers/go-feature-flag/0.2.4/go-feature-flag-0.2.4-cyclonedx.json
+dev/openfeature/contrib/providers/go-feature-flag/0.2.4/go-feature-flag-0.2.4-cyclonedx.xml
+nl/basjes/maven/release/conventional-commits-version-policy/1.0.1/conventional-commits-version-policy-1.0.1-cyclonedx.xml
+nl/basjes/maven/release/conventional-commits-version-policy/1.0.1/conventional-commits-version-policy-1.0.1-cyclonedx.json
