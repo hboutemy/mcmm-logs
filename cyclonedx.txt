@@ -118,6 +118,16 @@ net.intelie.pipes:pipes
 net.intelie.pipes:pipes-api
 org.cyclonedx:cyclonedx-core-java
 org.cyclonedx:cyclonedx-maven-plugin
+org.eclipse.steady:cli-scanner
+org.eclipse.steady:lang
+org.eclipse.steady:lang-java
+org.eclipse.steady:lang-java-reach
+org.eclipse.steady:lang-java-reach-soot
+org.eclipse.steady:lang-java-reach-wala
+org.eclipse.steady:lang-python
+org.eclipse.steady:plugin-gradle
+org.eclipse.steady:plugin-maven
+org.eclipse.steady:shared
 org.openapitools.openapidiff:openapi-diff-cli
 org.openapitools.openapidiff:openapi-diff-core
 org.openapitools.openapidiff:openapi-diff-maven
