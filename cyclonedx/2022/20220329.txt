@@ -1,0 +1,2 @@
+com/hack23/sonar/sonar-cloudformation-plugin/3.0.3/sonar-cloudformation-plugin-3.0.3-cyclonedx.json
+com/hack23/sonar/sonar-cloudformation-plugin/3.0.3/sonar-cloudformation-plugin-3.0.3-cyclonedx.xml
