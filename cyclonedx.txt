@@ -785,6 +785,8 @@ org.opendaylight.odlparent:opendaylight-karaf-empty
 org.opendaylight.odlparent:opendaylight-karaf-resources
 org.opendaylight.odlparent:single-feature-parent
 org.opendaylight.odlparent:spotbugs
+org.opendaylight.odlparent:template-feature-parent
+org.opendaylight.odlparent:template-feature-plugin
 org.opendaylight.odlparent:test-static
 org.opendaylight.openflowplugin.applications:arbitratorreconciliation-api
 org.opendaylight.openflowplugin.applications:arbitratorreconciliation-impl
