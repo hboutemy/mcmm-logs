@@ -1489,6 +1489,9 @@ ru.vyarus.guicey:guicey-test-junit4
 ru.vyarus.guicey:guicey-test-spock
 ru.vyarus.guicey:guicey-validation
 ru.vyarus:dropwizard-guicey
+tech.pantheon.triemap:bom
+tech.pantheon.triemap:pt-triemap
+tech.pantheon.triemap:triemap
 us.springett:alpine
 us.springett:alpine-common
 us.springett:alpine-executable-war
