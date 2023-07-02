@@ -1,0 +1,8 @@
+org/apache/commons/commons-parent/55/commons-parent-55.spdx.json
+org/opendaylight/aaa/aaa-sbom-0.16.6.spdx
+org/opendaylight/aaa/aaa-sbom-0.17.0.spdx
+org/opendaylight/bgpcep/bgpcep-sbom-0.18.4.spdx
+org/opendaylight/controller/controller-sbom-7.0.0.spdx
+org/opendaylight/mdsal/mdsal-sbom-11.0.2.spdx
+org/opendaylight/netconf/netconf-sbom-4.0.4.spdx
+org/opendaylight/yangtools/yangtools-sbom-10.0.2.spdx
