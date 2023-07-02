@@ -8,6 +8,7 @@ commons-fileupload:commons-fileupload
 commons-io:commons-io
 commons-net:commons-net
 org.apache.bcel:bcel
+org.apache.commons:commons-build-plugin
 org.apache.commons:commons-compress
 org.apache.commons:commons-configuration2
 org.apache.commons:commons-crypto
@@ -33,6 +34,7 @@ org.apache.commons:commons-numbers-primes
 org.apache.commons:commons-numbers-quaternion
 org.apache.commons:commons-numbers-rootfinder
 org.apache.commons:commons-parent
+org.apache.commons:commons-release-plugin
 org.apache.commons:commons-rng-client-api
 org.apache.commons:commons-rng-core
 org.apache.commons:commons-rng-parent

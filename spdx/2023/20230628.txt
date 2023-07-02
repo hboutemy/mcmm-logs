@@ -1,0 +1,2 @@
+org/apache/commons/commons-build-plugin/1.13/commons-build-plugin-1.13.spdx.json
+org/apache/commons/commons-release-plugin/1.8.1/commons-release-plugin-1.8.1.spdx.json
