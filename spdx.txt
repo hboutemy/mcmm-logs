@@ -2,6 +2,7 @@ com.hack23.cia:cia-dist-deb
 com.hack23.cia:citizen-intelligence-agency
 com.hack23.sonar:sonar-cloudformation-plugin
 commons-daemon:commons-daemon
+commons-fileupload:commons-fileupload
 commons-net:commons-net
 org.apache.bcel:bcel
 org.apache.commons:commons-compress
