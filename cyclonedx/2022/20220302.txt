@@ -1,0 +1,6 @@
+us/springett/alpine-parent/1.10.5/alpine-parent-1.10.5-cyclonedx.json
+us/springett/alpine-parent/1.10.5/alpine-parent-1.10.5-cyclonedx.xml
+us/springett/alpine/1.10.5/alpine-1.10.5-cyclonedx.json
+us/springett/alpine/1.10.5/alpine-1.10.5-cyclonedx.xml
+us/springett/nist-data-mirror/1.5.3/nist-data-mirror-1.5.3-cyclonedx.json
+us/springett/nist-data-mirror/1.5.3/nist-data-mirror-1.5.3-cyclonedx.xml
