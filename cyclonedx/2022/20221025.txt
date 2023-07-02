@@ -1,0 +1,2 @@
+dev/openfeature/sdk/1.0.0/sdk-1.0.0-cyclonedx.xml
+dev/openfeature/sdk/1.0.0/sdk-1.0.0-cyclonedx.json
