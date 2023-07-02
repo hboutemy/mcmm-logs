@@ -1,0 +1,4 @@
+dev/openfeature/sdk/1.2.0/sdk-1.2.0-cyclonedx.json
+dev/openfeature/sdk/1.2.0/sdk-1.2.0-cyclonedx.xml
+org/sonatype/nexus/plugins/nexus-blobstore-google-cloud/0.46.0/nexus-blobstore-google-cloud-0.46.0-cyclonedx.json
+org/sonatype/nexus/plugins/nexus-blobstore-google-cloud/0.46.0/nexus-blobstore-google-cloud-0.46.0-cyclonedx.xml
