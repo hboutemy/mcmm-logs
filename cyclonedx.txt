@@ -415,6 +415,8 @@ org.eclipse.steady:lang-python
 org.eclipse.steady:plugin-gradle
 org.eclipse.steady:plugin-maven
 org.eclipse.steady:shared
+org.membrane-soa:membrane-api-gateway
+org.membrane-soa:service-proxy-core
 org.openapitools.openapidiff:openapi-diff-cli
 org.openapitools.openapidiff:openapi-diff-core
 org.openapitools.openapidiff:openapi-diff-maven
