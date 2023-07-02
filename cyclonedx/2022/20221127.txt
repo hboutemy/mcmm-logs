@@ -1,0 +1,2 @@
+org/owasp/esapi/esapi/2.5.1.0/esapi-2.5.1.0-cyclonedx.xml
+org/owasp/esapi/esapi/2.5.1.0/esapi-2.5.1.0-cyclonedx.json
