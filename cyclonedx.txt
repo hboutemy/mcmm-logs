@@ -17,6 +17,7 @@ com.swardana:oofx
 com.theoryinpractise:clojure-maven-plugin
 com.xenoamess.fork.org.apache.commons:commons-compress
 com.xenoamess:cyclonedx-maven-plugin
+commons-codec:commons-codec
 commons-daemon:commons-daemon
 commons-fileupload:commons-fileupload
 commons-io:commons-io

@@ -1,0 +1,1 @@
+commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.spdx.json
