@@ -1,0 +1,2 @@
+org/spdx/spdx-tools/2.2.8/spdx-tools-2.2.8.spdx.rdf.xml
+org/spdx/tools-java/1.1.0/tools-java-1.1.0.spdx.rdf.xml
