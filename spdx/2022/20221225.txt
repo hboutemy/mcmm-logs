@@ -1,0 +1,5 @@
+org/opendaylight/aaa/aaa-sbom-0.17.1.spdx
+org/opendaylight/controller/controller-sbom-7.0.1.spdx
+org/opendaylight/mdsal/mdsal-sbom-11.0.3.spdx
+org/opendaylight/transportpce/models/models-sbom-17.1.0.spdx
+org/opendaylight/transportpce/transportpce-sbom-6.1.0.spdx
