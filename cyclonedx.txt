@@ -268,6 +268,18 @@ org.apache.flink:flink-metrics-jmx
 org.apache.flink:flink-metrics-prometheus
 org.apache.flink:flink-metrics-slf4j
 org.apache.flink:flink-metrics-statsd
+org.apache.flink:flink-ml-benchmark
+org.apache.flink:flink-ml-core
+org.apache.flink:flink-ml-dist
+org.apache.flink:flink-ml-examples
+org.apache.flink:flink-ml-iteration
+org.apache.flink:flink-ml-lib
+org.apache.flink:flink-ml-parent
+org.apache.flink:flink-ml-python
+org.apache.flink:flink-ml-servable-core
+org.apache.flink:flink-ml-servable-lib
+org.apache.flink:flink-ml-tests
+org.apache.flink:flink-ml-uber
 org.apache.flink:flink-optimizer
 org.apache.flink:flink-orc
 org.apache.flink:flink-orc-nohive
@@ -725,6 +737,7 @@ org.opendaylight.controller.samples:clustering-it-provider
 org.opendaylight.controller.samples:sample-toaster
 org.opendaylight.controller.samples:sample-toaster-consumer
 org.opendaylight.controller.samples:sample-toaster-provider
+org.opendaylight.controller:atomix-storage
 org.opendaylight.controller:benchmark-api
 org.opendaylight.controller:blueprint
 org.opendaylight.controller:bundle-parent
@@ -1198,7 +1211,9 @@ org.opendaylight.netconf:sal-rest-docgen
 org.opendaylight.netconf:shaded-exificient
 org.opendaylight.netconf:shaded-sshd
 org.opendaylight.netconf:transport-api
+org.opendaylight.netconf:transport-ssh
 org.opendaylight.netconf:transport-tcp
+org.opendaylight.netconf:transport-tls
 org.opendaylight.netconf:truststore-api
 org.opendaylight.netconf:truststore-none
 org.opendaylight.netconf:websocket-client
