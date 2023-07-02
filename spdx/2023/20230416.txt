@@ -1,0 +1,16 @@
+org/opendaylight/aaa/aaa-sbom-0.16.8.spdx
+org/opendaylight/bgpcep/bgpcep-sbom-0.19.4.spdx
+org/opendaylight/controller/controller-sbom-6.0.8.spdx
+org/opendaylight/infrautils/infrautils-sbom-4.0.5.spdx
+org/opendaylight/mdsal/mdsal-sbom-10.0.7.spdx
+org/opendaylight/odlparent/odlparent-sbom-12.0.4.spdx
+org/opendaylight/odlparent/odlparent-sbom-11.0.5.spdx
+org/opendaylight/yangtools/yangtools-sbom-9.0.7.spdx
+org/opendaylight/yangtools/yangtools-sbom-10.0.5.spdx
+org/spdx/java-spdx-library/1.1.5/java-spdx-library-1.1.5.spdx.json
+org/spdx/licenseListPublisher/2.2.9/licenseListPublisher-2.2.9.spdx.json
+org/spdx/spdx-jackson-store/1.1.5/spdx-jackson-store-1.1.5.spdx.json
+org/spdx/spdx-rdf-store/1.1.5/spdx-rdf-store-1.1.5.spdx.json
+org/spdx/spdx-spreadsheet-store/1.1.5/spdx-spreadsheet-store-1.1.5.spdx.rdf.xml
+org/spdx/spdx-tagvalue-store/1.1.5/spdx-tagvalue-store-1.1.5.spdx.rdf.xml
+org/spdx/tools-java/1.1.6/tools-java-1.1.6.spdx.json
