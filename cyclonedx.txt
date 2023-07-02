@@ -116,6 +116,7 @@ io.dropwizard:dropwizard-views-freemarker
 io.dropwizard:dropwizard-views-mustache
 net.intelie.pipes:pipes
 net.intelie.pipes:pipes-api
+org.apache.commons:commons-parent
 org.cyclonedx:cyclonedx-core-java
 org.cyclonedx:cyclonedx-maven-plugin
 org.eclipse.steady:cli-scanner

@@ -1,6 +1,7 @@
 com.hack23.cia:cia-dist-deb
 com.hack23.cia:citizen-intelligence-agency
 com.hack23.sonar:sonar-cloudformation-plugin
+org.apache.commons:commons-parent
 org.spdx:cdx2spdx
 org.spdx:java-spdx-library
 org.spdx:licenseListPublisher
