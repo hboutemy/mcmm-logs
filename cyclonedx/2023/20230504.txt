@@ -1,0 +1,1 @@
+org/sonarsource/dummy/sonar-dummy-oss-plugin/2.5.0.373/sonar-dummy-oss-plugin-2.5.0.373-cyclonedx.json
