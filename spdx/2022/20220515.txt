@@ -1,0 +1,3 @@
+com/hack23/cia/cia-dist-deb/2022.5.15/cia-dist-deb-2022.5.15.spdx.rdf.xml
+com/hack23/cia/citizen-intelligence-agency/2022.5.15/citizen-intelligence-agency-2022.5.15.spdx.rdf.xml
+com/hack23/sonar/sonar-cloudformation-plugin/3.0.5/sonar-cloudformation-plugin-3.0.5.spdx.rdf.xml
