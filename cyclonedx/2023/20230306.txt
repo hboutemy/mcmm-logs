@@ -1,0 +1,2 @@
+com/xenoamess/fork/org/apache/commons/commons-compress/1.23.x.1/commons-compress-1.23.x.1-cyclonedx.xml
+com/xenoamess/fork/org/apache/commons/commons-compress/1.23.x.1/commons-compress-1.23.x.1-cyclonedx.json
