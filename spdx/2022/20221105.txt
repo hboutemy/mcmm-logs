@@ -1,0 +1,2 @@
+com/hack23/cia/cia-dist-deb/2022.11.5/cia-dist-deb-2022.11.5.spdx.json
+com/hack23/cia/citizen-intelligence-agency/2022.11.5/citizen-intelligence-agency-2022.11.5.spdx.json
