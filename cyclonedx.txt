@@ -336,6 +336,7 @@ org.opendaylight.integration:karaf-scripts
 org.opendaylight.integration:odl-integration-all
 org.opendaylight.integration:odl-integration-compatible-with-all
 org.opendaylight.integration:onap-karaf
+org.opendaylight.integration:opendaylight
 org.opendaylight.integration:other-artifacts
 org.opendaylight.integration:properties
 org.opendaylight.integration:repos-aggregator
