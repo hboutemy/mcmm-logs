@@ -1,0 +1,4 @@
+com/swardana/oofx/1.0.0-M1/oofx-1.0.0-M1-cyclonedx.json
+com/swardana/oofx/1.0.0-M1/oofx-1.0.0-M1-cyclonedx.xml
+org/apache/turbine/turbine-parent/12/turbine-parent-12-cyclonedx.json
+org/apache/turbine/turbine-parent/12/turbine-parent-12-cyclonedx.xml
