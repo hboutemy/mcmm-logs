@@ -1,0 +1,4 @@
+commons-io/commons-io/2.12.0/commons-io-2.12.0-cyclonedx.json
+commons-io/commons-io/2.12.0/commons-io-2.12.0-cyclonedx.xml
+org/cyclonedx/cyclonedx-maven-plugin/2.7.9/cyclonedx-maven-plugin-2.7.9-cyclonedx.json
+org/cyclonedx/cyclonedx-maven-plugin/2.7.9/cyclonedx-maven-plugin-2.7.9-cyclonedx.xml
