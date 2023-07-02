@@ -1,0 +1,3 @@
+org/cyclonedx/cyclonedx-maven-plugin/2.7.6/cyclonedx-maven-plugin-2.7.6-cyclonedx.xml
+org/cyclonedx/cyclonedx-maven-plugin/2.7.6/cyclonedx-maven-plugin-2.7.6-cyclonedx.json
+org/sonarsource/sonarqube/sonar-application/10.0.0.68432/sonar-application-10.0.0.68432-cyclonedx.json
