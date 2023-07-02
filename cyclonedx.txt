@@ -543,6 +543,8 @@ org.apache.hbase:hbase-archetype-builder
 org.apache.hbase:hbase-archetypes
 org.apache.hbase:hbase-assembly
 org.apache.hbase:hbase-asyncfs
+org.apache.hbase:hbase-backup
+org.apache.hbase:hbase-balancer
 org.apache.hbase:hbase-build-configuration
 org.apache.hbase:hbase-checkstyle
 org.apache.hbase:hbase-client
