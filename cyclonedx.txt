@@ -1115,6 +1115,7 @@ org.opendaylight.yangtools:yang-data-tree-api
 org.opendaylight.yangtools:yang-data-tree-ri
 org.opendaylight.yangtools:yang-data-tree-spi
 org.opendaylight.yangtools:yang-data-util
+org.opendaylight.yangtools:yang-ir
 org.opendaylight.yangtools:yang-maven-plugin
 org.opendaylight.yangtools:yang-maven-plugin-it
 org.opendaylight.yangtools:yang-maven-plugin-spi
