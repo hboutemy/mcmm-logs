@@ -1,0 +1,6 @@
+org/cyclonedx/cyclonedx-core-java/7.1.1/cyclonedx-core-java-7.1.1-cyclonedx.json
+org/cyclonedx/cyclonedx-core-java/7.1.1/cyclonedx-core-java-7.1.1-cyclonedx.xml
+org/cyclonedx/cyclonedx-core-java/7.1.2/cyclonedx-core-java-7.1.2-cyclonedx.json
+org/cyclonedx/cyclonedx-core-java/7.1.2/cyclonedx-core-java-7.1.2-cyclonedx.xml
+us/springett/nist-data-mirror/1.5.4/nist-data-mirror-1.5.4-cyclonedx.json
+us/springett/nist-data-mirror/1.5.4/nist-data-mirror-1.5.4-cyclonedx.xml
