@@ -1,0 +1,4 @@
+org/opendaylight/aaa/aaa-sbom-0.17.6.spdx
+org/opendaylight/controller/controller-sbom-7.0.4.spdx
+org/opendaylight/infrautils/infrautils-sbom-5.0.3.spdx
+org/opendaylight/mdsal/mdsal-sbom-11.0.7.spdx
