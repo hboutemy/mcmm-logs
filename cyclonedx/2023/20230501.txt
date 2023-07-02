@@ -1,0 +1,4 @@
+dev/openfeature/contrib/providers/env-var/0.0.3/env-var-0.0.3-cyclonedx.xml
+dev/openfeature/contrib/providers/env-var/0.0.3/env-var-0.0.3-cyclonedx.json
+dev/openfeature/contrib/providers/flagd/0.5.9/flagd-0.5.9-cyclonedx.xml
+dev/openfeature/contrib/providers/flagd/0.5.9/flagd-0.5.9-cyclonedx.json
