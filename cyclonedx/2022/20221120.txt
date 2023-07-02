@@ -1,0 +1,3 @@
+com/hack23/sonar/sonar-cloudformation-plugin/3.0.10/sonar-cloudformation-plugin-3.0.10-cyclonedx.json
+org/cyclonedx/cyclonedx-core-java/7.3.0/cyclonedx-core-java-7.3.0-cyclonedx.json
+org/cyclonedx/cyclonedx-core-java/7.3.0/cyclonedx-core-java-7.3.0-cyclonedx.xml
