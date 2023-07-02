@@ -1,0 +1,2 @@
+com/gitlab/haynes/libsass-maven-plugin/0.2.29/libsass-maven-plugin-0.2.29-cyclonedx.xml
+com/gitlab/haynes/libsass-maven-plugin/0.2.29/libsass-maven-plugin-0.2.29-cyclonedx.json
