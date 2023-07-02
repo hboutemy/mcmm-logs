@@ -7,3 +7,4 @@ org.cyclonedx:cyclonedx-core-java
 us.springett:alpine
 us.springett:alpine-executable-war
 us.springett:alpine-parent
+us.springett:vulndb-data-mirror

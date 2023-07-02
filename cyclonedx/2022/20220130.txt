@@ -1,0 +1,2 @@
+us/springett/vulndb-data-mirror/1.0.1/vulndb-data-mirror-1.0.1-cyclonedx.xml
+us/springett/vulndb-data-mirror/1.0.1/vulndb-data-mirror-1.0.1-cyclonedx.json
