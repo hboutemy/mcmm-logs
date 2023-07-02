@@ -167,6 +167,17 @@ org.apache.orc:orc-examples
 org.apache.orc:orc-mapreduce
 org.apache.orc:orc-shims
 org.apache.orc:orc-tools
+org.apache.zookeeper:parent
+org.apache.zookeeper:zookeeper
+org.apache.zookeeper:zookeeper-contrib
+org.apache.zookeeper:zookeeper-contrib-fatjar
+org.apache.zookeeper:zookeeper-contrib-loggraph
+org.apache.zookeeper:zookeeper-contrib-rest
+org.apache.zookeeper:zookeeper-contrib-zooinspector
+org.apache.zookeeper:zookeeper-it
+org.apache.zookeeper:zookeeper-jute
+org.apache.zookeeper:zookeeper-metrics-providers
+org.apache.zookeeper:zookeeper-prometheus-metrics
 org.cyclonedx:cyclonedx-core-java
 org.cyclonedx:cyclonedx-maven-plugin
 org.eclipse.steady:cli-scanner
