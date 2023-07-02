@@ -190,6 +190,10 @@ net.sourceforge.pmd:pmd-tsql
 net.sourceforge.pmd:pmd-visualforce
 net.sourceforge.pmd:pmd-vm
 net.sourceforge.pmd:pmd-xml
+nl.basjes.codeowners:codeowners-parent
+nl.basjes.codeowners:codeowners-reader
+nl.basjes.gitignore:gitignore-reader
+nl.basjes.maven.enforcer.codeowners:codeowners-enforcer-rules
 nl.basjes.maven.release:conventional-commits-version-policy
 nl.basjes.parse.useragent:yauaa
 nl.basjes.parse.useragent:yauaa-beam
