@@ -590,6 +590,12 @@ org.apache.hbase:hbase-shell
 org.apache.hbase:hbase-testing-util
 org.apache.hbase:hbase-thrift
 org.apache.hbase:hbase-zookeeper
+org.apache.maven.doxia:doxia-tools
+org.apache.maven.extensions:maven-extensions
+org.apache.maven.plugins:maven-plugins
+org.apache.maven.shared:maven-shared-components
+org.apache.maven.skins:maven-skins
+org.apache.maven:maven-parent
 org.apache.orc:orc
 org.apache.orc:orc-core
 org.apache.orc:orc-examples
