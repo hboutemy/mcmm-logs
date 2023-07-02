@@ -1,0 +1,4 @@
+org/opendaylight/bgpcep/bgpcep-sbom-0.19.1.spdx
+org/opendaylight/netconf/netconf-sbom-5.0.2.spdx
+org/opendaylight/odlparent/odlparent-sbom-12.0.3.spdx
+org/opendaylight/yangtools/yangtools-sbom-10.0.4.spdx
