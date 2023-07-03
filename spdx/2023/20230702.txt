@@ -1,0 +1,2 @@
+org/opendaylight/aaa/aaa-sbom-0.18.0.spdx
+org/opendaylight/controller/controller-sbom-8.0.0.spdx

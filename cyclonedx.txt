@@ -86,6 +86,10 @@ com.io7m.sunburst:com.io7m.sunburst.tests
 com.io7m.sunburst:com.io7m.sunburst.tests.maven.plugin
 com.io7m.sunburst:com.io7m.sunburst.xml.packages
 com.io7m.sunburst:com.io7m.sunburst.xml.peers
+com.io7m.tabla:com.io7m.tabla
+com.io7m.tabla:com.io7m.tabla.cmdline
+com.io7m.tabla:com.io7m.tabla.core
+com.io7m.tabla:com.io7m.tabla.tests
 com.io7m.wendover:com.io7m.wendover
 com.io7m.wendover:com.io7m.wendover.core
 com.io7m.wendover:com.io7m.wendover.tests
