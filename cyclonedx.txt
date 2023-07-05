@@ -119,6 +119,7 @@ dev.openfeature.contrib.providers:flagsmith
 dev.openfeature.contrib.providers:go-feature-flag
 dev.openfeature.contrib.providers:jsonlogic-eval-provider
 dev.openfeature:sdk
+dev.vality:service-parent-pom
 fr.marcwrobel:jbanking
 gov.nist.secauto.oscal:liboscal-java
 io.dropwizard.archetypes:dropwizard-archetypes
