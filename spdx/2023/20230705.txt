@@ -1,0 +1,1 @@
+org/opendaylight/netconf/netconf-sbom-6.0.0.spdx
