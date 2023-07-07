@@ -1245,7 +1245,9 @@ org.opendaylight.bgpcep:data-change-counter
 org.opendaylight.bgpcep:feature-repo-parent
 org.opendaylight.bgpcep:features-algo
 org.opendaylight.bgpcep:features-bgp
+org.opendaylight.bgpcep:features-bgpcep
 org.opendaylight.bgpcep:features-bgpcep-extras
+org.opendaylight.bgpcep:features-bgpcep-testing
 org.opendaylight.bgpcep:features-bmp
 org.opendaylight.bgpcep:features-concepts
 org.opendaylight.bgpcep:features-config-loader
