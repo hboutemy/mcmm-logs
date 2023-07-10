@@ -1,0 +1,3 @@
+com/io7m/jqpage/com.io7m.jqpage.core/0.0.3/com.io7m.jqpage.core-0.0.3-cyclonedx.xml
+com/io7m/jqpage/com.io7m.jqpage.tests/0.0.3/com.io7m.jqpage.tests-0.0.3-cyclonedx.xml
+com/io7m/jqpage/com.io7m.jqpage/0.0.3/com.io7m.jqpage-0.0.3-cyclonedx.xml

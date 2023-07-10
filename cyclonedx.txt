@@ -54,6 +54,9 @@ com.io7m.idstore:com.io7m.idstore.tests.arbitraries
 com.io7m.idstore:com.io7m.idstore.tests.extensions
 com.io7m.idstore:com.io7m.idstore.user_client
 com.io7m.idstore:com.io7m.idstore.user_client.api
+com.io7m.jqpage:com.io7m.jqpage
+com.io7m.jqpage:com.io7m.jqpage.core
+com.io7m.jqpage:com.io7m.jqpage.tests
 com.io7m.medrina:com.io7m.medrina
 com.io7m.medrina:com.io7m.medrina.api
 com.io7m.medrina:com.io7m.medrina.cmdline
