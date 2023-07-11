@@ -3114,6 +3114,7 @@ io.github.humbinal -> i18n-message:i18n-message-maven-plugin = "i18n-message-mav
 io.github.iamaldren -> doc-converter:doc-converter-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.invvk -> auto-increment:auto-increment-plugin = "Version auto increment Plugin"
 io.github.itroadlabs -> apicross:apicross-maven-plugin = 
+io.github.jagodevreede -> repository-cleaner:repository-cleaner = "SemVer check Maven Plugin"
 io.github.jagodevreede -> semver-check:semver-check-maven-plugin = "SemVer check Maven Plugin"
 io.github.janhicken -> versions:versions-maven-plugin = "Versions Maven Plugin"
 io.github.javasemantic -> javasemantic:javasemantic-maven-plugin = "java-semantic-maven-plugin"
