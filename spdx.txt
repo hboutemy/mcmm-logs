@@ -43,6 +43,7 @@ org.apache.commons:commons-rng-simple
 org.apache.commons:commons-statistics-distribution
 org.apache.commons:commons-statistics-parent
 org.apache.commons:commons-text
+org.jetbrains.kotlinx:kotlinx-metadata-jvm
 org.opendaylight:transportpce
 org.spdx:cdx2spdx
 org.spdx:java-spdx-library
