@@ -1,0 +1,8 @@
+dev/openfeature/sdk/1.4.0/sdk-1.4.0-cyclonedx.xml
+dev/openfeature/sdk/1.4.0/sdk-1.4.0-cyclonedx.json
+io/dropwizard/modules/dropwizard-jdbi/2.1.7/dropwizard-jdbi-2.1.7-cyclonedx.json
+io/dropwizard/modules/dropwizard-jdbi/2.1.7/dropwizard-jdbi-2.1.7-cyclonedx.xml
+io/dropwizard/modules/dropwizard-testing-junit4/3.0.1/dropwizard-testing-junit4-3.0.1-cyclonedx.xml
+io/dropwizard/modules/dropwizard-testing-junit4/3.0.1/dropwizard-testing-junit4-3.0.1-cyclonedx.json
+io/dropwizard/modules/dropwizard-testing-junit4/4.0.1/dropwizard-testing-junit4-4.0.1-cyclonedx.xml
+io/dropwizard/modules/dropwizard-testing-junit4/4.0.1/dropwizard-testing-junit4-4.0.1-cyclonedx.json
