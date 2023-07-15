@@ -3020,6 +3020,7 @@ io.github.agileek -> java-checksum-flyway:java-checksum-flyway-maven-plugin = "$
 io.github.akayibrahim -> jsontopojo:jsontopojo = "jsontopojo"
 io.github.alexanderschuetz97 -> jnigenerator:jnigenerator = "${project.groupId}:${project.artifactId}"
 io.github.alexandertang -> frontend:frontend-maven-plugin = "Maven Frontend Plugin"
+io.github.algomaster99 -> classfile-fingerprint:classfile-fingerprint = "Classfile Fingerprint Generator"
 io.github.algomaster99 -> semver:semver = "Next Semver"
 io.github.anoopsivarajan -> reruncuke:reruncuke-plugin = "reruncuke-plugin"
 io.github.antonsjava -> sb-splitter:sb-splitter-plugin = "sb-splitter-plugin"

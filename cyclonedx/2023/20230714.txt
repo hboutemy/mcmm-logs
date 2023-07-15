@@ -1,0 +1,4 @@
+dev/openfeature/contrib/hooks/otel/2.0.0/otel-2.0.0-cyclonedx.json
+dev/openfeature/contrib/hooks/otel/2.0.0/otel-2.0.0-cyclonedx.xml
+org/sonatype/nexus/plugins/nexus-blobstore-google-cloud/0.57.0/nexus-blobstore-google-cloud-0.57.0-cyclonedx.xml
+org/sonatype/nexus/plugins/nexus-blobstore-google-cloud/0.57.0/nexus-blobstore-google-cloud-0.57.0-cyclonedx.json
