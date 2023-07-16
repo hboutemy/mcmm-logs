@@ -3233,6 +3233,7 @@ io.github.sebastian-toepfer.json.rpc -> json-printable:json-printable-maven-plug
 io.github.selcukes -> selcukes-report:selcukes-report-plugin = "Selcukes Maven Plugin for Cucumber Reports"
 io.github.shomeier -> openapi-util:openapi-util-maven-plugin = "openapi-util-maven-plugin Maven Plugin"
 io.github.silidos -> graphqxl:graphqxl-maven-plugin = "${project.artifactId}"
+io.github.siom79.jasyncapicmp -> jasyncapicmp:jasyncapicmp-maven-plugin = "jasyncapicmp Maven Plugin"
 io.github.sivalabs -> jooq-testcontainers-codegen:jooq-testcontainers-codegen-maven-plugin = "jooq-testcontainers-codegen-maven-plugin"
 io.github.solven-eu.cleanthat -> cleanthat:cleanthat-maven-plugin = 
 io.github.spafka -> feign-generator:feign-generator-plugin = "feign-generator-plugin"
@@ -3240,6 +3241,7 @@ io.github.stackinfo -> stackinfo:stackinfo-maven-plugin = "StackInfo Maven Plugi
 io.github.stayfool -> jpa:jpa-maven-plugin = "jpa entity code generation Maven Mojo"
 io.github.stephenc.maven -> rfmm:rfmm-maven-plugin = "Release From My Machine Maven Plugin"
 io.github.steveswinsburg -> xbdd:xbdd-maven-plugin = "XBDD Maven Plugin"
+io.github.tanky-zhang -> big-smart-doc:big-smart-doc-maven-plugin = "big-smart-doc-maven-plugin"
 io.github.techthird -> fast-mock:fast-mock-maven-plugin = 
 io.github.terjouxanthony -> jdk-downloader:jdk-downloader-maven-plugin = "jdk-downloader-maven-plugin"
 io.github.terminological -> r6-generator:r6-generator-maven-plugin = "R6 Generator Maven Plugin"
