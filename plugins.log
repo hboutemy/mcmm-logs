@@ -1387,6 +1387,7 @@ com.github.volodya-lombrozo -> test-naming-conventions:test-naming-conventions =
 com.github.vongosling -> mediator:dependency-mediator-maven-plugin = "component dependency mediator maven plugin"
 com.github.vongosling -> dependency-mediator:dependency-mediator-maven-plugin = "component dependency mediator maven plugin"
 com.github.vzakharchenko -> dynamic-orm:dynamic-orm-plugin = 
+com.github.wajda -> docker:docker-maven-plugin = "docker-maven-plugin"
 com.github.wajda -> scala-cross-build:scala-cross-build-maven-plugin = "Stratio scala-cross-build-maven-plugin Maven Mojo"
 com.github.warmuuh -> libsass:libsass-maven-plugin = "libsass plugin"
 com.github.webdriverextensions -> webdriverextensions:webdriverextensions-maven-plugin = "WebDriver Extensions Maven Plugin"
