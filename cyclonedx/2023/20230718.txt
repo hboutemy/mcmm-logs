@@ -1,0 +1,2 @@
+dev/openfeature/contrib/providers/flagsmith/0.0.7/flagsmith-0.0.7-cyclonedx.xml
+dev/openfeature/contrib/providers/flagsmith/0.0.7/flagsmith-0.0.7-cyclonedx.json
