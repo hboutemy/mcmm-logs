@@ -1,0 +1,12 @@
+org/apache/commons/commons-fileupload2-core/2.0.0-M1/commons-fileupload2-core-2.0.0-M1-cyclonedx.json
+org/apache/commons/commons-fileupload2-core/2.0.0-M1/commons-fileupload2-core-2.0.0-M1-cyclonedx.xml
+org/apache/commons/commons-fileupload2-distribution/2.0.0-M1/commons-fileupload2-distribution-2.0.0-M1-cyclonedx.xml
+org/apache/commons/commons-fileupload2-distribution/2.0.0-M1/commons-fileupload2-distribution-2.0.0-M1-cyclonedx.json
+org/apache/commons/commons-fileupload2-jakarta/2.0.0-M1/commons-fileupload2-jakarta-2.0.0-M1-cyclonedx.xml
+org/apache/commons/commons-fileupload2-jakarta/2.0.0-M1/commons-fileupload2-jakarta-2.0.0-M1-cyclonedx.json
+org/apache/commons/commons-fileupload2-javax/2.0.0-M1/commons-fileupload2-javax-2.0.0-M1-cyclonedx.json
+org/apache/commons/commons-fileupload2-javax/2.0.0-M1/commons-fileupload2-javax-2.0.0-M1-cyclonedx.xml
+org/apache/commons/commons-fileupload2-portlet/2.0.0-M1/commons-fileupload2-portlet-2.0.0-M1-cyclonedx.json
+org/apache/commons/commons-fileupload2-portlet/2.0.0-M1/commons-fileupload2-portlet-2.0.0-M1-cyclonedx.xml
+org/apache/commons/commons-fileupload2/2.0.0-M1/commons-fileupload2-2.0.0-M1-cyclonedx.xml
+org/apache/commons/commons-fileupload2/2.0.0-M1/commons-fileupload2-2.0.0-M1-cyclonedx.json
