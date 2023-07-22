@@ -3853,6 +3853,7 @@ net.roboconf -> roboconf:roboconf-maven-plugin = "Roboconf :: Maven Plug-in"
 net.roseboy -> classfinal:classfinal-maven-plugin = 
 net.rumati.maven.plugins -> findbugs:findbugs-maven-plugin = "FindBugs Maven Plugin"
 net.rumati.maven.plugins -> velocity:velocity-maven-plugin = "Velocity Maven Plugin"
+net.runeduniverse.tools.maven.r4m -> r4mextension:r4m-maven-extension = "Runes4Maven Extension"
 net.segner.maven.plugins -> skinnywar:skinnywar-maven-plugin = "${project.groupId}:${project.artifactId}"
 net.serenity-bdd.maven.plugins -> serenity:serenity-maven-plugin = 
 net.sf.ahtutils -> ahtutils:ahtutils-maven = "AHT-Utils - Maven Plugins"
