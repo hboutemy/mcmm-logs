@@ -2332,6 +2332,7 @@ com.twosigmaiq -> magic-beanstalk:magic-beanstalk-maven-plugin = "${project.grou
 com.uifuture.maven.plugins -> agt:agt-maven-plugin = 
 com.uifuture.maven.plugins -> auto-generate-test:auto-generate-test-maven-plugin = "auto-generate-test-maven-plugin"
 com.uifuture.maven.plugins -> auto-generate-test:maven-auto-generate-test-plugin = "maven-auto-generate-test-plugin"
+com.ultikits -> ultitools:ultitools-maven-plugin = "UltiTools Deploy Tool"
 com.umakantpatil -> phpcodesniffer:phpcodesniffer-maven-plugin = "PHP CodeSniffer Maven Plugin"
 com.unboundid -> server-sdk-docs:server-sdk-docs-maven-plugin = "UnboundID Server SDK Extension Docs Plugin"
 com.undefinedlabs -> metadata:metadata-maven-plugin = "metadata-maven-plugin"
