@@ -1,0 +1,10 @@
+com/io7m/jsx/com.io7m.jsx.cmdline/3.1.1/com.io7m.jsx.cmdline-3.1.1-cyclonedx.xml
+com/io7m/jsx/com.io7m.jsx.core/3.1.1/com.io7m.jsx.core-3.1.1-cyclonedx.xml
+com/io7m/jsx/com.io7m.jsx.documentation/3.1.1/com.io7m.jsx.documentation-3.1.1-cyclonedx.xml
+com/io7m/jsx/com.io7m.jsx.parser.api/3.1.1/com.io7m.jsx.parser.api-3.1.1-cyclonedx.xml
+com/io7m/jsx/com.io7m.jsx.parser/3.1.1/com.io7m.jsx.parser-3.1.1-cyclonedx.xml
+com/io7m/jsx/com.io7m.jsx.prettyprint/3.1.1/com.io7m.jsx.prettyprint-3.1.1-cyclonedx.xml
+com/io7m/jsx/com.io7m.jsx.tests/3.1.1/com.io7m.jsx.tests-3.1.1-cyclonedx.xml
+com/io7m/jsx/com.io7m.jsx/3.1.1/com.io7m.jsx-3.1.1-cyclonedx.xml
+dev/openfeature/sdk/1.4.1/sdk-1.4.1-cyclonedx.xml
+dev/openfeature/sdk/1.4.1/sdk-1.4.1-cyclonedx.json
