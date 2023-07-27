@@ -1,0 +1,2 @@
+org/apache/commons/commons-parent/59/commons-parent-59.spdx.json
+org/opendaylight/mdsal/mdsal-sbom-11.0.12.spdx
