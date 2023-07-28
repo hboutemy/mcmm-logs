@@ -862,6 +862,14 @@ org.apache.hbase:hbase-thrift
 org.apache.hbase:hbase-zookeeper
 org.apache.maven.doxia:doxia-tools
 org.apache.maven.extensions:maven-extensions
+org.apache.maven.indexer:indexer-cli
+org.apache.maven.indexer:indexer-core
+org.apache.maven.indexer:indexer-reader
+org.apache.maven.indexer:maven-indexer
+org.apache.maven.indexer:search-api
+org.apache.maven.indexer:search-backend-indexer
+org.apache.maven.indexer:search-backend-remoterepository
+org.apache.maven.indexer:search-backend-smo
 org.apache.maven.plugins:maven-plugins
 org.apache.maven.resolver:maven-resolver
 org.apache.maven.resolver:maven-resolver-api
