@@ -1,0 +1,4 @@
+org/apache/commons/commons-lang3/3.13.0/commons-lang3-3.13.0-cyclonedx.json
+org/apache/commons/commons-lang3/3.13.0/commons-lang3-3.13.0-cyclonedx.xml
+us/springett/cvss-calculator/1.4.2/cvss-calculator-1.4.2-cyclonedx.json
+us/springett/cvss-calculator/1.4.2/cvss-calculator-1.4.2-cyclonedx.xml

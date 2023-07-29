@@ -439,6 +439,7 @@ org.apache.commons:commons-fileupload2-jakarta
 org.apache.commons:commons-fileupload2-javax
 org.apache.commons:commons-fileupload2-portlet
 org.apache.commons:commons-jexl3
+org.apache.commons:commons-lang3
 org.apache.commons:commons-math-parent
 org.apache.commons:commons-math4-core
 org.apache.commons:commons-math4-legacy
@@ -2280,6 +2281,7 @@ us.springett:alpine-infra
 us.springett:alpine-model
 us.springett:alpine-parent
 us.springett:alpine-server
+us.springett:cvss-calculator
 us.springett:nist-data-mirror
 us.springett:owasp-risk-rating-calculator
 us.springett:vulndb-data-mirror
