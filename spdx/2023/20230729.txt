@@ -1,0 +1,1 @@
+org/opendaylight/bgpcep/bgpcep-sbom-0.19.6.spdx
