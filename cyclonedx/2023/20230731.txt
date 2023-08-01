@@ -1,0 +1,2 @@
+org/apache/fulcrum/fulcrum-yaafi/2.0.0/fulcrum-yaafi-2.0.0-cyclonedx.json
+org/apache/fulcrum/fulcrum-yaafi/2.0.0/fulcrum-yaafi-2.0.0-cyclonedx.xml
