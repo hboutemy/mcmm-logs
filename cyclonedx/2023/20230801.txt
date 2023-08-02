@@ -1,0 +1,4 @@
+com/github/mwiede/jsch/0.2.11/jsch-0.2.11-cyclonedx.xml
+com/github/mwiede/jsch/0.2.11/jsch-0.2.11-cyclonedx.json
+gov/nist/secauto/oscal/liboscal-java/3.0.0/liboscal-java-3.0.0-cyclonedx.xml
+gov/nist/secauto/oscal/liboscal-java/3.0.0/liboscal-java-3.0.0-cyclonedx.json
