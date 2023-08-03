@@ -1,0 +1,2 @@
+dev/openfeature/contrib/providers/go-feature-flag/0.2.10/go-feature-flag-0.2.10-cyclonedx.xml
+dev/openfeature/contrib/providers/go-feature-flag/0.2.10/go-feature-flag-0.2.10-cyclonedx.json
