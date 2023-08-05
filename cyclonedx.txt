@@ -54,6 +54,9 @@ com.io7m.idstore:com.io7m.idstore.tests.arbitraries
 com.io7m.idstore:com.io7m.idstore.tests.extensions
 com.io7m.idstore:com.io7m.idstore.user_client
 com.io7m.idstore:com.io7m.idstore.user_client.api
+com.io7m.jdownload:com.io7m.jdownload
+com.io7m.jdownload:com.io7m.jdownload.core
+com.io7m.jdownload:com.io7m.jdownload.tests
 com.io7m.jqpage:com.io7m.jqpage
 com.io7m.jqpage:com.io7m.jqpage.core
 com.io7m.jqpage:com.io7m.jqpage.tests

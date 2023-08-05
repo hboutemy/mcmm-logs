@@ -1,0 +1,4 @@
+com/io7m/jdownload/com.io7m.jdownload.core/0.0.1/com.io7m.jdownload.core-0.0.1-cyclonedx.xml
+com/io7m/jdownload/com.io7m.jdownload.tests/0.0.1/com.io7m.jdownload.tests-0.0.1-cyclonedx.xml
+com/io7m/jdownload/com.io7m.jdownload/0.0.1/com.io7m.jdownload-0.0.1-cyclonedx.xml
+org/sonarsource/scanner/cli/sonar-scanner-cli/5.0.1.3006/sonar-scanner-cli-5.0.1.3006-cyclonedx.json
