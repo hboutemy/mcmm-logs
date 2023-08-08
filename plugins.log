@@ -288,6 +288,7 @@ com.anton-johansson -> conventional-changelog:conventional-changelog-maven-plugi
 com.anton-johansson -> version-lifecycle:version-lifecycle-maven-plugin = "Version lifecycle plugin"
 com.antwerkz.critter -> critter:critter-maven = 
 com.antwerkz.github -> issues:issues-maven-plugin = 
+com.antwerkz.maven -> obsoleter:obsoleter = "obsoleter"
 com.antwerkz.sofia -> :maven = "Sofia Maven Mojo"
 com.antwerkz.sofia -> sofia:sofia-maven = "Sofia Maven Mojo"
 com.apigee.edge.config -> apigee-config:apigee-config-maven-plugin = "apigee-config-maven-plugin"

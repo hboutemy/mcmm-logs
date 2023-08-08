@@ -4,6 +4,10 @@ com.hack23.cia:cia-dist-cloudformation
 com.hack23.cia:cia-dist-deb
 com.hack23.cia:citizen-intelligence-agency
 com.hack23.sonar:sonar-cloudformation-plugin
+com.io7m.blackthorne:com.io7m.blackthorne
+com.io7m.blackthorne:com.io7m.blackthorne.api
+com.io7m.blackthorne:com.io7m.blackthorne.jxe
+com.io7m.blackthorne:com.io7m.blackthorne.tests
 com.io7m.ervilla:com.io7m.ervilla
 com.io7m.ervilla:com.io7m.ervilla.api
 com.io7m.ervilla:com.io7m.ervilla.native_exec
@@ -887,6 +891,7 @@ org.apache.maven.resolver:maven-resolver-named-locks
 org.apache.maven.resolver:maven-resolver-named-locks-hazelcast
 org.apache.maven.resolver:maven-resolver-named-locks-redisson
 org.apache.maven.resolver:maven-resolver-spi
+org.apache.maven.resolver:maven-resolver-supplier
 org.apache.maven.resolver:maven-resolver-test-util
 org.apache.maven.resolver:maven-resolver-transport-classpath
 org.apache.maven.resolver:maven-resolver-transport-file

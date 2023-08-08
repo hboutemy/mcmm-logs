@@ -1,0 +1,2 @@
+org/opendaylight/bgpcep/bgpcep-sbom-0.20.1.spdx
+org/opendaylight/netconf/netconf-sbom-6.0.1.spdx
