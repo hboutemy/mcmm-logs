@@ -4,6 +4,7 @@ com.hack23.sonar:sonar-cloudformation-plugin
 com.xenoamess.fork.org.apache.commons:commons-compress
 commons-codec:commons-codec
 commons-daemon:commons-daemon
+commons-dbutils:commons-dbutils
 commons-fileupload:commons-fileupload
 commons-io:commons-io
 commons-net:commons-net
