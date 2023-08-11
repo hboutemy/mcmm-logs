@@ -6,6 +6,7 @@ com.hack23.cia:citizen-intelligence-agency
 com.hack23.sonar:sonar-cloudformation-plugin
 com.io7m.blackthorne:com.io7m.blackthorne
 com.io7m.blackthorne:com.io7m.blackthorne.api
+com.io7m.blackthorne:com.io7m.blackthorne.core
 com.io7m.blackthorne:com.io7m.blackthorne.jxe
 com.io7m.blackthorne:com.io7m.blackthorne.tests
 com.io7m.ervilla:com.io7m.ervilla
@@ -115,6 +116,11 @@ com.io7m.tabla:com.io7m.tabla
 com.io7m.tabla:com.io7m.tabla.cmdline
 com.io7m.tabla:com.io7m.tabla.core
 com.io7m.tabla:com.io7m.tabla.tests
+com.io7m.trasco:com.io7m.trasco
+com.io7m.trasco:com.io7m.trasco.api
+com.io7m.trasco:com.io7m.trasco.tests
+com.io7m.trasco:com.io7m.trasco.vanilla
+com.io7m.trasco:com.io7m.trasco.xml.schemas
 com.io7m.wendover:com.io7m.wendover
 com.io7m.wendover:com.io7m.wendover.core
 com.io7m.wendover:com.io7m.wendover.tests
