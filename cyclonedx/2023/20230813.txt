@@ -1,0 +1,7 @@
+com/io7m/anethum/com.io7m.anethum.api/1.1.0/com.io7m.anethum.api-1.1.0-cyclonedx.xml
+com/io7m/anethum/com.io7m.anethum.slf4j/1.1.0/com.io7m.anethum.slf4j-1.1.0-cyclonedx.xml
+com/io7m/anethum/com.io7m.anethum.tests/1.1.0/com.io7m.anethum.tests-1.1.0-cyclonedx.xml
+com/io7m/anethum/com.io7m.anethum/1.1.0/com.io7m.anethum-1.1.0-cyclonedx.xml
+com/io7m/jmulticlose/com.io7m.jmulticlose.core/1.1.0/com.io7m.jmulticlose.core-1.1.0-cyclonedx.xml
+com/io7m/jmulticlose/com.io7m.jmulticlose.tests/1.1.0/com.io7m.jmulticlose.tests-1.1.0-cyclonedx.xml
+com/io7m/jmulticlose/com.io7m.jmulticlose/1.1.0/com.io7m.jmulticlose-1.1.0-cyclonedx.xml

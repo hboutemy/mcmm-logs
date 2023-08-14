@@ -4,6 +4,10 @@ com.hack23.cia:cia-dist-cloudformation
 com.hack23.cia:cia-dist-deb
 com.hack23.cia:citizen-intelligence-agency
 com.hack23.sonar:sonar-cloudformation-plugin
+com.io7m.anethum:com.io7m.anethum
+com.io7m.anethum:com.io7m.anethum.api
+com.io7m.anethum:com.io7m.anethum.slf4j
+com.io7m.anethum:com.io7m.anethum.tests
 com.io7m.blackthorne:com.io7m.blackthorne
 com.io7m.blackthorne:com.io7m.blackthorne.api
 com.io7m.blackthorne:com.io7m.blackthorne.core
@@ -62,6 +66,9 @@ com.io7m.idstore:com.io7m.idstore.user_client.api
 com.io7m.jdownload:com.io7m.jdownload
 com.io7m.jdownload:com.io7m.jdownload.core
 com.io7m.jdownload:com.io7m.jdownload.tests
+com.io7m.jmulticlose:com.io7m.jmulticlose
+com.io7m.jmulticlose:com.io7m.jmulticlose.core
+com.io7m.jmulticlose:com.io7m.jmulticlose.tests
 com.io7m.jqpage:com.io7m.jqpage
 com.io7m.jqpage:com.io7m.jqpage.core
 com.io7m.jqpage:com.io7m.jqpage.tests
