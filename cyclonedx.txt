@@ -150,6 +150,7 @@ commons-dbutils:commons-dbutils
 commons-fileupload:commons-fileupload
 commons-io:commons-io
 commons-net:commons-net
+de.trustable:cryptoUtil
 dev.iabudiab:dependency-track-maven-plugin
 dev.openfeature.contrib.hooks:otel
 dev.openfeature.contrib.providers:env-var
