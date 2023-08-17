@@ -1,0 +1,16 @@
+dev/openfeature/sdk/1.5.0/sdk-1.5.0-cyclonedx.xml
+dev/openfeature/sdk/1.5.0/sdk-1.5.0-cyclonedx.json
+gov/nist/secauto/oscal/liboscal-java/3.0.1/liboscal-java-3.0.1-cyclonedx.json
+gov/nist/secauto/oscal/liboscal-java/3.0.1/liboscal-java-3.0.1-cyclonedx.xml
+org/apache/orc/orc-core/1.9.1/orc-core-1.9.1-cyclonedx.xml
+org/apache/orc/orc-core/1.9.1/orc-core-1.9.1-cyclonedx.json
+org/apache/orc/orc-examples/1.9.1/orc-examples-1.9.1-cyclonedx.json
+org/apache/orc/orc-examples/1.9.1/orc-examples-1.9.1-cyclonedx.xml
+org/apache/orc/orc-mapreduce/1.9.1/orc-mapreduce-1.9.1-cyclonedx.xml
+org/apache/orc/orc-mapreduce/1.9.1/orc-mapreduce-1.9.1-cyclonedx.json
+org/apache/orc/orc-shims/1.9.1/orc-shims-1.9.1-cyclonedx.xml
+org/apache/orc/orc-shims/1.9.1/orc-shims-1.9.1-cyclonedx.json
+org/apache/orc/orc-tools/1.9.1/orc-tools-1.9.1-cyclonedx.json
+org/apache/orc/orc-tools/1.9.1/orc-tools-1.9.1-cyclonedx.xml
+org/apache/orc/orc/1.9.1/orc-1.9.1-cyclonedx.json
+org/apache/orc/orc/1.9.1/orc-1.9.1-cyclonedx.xml
