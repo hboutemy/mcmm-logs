@@ -590,6 +590,7 @@ com.eeeffff.yapidoc -> yapidoc:yapidoc-maven-plugin =
 com.efluid.oss -> datagate-generator:datagate-generator = "Dictionary generator"
 com.efluid.oss -> efluid-datagate-generator:efluid-datagate-generator = "Dictionary generator"
 com.elasticpath -> rest-viz:rest-viz-maven-plugin = "rest-viz-maven-plugin"
+com.enofex -> naikan:naikan-maven-plugin = "Naikan Maven Plugin Module"
 com.envoisolutions.sxc -> sxc-jaxb:sxc-jaxb-maven-plugin = "SXC JAXB :: Maven Plugin"
 com.epam.healenium -> hlm-report-mvn:hlm-report-mvn = "hlm-report-mvn"
 com.ericsson.research.trap -> trap-index:trap-index-maven-plugin = "Index Maven Plugin"
