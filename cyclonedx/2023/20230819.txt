@@ -1,0 +1,4 @@
+com/io7m/canonmill/com.io7m.canonmill.core/1.0.0-beta0001/com.io7m.canonmill.core-1.0.0-beta0001-cyclonedx.xml
+com/io7m/canonmill/com.io7m.canonmill.documentation/1.0.0-beta0001/com.io7m.canonmill.documentation-1.0.0-beta0001-cyclonedx.xml
+com/io7m/canonmill/com.io7m.canonmill.tests/1.0.0-beta0001/com.io7m.canonmill.tests-1.0.0-beta0001-cyclonedx.xml
+com/io7m/canonmill/com.io7m.canonmill/1.0.0-beta0001/com.io7m.canonmill-1.0.0-beta0001-cyclonedx.xml

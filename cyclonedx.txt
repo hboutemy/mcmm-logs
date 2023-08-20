@@ -13,6 +13,10 @@ com.io7m.blackthorne:com.io7m.blackthorne.api
 com.io7m.blackthorne:com.io7m.blackthorne.core
 com.io7m.blackthorne:com.io7m.blackthorne.jxe
 com.io7m.blackthorne:com.io7m.blackthorne.tests
+com.io7m.canonmill:com.io7m.canonmill
+com.io7m.canonmill:com.io7m.canonmill.core
+com.io7m.canonmill:com.io7m.canonmill.documentation
+com.io7m.canonmill:com.io7m.canonmill.tests
 com.io7m.ervilla:com.io7m.ervilla
 com.io7m.ervilla:com.io7m.ervilla.api
 com.io7m.ervilla:com.io7m.ervilla.native_exec
