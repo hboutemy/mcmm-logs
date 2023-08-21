@@ -171,6 +171,7 @@ cn.ibizlab.plugin -> sshexec:sshexec = "sshexec"
 cn.iguodou -> gopath:gopath-maven-plugin = "Gopath Maven Plugin Core"
 cn.iguodou -> manifest:manifest-maven-plugin = "Manifest Maven Plugin Core"
 cn.ipokerface -> mybatis-generator:mybatis-generator-maven-plugin = "mybatis-generator-maven-plugin"
+cn.itlym -> shoulder:shoulder-maven-plugin = "Shoulder ErrorCode Helper Plugin"
 cn.itlym.shoulder -> shoulder:shoulder-maven-plugin = "Shoulder ErrorCode Helper Plugin"
 cn.jexxs.boot.plugin -> codeg:codeg-maven-plugin = 
 cn.joylau.code -> joylau-compressors:joylau-compressor-plugins = "joylau-compressor-plugins Maven Mojo"
