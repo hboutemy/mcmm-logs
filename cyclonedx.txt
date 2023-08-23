@@ -105,6 +105,9 @@ com.io7m.primogenitor:com.io7m.primogenitor.full
 com.io7m.primogenitor:com.io7m.primogenitor.lite
 com.io7m.primogenitor:com.io7m.primogenitor.support
 com.io7m.primogenitor:com.io7m.primogenitor.tests
+com.io7m.scando:com.io7m.scando
+com.io7m.scando:com.io7m.scando.cmdline
+com.io7m.scando:com.io7m.scando.tests
 com.io7m.streamtime:com.io7m.streamtime
 com.io7m.streamtime:com.io7m.streamtime.core
 com.io7m.streamtime:com.io7m.streamtime.tests
@@ -896,6 +899,10 @@ org.apache.hbase:hbase-testing-util
 org.apache.hbase:hbase-thrift
 org.apache.hbase:hbase-zookeeper
 org.apache.maven.doxia:doxia-tools
+org.apache.maven.enforcer:enforcer
+org.apache.maven.enforcer:enforcer-api
+org.apache.maven.enforcer:enforcer-rules
+org.apache.maven.extensions:maven-enforcer-extension
 org.apache.maven.extensions:maven-extensions
 org.apache.maven.indexer:indexer-cli
 org.apache.maven.indexer:indexer-core
@@ -905,6 +912,7 @@ org.apache.maven.indexer:search-api
 org.apache.maven.indexer:search-backend-indexer
 org.apache.maven.indexer:search-backend-remoterepository
 org.apache.maven.indexer:search-backend-smo
+org.apache.maven.plugins:maven-enforcer-plugin
 org.apache.maven.plugins:maven-plugins
 org.apache.maven.resolver:maven-resolver
 org.apache.maven.resolver:maven-resolver-api
@@ -932,6 +940,7 @@ org.apache.maven:maven-api-model
 org.apache.maven:maven-api-settings
 org.apache.maven:maven-api-toolchain
 org.apache.maven:maven-api-xml
+org.apache.maven:maven-archiver
 org.apache.maven:maven-artifact
 org.apache.maven:maven-bom
 org.apache.maven:maven-builder-support
