@@ -157,6 +157,7 @@ commons-dbutils:commons-dbutils
 commons-fileupload:commons-fileupload
 commons-io:commons-io
 commons-net:commons-net
+de.knightsoft-net:gwt-commons-lang3
 de.trustable:cryptoUtil
 dev.iabudiab:dependency-track-maven-plugin
 dev.openfeature.contrib.hooks:otel

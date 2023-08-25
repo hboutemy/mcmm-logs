@@ -8,6 +8,7 @@ commons-dbutils:commons-dbutils
 commons-fileupload:commons-fileupload
 commons-io:commons-io
 commons-net:commons-net
+de.knightsoft-net:gwt-commons-lang3
 org.apache.bcel:bcel
 org.apache.commons:commons-build-plugin
 org.apache.commons:commons-compress

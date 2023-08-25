@@ -323,6 +323,7 @@ com.astutebits -> jsquint:jsquint-maven-plugin = "jsquint-maven-plugin"
 com.asyncapi -> asyncapi:asyncapi-maven-plugin = 
 com.atlassian.bamboo -> bamboo-specs-runner:bamboo-specs-runner = "Bamboo Specs Runner Maven Plugin"
 com.atlassian.maven.plugins -> artifactory-staging:artifactory-staging-maven-plugin = "Artifactory Staging Maven Plugin"
+com.atlassian.maven.plugins -> clover:clover-maven-plugin = "Clover Maven Plugin"
 com.atlassian.maven.plugins -> clover2:maven-clover2-plugin = "Maven Clover Plugin"
 com.atlassian.maven.plugins -> jgitflow:maven-jgitflow-plugin = "Maven JGitFlow Plugin"
 com.atlassian.maven.plugins -> smartass:smartass-maven-plugin = "Maven Smart Assembly Plugin"
