@@ -3370,6 +3370,7 @@ io.konig -> konig-model-merge:konig-model-merge-maven-plugin = "Konig Model Merg
 io.konig -> konig-omcs-deploy:konig-omcs-deploy-maven-plugin = "konig OMCS Deployment Maven Plugin"
 io.konig -> konig-schemagen:konig-schemagen-maven-plugin = "Konig Schema Generator Maven Plugin"
 io.konig -> konig-sql-shape:konig-sql-shape-maven-plugin = "Konig SQL Maven Plugin"
+io.korandoru.hawkeye -> hawkeye:hawkeye-maven-plugin = "HawkEye :: Maven Plugin"
 io.kroxylicious -> kroxylicious-krpc:kroxylicious-krpc-plugin = "Code Generation plugin"
 io.lanau.framework.tools.eclipselinkstaticweavemavenplugin -> eclipselink-staticweave:eclipselink-staticweave-maven-plugin = "Lanau Eclipselink Staticweave Maven Plugin"
 io.leonard.maven.plugins -> jspc:jspc-maven-plugin = "JSPC Maven Plugin"
