@@ -148,6 +148,7 @@ com.soartech:jsoar-repl
 com.soartech:jsoar-soarunit
 com.soartech:jsoar-tcl
 com.swardana:oofx
+com.swardana:wisteria
 com.theoryinpractise:clojure-maven-plugin
 com.xenoamess.fork.org.apache.commons:commons-compress
 com.xenoamess:cyclonedx-maven-plugin
