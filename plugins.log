@@ -5947,7 +5947,6 @@ org.ops4j -> inherit:maven-inherit-plugin = "OPS4J - Support Maven Mojo inherita
 org.ops4j -> pax:maven-pax-plugin = "OPS4J - Pax Mojos: OSGi project helpers"
 org.ops4j.dadl -> dadl:dadl-maven-plugin = "OPS4J DADL Maven Plugin"
 org.ops4j.pax.exam -> exam:exam-maven-plugin = "OPS4J Pax Exam Maven Plugin"
-org.ops4j.pax.exam -> paxexam:maven-paxexam-plugin = "OPS4J Pax Exam - Maven Plugin"
 org.ops4j.pax.warp.maven -> warp:warp-maven-plugin = "OPS4J Pax Warp Maven Plugin"
 org.ops4j.ramler -> ramler:ramler-maven-plugin = "OPS4J Ramler Maven Plugin"
 org.ops4j.tools.maven -> osgi-report:osgi-report-maven-plugin = "OPS4J Tools : Maven : OSGi Manifest Summary"
