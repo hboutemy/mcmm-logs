@@ -1,0 +1,10 @@
+com/io7m/ervilla/com.io7m.ervilla.api/0.0.5/com.io7m.ervilla.api-0.0.5-cyclonedx.xml
+com/io7m/ervilla/com.io7m.ervilla.native_exec/0.0.5/com.io7m.ervilla.native_exec-0.0.5-cyclonedx.xml
+com/io7m/ervilla/com.io7m.ervilla.postgres/0.0.5/com.io7m.ervilla.postgres-0.0.5-cyclonedx.xml
+com/io7m/ervilla/com.io7m.ervilla.test_extension/0.0.5/com.io7m.ervilla.test_extension-0.0.5-cyclonedx.xml
+com/io7m/ervilla/com.io7m.ervilla.tests/0.0.5/com.io7m.ervilla.tests-0.0.5-cyclonedx.xml
+com/io7m/ervilla/com.io7m.ervilla/0.0.5/com.io7m.ervilla-0.0.5-cyclonedx.xml
+dev/openfeature/sdk/1.6.0/sdk-1.6.0-cyclonedx.json
+dev/openfeature/sdk/1.6.0/sdk-1.6.0-cyclonedx.xml
+us/springett/cpe-parser/2.0.3/cpe-parser-2.0.3-cyclonedx.json
+us/springett/cpe-parser/2.0.3/cpe-parser-2.0.3-cyclonedx.xml

@@ -2344,6 +2344,7 @@ us.springett:alpine-infra
 us.springett:alpine-model
 us.springett:alpine-parent
 us.springett:alpine-server
+us.springett:cpe-parser
 us.springett:cvss-calculator
 us.springett:nist-data-mirror
 us.springett:owasp-risk-rating-calculator
