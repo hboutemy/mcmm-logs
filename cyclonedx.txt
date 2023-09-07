@@ -1004,6 +1004,7 @@ org.apache.parquet:parquet-pig-bundle
 org.apache.parquet:parquet-protobuf
 org.apache.parquet:parquet-scala_2.12
 org.apache.parquet:parquet-thrift
+org.apache.santuario:xmlsec
 org.apache.spark:spark-avro_2.12
 org.apache.spark:spark-avro_2.13
 org.apache.spark:spark-catalyst_2.12
