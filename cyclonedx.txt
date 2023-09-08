@@ -1,4 +1,5 @@
 com.github.mwiede:jsch
+com.github.oscerd:finnhub-java-client
 com.gitlab.haynes:libsass-maven-plugin
 com.hack23.cia:cia-dist-cloudformation
 com.hack23.cia:cia-dist-deb
