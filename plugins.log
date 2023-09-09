@@ -3456,6 +3456,7 @@ io.sarl.maven -> sarl:sarl-maven-plugin = "Maven Compiler"
 io.schram.webassembly.maven -> jwebassembly:jwebassembly-maven = 
 io.sdkman -> sdkman:sdkman-maven-plugin = "SDKMAN! Maven Plugin"
 io.sealights.on-premise.agents.plugin -> sealights:sealights-maven-plugin = "sealights-maven-plugin"
+io.securin.plugin -> securin:securin-maven-plugin = "Securin Maven Plugin"
 io.semla -> method-runner:method-runner-maven-plugin = 
 io.semla -> semla:semla-maven-plugin = 
 io.sentry -> sentry:sentry-maven-plugin = "sentry-maven-plugin Maven Mojo"
