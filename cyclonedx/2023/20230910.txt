@@ -1,0 +1,10 @@
+org/apache/maven/enforcer/enforcer-api/3.4.1/enforcer-api-3.4.1-cyclonedx.json
+org/apache/maven/enforcer/enforcer-api/3.4.1/enforcer-api-3.4.1-cyclonedx.xml
+org/apache/maven/enforcer/enforcer-rules/3.4.1/enforcer-rules-3.4.1-cyclonedx.json
+org/apache/maven/enforcer/enforcer-rules/3.4.1/enforcer-rules-3.4.1-cyclonedx.xml
+org/apache/maven/enforcer/enforcer/3.4.1/enforcer-3.4.1-cyclonedx.json
+org/apache/maven/enforcer/enforcer/3.4.1/enforcer-3.4.1-cyclonedx.xml
+org/apache/maven/extensions/maven-enforcer-extension/3.4.1/maven-enforcer-extension-3.4.1-cyclonedx.xml
+org/apache/maven/extensions/maven-enforcer-extension/3.4.1/maven-enforcer-extension-3.4.1-cyclonedx.json
+org/apache/maven/plugins/maven-enforcer-plugin/3.4.1/maven-enforcer-plugin-3.4.1-cyclonedx.json
+org/apache/maven/plugins/maven-enforcer-plugin/3.4.1/maven-enforcer-plugin-3.4.1-cyclonedx.xml
