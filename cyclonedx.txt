@@ -935,6 +935,7 @@ org.apache.maven.indexer:search-backend-smo
 org.apache.maven.plugins:maven-enforcer-plugin
 org.apache.maven.plugins:maven-plugins
 org.apache.maven.resolver:maven-resolver
+org.apache.maven.resolver:maven-resolver-ant-tasks
 org.apache.maven.resolver:maven-resolver-api
 org.apache.maven.resolver:maven-resolver-connector-basic
 org.apache.maven.resolver:maven-resolver-impl

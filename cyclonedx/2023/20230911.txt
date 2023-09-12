@@ -1,0 +1,6 @@
+dev/openfeature/sdk/1.6.1/sdk-1.6.1-cyclonedx.json
+dev/openfeature/sdk/1.6.1/sdk-1.6.1-cyclonedx.xml
+org/apache/maven/resolver/maven-resolver-ant-tasks/1.5.0/maven-resolver-ant-tasks-1.5.0-cyclonedx.xml
+org/apache/maven/resolver/maven-resolver-ant-tasks/1.5.0/maven-resolver-ant-tasks-1.5.0-cyclonedx.json
+org/sonatype/nexus/plugins/nexus-blobstore-google-cloud/0.60.0/nexus-blobstore-google-cloud-0.60.0-cyclonedx.xml
+org/sonatype/nexus/plugins/nexus-blobstore-google-cloud/0.60.0/nexus-blobstore-google-cloud-0.60.0-cyclonedx.json
