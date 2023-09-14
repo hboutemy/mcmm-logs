@@ -1011,6 +1011,8 @@ org.apache.spark:spark-avro_2.12
 org.apache.spark:spark-avro_2.13
 org.apache.spark:spark-catalyst_2.12
 org.apache.spark:spark-catalyst_2.13
+org.apache.spark:spark-common-utils_2.12
+org.apache.spark:spark-common-utils_2.13
 org.apache.spark:spark-connect-client-jvm_2.12
 org.apache.spark:spark-connect-client-jvm_2.13
 org.apache.spark:spark-connect-common_2.12
@@ -1055,6 +1057,8 @@ org.apache.spark:spark-repl_2.12
 org.apache.spark:spark-repl_2.13
 org.apache.spark:spark-sketch_2.12
 org.apache.spark:spark-sketch_2.13
+org.apache.spark:spark-sql-api_2.12
+org.apache.spark:spark-sql-api_2.13
 org.apache.spark:spark-sql-kafka-0-10_2.12
 org.apache.spark:spark-sql-kafka-0-10_2.13
 org.apache.spark:spark-sql_2.12
