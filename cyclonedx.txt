@@ -2320,6 +2320,7 @@ org.owasp.antisamy:antisamy
 org.owasp.esapi:esapi
 org.sonarsource.dummy:sonar-dummy-oss-plugin
 org.sonarsource.scanner.cli:sonar-scanner-cli
+org.sonarsource.scanner.maven:sonar-maven-plugin
 org.sonarsource.sonarqube:sonar-application
 org.sonatype.nexus.plugins:nexus-blobstore-google-cloud
 org.xmlunit:xmlunit-assertj
