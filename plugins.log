@@ -3181,6 +3181,7 @@ io.github.lbellonda -> checklocale:checklocale = "Check Locale Maven Mojo"
 io.github.lengmianshi -> mybatis-mapper-generator:mybatis-mapper-generator-maven-plugin = "mybatis-mapper-generator-maven-plugin Maven Plugin"
 io.github.letitb -> selenium-test:selenium-test-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.livingdocumentation -> livingdoc:livingdoc-maven-plugin = "${project.groupId}:${project.artifactId}"
+io.github.lizhian -> easier-framework:easier-framework-maven-plugin = 
 io.github.lmikoto -> git-hook:git-hook-maven-plugin = "git-hook-maven-plugin"
 io.github.lorenzobettini.edelta -> edelta:edelta-maven-plugin = 
 io.github.lucacirillo2738 -> json:json = "LucasJson"
