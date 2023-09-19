@@ -482,6 +482,7 @@ org.apache.avro:trevni-core
 org.apache.avro:trevni-doc
 org.apache.avro:trevni-java
 org.apache.bcel:bcel
+org.apache.camel.quarkus:camel-quarkus
 org.apache.commons:commons-build-plugin
 org.apache.commons:commons-compress
 org.apache.commons:commons-configuration2
@@ -494,6 +495,12 @@ org.apache.commons:commons-fileupload2-distribution
 org.apache.commons:commons-fileupload2-jakarta
 org.apache.commons:commons-fileupload2-javax
 org.apache.commons:commons-fileupload2-portlet
+org.apache.commons:commons-jcs3
+org.apache.commons:commons-jcs3-core
+org.apache.commons:commons-jcs3-jcache
+org.apache.commons:commons-jcs3-jcache-extras
+org.apache.commons:commons-jcs3-jcache-openjpa
+org.apache.commons:commons-jcs3-jcache-tck
 org.apache.commons:commons-jexl3
 org.apache.commons:commons-lang3
 org.apache.commons:commons-math-parent
