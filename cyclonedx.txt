@@ -2205,13 +2205,16 @@ org.opendaylight.transportpce.models:odl-tapi-2.4.0-models
 org.opendaylight.transportpce.models:odl-tapi-models
 org.opendaylight.transportpce.models:openroadm-common-1.2.1
 org.opendaylight.transportpce.models:openroadm-common-10.1.0
+org.opendaylight.transportpce.models:openroadm-common-13.1.0
 org.opendaylight.transportpce.models:openroadm-common-2.2.1
 org.opendaylight.transportpce.models:openroadm-common-7.1.0
 org.opendaylight.transportpce.models:openroadm-device-1.2.1
 org.opendaylight.transportpce.models:openroadm-device-2.2.1
 org.opendaylight.transportpce.models:openroadm-device-7.1.0
 org.opendaylight.transportpce.models:openroadm-network-10.1.0
+org.opendaylight.transportpce.models:openroadm-network-13.1.0
 org.opendaylight.transportpce.models:openroadm-service-10.1.0
+org.opendaylight.transportpce.models:openroadm-service-13.1.0
 org.opendaylight.transportpce.models:tapi-2.1.1
 org.opendaylight.transportpce.models:tapi-2.4.0
 org.opendaylight.transportpce.models:transportpce-models-artifacts
