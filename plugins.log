@@ -677,6 +677,7 @@ com.gitee.chentaoah -> spirit:spirit-maven-plugin =
 com.gitee.hedingwei -> git-dependency:git-dependency = "git-dependency"
 com.gitee.hengboy -> code-builder:code-builder-maven-plugin = 
 com.gitee.jastee -> security:security-maven-plugin = 
+com.gitee.knight322 -> joylau-springboot-daemon-windows:joylau-springboot-daemon-windows = "joylau-springboot-daemon-windows Maven Mojo"
 com.gitee.l0km -> cassdk-service:cassdk-service-maven-plugin = "cassdk-service-maven-plugin"
 com.gitee.l0km -> cassdk-wrapper-service:cassdk-wrapper-service-maven-plugin = "cassdk-wrapper-service-maven-plugin"
 com.gitee.l0km -> codegen-decorator:codegen-decorator-maven-plugin = "codegen-decorator-maven-plugin"
