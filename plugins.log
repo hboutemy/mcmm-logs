@@ -265,6 +265,7 @@ com.alibaba.testable -> testable:testable-maven-plugin = "testable-maven-plugin"
 com.alilitech -> boot-plus-generator:boot-plus-generator = "boot-plus-generator Maven Mojo"
 com.alilitech -> mybatis-jpa-generator:mybatis-jpa-generator = "boot-plus-generator Maven Mojo"
 com.alipay.chainstack -> cstack:cstack-maven-plugin = "cstack-maven-plugin Maven Mojo"
+com.alipay.mybuffer -> mybuffer:mybuffer-maven-plugin = "MyBuffer maven plugin"
 com.alipay.myjava -> myjava:myjava-maven-plugin = "MyJava maven plugin"
 com.alipay.sofa -> sofa-ark:sofa-ark-maven-plugin = 
 com.alipay.sofa -> sofa-ark:sofa-ark-plugin-maven-plugin = 
@@ -2274,7 +2275,7 @@ com.systemsplanet.plugin -> google-api-translate-java:google-api-translate-java-
 com.tacitknowledge -> autopatch:autopatch-maven-plugin = "AutoPatch Maven Plugin"
 com.tacitknowledge.maven.plugins -> cobertura-checker:cobertura-checker = "Cobertura XML Check Maven Plugin"
 com.tacitknowledge.maven.plugins -> crx-packager:maven-crx-packager-plugin = "CRX Package Maven Plugin"
-com.tambapps.marcel.maven -> marcel:marcel-maven-plugin = "Marcel Maven plugin to compile Marcel projects"
+com.tambapps.marcel.maven -> marcel:marcel-maven-plugin = "Marcel Maven"
 com.tantowi.maven -> tomcat:tomcat-maven-plugin = "Tomcat Maven Plugin"
 com.tasktop.maven -> change-impact:change-impact = "change.impact Maven Plugin"
 com.teamscale -> teamscale:teamscale-maven-plugin = "Teamscale Maven Plugin"
