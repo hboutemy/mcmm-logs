@@ -244,6 +244,7 @@ io.dropwizard.metrics:metrics-httpasyncclient
 io.dropwizard.metrics:metrics-httpclient
 io.dropwizard.metrics:metrics-httpclient5
 io.dropwizard.metrics:metrics-jakarta-servlet
+io.dropwizard.metrics:metrics-jakarta-servlet6
 io.dropwizard.metrics:metrics-jakarta-servlets
 io.dropwizard.metrics:metrics-jcache
 io.dropwizard.metrics:metrics-jcstress
@@ -254,6 +255,8 @@ io.dropwizard.metrics:metrics-jersey3
 io.dropwizard.metrics:metrics-jersey31
 io.dropwizard.metrics:metrics-jetty10
 io.dropwizard.metrics:metrics-jetty11
+io.dropwizard.metrics:metrics-jetty12
+io.dropwizard.metrics:metrics-jetty12-ee10
 io.dropwizard.metrics:metrics-jetty9
 io.dropwizard.metrics:metrics-jmx
 io.dropwizard.metrics:metrics-json
