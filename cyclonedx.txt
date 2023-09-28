@@ -302,6 +302,11 @@ io.dropwizard:dropwizard-validation
 io.dropwizard:dropwizard-views
 io.dropwizard:dropwizard-views-freemarker
 io.dropwizard:dropwizard-views-mustache
+io.smallrye.reactive:mutiny
+io.smallrye.reactive:mutiny-kotlin
+io.smallrye.reactive:mutiny-math
+io.smallrye.reactive:mutiny-reactor
+io.smallrye.reactive:mutiny-rxjava3
 me.dmmax.akka:akka-spawn-protocol
 me.dmmax.akka:akka-spawn-protocol-guice
 net.intelie.pipes:pipes

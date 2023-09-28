@@ -1,0 +1,12 @@
+com/swardana/wisteria/1.0.0-alpha.20230927/wisteria-1.0.0-alpha.20230927-cyclonedx.xml
+com/swardana/wisteria/1.0.0-alpha.20230927/wisteria-1.0.0-alpha.20230927-cyclonedx.json
+io/smallrye/reactive/mutiny-kotlin/2.5.1/mutiny-kotlin-2.5.1-cyclonedx.xml
+io/smallrye/reactive/mutiny-kotlin/2.5.1/mutiny-kotlin-2.5.1-cyclonedx.json
+io/smallrye/reactive/mutiny-math/2.5.1/mutiny-math-2.5.1-cyclonedx.xml
+io/smallrye/reactive/mutiny-math/2.5.1/mutiny-math-2.5.1-cyclonedx.json
+io/smallrye/reactive/mutiny-reactor/2.5.1/mutiny-reactor-2.5.1-cyclonedx.json
+io/smallrye/reactive/mutiny-reactor/2.5.1/mutiny-reactor-2.5.1-cyclonedx.xml
+io/smallrye/reactive/mutiny-rxjava3/2.5.1/mutiny-rxjava3-2.5.1-cyclonedx.xml
+io/smallrye/reactive/mutiny-rxjava3/2.5.1/mutiny-rxjava3-2.5.1-cyclonedx.json
+io/smallrye/reactive/mutiny/2.5.1/mutiny-2.5.1-cyclonedx.json
+io/smallrye/reactive/mutiny/2.5.1/mutiny-2.5.1-cyclonedx.xml
