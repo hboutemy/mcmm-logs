@@ -184,6 +184,7 @@ dev.openfeature.contrib.providers:flagd
 dev.openfeature.contrib.providers:flagsmith
 dev.openfeature.contrib.providers:go-feature-flag
 dev.openfeature.contrib.providers:jsonlogic-eval-provider
+dev.openfeature.contrib.providers:unleash
 dev.openfeature:sdk
 dev.vality:service-parent-pom
 fr.marcwrobel:jbanking
