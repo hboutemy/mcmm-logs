@@ -442,6 +442,7 @@ one.microstream:microstream-storage-restclient-app
 one.microstream:microstream-storage-restclient-jersey
 one.microstream:microstream-storage-restservice
 one.microstream:microstream-storage-restservice-sparkjava
+org.aarboard.nextcloud:nextcloud-api
 org.apache.arrow.gandiva:arrow-gandiva
 org.apache.arrow.orc:arrow-orc
 org.apache.arrow:arrow-algorithm
