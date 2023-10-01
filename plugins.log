@@ -183,6 +183,7 @@ cn.richinfo.agent.android -> agent:agent-maven-plugin = "RichAPM Android Agent M
 cn.shenyanchao.ut -> ut:ut-maven-plugin = "ut-maven-plugin"
 cn.smallbun.screw -> screw:screw-maven-plugin = 
 cn.structured -> structure-mybatis-plus-generate:structure-mybatis-plus-generate = 
+cn.taketoday -> infra:infra-maven-plugin = "infra-maven-plugin"
 cn.taketoday -> today-infra:today-infra-maven-plugin = "today-infra-maven-plugin"
 cn.wangdm.maven.plugins -> wangdm-fake:wangdm-fake-maven-plugin = "Fake Maven Plugin"
 cn.wangdm.maven.plugins -> wangdm-fake:wangdm-fake-plugin = "Fake Maven Plugin"

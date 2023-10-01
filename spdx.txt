@@ -50,6 +50,7 @@ org.apache.commons:commons-numbers-primes
 org.apache.commons:commons-numbers-quaternion
 org.apache.commons:commons-numbers-rootfinder
 org.apache.commons:commons-parent
+org.apache.commons:commons-pool2
 org.apache.commons:commons-release-plugin
 org.apache.commons:commons-rng-client-api
 org.apache.commons:commons-rng-core
