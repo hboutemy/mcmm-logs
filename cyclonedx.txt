@@ -186,6 +186,7 @@ dev.openfeature.contrib.providers:go-feature-flag
 dev.openfeature.contrib.providers:jsonlogic-eval-provider
 dev.openfeature.contrib.providers:unleash
 dev.openfeature:sdk
+dev.samsanders.openvex:jvex
 dev.vality:service-parent-pom
 fr.marcwrobel:jbanking
 gov.nist.secauto.oscal:liboscal-java
@@ -951,6 +952,7 @@ org.apache.maven.indexer:search-api
 org.apache.maven.indexer:search-backend-indexer
 org.apache.maven.indexer:search-backend-remoterepository
 org.apache.maven.indexer:search-backend-smo
+org.apache.maven.plugins:maven-artifact-plugin
 org.apache.maven.plugins:maven-enforcer-plugin
 org.apache.maven.plugins:maven-javadoc-plugin
 org.apache.maven.plugins:maven-plugins
