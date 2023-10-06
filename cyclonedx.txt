@@ -938,6 +938,11 @@ org.apache.hbase:hbase-shell
 org.apache.hbase:hbase-testing-util
 org.apache.hbase:hbase-thrift
 org.apache.hbase:hbase-zookeeper
+org.apache.maven.doxia:doxia-integration-tools
+org.apache.maven.doxia:doxia-site-model
+org.apache.maven.doxia:doxia-site-renderer
+org.apache.maven.doxia:doxia-sitetools
+org.apache.maven.doxia:doxia-skin-model
 org.apache.maven.doxia:doxia-tools
 org.apache.maven.enforcer:enforcer
 org.apache.maven.enforcer:enforcer-api
@@ -957,6 +962,7 @@ org.apache.maven.plugins:maven-enforcer-plugin
 org.apache.maven.plugins:maven-javadoc-plugin
 org.apache.maven.plugins:maven-plugins
 org.apache.maven.plugins:maven-shade-plugin
+org.apache.maven.reporting:maven-reporting-impl
 org.apache.maven.resolver:maven-resolver
 org.apache.maven.resolver:maven-resolver-ant-tasks
 org.apache.maven.resolver:maven-resolver-api
