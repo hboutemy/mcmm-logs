@@ -962,6 +962,8 @@ org.apache.maven.plugins:maven-enforcer-plugin
 org.apache.maven.plugins:maven-javadoc-plugin
 org.apache.maven.plugins:maven-plugins
 org.apache.maven.plugins:maven-shade-plugin
+org.apache.maven.plugins:maven-site-plugin
+org.apache.maven.reporting:maven-reporting-exec
 org.apache.maven.reporting:maven-reporting-impl
 org.apache.maven.resolver:maven-resolver
 org.apache.maven.resolver:maven-resolver-ant-tasks
@@ -1035,6 +1037,7 @@ org.apache.parquet:parquet-pig-bundle
 org.apache.parquet:parquet-protobuf
 org.apache.parquet:parquet-scala_2.12
 org.apache.parquet:parquet-thrift
+org.apache.plc4x:plc4x-parent
 org.apache.santuario:xmlsec
 org.apache.spark:spark-avro_2.12
 org.apache.spark:spark-avro_2.13
