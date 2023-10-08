@@ -2558,6 +2558,7 @@ de.felixschulze.maven.plugins.xcode -> xcode:xcode-maven-plugin = "XCode Maven P
 de.fenvariel -> certificate:certificate-maven-plugin = "Maven Certificate Plugin"
 de.fenvariel -> freemarker:freemarker-maven-plugin = "${project.groupId}:${project.artifactId}"
 de.fenvariel -> gettext:gettext-maven-plugin = "Maven Gettext Plugin"
+de.firehead -> compressor:compressor-maven-plugin = "compressor-maven-plugin Maven Plugin"
 de.flashpixx -> rrd-antlr4:rrd-antlr4 = "RRD-ANTLR4"
 de.fluxparticle -> jpackage:jpackage-maven-plugin = "jPackageMavenPlugin"
 de.garrus.maven -> minecraft-server:minecraft-server-plugin = "minecraft-server-launcher"
