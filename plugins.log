@@ -2481,6 +2481,7 @@ com.zenofx.maven -> marketplace:marketplace-maven-plugin = "Atlassian Marketplac
 com.zoho.catalyst -> catalyst:catalyst-maven-plugin = "catalyst-maven-plugin Maven Mojo"
 com.zusmart -> zusmart:zusmart-maven-plugin = "zusmart-maven-plugin"
 com.zuunr.util -> module-versioning:module-versioning-maven-plugin = "Module versioning maven plugin"
+community.flock -> graphql-simple-bindings:graphql-simple-bindings-maven-plugin = 
 cz.alry -> plantuml:plantuml-maven-plugin = "Maven PlantUML plugin"
 cz.cuni.mff.d3s.spl -> jmh_spl:jmh_spl-maven-plugin = "SPL integration into JMH Maven Plugin"
 cz.cvut.kbss.jopa -> jopa:jopa-maven-plugin = "JOPA - maven plugin"
