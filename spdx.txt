@@ -95,6 +95,7 @@ org.jetbrains.kotlin:kotlin-daemon
 org.jetbrains.kotlin:kotlin-daemon-client
 org.jetbrains.kotlin:kotlin-daemon-embeddable
 org.jetbrains.kotlin:kotlin-dist-for-jps-meta
+org.jetbrains.kotlin:kotlin-dom-api-compat
 org.jetbrains.kotlin:kotlin-gradle-build-metrics
 org.jetbrains.kotlin:kotlin-gradle-plugin
 org.jetbrains.kotlin:kotlin-gradle-plugin-annotations

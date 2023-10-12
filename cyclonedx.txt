@@ -494,6 +494,8 @@ org.apache.avro:trevni-doc
 org.apache.avro:trevni-java
 org.apache.bcel:bcel
 org.apache.camel.quarkus:camel-quarkus
+org.apache.camel.springboot:spring-boot
+org.apache.camel:camel
 org.apache.commons:commons-build-plugin
 org.apache.commons:commons-compress
 org.apache.commons:commons-configuration2
@@ -983,6 +985,7 @@ org.apache.maven.resolver:maven-resolver-transport-http
 org.apache.maven.resolver:maven-resolver-transport-wagon
 org.apache.maven.resolver:maven-resolver-util
 org.apache.maven.shared:maven-shared-components
+org.apache.maven.skins:maven-fluido-skin
 org.apache.maven.skins:maven-skins
 org.apache.maven:apache-maven
 org.apache.maven:maven
