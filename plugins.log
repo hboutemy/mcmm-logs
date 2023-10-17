@@ -206,6 +206,7 @@ co.mewf.humpty -> humpty:humpty-maven-plugin = "humpty-maven-plugin"
 codes.rafael.gradlemavenplugin -> gradle:gradle-maven-plugin = "gradle-maven-plugin Maven Mojo"
 codes.rafael.modulemaker -> modulemaker:modulemaker-maven-plugin = "Module Maker Maven Plugin"
 codes.rafael.structuraltype -> structural-type:structural-type-maven-plugin = 
+codes.vps -> tomcat-valve-request-filter:tomcat-valve-request-filter-maven-plugin = "Tomcat valve request filter build plugin"
 com.7p-group -> minify:minify-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.aaronicsubstances -> code-augmentor:code-augmentor-maven-plugin = "code-augmentor-maven-plugin"
 com.abstratt -> cloudfier:cloudfier-maven-plugin = "${project.groupId}:${project.artifactId}"

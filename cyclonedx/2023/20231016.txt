@@ -1,0 +1,2 @@
+org/cyclonedx/cyclonedx-core-java/8.0.1/cyclonedx-core-java-8.0.1-cyclonedx.json
+org/cyclonedx/cyclonedx-core-java/8.0.1/cyclonedx-core-java-8.0.1-cyclonedx.xml
