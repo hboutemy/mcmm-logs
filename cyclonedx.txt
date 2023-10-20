@@ -941,6 +941,7 @@ org.apache.hbase:hbase-shell
 org.apache.hbase:hbase-testing-util
 org.apache.hbase:hbase-thrift
 org.apache.hbase:hbase-zookeeper
+org.apache.logging:logging-parent
 org.apache.maven.doxia:doxia
 org.apache.maven.doxia:doxia-core
 org.apache.maven.doxia:doxia-integration-tools
