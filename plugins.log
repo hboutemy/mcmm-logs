@@ -3348,6 +3348,7 @@ io.gravitee.maven.plugins -> json-schema-generator:json-schema-generator-maven-p
 io.gumga -> gumgag:gumgag = "gumgag Maven Plugin"
 io.gupshup.maven -> gsbot:gsbot-maven-plugin = "Gupshup Bot Maven Plugin"
 io.hauer.mojo -> ci:ci-maven-plugin = "ci-maven-plugin"
+io.hawt -> camel-catalog-schema-generator:camel-catalog-schema-generator-plugin = "${project.artifactId}"
 io.hawt -> hawtio-camel-catalog-schema-generator:hawtio-camel-catalog-schema-generator-plugin = "${project.artifactId}"
 io.hawt -> hawtio-json-schema-generator:hawtio-json-schema-generator-plugin = "${project.artifactId}"
 io.hawt -> hawtio:hawtio-maven-plugin = "${project.artifactId}"

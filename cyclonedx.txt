@@ -85,6 +85,9 @@ com.io7m.jsx:com.io7m.jsx.parser
 com.io7m.jsx:com.io7m.jsx.parser.api
 com.io7m.jsx:com.io7m.jsx.prettyprint
 com.io7m.jsx:com.io7m.jsx.tests
+com.io7m.jvindicator:com.io7m.jvindicator
+com.io7m.jvindicator:com.io7m.jvindicator.core
+com.io7m.jvindicator:com.io7m.jvindicator.tests
 com.io7m.jxe:com.io7m.jxe
 com.io7m.jxe:com.io7m.jxe.core
 com.io7m.jxe:com.io7m.jxe.documentation
