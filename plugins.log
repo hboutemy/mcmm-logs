@@ -2931,6 +2931,7 @@ hu.blackbelt.judo.tatami -> judo-tatami-jsl-workflow:judo-tatami-jsl-workflow-ma
 hu.ibello -> ibello:ibello-maven-plugin = "Ibello maven plugin"
 hu.skawa -> migrator:migrator-maven-plugin = "Maven-Bazel Migration Plugin"
 icu.easyj.maven.plugins -> easyj:easyj-maven-plugin = "icu.easyj.maven.plugins :: easyj-maven-plugin"
+icu.etl -> easyetl:easyetl-maven-plugin = 
 in.ashwanthkumar -> editsource:maven-editsource = "maven-editsource"
 in.malonus.mocktail -> mocktail:mocktail-maven-plugin = "mocktail-maven-plugin"
 in.mayurshah -> testng-xml-maker:testng-xml-maker-maven-plugin = "selenium-helper"
