@@ -1,0 +1,4 @@
+io/dropwizard/archetypes/dropwizard-archetypes/4.0.3/dropwizard-archetypes-4.0.3-cyclonedx.json
+io/dropwizard/archetypes/dropwizard-archetypes/4.0.3/dropwizard-archetypes-4.0.3-cyclonedx.xml
+io/dropwizard/archetypes/java-simple/4.0.3/java-simple-4.0.3-cyclonedx.json
+io/dropwizard/archetypes/java-simple/4.0.3/java-simple-4.0.3-cyclonedx.xml
