@@ -288,6 +288,7 @@ com.amitinside -> fatjar:fatjar-maven-plugin = "FatJAR Maven Mojo"
 com.anaptecs.jeaf -> jeaf:jeaf-maven-plugin = "JEAF Maven Plugin"
 com.anaptecs.jeaf.generator -> jeaf-generator:jeaf-generator-maven-plugin = "JEAF Generator Maven Plugin"
 com.anaptecs.jeaf.maven -> jeaf:jeaf-maven-plugin = "JEAF Maven Plugin"
+com.ancientlightstudios -> quarkus-kotlin-openapi:quarkus-kotlin-openapi-maven-plugin = 
 com.ancientlightstudios -> simplegen:simplegen-maven-plugin = "SimpleGen - Maven Plugin"
 com.andyserver.maven.plugins -> jenkinsfile:jenkinsfile-maven-plugin = "Jenkinsfile Maven Plugin"
 com.anthemengineering.mojo -> infer:infer-maven-plugin = "Infer Maven Plugin"
@@ -5231,7 +5232,7 @@ org.fabric3 -> fabric3-packager:fabric3-packager-plugin = "Fabric3 Packager Plug
 org.fabrician.maven-plugins -> distribution:distribution-plugin = "Maven Plugin for SilverFabric Distributions"
 org.factcast -> factcast-schema-registry:factcast-schema-registry-maven-plugin = 
 org.fakereplace -> fakereplace:fakereplace-maven-plugin = "Fakereplace Maven Plugin"
-org.faktorips -> faktorips:faktorips-maven-plugin = "Faktor-IPS Maven Plugin"
+org.faktorips -> faktorips:faktorips-maven-plugin = "Faktor-IPS Build Maven Plugin"
 org.faktorips -> faktorips-validation:faktorips-validation-maven-plugin = "Faktor-IPS Validation Maven Plugin"
 org.faktorips.runtimejpa -> productdata-jpa-deployment:productdata-jpa-deployment-maven-plugin = "Maven Plugin to deploy Faktor-IPS Product Data with the remote
         Deployment API"
