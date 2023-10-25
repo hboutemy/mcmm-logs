@@ -3243,6 +3243,7 @@ io.github.neofreko -> graphwalker:graphwalker-maven-plugin = "GraphWalker Maven 
 io.github.nethibernate -> protobuf:protobuf-maven-plugin = "Maven Protocol Buffers Plugin"
 io.github.nethibernate -> protostuff:protostuff-maven-plugin = "Protostuff Compiler - Maven Plugin"
 io.github.nevgeniev.zig -> zig:zig-maven-plugin = "${project.groupId}:${project.artifactId}"
+io.github.ngbsn -> sqlscript2jpa-codegen:sqlscript2jpa-codegen-maven-plugin = "SQL Schema Script File to JPA Code Generator Maven Plugin"
 io.github.ningpp -> mmegp:mmegp-maven-plugin = "mmegp-maven-plugin"
 io.github.obscure1910 -> flow-landscape:flow-landscape-maven-plugin = "flow-landscape-maven-plugin Maven Plugin"
 io.github.okvee -> tscfg-docgen:tscfg-docgen-maven-plugin = "Typesafe Config DocGen Maven Plugin"

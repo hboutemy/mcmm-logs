@@ -603,6 +603,7 @@ org.apache.druid:druid-server
 org.apache.druid:druid-services
 org.apache.druid:druid-sql
 org.apache.druid:web-console
+org.apache.flink:fink-migration-test-utils
 org.apache.flink:flink-annotations
 org.apache.flink:flink-architecture-tests
 org.apache.flink:flink-architecture-tests-base
@@ -615,6 +616,7 @@ org.apache.flink:flink-cep
 org.apache.flink:flink-cep-scala_2.12
 org.apache.flink:flink-ci-tools
 org.apache.flink:flink-clients
+org.apache.flink:flink-clients-test-utils
 org.apache.flink:flink-compress
 org.apache.flink:flink-connector-aws-base
 org.apache.flink:flink-connector-base
@@ -635,8 +637,10 @@ org.apache.flink:flink-csv
 org.apache.flink:flink-dstl
 org.apache.flink:flink-dstl-dfs
 org.apache.flink:flink-examples
+org.apache.flink:flink-examples-batch
 org.apache.flink:flink-examples-batch_2.12
 org.apache.flink:flink-examples-build-helper
+org.apache.flink:flink-examples-streaming
 org.apache.flink:flink-examples-streaming_2.12
 org.apache.flink:flink-examples-table_2.12
 org.apache.flink:flink-external-resource-gpu
@@ -750,6 +754,8 @@ org.apache.flink:flink-sql-connector-kafka
 org.apache.flink:flink-sql-csv
 org.apache.flink:flink-sql-gateway
 org.apache.flink:flink-sql-gateway-api
+org.apache.flink:flink-sql-jdbc-driver
+org.apache.flink:flink-sql-jdbc-driver-bundle
 org.apache.flink:flink-sql-json
 org.apache.flink:flink-sql-orc
 org.apache.flink:flink-sql-parquet
@@ -771,6 +777,7 @@ org.apache.flink:flink-table-api-java-bridge
 org.apache.flink:flink-table-api-java-uber
 org.apache.flink:flink-table-api-scala-bridge_2.12
 org.apache.flink:flink-table-api-scala_2.12
+org.apache.flink:flink-table-calcite-bridge
 org.apache.flink:flink-table-code-splitter
 org.apache.flink:flink-table-common
 org.apache.flink:flink-table-planner-loader
@@ -976,6 +983,7 @@ org.apache.maven.indexer:search-backend-remoterepository
 org.apache.maven.indexer:search-backend-smo
 org.apache.maven.jxr:jxr
 org.apache.maven.plugins:maven-artifact-plugin
+org.apache.maven.plugins:maven-checkstyle-plugin
 org.apache.maven.plugins:maven-dependency-plugin
 org.apache.maven.plugins:maven-enforcer-plugin
 org.apache.maven.plugins:maven-failsafe-plugin
