@@ -1,0 +1,2 @@
+commons-io/commons-io/2.15.0/commons-io-2.15.0.spdx.json
+org/opendaylight/mdsal/mdsal-sbom-11.0.15.spdx

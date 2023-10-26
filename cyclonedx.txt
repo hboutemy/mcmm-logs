@@ -185,6 +185,7 @@ dev.openfeature.contrib.hooks:otel
 dev.openfeature.contrib.providers:env-var
 dev.openfeature.contrib.providers:flagd
 dev.openfeature.contrib.providers:flagsmith
+dev.openfeature.contrib.providers:flipt
 dev.openfeature.contrib.providers:go-feature-flag
 dev.openfeature.contrib.providers:jsonlogic-eval-provider
 dev.openfeature.contrib.providers:unleash
@@ -1045,6 +1046,7 @@ org.apache.maven:maven-api-core
 org.apache.maven:maven-api-meta
 org.apache.maven:maven-api-model
 org.apache.maven:maven-api-settings
+org.apache.maven:maven-api-spi
 org.apache.maven:maven-api-toolchain
 org.apache.maven:maven-api-xml
 org.apache.maven:maven-archiver
@@ -1296,6 +1298,7 @@ org.bonitasoft.bpm:org.bonitasoft.gmf.plugin-dependencies
 org.bonitasoft.bpm:org.bonitasoft.spec.bpmn
 org.cyclonedx:cyclonedx-core-java
 org.cyclonedx:cyclonedx-maven-plugin
+org.eclipse.ee4j:project
 org.eclipse.serializer:afs
 org.eclipse.serializer:afs-parent
 org.eclipse.serializer:base

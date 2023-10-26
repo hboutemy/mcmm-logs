@@ -5765,6 +5765,7 @@ org.metaeffekt.core -> ae-api-publish:ae-api-publish-maven-plugin =
 org.metaeffekt.core -> ae-artifact-publish:ae-artifact-publish-maven-plugin = 
 org.metaeffekt.core -> ae-inventory:ae-inventory-maven-plugin = 
 org.metaeffekt.core -> ae-jira:ae-jira-maven-plugin = 
+org.metaeffekt.core -> ae-shell-script-assembler:ae-shell-script-assembler-plugin = 
 org.metaeffekt.core -> ae-version:ae-version-maven-plugin = 
 org.metaeffekt.dcc -> dcc-bundle:dcc-bundle-maven-plugin = 
 org.metaeffekt.dcc -> dcc-documentation:dcc-documentation-maven-plugin = 
