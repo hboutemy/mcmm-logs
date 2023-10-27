@@ -1,3 +1,4 @@
+com.github.camel-tooling:camel-lsp-server
 com.github.mwiede:jsch
 com.github.oscerd:finnhub-java-client
 com.gitlab.haynes:libsass-maven-plugin
@@ -172,6 +173,7 @@ com.yahoo.athenz:athenz-zms-java-client
 com.yahoo.athenz:athenz-zpe-java-client
 com.yahoo.athenz:athenz-zts-core
 com.yahoo.athenz:athenz-zts-java-client
+commons-cli:commons-cli
 commons-codec:commons-codec
 commons-daemon:commons-daemon
 commons-dbutils:commons-dbutils
@@ -985,6 +987,7 @@ org.apache.maven.indexer:search-backend-smo
 org.apache.maven.jxr:jxr
 org.apache.maven.plugins:maven-artifact-plugin
 org.apache.maven.plugins:maven-checkstyle-plugin
+org.apache.maven.plugins:maven-clean-plugin
 org.apache.maven.plugins:maven-dependency-plugin
 org.apache.maven.plugins:maven-enforcer-plugin
 org.apache.maven.plugins:maven-failsafe-plugin

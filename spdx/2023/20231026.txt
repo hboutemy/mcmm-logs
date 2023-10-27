@@ -1,0 +1,5 @@
+commons-cli/commons-cli/1.6.0/commons-cli-1.6.0.spdx.json
+org/opendaylight/aaa/aaa-sbom-0.17.13.spdx
+org/opendaylight/aaa/aaa-sbom-0.17.14.spdx
+org/opendaylight/controller/controller-sbom-7.0.11.spdx
+org/opendaylight/netconf/netconf-sbom-5.0.9.spdx
