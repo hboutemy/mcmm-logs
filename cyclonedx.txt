@@ -1329,6 +1329,7 @@ org.eclipse.steady:lang-python
 org.eclipse.steady:plugin-gradle
 org.eclipse.steady:plugin-maven
 org.eclipse.steady:shared
+org.glassfish.build:glassfishbuild-maven-plugin
 org.jreleaser:jdks-maven-plugin
 org.jreleaser:jreleaser
 org.jreleaser:jreleaser-ant-tasks

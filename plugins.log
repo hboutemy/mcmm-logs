@@ -5310,6 +5310,7 @@ org.glassfish -> embedded-glassfish:maven-embedded-glassfish-plugin = "Maven Emb
 org.glassfish -> glassfish:maven-glassfish-plugin = "Maven plugin for GlassFish"
 org.glassfish.admingui -> console-plugin-archetype:console-plugin-archetype = "Admin Console Plugin Archetype"
 org.glassfish.build -> command-security:command-security-maven-plugin = "Command Security Plug-in"
+org.glassfish.build -> glassfishbuild:glassfishbuild-maven-plugin = "GlassFishBuild Maven Plugin"
 org.glassfish.copyright -> glassfish-copyright:glassfish-copyright-maven-plugin = "GlassFish Copyright Maven Plugin"
 org.glassfish.doc -> glassfish-doc:glassfish-doc-maven-plugin = "GlassFish Documentation Maven Plugin"
 org.glassfish.embedded -> embedded-glassfish:maven-embedded-glassfish-plugin = "Maven Embedded GlassFish Plugin"
