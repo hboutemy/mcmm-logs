@@ -1,0 +1,5 @@
+org/apache/commons/commons-text/1.11.0/commons-text-1.11.0.spdx.json
+org/opendaylight/infrautils/infrautils-sbom-4.0.7.spdx
+org/opendaylight/odlparent/odlparent-sbom-11.0.7.spdx
+org/opendaylight/odlparent/odlparent-sbom-13.0.7.spdx
+org/opendaylight/yangtools/yangtools-sbom-9.0.9.spdx
