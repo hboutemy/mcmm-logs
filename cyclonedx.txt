@@ -315,6 +315,7 @@ io.smallrye.reactive:mutiny-kotlin
 io.smallrye.reactive:mutiny-math
 io.smallrye.reactive:mutiny-reactor
 io.smallrye.reactive:mutiny-rxjava3
+jakarta.annotation:jakarta.annotation-api
 me.dmmax.akka:akka-spawn-protocol
 me.dmmax.akka:akka-spawn-protocol-guice
 net.intelie.pipes:pipes
@@ -499,6 +500,7 @@ org.apache.avro:trevni-core
 org.apache.avro:trevni-doc
 org.apache.avro:trevni-java
 org.apache.bcel:bcel
+org.apache.camel.kamelets:camel-kamelets-parent
 org.apache.camel.quarkus:camel-quarkus
 org.apache.camel.springboot:spring-boot
 org.apache.camel:camel
@@ -1330,6 +1332,8 @@ org.eclipse.steady:plugin-gradle
 org.eclipse.steady:plugin-maven
 org.eclipse.steady:shared
 org.glassfish.build:glassfishbuild-maven-plugin
+org.glassfish.main:glassfish-main-aggregator
+org.glassfish.main:glassfish-qa-config
 org.jreleaser:jdks-maven-plugin
 org.jreleaser:jreleaser
 org.jreleaser:jreleaser-ant-tasks
