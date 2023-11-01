@@ -1,0 +1,7 @@
+org/opendaylight/aaa/aaa-sbom-0.16.10.spdx
+org/opendaylight/aaa/aaa-sbom-0.18.3.spdx
+org/opendaylight/aaa/aaa-sbom-0.16.11.spdx
+org/opendaylight/controller/controller-sbom-6.0.10.spdx
+org/opendaylight/controller/controller-sbom-8.0.3.spdx
+org/opendaylight/infrautils/infrautils-sbom-4.0.8.spdx
+org/opendaylight/transportpce/transportpce-sbom-7.3.1.spdx
