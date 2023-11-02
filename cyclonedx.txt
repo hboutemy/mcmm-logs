@@ -1278,6 +1278,16 @@ org.apache.syncope:syncope-fit
 org.apache.syncope:syncope-sra
 org.apache.syncope:syncope-wa
 org.apache.turbine:turbine-parent
+org.apache.wss4j:wss4j
+org.apache.wss4j:wss4j-bindings
+org.apache.wss4j:wss4j-integration
+org.apache.wss4j:wss4j-parent
+org.apache.wss4j:wss4j-policy
+org.apache.wss4j:wss4j-ws-security-common
+org.apache.wss4j:wss4j-ws-security-dom
+org.apache.wss4j:wss4j-ws-security-policy-stax
+org.apache.wss4j:wss4j-ws-security-stax
+org.apache.wss4j:wss4j-ws-security-web
 org.apache.zookeeper:parent
 org.apache.zookeeper:zookeeper
 org.apache.zookeeper:zookeeper-contrib
