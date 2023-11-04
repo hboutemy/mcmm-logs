@@ -1,0 +1,17 @@
+com/io7m/quixote/com.io7m.quixote.core/1.1.0/com.io7m.quixote.core-1.1.0-cyclonedx.xml
+com/io7m/quixote/com.io7m.quixote.tests/1.1.0/com.io7m.quixote.tests-1.1.0-cyclonedx.xml
+com/io7m/quixote/com.io7m.quixote/1.1.0/com.io7m.quixote-1.1.0-cyclonedx.xml
+com/io7m/tavella/com.io7m.tavella.api/0.0.1/com.io7m.tavella.api-0.0.1-cyclonedx.xml
+com/io7m/tavella/com.io7m.tavella.native_exec/0.0.1/com.io7m.tavella.native_exec-0.0.1-cyclonedx.xml
+com/io7m/tavella/com.io7m.tavella.tests/0.0.1/com.io7m.tavella.tests-0.0.1-cyclonedx.xml
+com/io7m/tavella/com.io7m.tavella/0.0.1/com.io7m.tavella-0.0.1-cyclonedx.xml
+org/apache/fulcrum/fulcrum-security-api/3.0.0/fulcrum-security-api-3.0.0-cyclonedx.xml
+org/apache/fulcrum/fulcrum-security-api/3.0.0/fulcrum-security-api-3.0.0-cyclonedx.json
+org/apache/fulcrum/fulcrum-security-dist/3.0.0/fulcrum-security-dist-3.0.0-cyclonedx.xml
+org/apache/fulcrum/fulcrum-security-dist/3.0.0/fulcrum-security-dist-3.0.0-cyclonedx.json
+org/apache/fulcrum/fulcrum-security-memory/3.0.0/fulcrum-security-memory-3.0.0-cyclonedx.json
+org/apache/fulcrum/fulcrum-security-memory/3.0.0/fulcrum-security-memory-3.0.0-cyclonedx.xml
+org/apache/fulcrum/fulcrum-security-torque/3.0.0/fulcrum-security-torque-3.0.0-cyclonedx.xml
+org/apache/fulcrum/fulcrum-security-torque/3.0.0/fulcrum-security-torque-3.0.0-cyclonedx.json
+org/apache/fulcrum/fulcrum-security/3.0.0/fulcrum-security-3.0.0-cyclonedx.json
+org/apache/fulcrum/fulcrum-security/3.0.0/fulcrum-security-3.0.0-cyclonedx.xml

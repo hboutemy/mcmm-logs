@@ -110,6 +110,9 @@ com.io7m.primogenitor:com.io7m.primogenitor.full
 com.io7m.primogenitor:com.io7m.primogenitor.lite
 com.io7m.primogenitor:com.io7m.primogenitor.support
 com.io7m.primogenitor:com.io7m.primogenitor.tests
+com.io7m.quixote:com.io7m.quixote
+com.io7m.quixote:com.io7m.quixote.core
+com.io7m.quixote:com.io7m.quixote.tests
 com.io7m.scando:com.io7m.scando
 com.io7m.scando:com.io7m.scando.cmdline
 com.io7m.scando:com.io7m.scando.tests
@@ -135,6 +138,10 @@ com.io7m.tabla:com.io7m.tabla
 com.io7m.tabla:com.io7m.tabla.cmdline
 com.io7m.tabla:com.io7m.tabla.core
 com.io7m.tabla:com.io7m.tabla.tests
+com.io7m.tavella:com.io7m.tavella
+com.io7m.tavella:com.io7m.tavella.api
+com.io7m.tavella:com.io7m.tavella.native_exec
+com.io7m.tavella:com.io7m.tavella.tests
 com.io7m.trasco:com.io7m.trasco
 com.io7m.trasco:com.io7m.trasco.api
 com.io7m.trasco:com.io7m.trasco.tests
@@ -799,6 +806,11 @@ org.apache.flink:flink-walkthroughs
 org.apache.flink:flink-yarn
 org.apache.fulcrum:fulcrum-intake
 org.apache.fulcrum:fulcrum-parser
+org.apache.fulcrum:fulcrum-security
+org.apache.fulcrum:fulcrum-security-api
+org.apache.fulcrum:fulcrum-security-dist
+org.apache.fulcrum:fulcrum-security-memory
+org.apache.fulcrum:fulcrum-security-torque
 org.apache.fulcrum:fulcrum-testcontainer
 org.apache.fulcrum:fulcrum-yaafi
 org.apache.hadoop.applications.mawo:hadoop-yarn-applications-mawo
