@@ -110,6 +110,13 @@ com.io7m.primogenitor:com.io7m.primogenitor.full
 com.io7m.primogenitor:com.io7m.primogenitor.lite
 com.io7m.primogenitor:com.io7m.primogenitor.support
 com.io7m.primogenitor:com.io7m.primogenitor.tests
+com.io7m.quarrel:com.io7m.quarrel
+com.io7m.quarrel:com.io7m.quarrel.core
+com.io7m.quarrel:com.io7m.quarrel.documentation
+com.io7m.quarrel:com.io7m.quarrel.example
+com.io7m.quarrel:com.io7m.quarrel.ext.logback
+com.io7m.quarrel:com.io7m.quarrel.ext.xstructural
+com.io7m.quarrel:com.io7m.quarrel.tests
 com.io7m.quixote:com.io7m.quixote
 com.io7m.quixote:com.io7m.quixote.core
 com.io7m.quixote:com.io7m.quixote.tests

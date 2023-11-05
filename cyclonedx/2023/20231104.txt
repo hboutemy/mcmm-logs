@@ -1,0 +1,7 @@
+com/io7m/quarrel/com.io7m.quarrel.core/1.4.0/com.io7m.quarrel.core-1.4.0-cyclonedx.xml
+com/io7m/quarrel/com.io7m.quarrel.documentation/1.4.0/com.io7m.quarrel.documentation-1.4.0-cyclonedx.xml
+com/io7m/quarrel/com.io7m.quarrel.example/1.4.0/com.io7m.quarrel.example-1.4.0-cyclonedx.xml
+com/io7m/quarrel/com.io7m.quarrel.ext.logback/1.4.0/com.io7m.quarrel.ext.logback-1.4.0-cyclonedx.xml
+com/io7m/quarrel/com.io7m.quarrel.ext.xstructural/1.4.0/com.io7m.quarrel.ext.xstructural-1.4.0-cyclonedx.xml
+com/io7m/quarrel/com.io7m.quarrel.tests/1.4.0/com.io7m.quarrel.tests-1.4.0-cyclonedx.xml
+com/io7m/quarrel/com.io7m.quarrel/1.4.0/com.io7m.quarrel-1.4.0-cyclonedx.xml
