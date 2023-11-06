@@ -228,6 +228,7 @@ io.dropwizard.metrics5:metrics-httpclient
 io.dropwizard.metrics5:metrics-httpclient5
 io.dropwizard.metrics5:metrics-influxdb
 io.dropwizard.metrics5:metrics-jakarta-servlet
+io.dropwizard.metrics5:metrics-jakarta-servlet6
 io.dropwizard.metrics5:metrics-jakarta-servlets
 io.dropwizard.metrics5:metrics-jcache
 io.dropwizard.metrics5:metrics-jcstress
