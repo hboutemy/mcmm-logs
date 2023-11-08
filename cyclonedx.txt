@@ -331,6 +331,7 @@ io.smallrye.reactive:mutiny-math
 io.smallrye.reactive:mutiny-reactor
 io.smallrye.reactive:mutiny-rxjava3
 jakarta.annotation:jakarta.annotation-api
+jakarta.persistence:jakarta.persistence-api
 me.dmmax.akka:akka-spawn-protocol
 me.dmmax.akka:akka-spawn-protocol-guice
 net.intelie.pipes:pipes
