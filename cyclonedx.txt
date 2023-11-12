@@ -1008,6 +1008,8 @@ org.apache.maven.indexer:search-backend-indexer
 org.apache.maven.indexer:search-backend-remoterepository
 org.apache.maven.indexer:search-backend-smo
 org.apache.maven.jxr:jxr
+org.apache.maven.plugin-testing:maven-plugin-testing
+org.apache.maven.plugin-testing:maven-plugin-testing-harness
 org.apache.maven.plugin-tools:maven-plugin-annotations
 org.apache.maven.plugin-tools:maven-plugin-tools
 org.apache.maven.plugin-tools:maven-plugin-tools-annotations

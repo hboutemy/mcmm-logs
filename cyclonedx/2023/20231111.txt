@@ -1,0 +1,4 @@
+org/apache/maven/plugin-testing/maven-plugin-testing-harness/4.0.0-alpha-2/maven-plugin-testing-harness-4.0.0-alpha-2-cyclonedx.json
+org/apache/maven/plugin-testing/maven-plugin-testing-harness/4.0.0-alpha-2/maven-plugin-testing-harness-4.0.0-alpha-2-cyclonedx.xml
+org/apache/maven/plugin-testing/maven-plugin-testing/4.0.0-alpha-2/maven-plugin-testing-4.0.0-alpha-2-cyclonedx.json
+org/apache/maven/plugin-testing/maven-plugin-testing/4.0.0-alpha-2/maven-plugin-testing-4.0.0-alpha-2-cyclonedx.xml
