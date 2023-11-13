@@ -1,0 +1,12 @@
+org/apache/maven/doxia/doxia-tools/41/doxia-tools-41-cyclonedx.json
+org/apache/maven/doxia/doxia-tools/41/doxia-tools-41-cyclonedx.xml
+org/apache/maven/extensions/maven-extensions/41/maven-extensions-41-cyclonedx.json
+org/apache/maven/extensions/maven-extensions/41/maven-extensions-41-cyclonedx.xml
+org/apache/maven/maven-parent/41/maven-parent-41-cyclonedx.xml
+org/apache/maven/maven-parent/41/maven-parent-41-cyclonedx.json
+org/apache/maven/plugins/maven-plugins/41/maven-plugins-41-cyclonedx.json
+org/apache/maven/plugins/maven-plugins/41/maven-plugins-41-cyclonedx.xml
+org/apache/maven/shared/maven-shared-components/41/maven-shared-components-41-cyclonedx.json
+org/apache/maven/shared/maven-shared-components/41/maven-shared-components-41-cyclonedx.xml
+org/apache/maven/skins/maven-skins/41/maven-skins-41-cyclonedx.xml
+org/apache/maven/skins/maven-skins/41/maven-skins-41-cyclonedx.json

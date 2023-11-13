@@ -948,6 +948,7 @@ com.github.guru107 -> flinkjobupload:flinkjobupload-maven-plugin = "Apache Flink
 com.github.gzm55.maven -> thrift:thrift-maven-plugin = "thrift-maven-plugin"
 com.github.harti2006 -> neo4j-server:neo4j-server-maven-plugin = "Neo4j Server Maven Plugin"
 com.github.havardh -> javaflow:javaflow-maven-plugin = "Javaflow Maven Plugin"
+com.github.hazendaz.maven -> coveralls:coveralls-maven-plugin = "coveralls-maven-plugin"
 com.github.hazendaz.maven -> directory:directory-maven-plugin = "directory-maven-plugin"
 com.github.hazendaz.maven -> htmlcompressor:htmlcompressor-maven-plugin = "Maven HTMLCompressor Plugin"
 com.github.hazendaz.maven -> makeself:makeself-maven-plugin = "makeself-maven-plugin"
