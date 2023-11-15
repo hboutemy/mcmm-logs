@@ -589,6 +589,7 @@ org.apache.druid.extensions:druid-ec2-extensions
 org.apache.druid.extensions:druid-google-extensions
 org.apache.druid.extensions:druid-hdfs-storage
 org.apache.druid.extensions:druid-histogram
+org.apache.druid.extensions:druid-iceberg-extensions
 org.apache.druid.extensions:druid-kafka-extraction-namespace
 org.apache.druid.extensions:druid-kafka-indexing-service
 org.apache.druid.extensions:druid-kerberos
