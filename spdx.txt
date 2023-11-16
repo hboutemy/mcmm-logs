@@ -85,6 +85,7 @@ org.jetbrains.kotlin:kotlin-assignment-compiler-plugin-embeddable
 org.jetbrains.kotlin:kotlin-atomicfu-compiler-plugin
 org.jetbrains.kotlin:kotlin-atomicfu-compiler-plugin-embeddable
 org.jetbrains.kotlin:kotlin-build-common
+org.jetbrains.kotlin:kotlin-build-statistics
 org.jetbrains.kotlin:kotlin-build-tools-api
 org.jetbrains.kotlin:kotlin-build-tools-impl
 org.jetbrains.kotlin:kotlin-compiler

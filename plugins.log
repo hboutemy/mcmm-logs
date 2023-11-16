@@ -6339,6 +6339,7 @@ org.teatrove -> package-info:package-info-maven-plugin = "PackageInfo Maven Mojo
 org.teatrove -> teacompiler:teacompiler-maven-plugin = "Tea Compiler Maven Mojo"
 org.teavm -> teavm:teavm-maven-plugin = "TeaVM maven plugin"
 org.technologybrewery -> helm:helm-maven-plugin = "Helm Maven Plugin"
+org.technologybrewery.baton -> baton:baton-maven-plugin = "Baton::Maven Plugin"
 org.technologybrewery.fermenter -> fermenter-mda:fermenter-mda = "Fermenter::Model-Driven Architecture Code Generator"
 org.technologybrewery.habushu -> habushu:habushu-maven-plugin = "habushu::Maven Plugin for Python Projects"
 org.technologybrewery.mojohaus -> license:license-maven-plugin = "License Maven Plugin"
