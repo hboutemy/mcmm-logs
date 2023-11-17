@@ -198,6 +198,7 @@ de.knightsoft-net:gwt-commons-lang3
 de.trustable:cryptoUtil
 dev.iabudiab:dependency-track-maven-plugin
 dev.openfeature.contrib.hooks:otel
+dev.openfeature.contrib.providers:configcat
 dev.openfeature.contrib.providers:env-var
 dev.openfeature.contrib.providers:flagd
 dev.openfeature.contrib.providers:flagsmith
