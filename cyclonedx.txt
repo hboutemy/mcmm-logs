@@ -344,6 +344,7 @@ net.sourceforge.pmd:pmd-apex
 net.sourceforge.pmd:pmd-apex-jorje
 net.sourceforge.pmd:pmd-cli
 net.sourceforge.pmd:pmd-coco
+net.sourceforge.pmd:pmd-compat6
 net.sourceforge.pmd:pmd-core
 net.sourceforge.pmd:pmd-cpp
 net.sourceforge.pmd:pmd-cs
@@ -1059,6 +1060,8 @@ org.apache.maven.resolver:maven-resolver-transport-file
 org.apache.maven.resolver:maven-resolver-transport-http
 org.apache.maven.resolver:maven-resolver-transport-jdk
 org.apache.maven.resolver:maven-resolver-transport-jdk-11
+org.apache.maven.resolver:maven-resolver-transport-jdk-19
+org.apache.maven.resolver:maven-resolver-transport-jdk-21
 org.apache.maven.resolver:maven-resolver-transport-jdk-8
 org.apache.maven.resolver:maven-resolver-transport-jdk-parent
 org.apache.maven.resolver:maven-resolver-transport-jetty
