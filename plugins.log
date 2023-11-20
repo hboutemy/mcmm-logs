@@ -4267,6 +4267,7 @@ org.apache.clerezza -> ontologies:maven-ontologies-plugin = "Clerezza - RDF - Sc
 org.apache.clerezza -> pladoc.core:maven-pladoc-plugin.core = "Clerezza - Maven PlaDoc Plugin Core"
 org.apache.cocoon -> cocoon:cocoon-deployer-plugin = "Cocoon Deployer - Maven 2 Plugin"
 org.apache.cocoon -> cocoon-it-fw:cocoon-it-fw = "Cocoon Integration Test Framework [maven-plugin]"
+org.apache.cocoon -> cocoondocs-cleaner:cocoon-maven-docs-cleaner-plugin = "Cocoon Maven Javadocs Script Report"
 org.apache.cocoon -> cocoonjavadocs-script-report:cocoon-maven-javadocs-script-report = "Cocoon Maven Javadocs Script Report"
 org.apache.cocoon -> cocoon:cocoon-maven-plugin = "Cocoon Maven 2 Plugin"
 org.apache.cocoon -> cocoon:cocoon-maven-plugin = "Cocoon Maven Plugin"
