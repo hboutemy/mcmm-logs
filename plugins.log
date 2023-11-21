@@ -6646,6 +6646,7 @@ space.vector -> rr:rr-maven-plugin = "rr Maven Mojo"
 store.taotao.docbook -> taotao-docbook:taotao-docbook-maven-plugin = 
 team.quad -> cloudify:cloudify-maven-plugin = "Cloudify"
 team.yi.maven.plugin -> semantic-gitlog:maven-semantic-gitlog = "maven-semantic-gitlog"
+tech.fanlinglong.common -> local-build-time:local-build-time-maven-plugin = "local-build-time-maven-plugin"
 tech.grasshopper -> cucumber-pdf:cucumber-pdf-plugin = "cucumber-pdf-plugin"
 tech.grasshopper -> cucumber-rest-assured-extent-report:cucumber-rest-assured-extent-report-plugin = "cucumber-rest-assured-extent-report-plugin"
 tech.grasshopper -> extentreports-cucumberjson:extentreports-cucumberjson-plugin = "extentreports-cucumberjson-plugin"
