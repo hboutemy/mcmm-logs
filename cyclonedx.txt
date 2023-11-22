@@ -633,6 +633,8 @@ org.apache.flink:flink-architecture-tests
 org.apache.flink:flink-architecture-tests-base
 org.apache.flink:flink-architecture-tests-production
 org.apache.flink:flink-architecture-tests-test
+org.apache.flink:flink-autoscaler
+org.apache.flink:flink-autoscaler-standalone
 org.apache.flink:flink-avro
 org.apache.flink:flink-avro-confluent-registry
 org.apache.flink:flink-azure-fs-hadoop
@@ -1075,6 +1077,7 @@ org.apache.maven.plugins:maven-plugin-plugin
 org.apache.maven.plugins:maven-plugin-report-plugin
 org.apache.maven.plugins:maven-plugins
 org.apache.maven.plugins:maven-pmd-plugin
+org.apache.maven.plugins:maven-project-info-reports-plugin
 org.apache.maven.plugins:maven-shade-plugin
 org.apache.maven.plugins:maven-site-plugin
 org.apache.maven.plugins:maven-surefire-plugin
