@@ -1,0 +1,4 @@
+com/siemens/pki/CmpRaComponent/3.0.1/CmpRaComponent-3.0.1-cyclonedx.xml
+com/siemens/pki/CmpRaComponent/3.0.1/CmpRaComponent-3.0.1-cyclonedx.json
+org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0-cyclonedx.json
+org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0-cyclonedx.xml

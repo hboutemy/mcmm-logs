@@ -158,6 +158,7 @@ com.io7m.wendover:com.io7m.wendover
 com.io7m.wendover:com.io7m.wendover.core
 com.io7m.wendover:com.io7m.wendover.tests
 com.ongres.pgconfig:pgconfig-validator
+com.siemens.pki:CmpRaComponent
 com.soartech:jsoar
 com.soartech:jsoar-core
 com.soartech:jsoar-debugger
