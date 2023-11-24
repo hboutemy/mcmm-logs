@@ -1,3 +1,4 @@
+com.github.camel-tooling:camel-dap-server
 com.github.camel-tooling:camel-lsp-server
 com.github.mwiede:jsch
 com.github.oscerd:finnhub-java-client
@@ -333,7 +334,13 @@ io.smallrye.reactive:mutiny-math
 io.smallrye.reactive:mutiny-reactor
 io.smallrye.reactive:mutiny-rxjava3
 jakarta.annotation:jakarta.annotation-api
+jakarta.el:jakarta.el-api
 jakarta.persistence:jakarta.persistence-api
+jakarta.servlet.jsp:jakarta.servlet.jsp-api
+jakarta.servlet:jakarta.servlet-api
+jakarta.websocket:jakarta.websocket-all
+jakarta.websocket:jakarta.websocket-api
+jakarta.websocket:jakarta.websocket-client-api
 me.dmmax.akka:akka-spawn-protocol
 me.dmmax.akka:akka-spawn-protocol-guice
 net.intelie.pipes:pipes

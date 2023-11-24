@@ -1,0 +1,16 @@
+com/github/camel-tooling/camel-dap-server/0.10.0/camel-dap-server-0.10.0-cyclonedx.json
+com/github/camel-tooling/camel-dap-server/0.10.0/camel-dap-server-0.10.0-cyclonedx.xml
+com/github/camel-tooling/camel-lsp-server/1.15.0/camel-lsp-server-1.15.0-cyclonedx.xml
+com/github/camel-tooling/camel-lsp-server/1.15.0/camel-lsp-server-1.15.0-cyclonedx.json
+jakarta/el/jakarta.el-api/6.0.0-M1/jakarta.el-api-6.0.0-M1-cyclonedx.json
+jakarta/el/jakarta.el-api/6.0.0-M1/jakarta.el-api-6.0.0-M1-cyclonedx.xml
+jakarta/servlet/jakarta.servlet-api/6.1.0-M1/jakarta.servlet-api-6.1.0-M1-cyclonedx.json
+jakarta/servlet/jakarta.servlet-api/6.1.0-M1/jakarta.servlet-api-6.1.0-M1-cyclonedx.xml
+jakarta/servlet/jsp/jakarta.servlet.jsp-api/4.0.0-M1/jakarta.servlet.jsp-api-4.0.0-M1-cyclonedx.xml
+jakarta/servlet/jsp/jakarta.servlet.jsp-api/4.0.0-M1/jakarta.servlet.jsp-api-4.0.0-M1-cyclonedx.json
+jakarta/websocket/jakarta.websocket-all/2.2.0-M1/jakarta.websocket-all-2.2.0-M1-cyclonedx.json
+jakarta/websocket/jakarta.websocket-all/2.2.0-M1/jakarta.websocket-all-2.2.0-M1-cyclonedx.xml
+jakarta/websocket/jakarta.websocket-api/2.2.0-M1/jakarta.websocket-api-2.2.0-M1-cyclonedx.xml
+jakarta/websocket/jakarta.websocket-api/2.2.0-M1/jakarta.websocket-api-2.2.0-M1-cyclonedx.json
+jakarta/websocket/jakarta.websocket-client-api/2.2.0-M1/jakarta.websocket-client-api-2.2.0-M1-cyclonedx.json
+jakarta/websocket/jakarta.websocket-client-api/2.2.0-M1/jakarta.websocket-client-api-2.2.0-M1-cyclonedx.xml
