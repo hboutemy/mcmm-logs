@@ -3407,6 +3407,7 @@ io.jshift -> oc:oc-maven-plugin = "Openshift Maven Plugin"
 io.jsonwebtoken.coveralls -> coveralls:coveralls-maven-plugin = "coveralls-maven-plugin"
 io.kalix -> kalix:kalix-maven-plugin = "Kalix Maven Plugin"
 io.kemtoa.swagger -> swagger-backwards-compat:swagger-backwards-compat-maven-plugin = "Swagger Backwards Compatibility Maven Plugin"
+io.kiota -> kiota:kiota-maven-plugin = 
 io.koara -> koara:koara-maven-plugin = "first-maven-plugin Maven Mojo"
 io.kokuwa.edge -> esh-constants:esh-constants-maven-plugin = "Eclipse Smarthome Constants generator Maven Plugin"
 io.kokuwa.maven -> esh-constants:esh-constants-maven-plugin = "Eclipse Smarthome Constants generator Maven Plugin"
