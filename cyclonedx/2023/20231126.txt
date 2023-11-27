@@ -1,0 +1,8 @@
+nl/basjes/codeowners/codeowners-parent/1.1.1/codeowners-parent-1.1.1-cyclonedx.json
+nl/basjes/codeowners/codeowners-parent/1.1.1/codeowners-parent-1.1.1-cyclonedx.xml
+nl/basjes/codeowners/codeowners-reader/1.1.1/codeowners-reader-1.1.1-cyclonedx.xml
+nl/basjes/codeowners/codeowners-reader/1.1.1/codeowners-reader-1.1.1-cyclonedx.json
+nl/basjes/gitignore/gitignore-reader/1.1.1/gitignore-reader-1.1.1-cyclonedx.json
+nl/basjes/gitignore/gitignore-reader/1.1.1/gitignore-reader-1.1.1-cyclonedx.xml
+nl/basjes/maven/enforcer/codeowners/codeowners-enforcer-rules/1.1.1/codeowners-enforcer-rules-1.1.1-cyclonedx.json
+nl/basjes/maven/enforcer/codeowners/codeowners-enforcer-rules/1.1.1/codeowners-enforcer-rules-1.1.1-cyclonedx.xml

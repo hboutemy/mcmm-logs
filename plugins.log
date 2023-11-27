@@ -3238,6 +3238,7 @@ io.github.martinvisser -> kover:kover-maven-plugin = "Kover Maven Plugin"
 io.github.marwin1991 -> keep-changelog:keep-changelog-maven-plugin = "keep-changelog-maven-plugin"
 io.github.matf -> layer-dependency-check:layer-dependency-check-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.mathcoach -> objectmacro:objectmacro-maven-plugin = "objectmacro-maven-plugin"
+io.github.mavenplugins -> artifact-spy:artifact-spy-plugin = "Artifact Spy Plugin"
 io.github.mcwarman -> jfiglet:jfiglet-maven-plugin = "JFiglet Maven Plugin"
 io.github.md2conf -> md2conf:md2conf-maven-plugin = 
 io.github.menostos -> yaml-merge:yaml-merge-maven-plugin = "YAML Merge Maven Plugin"
