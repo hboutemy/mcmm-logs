@@ -5957,6 +5957,7 @@ org.objectweb.petals -> archetype-petals-jbi-service-unit:maven-archetype-petals
 org.objectweb.proactive -> proactive:proactive-maven-plugin = "proactive-maven-plugin"
 org.obolibrary.robot -> robot:robot-maven-plugin = "robot-maven-plugin"
 org.octopusden.octopus -> license:license-maven-plugin = "License Maven Plugin"
+org.octopusden.octopus.dms -> dms:maven-dms-plugin = "maven-dms-plugin"
 org.odftoolkit -> schema2template:schema2template-maven-plugin = "XML Schema to Template Mapping Tool: Maven Plugin"
 org.okkam.owl -> jaob:jaob-maven-plugin = "JAOB maven plugin"
 org.ol4jsf -> jsf:maven-jsf-plugin = "maven-jsf-plugin Maven Mojo"
