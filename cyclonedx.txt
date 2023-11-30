@@ -334,6 +334,11 @@ io.smallrye.reactive:mutiny-math
 io.smallrye.reactive:mutiny-reactor
 io.smallrye.reactive:mutiny-rxjava3
 jakarta.annotation:jakarta.annotation-api
+jakarta.data:jakarta.data-api
+jakarta.data:jakarta.data-parent
+jakarta.data:jakarta.data-spec
+jakarta.data:jakarta.data-tck
+jakarta.data:jakarta.data-tck-dist
 jakarta.el:jakarta.el-api
 jakarta.enterprise.concurrent:jakarta.enterprise.concurrent-api
 jakarta.enterprise.concurrent:jakarta.enterprise.concurrent-tck
@@ -342,6 +347,7 @@ jakarta.enterprise.concurrent:jakarta.enterprise.concurrent.parent
 jakarta.persistence:jakarta.persistence-api
 jakarta.servlet.jsp:jakarta.servlet.jsp-api
 jakarta.servlet:jakarta.servlet-api
+jakarta.validation:jakarta.validation-api
 jakarta.websocket:jakarta.websocket-all
 jakarta.websocket:jakarta.websocket-api
 jakarta.websocket:jakarta.websocket-client-api

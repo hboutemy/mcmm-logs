@@ -6434,6 +6434,7 @@ org.wildfly.galleon-plugins -> wildfly-galleon:wildfly-galleon-maven-plugin = "W
 org.wildfly.galleon-plugins -> wfgp:wildfly-galleon-maven-plugin = "WildFly Galleon Maven Plugins"
 org.wildfly.galleon-plugins -> wildfly-galleons:wildfly-galleon-maven-plugins = "WildFly Galleon Maven Plugins"
 org.wildfly.glow -> wildfly-glow-arquillian:wildfly-glow-arquillian-plugin = 
+org.wildfly.glow -> wildfly-glow-doc:wildfly-glow-doc-plugin = 
 org.wildfly.maven.plugins -> licenses:licenses-plugin = "WildFly Licenses Plugin"
 org.wildfly.maven.plugins -> quickstart-documentation:quickstart-documentation-plugin = "Quickstarts documentation plugin"
 org.wildfly.plugins -> wildfly-bom-builder:wildfly-bom-builder-plugin = 

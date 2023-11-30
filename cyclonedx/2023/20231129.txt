@@ -1,0 +1,16 @@
+commons-io/commons-io/2.15.1/commons-io-2.15.1-cyclonedx.xml
+commons-io/commons-io/2.15.1/commons-io-2.15.1-cyclonedx.json
+jakarta/data/jakarta.data-api/1.0.0-M2/jakarta.data-api-1.0.0-M2-cyclonedx.json
+jakarta/data/jakarta.data-api/1.0.0-M2/jakarta.data-api-1.0.0-M2-cyclonedx.xml
+jakarta/data/jakarta.data-parent/1.0.0-M2/jakarta.data-parent-1.0.0-M2-cyclonedx.xml
+jakarta/data/jakarta.data-parent/1.0.0-M2/jakarta.data-parent-1.0.0-M2-cyclonedx.json
+jakarta/data/jakarta.data-spec/1.0.0-M2/jakarta.data-spec-1.0.0-M2-cyclonedx.json
+jakarta/data/jakarta.data-spec/1.0.0-M2/jakarta.data-spec-1.0.0-M2-cyclonedx.xml
+jakarta/data/jakarta.data-tck-dist/1.0.0-M2/jakarta.data-tck-dist-1.0.0-M2-cyclonedx.xml
+jakarta/data/jakarta.data-tck-dist/1.0.0-M2/jakarta.data-tck-dist-1.0.0-M2-cyclonedx.json
+jakarta/data/jakarta.data-tck/1.0.0-M2/jakarta.data-tck-1.0.0-M2-cyclonedx.xml
+jakarta/data/jakarta.data-tck/1.0.0-M2/jakarta.data-tck-1.0.0-M2-cyclonedx.json
+jakarta/validation/jakarta.validation-api/3.1.0-M1/jakarta.validation-api-3.1.0-M1-cyclonedx.xml
+jakarta/validation/jakarta.validation-api/3.1.0-M1/jakarta.validation-api-3.1.0-M1-cyclonedx.json
+org/aarboard/nextcloud/nextcloud-api/13.0.1/nextcloud-api-13.0.1-cyclonedx.xml
+org/aarboard/nextcloud/nextcloud-api/13.0.1/nextcloud-api-13.0.1-cyclonedx.json
