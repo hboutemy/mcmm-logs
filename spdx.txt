@@ -8,6 +8,7 @@ commons-daemon:commons-daemon
 commons-dbutils:commons-dbutils
 commons-fileupload:commons-fileupload
 commons-io:commons-io
+commons-logging:commons-logging
 commons-net:commons-net
 de.knightsoft-net:gwt-commons-lang3
 org.apache.bcel:bcel
