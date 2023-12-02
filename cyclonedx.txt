@@ -345,6 +345,16 @@ jakarta.enterprise.concurrent:jakarta.enterprise.concurrent-api
 jakarta.enterprise.concurrent:jakarta.enterprise.concurrent-tck
 jakarta.enterprise.concurrent:jakarta.enterprise.concurrent-tck-dist
 jakarta.enterprise.concurrent:jakarta.enterprise.concurrent.parent
+jakarta.enterprise:cdi-tck-api
+jakarta.enterprise:cdi-tck-core-impl
+jakarta.enterprise:cdi-tck-dist
+jakarta.enterprise:cdi-tck-dist-libs
+jakarta.enterprise:cdi-tck-dist-porting-package
+jakarta.enterprise:cdi-tck-ext-lib
+jakarta.enterprise:cdi-tck-lang-model
+jakarta.enterprise:cdi-tck-parent
+jakarta.enterprise:cdi-tck-reference-guide
+jakarta.enterprise:cdi-tck-web-impl
 jakarta.enterprise:jakarta.enterprise.cdi-api
 jakarta.enterprise:jakarta.enterprise.cdi-el-api
 jakarta.enterprise:jakarta.enterprise.cdi-parent
@@ -1122,6 +1132,7 @@ org.apache.maven.resolver:maven-resolver-named-locks-redisson
 org.apache.maven.resolver:maven-resolver-spi
 org.apache.maven.resolver:maven-resolver-supplier
 org.apache.maven.resolver:maven-resolver-test-util
+org.apache.maven.resolver:maven-resolver-transport-apache
 org.apache.maven.resolver:maven-resolver-transport-classpath
 org.apache.maven.resolver:maven-resolver-transport-file
 org.apache.maven.resolver:maven-resolver-transport-http
@@ -1504,6 +1515,8 @@ org.glassfish.jersey.connectors:jersey-helidon-connector
 org.glassfish.jersey.connectors:jersey-jdk-connector
 org.glassfish.jersey.connectors:jersey-jetty-connector
 org.glassfish.jersey.connectors:jersey-jetty-http2-connector
+org.glassfish.jersey.connectors:jersey-jetty11-connector
+org.glassfish.jersey.connectors:jersey-jnh-connector
 org.glassfish.jersey.connectors:jersey-netty-connector
 org.glassfish.jersey.connectors:project
 org.glassfish.jersey.containers.glassfish:jersey-gf-ejb
@@ -1576,6 +1589,7 @@ org.glassfish.jersey.examples:open-tracing
 org.glassfish.jersey.examples:osgi-helloworld-webapp
 org.glassfish.jersey.examples:project
 org.glassfish.jersey.examples:reload
+org.glassfish.jersey.examples:rest31-sebootstrap-multipart
 org.glassfish.jersey.examples:rx-client-webapp
 org.glassfish.jersey.examples:server-async
 org.glassfish.jersey.examples:server-async-managed
