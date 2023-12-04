@@ -1,0 +1,4 @@
+org/apache/maven/plugins/maven-javadoc-plugin/3.6.3/maven-javadoc-plugin-3.6.3-cyclonedx.json
+org/apache/maven/plugins/maven-javadoc-plugin/3.6.3/maven-javadoc-plugin-3.6.3-cyclonedx.xml
+org/glassfish/build/spec-version-maven-plugin/2.2/spec-version-maven-plugin-2.2-cyclonedx.json
+org/glassfish/build/spec-version-maven-plugin/2.2/spec-version-maven-plugin-2.2-cyclonedx.xml

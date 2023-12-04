@@ -1499,6 +1499,7 @@ org.eclipse.store:storage-restservice
 org.eclipse.store:storage-restservice-sparkjava
 org.eclipse.store:store-parent
 org.glassfish.build:glassfishbuild-maven-plugin
+org.glassfish.build:spec-version-maven-plugin
 org.glassfish.jersey.archetypes:jersey-example-java8-webapp
 org.glassfish.jersey.archetypes:jersey-heroku-webapp
 org.glassfish.jersey.archetypes:jersey-quickstart-grizzly2
