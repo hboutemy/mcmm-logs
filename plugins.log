@@ -2570,6 +2570,7 @@ de.exalta -> envers-schema:envers-schema-maven-plugin =
 de.fau.cs.osr.maven.plugins -> rats:maven-rats-plugin = "Maven Rats! Plugin"
 de.fau.cs.osr.ptk -> ptk-nodegen:ptk-nodegen-maven-plugin = "PTK - NodeGen Maven Plugin"
 de.fau.cs.osr.ptk -> ptk-printergen:ptk-printergen-maven-plugin = "PTK - PrinterGen Maven Plugin"
+de.fbrandes.maven -> sleep:sleep-maven-plugin = 
 de.fegbers -> dependencies:dependencies-maven-plugin = "dependencies-maven-plugin"
 de.fegbers -> dependency:dependency-maven-plugin = "dependency-maven-plugin"
 de.felixschulze.maven.plugins.xcode -> xcode:xcode-maven-plugin = "XCode Maven Plugin"

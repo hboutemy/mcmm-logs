@@ -1440,6 +1440,7 @@ org.bonitasoft.bpm:org.bonitasoft.spec.bpmn
 org.cyclonedx:cyclonedx-core-java
 org.cyclonedx:cyclonedx-maven-plugin
 org.eclipse.ee4j:project
+org.eclipse.jetty:jetty-home
 org.eclipse.serializer:afs
 org.eclipse.serializer:afs-parent
 org.eclipse.serializer:base

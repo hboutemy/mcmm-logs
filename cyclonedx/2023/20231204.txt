@@ -1,0 +1,6 @@
+org/eclipse/jetty/jetty-home/12.0.4/jetty-home-12.0.4-cyclonedx.xml
+org/eclipse/jetty/jetty-home/12.0.4/jetty-home-12.0.4-cyclonedx.json
+org/glassfish/main/glassfish-main-aggregator/7.0.11/glassfish-main-aggregator-7.0.11-cyclonedx.xml
+org/glassfish/main/glassfish-main-aggregator/7.0.11/glassfish-main-aggregator-7.0.11-cyclonedx.json
+org/glassfish/main/glassfish-qa-config/7.0.11/glassfish-qa-config-7.0.11-cyclonedx.json
+org/glassfish/main/glassfish-qa-config/7.0.11/glassfish-qa-config-7.0.11-cyclonedx.xml
