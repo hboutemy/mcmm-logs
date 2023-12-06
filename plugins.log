@@ -2310,6 +2310,7 @@ com.telenav.cactus -> cactus:cactus-maven-plugin =
 com.telenav.cactus.metadata -> cactus-metadata:cactus-metadata-maven-plugin = 
 com.telenav.cactus.metadata -> cactusmetadata:cactusmetadata-maven-plugin = 
 com.tencent.tars -> tars:tars-maven-plugin = "${project.artifactId}"
+com.tencent.trpc -> trpc:trpc-maven-plugin = 
 com.tenderowls.opensource -> haxemojos:haxemojos-maven-plugin = "Haxemojos"
 com.teradata -> redlinerpmtd:redlinerpm-maven-plugin-td = "maven-redlinerpm-plugin Maven Mojo"
 com.testerum -> testerum-extensions:testerum-extensions-maven-plugin = 
