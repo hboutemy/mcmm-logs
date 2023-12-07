@@ -1,0 +1,2 @@
+org/jetbrains/kotlinx/kotlinx-metadata-jvm/0.8.0/kotlinx-metadata-jvm-0.8.0.spdx.json
+org/opendaylight/odlparent/odlparent-sbom-13.0.8.spdx
