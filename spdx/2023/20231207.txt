@@ -1,0 +1,2 @@
+commons-validator/commons-validator/1.8.0/commons-validator-1.8.0.spdx.json
+org/apache/bcel/bcel/6.8.0/bcel-6.8.0.spdx.json

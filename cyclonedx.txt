@@ -197,6 +197,7 @@ commons-fileupload:commons-fileupload
 commons-io:commons-io
 commons-logging:commons-logging
 commons-net:commons-net
+commons-validator:commons-validator
 de.knightsoft-net:gwt-commons-lang3
 de.trustable:cryptoUtil
 dev.iabudiab:dependency-track-maven-plugin
@@ -297,6 +298,7 @@ io.dropwizard.metrics:metrics-servlet
 io.dropwizard.metrics:metrics-servlets
 io.dropwizard.modules:dropwizard-jdbi
 io.dropwizard.modules:dropwizard-testing-junit4
+io.dropwizard.modules:module-parent
 io.dropwizard:dropwizard-assets
 io.dropwizard:dropwizard-auth
 io.dropwizard:dropwizard-bom
@@ -335,6 +337,8 @@ io.smallrye.reactive:mutiny-math
 io.smallrye.reactive:mutiny-reactor
 io.smallrye.reactive:mutiny-rxjava3
 jakarta.annotation:jakarta.annotation-api
+jakarta.authentication:jakarta.authentication-api
+jakarta.authorization:jakarta.authorization-api
 jakarta.data:jakarta.data-api
 jakarta.data:jakarta.data-parent
 jakarta.data:jakarta.data-spec
@@ -362,6 +366,7 @@ jakarta.enterprise:jakarta.enterprise.cdi-spec-doc
 jakarta.enterprise:jakarta.enterprise.lang-model
 jakarta.interceptor:jakarta.interceptor-api
 jakarta.persistence:jakarta.persistence-api
+jakarta.security.enterprise:jakarta.security.enterprise-api
 jakarta.servlet.jsp:jakarta.servlet.jsp-api
 jakarta.servlet:jakarta.servlet-api
 jakarta.validation:jakarta.validation-api

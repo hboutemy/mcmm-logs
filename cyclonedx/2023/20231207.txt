@@ -1,0 +1,16 @@
+commons-validator/commons-validator/1.8.0/commons-validator-1.8.0-cyclonedx.json
+commons-validator/commons-validator/1.8.0/commons-validator-1.8.0-cyclonedx.xml
+dev/openfeature/contrib/providers/go-feature-flag/0.2.16/go-feature-flag-0.2.16-cyclonedx.json
+dev/openfeature/contrib/providers/go-feature-flag/0.2.16/go-feature-flag-0.2.16-cyclonedx.xml
+dev/openfeature/sdk/1.7.1/sdk-1.7.1-cyclonedx.xml
+dev/openfeature/sdk/1.7.1/sdk-1.7.1-cyclonedx.json
+io/dropwizard/modules/module-parent/4.0.0-rc.1/module-parent-4.0.0-rc.1-cyclonedx.xml
+io/dropwizard/modules/module-parent/4.0.0-rc.1/module-parent-4.0.0-rc.1-cyclonedx.json
+jakarta/authentication/jakarta.authentication-api/3.1.0-M1/jakarta.authentication-api-3.1.0-M1-cyclonedx.xml
+jakarta/authentication/jakarta.authentication-api/3.1.0-M1/jakarta.authentication-api-3.1.0-M1-cyclonedx.json
+jakarta/authorization/jakarta.authorization-api/3.0.0-M1/jakarta.authorization-api-3.0.0-M1-cyclonedx.xml
+jakarta/authorization/jakarta.authorization-api/3.0.0-M1/jakarta.authorization-api-3.0.0-M1-cyclonedx.json
+jakarta/security/enterprise/jakarta.security.enterprise-api/4.0.0-M1/jakarta.security.enterprise-api-4.0.0-M1-cyclonedx.json
+jakarta/security/enterprise/jakarta.security.enterprise-api/4.0.0-M1/jakarta.security.enterprise-api-4.0.0-M1-cyclonedx.xml
+org/apache/bcel/bcel/6.8.0/bcel-6.8.0-cyclonedx.json
+org/apache/bcel/bcel/6.8.0/bcel-6.8.0-cyclonedx.xml
