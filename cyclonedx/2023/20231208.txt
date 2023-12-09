@@ -1,0 +1,14 @@
+io/dropwizard/modules/module-parent/2.1.0-rc.1/module-parent-2.1.0-rc.1-cyclonedx.xml
+io/dropwizard/modules/module-parent/2.1.0-rc.1/module-parent-2.1.0-rc.1-cyclonedx.json
+io/dropwizard/modules/module-parent/3.0.0-rc.1/module-parent-3.0.0-rc.1-cyclonedx.xml
+io/dropwizard/modules/module-parent/3.0.0-rc.1/module-parent-3.0.0-rc.1-cyclonedx.json
+io/smallrye/reactive/mutiny-kotlin/2.5.2/mutiny-kotlin-2.5.2-cyclonedx.xml
+io/smallrye/reactive/mutiny-kotlin/2.5.2/mutiny-kotlin-2.5.2-cyclonedx.json
+io/smallrye/reactive/mutiny-math/2.5.2/mutiny-math-2.5.2-cyclonedx.xml
+io/smallrye/reactive/mutiny-math/2.5.2/mutiny-math-2.5.2-cyclonedx.json
+io/smallrye/reactive/mutiny-reactor/2.5.2/mutiny-reactor-2.5.2-cyclonedx.json
+io/smallrye/reactive/mutiny-reactor/2.5.2/mutiny-reactor-2.5.2-cyclonedx.xml
+io/smallrye/reactive/mutiny-rxjava3/2.5.2/mutiny-rxjava3-2.5.2-cyclonedx.xml
+io/smallrye/reactive/mutiny-rxjava3/2.5.2/mutiny-rxjava3-2.5.2-cyclonedx.json
+io/smallrye/reactive/mutiny/2.5.2/mutiny-2.5.2-cyclonedx.json
+io/smallrye/reactive/mutiny/2.5.2/mutiny-2.5.2-cyclonedx.xml
