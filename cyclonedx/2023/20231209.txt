@@ -1,0 +1,8 @@
+io/dropwizard/modules/dropwizard-kafka/4.0.1-rc.1/dropwizard-kafka-4.0.1-rc.1-cyclonedx.json
+io/dropwizard/modules/dropwizard-kafka/4.0.1-rc.1/dropwizard-kafka-4.0.1-rc.1-cyclonedx.xml
+io/dropwizard/modules/module-parent/2.1.0-rc.2/module-parent-2.1.0-rc.2-cyclonedx.xml
+io/dropwizard/modules/module-parent/2.1.0-rc.2/module-parent-2.1.0-rc.2-cyclonedx.json
+io/dropwizard/modules/module-parent/3.0.0-rc.2/module-parent-3.0.0-rc.2-cyclonedx.xml
+io/dropwizard/modules/module-parent/3.0.0-rc.2/module-parent-3.0.0-rc.2-cyclonedx.json
+io/dropwizard/modules/module-parent/4.0.0-rc.2/module-parent-4.0.0-rc.2-cyclonedx.json
+io/dropwizard/modules/module-parent/4.0.0-rc.2/module-parent-4.0.0-rc.2-cyclonedx.xml
