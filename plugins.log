@@ -1812,6 +1812,7 @@ com.kodcu -> closure:closure-maven-plugin = "Closure Compiler Maven Plugin"
 com.kodcu -> css:css-maven-plugin = "CSS Minifier Maven Plugin"
 com.kodcu -> ember:ember-maven-plugin = "Ember Maven Plugin"
 com.koekiebox -> git:git-maven-plugin = "Git Maven Plugin"
+com.kohlschutter.jacline -> jacline:jacline-maven-plugin = 
 com.kohlschutter.mavenplugins -> copy-rename:copy-rename-maven-plugin = "Copy Rename Maven Plugin"
 com.kohlschutter.retrolambda -> retrolambda:retrolambda-maven-plugin = 
 com.kryptokrauts -> contraect:contraect-maven-plugin = "contraect-maven-plugin"
