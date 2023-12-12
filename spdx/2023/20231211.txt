@@ -1,0 +1,1 @@
+org/opendaylight/odlparent/odlparent-sbom-13.0.9.spdx
