@@ -390,6 +390,7 @@ jakarta.enterprise:jakarta.enterprise.cdi-el-api
 jakarta.enterprise:jakarta.enterprise.cdi-parent
 jakarta.enterprise:jakarta.enterprise.cdi-spec-doc
 jakarta.enterprise:jakarta.enterprise.lang-model
+jakarta.faces:jakarta.faces-api
 jakarta.interceptor:jakarta.interceptor-api
 jakarta.persistence:jakarta.persistence-api
 jakarta.security.enterprise:jakarta.security.enterprise-api
@@ -1207,6 +1208,7 @@ org.apache.maven:maven-api
 org.apache.maven:maven-api-core
 org.apache.maven:maven-api-meta
 org.apache.maven:maven-api-model
+org.apache.maven:maven-api-plugin
 org.apache.maven:maven-api-settings
 org.apache.maven:maven-api-spi
 org.apache.maven:maven-api-toolchain
@@ -1560,6 +1562,7 @@ org.glassfish.jersey.containers:jersey-container-jdk-http
 org.glassfish.jersey.containers:jersey-container-jetty-http
 org.glassfish.jersey.containers:jersey-container-jetty-http2
 org.glassfish.jersey.containers:jersey-container-jetty-servlet
+org.glassfish.jersey.containers:jersey-container-jetty11-http
 org.glassfish.jersey.containers:jersey-container-netty-http
 org.glassfish.jersey.containers:jersey-container-servlet
 org.glassfish.jersey.containers:jersey-container-servlet-core
