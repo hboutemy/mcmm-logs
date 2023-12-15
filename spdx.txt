@@ -123,6 +123,7 @@ org.jetbrains.kotlin:kotlin-maven-plugin
 org.jetbrains.kotlin:kotlin-maven-sam-with-receiver
 org.jetbrains.kotlin:kotlin-maven-serialization
 org.jetbrains.kotlin:kotlin-native
+org.jetbrains.kotlin:kotlin-native-compiler-embeddable
 org.jetbrains.kotlin:kotlin-native-prebuilt
 org.jetbrains.kotlin:kotlin-native-utils
 org.jetbrains.kotlin:kotlin-noarg
