@@ -3153,6 +3153,7 @@ io.github.duqian42707 -> screw:screw-maven-plugin =
 io.github.epi155 -> recfm:recfm-maven-plugin = "record fixed format plugin"
 io.github.ericsson-mts -> mts-asn1:mts-asn1-plugin = 
 io.github.ermadmi78 -> kobby:kobby-maven-plugin = "io.github.ermadmi78:kobby-maven-plugin"
+io.github.erroraway -> sonar-erroraway:sonar-erroraway-maven-plugin = 
 io.github.erwinc1 -> graphql-schema-linter:graphql-schema-linter-maven-plugin = "graphql-schema-linter-maven-plugin"
 io.github.evis -> scalafix:scalafix-maven-plugin = "scalafix-maven-plugin"
 io.github.evis -> scalafix_2.11:scalafix-maven-plugin_2.11 = "scalafix-maven-plugin"

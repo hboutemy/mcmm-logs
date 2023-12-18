@@ -1166,6 +1166,7 @@ org.apache.maven.resolver:maven-resolver-named-locks-hazelcast
 org.apache.maven.resolver:maven-resolver-named-locks-redisson
 org.apache.maven.resolver:maven-resolver-spi
 org.apache.maven.resolver:maven-resolver-supplier
+org.apache.maven.resolver:maven-resolver-test-http
 org.apache.maven.resolver:maven-resolver-test-util
 org.apache.maven.resolver:maven-resolver-transport-apache
 org.apache.maven.resolver:maven-resolver-transport-classpath

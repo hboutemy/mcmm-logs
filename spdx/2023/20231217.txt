@@ -1,0 +1,3 @@
+org/spdx/spdx-jackson-store/1.1.9/spdx-jackson-store-1.1.9.spdx.json
+org/spdx/spdx-spreadsheet-store/1.1.7/spdx-spreadsheet-store-1.1.7.spdx.json
+org/spdx/spdx-tagvalue-store/1.1.7/spdx-tagvalue-store-1.1.7.spdx.json
