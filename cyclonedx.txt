@@ -59,6 +59,7 @@ com.io7m.idstore:com.io7m.idstore.server.service.sessions
 com.io7m.idstore:com.io7m.idstore.server.service.telemetry.api
 com.io7m.idstore:com.io7m.idstore.server.service.telemetry.otp
 com.io7m.idstore:com.io7m.idstore.server.service.templating
+com.io7m.idstore:com.io7m.idstore.server.service.tls
 com.io7m.idstore:com.io7m.idstore.server.service.verdant
 com.io7m.idstore:com.io7m.idstore.server.user_v1
 com.io7m.idstore:com.io7m.idstore.server.user_view
@@ -68,6 +69,7 @@ com.io7m.idstore:com.io7m.idstore.strings
 com.io7m.idstore:com.io7m.idstore.tests
 com.io7m.idstore:com.io7m.idstore.tests.arbitraries
 com.io7m.idstore:com.io7m.idstore.tests.extensions
+com.io7m.idstore:com.io7m.idstore.tls
 com.io7m.idstore:com.io7m.idstore.user_client
 com.io7m.idstore:com.io7m.idstore.user_client.api
 com.io7m.jdownload:com.io7m.jdownload
