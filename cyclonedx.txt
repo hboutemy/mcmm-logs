@@ -585,6 +585,7 @@ org.apache.avro:trevni-core
 org.apache.avro:trevni-doc
 org.apache.avro:trevni-java
 org.apache.bcel:bcel
+org.apache.camel.k:camel-k-runtime-project
 org.apache.camel.kamelets:camel-kamelets-parent
 org.apache.camel.quarkus:camel-quarkus
 org.apache.camel.springboot:spring-boot

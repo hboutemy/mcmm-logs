@@ -1,0 +1,2 @@
+org/apache/camel/k/camel-k-runtime-project/3.6.0/camel-k-runtime-project-3.6.0-cyclonedx.json
+org/apache/camel/k/camel-k-runtime-project/3.6.0/camel-k-runtime-project-3.6.0-cyclonedx.xml
