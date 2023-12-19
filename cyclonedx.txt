@@ -367,6 +367,8 @@ io.smallrye.reactive:mutiny-rxjava3
 jakarta.annotation:jakarta.annotation-api
 jakarta.authentication:jakarta.authentication-api
 jakarta.authorization:jakarta.authorization-api
+jakarta.config:jakarta.config
+jakarta.config:jakarta.config-api
 jakarta.data:jakarta.data-api
 jakarta.data:jakarta.data-parent
 jakarta.data:jakarta.data-spec
@@ -1139,6 +1141,7 @@ org.apache.maven.plugin-tools:maven-script-beanshell
 org.apache.maven.plugins:maven-artifact-plugin
 org.apache.maven.plugins:maven-checkstyle-plugin
 org.apache.maven.plugins:maven-clean-plugin
+org.apache.maven.plugins:maven-compiler-plugin
 org.apache.maven.plugins:maven-dependency-plugin
 org.apache.maven.plugins:maven-enforcer-plugin
 org.apache.maven.plugins:maven-failsafe-plugin
@@ -1789,6 +1792,8 @@ org.glassfish.tyrus:tyrus-documentation
 org.glassfish.tyrus:tyrus-project
 org.glassfish.tyrus:tyrus-server
 org.glassfish.tyrus:tyrus-spi
+org.glassfish:jakarta.faces
+org.glassfish:mojarra-parent
 org.jreleaser:jdks-maven-plugin
 org.jreleaser:jreleaser
 org.jreleaser:jreleaser-ant-tasks
