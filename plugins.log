@@ -6708,6 +6708,7 @@ ua.pp.msk.maven -> dependency-publish:dependency-publish-maven-plugin = "Depende
 uk.ac.ebi.uniprot -> openapi:openapi-maven-plugin = "Maven plugin to generate OpenAPI Spec"
 uk.ac.gate -> gate:gate-maven-plugin = "GATE Maven Plugin"
 uk.ac.nactem.argo -> uimafit:uimafit-maven-plugin = "Apache UIMA uimaFIT - Maven Plugin"
+uk.bot-by.ijhttp-tools -> ijhttp:ijhttp-maven-plugin = "ijhttp tools : Maven Plugin"
 uk.bot-by.maven-plugin -> ijhttp:ijhttp-maven-plugin = "IntelliJ HTTP Client Maven Plugin"
 uk.camsw.smc -> smc:smc-maven-plugin = "State Machine Compiler (SMC) Maven Plugin"
 uk.co.automatictester -> jmeter-lightning:jmeter-lightning-maven-plugin = "jmeter-lightning-maven-plugin"

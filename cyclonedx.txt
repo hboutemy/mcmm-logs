@@ -397,6 +397,11 @@ jakarta.enterprise:jakarta.enterprise.lang-model
 jakarta.faces:jakarta.faces-api
 jakarta.interceptor:jakarta.interceptor-api
 jakarta.persistence:jakarta.persistence-api
+jakarta.platform:jakarta.jakartaee-api
+jakarta.platform:jakarta.jakartaee-bom
+jakarta.platform:jakarta.jakartaee-core-api
+jakarta.platform:jakarta.jakartaee-web-api
+jakarta.platform:jakartaee-api-parent
 jakarta.security.enterprise:jakarta.security.enterprise-api
 jakarta.servlet.jsp:jakarta.servlet.jsp-api
 jakarta.servlet:jakarta.servlet-api
