@@ -999,6 +999,7 @@ com.github.javahello -> erm-generator-mybatis:erm-generator-mybatis-maven-plugin
 com.github.jcustenborder.kafka.connect -> kafka-connect-documentation:kafka-connect-documentation-plugin = "kafka-connect-documentation-plugin"
 com.github.jcustenborder.maven.plugins -> kafka-connect:kafka-connect-maven-plugin = "kafka-connect-maven-plugin"
 com.github.jcustenborder.maven.plugins -> wits:wits-maven-plugin = "wits-maven-plugin"
+com.github.jdelker -> devsak:devsak-maven-plugin = "Developer's-Swiss-Army-Knife Maven Plugin"
 com.github.jegr78 -> image-gallery:image-gallery-maven-plugin = "Maven Image Gallery Plugin"
 com.github.jeluard -> plantuml:maven-plantuml-plugin = "Maven PlantUML plugin"
 com.github.jeluard -> plantuml:plantuml-maven-plugin = "Maven PlantUML plugin"
