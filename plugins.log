@@ -5018,7 +5018,7 @@ org.codehaus.openxma -> org.openxma.dsl.sample-archetype:org.openxma.dsl.sample-
 org.codehaus.openxma -> dsl-generator-mojo:dsl-generator-mojo = "openXMA Dsl Generator Mojo"
 org.codehaus.plexus -> plexus:plexus-maven-plugin = "Plexus Maven Plugin"
 org.codehaus.plexus -> plexus-appserver:plexus-appserver-maven-plugin = "Plexus App Server Maven Plugin"
-org.codehaus.plexus -> plexus-component-metadata:plexus-component-metadata = "Plexus :: Component Metadata (Maven Plugin)"
+org.codehaus.plexus -> plexus-component-metadata:plexus-component-metadata = "Plexus :: Component Metadata (Maven Plugin) (deprecated)"
 org.codehaus.puzzle-gis.org.geotools.maven -> archetype:archetype = "Geotools Archetype"
 org.codehaus.puzzle-gis.org.geotools.maven -> build-configs:build-configs = "Configuration files for the multimodule build"
 org.codehaus.puzzle-gis.org.geotools.maven -> jar-collector:jar-collector = "JAR files collector"
