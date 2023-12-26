@@ -5261,6 +5261,7 @@ org.eobjects.build -> dotnet:dotnet-maven-plugin =
 org.eolang -> eo:eo-maven-plugin = "eo-maven-plugin"
 org.eolang -> ineo:ineo-maven-plugin = "ineo"
 org.eolang -> jeo:jeo-maven-plugin = "jeo"
+org.eolang -> opeo:opeo-maven-plugin = "opeo-maven-plugin"
 org.eu.ingwar.maven -> sputnik:sputnik-maven-plugin = "Sputnik Maven Plugin"
 org.everit.osgi.dev -> eosgi:eosgi-maven-plugin = "Everit - Maven OSGi plugin"
 org.everit.osgi.dev -> generate:lqmg-maven-plugin = "Everit - LQMG Maven Plugin"
