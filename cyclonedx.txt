@@ -1,5 +1,6 @@
 com.github.camel-tooling:camel-dap-server
 com.github.camel-tooling:camel-lsp-server
+com.github.hazendaz:base-parent
 com.github.mwiede:jsch
 com.github.oscerd:finnhub-java-client
 com.gitlab.haynes:libsass-maven-plugin
@@ -1466,6 +1467,10 @@ org.apache.syncope.ext.oidcc4ui:syncope-ext-oidcc4ui-provisioning-api
 org.apache.syncope.ext.oidcc4ui:syncope-ext-oidcc4ui-provisioning-java
 org.apache.syncope.ext.oidcc4ui:syncope-ext-oidcc4ui-rest-api
 org.apache.syncope.ext.oidcc4ui:syncope-ext-oidcc4ui-rest-cxf
+org.apache.syncope.ext.opensearch:syncope-ext-opensearch-client
+org.apache.syncope.ext.opensearch:syncope-ext-opensearch-logic
+org.apache.syncope.ext.opensearch:syncope-ext-opensearch-persistence-jpa
+org.apache.syncope.ext.opensearch:syncope-ext-opensearch-provisioning-java
 org.apache.syncope.ext.saml2sp4ui:syncope-ext-saml2sp4ui-client-common-ui
 org.apache.syncope.ext.saml2sp4ui:syncope-ext-saml2sp4ui-client-console
 org.apache.syncope.ext.saml2sp4ui:syncope-ext-saml2sp4ui-client-enduser
@@ -1487,6 +1492,7 @@ org.apache.syncope.ext.scimv2:syncope-ext-scimv2-scim-rest-cxf
 org.apache.syncope.ext:syncope-ext-elasticsearch
 org.apache.syncope.ext:syncope-ext-flowable
 org.apache.syncope.ext:syncope-ext-oidcc4ui
+org.apache.syncope.ext:syncope-ext-opensearch
 org.apache.syncope.ext:syncope-ext-saml2sp4ui
 org.apache.syncope.ext:syncope-ext-scimv2
 org.apache.syncope.fit:syncope-fit-build-tools
