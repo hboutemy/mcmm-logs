@@ -1,5 +1,6 @@
 com.github.camel-tooling:camel-dap-server
 com.github.camel-tooling:camel-lsp-server
+com.github.hazendaz.nodejs:node
 com.github.hazendaz:base-parent
 com.github.mwiede:jsch
 com.github.oscerd:finnhub-java-client
@@ -651,6 +652,8 @@ org.apache.commons:commons-fileupload2
 org.apache.commons:commons-fileupload2-core
 org.apache.commons:commons-fileupload2-distribution
 org.apache.commons:commons-fileupload2-jakarta
+org.apache.commons:commons-fileupload2-jakarta-servlet5
+org.apache.commons:commons-fileupload2-jakarta-servlet6
 org.apache.commons:commons-fileupload2-javax
 org.apache.commons:commons-fileupload2-portlet
 org.apache.commons:commons-jcs3
@@ -1104,6 +1107,8 @@ org.apache.hbase:hbase-zookeeper
 org.apache.logging.log4j:log4j
 org.apache.logging.log4j:log4j-1.2-api
 org.apache.logging.log4j:log4j-api
+org.apache.logging.log4j:log4j-api-kotlin
+org.apache.logging.log4j:log4j-api-kotlin-parent
 org.apache.logging.log4j:log4j-api-test
 org.apache.logging.log4j:log4j-appserver
 org.apache.logging.log4j:log4j-bom

@@ -24,6 +24,8 @@ org.apache.commons:commons-fileupload2
 org.apache.commons:commons-fileupload2-core
 org.apache.commons:commons-fileupload2-distribution
 org.apache.commons:commons-fileupload2-jakarta
+org.apache.commons:commons-fileupload2-jakarta-servlet5
+org.apache.commons:commons-fileupload2-jakarta-servlet6
 org.apache.commons:commons-fileupload2-javax
 org.apache.commons:commons-fileupload2-portlet
 org.apache.commons:commons-jcs3

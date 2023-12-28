@@ -1,0 +1,7 @@
+org/apache/commons/commons-fileupload2-core/2.0.0-M2/commons-fileupload2-core-2.0.0-M2.spdx.json
+org/apache/commons/commons-fileupload2-distribution/2.0.0-M2/commons-fileupload2-distribution-2.0.0-M2.spdx.json
+org/apache/commons/commons-fileupload2-jakarta-servlet5/2.0.0-M2/commons-fileupload2-jakarta-servlet5-2.0.0-M2.spdx.json
+org/apache/commons/commons-fileupload2-jakarta-servlet6/2.0.0-M2/commons-fileupload2-jakarta-servlet6-2.0.0-M2.spdx.json
+org/apache/commons/commons-fileupload2-javax/2.0.0-M2/commons-fileupload2-javax-2.0.0-M2.spdx.json
+org/apache/commons/commons-fileupload2-portlet/2.0.0-M2/commons-fileupload2-portlet-2.0.0-M2.spdx.json
+org/apache/commons/commons-fileupload2/2.0.0-M2/commons-fileupload2-2.0.0-M2.spdx.json
