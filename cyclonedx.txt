@@ -368,6 +368,7 @@ io.dropwizard.modules:dropwizard-jdbi
 io.dropwizard.modules:dropwizard-kafka
 io.dropwizard.modules:dropwizard-protobuf
 io.dropwizard.modules:dropwizard-testing-junit4
+io.dropwizard.modules:dropwizard-vavr
 io.dropwizard.modules:module-parent
 io.dropwizard:dropwizard-assets
 io.dropwizard:dropwizard-auth
