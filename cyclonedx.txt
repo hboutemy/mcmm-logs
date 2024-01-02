@@ -1105,6 +1105,7 @@ org.apache.hbase:hbase-shell
 org.apache.hbase:hbase-testing-util
 org.apache.hbase:hbase-thrift
 org.apache.hbase:hbase-zookeeper
+org.apache.iotdb:iotdb-parent
 org.apache.logging.log4j:log4j
 org.apache.logging.log4j:log4j-1.2-api
 org.apache.logging.log4j:log4j-api
