@@ -6453,6 +6453,7 @@ org.wildfly -> wildfly-channel:wildfly-channel-maven-plugin = "Wildfly Channel M
 org.wildfly.build -> wildfly-feature-pack-build:wildfly-feature-pack-build-maven-plugin = "WildFly Build Tools: Feature Pack Build Maven Plugin"
 org.wildfly.build -> wildfly-server-provisioning:wildfly-server-provisioning-maven-plugin = "WildFly Build Tools: Server Provisioning Maven Plugin"
 org.wildfly.core -> wildfly-build:wildfly-build-plugin = "WildFly: Server Build Tool"
+org.wildfly.experimental.api -> experimental-api-classpath-indexer:experimental-api-classpath-indexer-plugin = 
 org.wildfly.extras -> adocdescriptor:adoc-maven-plugin-descriptor = "Asciidoc Plugin Generator"
 org.wildfly.extras.batavia -> transformer-tools-mvn:transformer-tools-mvn = "Transformer Maven Tools"
 org.wildfly.galleon-plugins -> wildfly-galleon:wildfly-galleon-maven-plugin = "WildFly Galleon Maven Plugins"
