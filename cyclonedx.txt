@@ -60,6 +60,16 @@ com.io7m.cardant:com.io7m.cardant.strings
 com.io7m.cardant:com.io7m.cardant.tests
 com.io7m.cardant:com.io7m.cardant.tests.arbitraries
 com.io7m.cardant:com.io7m.cardant.tls
+com.io7m.cardant:com.io7m.cardant.type_packages.checker.api
+com.io7m.cardant:com.io7m.cardant.type_packages.checkers
+com.io7m.cardant:com.io7m.cardant.type_packages.compiler.api
+com.io7m.cardant:com.io7m.cardant.type_packages.compilers
+com.io7m.cardant:com.io7m.cardant.type_packages.parser.api
+com.io7m.cardant:com.io7m.cardant.type_packages.parsers
+com.io7m.cardant:com.io7m.cardant.type_packages.resolver.api
+com.io7m.cardant:com.io7m.cardant.type_packages.standard
+com.io7m.cardant:com.io7m.cardant.type_packages.upgrades
+com.io7m.cardant:com.io7m.cardant.type_packages.upgrades.api
 com.io7m.ervilla:com.io7m.ervilla
 com.io7m.ervilla:com.io7m.ervilla.api
 com.io7m.ervilla:com.io7m.ervilla.native_exec
@@ -1390,6 +1400,7 @@ org.apache.maven:maven-xml-impl
 org.apache.orc:orc
 org.apache.orc:orc-core
 org.apache.orc:orc-examples
+org.apache.orc:orc-format
 org.apache.orc:orc-mapreduce
 org.apache.orc:orc-shims
 org.apache.orc:orc-tools
