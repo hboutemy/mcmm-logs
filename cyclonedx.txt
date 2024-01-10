@@ -2002,6 +2002,7 @@ org.glassfish.tyrus.tests.servlet:tyrus-tests-servlet-oneappconfig
 org.glassfish.tyrus.tests.servlet:tyrus-tests-servlet-project
 org.glassfish.tyrus.tests.servlet:tyrus-tests-servlet-remote
 org.glassfish.tyrus.tests.servlet:tyrus-tests-servlet-session
+org.glassfish.tyrus.tests:tyrus-release-test
 org.glassfish.tyrus.tests:tyrus-test-tools
 org.glassfish.tyrus.tests:tyrus-tests-containers
 org.glassfish.tyrus.tests:tyrus-tests-containers-jdk-client
@@ -2015,6 +2016,7 @@ org.glassfish.tyrus.tests:tyrus-tests-e2e-jetty
 org.glassfish.tyrus.tests:tyrus-tests-e2e-nondeployable
 org.glassfish.tyrus.tests:tyrus-tests-e2e-stdconfig
 org.glassfish.tyrus.tests:tyrus-tests-project
+org.glassfish.tyrus:tyrus-bom
 org.glassfish.tyrus:tyrus-client
 org.glassfish.tyrus:tyrus-container-glassfish-cdi
 org.glassfish.tyrus:tyrus-container-glassfish-ejb
