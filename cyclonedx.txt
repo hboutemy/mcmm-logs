@@ -2,6 +2,9 @@ com.github.camel-tooling:camel-dap-server
 com.github.camel-tooling:camel-lsp-server
 com.github.hazendaz.jmeter:apache-jmeter
 com.github.hazendaz.nodejs:node
+com.github.hazendaz.tomcat:tomcat10-config
+com.github.hazendaz.tomcat:tomcat11-config
+com.github.hazendaz.tomcat:tomcat9-config
 com.github.hazendaz:base-parent
 com.github.mwiede:jsch
 com.github.oscerd:finnhub-java-client
