@@ -1,0 +1,2 @@
+org/apache/bcel/bcel/6.8.1/bcel-6.8.1.spdx.json
+org/jetbrains/kotlinx/kotlinx-metadata-jvm/0.9.0/kotlinx-metadata-jvm-0.9.0.spdx.json

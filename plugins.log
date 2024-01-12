@@ -2435,6 +2435,7 @@ com.voltvoodoo -> brew:brew = "Brew"
 com.wadpam.gimple -> gimple:gimple-maven-plugin = "${project.groupId}:${project.artifactId}"
 com.wangrunxin.plugin -> swagger:swagger-maven-plugin = "Swagger Maven Plugin"
 com.wangshanhai.dbdoc -> dbdoc:dbdoc-maven-plugin = "dbdoc-maven-plugin"
+com.wangshanhai.productivitydoc -> shanhai-productivitydoc:shanhai-productivitydoc-maven-plugin = 
 com.wavemaker.app.build -> wavemaker-app-build:wavemaker-app-build-maven-plugin = "wavemaker-app-build-maven-plugin"
 com.wavemaker.app.build -> wavemaker-app-package:wavemaker-app-package-maven-plugin = "wavemaker-app-package-maven-plugin"
 com.wavemaker.connector.build -> wavemaker-connector-build:wavemaker-connector-build-maven-plugin = "wavemaker-connector-build-maven-plugin"
