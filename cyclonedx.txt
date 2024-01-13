@@ -6,6 +6,7 @@ com.github.hazendaz.tomcat:tomcat10-config
 com.github.hazendaz.tomcat:tomcat11-config
 com.github.hazendaz.tomcat:tomcat9-config
 com.github.hazendaz:base-parent
+com.github.hazendaz:scriptable-dataset
 com.github.mwiede:jsch
 com.github.oscerd:finnhub-java-client
 com.gitlab.haynes:libsass-maven-plugin
@@ -3184,6 +3185,7 @@ org.xmlunit:xmlunit-legacy
 org.xmlunit:xmlunit-matchers
 org.xmlunit:xmlunit-parent
 org.xmlunit:xmlunit-placeholders
+org.zoomba-lang:commons-jxpath
 ru.vyarus.guicey:guicey-admin-rest
 ru.vyarus.guicey:guicey-eventbus
 ru.vyarus.guicey:guicey-jdbi
