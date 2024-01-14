@@ -1,0 +1,4 @@
+dev/openfeature/sdk/1.7.3/sdk-1.7.3-cyclonedx.json
+dev/openfeature/sdk/1.7.3/sdk-1.7.3-cyclonedx.xml
+nl/basjes/maven/release/conventional-commits-version-policy/1.0.5/conventional-commits-version-policy-1.0.5-cyclonedx.xml
+nl/basjes/maven/release/conventional-commits-version-policy/1.0.5/conventional-commits-version-policy-1.0.5-cyclonedx.json
