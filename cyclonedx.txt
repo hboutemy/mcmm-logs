@@ -1,3 +1,4 @@
+com.duosecurity:duo-client
 com.github.camel-tooling:camel-dap-server
 com.github.camel-tooling:camel-lsp-server
 com.github.hazendaz.jmeter:apache-jmeter
@@ -419,6 +420,10 @@ io.dropwizard:dropwizard-validation
 io.dropwizard:dropwizard-views
 io.dropwizard:dropwizard-views-freemarker
 io.dropwizard:dropwizard-views-mustache
+io.github.sebastian-toepfer.json-schema:json-schema
+io.github.sebastian-toepfer.json-schema:json-schema-api
+io.github.sebastian-toepfer.json-schema:json-schema-core
+io.github.sebastian-toepfer.json-schema:json-schema-vocabulary-spi
 io.smallrye.reactive:mutiny
 io.smallrye.reactive:mutiny-kotlin
 io.smallrye.reactive:mutiny-math
