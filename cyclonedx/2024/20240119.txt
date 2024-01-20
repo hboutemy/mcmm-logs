@@ -1,0 +1,10 @@
+io/smallrye/reactive/mutiny-kotlin/2.5.4/mutiny-kotlin-2.5.4-cyclonedx.json
+io/smallrye/reactive/mutiny-kotlin/2.5.4/mutiny-kotlin-2.5.4-cyclonedx.xml
+io/smallrye/reactive/mutiny-math/2.5.4/mutiny-math-2.5.4-cyclonedx.json
+io/smallrye/reactive/mutiny-math/2.5.4/mutiny-math-2.5.4-cyclonedx.xml
+io/smallrye/reactive/mutiny-reactor/2.5.4/mutiny-reactor-2.5.4-cyclonedx.xml
+io/smallrye/reactive/mutiny-reactor/2.5.4/mutiny-reactor-2.5.4-cyclonedx.json
+io/smallrye/reactive/mutiny-rxjava3/2.5.4/mutiny-rxjava3-2.5.4-cyclonedx.json
+io/smallrye/reactive/mutiny-rxjava3/2.5.4/mutiny-rxjava3-2.5.4-cyclonedx.xml
+io/smallrye/reactive/mutiny/2.5.4/mutiny-2.5.4-cyclonedx.json
+io/smallrye/reactive/mutiny/2.5.4/mutiny-2.5.4-cyclonedx.xml
