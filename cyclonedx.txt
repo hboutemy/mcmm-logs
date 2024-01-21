@@ -4,6 +4,7 @@ com.github.camel-tooling:camel-lsp-server
 com.github.hazendaz.jmeter:apache-jmeter
 com.github.hazendaz.maven:coveralls-maven-plugin
 com.github.hazendaz.nodejs:node
+com.github.hazendaz.sf:sf
 com.github.hazendaz.tomcat:tomcat10-config
 com.github.hazendaz.tomcat:tomcat11-config
 com.github.hazendaz.tomcat:tomcat9-config
@@ -329,6 +330,8 @@ io.dropwizard.metrics5:metrics-jersey3
 io.dropwizard.metrics5:metrics-jersey31
 io.dropwizard.metrics5:metrics-jetty10
 io.dropwizard.metrics5:metrics-jetty11
+io.dropwizard.metrics5:metrics-jetty12
+io.dropwizard.metrics5:metrics-jetty12-ee10
 io.dropwizard.metrics5:metrics-jetty9
 io.dropwizard.metrics5:metrics-jmx
 io.dropwizard.metrics5:metrics-json
@@ -2617,6 +2620,8 @@ org.opendaylight.mdsal.model:odl-mdsal-model-rfc8819-non-nmda
 org.opendaylight.mdsal.model:opendaylight-l2-types
 org.opendaylight.mdsal.model:yang-ext
 org.opendaylight.mdsal:binding-parent
+org.opendaylight.mdsal:bnd-parent
+org.opendaylight.mdsal:bundle-parent
 org.opendaylight.mdsal:dom-parent
 org.opendaylight.mdsal:feature-parent
 org.opendaylight.mdsal:features-mdsal
@@ -2659,8 +2664,10 @@ org.opendaylight.mdsal:mdsal-karaf
 org.opendaylight.mdsal:mdsal-replicate-common
 org.opendaylight.mdsal:mdsal-replicate-netty
 org.opendaylight.mdsal:mdsal-rfc8294-netty
+org.opendaylight.mdsal:mdsal-singleton-api
 org.opendaylight.mdsal:mdsal-singleton-common-api
 org.opendaylight.mdsal:mdsal-singleton-dom-impl
+org.opendaylight.mdsal:mdsal-singleton-impl
 org.opendaylight.mdsal:mdsal-trace-api
 org.opendaylight.mdsal:mdsal-trace-cli
 org.opendaylight.mdsal:mdsal-trace-impl
