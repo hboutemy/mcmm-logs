@@ -427,6 +427,7 @@ io.github.sebastian-toepfer.json-schema:json-schema
 io.github.sebastian-toepfer.json-schema:json-schema-api
 io.github.sebastian-toepfer.json-schema:json-schema-core
 io.github.sebastian-toepfer.json-schema:json-schema-vocabulary-spi
+io.github.sebastian-toepfer.oss:oss-parent
 io.smallrye.reactive:mutiny
 io.smallrye.reactive:mutiny-kotlin
 io.smallrye.reactive:mutiny-math
