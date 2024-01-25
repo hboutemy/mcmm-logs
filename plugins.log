@@ -3074,6 +3074,7 @@ io.fabric8.patch -> patch:patch-maven-plugin = "Fabric8 :: Patch :: Maven Plugin
 io.fabric8.updatebot -> updatebot:updatebot-maven-plugin = "updatebot :: maven-plugin"
 io.fair-acc -> generate:generate = "chartfx-generate"
 io.fares.maven.plugins -> design:design-builder-maven-plugin = "Design Builder Maven Plugin"
+io.fares.maven.plugins -> design-builder:design-builder-maven-plugin = "Design Builder Maven Plugin"
 io.fastup -> fastup:fastup-maven-plugin = "fastup-maven-plugin"
 io.fastup -> s3-upload:s3-upload-maven-plugin = "S3 upload maven plugin"
 io.featurehub.tooling -> openapi-publisher:maven-openapi-publisher = "maven-openapi-publisher"

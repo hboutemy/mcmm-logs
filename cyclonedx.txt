@@ -1,6 +1,7 @@
 com.duosecurity:duo-client
 com.github.camel-tooling:camel-dap-server
 com.github.camel-tooling:camel-lsp-server
+com.github.hazendaz.git:github-desktop
 com.github.hazendaz.jmeter:apache-jmeter
 com.github.hazendaz.maven:coveralls-maven-plugin
 com.github.hazendaz.nodejs:node
@@ -1664,6 +1665,9 @@ org.eclipse.serializer:base
 org.eclipse.serializer:codegen-entity
 org.eclipse.serializer:codegen-parent
 org.eclipse.serializer:codegen-wrapping
+org.eclipse.serializer:communication
+org.eclipse.serializer:communication-binary
+org.eclipse.serializer:communication-parent
 org.eclipse.serializer:configuration
 org.eclipse.serializer:configuration-hocon
 org.eclipse.serializer:configuration-parent
@@ -1701,6 +1705,10 @@ org.eclipse.store:afs-oraclecloud-parent
 org.eclipse.store:afs-parent
 org.eclipse.store:afs-redis
 org.eclipse.store:afs-sql
+org.eclipse.store:cache
+org.eclipse.store:cache-hibernate
+org.eclipse.store:cache-parent
+org.eclipse.store:integrations
 org.eclipse.store:storage
 org.eclipse.store:storage-embedded
 org.eclipse.store:storage-embedded-configuration
