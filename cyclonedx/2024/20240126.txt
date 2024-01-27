@@ -1,0 +1,2 @@
+dev/openfeature/contrib/providers/flipt/0.1.0/flipt-0.1.0-cyclonedx.xml
+dev/openfeature/contrib/providers/flipt/0.1.0/flipt-0.1.0-cyclonedx.json
