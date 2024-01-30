@@ -419,6 +419,7 @@ io.dropwizard:dropwizard-project
 io.dropwizard:dropwizard-request-logging
 io.dropwizard:dropwizard-servlets
 io.dropwizard:dropwizard-testing
+io.dropwizard:dropwizard-unix-socket
 io.dropwizard:dropwizard-util
 io.dropwizard:dropwizard-validation
 io.dropwizard:dropwizard-views
