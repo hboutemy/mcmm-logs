@@ -429,6 +429,15 @@ io.github.sebastian-toepfer.json-schema:json-schema
 io.github.sebastian-toepfer.json-schema:json-schema-api
 io.github.sebastian-toepfer.json-schema:json-schema-core
 io.github.sebastian-toepfer.json-schema:json-schema-vocabulary-spi
+io.github.sebastian-toepfer.json.rpc.extension:json-rpc-extension
+io.github.sebastian-toepfer.json.rpc.extension:json-rpc-extension-micrometer
+io.github.sebastian-toepfer.json.rpc.extension:json-rpc-extension-openrpc
+io.github.sebastian-toepfer.json.rpc:json-rpc
+io.github.sebastian-toepfer.json.rpc:json-rpc-boundary
+io.github.sebastian-toepfer.json.rpc:json-rpc-extension-openrpc
+io.github.sebastian-toepfer.json.rpc:json-rpc-runtime
+io.github.sebastian-toepfer.json.rpc:json-rpc-spring-integration-autoconfigure
+io.github.sebastian-toepfer.json.rpc:json-rpc-spring-integration-starter
 io.github.sebastian-toepfer.oss:oss-parent
 io.smallrye.reactive:mutiny
 io.smallrye.reactive:mutiny-kotlin
