@@ -1328,6 +1328,7 @@ org.apache.maven.plugins:maven-dependency-plugin
 org.apache.maven.plugins:maven-enforcer-plugin
 org.apache.maven.plugins:maven-failsafe-plugin
 org.apache.maven.plugins:maven-javadoc-plugin
+org.apache.maven.plugins:maven-jlink-plugin
 org.apache.maven.plugins:maven-jxr-plugin
 org.apache.maven.plugins:maven-plugin-plugin
 org.apache.maven.plugins:maven-plugin-report-plugin
