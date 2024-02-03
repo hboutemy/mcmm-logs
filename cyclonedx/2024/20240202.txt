@@ -1,0 +1,7 @@
+dev/openfeature/contrib/providers/statsig/0.0.1/statsig-0.0.1-cyclonedx.json
+dev/openfeature/contrib/providers/statsig/0.0.1/statsig-0.0.1-cyclonedx.xml
+net/sourceforge/pmd/pmd-compat6/7.0.0-rc4+with-pr4749/pmd-compat6-7.0.0-rc4+with-pr4749-cyclonedx.xml
+net/sourceforge/pmd/pmd-compat6/7.0.0-rc4+with-pr4749/pmd-compat6-7.0.0-rc4+with-pr4749-cyclonedx.json
+org/owasp/antisamy/antisamy/1.7.5/antisamy-1.7.5-cyclonedx.xml
+org/owasp/antisamy/antisamy/1.7.5/antisamy-1.7.5-cyclonedx.json
+org/sonarsource/sonarqube/sonar-application/10.4.0.87240/sonar-application-10.4.0.87240-cyclonedx.json

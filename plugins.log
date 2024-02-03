@@ -3446,6 +3446,7 @@ io.jshift -> k8s:k8s-maven-plugin = "Kubernetes Maven Plugin :: Plugin"
 io.jshift -> oc:oc-maven-plugin = "Openshift Maven Plugin"
 io.jsonwebtoken.coveralls -> coveralls:coveralls-maven-plugin = "coveralls-maven-plugin"
 io.kalix -> kalix:kalix-maven-plugin = "Kalix Maven Plugin"
+io.kemtoa.openapi -> openapi-backwards-compat:openapi-backwards-compat-maven-plugin = "OpenAPI Backwards Compatibility Maven Plugin"
 io.kemtoa.swagger -> swagger-backwards-compat:swagger-backwards-compat-maven-plugin = "Swagger Backwards Compatibility Maven Plugin"
 io.kiota -> kiota:kiota-maven-plugin = 
 io.koara -> koara:koara-maven-plugin = "first-maven-plugin Maven Mojo"

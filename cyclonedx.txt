@@ -296,6 +296,7 @@ dev.openfeature.contrib.providers:flagsmith
 dev.openfeature.contrib.providers:flipt
 dev.openfeature.contrib.providers:go-feature-flag
 dev.openfeature.contrib.providers:jsonlogic-eval-provider
+dev.openfeature.contrib.providers:statsig
 dev.openfeature.contrib.providers:unleash
 dev.openfeature:sdk
 dev.samsanders.openvex:jvex
