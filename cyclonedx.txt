@@ -2,6 +2,7 @@ com.duosecurity:duo-client
 com.github.camel-tooling:camel-dap-server
 com.github.camel-tooling:camel-lsp-server
 com.github.hazendaz.git:github-desktop
+com.github.hazendaz.gradle:gradle
 com.github.hazendaz.jmeter:apache-jmeter
 com.github.hazendaz.maven:coveralls-maven-plugin
 com.github.hazendaz.nodejs:node

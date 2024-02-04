@@ -1,0 +1,2 @@
+com/github/hazendaz/gradle/gradle/8.6/gradle-8.6-cyclonedx.json
+com/github/hazendaz/gradle/gradle/8.6/gradle-8.6-cyclonedx.xml
