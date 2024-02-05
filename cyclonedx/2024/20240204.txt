@@ -1,0 +1,6 @@
+com/github/hazendaz/displaytag-doc/3.0.0/displaytag-doc-3.0.0-cyclonedx.json
+com/github/hazendaz/displaytag-doc/3.0.0/displaytag-doc-3.0.0-cyclonedx.xml
+com/github/hazendaz/displaytag-examples/3.0.0/displaytag-examples-3.0.0-cyclonedx.xml
+com/github/hazendaz/displaytag-examples/3.0.0/displaytag-examples-3.0.0-cyclonedx.json
+com/github/hazendaz/displaytag/3.0.0/displaytag-3.0.0-cyclonedx.xml
+com/github/hazendaz/displaytag/3.0.0/displaytag-3.0.0-cyclonedx.json

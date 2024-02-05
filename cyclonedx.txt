@@ -11,6 +11,9 @@ com.github.hazendaz.tomcat:tomcat10-config
 com.github.hazendaz.tomcat:tomcat11-config
 com.github.hazendaz.tomcat:tomcat9-config
 com.github.hazendaz:base-parent
+com.github.hazendaz:displaytag
+com.github.hazendaz:displaytag-doc
+com.github.hazendaz:displaytag-examples
 com.github.hazendaz:scriptable-dataset
 com.github.mwiede:jsch
 com.github.oscerd:finnhub-java-client
