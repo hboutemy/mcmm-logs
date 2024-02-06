@@ -568,6 +568,7 @@ jakarta.platform:jakartaee-api-parent
 jakarta.security.enterprise:jakarta.security.enterprise-api
 jakarta.servlet.jsp:jakarta.servlet.jsp-api
 jakarta.servlet:jakarta.servlet-api
+jakarta.tck.tools:sigtest-maven-plugin
 jakarta.validation:jakarta.validation-api
 jakarta.websocket:jakarta.websocket-all
 jakarta.websocket:jakarta.websocket-api
@@ -1637,6 +1638,7 @@ org.apache.syncope:syncope-ext
 org.apache.syncope:syncope-fit
 org.apache.syncope:syncope-sra
 org.apache.syncope:syncope-wa
+org.apache.turbine:turbine
 org.apache.turbine:turbine-parent
 org.apache.wss4j:wss4j
 org.apache.wss4j:wss4j-bindings
