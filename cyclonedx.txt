@@ -288,6 +288,7 @@ de.bund.bva.isyfact:isy-sst-bridge
 de.bund.bva.isyfact:isy-task
 de.bund.bva.isyfact:isy-ueberwachung
 de.bund.bva.isyfact:isy-util
+de.bund.bva.isyfact:isy-web
 de.bund.bva.isyfact:isyfact-products-bom
 de.bund.bva.isyfact:isyfact-standards
 de.bund.bva.isyfact:isyfact-standards-bom
@@ -523,6 +524,7 @@ io.smallrye.reactive:smallrye-mutiny-vertx-web-templ-httl
 io.smallrye.reactive:smallrye-mutiny-vertx-web-templ-jade
 io.smallrye.reactive:smallrye-mutiny-vertx-web-templ-mvel
 io.smallrye.reactive:smallrye-mutiny-vertx-web-templ-pebble
+io.smallrye.reactive:smallrye-mutiny-vertx-web-templ-pug
 io.smallrye.reactive:smallrye-mutiny-vertx-web-templ-rocker
 io.smallrye.reactive:smallrye-mutiny-vertx-web-templ-thymeleaf
 io.smallrye.reactive:smallrye-mutiny-vertx-web-validation
