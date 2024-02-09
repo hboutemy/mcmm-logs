@@ -1,0 +1,14 @@
+commons-codec/commons-codec/1.16.1/commons-codec-1.16.1-cyclonedx.xml
+commons-codec/commons-codec/1.16.1/commons-codec-1.16.1-cyclonedx.json
+de/bund/bva/isyfact/isy-web/6.0.1/isy-web-6.0.1-cyclonedx.json
+de/bund/bva/isyfact/isyfact-bom/3.0.0/isyfact-bom-3.0.0-cyclonedx.json
+jakarta/tck/sigtest-maven-plugin/2.0/sigtest-maven-plugin-2.0-cyclonedx.json
+jakarta/tck/sigtest-maven-plugin/2.0/sigtest-maven-plugin-2.0-cyclonedx.xml
+nl/basjes/codeowners/codeowners-parent/1.4.0/codeowners-parent-1.4.0-cyclonedx.xml
+nl/basjes/codeowners/codeowners-parent/1.4.0/codeowners-parent-1.4.0-cyclonedx.json
+nl/basjes/codeowners/codeowners-reader/1.4.0/codeowners-reader-1.4.0-cyclonedx.json
+nl/basjes/codeowners/codeowners-reader/1.4.0/codeowners-reader-1.4.0-cyclonedx.xml
+nl/basjes/gitignore/gitignore-reader/1.4.0/gitignore-reader-1.4.0-cyclonedx.xml
+nl/basjes/gitignore/gitignore-reader/1.4.0/gitignore-reader-1.4.0-cyclonedx.json
+nl/basjes/maven/enforcer/codeowners/codeowners-enforcer-rules/1.4.0/codeowners-enforcer-rules-1.4.0-cyclonedx.json
+nl/basjes/maven/enforcer/codeowners/codeowners-enforcer-rules/1.4.0/codeowners-enforcer-rules-1.4.0-cyclonedx.xml
