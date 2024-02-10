@@ -1,0 +1,9 @@
+dev/openfeature/contrib/providers/statsig/0.0.2/statsig-0.0.2-cyclonedx.xml
+dev/openfeature/contrib/providers/statsig/0.0.2/statsig-0.0.2-cyclonedx.json
+org/sonarsource/dummy/sonar-dummy-oss-plugin/2.6.0.5312/sonar-dummy-oss-plugin-2.6.0.5312-cyclonedx.json
+org/sonarsource/dummy/sonar-dummy-oss-plugin/2.6.0.5316/sonar-dummy-oss-plugin-2.6.0.5316-cyclonedx.json
+org/sonarsource/dummy/sonar-dummy-oss-plugin/2.6.0.5320/sonar-dummy-oss-plugin-2.6.0.5320-cyclonedx.json
+org/sonarsource/dummy/sonar-dummy-oss-plugin/2.6.0.5324/sonar-dummy-oss-plugin-2.6.0.5324-cyclonedx.json
+org/sonarsource/dummy/sonar-dummy-oss-plugin/2.6.0.5328/sonar-dummy-oss-plugin-2.6.0.5328-cyclonedx.json
+org/sonarsource/dummy/sonar-dummy-oss-plugin/2.6.0.5332/sonar-dummy-oss-plugin-2.6.0.5332-cyclonedx.json
+org/sonarsource/dummy/sonar-dummy-oss-plugin/2.6.0.5336/sonar-dummy-oss-plugin-2.6.0.5336-cyclonedx.json
