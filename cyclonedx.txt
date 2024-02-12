@@ -2,6 +2,7 @@ com.duosecurity:duo-client
 com.github.camel-tooling:camel-dap-server
 com.github.camel-tooling:camel-lsp-server
 com.github.hazendaz.git:github-desktop
+com.github.hazendaz.gpg4win:gpg4win
 com.github.hazendaz.gradle:gradle
 com.github.hazendaz.jmeter:apache-jmeter
 com.github.hazendaz.maven:coveralls-maven-plugin
@@ -765,6 +766,7 @@ org.apache.avro:trevni-doc
 org.apache.avro:trevni-java
 org.apache.bcel:bcel
 org.apache.camel.k:camel-k-runtime-project
+org.apache.camel.kafkaconnector:camel-kafka-connector-aggregator
 org.apache.camel.kamelets:camel-kamelets-parent
 org.apache.camel.quarkus:camel-quarkus
 org.apache.camel.springboot:spring-boot

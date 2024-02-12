@@ -3173,6 +3173,7 @@ io.github.dmlloyd.module-info -> module-info:module-info = "Module Info Generato
 io.github.dovaleac -> stateless4j-yaml-importer:stateless4j-yaml-importer = "Stateless4j YAML importer"
 io.github.drrename.codesignjava -> codesignjava:codesignjava-maven-plugin = "Java package and code-sign plugin"
 io.github.duqian42707 -> screw:screw-maven-plugin = 
+io.github.epi155 -> emsql:emsql-maven-plugin = "JDBC DAO code generator"
 io.github.epi155 -> recfm:recfm-maven-plugin = "record fixed format plugin"
 io.github.ericsson-mts -> mts-asn1:mts-asn1-plugin = 
 io.github.ermadmi78 -> kobby:kobby-maven-plugin = "io.github.ermadmi78:kobby-maven-plugin"
