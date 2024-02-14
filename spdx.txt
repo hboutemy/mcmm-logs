@@ -69,6 +69,7 @@ org.apache.commons:commons-statistics-parent
 org.apache.commons:commons-text
 org.jetbrains.kotlin:analysis-api-test-framework
 org.jetbrains.kotlin:atomicfu
+org.jetbrains.kotlin:js-plain-objects
 org.jetbrains.kotlin:jvm-abi-gen
 org.jetbrains.kotlin:jvm-abi-gen-embeddable
 org.jetbrains.kotlin:kotlin-allopen
@@ -185,6 +186,8 @@ org.jetbrains.kotlin:kotlin-tooling-metadata
 org.jetbrains.kotlin:kotlin-util-io
 org.jetbrains.kotlin:kotlin-util-klib
 org.jetbrains.kotlin:kotlin-util-klib-metadata
+org.jetbrains.kotlin:kotlinx-js-plain-objects-compiler-plugin
+org.jetbrains.kotlin:kotlinx-js-plain-objects-compiler-plugin-embeddable
 org.jetbrains.kotlinx:kotlinx-metadata-jvm
 org.jetbrains.kotlinx:kotlinx-metadata-klib
 org.opendaylight:transportpce

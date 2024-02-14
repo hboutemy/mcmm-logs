@@ -1,0 +1,16 @@
+dev/openfeature/sdk/1.7.4/sdk-1.7.4-cyclonedx.xml
+dev/openfeature/sdk/1.7.4/sdk-1.7.4-cyclonedx.json
+io/dropwizard/modules/dropwizard-web/1.5.2/dropwizard-web-1.5.2-cyclonedx.json
+io/dropwizard/modules/dropwizard-web/1.5.2/dropwizard-web-1.5.2-cyclonedx.xml
+io/dropwizard/modules/dropwizard-web/2.0.1/dropwizard-web-2.0.1-cyclonedx.json
+io/dropwizard/modules/dropwizard-web/2.0.1/dropwizard-web-2.0.1-cyclonedx.xml
+io/dropwizard/modules/dropwizard-web/3.0.1/dropwizard-web-3.0.1-cyclonedx.json
+io/dropwizard/modules/dropwizard-web/3.0.1/dropwizard-web-3.0.1-cyclonedx.xml
+io/github/sebastian-toepfer/json-schema/json-schema-api/0.1.2/json-schema-api-0.1.2-cyclonedx.xml
+io/github/sebastian-toepfer/json-schema/json-schema-api/0.1.2/json-schema-api-0.1.2-cyclonedx.json
+io/github/sebastian-toepfer/json-schema/json-schema-core/0.1.2/json-schema-core-0.1.2-cyclonedx.json
+io/github/sebastian-toepfer/json-schema/json-schema-core/0.1.2/json-schema-core-0.1.2-cyclonedx.xml
+io/github/sebastian-toepfer/json-schema/json-schema-vocabulary-spi/0.1.2/json-schema-vocabulary-spi-0.1.2-cyclonedx.json
+io/github/sebastian-toepfer/json-schema/json-schema-vocabulary-spi/0.1.2/json-schema-vocabulary-spi-0.1.2-cyclonedx.xml
+io/github/sebastian-toepfer/json-schema/json-schema/0.1.2/json-schema-0.1.2-cyclonedx.json
+io/github/sebastian-toepfer/json-schema/json-schema/0.1.2/json-schema-0.1.2-cyclonedx.xml
