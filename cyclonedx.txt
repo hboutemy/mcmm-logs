@@ -268,6 +268,7 @@ commons-validator:commons-validator
 de.bund.bva.isyfact:bridge-documentation
 de.bund.bva.isyfact:isy-aufrufkontext
 de.bund.bva.isyfact:isy-batchrahmen
+de.bund.bva.isyfact:isy-checkstyle-config
 de.bund.bva.isyfact:isy-datetime
 de.bund.bva.isyfact:isy-exception-core
 de.bund.bva.isyfact:isy-exception-sst
@@ -549,6 +550,7 @@ jakarta.enterprise.concurrent:jakarta.enterprise.concurrent-api
 jakarta.enterprise.concurrent:jakarta.enterprise.concurrent-tck
 jakarta.enterprise.concurrent:jakarta.enterprise.concurrent-tck-dist
 jakarta.enterprise.concurrent:jakarta.enterprise.concurrent.parent
+jakarta.enterprise:cdi-ide-config
 jakarta.enterprise:cdi-tck-api
 jakarta.enterprise:cdi-tck-core-impl
 jakarta.enterprise:cdi-tck-dist

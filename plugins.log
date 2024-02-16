@@ -3746,6 +3746,7 @@ lv.ctco.zephyr -> zephyr-sync:zephyr-sync-maven-plugin =
 me.andrz.maven -> bin:maven-bin-maven-plugin = "Maven Bin Plugin"
 me.ccampo -> git-version:git-version-maven-plugin = 
 me.effegi -> speedy-spotless:speedy-spotless-maven-plugin = "speedy-spotless-maven-plugin"
+me.escoffier.certs -> certificate-generator:certificate-generator-maven-plugin = 
 me.jaimegarza -> syntax:syntax-maven-plugin = "Syntax Maven Plugin"
 me.jeffshaw.scalatest -> scalatest:scalatest-maven-plugin = "ScalaTest Maven Plugin"
 me.julb -> aws-lambda-bootstrap:aws-lambda-bootstrap-maven-plugin = "Julb.me :: AWS Lambda Bootstrap Maven Plugin"

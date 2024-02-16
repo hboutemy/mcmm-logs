@@ -1,0 +1,15 @@
+de/bund/bva/isyfact/isy-checkstyle-config/0.2.0/isy-checkstyle-config-0.2.0-cyclonedx.json
+dev/openfeature/contrib/providers/statsig/0.0.3/statsig-0.0.3-cyclonedx.json
+dev/openfeature/contrib/providers/statsig/0.0.3/statsig-0.0.3-cyclonedx.xml
+jakarta/enterprise/cdi-ide-config/4.1.0.Beta1/cdi-ide-config-4.1.0.Beta1-cyclonedx.json
+jakarta/enterprise/cdi-ide-config/4.1.0.Beta1/cdi-ide-config-4.1.0.Beta1-cyclonedx.xml
+jakarta/enterprise/jakarta.enterprise.cdi-api/4.1.0.Beta1/jakarta.enterprise.cdi-api-4.1.0.Beta1-cyclonedx.xml
+jakarta/enterprise/jakarta.enterprise.cdi-api/4.1.0.Beta1/jakarta.enterprise.cdi-api-4.1.0.Beta1-cyclonedx.json
+jakarta/enterprise/jakarta.enterprise.cdi-el-api/4.1.0.Beta1/jakarta.enterprise.cdi-el-api-4.1.0.Beta1-cyclonedx.xml
+jakarta/enterprise/jakarta.enterprise.cdi-el-api/4.1.0.Beta1/jakarta.enterprise.cdi-el-api-4.1.0.Beta1-cyclonedx.json
+jakarta/enterprise/jakarta.enterprise.cdi-parent/4.1.0.Beta1/jakarta.enterprise.cdi-parent-4.1.0.Beta1-cyclonedx.xml
+jakarta/enterprise/jakarta.enterprise.cdi-parent/4.1.0.Beta1/jakarta.enterprise.cdi-parent-4.1.0.Beta1-cyclonedx.json
+jakarta/enterprise/jakarta.enterprise.cdi-spec-doc/4.1.0.Beta1/jakarta.enterprise.cdi-spec-doc-4.1.0.Beta1-cyclonedx.xml
+jakarta/enterprise/jakarta.enterprise.cdi-spec-doc/4.1.0.Beta1/jakarta.enterprise.cdi-spec-doc-4.1.0.Beta1-cyclonedx.json
+jakarta/enterprise/jakarta.enterprise.lang-model/4.1.0.Beta1/jakarta.enterprise.lang-model-4.1.0.Beta1-cyclonedx.json
+jakarta/enterprise/jakarta.enterprise.lang-model/4.1.0.Beta1/jakarta.enterprise.lang-model-4.1.0.Beta1-cyclonedx.xml
