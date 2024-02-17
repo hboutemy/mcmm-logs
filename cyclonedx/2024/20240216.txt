@@ -1,0 +1,4 @@
+org/apache/camel/camel/4.4.0/camel-4.4.0-cyclonedx.xml
+org/apache/camel/camel/4.4.0/camel-4.4.0-cyclonedx.json
+org/apache/camel/springboot/spring-boot/4.4.0/spring-boot-4.4.0-cyclonedx.xml
+org/apache/camel/springboot/spring-boot/4.4.0/spring-boot-4.4.0-cyclonedx.json
