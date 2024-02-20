@@ -437,6 +437,10 @@ io.dropwizard:dropwizard-validation
 io.dropwizard:dropwizard-views
 io.dropwizard:dropwizard-views-freemarker
 io.dropwizard:dropwizard-views-mustache
+io.github.sebastian-toepfer.common:condition4j
+io.github.sebastian-toepfer.common:condition4j-api
+io.github.sebastian-toepfer.common:condition4j-core
+io.github.sebastian-toepfer.common:condition4j-json-p
 io.github.sebastian-toepfer.json-schema:json-schema
 io.github.sebastian-toepfer.json-schema:json-schema-api
 io.github.sebastian-toepfer.json-schema:json-schema-core
@@ -848,7 +852,10 @@ org.apache.druid.extensions.contrib:dropwizard-emitter
 org.apache.druid.extensions.contrib:druid-cassandra-storage
 org.apache.druid.extensions.contrib:druid-cloudfiles-extensions
 org.apache.druid.extensions.contrib:druid-compressed-bigdecimal
+org.apache.druid.extensions.contrib:druid-ddsketch
+org.apache.druid.extensions.contrib:druid-deltalake-extensions
 org.apache.druid.extensions.contrib:druid-distinctcount
+org.apache.druid.extensions.contrib:druid-iceberg-extensions
 org.apache.druid.extensions.contrib:druid-influx-extensions
 org.apache.druid.extensions.contrib:druid-influxdb-emitter
 org.apache.druid.extensions.contrib:druid-kubernetes-overlord-extensions
@@ -856,6 +863,7 @@ org.apache.druid.extensions.contrib:druid-momentsketch
 org.apache.druid.extensions.contrib:druid-moving-average-query
 org.apache.druid.extensions.contrib:druid-opentsdb-emitter
 org.apache.druid.extensions.contrib:druid-redis-cache
+org.apache.druid.extensions.contrib:druid-spectator-histogram
 org.apache.druid.extensions.contrib:druid-tdigestsketch
 org.apache.druid.extensions.contrib:druid-thrift-extensions
 org.apache.druid.extensions.contrib:druid-time-min-max
