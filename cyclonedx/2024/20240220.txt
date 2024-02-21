@@ -1,0 +1,4 @@
+org/apache/maven/plugins/maven-shade-plugin/3.5.2/maven-shade-plugin-3.5.2-cyclonedx.json
+org/apache/maven/plugins/maven-shade-plugin/3.5.2/maven-shade-plugin-3.5.2-cyclonedx.xml
+org/apache/tsfile/tsfile-parent/1.0.0/tsfile-parent-1.0.0-cyclonedx.json
+org/apache/tsfile/tsfile-parent/1.0.0/tsfile-parent-1.0.0-cyclonedx.xml

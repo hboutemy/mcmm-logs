@@ -6657,6 +6657,7 @@ ru.omickron -> versioner:versioner-maven-plugin = "${project.groupId}:${project.
 ru.sber.platformv.faas -> faas:faas-maven-plugin = "Platform V Faas Java SDK Maven Plugin"
 ru.send-to.less -> lesscss:lesscss-maven-plugin = "Fork of official LESS CSS Maven Plugin"
 ru.siblion.lab -> jacocoToCobertura:jacocoToCobertura-maven-plugin = "Maven JacocoToCobertura plugin"
+ru.sokomishalov.maven.plugins -> protobuf:protobuf-maven-plugin = "Maven Protocol Buffers Plugin"
 ru.trylogic.maven -> flexmojos-create-rsl:flexmojos-create-rsl-plugin = "Adobe Flash RSL creator from file using Flexmojos code base."
 ru.trylogic.maven.plugins -> redis:redis-maven-plugin = "Redis Maven Plugin in pure Java"
 ru.urururu -> xls2csv:xls2csv-maven-plugin = "xls2csv Maven Plugin"
