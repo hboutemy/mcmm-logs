@@ -1339,10 +1339,14 @@ org.apache.logging.log4j:log4j-api-scala_2.13
 org.apache.logging.log4j:log4j-api-scala_3
 org.apache.logging.log4j:log4j-api-test
 org.apache.logging.log4j:log4j-appserver
+org.apache.logging.log4j:log4j-async-logger
 org.apache.logging.log4j:log4j-bom
 org.apache.logging.log4j:log4j-cassandra
 org.apache.logging.log4j:log4j-changelog
 org.apache.logging.log4j:log4j-changelog-maven-plugin
+org.apache.logging.log4j:log4j-config-jackson
+org.apache.logging.log4j:log4j-config-properties
+org.apache.logging.log4j:log4j-config-yaml
 org.apache.logging.log4j:log4j-core
 org.apache.logging.log4j:log4j-core-test
 org.apache.logging.log4j:log4j-couchdb
