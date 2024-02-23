@@ -8,6 +8,7 @@ asia.redact.bracket.properties -> pcompiler:pcompiler-maven-plugin = "PCompiler 
 at.bestsolution -> bindex:bindex-maven-plugin = "bindex2 maven plugin"
 at.bestsolution -> osgi-exec:maven-osgi-exec-plugin = "Maven OSGi Execution Plug-in"
 at.bestsolution -> osgi-package:maven-osgi-package-plugin = "Maven OSGi Execution Plug-in"
+at.bestsolution.maven -> hibernate6-ddl:hibernate6-ddl-maven-plugin = "Maven DDL generator plugin for Hibernate 6"
 at.craftworks.tools.maven -> jooq-codegen-postgres:jooq-codegen-postgres-maven-plugin = "jOOQ Codegen Postgres Maven Plugin"
 at.makubi.maven.plugin -> avrohugger:avrohugger-maven-plugin = "Avrohugger Maven Plugin"
 at.makubi.maven.plugin -> avrohugger_2.11:avrohugger-maven-plugin_2.11 = "Avrohugger Maven Plugin"
