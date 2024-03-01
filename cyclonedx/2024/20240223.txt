@@ -1,0 +1,12 @@
+io/github/sebastian-toepfer/oss/oss-parent/0.5.0/oss-parent-0.5.0-cyclonedx.json
+io/github/sebastian-toepfer/oss/oss-parent/0.5.0/oss-parent-0.5.0-cyclonedx.xml
+jakarta/data/jakarta.data-api/1.0.0-M3/jakarta.data-api-1.0.0-M3-cyclonedx.json
+jakarta/data/jakarta.data-api/1.0.0-M3/jakarta.data-api-1.0.0-M3-cyclonedx.xml
+jakarta/data/jakarta.data-parent/1.0.0-M3/jakarta.data-parent-1.0.0-M3-cyclonedx.json
+jakarta/data/jakarta.data-parent/1.0.0-M3/jakarta.data-parent-1.0.0-M3-cyclonedx.xml
+jakarta/data/jakarta.data-spec/1.0.0-M3/jakarta.data-spec-1.0.0-M3-cyclonedx.json
+jakarta/data/jakarta.data-spec/1.0.0-M3/jakarta.data-spec-1.0.0-M3-cyclonedx.xml
+jakarta/data/jakarta.data-tck-dist/1.0.0-M3/jakarta.data-tck-dist-1.0.0-M3-cyclonedx.json
+jakarta/data/jakarta.data-tck-dist/1.0.0-M3/jakarta.data-tck-dist-1.0.0-M3-cyclonedx.xml
+jakarta/data/jakarta.data-tck/1.0.0-M3/jakarta.data-tck-1.0.0-M3-cyclonedx.xml
+jakarta/data/jakarta.data-tck/1.0.0-M3/jakarta.data-tck-1.0.0-M3-cyclonedx.json
