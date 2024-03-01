@@ -1,0 +1,4 @@
+org/apache/bcel/bcel/6.8.2/bcel-6.8.2-cyclonedx.xml
+org/apache/bcel/bcel/6.8.2/bcel-6.8.2-cyclonedx.json
+org/apache/camel/quarkus/camel-quarkus/3.8.0/camel-quarkus-3.8.0-cyclonedx.xml
+org/apache/camel/quarkus/camel-quarkus/3.8.0/camel-quarkus-3.8.0-cyclonedx.json

@@ -4866,6 +4866,7 @@ org.codeartisans.asadmin-maven-plugin -> asadmin:asadmin-maven-plugin = "asadmin
 org.codeartisans.javafx -> javafx-deployer:javafx-deployer-maven-plugin = "${project.artifactId}"
 org.codeartisans.javafx -> javafx:javafx-maven-plugin = "${project.artifactId}"
 org.codeartisans.qipki -> qipki-site:qipki-site-maven-plugin = "${project.artifactId}"
+org.codefilarete -> jacoco-aggregate-submodule:jacoco-aggregate-submodule = "jacoco-aggregate-submodule"
 org.codefx.maven.plugin -> jdeps:jdeps-maven-plugin = "JDeps Maven Plugin"
 org.codefx.mvn -> jdeps:jdeps-maven-plugin = "JDeps Maven Plugin"
 org.codehaus.cargo -> cargo2:cargo-maven2-plugin = "Cargo Maven 2 Plugin"
