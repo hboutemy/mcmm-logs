@@ -437,6 +437,12 @@ io.dropwizard:dropwizard-validation
 io.dropwizard:dropwizard-views
 io.dropwizard:dropwizard-views-freemarker
 io.dropwizard:dropwizard-views-mustache
+io.github.r4fterman:abbot
+io.github.r4fterman:com.windowtester
+io.github.r4fterman:com.windowtester.runtime
+io.github.r4fterman:com.windowtester.runtime.junit4
+io.github.r4fterman:com.windowtester.swing.recorder
+io.github.r4fterman:com.windowtester.swing.runtime
 io.github.sebastian-toepfer.common:condition4j
 io.github.sebastian-toepfer.common:condition4j-api
 io.github.sebastian-toepfer.common:condition4j-core
@@ -3184,6 +3190,8 @@ org.opendaylight.netconf.model:rfc8040-ietf-restconf-monitoring
 org.opendaylight.netconf.model:rfc8341
 org.opendaylight.netconf.model:rfc8526
 org.opendaylight.netconf.model:rfc8639
+org.opendaylight.netconf.model:rfc8641
+org.opendaylight.netconf.model:rfc8650
 org.opendaylight.netconf:aaa-authn-odl-plugin
 org.opendaylight.netconf:callhome-model
 org.opendaylight.netconf:callhome-protocol
@@ -3206,6 +3214,7 @@ org.opendaylight.netconf:ietf-restconf
 org.opendaylight.netconf:ietf-restconf-monitoring
 org.opendaylight.netconf:ietf-yang-patch
 org.opendaylight.netconf:keystore-api
+org.opendaylight.netconf:keystore-legacy
 org.opendaylight.netconf:keystore-none
 org.opendaylight.netconf:mdsal-netconf-connector
 org.opendaylight.netconf:mdsal-netconf-impl
@@ -3220,6 +3229,7 @@ org.opendaylight.netconf:netconf-auth
 org.opendaylight.netconf:netconf-auth-aaa
 org.opendaylight.netconf:netconf-client
 org.opendaylight.netconf:netconf-client-mdsal
+org.opendaylight.netconf:netconf-common
 org.opendaylight.netconf:netconf-common-mdsal
 org.opendaylight.netconf:netconf-config
 org.opendaylight.netconf:netconf-console
@@ -3249,6 +3259,7 @@ org.opendaylight.netconf:odl-netconf-api
 org.opendaylight.netconf:odl-netconf-callhome-ssh
 org.opendaylight.netconf:odl-netconf-client
 org.opendaylight.netconf:odl-netconf-clustered-topology
+org.opendaylight.netconf:odl-netconf-common
 org.opendaylight.netconf:odl-netconf-connector
 org.opendaylight.netconf:odl-netconf-connector-all
 org.opendaylight.netconf:odl-netconf-console
@@ -3265,6 +3276,8 @@ org.opendaylight.netconf:odl-netconf-model-rfc8040
 org.opendaylight.netconf:odl-netconf-model-rfc8341
 org.opendaylight.netconf:odl-netconf-model-rfc8526
 org.opendaylight.netconf:odl-netconf-model-rfc8639
+org.opendaylight.netconf:odl-netconf-model-rfc8641
+org.opendaylight.netconf:odl-netconf-model-rfc8650
 org.opendaylight.netconf:odl-netconf-netty-util
 org.opendaylight.netconf:odl-netconf-notifications-api
 org.opendaylight.netconf:odl-netconf-notifications-impl
@@ -3284,7 +3297,9 @@ org.opendaylight.netconf:odl-restconf-nb-bierman02
 org.opendaylight.netconf:odl-restconf-nb-rfc8040
 org.opendaylight.netconf:odl-restconf-openapi
 org.opendaylight.netconf:odl-yanglib
+org.opendaylight.netconf:odl-yanglib-mdsal-writer
 org.opendaylight.netconf:restconf-api
+org.opendaylight.netconf:restconf-client
 org.opendaylight.netconf:restconf-common
 org.opendaylight.netconf:restconf-common-models
 org.opendaylight.netconf:restconf-models
@@ -3292,6 +3307,7 @@ org.opendaylight.netconf:restconf-nb
 org.opendaylight.netconf:restconf-nb-bierman02
 org.opendaylight.netconf:restconf-nb-rfc8040
 org.opendaylight.netconf:restconf-openapi
+org.opendaylight.netconf:restconf-server
 org.opendaylight.netconf:restconf-wadl-generator
 org.opendaylight.netconf:sal-netconf-connector
 org.opendaylight.netconf:sal-rest-connector-config
@@ -3299,6 +3315,7 @@ org.opendaylight.netconf:sal-rest-docgen
 org.opendaylight.netconf:shaded-exificient
 org.opendaylight.netconf:shaded-sshd
 org.opendaylight.netconf:transport-api
+org.opendaylight.netconf:transport-http
 org.opendaylight.netconf:transport-ssh
 org.opendaylight.netconf:transport-tcp
 org.opendaylight.netconf:transport-tls
@@ -3306,6 +3323,7 @@ org.opendaylight.netconf:truststore-api
 org.opendaylight.netconf:truststore-none
 org.opendaylight.netconf:websocket-client
 org.opendaylight.netconf:yanglib
+org.opendaylight.netconf:yanglib-mdsal-writer
 org.opendaylight.odlparent:abstract-feature-parent
 org.opendaylight.odlparent:bcpkix-framework-ext
 org.opendaylight.odlparent:bcprov-framework-ext
