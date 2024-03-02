@@ -3344,6 +3344,7 @@ org.opendaylight.odlparent:copy-files-plugin
 org.opendaylight.odlparent:feature-repo-parent
 org.opendaylight.odlparent:features-odlparent
 org.opendaylight.odlparent:features-test
+org.opendaylight.odlparent:features-test-plugin
 org.opendaylight.odlparent:filter-manifest-plugin
 org.opendaylight.odlparent:karaf-dist-static
 org.opendaylight.odlparent:karaf-plugin

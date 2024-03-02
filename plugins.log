@@ -6034,6 +6034,7 @@ org.openapitools.openapidiff -> openapi-diff:openapi-diff-maven = "openapi-diff-
 org.openclover -> clover:clover-maven-plugin = "Clover Maven Plugin"
 org.opendaylight.controller -> yang-test:yang-test-plugin = "${project.artifactId}"
 org.opendaylight.odlparent -> copy-files:copy-files-plugin = "ODL :: odlparent :: ${project.artifactId}"
+org.opendaylight.odlparent -> features-test:features-test-plugin = "ODL :: odlparent :: ${project.artifactId}"
 org.opendaylight.odlparent -> filter-manifest:filter-manifest-plugin = "ODL :: odlparent :: ${project.artifactId}"
 org.opendaylight.odlparent -> karaf-plugin:karaf-plugin = "karaf-plugin Maven Plugin"
 org.opendaylight.odlparent -> karaf:karaf-plugin = "ODL :: odlparent :: ${project.artifactId}"
