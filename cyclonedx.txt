@@ -24,6 +24,10 @@ com.hack23.cia:cia-dist-cloudformation
 com.hack23.cia:cia-dist-deb
 com.hack23.cia:citizen-intelligence-agency
 com.hack23.sonar:sonar-cloudformation-plugin
+com.io7m.abstand:com.io7m.abstand
+com.io7m.abstand:com.io7m.abstand.core
+com.io7m.abstand:com.io7m.abstand.generation
+com.io7m.abstand:com.io7m.abstand.tests
 com.io7m.anethum:com.io7m.anethum
 com.io7m.anethum:com.io7m.anethum.api
 com.io7m.anethum:com.io7m.anethum.slf4j
@@ -545,6 +549,7 @@ io.smallrye.reactive:smallrye-mutiny-vertx-web-validation
 io.smallrye.reactive:vertx-mutiny-clients
 io.smallrye.reactive:vertx-mutiny-clients-bom
 io.smallrye.reactive:vertx-mutiny-generator
+jakarta.activation:jakarta.activation-api
 jakarta.annotation:jakarta.annotation-api
 jakarta.authentication:jakarta.authentication-api
 jakarta.authorization:jakarta.authorization-api
@@ -1790,6 +1795,8 @@ org.bonitasoft.bpm:org.bonitasoft.gmf.plugin-dependencies
 org.bonitasoft.bpm:org.bonitasoft.spec.bpmn
 org.cyclonedx:cyclonedx-core-java
 org.cyclonedx:cyclonedx-maven-plugin
+org.eclipse.angus:angus-activation
+org.eclipse.angus:angus-activation-project
 org.eclipse.ee4j:project
 org.eclipse.jetty:jetty-home
 org.eclipse.serializer:afs
