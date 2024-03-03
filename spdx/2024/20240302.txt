@@ -1,0 +1,2 @@
+org/opendaylight/bgpcep/bgpcep-sbom-0.21.0.spdx
+org/opendaylight/infrautils/infrautils-sbom-6.0.6.spdx
