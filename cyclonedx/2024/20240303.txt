@@ -1,0 +1,6 @@
+com/github/hazendaz/maven/smartsprites-maven-plugin/2.2.0/smartsprites-maven-plugin-2.2.0-cyclonedx.xml
+com/github/hazendaz/maven/smartsprites-maven-plugin/2.2.0/smartsprites-maven-plugin-2.2.0-cyclonedx.json
+com/github/hazendaz/smartsprites/0.3.0/smartsprites-0.3.0-cyclonedx.json
+com/github/hazendaz/smartsprites/0.3.0/smartsprites-0.3.0-cyclonedx.xml
+de/trustable/cmp/client/cmpClient/3.0.2/cmpClient-3.0.2-cyclonedx.json
+de/trustable/cmp/client/cmpClient/3.0.2/cmpClient-3.0.2-cyclonedx.xml
