@@ -1,4 +1,10 @@
 com.duosecurity:duo-client
+com.flowlogix:flowlogix
+com.flowlogix:flowlogix-bom
+com.flowlogix:flowlogix-datamodel
+com.flowlogix:flowlogix-jee
+com.flowlogix:jakarta-ee
+com.flowlogix:jee-examples
 com.github.camel-tooling:camel-dap-server
 com.github.camel-tooling:camel-lsp-server
 com.github.hazendaz.git:github-desktop
@@ -8,6 +14,7 @@ com.github.hazendaz.jmeter:apache-jmeter
 com.github.hazendaz.maven:coveralls-maven-plugin
 com.github.hazendaz.maven:smartsprites-maven-plugin
 com.github.hazendaz.nodejs:node
+com.github.hazendaz.npp:npp
 com.github.hazendaz.sf:sf
 com.github.hazendaz.tomcat:tomcat10-config
 com.github.hazendaz.tomcat:tomcat11-config
@@ -587,6 +594,7 @@ jakarta.enterprise:jakarta.enterprise.cdi-spec-doc
 jakarta.enterprise:jakarta.enterprise.lang-model
 jakarta.faces:jakarta.faces-api
 jakarta.interceptor:jakarta.interceptor-api
+jakarta.mail:jakarta.mail-api
 jakarta.persistence:jakarta.persistence-api
 jakarta.platform:jakarta.jakartaee-api
 jakarta.platform:jakarta.jakartaee-bom
@@ -1799,8 +1807,19 @@ org.bonitasoft.bpm:org.bonitasoft.gmf.plugin-dependencies
 org.bonitasoft.bpm:org.bonitasoft.spec.bpmn
 org.cyclonedx:cyclonedx-core-java
 org.cyclonedx:cyclonedx-maven-plugin
+org.eclipse.angus:all
 org.eclipse.angus:angus-activation
 org.eclipse.angus:angus-activation-project
+org.eclipse.angus:angus-core
+org.eclipse.angus:angus-mail
+org.eclipse.angus:dsn
+org.eclipse.angus:gimap
+org.eclipse.angus:imap
+org.eclipse.angus:jakarta.mail
+org.eclipse.angus:logging-mailhandler
+org.eclipse.angus:pop3
+org.eclipse.angus:providers
+org.eclipse.angus:smtp
 org.eclipse.ee4j:project
 org.eclipse.jetty:jetty-home
 org.eclipse.serializer:afs
