@@ -3029,6 +3029,7 @@ io.choerodon -> choerodon:choerodon-maven-plugin =
 io.ciera -> ciera:ciera-maven-plugin = "Ciera Maven Plugin"
 io.cloudslang.tools -> cs-content-packager:cs-content-packager-plugin = 
 io.codearte.accurest -> accurest:accurest-maven-plugin = "Accurest Maven Plugin"
+io.codegen.micronaut -> micronaut-import:micronaut-import-plugin = "Micronaut Import Maven Plugin"
 io.codekontor.mojos -> copydependencies:copydependencies-maven-plugin = 
 io.codekontor.slizaa.mojos -> ecoregenerator:ecoregenerator-maven-plugin = 
 io.committed -> speedy-spotless:speedy-spotless-maven-plugin = "speedy-spotless-maven-plugin"

@@ -1,0 +1,4 @@
+jakarta/persistence/jakarta.persistence-api/3.2.0-M2/jakarta.persistence-api-3.2.0-M2-cyclonedx.xml
+jakarta/persistence/jakarta.persistence-api/3.2.0-M2/jakarta.persistence-api-3.2.0-M2-cyclonedx.json
+org/apache/commons/commons-parent/67/commons-parent-67-cyclonedx.xml
+org/apache/commons/commons-parent/67/commons-parent-67-cyclonedx.json
