@@ -1660,6 +1660,7 @@ com.ibm.cloud -> project-util:project-util-plugin = "project-util Maven Plugin"
 com.ibm.g11n.pipeline -> gp:gp-maven-plugin = "Globalization Pipeline Maven Plugin"
 com.ibm.mfp -> adapter:adapter-maven-plugin = "IBM MFP Adapter maven plugin"
 com.ibm.security -> appscan:appscan-maven-plugin = "IBM Application Security on Cloud Maven Plugin"
+com.ibm.websphere.appserver.features -> slsa:slsa-maven-plugin = "SLSA Maven Plugin"
 com.iceolive -> cos-web-deploy:cos-web-deploy-maven-plugin = 
 com.icfolson.maven.plugins -> aem-package:aem-package-maven-plugin = "AEM Package Maven Plugin"
 com.icfolson.maven.plugins -> osgi-bundle-status:osgi-bundle-status-maven-plugin = "OSGi Bundle Status Maven Plugin"
