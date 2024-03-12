@@ -1498,6 +1498,7 @@ org.apache.maven.plugin-tools:maven-script
 org.apache.maven.plugin-tools:maven-script-ant
 org.apache.maven.plugin-tools:maven-script-beanshell
 org.apache.maven.plugins:maven-artifact-plugin
+org.apache.maven.plugins:maven-assembly-plugin
 org.apache.maven.plugins:maven-checkstyle-plugin
 org.apache.maven.plugins:maven-clean-plugin
 org.apache.maven.plugins:maven-compiler-plugin
@@ -1512,6 +1513,7 @@ org.apache.maven.plugins:maven-plugin-report-plugin
 org.apache.maven.plugins:maven-plugins
 org.apache.maven.plugins:maven-pmd-plugin
 org.apache.maven.plugins:maven-project-info-reports-plugin
+org.apache.maven.plugins:maven-remote-resources-plugin
 org.apache.maven.plugins:maven-shade-plugin
 org.apache.maven.plugins:maven-site-plugin
 org.apache.maven.plugins:maven-surefire-plugin
@@ -1544,6 +1546,7 @@ org.apache.maven.resolver:maven-resolver-transport-jdk-parent
 org.apache.maven.resolver:maven-resolver-transport-jetty
 org.apache.maven.resolver:maven-resolver-transport-wagon
 org.apache.maven.resolver:maven-resolver-util
+org.apache.maven.shared:maven-filtering
 org.apache.maven.shared:maven-shared-components
 org.apache.maven.skins:maven-fluido-skin
 org.apache.maven.skins:maven-skins
@@ -1573,6 +1576,7 @@ org.apache.maven:apache-maven
 org.apache.maven:maven
 org.apache.maven:maven-api
 org.apache.maven:maven-api-core
+org.apache.maven:maven-api-di
 org.apache.maven:maven-api-meta
 org.apache.maven:maven-api-model
 org.apache.maven:maven-api-plugin
@@ -1586,7 +1590,9 @@ org.apache.maven:maven-bom
 org.apache.maven:maven-builder-support
 org.apache.maven:maven-compat
 org.apache.maven:maven-core
+org.apache.maven:maven-di
 org.apache.maven:maven-embedder
+org.apache.maven:maven-jline
 org.apache.maven:maven-jxr
 org.apache.maven:maven-model
 org.apache.maven:maven-model-builder

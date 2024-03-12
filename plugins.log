@@ -171,6 +171,7 @@ cn.ezeyc -> enc:enc-maven-plugin = "enc-maven-plugin"
 cn.ezeyc -> x:x-maven-plugin = "x-maven-plugin"
 cn.hiboot.mcn -> crud:crud-maven-plugin = 
 cn.hserver -> hserver:hserver-plugin-maven = 
+cn.huangxulin -> rename:rename-maven-plugin = "Rename Maven Plugin"
 cn.ibizlab.plugin -> ibizlabcli:ibizlab-generator-plugin = "ibizlab-generator-plugin"
 cn.ibizlab.plugin -> sshexec:sshexec = "sshexec"
 cn.iguodou -> gopath:gopath-maven-plugin = "Gopath Maven Plugin Core"
