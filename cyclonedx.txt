@@ -11,6 +11,7 @@ com.github.hazendaz.git:git-for-windows
 com.github.hazendaz.git:github-desktop
 com.github.hazendaz.gpg4win:gpg4win
 com.github.hazendaz.gradle:gradle
+com.github.hazendaz.httpunit:httpunit
 com.github.hazendaz.jmeter:apache-jmeter
 com.github.hazendaz.maven:coveralls-maven-plugin
 com.github.hazendaz.maven:htmlcompressor-maven-plugin
