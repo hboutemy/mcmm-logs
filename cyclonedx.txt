@@ -1216,6 +1216,7 @@ org.apache.flink:flink-compress
 org.apache.flink:flink-connector-aws-base
 org.apache.flink:flink-connector-base
 org.apache.flink:flink-connector-datagen
+org.apache.flink:flink-connector-datagen-tests
 org.apache.flink:flink-connector-files
 org.apache.flink:flink-connector-hbase-1.4
 org.apache.flink:flink-connector-hbase-2.2

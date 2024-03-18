@@ -1,0 +1,1 @@
+org/opendaylight/controller/controller-sbom-9.0.1.spdx
