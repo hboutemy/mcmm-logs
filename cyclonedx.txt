@@ -192,6 +192,10 @@ com.io7m.jxe:com.io7m.jxe
 com.io7m.jxe:com.io7m.jxe.core
 com.io7m.jxe:com.io7m.jxe.documentation
 com.io7m.jxe:com.io7m.jxe.tests
+com.io7m.kabstand:com.io7m.kabstand
+com.io7m.kabstand:com.io7m.kabstand.core
+com.io7m.kabstand:com.io7m.kabstand.generation
+com.io7m.kabstand:com.io7m.kabstand.tests
 com.io7m.medrina:com.io7m.medrina
 com.io7m.medrina:com.io7m.medrina.api
 com.io7m.medrina:com.io7m.medrina.cmdline

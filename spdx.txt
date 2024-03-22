@@ -128,6 +128,7 @@ org.jetbrains.kotlin:kotlin-maven-noarg
 org.jetbrains.kotlin:kotlin-maven-plugin
 org.jetbrains.kotlin:kotlin-maven-sam-with-receiver
 org.jetbrains.kotlin:kotlin-maven-serialization
+org.jetbrains.kotlin:kotlin-metadata-jvm
 org.jetbrains.kotlin:kotlin-native
 org.jetbrains.kotlin:kotlin-native-compiler-embeddable
 org.jetbrains.kotlin:kotlin-native-prebuilt
@@ -138,6 +139,9 @@ org.jetbrains.kotlin:kotlin-noarg-compiler-plugin-embeddable
 org.jetbrains.kotlin:kotlin-osgi-bundle
 org.jetbrains.kotlin:kotlin-parcelize-compiler
 org.jetbrains.kotlin:kotlin-parcelize-runtime
+org.jetbrains.kotlin:kotlin-power-assert
+org.jetbrains.kotlin:kotlin-power-assert-compiler-plugin
+org.jetbrains.kotlin:kotlin-power-assert-compiler-plugin-embeddable
 org.jetbrains.kotlin:kotlin-project
 org.jetbrains.kotlin:kotlin-project-model
 org.jetbrains.kotlin:kotlin-reflect
