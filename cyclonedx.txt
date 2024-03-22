@@ -1427,6 +1427,7 @@ org.apache.hadoop:hadoop-dynamometer-blockgen
 org.apache.hadoop:hadoop-dynamometer-infra
 org.apache.hadoop:hadoop-dynamometer-workload
 org.apache.hadoop:hadoop-extras
+org.apache.hadoop:hadoop-federation-balance
 org.apache.hadoop:hadoop-fs2img
 org.apache.hadoop:hadoop-gridmix
 org.apache.hadoop:hadoop-hdfs
@@ -1435,6 +1436,7 @@ org.apache.hadoop:hadoop-hdfs-httpfs
 org.apache.hadoop:hadoop-hdfs-native-client
 org.apache.hadoop:hadoop-hdfs-nfs
 org.apache.hadoop:hadoop-hdfs-rbf
+org.apache.hadoop:hadoop-huaweicloud
 org.apache.hadoop:hadoop-kafka
 org.apache.hadoop:hadoop-kms
 org.apache.hadoop:hadoop-main
@@ -1479,6 +1481,7 @@ org.apache.hadoop:hadoop-yarn-registry
 org.apache.hadoop:hadoop-yarn-server
 org.apache.hadoop:hadoop-yarn-server-applicationhistoryservice
 org.apache.hadoop:hadoop-yarn-server-common
+org.apache.hadoop:hadoop-yarn-server-globalpolicygenerator
 org.apache.hadoop:hadoop-yarn-server-nodemanager
 org.apache.hadoop:hadoop-yarn-server-resourcemanager
 org.apache.hadoop:hadoop-yarn-server-router
@@ -2128,6 +2131,7 @@ org.eclipse.store:afs-sql
 org.eclipse.store:cache
 org.eclipse.store:cache-hibernate
 org.eclipse.store:cache-parent
+org.eclipse.store:eclipse-store-integrations-cdi4
 org.eclipse.store:integrations
 org.eclipse.store:storage
 org.eclipse.store:storage-embedded
@@ -2140,12 +2144,15 @@ org.eclipse.store:storage-rest-parent
 org.eclipse.store:storage-restadapter
 org.eclipse.store:storage-restclient
 org.eclipse.store:storage-restclient-app
+org.eclipse.store:storage-restclient-app-standalone-assembly
 org.eclipse.store:storage-restclient-jersey
 org.eclipse.store:storage-restservice
 org.eclipse.store:storage-restservice-sparkjava
+org.eclipse.store:storage-restservice-springboot
 org.eclipse.store:store-parent
 org.glassfish.build:glassfishbuild-maven-plugin
 org.glassfish.build:spec-version-maven-plugin
+org.glassfish.concurro:concurro
 org.glassfish.hk2.external:aopalliance-repackaged
 org.glassfish.hk2:caching-aop-example
 org.glassfish.hk2:caching-aop-example-runner

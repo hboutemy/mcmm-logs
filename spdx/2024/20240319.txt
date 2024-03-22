@@ -1,0 +1,6 @@
+org/opendaylight/aaa/aaa-sbom-0.18.5.spdx
+org/opendaylight/controller/controller-sbom-8.0.5.spdx
+org/opendaylight/mdsal/mdsal-sbom-12.0.5.spdx
+org/opendaylight/netconf/netconf-sbom-6.0.7.spdx
+org/opendaylight/netconf/netconf-sbom-7.0.3.spdx
+org/opendaylight/yangtools/yangtools-sbom-11.0.6.spdx
