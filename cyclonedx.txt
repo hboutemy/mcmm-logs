@@ -703,6 +703,7 @@ net.sourceforge.pmd:pmd-swift
 net.sourceforge.pmd:pmd-test
 net.sourceforge.pmd:pmd-test-schema
 net.sourceforge.pmd:pmd-tsql
+net.sourceforge.pmd:pmd-velocity
 net.sourceforge.pmd:pmd-visualforce
 net.sourceforge.pmd:pmd-vm
 net.sourceforge.pmd:pmd-xml
@@ -1631,6 +1632,9 @@ org.apache.logging.log4j:log4j-core
 org.apache.logging.log4j:log4j-core-test
 org.apache.logging.log4j:log4j-couchdb
 org.apache.logging.log4j:log4j-csv
+org.apache.logging.log4j:log4j-docgen
+org.apache.logging.log4j:log4j-docgen-asciidoctor-extension
+org.apache.logging.log4j:log4j-docgen-maven-plugin
 org.apache.logging.log4j:log4j-docker
 org.apache.logging.log4j:log4j-flume-ng
 org.apache.logging.log4j:log4j-iostreams
@@ -1666,6 +1670,7 @@ org.apache.logging.log4j:log4j-taglib
 org.apache.logging.log4j:log4j-to-jul
 org.apache.logging.log4j:log4j-to-slf4j
 org.apache.logging.log4j:log4j-tools-bom
+org.apache.logging.log4j:log4j-tools-internal-freemarker-util
 org.apache.logging.log4j:log4j-tools-parent
 org.apache.logging.log4j:log4j-web
 org.apache.logging:logging-parent
