@@ -14,6 +14,7 @@ com.github.hazendaz.gradle:gradle
 com.github.hazendaz.httpunit:httpunit
 com.github.hazendaz.jmeter:apache-jmeter
 com.github.hazendaz.maven:coveralls-maven-plugin
+com.github.hazendaz.maven:directory-maven-plugin
 com.github.hazendaz.maven:htmlcompressor-maven-plugin
 com.github.hazendaz.maven:makeself-maven-plugin
 com.github.hazendaz.maven:smartsprites-maven-plugin
@@ -639,6 +640,9 @@ jakarta.enterprise:jakarta.enterprise.lang-model
 jakarta.faces:jakarta.faces-api
 jakarta.interceptor:jakarta.interceptor-api
 jakarta.mail:jakarta.mail-api
+jakarta.nosql:jakarta.nosql-api
+jakarta.nosql:jakarta.nosql-parent
+jakarta.nosql:jakarta.nosql-spec
 jakarta.persistence:jakarta.persistence-api
 jakarta.platform:jakarta.jakartaee-api
 jakarta.platform:jakarta.jakartaee-bom
@@ -2111,6 +2115,7 @@ org.eclipse.serializer:persistence-binary-jdk8
 org.eclipse.serializer:persistence-parent
 org.eclipse.serializer:serializer
 org.eclipse.serializer:serializer-parent
+org.eclipse.starter:jakarta-starter
 org.eclipse.steady:cli-scanner
 org.eclipse.steady:lang
 org.eclipse.steady:lang-java
