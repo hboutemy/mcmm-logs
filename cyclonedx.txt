@@ -1215,6 +1215,7 @@ org.apache.flink:flink-architecture-tests-base
 org.apache.flink:flink-architecture-tests-production
 org.apache.flink:flink-architecture-tests-test
 org.apache.flink:flink-autoscaler
+org.apache.flink:flink-autoscaler-plugin-jdbc
 org.apache.flink:flink-autoscaler-standalone
 org.apache.flink:flink-avro
 org.apache.flink:flink-avro-confluent-registry
