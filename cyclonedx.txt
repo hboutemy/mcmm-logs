@@ -2323,6 +2323,8 @@ org.glassfish.jersey.examples:helloworld-cdi2-se
 org.glassfish.jersey.examples:helloworld-netty
 org.glassfish.jersey.examples:helloworld-programmatic
 org.glassfish.jersey.examples:helloworld-pure-jax-rs
+org.glassfish.jersey.examples:helloworld-spring-annotations
+org.glassfish.jersey.examples:helloworld-spring-webapp
 org.glassfish.jersey.examples:helloworld-webapp
 org.glassfish.jersey.examples:helloworld-weld
 org.glassfish.jersey.examples:http-patch
