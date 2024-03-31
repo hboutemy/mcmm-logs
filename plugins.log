@@ -4327,6 +4327,7 @@ org.apache.camel.maven -> camel-vertx-kafka:camel-vertx-kafka-maven-plugin = "Ca
 org.apache.camel.quarkus -> camel-quarkus-camel-k:camel-quarkus-camel-k-maven-plugin = "Camel Quarkus :: Tooling :: Camel K Maven Plugin"
 org.apache.camel.quarkus -> camel-quarkus:camel-quarkus-maven-plugin = "Camel Quarkus :: Tooling :: Maven Plugin"
 org.apache.camel.quarkus -> camel-quarkus-package:camel-quarkus-package-maven-plugin = "Camel Quarkus :: Tooling :: Maven :: Package Maven Plugin"
+org.apache.camel.springboot -> camel-spring-boot-config-generator:camel-spring-boot-config-generator-maven-plugin = "Camel SB Tooling :: Config Generator Maven Plugin"
 org.apache.camel.springboot -> camel-spring-boot-docs:camel-spring-boot-docs-maven-plugin = "Camel SB Tooling :: Docs Maven Plugin"
 org.apache.camel.springboot -> camel-spring-boot-generator:camel-spring-boot-generator-maven-plugin = "Camel SB Tooling :: Generator Maven Plugin"
 org.apache.cayenne.plugins -> cayenne:cayenne-maven-plugin = "cayenne-maven-plugin: Cayenne Maven Plugin"
@@ -6196,6 +6197,7 @@ org.pustefixframework.maven.plugins -> pustefix-validator:pustefix-validator-plu
 org.pustefixframework.maven.plugins -> pustefix-webapp:pustefix-webapp-plugin = "Pustefix Webapp Plugin"
 org.pustefixframework.maven.plugins -> pustefix-webservice:pustefix-webservice-plugin = "Pustefix AJAX webservices Plugin (for JAXWS service stub generation)"
 org.pustefixframework.maven.plugins -> pustefix-xslt:pustefix-xslt-plugin = "Pustefix XSLT Plugin"
+org.qaddict -> run:run = 
 org.qbicc -> qbicc:qbicc-maven-plugin = "Qbicc: Maven Plugin"
 org.qbicc.rt -> qbicc-rt-openjdk-build-tools:qbicc-rt-openjdk-build-tools-maven-plugin = "Qbicc Build Tools Maven Plugin"
 org.qianalyze -> QiAnalyzeDroolsCompiler:QiAnalyzeDroolsCompiler = "QiAnalyzeDroolsCompiler"
