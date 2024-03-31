@@ -1,0 +1,9 @@
+com/github/hazendaz/git/github-desktop/3.3.12/github-desktop-3.3.12-cyclonedx.json
+com/github/hazendaz/git/github-desktop/3.3.12/github-desktop-3.3.12-cyclonedx.xml
+com/io7m/primogenitor/com.io7m.primogenitor.full/8.2.0/com.io7m.primogenitor.full-8.2.0-cyclonedx.xml
+com/io7m/primogenitor/com.io7m.primogenitor.lite/8.2.0/com.io7m.primogenitor.lite-8.2.0-cyclonedx.xml
+com/io7m/primogenitor/com.io7m.primogenitor.support/8.2.0/com.io7m.primogenitor.support-8.2.0-cyclonedx.xml
+com/io7m/primogenitor/com.io7m.primogenitor.tests/8.2.0/com.io7m.primogenitor.tests-8.2.0-cyclonedx.xml
+com/io7m/primogenitor/com.io7m.primogenitor/8.2.0/com.io7m.primogenitor-8.2.0-cyclonedx.xml
+jakarta/ws/rs/jakarta.ws.rs-api/4.0.0-M2/jakarta.ws.rs-api-4.0.0-M2-cyclonedx.json
+jakarta/ws/rs/jakarta.ws.rs-api/4.0.0-M2/jakarta.ws.rs-api-4.0.0-M2-cyclonedx.xml

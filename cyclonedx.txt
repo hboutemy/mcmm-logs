@@ -661,6 +661,7 @@ jakarta.validation:jakarta.validation-api
 jakarta.websocket:jakarta.websocket-all
 jakarta.websocket:jakarta.websocket-api
 jakarta.websocket:jakarta.websocket-client-api
+jakarta.ws.rs:jakarta.ws.rs-api
 jakarta.xml.bind:jakarta.xml.bind-api
 jakarta.xml.bind:jakarta.xml.bind-api-parent
 me.dmmax.akka:akka-spawn-protocol
