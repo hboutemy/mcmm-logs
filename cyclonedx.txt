@@ -265,6 +265,11 @@ com.io7m.wendover:com.io7m.wendover
 com.io7m.wendover:com.io7m.wendover.core
 com.io7m.wendover:com.io7m.wendover.tests
 com.ongres.pgconfig:pgconfig-validator
+com.ongres.stringprep:nameprep
+com.ongres.stringprep:saslprep
+com.ongres.stringprep:stringprep
+com.ongres.stringprep:stringprep-aggregator
+com.ongres.stringprep:stringprep-parent
 com.siemens.pki:CmpRaComponent
 com.soartech:jsoar
 com.soartech:jsoar-core
@@ -1737,6 +1742,7 @@ org.apache.maven.plugins:maven-dependency-plugin
 org.apache.maven.plugins:maven-enforcer-plugin
 org.apache.maven.plugins:maven-failsafe-plugin
 org.apache.maven.plugins:maven-gpg-plugin
+org.apache.maven.plugins:maven-invoker-plugin
 org.apache.maven.plugins:maven-javadoc-plugin
 org.apache.maven.plugins:maven-jlink-plugin
 org.apache.maven.plugins:maven-jxr-plugin
