@@ -1,0 +1,9 @@
+com/io7m/tavella/com.io7m.tavella.api/0.0.2/com.io7m.tavella.api-0.0.2-cyclonedx.xml
+com/io7m/tavella/com.io7m.tavella.native_exec/0.0.2/com.io7m.tavella.native_exec-0.0.2-cyclonedx.xml
+com/io7m/tavella/com.io7m.tavella.tests/0.0.2/com.io7m.tavella.tests-0.0.2-cyclonedx.xml
+com/io7m/tavella/com.io7m.tavella/0.0.2/com.io7m.tavella-0.0.2-cyclonedx.xml
+org/apache/commons/commons-collections4/4.5.0-M1/commons-collections4-4.5.0-M1-cyclonedx.json
+org/apache/commons/commons-collections4/4.5.0-M1/commons-collections4-4.5.0-M1-cyclonedx.xml
+org/apache/commons/commons-imaging/1.0.0-alpha4/commons-imaging-1.0.0-alpha4-cyclonedx.xml
+org/apache/commons/commons-imaging/1.0.0-alpha4/commons-imaging-1.0.0-alpha4-cyclonedx.json
+org/apache/maven/plugin-tools/maven-plugin-tools/3.12.0/maven-plugin-tools-3.12.0-cyclonedx.json

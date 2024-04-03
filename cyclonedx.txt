@@ -862,6 +862,7 @@ org.apache.camel.quarkus:camel-quarkus
 org.apache.camel.springboot:spring-boot
 org.apache.camel:camel
 org.apache.commons:commons-build-plugin
+org.apache.commons:commons-collections4
 org.apache.commons:commons-compress
 org.apache.commons:commons-configuration2
 org.apache.commons:commons-crypto
@@ -877,6 +878,7 @@ org.apache.commons:commons-fileupload2-jakarta-servlet5
 org.apache.commons:commons-fileupload2-jakarta-servlet6
 org.apache.commons:commons-fileupload2-javax
 org.apache.commons:commons-fileupload2-portlet
+org.apache.commons:commons-imaging
 org.apache.commons:commons-jcs3
 org.apache.commons:commons-jcs3-core
 org.apache.commons:commons-jcs3-jcache
