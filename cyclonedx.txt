@@ -3555,6 +3555,9 @@ org.opendaylight.netconf:ietf-yang-patch
 org.opendaylight.netconf:keystore-api
 org.opendaylight.netconf:keystore-legacy
 org.opendaylight.netconf:keystore-none
+org.opendaylight.netconf:keystore-plaintext-api
+org.opendaylight.netconf:keystore-plaintext-cli
+org.opendaylight.netconf:keystore-plaintext-localfile
 org.opendaylight.netconf:mdsal-netconf-connector
 org.opendaylight.netconf:mdsal-netconf-impl
 org.opendaylight.netconf:mdsal-netconf-monitoring
@@ -3604,6 +3607,7 @@ org.opendaylight.netconf:odl-netconf-connector-all
 org.opendaylight.netconf:odl-netconf-console
 org.opendaylight.netconf:odl-netconf-impl
 org.opendaylight.netconf:odl-netconf-keystore
+org.opendaylight.netconf:odl-netconf-keystore-plaintext
 org.opendaylight.netconf:odl-netconf-mapping-api
 org.opendaylight.netconf:odl-netconf-mdsal
 org.opendaylight.netconf:odl-netconf-model-rfc5277

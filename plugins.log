@@ -2948,6 +2948,7 @@ fr.opensagres.maven.plugin -> no-annotations:no-annotations-maven-plugin = "no-a
 fr.opensagres.maven.plugins -> gcupload:gcupload-maven-plugin = "Google Code Upload Maven Plugin"
 fr.opensagres.maven.plugins -> no-annotations:no-annotations-maven-plugin = "no-annotations-maven-plugin Maven Plugin"
 fr.shingle -> shingle:shingle-maven-plugin = 
+fr.techad.s3 -> s3:s3-maven-plugin = "Download S3 Plugin for Maven"
 fr.xebia.maven.plugins -> mindmap:mindmap-maven-plugin = "Maven dependency :: ${project.artifactId} ${project.packaging}"
 fun.mortnon -> flyrafter:flyrafter-maven-plugin = "${project.artifactId}"
 ga.rugal.maven -> commitlinter:commitlinter-maven-plugin = "Git Commit Message Linter Maven Plugin"
