@@ -2108,6 +2108,12 @@ org.eclipse.angus:providers
 org.eclipse.angus:smtp
 org.eclipse.ee4j:project
 org.eclipse.jetty:jetty-home
+org.eclipse.parsson:jakarta.json
+org.eclipse.parsson:parsson
+org.eclipse.parsson:parsson-bundles
+org.eclipse.parsson:parsson-dist
+org.eclipse.parsson:parsson-media
+org.eclipse.parsson:project
 org.eclipse.serializer:afs
 org.eclipse.serializer:afs-parent
 org.eclipse.serializer:base

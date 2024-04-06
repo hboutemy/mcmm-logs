@@ -1,0 +1,12 @@
+org/eclipse/parsson/jakarta.json/1.1.6/jakarta.json-1.1.6-cyclonedx.xml
+org/eclipse/parsson/jakarta.json/1.1.6/jakarta.json-1.1.6-cyclonedx.json
+org/eclipse/parsson/parsson-bundles/1.1.6/parsson-bundles-1.1.6-cyclonedx.xml
+org/eclipse/parsson/parsson-bundles/1.1.6/parsson-bundles-1.1.6-cyclonedx.json
+org/eclipse/parsson/parsson-dist/1.1.6/parsson-dist-1.1.6-cyclonedx.json
+org/eclipse/parsson/parsson-dist/1.1.6/parsson-dist-1.1.6-cyclonedx.xml
+org/eclipse/parsson/parsson-media/1.1.6/parsson-media-1.1.6-cyclonedx.json
+org/eclipse/parsson/parsson-media/1.1.6/parsson-media-1.1.6-cyclonedx.xml
+org/eclipse/parsson/parsson/1.1.6/parsson-1.1.6-cyclonedx.json
+org/eclipse/parsson/parsson/1.1.6/parsson-1.1.6-cyclonedx.xml
+org/eclipse/parsson/project/1.1.6/project-1.1.6-cyclonedx.json
+org/eclipse/parsson/project/1.1.6/project-1.1.6-cyclonedx.xml
