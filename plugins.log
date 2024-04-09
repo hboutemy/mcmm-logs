@@ -1014,6 +1014,7 @@ com.github.jcustenborder.kafka.connect -> kafka-connect-documentation:kafka-conn
 com.github.jcustenborder.maven.plugins -> kafka-connect:kafka-connect-maven-plugin = "kafka-connect-maven-plugin"
 com.github.jcustenborder.maven.plugins -> wits:wits-maven-plugin = "wits-maven-plugin"
 com.github.jdelker -> devsak:devsak-maven-plugin = "Developer's-Swiss-Army-Knife Maven Plugin"
+com.github.jdelker.maven.plugins -> tmpbuild:tmpbuild-maven-plugin = "TMPBuild-Maven-Plugin"
 com.github.jegr78 -> image-gallery:image-gallery-maven-plugin = "Maven Image Gallery Plugin"
 com.github.jeluard -> plantuml:maven-plantuml-plugin = "Maven PlantUML plugin"
 com.github.jeluard -> plantuml:plantuml-maven-plugin = "Maven PlantUML plugin"
@@ -2463,6 +2464,7 @@ com.wcinformatics.tt -> tt-admin:tt-admin = "WCI Terminology Transformer Project
 com.wcinformatics.umls.server -> term-server-admin-mojo:term-server-admin-mojo = "Terminology server admin mojos"
 com.webcohesion.enunciate -> enunciate:enunciate-maven-plugin = "Enunciate - Maven Plugin"
 com.webcohesion.enunciate -> enunciate-slim:enunciate-slim-maven-plugin = "Enunciate - Slim Maven Plugin"
+com.webforj -> webforj-install:webforj-install-maven-plugin = 
 com.webguys -> string-template:string-template-maven-plugin = "StringTemplate Maven Plugin"
 com.webtide.hightide -> hightide:maven-hightide-plugin = "Maven Hightide Plugin"
 com.weedow -> schema-org-generator:schema-org-generator-maven-plugin = "schema-org-generator-maven-plugin"

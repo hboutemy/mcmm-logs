@@ -1,4 +1,7 @@
 com.duosecurity:duo-client
+com.flowlogix.depchain:depchain
+com.flowlogix.depchain:integration-test
+com.flowlogix.depchain:unit-test
 com.flowlogix:flowlogix
 com.flowlogix:flowlogix-bom
 com.flowlogix:flowlogix-datamodel
@@ -1787,6 +1790,7 @@ org.apache.maven.resolver:maven-resolver-transport-jetty
 org.apache.maven.resolver:maven-resolver-transport-wagon
 org.apache.maven.resolver:maven-resolver-util
 org.apache.maven.shared:maven-filtering
+org.apache.maven.shared:maven-script-interpreter
 org.apache.maven.shared:maven-shared-components
 org.apache.maven.skins:maven-fluido-skin
 org.apache.maven.skins:maven-skins

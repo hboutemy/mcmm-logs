@@ -1,0 +1,12 @@
+com/flowlogix/depchain/depchain/1/depchain-1-cyclonedx.json
+com/flowlogix/depchain/depchain/1/depchain-1-cyclonedx.xml
+com/flowlogix/depchain/integration-test/1/integration-test-1-cyclonedx.xml
+com/flowlogix/depchain/integration-test/1/integration-test-1-cyclonedx.json
+com/flowlogix/depchain/unit-test/1/unit-test-1-cyclonedx.xml
+com/flowlogix/depchain/unit-test/1/unit-test-1-cyclonedx.json
+commons-io/commons-io/2.16.1/commons-io-2.16.1-cyclonedx.xml
+commons-io/commons-io/2.16.1/commons-io-2.16.1-cyclonedx.json
+org/apache/camel/kamelets/camel-kamelets-parent/4.5.0/camel-kamelets-parent-4.5.0-cyclonedx.xml
+org/apache/camel/kamelets/camel-kamelets-parent/4.5.0/camel-kamelets-parent-4.5.0-cyclonedx.json
+org/apache/maven/shared/maven-script-interpreter/1.5/maven-script-interpreter-1.5-cyclonedx.xml
+org/apache/maven/shared/maven-script-interpreter/1.5/maven-script-interpreter-1.5-cyclonedx.json
