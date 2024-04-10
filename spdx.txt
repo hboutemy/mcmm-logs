@@ -72,6 +72,7 @@ org.apache.commons:commons-statistics-parent
 org.apache.commons:commons-text
 org.jetbrains.kotlin:analysis-api-test-framework
 org.jetbrains.kotlin:atomicfu
+org.jetbrains.kotlin:compose-compiler-gradle-plugin
 org.jetbrains.kotlin:js-plain-objects
 org.jetbrains.kotlin:jvm-abi-gen
 org.jetbrains.kotlin:jvm-abi-gen-embeddable
@@ -103,6 +104,8 @@ org.jetbrains.kotlin:kotlin-compiler-client-embeddable
 org.jetbrains.kotlin:kotlin-compiler-embeddable
 org.jetbrains.kotlin:kotlin-compiler-internal-test-framework
 org.jetbrains.kotlin:kotlin-compiler-runner
+org.jetbrains.kotlin:kotlin-compose-compiler-plugin
+org.jetbrains.kotlin:kotlin-compose-compiler-plugin-embeddable
 org.jetbrains.kotlin:kotlin-daemon
 org.jetbrains.kotlin:kotlin-daemon-client
 org.jetbrains.kotlin:kotlin-daemon-embeddable

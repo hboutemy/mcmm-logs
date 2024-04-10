@@ -1,0 +1,16 @@
+com/flowlogix/depchain/depchain/2/depchain-2-cyclonedx.xml
+com/flowlogix/depchain/depchain/2/depchain-2-cyclonedx.json
+com/flowlogix/depchain/depchain/3/depchain-3-cyclonedx.json
+com/flowlogix/depchain/depchain/3/depchain-3-cyclonedx.xml
+com/flowlogix/depchain/integration-test/2/integration-test-2-cyclonedx.xml
+com/flowlogix/depchain/integration-test/2/integration-test-2-cyclonedx.json
+com/flowlogix/depchain/integration-test/3/integration-test-3-cyclonedx.xml
+com/flowlogix/depchain/integration-test/3/integration-test-3-cyclonedx.json
+com/flowlogix/depchain/unit-test/2/unit-test-2-cyclonedx.json
+com/flowlogix/depchain/unit-test/2/unit-test-2-cyclonedx.xml
+com/flowlogix/depchain/unit-test/3/unit-test-3-cyclonedx.json
+com/flowlogix/depchain/unit-test/3/unit-test-3-cyclonedx.xml
+com/github/hazendaz/git/github-desktop/3.3.13/github-desktop-3.3.13-cyclonedx.json
+com/github/hazendaz/git/github-desktop/3.3.13/github-desktop-3.3.13-cyclonedx.xml
+com/github/spotbugs/spotbugs-maven-plugin/4.8.4.0/spotbugs-maven-plugin-4.8.4.0-cyclonedx.xml
+com/github/spotbugs/spotbugs-maven-plugin/4.8.4.0/spotbugs-maven-plugin-4.8.4.0-cyclonedx.json
