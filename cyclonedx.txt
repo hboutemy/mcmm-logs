@@ -129,6 +129,10 @@ com.io7m.ervilla:com.io7m.ervilla.native_exec
 com.io7m.ervilla:com.io7m.ervilla.postgres
 com.io7m.ervilla:com.io7m.ervilla.test_extension
 com.io7m.ervilla:com.io7m.ervilla.tests
+com.io7m.hibiscus:com.io7m.hibiscus
+com.io7m.hibiscus:com.io7m.hibiscus.api
+com.io7m.hibiscus:com.io7m.hibiscus.examples
+com.io7m.hibiscus:com.io7m.hibiscus.tests
 com.io7m.idstore:com.io7m.idstore
 com.io7m.idstore:com.io7m.idstore.admin_client
 com.io7m.idstore:com.io7m.idstore.admin_client.api
