@@ -1,0 +1,2 @@
+org/apache/maven/plugins/maven-jar-plugin/3.4.0/maven-jar-plugin-3.4.0-cyclonedx.xml
+org/apache/maven/plugins/maven-jar-plugin/3.4.0/maven-jar-plugin-3.4.0-cyclonedx.json
