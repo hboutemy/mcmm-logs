@@ -3513,6 +3513,7 @@ io.metaloom.maven -> testdb:testdb-maven-plugin = "Testdatabase Provider :: Mave
 io.micronaut.build -> micronaut:micronaut-maven-plugin = "Micronaut Maven Plugin"
 io.micronaut.maven -> micronaut:micronaut-maven-plugin = "Micronaut Maven Plugin - Plugin"
 io.miragon.miranum -> element-templates-generator:element-templates-generator-maven-plugin = "element-templates-generator-maven-plugin"
+io.miragon.miranum.platform -> element-templates-generator:element-templates-generator-maven-plugin = "element-templates-generator-maven-plugin"
 io.moderne -> moderne-lst:moderne-lst-maven-plugin = "moderne-maven-plugin"
 io.moderne -> moderne:moderne-maven-plugin = "moderne-maven-plugin"
 io.mongock -> mongock-cli-generator:mongock-cli-generator = "Mongock CLI generator"
