@@ -1,0 +1,2 @@
+commons-cli/commons-cli/1.7.0/commons-cli-1.7.0.spdx.json
+org/apache/commons/commons-imaging/1.0.0-alpha5/commons-imaging-1.0.0-alpha5.spdx.json
