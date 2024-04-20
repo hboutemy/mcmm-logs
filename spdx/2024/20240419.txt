@@ -1,0 +1,1 @@
+org/apache/commons/commons-release-plugin/1.8.2/commons-release-plugin-1.8.2.spdx.json
