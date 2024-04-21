@@ -4300,6 +4300,7 @@ org.apache.aries -> eba:eba-maven-plugin = "Aries Maven EBA Plugin"
 org.apache.aries -> esa:esa-maven-plugin = "Aries Maven ESA Plugin"
 org.apache.aries.blueprint -> blueprint:blueprint-maven-plugin = "Apache Aries Blueprint Maven Plugin"
 org.apache.aries.versioning -> org.apache.aries.versioning.:org.apache.aries.versioning.plugin = "org.apache.aries.versioning.plugin Maven Mojo"
+org.apache.arrow.maven.plugins -> module-info-compiler:module-info-compiler-maven-plugin = "Module Info Compiler Maven Plugin"
 org.apache.asterix -> asterix-evaluator-generator:asterix-evaluator-generator-maven-plugin = "asterix-evaluator-generator-maven-plugin"
 org.apache.asterix -> asterix-grammar-extension:asterix-grammar-extension-maven-plugin = 
 org.apache.asterix -> asterix-test-datagenerator:asterix-test-datagenerator-maven-plugin = "asterix-test-datagenerator-maven-plugin"

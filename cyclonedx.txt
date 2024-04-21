@@ -219,6 +219,11 @@ com.io7m.mime2045:com.io7m.mime2045.core
 com.io7m.mime2045:com.io7m.mime2045.parser
 com.io7m.mime2045:com.io7m.mime2045.parser.api
 com.io7m.mime2045:com.io7m.mime2045.tests
+com.io7m.minisite:com.io7m.minisite
+com.io7m.minisite:com.io7m.minisite.core
+com.io7m.minisite:com.io7m.minisite.documentation
+com.io7m.minisite:com.io7m.minisite.maven_plugin
+com.io7m.minisite:com.io7m.minisite.tests
 com.io7m.primogenitor:com.io7m.primogenitor
 com.io7m.primogenitor:com.io7m.primogenitor.full
 com.io7m.primogenitor:com.io7m.primogenitor.lite
@@ -814,6 +819,8 @@ one.microstream:microstream-storage-restservice
 one.microstream:microstream-storage-restservice-sparkjava
 org.aarboard.nextcloud:nextcloud-api
 org.apache.arrow.gandiva:arrow-gandiva
+org.apache.arrow.maven.plugins:arrow-maven-plugins
+org.apache.arrow.maven.plugins:module-info-compiler-maven-plugin
 org.apache.arrow.orc:arrow-orc
 org.apache.arrow:arrow-algorithm
 org.apache.arrow:arrow-avro
@@ -827,6 +834,7 @@ org.apache.arrow:arrow-jdbc
 org.apache.arrow:arrow-memory
 org.apache.arrow:arrow-memory-core
 org.apache.arrow:arrow-memory-netty
+org.apache.arrow:arrow-memory-netty-buffer-patch
 org.apache.arrow:arrow-memory-unsafe
 org.apache.arrow:arrow-performance
 org.apache.arrow:arrow-plasma
@@ -1767,6 +1775,7 @@ org.apache.maven.plugins:maven-shade-plugin
 org.apache.maven.plugins:maven-site-plugin
 org.apache.maven.plugins:maven-surefire-plugin
 org.apache.maven.plugins:maven-surefire-report-plugin
+org.apache.maven.plugins:maven-wrapper-plugin
 org.apache.maven.reporting:maven-reporting-api
 org.apache.maven.reporting:maven-reporting-exec
 org.apache.maven.reporting:maven-reporting-impl
@@ -1841,6 +1850,9 @@ org.apache.maven.surefire:surefire-shadefire
 org.apache.maven.surefire:surefire-shared-utils
 org.apache.maven.surefire:surefire-testng
 org.apache.maven.surefire:surefire-testng-utils
+org.apache.maven.wrapper:maven-wrapper
+org.apache.maven.wrapper:maven-wrapper-distribution
+org.apache.maven.wrapper:maven-wrapper-parent
 org.apache.maven:apache-maven
 org.apache.maven:maven
 org.apache.maven:maven-api
