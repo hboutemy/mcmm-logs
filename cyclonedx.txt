@@ -629,6 +629,19 @@ jakarta.activation:jakarta.activation-api
 jakarta.annotation:jakarta.annotation-api
 jakarta.authentication:jakarta.authentication-api
 jakarta.authorization:jakarta.authorization-api
+jakarta.batch:com.ibm.jbatch.tck
+jakarta.batch:com.ibm.jbatch.tck.ann
+jakarta.batch:com.ibm.jbatch.tck.ann.proc
+jakarta.batch:com.ibm.jbatch.tck.appbean
+jakarta.batch:com.ibm.jbatch.tck.exec
+jakarta.batch:com.ibm.jbatch.tck.sigtest.exec
+jakarta.batch:com.ibm.jbatch.tck.spi
+jakarta.batch:jakarta.batch.arquillian.exec-parent
+jakarta.batch:jakarta.batch.arquillian.extension
+jakarta.batch:jakarta.batch.official.tck
+jakarta.batch:jakarta.batch.reporting
+jakarta.batch:jakarta.batch.tck.util
+jakarta.batch:tck-parent
 jakarta.config:jakarta.config
 jakarta.config:jakarta.config-api
 jakarta.data:jakarta.data-api
@@ -2132,6 +2145,7 @@ org.bonitasoft.bpm:org.bonitasoft.bpm.model.edit
 org.bonitasoft.bpm:org.bonitasoft.bpm.plugin-dependencies
 org.bonitasoft.bpm:org.bonitasoft.gmf.plugin-dependencies
 org.bonitasoft.bpm:org.bonitasoft.spec.bpmn
+org.csveed:csveed
 org.cyclonedx:cyclonedx-core-java
 org.cyclonedx:cyclonedx-maven-plugin
 org.eclipse.angus:all
