@@ -1788,6 +1788,7 @@ org.apache.maven.plugins:maven-shade-plugin
 org.apache.maven.plugins:maven-site-plugin
 org.apache.maven.plugins:maven-surefire-plugin
 org.apache.maven.plugins:maven-surefire-report-plugin
+org.apache.maven.plugins:maven-toolchains-plugin
 org.apache.maven.plugins:maven-wrapper-plugin
 org.apache.maven.reporting:maven-reporting-api
 org.apache.maven.reporting:maven-reporting-exec

@@ -6638,6 +6638,7 @@ org.wso2.maven -> wso2-general-project:wso2-general-project-plugin = "Maven Regi
 org.wso2.maven -> json-merge:wso2-maven-json-merge-plugin = "Maven Library Plugin"
 org.wso2.maven -> wso2json-merge:wso2-maven-json-merge-plugin = "Maven Library Plugin"
 org.wso2.maven -> wso2package-prepare:wso2-maven-package-prepare-plugin = "wso2-maven-package-prepare-plugin Maven Mojo"
+org.wso2.maven -> wso2-mi-synapse:wso2-mi-synapse-plugin = "Maven MI Synapse Plugin"
 org.wso2.maven -> wso2-release-helper:wso2-release-helper-plugin = "wso2-release-helper-plugin"
 org.wso2.maven -> wso2-release-prepare:wso2-release-pre-prepare-plugin = "wso2-release-pre-prepare-plugin Maven Mojo"
 org.wso2.maven -> wso2-release-pre-prepare:wso2-release-pre-prepare-plugin = "wso2-release-pre-prepare-plugin Maven Mojo"
