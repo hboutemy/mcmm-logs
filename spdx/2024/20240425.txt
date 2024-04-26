@@ -1,0 +1,4 @@
+org/opendaylight/aaa/aaa-sbom-0.17.16.spdx
+org/opendaylight/aaa/aaa-sbom-0.17.15.spdx
+org/opendaylight/controller/controller-sbom-7.0.12.spdx
+org/opendaylight/netconf/netconf-sbom-5.0.10.spdx

@@ -214,6 +214,7 @@ com.io7m.medrina:com.io7m.medrina.documentation
 com.io7m.medrina:com.io7m.medrina.parser.api
 com.io7m.medrina:com.io7m.medrina.tests
 com.io7m.medrina:com.io7m.medrina.vanilla
+com.io7m.mesquida:com.io7m.mesquida
 com.io7m.mime2045:com.io7m.mime2045
 com.io7m.mime2045:com.io7m.mime2045.core
 com.io7m.mime2045:com.io7m.mime2045.parser
