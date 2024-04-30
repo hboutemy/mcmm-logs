@@ -1770,9 +1770,11 @@ org.apache.maven.plugins:maven-checkstyle-plugin
 org.apache.maven.plugins:maven-clean-plugin
 org.apache.maven.plugins:maven-compiler-plugin
 org.apache.maven.plugins:maven-dependency-plugin
+org.apache.maven.plugins:maven-deploy-plugin
 org.apache.maven.plugins:maven-enforcer-plugin
 org.apache.maven.plugins:maven-failsafe-plugin
 org.apache.maven.plugins:maven-gpg-plugin
+org.apache.maven.plugins:maven-install-plugin
 org.apache.maven.plugins:maven-invoker-plugin
 org.apache.maven.plugins:maven-jar-plugin
 org.apache.maven.plugins:maven-javadoc-plugin
@@ -1798,12 +1800,15 @@ org.apache.maven.resolver:maven-resolver
 org.apache.maven.resolver:maven-resolver-ant-tasks
 org.apache.maven.resolver:maven-resolver-api
 org.apache.maven.resolver:maven-resolver-connector-basic
+org.apache.maven.resolver:maven-resolver-generator-gnupg
 org.apache.maven.resolver:maven-resolver-impl
 org.apache.maven.resolver:maven-resolver-named-locks
 org.apache.maven.resolver:maven-resolver-named-locks-hazelcast
 org.apache.maven.resolver:maven-resolver-named-locks-redisson
 org.apache.maven.resolver:maven-resolver-spi
 org.apache.maven.resolver:maven-resolver-supplier
+org.apache.maven.resolver:maven-resolver-supplier-mvn3
+org.apache.maven.resolver:maven-resolver-supplier-mvn4
 org.apache.maven.resolver:maven-resolver-test-http
 org.apache.maven.resolver:maven-resolver-test-util
 org.apache.maven.resolver:maven-resolver-transport-apache
