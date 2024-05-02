@@ -25,6 +25,7 @@ com.github.hazendaz.maven:whitespace-maven-plugin
 com.github.hazendaz.maven:yuicompressor-maven-plugin
 com.github.hazendaz.nodejs:node
 com.github.hazendaz.npp:npp
+com.github.hazendaz.putty:putty
 com.github.hazendaz.sf:sf
 com.github.hazendaz.tomcat:tomcat10-config
 com.github.hazendaz.tomcat:tomcat11-config
@@ -2996,6 +2997,7 @@ org.jreleaser:jreleaser-logger-api
 org.jreleaser:jreleaser-mastodon-java-sdk
 org.jreleaser:jreleaser-mattermost-java-sdk
 org.jreleaser:jreleaser-maven-plugin
+org.jreleaser:jreleaser-mavencentral-java-sdk
 org.jreleaser:jreleaser-model-api
 org.jreleaser:jreleaser-model-impl
 org.jreleaser:jreleaser-nexus2-java-sdk
