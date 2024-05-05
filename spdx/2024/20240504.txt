@@ -1,0 +1,2 @@
+org/opendaylight/odlparent/odlparent-sbom-13.1.2.spdx
+org/opendaylight/yangtools/yangtools-sbom-13.0.5.spdx

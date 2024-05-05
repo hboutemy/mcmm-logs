@@ -4050,6 +4050,7 @@ org.opendaylight.odlparent:bcprov-framework-ext
 org.opendaylight.odlparent:bcutil-framework-ext
 org.opendaylight.odlparent:bnd-parent
 org.opendaylight.odlparent:bundle-parent
+org.opendaylight.odlparent:bundles-diag
 org.opendaylight.odlparent:bundles-test-lib
 org.opendaylight.odlparent:bundles4-test
 org.opendaylight.odlparent:checkstyle
