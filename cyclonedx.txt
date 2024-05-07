@@ -2945,6 +2945,7 @@ org.glassfish.tyrus:tyrus-server
 org.glassfish.tyrus:tyrus-spi
 org.glassfish:jakarta.faces
 org.glassfish:mojarra-parent
+org.graylog2:graylog2-server
 org.janusgraph:cassandra-hadoop-util
 org.janusgraph:example-berkeleyje
 org.janusgraph:example-common

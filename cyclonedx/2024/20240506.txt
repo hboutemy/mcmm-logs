@@ -1,0 +1,4 @@
+org/apache/camel/kamelets/camel-kamelets-parent/4.4.2/camel-kamelets-parent-4.4.2-cyclonedx.xml
+org/apache/camel/kamelets/camel-kamelets-parent/4.4.2/camel-kamelets-parent-4.4.2-cyclonedx.json
+org/graylog2/graylog2-server/6.0.0/graylog2-server-6.0.0-cyclonedx.xml
+org/graylog2/graylog2-server/6.0.0/graylog2-server-6.0.0-cyclonedx.json
