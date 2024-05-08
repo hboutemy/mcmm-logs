@@ -202,9 +202,15 @@ com.io7m.jdeferthrow:com.io7m.jdeferthrow.tests
 com.io7m.jdownload:com.io7m.jdownload
 com.io7m.jdownload:com.io7m.jdownload.core
 com.io7m.jdownload:com.io7m.jdownload.tests
+com.io7m.jlexing:com.io7m.jlexing
+com.io7m.jlexing:com.io7m.jlexing.core
+com.io7m.jlexing:com.io7m.jlexing.tests
 com.io7m.jmulticlose:com.io7m.jmulticlose
 com.io7m.jmulticlose:com.io7m.jmulticlose.core
 com.io7m.jmulticlose:com.io7m.jmulticlose.tests
+com.io7m.jmutnum:com.io7m.jmutnum
+com.io7m.jmutnum:com.io7m.jmutnum.core
+com.io7m.jmutnum:com.io7m.jmutnum.tests
 com.io7m.jqpage:com.io7m.jqpage
 com.io7m.jqpage:com.io7m.jqpage.core
 com.io7m.jqpage:com.io7m.jqpage.tests
