@@ -260,6 +260,10 @@ com.io7m.jbssio:com.io7m.jbssio.ext.bounded
 com.io7m.jbssio:com.io7m.jbssio.tests
 com.io7m.jbssio:com.io7m.jbssio.vanilla
 com.io7m.jcip:com.io7m.jcip
+com.io7m.jcolorspace:com.io7m.jcolorspace
+com.io7m.jcolorspace:com.io7m.jcolorspace.core
+com.io7m.jcolorspace:com.io7m.jcolorspace.demo
+com.io7m.jcolorspace:com.io7m.jcolorspace.tests
 com.io7m.jcoords:com.io7m.jcoords
 com.io7m.jcoords:com.io7m.jcoords.core
 com.io7m.jcoords:com.io7m.jcoords.tests
@@ -281,6 +285,9 @@ com.io7m.jfsm:com.io7m.jfsm.tests
 com.io7m.jintegers:com.io7m.jintegers
 com.io7m.jintegers:com.io7m.jintegers.core
 com.io7m.jintegers:com.io7m.jintegers.tests
+com.io7m.jinterp:com.io7m.jinterp
+com.io7m.jinterp:com.io7m.jinterp.core
+com.io7m.jinterp:com.io7m.jinterp.tests
 com.io7m.jlexing:com.io7m.jlexing
 com.io7m.jlexing:com.io7m.jlexing.core
 com.io7m.jlexing:com.io7m.jlexing.tests
@@ -297,6 +304,10 @@ com.io7m.jobj:com.io7m.jobj.tools
 com.io7m.jodist:com.io7m.jodist
 com.io7m.jodist:com.io7m.jodist.core
 com.io7m.jodist:com.io7m.jodist.tests
+com.io7m.jorchard:com.io7m.jorchard
+com.io7m.jorchard:com.io7m.jorchard.core
+com.io7m.jorchard:com.io7m.jorchard.generators
+com.io7m.jorchard:com.io7m.jorchard.tests
 com.io7m.jpplib:com.io7m.jpplib
 com.io7m.jpplib:com.io7m.jpplib.core
 com.io7m.jpplib:com.io7m.jpplib.demo
@@ -403,6 +414,7 @@ com.io7m.scando:com.io7m.scando.tests
 com.io7m.seltzer:com.io7m.seltzer
 com.io7m.seltzer:com.io7m.seltzer.api
 com.io7m.seltzer:com.io7m.seltzer.tests
+com.io7m.stmp:string-template-maven-plugin
 com.io7m.streamtime:com.io7m.streamtime
 com.io7m.streamtime:com.io7m.streamtime.core
 com.io7m.streamtime:com.io7m.streamtime.tests
