@@ -322,6 +322,10 @@ com.io7m.jqpage:com.io7m.jqpage.tests
 com.io7m.jranges:com.io7m.jranges
 com.io7m.jranges:com.io7m.jranges.core
 com.io7m.jranges:com.io7m.jranges.tests
+com.io7m.jregions:com.io7m.jregions
+com.io7m.jregions:com.io7m.jregions.arbitraries
+com.io7m.jregions:com.io7m.jregions.core
+com.io7m.jregions:com.io7m.jregions.tests
 com.io7m.jsx:com.io7m.jsx
 com.io7m.jsx:com.io7m.jsx.cmdline
 com.io7m.jsx:com.io7m.jsx.core
