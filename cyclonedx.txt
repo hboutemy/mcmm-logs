@@ -466,6 +466,12 @@ com.io7m.verona:com.io7m.verona.tests
 com.io7m.wendover:com.io7m.wendover
 com.io7m.wendover:com.io7m.wendover.core
 com.io7m.wendover:com.io7m.wendover.tests
+com.io7m.xoanon:com.io7m.xoanon
+com.io7m.xoanon:com.io7m.xoanon.commander
+com.io7m.xoanon:com.io7m.xoanon.commander.api
+com.io7m.xoanon:com.io7m.xoanon.demo
+com.io7m.xoanon:com.io7m.xoanon.extension
+com.io7m.xoanon:com.io7m.xoanon.tests
 com.io7m.xstructural:com.io7m.xstructural
 com.io7m.xstructural:com.io7m.xstructural.api
 com.io7m.xstructural:com.io7m.xstructural.cmdline
