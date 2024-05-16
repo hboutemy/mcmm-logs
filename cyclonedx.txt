@@ -3752,6 +3752,7 @@ org.opendaylight.controller:odl-mdsal-clustering-commons
 org.opendaylight.controller:odl-mdsal-distributed-datastore
 org.opendaylight.controller:odl-mdsal-remoterpc-connector
 org.opendaylight.controller:odl-toaster
+org.opendaylight.controller:raft-journal
 org.opendaylight.controller:repackaged-akka
 org.opendaylight.controller:rpcbenchmark
 org.opendaylight.controller:sal-akka-raft
@@ -3797,6 +3798,7 @@ org.opendaylight.infrautils:diagstatus-impl
 org.opendaylight.infrautils:diagstatus-it
 org.opendaylight.infrautils:diagstatus-shell
 org.opendaylight.infrautils:diagstatus-web
+org.opendaylight.infrautils:feature-parent
 org.opendaylight.infrautils:features-infrautils
 org.opendaylight.infrautils:features-infrautils-experimental
 org.opendaylight.infrautils:features-infrautils-samples
