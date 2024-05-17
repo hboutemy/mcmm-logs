@@ -2017,6 +2017,7 @@ com.nkutsche -> xspec:xspec-maven-plugin = "XSpec Maven Plugin"
 com.nlocketz -> entry-point:entry-point-maven-plugin = "entry-point-maven-plugin"
 com.nlocketz.plugins -> repeater:plugin-repeater-maven-plugin = "plugin-repeater-maven-plugin Maven Plugin"
 com.nordea.oss -> copybook4java-codegen:copybook4java-codegen-maven-plugin = "copybook4java-codegen-maven-plugin Maven Mojo"
+com.noumenadigital.platform -> engine:engine-maven-plugin = 
 com.noumenadigital.platform -> npl:npl-maven-plugin = "${project.artifactId}"
 com.noumenadigital.platform -> nplpublic:npl-maven-plugin-public = "NPL Maven Plugin"
 com.nouveauxterritoires.maven -> wti:wti-maven-plugin = "wti-maven-plugin Maven Mojo"
