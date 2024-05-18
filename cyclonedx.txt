@@ -1832,6 +1832,7 @@ org.apache.hbase:hbase-compression-xz
 org.apache.hbase:hbase-compression-zstd
 org.apache.hbase:hbase-endpoint
 org.apache.hbase:hbase-examples
+org.apache.hbase:hbase-extensions
 org.apache.hbase:hbase-external-blockcache
 org.apache.hbase:hbase-hadoop-compat
 org.apache.hbase:hbase-hadoop2-compat
@@ -1842,6 +1843,7 @@ org.apache.hbase:hbase-logging
 org.apache.hbase:hbase-mapreduce
 org.apache.hbase:hbase-metrics
 org.apache.hbase:hbase-metrics-api
+org.apache.hbase:hbase-openssl
 org.apache.hbase:hbase-procedure
 org.apache.hbase:hbase-protocol
 org.apache.hbase:hbase-protocol-shaded
