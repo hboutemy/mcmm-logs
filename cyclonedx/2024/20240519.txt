@@ -1,0 +1,6 @@
+com/flowlogix/depchain/depchain/13/depchain-13-cyclonedx.json
+com/flowlogix/depchain/depchain/13/depchain-13-cyclonedx.xml
+com/flowlogix/depchain/integration-test/13/integration-test-13-cyclonedx.xml
+com/flowlogix/depchain/integration-test/13/integration-test-13-cyclonedx.json
+com/flowlogix/depchain/unit-test/13/unit-test-13-cyclonedx.json
+com/flowlogix/depchain/unit-test/13/unit-test-13-cyclonedx.xml
