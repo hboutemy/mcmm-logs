@@ -16,6 +16,14 @@ com.github.hazendaz.gpg4win:gpg4win
 com.github.hazendaz.gradle:gradle
 com.github.hazendaz.httpunit:httpunit
 com.github.hazendaz.jmeter:apache-jmeter
+com.github.hazendaz.jmockit:LoginService
+com.github.hazendaz.jmockit:coverage-tests
+com.github.hazendaz.jmockit:java8testing
+com.github.hazendaz.jmockit:jmockit
+com.github.hazendaz.jmockit:jmockit-parent
+com.github.hazendaz.jmockit:petclinic
+com.github.hazendaz.jmockit:samples
+com.github.hazendaz.jmockit:tutorial
 com.github.hazendaz.maven:coveralls-maven-plugin
 com.github.hazendaz.maven:directory-maven-plugin
 com.github.hazendaz.maven:htmlcompressor-maven-plugin
