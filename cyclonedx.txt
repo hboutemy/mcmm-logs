@@ -10,6 +10,7 @@ com.flowlogix:jakarta-ee
 com.flowlogix:jee-examples
 com.github.camel-tooling:camel-dap-server
 com.github.camel-tooling:camel-lsp-server
+com.github.hazendaz.7zip:7zip
 com.github.hazendaz.git:git-for-windows
 com.github.hazendaz.git:github-desktop
 com.github.hazendaz.gpg4win:gpg4win

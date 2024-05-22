@@ -6127,6 +6127,7 @@ org.openidentityplatform.commons.i18n-framework -> :maven-plugin = "${project.gr
 org.openidentityplatform.maven.plugins -> build-helper:build-helper-plugin = "OpenAM Build Helper Maven Plugin"
 org.openidentityplatform.opendj -> opendj-doc:opendj-doc-maven-plugin = "OpenDJ Doc Helper Maven Plugin"
 org.openidentityplatform.opendj -> opendj:opendj-maven-plugin = "OpenDJ Maven Plugin"
+org.openidentityplatform.openicf -> openicf:openicf-maven-plugin = "OpenICF Build Helper Plugin"
 org.openjax.codegen -> codegen:codegen-maven-plugin = "OpenJAX CodeGen Maven Plugin"
 org.openjax.geolite2 -> geolite2:geolite2-maven-plugin = "OpenJAX GeoLite2 Maven Plugin"
 org.openjax.jaxb -> jaxb:jaxb-maven-plugin = "OpenJAX JAXB Maven Plugin"
