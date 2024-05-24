@@ -1,3 +1,13 @@
+com.buschmais.jqassistant.cli:jqassistant-commandline-neo4jv4
+com.buschmais.jqassistant.cli:jqassistant-commandline-neo4jv5
+com.buschmais.jqassistant.plugin:common
+com.buschmais.jqassistant.plugin:java
+com.buschmais.jqassistant.plugin:json
+com.buschmais.jqassistant.plugin:junit
+com.buschmais.jqassistant.plugin:maven3
+com.buschmais.jqassistant.plugin:parent
+com.buschmais.jqassistant.plugin:xml
+com.buschmais.jqassistant.plugin:yaml2
 com.duosecurity:duo-client
 com.flowlogix.depchain:depchain
 com.flowlogix.depchain:integration-test
@@ -2774,6 +2784,7 @@ org.glassfish.jersey.ext:jersey-mvc-bean-validation
 org.glassfish.jersey.ext:jersey-mvc-freemarker
 org.glassfish.jersey.ext:jersey-mvc-jsp
 org.glassfish.jersey.ext:jersey-mvc-mustache
+org.glassfish.jersey.ext:jersey-mvc-thymeleaf
 org.glassfish.jersey.ext:jersey-proxy-client
 org.glassfish.jersey.ext:jersey-servlet-portability
 org.glassfish.jersey.ext:jersey-spring4

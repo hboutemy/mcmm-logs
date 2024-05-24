@@ -1,0 +1,2 @@
+commons-cli/commons-cli/1.8.0/commons-cli-1.8.0.spdx.json
+org/apache/commons/commons-compress/1.26.2/commons-compress-1.26.2.spdx.rdf.xml
