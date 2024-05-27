@@ -1,0 +1,1 @@
+org/opendaylight/transportpce/transportpce-sbom-9.1.0.spdx

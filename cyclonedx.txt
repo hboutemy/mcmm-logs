@@ -2159,7 +2159,9 @@ org.apache.maven:maven
 org.apache.maven:maven-api
 org.apache.maven:maven-api-core
 org.apache.maven:maven-api-di
+org.apache.maven:maven-api-impl
 org.apache.maven:maven-api-meta
+org.apache.maven:maven-api-metadata
 org.apache.maven:maven-api-model
 org.apache.maven:maven-api-plugin
 org.apache.maven:maven-api-settings
