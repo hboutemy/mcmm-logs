@@ -21,6 +21,9 @@ com.flowlogix:jee-examples
 com.github.camel-tooling:camel-dap-server
 com.github.camel-tooling:camel-lsp-server
 com.github.hazendaz.7zip:7zip
+com.github.hazendaz.catch-exception:catch-exception
+com.github.hazendaz.catch-exception:catch-exception-parent
+com.github.hazendaz.catch-exception:catch-throwable
 com.github.hazendaz.git:git-for-windows
 com.github.hazendaz.git:github-desktop
 com.github.hazendaz.gpg4win:gpg4win
@@ -211,6 +214,13 @@ com.io7m.ervilla:com.io7m.ervilla.tests
 com.io7m.genevan:com.io7m.genevan
 com.io7m.genevan:com.io7m.genevan.core
 com.io7m.genevan:com.io7m.genevan.tests
+com.io7m.gtyrell:com.io7m.gtyrell
+com.io7m.gtyrell:com.io7m.gtyrell.core
+com.io7m.gtyrell:com.io7m.gtyrell.filter
+com.io7m.gtyrell:com.io7m.gtyrell.github
+com.io7m.gtyrell:com.io7m.gtyrell.oci
+com.io7m.gtyrell:com.io7m.gtyrell.server
+com.io7m.gtyrell:com.io7m.gtyrell.tests
 com.io7m.hibiscus:com.io7m.hibiscus
 com.io7m.hibiscus:com.io7m.hibiscus.api
 com.io7m.hibiscus:com.io7m.hibiscus.examples
