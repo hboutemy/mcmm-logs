@@ -812,6 +812,15 @@ io.github.sebastian-toepfer.common:condition4j
 io.github.sebastian-toepfer.common:condition4j-api
 io.github.sebastian-toepfer.common:condition4j-core
 io.github.sebastian-toepfer.common:condition4j-json-p
+io.github.sebastian-toepfer.ddd:common
+io.github.sebastian-toepfer.ddd:domain-driven-desgin
+io.github.sebastian-toepfer.ddd:media-core
+io.github.sebastian-toepfer.ddd:media-json-api
+io.github.sebastian-toepfer.ddd:media-logging
+io.github.sebastian-toepfer.ddd:media-logging-slf4j
+io.github.sebastian-toepfer.ddd:media-message
+io.github.sebastian-toepfer.ddd:media-poi-spreadsheet
+io.github.sebastian-toepfer.ddd:printables-core
 io.github.sebastian-toepfer.json-schema:json-schema
 io.github.sebastian-toepfer.json-schema:json-schema-api
 io.github.sebastian-toepfer.json-schema:json-schema-core
