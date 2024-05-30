@@ -4244,6 +4244,7 @@ no.hassle.maven.plugins -> protoc-bundled:protoc-bundled-plugin = "protoc-bundle
 no.oms.maven -> pre-commit:pre-commit-maven-plugin = "pre-commit Maven Plugin"
 no.skatteetaten.aurora.maven.plugins -> aurora-cd:aurora-cd = "aurora-cd"
 no.sparebank1 -> turbo:turbo-maven-plugin = "turbo-maven-plugin Maven Mojo"
+no.vegvesen.nvdb.reststop -> reststop:reststop-maven-plugin = "reststop-maven-plugin"
 nu.aron -> nextversion:nextversion-maven-plugin = "${project.groupId}:${project.artifactId}"
 nu.jibe -> jibe-tools-erb:jibe-tools-erb-maven-plugin = "${project.groupId}:${project.artifactId}"
 nu.validator -> vnu:vnu-maven-plugin = "vnu-maven-plugin"

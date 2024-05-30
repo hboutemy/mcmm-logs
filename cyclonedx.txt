@@ -2142,6 +2142,7 @@ org.apache.maven.scm:maven-scm-providers-standard
 org.apache.maven.scm:maven-scm-providers-svn
 org.apache.maven.scm:maven-scm-test
 org.apache.maven.shared:maven-dependency-analyzer
+org.apache.maven.shared:maven-dependency-tree
 org.apache.maven.shared:maven-filtering
 org.apache.maven.shared:maven-invoker
 org.apache.maven.shared:maven-script-interpreter
@@ -3307,6 +3308,9 @@ org.jdbi:jdbi3-stringtemplate4
 org.jdbi:jdbi3-testcontainers
 org.jdbi:jdbi3-testing
 org.jdbi:jdbi3-vavr
+org.jqassistant.plugin:common-parent
+org.jqassistant.plugin:parent
+org.jqassistant.plugin:rules
 org.jreleaser:jdks-maven-plugin
 org.jreleaser:jreleaser
 org.jreleaser:jreleaser-ant-tasks
