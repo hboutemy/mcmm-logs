@@ -5400,6 +5400,7 @@ org.fiirs -> drools-knowledge-packager:drools-knowledge-packager = "Drools Knowl
 org.finos.legend.pure -> legend-purecompilation-par:legend-pure-maven-compilation-par = "Legend Pure - Maven - Plugin PAR"
 org.finos.legend.pure -> legend-puregeneration-java:legend-pure-maven-generation-java = "Legend Pure - Maven - Plugin Generation Java"
 org.finos.legend.pure -> legend-puregeneration-par:legend-pure-maven-generation-par = "Legend Pure - Maven - Plugin Generation PAR"
+org.finos.legend.pure -> legend-puregeneration-pct:legend-pure-maven-generation-pct = "Legend Pure - Maven - Plugin Generation PCT"
 org.finos.legend.pure -> legend-purejava-compiled:legend-pure-maven-java-compiled = "Legend Pure - Maven - Plugin Compiled JAR"
 org.finos.legend.sdlc -> legend-sdlc-entity:legend-sdlc-entity-maven-plugin = "Legend SDLC Entity Maven Plugin"
 org.finos.legend.sdlc -> legend-sdlc-generation-file:legend-sdlc-generation-file-maven-plugin = "Legend SDLC File Generation Maven Plugin"
