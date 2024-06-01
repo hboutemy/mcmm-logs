@@ -807,6 +807,7 @@ com.github.bringking -> less-compiler:maven-less-compiler = "Maven LESS Compiler
 com.github.bringking -> requirejs:requirejs-maven-plugin = "RequireJS Maven Plugin"
 com.github.brunoabdon.m2.herokuds -> herokuds:herokuds-maven-plugin = "HerokuDS Maven Plugin"
 com.github.buckelieg -> minify:minify-maven-plugin = "Minify Maven Plugin"
+com.github.cafapi.plugins.docker.versions -> docker-versions:docker-versions-maven-plugin = 
 com.github.cafaudit -> caf-audit:caf-audit-maven-plugin = 
 com.github.calmking -> smart-doc:smart-doc-maven-plugin = "smart-doc-maven-plugin"
 com.github.cameroncan -> cachemanifest:cachemanifest-maven-plugin = "Cache Manifest Generation Maven Plugin"

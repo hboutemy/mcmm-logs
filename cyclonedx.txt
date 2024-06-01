@@ -613,6 +613,7 @@ com.yahoo.athenz:athenz-instance-provider
 com.yahoo.athenz:athenz-msd-core
 com.yahoo.athenz:athenz-msd-java-client
 com.yahoo.athenz:athenz-server-common
+com.yahoo.athenz:athenz-server-k8s-common
 com.yahoo.athenz:athenz-syncer-common
 com.yahoo.athenz:athenz-zms-core
 com.yahoo.athenz:athenz-zms-java-client
