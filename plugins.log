@@ -4899,6 +4899,7 @@ org.camunda.bpm.extension.springboot.maven -> camunda-bpm-spring-boot-webjar:cam
 org.camunda.bpm.extension.swagger.maven -> camunda-bpm-swagger:camunda-bpm-swagger-maven-plugin = "Camunda Swagger Model Generator Maven Plugin"
 org.camunda.bpm.extension.swagger.maven -> camunda-bpm-swaggerrest-docs:camunda-bpm-swagger-plugin-rest-docs = "Camunda Swagger Docs Extractor Maven Plugin"
 org.camunda.bpm.extension.swagger.maven -> camunda-bpm-swaggerspoon:camunda-bpm-swagger-plugin-spoon = "Camunda Swagger Spoon Maven Plugin"
+org.camunda.community -> bpmn-driven-testing-8:bpmn-driven-testing-8-maven-plugin = 
 org.camunda.community -> bpmn-driven-testing:bpmn-driven-testing-maven-plugin = 
 org.camunda.community.process_test_coverage -> camunda-process-test-coverage-report-aggregator:camunda-process-test-coverage-report-aggregator-maven-plugin = "Camunda Process Test Coverage Report Aggregator Maven Plugin"
 org.camunda.community.template.generator -> template-generator:template-generator-maven-plugin = "${project.groupId}:${project.artifactId}"
