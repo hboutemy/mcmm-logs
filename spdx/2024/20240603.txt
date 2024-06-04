@@ -1,0 +1,9 @@
+org/apache/commons/commons-jcs3-core/3.2.1/commons-jcs3-core-3.2.1.spdx.json
+org/apache/commons/commons-jcs3-jcache-extras/3.2.1/commons-jcs3-jcache-extras-3.2.1.spdx.json
+org/apache/commons/commons-jcs3-jcache-openjpa/3.2.1/commons-jcs3-jcache-openjpa-3.2.1.spdx.json
+org/apache/commons/commons-jcs3-jcache-tck/3.2.1/commons-jcs3-jcache-tck-3.2.1.spdx.json
+org/apache/commons/commons-jcs3-jcache/3.2.1/commons-jcs3-jcache-3.2.1.spdx.json
+org/apache/commons/commons-jcs3/3.2.1/commons-jcs3-3.2.1.spdx.json
+org/opendaylight/mdsal/mdsal-sbom-13.0.4.spdx
+org/opendaylight/yangtools/yangtools-sbom-13.0.6.spdx
+org/opendaylight/yangtools/yangtools-sbom-11.0.7.spdx

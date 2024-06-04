@@ -12,6 +12,7 @@ com.duosecurity:duo-client
 com.flowlogix.depchain:depchain
 com.flowlogix.depchain:integration-test
 com.flowlogix.depchain:unit-test
+com.flowlogix:faces-affinity
 com.flowlogix:flowlogix
 com.flowlogix:flowlogix-bom
 com.flowlogix:flowlogix-datamodel
@@ -2391,6 +2392,7 @@ org.apache.spark:spark-network-yarn_2.12
 org.apache.spark:spark-network-yarn_2.13
 org.apache.spark:spark-parent_2.12
 org.apache.spark:spark-parent_2.13
+org.apache.spark:spark-profiler_2.13
 org.apache.spark:spark-protobuf_2.12
 org.apache.spark:spark-protobuf_2.13
 org.apache.spark:spark-repl_2.12
@@ -2417,6 +2419,7 @@ org.apache.spark:spark-token-provider-kafka-0-10_2.12
 org.apache.spark:spark-token-provider-kafka-0-10_2.13
 org.apache.spark:spark-unsafe_2.12
 org.apache.spark:spark-unsafe_2.13
+org.apache.spark:spark-variant_2.13
 org.apache.spark:spark-yarn_2.12
 org.apache.spark:spark-yarn_2.13
 org.apache.syncope.client.am:syncope-client-am-console
@@ -4732,6 +4735,7 @@ org.opendaylight.yangtools:benchmarks
 org.opendaylight.yangtools:bnd-parent
 org.opendaylight.yangtools:bundle-parent
 org.opendaylight.yangtools:concepts
+org.opendaylight.yangtools:feature-parent
 org.opendaylight.yangtools:features-yangtools
 org.opendaylight.yangtools:features-yangtools-experimental
 org.opendaylight.yangtools:mockito-configuration
