@@ -938,6 +938,18 @@ io.smallrye.reactive:smallrye-mutiny-vertx-web-validation
 io.smallrye.reactive:vertx-mutiny-clients
 io.smallrye.reactive:vertx-mutiny-clients-bom
 io.smallrye.reactive:vertx-mutiny-generator
+io.telicent.public:jwt-servlet-auth-aws
+io.telicent.public:jwt-servlet-auth-common-integration-tests
+io.telicent.public:jwt-servlet-auth-core
+io.telicent.public:jwt-servlet-auth-integration-tests
+io.telicent.public:jwt-servlet-auth-integration-tests-report
+io.telicent.public:jwt-servlet-auth-jaxrs3
+io.telicent.public:jwt-servlet-auth-jaxrs3-integration-tests
+io.telicent.public:jwt-servlet-auth-parent
+io.telicent.public:jwt-servlet-auth-servlet3
+io.telicent.public:jwt-servlet-auth-servlet3-integration-tests
+io.telicent.public:jwt-servlet-auth-servlet5
+io.telicent.public:jwt-servlet-auth-servlet5-integration-tests
 jakarta.activation:jakarta.activation-api
 jakarta.annotation:jakarta.annotation-api
 jakarta.authentication:jakarta.authentication-api
@@ -2167,6 +2179,7 @@ org.apache.maven.shared:maven-filtering
 org.apache.maven.shared:maven-invoker
 org.apache.maven.shared:maven-script-interpreter
 org.apache.maven.shared:maven-shared-components
+org.apache.maven.shared:maven-shared-jar
 org.apache.maven.skins:maven-fluido-skin
 org.apache.maven.skins:maven-skins
 org.apache.maven.surefire:common-java5
