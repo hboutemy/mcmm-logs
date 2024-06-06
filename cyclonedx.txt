@@ -2104,6 +2104,7 @@ org.apache.maven.plugins:maven-deploy-plugin
 org.apache.maven.plugins:maven-enforcer-plugin
 org.apache.maven.plugins:maven-failsafe-plugin
 org.apache.maven.plugins:maven-gpg-plugin
+org.apache.maven.plugins:maven-help-plugin
 org.apache.maven.plugins:maven-install-plugin
 org.apache.maven.plugins:maven-invoker-plugin
 org.apache.maven.plugins:maven-jar-plugin
@@ -3433,6 +3434,7 @@ org.jdbi:jdbi3-testcontainers
 org.jdbi:jdbi3-testing
 org.jdbi:jdbi3-vavr
 org.jqassistant.plugin:common-parent
+org.jqassistant.plugin:jqassistant-asyncapi-plugin
 org.jqassistant.plugin:parent
 org.jqassistant.plugin:rules
 org.jreleaser:jdks-maven-plugin
@@ -3487,6 +3489,7 @@ org.jreleaser:jreleaser-twitter-java-sdk
 org.jreleaser:jreleaser-utils
 org.jreleaser:jreleaser-webhooks-java-sdk
 org.jreleaser:jreleaser-zulip-java-sdk
+org.kordamp.ezmorph:ezmorph-core
 org.locationtech.geomesa:docs
 org.locationtech.geomesa:geomesa-accumulo-datastore_2.12
 org.locationtech.geomesa:geomesa-accumulo-datastore_2.13
