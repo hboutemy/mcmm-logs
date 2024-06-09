@@ -20,3 +20,6 @@ do
 done
 
 find sboms -type f | cut -c 7- | grep -v '.txt$' | xargs dirname | sort -u | xargs dirname | sort | uniq -c > sboms/ga.txt
+find sboms -type f | cut -c 7- | grep 'cyclonedx.json$' | xargs dirname | sort -u | xargs dirname | sort | uniq -c > sboms/ga-cyclonedx.json.txt
+find sboms -type f | cut -c 7- | grep 'cyclonedx.xml$' | xargs dirname | sort -u | xargs dirname | sort | uniq -c > sboms/ga-cyclonedx.xml.txt
+find sboms -type f | cut -c 7- | grep '.spdx.json$' | xargs dirname | sort -u | xargs dirname | sort | uniq -c > sboms/ga.spdx.json.txt
