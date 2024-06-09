@@ -18,3 +18,5 @@ do
     download $f
   done
 done
+
+find sboms -type f | cut -c 7- | grep -v '.txt$' | xargs dirname | sort -u | xargs dirname | sort | uniq -c > sboms/ga.txt
