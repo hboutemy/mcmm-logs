@@ -2,7 +2,7 @@
 
 download() {
   f=$1
-  echo $f $(wc -l < $f)
+  echo $f $(cat $f | wc -l)
   for path in `cat $f`
   do
     target=sboms/$path
@@ -13,7 +13,7 @@ download() {
 
 for format in cyclonedx spdx
 do
-  for f in $format/*/*.txt
+  for f in $format/*/$1*.txt
   do
     download $f
   done
