@@ -1,0 +1,4 @@
+com/github/mwiede/jsch/0.2.18/jsch-0.2.18-cyclonedx.xml
+com/github/mwiede/jsch/0.2.18/jsch-0.2.18-cyclonedx.json
+org/apache/maven/shared/maven-common-artifact-filters/3.4.0/maven-common-artifact-filters-3.4.0-cyclonedx.xml
+org/apache/maven/shared/maven-common-artifact-filters/3.4.0/maven-common-artifact-filters-3.4.0-cyclonedx.json
