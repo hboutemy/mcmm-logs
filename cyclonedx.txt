@@ -938,6 +938,11 @@ io.smallrye.reactive:smallrye-mutiny-vertx-web-validation
 io.smallrye.reactive:vertx-mutiny-clients
 io.smallrye.reactive:vertx-mutiny-clients-bom
 io.smallrye.reactive:vertx-mutiny-generator
+io.telicent.jena:jena-fmod-kafka
+io.telicent.jena:jena-fuseki-kafka-module
+io.telicent.jena:jena-kafka
+io.telicent.jena:jena-kafka-client
+io.telicent.jena:jena-kafka-connector
 io.telicent.jena:rdf-abac
 io.telicent.jena:rdf-abac-core
 io.telicent.jena:rdf-abac-eval
