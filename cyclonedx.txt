@@ -938,6 +938,10 @@ io.smallrye.reactive:smallrye-mutiny-vertx-web-validation
 io.smallrye.reactive:vertx-mutiny-clients
 io.smallrye.reactive:vertx-mutiny-clients-bom
 io.smallrye.reactive:vertx-mutiny-generator
+io.telicent.jena:rdf-abac
+io.telicent.jena:rdf-abac-core
+io.telicent.jena:rdf-abac-eval
+io.telicent.jena:rdf-abac-fuseki
 io.telicent.public:jwt-servlet-auth-aws
 io.telicent.public:jwt-servlet-auth-common-integration-tests
 io.telicent.public:jwt-servlet-auth-core
@@ -975,6 +979,7 @@ jakarta.data:jakarta.data-spec
 jakarta.data:jakarta.data-tck
 jakarta.data:jakarta.data-tck-dist
 jakarta.el:jakarta.el-api
+jakarta.enterprise.concurrent:concurrency-spec
 jakarta.enterprise.concurrent:jakarta.enterprise.concurrent-api
 jakarta.enterprise.concurrent:jakarta.enterprise.concurrent-tck
 jakarta.enterprise.concurrent:jakarta.enterprise.concurrent-tck-dist

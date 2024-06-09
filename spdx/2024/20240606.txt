@@ -1,0 +1,7 @@
+org/apache/commons/commons-jexl3/3.4.0/commons-jexl3-3.4.0.spdx.json
+org/jetbrains/kotlinx/kotlinx-metadata-klib/0.0.6/kotlinx-metadata-klib-0.0.6.spdx.json
+org/opendaylight/aaa/aaa-sbom-0.19.5.spdx
+org/opendaylight/aaa/aaa-sbom-0.18.6.spdx
+org/opendaylight/bgpcep/bgpcep-sbom-0.21.6.spdx
+org/opendaylight/controller/controller-sbom-9.0.4.spdx
+org/opendaylight/netconf/netconf-sbom-7.0.6.spdx
