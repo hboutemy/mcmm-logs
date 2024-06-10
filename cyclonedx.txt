@@ -738,6 +738,7 @@ io.dropwizard.metrics5:metrics-log4j2
 io.dropwizard.metrics5:metrics-logback
 io.dropwizard.metrics5:metrics-logback13
 io.dropwizard.metrics5:metrics-logback14
+io.dropwizard.metrics5:metrics-logback15
 io.dropwizard.metrics5:metrics-parent
 io.dropwizard.metrics5:metrics-servlet
 io.dropwizard.metrics5:metrics-servlets
@@ -777,6 +778,7 @@ io.dropwizard.metrics:metrics-log4j2
 io.dropwizard.metrics:metrics-logback
 io.dropwizard.metrics:metrics-logback13
 io.dropwizard.metrics:metrics-logback14
+io.dropwizard.metrics:metrics-logback15
 io.dropwizard.metrics:metrics-parent
 io.dropwizard.metrics:metrics-servlet
 io.dropwizard.metrics:metrics-servlets
