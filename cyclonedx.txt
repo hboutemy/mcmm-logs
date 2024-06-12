@@ -2194,6 +2194,7 @@ org.apache.maven.shared:maven-invoker
 org.apache.maven.shared:maven-script-interpreter
 org.apache.maven.shared:maven-shared-components
 org.apache.maven.shared:maven-shared-jar
+org.apache.maven.shared:maven-shared-resources
 org.apache.maven.skins:maven-fluido-skin
 org.apache.maven.skins:maven-skins
 org.apache.maven.surefire:common-java5
@@ -2611,6 +2612,11 @@ org.eclipse.angus:providers
 org.eclipse.angus:smtp
 org.eclipse.ee4j:project
 org.eclipse.jetty:jetty-home
+org.eclipse.microprofile.openapi:microprofile-openapi-api
+org.eclipse.microprofile.openapi:microprofile-openapi-parent
+org.eclipse.microprofile.openapi:microprofile-openapi-spec
+org.eclipse.microprofile.openapi:microprofile-openapi-spi
+org.eclipse.microprofile.openapi:microprofile-openapi-tck
 org.eclipse.microprofile:microprofile-parent
 org.eclipse.microprofile:microprofile-tck-bom
 org.eclipse.parsson:jakarta.json
