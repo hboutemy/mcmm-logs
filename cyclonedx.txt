@@ -944,6 +944,11 @@ io.smallrye.reactive:smallrye-mutiny-vertx-web-validation
 io.smallrye.reactive:vertx-mutiny-clients
 io.smallrye.reactive:vertx-mutiny-clients-bom
 io.smallrye.reactive:vertx-mutiny-generator
+io.telicent.jena.graphql:graphql-fuseki-module
+io.telicent.jena.graphql:graphql-jena-core
+io.telicent.jena.graphql:graphql-server
+io.telicent.jena.graphql:parent
+io.telicent.jena.graphql:telicent-graph-schema
 io.telicent.jena:jena-fmod-kafka
 io.telicent.jena:jena-fuseki-kafka-module
 io.telicent.jena:jena-kafka
@@ -1542,6 +1547,7 @@ org.apache.druid.extensions.contrib:druid-kubernetes-overlord-extensions
 org.apache.druid.extensions.contrib:druid-momentsketch
 org.apache.druid.extensions.contrib:druid-moving-average-query
 org.apache.druid.extensions.contrib:druid-opentsdb-emitter
+org.apache.druid.extensions.contrib:druid-rabbit-indexing-service
 org.apache.druid.extensions.contrib:druid-redis-cache
 org.apache.druid.extensions.contrib:druid-spectator-histogram
 org.apache.druid.extensions.contrib:druid-tdigestsketch
