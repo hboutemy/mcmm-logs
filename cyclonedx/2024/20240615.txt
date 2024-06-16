@@ -1,0 +1,8 @@
+com/github/hazendaz/nodejs/node/v18.18.2/node-v18.18.2-cyclonedx.xml
+com/github/hazendaz/nodejs/node/v18.18.2/node-v18.18.2-cyclonedx.json
+com/github/hazendaz/nodejs/node/v18.20.3/node-v18.20.3-cyclonedx.json
+com/github/hazendaz/nodejs/node/v18.20.3/node-v18.20.3-cyclonedx.xml
+com/github/hazendaz/nodejs/node/v20.14.0/node-v20.14.0-cyclonedx.json
+com/github/hazendaz/nodejs/node/v20.14.0/node-v20.14.0-cyclonedx.xml
+com/github/hazendaz/nodejs/node/v22.3.0/node-v22.3.0-cyclonedx.json
+com/github/hazendaz/nodejs/node/v22.3.0/node-v22.3.0-cyclonedx.xml
