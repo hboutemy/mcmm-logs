@@ -985,6 +985,7 @@ io.telicent.smart-caches:observability-core
 io.telicent.smart-caches:parent
 io.telicent.smart-caches:projector-driver
 io.telicent.smart-caches:projectors-core
+io.vertx:vertx5-parent
 jakarta.activation:jakarta.activation-api
 jakarta.annotation:jakarta.annotation-api
 jakarta.authentication:jakarta.authentication-api
@@ -2153,6 +2154,7 @@ org.apache.maven.plugins:maven-plugin-report-plugin
 org.apache.maven.plugins:maven-plugins
 org.apache.maven.plugins:maven-pmd-plugin
 org.apache.maven.plugins:maven-project-info-reports-plugin
+org.apache.maven.plugins:maven-release-plugin
 org.apache.maven.plugins:maven-remote-resources-plugin
 org.apache.maven.plugins:maven-scm-plugin
 org.apache.maven.plugins:maven-shade-plugin
@@ -2161,6 +2163,11 @@ org.apache.maven.plugins:maven-surefire-plugin
 org.apache.maven.plugins:maven-surefire-report-plugin
 org.apache.maven.plugins:maven-toolchains-plugin
 org.apache.maven.plugins:maven-wrapper-plugin
+org.apache.maven.release:maven-release
+org.apache.maven.release:maven-release-api
+org.apache.maven.release:maven-release-manager
+org.apache.maven.release:maven-release-oddeven-policy
+org.apache.maven.release:maven-release-semver-policy
 org.apache.maven.reporting:maven-reporting-api
 org.apache.maven.reporting:maven-reporting-exec
 org.apache.maven.reporting:maven-reporting-impl
