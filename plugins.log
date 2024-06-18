@@ -3771,6 +3771,7 @@ io.zeebe -> zb-githooks:zb-githooks-plugin = "Zeebe Git Hooks Maven Plugin"
 io.zerocopy.maven.plugins -> resources:resources-maven-plugin = 
 io.zipkin.centralsync-maven-plugin -> centralsync:centralsync-maven-plugin = "Central Sync Maven Plugin"
 io.zipkin.java -> centralsync:centralsync-maven-plugin = "Central Sync Maven Plugin"
+ir.moke.jpkg -> jpkg:maven-jpkg = "JOS maven jpkg plugin"
 ir.moke.yaja -> yaja:maven-yaja = "JOS maven yaja plugin"
 is.rebbi -> vermilingua:vermilingua-maven-plugin = "vermilingua-maven-plugin"
 it.anyplace.web -> a-web:a-web-maven-plugin = "a-web-maven-plugin"

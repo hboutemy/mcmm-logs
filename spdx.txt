@@ -13,6 +13,7 @@ commons-net:commons-net
 commons-validator:commons-validator
 de.knightsoft-net:gwt-commons-codec
 de.knightsoft-net:gwt-commons-lang3
+io.opentelemetry.javaagent:opentelemetry-javaagent
 org.apache.bcel:bcel
 org.apache.commons:commons-build-plugin
 org.apache.commons:commons-collections4
