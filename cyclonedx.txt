@@ -990,6 +990,7 @@ io.telicent.smart-caches:observability-core
 io.telicent.smart-caches:parent
 io.telicent.smart-caches:projector-driver
 io.telicent.smart-caches:projectors-core
+io.telicent:rdf-abac-evaluator
 io.vertx:vertx5-parent
 jakarta.activation:jakarta.activation-api
 jakarta.annotation:jakarta.annotation-api
