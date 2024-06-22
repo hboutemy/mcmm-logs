@@ -981,6 +981,15 @@ io.telicent.public:jwt-servlet-auth-servlet3
 io.telicent.public:jwt-servlet-auth-servlet3-integration-tests
 io.telicent.public:jwt-servlet-auth-servlet5
 io.telicent.public:jwt-servlet-auth-servlet5-integration-tests
+io.telicent.smart-caches.entity-resolution:cli-canonical-index
+io.telicent.smart-caches.entity-resolution:entity-collector
+io.telicent.smart-caches.entity-resolution:entity-resolver-api
+io.telicent.smart-caches.entity-resolution:entity-resolver-api-server
+io.telicent.smart-caches.entity-resolution:entity-resolver-configurations
+io.telicent.smart-caches.entity-resolution:entity-resolver-elastic
+io.telicent.smart-caches.entity-resolution:ies-entity-resolver-configuration
+io.telicent.smart-caches.entity-resolution:parent
+io.telicent.smart-caches.entity-resolution:test-clusters
 io.telicent.smart-caches:cli
 io.telicent.smart-caches:cli-core
 io.telicent.smart-caches:cli-debug
