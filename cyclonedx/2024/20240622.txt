@@ -1,0 +1,12 @@
+com/io7m/pallene/com.io7m.pallene/1.0.0/com.io7m.pallene-1.0.0-cyclonedx.xml
+com/io7m/sigiltron/sigiltron/2.0.0/sigiltron-2.0.0-cyclonedx.xml
+io/github/sebastian-toepfer/json-schema/json-schema-api/0.3.0/json-schema-api-0.3.0-cyclonedx.json
+io/github/sebastian-toepfer/json-schema/json-schema-api/0.3.0/json-schema-api-0.3.0-cyclonedx.xml
+io/github/sebastian-toepfer/json-schema/json-schema-core/0.3.0/json-schema-core-0.3.0-cyclonedx.xml
+io/github/sebastian-toepfer/json-schema/json-schema-core/0.3.0/json-schema-core-0.3.0-cyclonedx.json
+io/github/sebastian-toepfer/json-schema/json-schema-vocabulary-spi/0.3.0/json-schema-vocabulary-spi-0.3.0-cyclonedx.json
+io/github/sebastian-toepfer/json-schema/json-schema-vocabulary-spi/0.3.0/json-schema-vocabulary-spi-0.3.0-cyclonedx.xml
+io/github/sebastian-toepfer/json-schema/json-schema/0.3.0/json-schema-0.3.0-cyclonedx.json
+io/github/sebastian-toepfer/json-schema/json-schema/0.3.0/json-schema-0.3.0-cyclonedx.xml
+io/github/sebastian-toepfer/oss/oss-parent/0.9.1/oss-parent-0.9.1-cyclonedx.xml
+io/github/sebastian-toepfer/oss/oss-parent/0.9.1/oss-parent-0.9.1-cyclonedx.json

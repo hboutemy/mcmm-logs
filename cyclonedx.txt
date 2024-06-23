@@ -484,6 +484,7 @@ com.io7m.minisite:com.io7m.minisite.core
 com.io7m.minisite:com.io7m.minisite.documentation
 com.io7m.minisite:com.io7m.minisite.maven_plugin
 com.io7m.minisite:com.io7m.minisite.tests
+com.io7m.pallene:com.io7m.pallene
 com.io7m.percentpass:com.io7m.percentpass
 com.io7m.percentpass:com.io7m.percentpass.extension
 com.io7m.percentpass:com.io7m.percentpass.tests
@@ -514,6 +515,7 @@ com.io7m.scando:com.io7m.scando.tests
 com.io7m.seltzer:com.io7m.seltzer
 com.io7m.seltzer:com.io7m.seltzer.api
 com.io7m.seltzer:com.io7m.seltzer.tests
+com.io7m.sigiltron:sigiltron
 com.io7m.stmp:string-template-maven-plugin
 com.io7m.streamtime:com.io7m.streamtime
 com.io7m.streamtime:com.io7m.streamtime.core
