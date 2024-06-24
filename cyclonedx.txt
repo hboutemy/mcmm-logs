@@ -226,6 +226,11 @@ com.io7m.ervilla:com.io7m.ervilla.native_exec
 com.io7m.ervilla:com.io7m.ervilla.postgres
 com.io7m.ervilla:com.io7m.ervilla.test_extension
 com.io7m.ervilla:com.io7m.ervilla.tests
+com.io7m.ethermaker:com.io7m.ethermaker
+com.io7m.ethermaker:com.io7m.ethermaker.cmdline
+com.io7m.ethermaker:com.io7m.ethermaker.core
+com.io7m.ethermaker:com.io7m.ethermaker.tests
+com.io7m.flail:com.io7m.flail
 com.io7m.garriga:com.io7m.garriga
 com.io7m.garriga:com.io7m.garriga.main
 com.io7m.garriga:com.io7m.garriga.oci
@@ -391,6 +396,7 @@ com.io7m.jsamplebuffer:com.io7m.jsamplebuffer.api
 com.io7m.jsamplebuffer:com.io7m.jsamplebuffer.tests
 com.io7m.jsamplebuffer:com.io7m.jsamplebuffer.vanilla
 com.io7m.jsamplebuffer:com.io7m.jsamplebuffer.xmedia
+com.io7m.jsay:com.io7m.jsay
 com.io7m.jserial:com.io7m.jserial
 com.io7m.jserial:com.io7m.jserial.core
 com.io7m.jserial:com.io7m.jserial.tests

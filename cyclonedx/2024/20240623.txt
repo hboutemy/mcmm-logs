@@ -1,0 +1,10 @@
+com/io7m/ethermaker/com.io7m.ethermaker.cmdline/1.0.1/com.io7m.ethermaker.cmdline-1.0.1-cyclonedx.xml
+com/io7m/ethermaker/com.io7m.ethermaker.core/1.0.1/com.io7m.ethermaker.core-1.0.1-cyclonedx.xml
+com/io7m/ethermaker/com.io7m.ethermaker.tests/1.0.1/com.io7m.ethermaker.tests-1.0.1-cyclonedx.xml
+com/io7m/ethermaker/com.io7m.ethermaker/1.0.1/com.io7m.ethermaker-1.0.1-cyclonedx.xml
+com/io7m/flail/com.io7m.flail/1.0.0/com.io7m.flail-1.0.0-cyclonedx.xml
+com/io7m/jsay/com.io7m.jsay/1.0.0/com.io7m.jsay-1.0.0-cyclonedx.xml
+org/apache/camel/quarkus/camel-quarkus/3.12.0/camel-quarkus-3.12.0-cyclonedx.json
+org/apache/camel/quarkus/camel-quarkus/3.12.0/camel-quarkus-3.12.0-cyclonedx.xml
+org/apache/maven/shared/maven-shared-jar/3.1.1/maven-shared-jar-3.1.1-cyclonedx.json
+org/apache/maven/shared/maven-shared-jar/3.1.1/maven-shared-jar-3.1.1-cyclonedx.xml
