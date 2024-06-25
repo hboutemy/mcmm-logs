@@ -656,6 +656,7 @@ com.yahoo.athenz:athenz-zms-java-client
 com.yahoo.athenz:athenz-zpe-java-client
 com.yahoo.athenz:athenz-zts-core
 com.yahoo.athenz:athenz-zts-java-client
+com.yookue.forkextension.apache:commons-beanutils2
 commons-cli:commons-cli
 commons-codec:commons-codec
 commons-daemon:commons-daemon

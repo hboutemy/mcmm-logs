@@ -2,6 +2,7 @@ com.hack23.cia:cia-dist-deb
 com.hack23.cia:citizen-intelligence-agency
 com.hack23.sonar:sonar-cloudformation-plugin
 com.xenoamess.fork.org.apache.commons:commons-compress
+com.yookue.forkextension.apache:commons-beanutils2
 commons-cli:commons-cli
 commons-codec:commons-codec
 commons-daemon:commons-daemon
