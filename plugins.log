@@ -3459,6 +3459,7 @@ io.github.wimdeblauwe -> jpearl:jpearl-maven-plugin = "JPearl Maven Plugin"
 io.github.wistefan -> gatling-aggregation:gatling-aggregation-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.wiverson -> jtoolprovider:jtoolprovider-plugin = "${project.artifactId}"
 io.github.wolfetti -> zip:zip-maven-plugin = "Wolfetti::Zip Maven Plugin"
+io.github.wqr503 -> enum-export:enum-export-plugin = 
 io.github.wuba -> wsilk:wsilk-maven-plugin = 
 io.github.wwwlike -> vlife:vlife-plugin = 
 io.github.xdamah -> xdamahcodegen:xdamah-maven-codegen-plugin = 

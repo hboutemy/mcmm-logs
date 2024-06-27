@@ -596,6 +596,10 @@ com.io7m.zeptoblog:com.io7m.zeptoblog.core
 com.io7m.zeptoblog:com.io7m.zeptoblog.glossary
 com.io7m.zeptoblog:com.io7m.zeptoblog.tests
 com.ongres.pgconfig:pgconfig-validator
+com.ongres.scram:scram-aggregator
+com.ongres.scram:scram-client
+com.ongres.scram:scram-common
+com.ongres.scram:scram-parent
 com.ongres.stringprep:nameprep
 com.ongres.stringprep:saslprep
 com.ongres.stringprep:stringprep
