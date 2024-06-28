@@ -24,6 +24,12 @@ org.apache.commons:commons-crypto
 org.apache.commons:commons-csv
 org.apache.commons:commons-dbcp2
 org.apache.commons:commons-email
+org.apache.commons:commons-email2-bom
+org.apache.commons:commons-email2-core
+org.apache.commons:commons-email2-distribution
+org.apache.commons:commons-email2-jakarta
+org.apache.commons:commons-email2-javax
+org.apache.commons:commons-email2-parent
 org.apache.commons:commons-exec
 org.apache.commons:commons-fileupload2
 org.apache.commons:commons-fileupload2-core

@@ -1301,6 +1301,12 @@ org.apache.commons:commons-crypto
 org.apache.commons:commons-csv
 org.apache.commons:commons-dbcp2
 org.apache.commons:commons-email
+org.apache.commons:commons-email2-bom
+org.apache.commons:commons-email2-core
+org.apache.commons:commons-email2-distribution
+org.apache.commons:commons-email2-jakarta
+org.apache.commons:commons-email2-javax
+org.apache.commons:commons-email2-parent
 org.apache.commons:commons-exec
 org.apache.commons:commons-fileupload2
 org.apache.commons:commons-fileupload2-core
@@ -2731,6 +2737,12 @@ org.eclipse.microprofile.rest.client:microprofile-rest-client-api
 org.eclipse.microprofile.rest.client:microprofile-rest-client-parent
 org.eclipse.microprofile.rest.client:microprofile-rest-client-spec
 org.eclipse.microprofile.rest.client:microprofile-rest-client-tck
+org.eclipse.microprofile.telemetry:microprofile-telemetry-logs-tck
+org.eclipse.microprofile.telemetry:microprofile-telemetry-metrics-tck
+org.eclipse.microprofile.telemetry:microprofile-telemetry-parent
+org.eclipse.microprofile.telemetry:microprofile-telemetry-spec
+org.eclipse.microprofile.telemetry:microprofile-telemetry-tck-parent
+org.eclipse.microprofile.telemetry:microprofile-telemetry-tracing-tck
 org.eclipse.microprofile:microprofile-parent
 org.eclipse.microprofile:microprofile-tck-bom
 org.eclipse.parsson:jakarta.json
