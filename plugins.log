@@ -6051,6 +6051,7 @@ org.nanoko.playframework -> play2:play2-maven-plugin = "OW2 Nanoko ~ play2-maven
 org.nasdanika.architecture -> site-generator:site-generator-maven-plugin = "Architecture Site Generator Maven Plugin"
 org.nasdanika.html -> site-generator:site-generator-maven-plugin = "Site Generator Maven Plugin"
 org.nd4j -> nd4j-jocl-1.9:nd4j-jocl-1.9 = "nd4j-jocl-1.9 Maven Mojo"
+org.neo4j -> antlr-parser-listener:antlr-parser-listener-maven-plugin = "Cypher ANTLR4 Parser Listener Generator Plugin"
 org.neo4j -> neo4j-cypher-antlr-parser-listener:neo4j-cypher-antlr-parser-listener-maven-plugin = "Neo4j - Cypher ANTLR4 parser plugin"
 org.neo4j -> neo4j-graphql-augmented-schema-generator:neo4j-graphql-augmented-schema-generator-maven-plugin = "Neo4j GraphQL augmented schema generator Maven Plugin"
 org.neo4j -> scalastyle:scalastyle-maven-plugin = "Scalastyle Maven Plugin"
