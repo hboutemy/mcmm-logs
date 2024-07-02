@@ -2270,10 +2270,12 @@ org.apache.maven.plugins:maven-pmd-plugin
 org.apache.maven.plugins:maven-project-info-reports-plugin
 org.apache.maven.plugins:maven-release-plugin
 org.apache.maven.plugins:maven-remote-resources-plugin
+org.apache.maven.plugins:maven-resources-plugin
 org.apache.maven.plugins:maven-scm-plugin
 org.apache.maven.plugins:maven-scm-publish-plugin
 org.apache.maven.plugins:maven-shade-plugin
 org.apache.maven.plugins:maven-site-plugin
+org.apache.maven.plugins:maven-source-plugin
 org.apache.maven.plugins:maven-surefire-plugin
 org.apache.maven.plugins:maven-surefire-report-plugin
 org.apache.maven.plugins:maven-toolchains-plugin
@@ -2943,6 +2945,7 @@ org.glassfish.hk2:no-hk2-bundle
 org.glassfish.hk2:operations-example
 org.glassfish.hk2:osgi
 org.glassfish.hk2:osgi-adapter
+org.glassfish.hk2:osgi-adapter-test
 org.glassfish.hk2:osgi-adapter-tests-parent
 org.glassfish.hk2:osgiversion-maven-plugin
 org.glassfish.hk2:sdp-management-bundle
