@@ -2774,6 +2774,7 @@ org.eclipse.microprofile.rest.client:microprofile-rest-client-api
 org.eclipse.microprofile.rest.client:microprofile-rest-client-parent
 org.eclipse.microprofile.rest.client:microprofile-rest-client-spec
 org.eclipse.microprofile.rest.client:microprofile-rest-client-tck
+org.eclipse.microprofile.telemetry:microprofile-telemetry-api
 org.eclipse.microprofile.telemetry:microprofile-telemetry-logs-tck
 org.eclipse.microprofile.telemetry:microprofile-telemetry-metrics-tck
 org.eclipse.microprofile.telemetry:microprofile-telemetry-parent
