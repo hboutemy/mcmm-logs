@@ -5829,6 +5829,7 @@ org.keycloak -> keycloak-guides:keycloak-guides-maven-plugin = "Keycloak Guides 
 org.kie -> jboss-modules:jboss-modules = "KIE EAP - Maven plugin"
 org.kie -> kie-gwthelper:kie-gwthelper-maven-plugin = "KIE :: Gwt Helper Maven Plugin"
 org.kie -> kie:kie-maven-plugin = "KIE :: Maven Plugin"
+org.kie.j2cl.tools -> j2cl:j2cl-maven-plugin = "J2CL Maven Plugin"
 org.kie.kogito -> kogito:kogito-maven-plugin = "Kogito :: Maven Plugin"
 org.kie.server -> kie-ctrl:kie-server-controller-plugin = "KIE :: Execution Server :: Controller :: Deploy Maven Plugin"
 org.kie.server -> kieserver:kie-server-maven-plugin = "KIE :: Execution Server :: Deploy Maven Plugin"

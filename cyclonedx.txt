@@ -67,6 +67,8 @@ com.github.mwiede:jsch
 com.github.oscerd:finnhub-java-client
 com.github.spotbugs:spotbugs-maven-plugin
 com.gitlab.haynes:libsass-maven-plugin
+com.googlecode.blaisemath:promptfx
+com.googlecode.blaisemath:promptkt
 com.hack23.cia:cia-dist-cloudformation
 com.hack23.cia:cia-dist-deb
 com.hack23.cia:citizen-intelligence-agency
