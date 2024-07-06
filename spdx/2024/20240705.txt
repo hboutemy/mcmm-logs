@@ -1,0 +1,1 @@
+org/opendaylight/infrautils/infrautils-sbom-7.0.0.spdx
