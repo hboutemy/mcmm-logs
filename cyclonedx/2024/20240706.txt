@@ -1,0 +1,6 @@
+com/github/hazendaz/7zip/7zip/24.07/7zip-24.07-cyclonedx.xml
+com/github/hazendaz/7zip/7zip/24.07/7zip-24.07-cyclonedx.json
+com/github/spotbugs/spotbugs-maven-plugin/4.8.6.2/spotbugs-maven-plugin-4.8.6.2-cyclonedx.json
+com/github/spotbugs/spotbugs-maven-plugin/4.8.6.2/spotbugs-maven-plugin-4.8.6.2-cyclonedx.xml
+org/owasp/antisamy/antisamy/1.7.6/antisamy-1.7.6-cyclonedx.xml
+org/owasp/antisamy/antisamy/1.7.6/antisamy-1.7.6-cyclonedx.json
