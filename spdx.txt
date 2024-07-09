@@ -78,6 +78,7 @@ org.apache.commons:commons-rng-simple
 org.apache.commons:commons-statistics-distribution
 org.apache.commons:commons-statistics-parent
 org.apache.commons:commons-text
+org.ikasan:commons-dbcp2
 org.jetbrains.kotlin:analysis-api-test-framework
 org.jetbrains.kotlin:atomicfu
 org.jetbrains.kotlin:compose-compiler-gradle-plugin
