@@ -5095,6 +5095,12 @@ org.xmlunit:xmlunit-legacy
 org.xmlunit:xmlunit-matchers
 org.xmlunit:xmlunit-parent
 org.xmlunit:xmlunit-placeholders
+org.zapodot:embedded-db-core
+org.zapodot:embedded-db-flyway
+org.zapodot:embedded-db-junit
+org.zapodot:embedded-db-junit-jupiter
+org.zapodot:embedded-db-junit-liquibase
+org.zapodot:embedded-db-junit-parent
 org.zoomba-lang:commons-jxpath
 ru.vyarus.guicey:guicey-admin-rest
 ru.vyarus.guicey:guicey-eventbus
