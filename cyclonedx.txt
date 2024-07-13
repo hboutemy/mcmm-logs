@@ -3664,6 +3664,7 @@ org.jdbi:jdbi3-testing
 org.jdbi:jdbi3-vavr
 org.jqassistant.plugin:common-parent
 org.jqassistant.plugin:jqassistant-asyncapi-plugin
+org.jqassistant.plugin:jqassistant-jira-plugin
 org.jqassistant.plugin:jqassistant-plantuml-report-plugin
 org.jqassistant.plugin:parent
 org.jqassistant.plugin:rules
