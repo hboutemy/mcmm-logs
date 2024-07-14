@@ -1,0 +1,12 @@
+com/github/hazendaz/winscp/winscp/6.3.4/winscp-6.3.4-cyclonedx.json
+com/github/hazendaz/winscp/winscp/6.3.4/winscp-6.3.4-cyclonedx.xml
+org/apache/camel/camel/4.7.0/camel-4.7.0-cyclonedx.xml
+org/apache/camel/camel/4.7.0/camel-4.7.0-cyclonedx.json
+org/apache/camel/springboot/spring-boot/4.7.0/spring-boot-4.7.0-cyclonedx.xml
+org/apache/camel/springboot/spring-boot/4.7.0/spring-boot-4.7.0-cyclonedx.json
+org/apache/maven/plugins/maven-pmd-plugin/3.24.0/maven-pmd-plugin-3.24.0-cyclonedx.xml
+org/apache/maven/plugins/maven-pmd-plugin/3.24.0/maven-pmd-plugin-3.24.0-cyclonedx.json
+org/glassfish/jakarta.faces/4.1.1/jakarta.faces-4.1.1-cyclonedx.xml
+org/glassfish/jakarta.faces/4.1.1/jakarta.faces-4.1.1-cyclonedx.json
+org/glassfish/mojarra-parent/4.1.1/mojarra-parent-4.1.1-cyclonedx.xml
+org/glassfish/mojarra-parent/4.1.1/mojarra-parent-4.1.1-cyclonedx.json
