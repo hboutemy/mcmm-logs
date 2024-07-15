@@ -1,0 +1,16 @@
+com/github/hazendaz/tomcat/tomcat10-config/10.1.26/tomcat10-config-10.1.26-cyclonedx.json
+com/github/hazendaz/tomcat/tomcat10-config/10.1.26/tomcat10-config-10.1.26-cyclonedx.xml
+org/apache/maven/plugins/maven-project-info-reports-plugin/3.6.2/maven-project-info-reports-plugin-3.6.2-cyclonedx.xml
+org/apache/maven/plugins/maven-project-info-reports-plugin/3.6.2/maven-project-info-reports-plugin-3.6.2-cyclonedx.json
+org/apache/maven/plugins/maven-release-plugin/3.1.1/maven-release-plugin-3.1.1-cyclonedx.xml
+org/apache/maven/plugins/maven-release-plugin/3.1.1/maven-release-plugin-3.1.1-cyclonedx.json
+org/apache/maven/release/maven-release-api/3.1.1/maven-release-api-3.1.1-cyclonedx.json
+org/apache/maven/release/maven-release-api/3.1.1/maven-release-api-3.1.1-cyclonedx.xml
+org/apache/maven/release/maven-release-manager/3.1.1/maven-release-manager-3.1.1-cyclonedx.xml
+org/apache/maven/release/maven-release-manager/3.1.1/maven-release-manager-3.1.1-cyclonedx.json
+org/apache/maven/release/maven-release-oddeven-policy/3.1.1/maven-release-oddeven-policy-3.1.1-cyclonedx.xml
+org/apache/maven/release/maven-release-oddeven-policy/3.1.1/maven-release-oddeven-policy-3.1.1-cyclonedx.json
+org/apache/maven/release/maven-release-semver-policy/3.1.1/maven-release-semver-policy-3.1.1-cyclonedx.xml
+org/apache/maven/release/maven-release-semver-policy/3.1.1/maven-release-semver-policy-3.1.1-cyclonedx.json
+org/apache/maven/release/maven-release/3.1.1/maven-release-3.1.1-cyclonedx.json
+org/apache/maven/release/maven-release/3.1.1/maven-release-3.1.1-cyclonedx.xml
