@@ -1340,6 +1340,11 @@ org.apache.commons:commons-math4-transform
 org.apache.commons:commons-parent
 org.apache.commons:commons-pool2
 org.apache.commons:commons-release-plugin
+org.apache.commons:commons-rng-client-api
+org.apache.commons:commons-rng-core
+org.apache.commons:commons-rng-parent
+org.apache.commons:commons-rng-sampling
+org.apache.commons:commons-rng-simple
 org.apache.commons:commons-text
 org.apache.cxf.archetype:cxf-jaxrs-service
 org.apache.cxf.archetype:cxf-jaxws-javafirst

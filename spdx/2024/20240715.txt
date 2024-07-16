@@ -1,0 +1,7 @@
+commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.spdx.json
+org/apache/commons/commons-rng-client-api/1.6/commons-rng-client-api-1.6.spdx.json
+org/apache/commons/commons-rng-core/1.6/commons-rng-core-1.6.spdx.json
+org/apache/commons/commons-rng-parent/1.6/commons-rng-parent-1.6.spdx.json
+org/apache/commons/commons-rng-sampling/1.6/commons-rng-sampling-1.6.spdx.json
+org/apache/commons/commons-rng-simple/1.6/commons-rng-simple-1.6.spdx.json
+org/opendaylight/odlparent/odlparent-sbom-14.0.1.spdx
