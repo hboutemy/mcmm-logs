@@ -3668,6 +3668,8 @@ org.jdbi:jdbi3-stringtemplate4
 org.jdbi:jdbi3-testcontainers
 org.jdbi:jdbi3-testing
 org.jdbi:jdbi3-vavr
+org.jqassistant.plugin.dart:jqassistant-dart-plugin
+org.jqassistant.plugin.dart:parent
 org.jqassistant.plugin:common-parent
 org.jqassistant.plugin:jqassistant-asyncapi-plugin
 org.jqassistant.plugin:jqassistant-jira-plugin
