@@ -2097,6 +2097,7 @@ org.apache.jena:jena-fuseki-webapp
 org.apache.jena:jena-geosparql
 org.apache.jena:jena-integration-tests
 org.apache.jena:jena-iri
+org.apache.jena:jena-ontapi
 org.apache.jena:jena-permissions
 org.apache.jena:jena-querybuilder
 org.apache.jena:jena-rdfconnection
@@ -3492,6 +3493,10 @@ org.glassfish.main:glassfish-qa-config
 org.glassfish.main:hk2-config-generator
 org.glassfish.main:nucleus-parent
 org.glassfish.main:test-utils
+org.glassfish.metro:helidon-bom
+org.glassfish.metro:helidon-integration
+org.glassfish.metro:helidon-mp
+org.glassfish.metro:helidon-se
 org.glassfish.mq:bridge
 org.glassfish.mq:helpfiles
 org.glassfish.mq:http-tunnel
