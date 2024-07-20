@@ -6187,7 +6187,7 @@ org.openmrs.maven.plugins -> openmrs-sdk-tomcat7:openmrs-sdk-tomcat7-maven-plugi
 org.openmrs.maven.plugins -> openmrs-sdk-tomcat9:openmrs-sdk-tomcat9-maven-plugin = "OpenMRS SDK Tomcat9 Maven Plugin"
 org.openntf.maven -> headlessdesigner:headlessdesigner-maven-plugin = "Headless Designer Build Plugin"
 org.openon.aannodoc -> aAnnoDocMavenPlugin:aAnnoDocMavenPlugin = "aAnnoDoc Maven Plugin"
-org.openprovenance.prov -> prov-toolbox:prov-toolbox-plugin = "prov-plugin Maven Plugin"
+org.openprovenance.prov -> prov-toolbox:prov-toolbox-plugin = "|---- PROVTOOLBOX-PLUGIN"
 org.openrewrite.maven -> rewrite:rewrite-maven-plugin = "rewrite-maven-plugin"
 org.openwebtop.maven.plugins -> precheck:maven-precheck-plugin = "maven-precheck-plugin"
 org.openwms.plugins -> properties:maven-properties-plugin = "maven-properties-plugin Maven Mojo"
