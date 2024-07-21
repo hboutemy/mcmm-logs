@@ -1,0 +1,4 @@
+org/apache/maven/plugins/maven-javadoc-plugin/3.8.0/maven-javadoc-plugin-3.8.0-cyclonedx.xml
+org/apache/maven/plugins/maven-javadoc-plugin/3.8.0/maven-javadoc-plugin-3.8.0-cyclonedx.json
+org/apache/maven/plugins/maven-site-plugin/4.0.0-M16/maven-site-plugin-4.0.0-M16-cyclonedx.xml
+org/apache/maven/plugins/maven-site-plugin/4.0.0-M16/maven-site-plugin-4.0.0-M16-cyclonedx.json
