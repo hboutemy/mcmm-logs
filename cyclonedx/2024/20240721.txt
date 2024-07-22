@@ -1,0 +1,2 @@
+org/glassfish/build/glassfishbuild-maven-plugin/4.0.1/glassfishbuild-maven-plugin-4.0.1-cyclonedx.json
+org/glassfish/build/glassfishbuild-maven-plugin/4.0.1/glassfishbuild-maven-plugin-4.0.1-cyclonedx.xml
