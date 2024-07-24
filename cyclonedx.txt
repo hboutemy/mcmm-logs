@@ -20,6 +20,7 @@ com.flowlogix:flowlogix-jee
 com.flowlogix:jakarta-ee
 com.flowlogix:jee-examples
 com.flowlogix:shiro-ee
+com.g2forge.reassert.test:reassert-test
 com.github.camel-tooling:camel-dap-server
 com.github.camel-tooling:camel-lsp-server
 com.github.hazendaz.7zip:7zip
