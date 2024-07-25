@@ -4399,6 +4399,7 @@ org.apache.camel.kafkaconnector -> camel-kafka-connector-generator:camel-kafka-c
 org.apache.camel.kamelets -> kamelets:kamelets-maven-plugin = "Camel Kamelets Maven Plugin"
 org.apache.camel.karaf -> camel-catalog-generator-karaf:camel-catalog-generator-karaf-maven-plugin = "Camel Karaf :: Tooling :: Catalog Generator Maven Plugin"
 org.apache.camel.karaf -> camel-karaf-docs:camel-karaf-docs-maven-plugin = "Camel Karaf :: Tooling :: Docs Maven Plugin"
+org.apache.camel.karaf -> camel-karaf-feature:camel-karaf-feature-maven-plugin = "Apache Camel :: Karaf :: Tooling :: Feature Maven Plugin"
 org.apache.camel.karaf -> camel-karaf:camel-karaf-maven-plugin = "Camel Karaf :: Tooling :: Camel Karaf Maven Plugin"
 org.apache.camel.maven -> camel-debezium:camel-debezium-maven-plugin = "Camel :: Debezium :: Maven Plugin"
 org.apache.camel.maven -> camel-salesforce:camel-salesforce-maven-plugin = "Camel :: Salesforce :: Maven Plugin"
