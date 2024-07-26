@@ -1939,6 +1939,7 @@ com.metaeffekt.artifact.analysis -> ae-inventory-enrichment:ae-inventory-enrichm
 com.metaeffekt.artifact.analysis -> ae-inventory-overview-html-report:ae-inventory-overview-html-report = 
 com.metaeffekt.artifact.analysis -> ae-mirror:ae-mirror-plugin = 
 com.metaeffekt.artifact.analysis -> ae-tmd-packaging:ae-tmd-packaging-plugin = 
+com.metaeffekt.portfolio.manager -> ae-portfolio-manager:ae-portfolio-manager-maven-plugin = 
 com.metreeca -> mark:mark-maven-plugin = "Metreeca/Mark"
 com.michaelhradek -> aurkitu:aurkitu-maven-plugin = "Aurkitu Maven Plugin"
 com.microfocus.adm.almoctane.bdd -> bdd2octane:bdd2octane = "bdd2octane"
