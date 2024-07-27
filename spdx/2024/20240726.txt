@@ -1,0 +1,4 @@
+org/apache/commons/commons-parent/72/commons-parent-72.spdx.json
+org/opendaylight/controller/controller-sbom-10.0.0.spdx
+org/opendaylight/infrautils/infrautils-sbom-7.0.2.spdx
+org/opendaylight/mdsal/mdsal-sbom-14.0.0.spdx
