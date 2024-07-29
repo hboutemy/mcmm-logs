@@ -87,6 +87,10 @@ com.io7m.blackthorne:com.io7m.blackthorne.api
 com.io7m.blackthorne:com.io7m.blackthorne.core
 com.io7m.blackthorne:com.io7m.blackthorne.jxe
 com.io7m.blackthorne:com.io7m.blackthorne.tests
+com.io7m.brackish:com.io7m.brackish
+com.io7m.brackish:com.io7m.brackish.core
+com.io7m.brackish:com.io7m.brackish.demo
+com.io7m.brackish:com.io7m.brackish.tests
 com.io7m.brooklime:com.io7m.brooklime
 com.io7m.brooklime:com.io7m.brooklime.api
 com.io7m.brooklime:com.io7m.brooklime.cmdline
@@ -608,6 +612,10 @@ com.ongres.stringprep:saslprep
 com.ongres.stringprep:stringprep
 com.ongres.stringprep:stringprep-aggregator
 com.ongres.stringprep:stringprep-parent
+com.open-elements.hedera:hedera-base
+com.open-elements.hedera:hedera-enterprise
+com.open-elements.hedera:hedera-microprofile
+com.open-elements.hedera:hedera-spring
 com.siemens.pki:CmpRaComponent
 com.soartech:jsoar
 com.soartech:jsoar-core
@@ -2905,6 +2913,7 @@ org.eclipse.store:store-parent
 org.glassfish.build:glassfishbuild-maven-plugin
 org.glassfish.build:spec-version-maven-plugin
 org.glassfish.concurro:concurro
+org.glassfish.expressly:expressly
 org.glassfish.hk2.external:aopalliance-repackaged
 org.glassfish.hk2:caching-aop-example
 org.glassfish.hk2:caching-aop-example-runner
