@@ -1948,6 +1948,7 @@ com.microfocus.adm.almoctane.sdk -> sdk-generate-entity-models:sdk-generate-enti
 com.microsoft.azure -> azure-functions:azure-functions-maven-plugin = "Maven Plugin for Azure Functions"
 com.microsoft.azure -> azure:azure-maven-plugin = "Azure Plugin"
 com.microsoft.azure -> azure-relay:azure-relay = "azure-relay"
+com.microsoft.azure -> azure-sdk-build-tool:azure-sdk-build-tool-maven-plugin = "Azure SDK for Java Build Tool Maven Plugin"
 com.microsoft.azure -> azure-servicebus-jms:azure-servicebus-jms = "azure-servicebus-jms"
 com.microsoft.azure -> azure-sfmesh:azure-sfmesh-maven-plugin = "Service Fabric Mesh Maven Plugin"
 com.microsoft.azure -> azure-spring-apps:azure-spring-apps-maven-plugin = "Azure Spring Apps Maven Plugin"
