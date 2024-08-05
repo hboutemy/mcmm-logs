@@ -735,6 +735,7 @@ de.bund.bva.isyfact:isy-task
 de.bund.bva.isyfact:isy-ueberwachung
 de.bund.bva.isyfact:isy-util
 de.bund.bva.isyfact:isy-web
+de.bund.bva.isyfact:isy-web-parent
 de.bund.bva.isyfact:isyfact-bom
 de.bund.bva.isyfact:isyfact-products-bom
 de.bund.bva.isyfact:isyfact-standards
@@ -1744,7 +1745,10 @@ org.apache.flink:flink-connectors
 org.apache.flink:flink-container
 org.apache.flink:flink-contrib
 org.apache.flink:flink-core
+org.apache.flink:flink-core-api
 org.apache.flink:flink-csv
+org.apache.flink:flink-datastream
+org.apache.flink:flink-datastream-api
 org.apache.flink:flink-dstl
 org.apache.flink:flink-dstl-dfs
 org.apache.flink:flink-examples
@@ -1785,6 +1789,7 @@ org.apache.flink:flink-metrics-jmx
 org.apache.flink:flink-metrics-prometheus
 org.apache.flink:flink-metrics-slf4j
 org.apache.flink:flink-metrics-statsd
+org.apache.flink:flink-migration-test-utils
 org.apache.flink:flink-ml-benchmark
 org.apache.flink:flink-ml-benchmark-1.15
 org.apache.flink:flink-ml-benchmark-1.16
@@ -1859,6 +1864,7 @@ org.apache.flink:flink-sql-avro-confluent-registry
 org.apache.flink:flink-sql-client
 org.apache.flink:flink-sql-connector-hbase-1.4
 org.apache.flink:flink-sql-connector-hbase-2.2
+org.apache.flink:flink-sql-connector-hive-2.3.10_2.12
 org.apache.flink:flink-sql-connector-hive-2.3.9_2.12
 org.apache.flink:flink-sql-connector-hive-3.1.3_2.12
 org.apache.flink:flink-sql-connector-kafka
@@ -1877,6 +1883,7 @@ org.apache.flink:flink-state-backends
 org.apache.flink:flink-state-processor-api
 org.apache.flink:flink-statebackend-changelog
 org.apache.flink:flink-statebackend-common
+org.apache.flink:flink-statebackend-forst
 org.apache.flink:flink-statebackend-heap-spillable
 org.apache.flink:flink-statebackend-rocksdb
 org.apache.flink:flink-streaming-java
@@ -1891,6 +1898,7 @@ org.apache.flink:flink-table-api-scala_2.12
 org.apache.flink:flink-table-calcite-bridge
 org.apache.flink:flink-table-code-splitter
 org.apache.flink:flink-table-common
+org.apache.flink:flink-table-filesystem-test-utils
 org.apache.flink:flink-table-planner-loader
 org.apache.flink:flink-table-planner_2.12
 org.apache.flink:flink-table-runtime
@@ -3251,6 +3259,7 @@ org.glassfish.main.admin:server-mgmt
 org.glassfish.main.admingui.connector:gf-admingui-connector
 org.glassfish.main.admingui:admingui
 org.glassfish.main.admingui:console-cluster-plugin
+org.glassfish.main.admingui:console-commandrecorder-plugin
 org.glassfish.main.admingui:console-common
 org.glassfish.main.admingui:console-common-full-plugin
 org.glassfish.main.admingui:console-community-branding-plugin
@@ -3362,6 +3371,7 @@ org.glassfish.main.docs:performance-tuning-guide
 org.glassfish.main.docs:quick-start-guide
 org.glassfish.main.docs:reference-manual
 org.glassfish.main.docs:release-notes
+org.glassfish.main.docs:sample-app
 org.glassfish.main.docs:security-guide
 org.glassfish.main.docs:troubleshooting-guide
 org.glassfish.main.docs:upgrade-guide
@@ -3379,6 +3389,7 @@ org.glassfish.main.extras:appserv-rt
 org.glassfish.main.extras:appserv-rt-frag
 org.glassfish.main.extras:appserv-rt-pom
 org.glassfish.main.extras:bootstrap
+org.glassfish.main.extras:command-logger
 org.glassfish.main.extras:embedded
 org.glassfish.main.extras:extras
 org.glassfish.main.extras:glassfish-embedded-all
@@ -3395,6 +3406,7 @@ org.glassfish.main.extras:instanceroot-builder
 org.glassfish.main.extras:jakartaee
 org.glassfish.main.extras:jakartaee-frag
 org.glassfish.main.extras:jakartaee-pom
+org.glassfish.main.extras:nucleus-extras
 org.glassfish.main.extras:osgi-main
 org.glassfish.main.extras:osgi-modules-uninstaller
 org.glassfish.main.extras:tests-embedded
