@@ -497,6 +497,11 @@ com.io7m.minisite:com.io7m.minisite.core
 com.io7m.minisite:com.io7m.minisite.documentation
 com.io7m.minisite:com.io7m.minisite.maven_plugin
 com.io7m.minisite:com.io7m.minisite.tests
+com.io7m.miscue:com.io7m.miscue
+com.io7m.miscue:com.io7m.miscue.core
+com.io7m.miscue:com.io7m.miscue.fx.demo
+com.io7m.miscue:com.io7m.miscue.fx.seltzer
+com.io7m.miscue:com.io7m.miscue.tests
 com.io7m.pallene:com.io7m.pallene
 com.io7m.percentpass:com.io7m.percentpass
 com.io7m.percentpass:com.io7m.percentpass.extension
