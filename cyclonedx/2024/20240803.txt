@@ -1,0 +1,2 @@
+org/cyclonedx/cyclonedx-maven-plugin/2.8.1/cyclonedx-maven-plugin-2.8.1-cyclonedx.xml
+org/cyclonedx/cyclonedx-maven-plugin/2.8.1/cyclonedx-maven-plugin-2.8.1-cyclonedx.json
