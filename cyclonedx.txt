@@ -532,6 +532,7 @@ com.io7m.scando:com.io7m.scando.cmdline
 com.io7m.scando:com.io7m.scando.tests
 com.io7m.seltzer:com.io7m.seltzer
 com.io7m.seltzer:com.io7m.seltzer.api
+com.io7m.seltzer:com.io7m.seltzer.io
 com.io7m.seltzer:com.io7m.seltzer.tests
 com.io7m.sigiltron:sigiltron
 com.io7m.stmp:string-template-maven-plugin

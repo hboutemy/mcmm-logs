@@ -1,0 +1,14 @@
+com/github/hazendaz/git/git-for-windows/2.46.0.0/git-for-windows-2.46.0.0-cyclonedx.json
+com/github/hazendaz/git/git-for-windows/2.46.0.0/git-for-windows-2.46.0.0-cyclonedx.xml
+com/io7m/seltzer/com.io7m.seltzer.api/1.1.0/com.io7m.seltzer.api-1.1.0-cyclonedx.xml
+com/io7m/seltzer/com.io7m.seltzer.io/1.1.0/com.io7m.seltzer.io-1.1.0-cyclonedx.xml
+com/io7m/seltzer/com.io7m.seltzer.tests/1.1.0/com.io7m.seltzer.tests-1.1.0-cyclonedx.xml
+com/io7m/seltzer/com.io7m.seltzer/1.1.0/com.io7m.seltzer-1.1.0-cyclonedx.xml
+com/open-elements/hedera/hedera-base/0.7.0/hedera-base-0.7.0-cyclonedx.xml
+com/open-elements/hedera/hedera-base/0.7.0/hedera-base-0.7.0-cyclonedx.json
+com/open-elements/hedera/hedera-enterprise/0.7.0/hedera-enterprise-0.7.0-cyclonedx.xml
+com/open-elements/hedera/hedera-enterprise/0.7.0/hedera-enterprise-0.7.0-cyclonedx.json
+com/open-elements/hedera/hedera-microprofile/0.7.0/hedera-microprofile-0.7.0-cyclonedx.json
+com/open-elements/hedera/hedera-microprofile/0.7.0/hedera-microprofile-0.7.0-cyclonedx.xml
+com/open-elements/hedera/hedera-spring/0.7.0/hedera-spring-0.7.0-cyclonedx.json
+com/open-elements/hedera/hedera-spring/0.7.0/hedera-spring-0.7.0-cyclonedx.xml
