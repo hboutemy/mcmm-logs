@@ -1326,6 +1326,7 @@ org.apache.avro:avro-archetypes-parent
 org.apache.avro:avro-codegen-test
 org.apache.avro:avro-compiler
 org.apache.avro:avro-grpc
+org.apache.avro:avro-idl
 org.apache.avro:avro-integration-test
 org.apache.avro:avro-ipc
 org.apache.avro:avro-ipc-jetty
@@ -2953,6 +2954,7 @@ org.eclipse.store:storage-restservice
 org.eclipse.store:storage-restservice-sparkjava
 org.eclipse.store:storage-restservice-springboot
 org.eclipse.store:store-parent
+org.eclipse:yasson
 org.glassfish.build:glassfishbuild-maven-plugin
 org.glassfish.build:spec-version-maven-plugin
 org.glassfish.concurro:concurro
