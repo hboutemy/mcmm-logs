@@ -306,6 +306,10 @@ com.io7m.ieee754b16:com.io7m.ieee754b16
 com.io7m.ieee754b16:com.io7m.ieee754b16.core
 com.io7m.ieee754b16:com.io7m.ieee754b16.tests
 com.io7m.immutables-style:com.io7m.immutables-style
+com.io7m.ivoirax:com.io7m.ivoirax
+com.io7m.ivoirax:com.io7m.ivoirax.core
+com.io7m.ivoirax:com.io7m.ivoirax.demo
+com.io7m.ivoirax:com.io7m.ivoirax.tests
 com.io7m.jade:com.io7m.jade
 com.io7m.jade:com.io7m.jade.api
 com.io7m.jade:com.io7m.jade.spi
@@ -2365,6 +2369,7 @@ org.apache.maven.resolver:maven-resolver-generator-gnupg
 org.apache.maven.resolver:maven-resolver-impl
 org.apache.maven.resolver:maven-resolver-named-locks
 org.apache.maven.resolver:maven-resolver-named-locks-hazelcast
+org.apache.maven.resolver:maven-resolver-named-locks-ipc
 org.apache.maven.resolver:maven-resolver-named-locks-redisson
 org.apache.maven.resolver:maven-resolver-spi
 org.apache.maven.resolver:maven-resolver-supplier
