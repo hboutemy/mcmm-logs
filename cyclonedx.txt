@@ -4751,7 +4751,9 @@ org.opendaylight.mdsal:odl-mdsal-singleton-dom
 org.opendaylight.mdsal:odl-mdsal-trace
 org.opendaylight.mdsal:unified-html-generator
 org.opendaylight.mdsal:yang-binding
+org.opendaylight.netconf.model:draft-ietf-crypto-types
 org.opendaylight.netconf.model:draft-ietf-netconf-crypto-types
+org.opendaylight.netconf.model:draft-ietf-restconf-server
 org.opendaylight.netconf.model:rfc5277
 org.opendaylight.netconf.model:rfc6022
 org.opendaylight.netconf.model:rfc6241
@@ -4764,7 +4766,10 @@ org.opendaylight.netconf.model:rfc8526
 org.opendaylight.netconf.model:rfc8639
 org.opendaylight.netconf.model:rfc8641
 org.opendaylight.netconf.model:rfc8650
+org.opendaylight.netconf.model:sal-remote
+org.opendaylight.netconf.model:test-models
 org.opendaylight.netconf:aaa-authn-odl-plugin
+org.opendaylight.netconf:bnd-parent
 org.opendaylight.netconf:callhome-model
 org.opendaylight.netconf:callhome-protocol
 org.opendaylight.netconf:callhome-provider
@@ -4804,6 +4809,7 @@ org.opendaylight.netconf:netconf-auth
 org.opendaylight.netconf:netconf-auth-aaa
 org.opendaylight.netconf:netconf-client
 org.opendaylight.netconf:netconf-client-mdsal
+org.opendaylight.netconf:netconf-codec
 org.opendaylight.netconf:netconf-common
 org.opendaylight.netconf:netconf-common-mdsal
 org.opendaylight.netconf:netconf-config
@@ -4828,6 +4834,7 @@ org.opendaylight.netconf:netconf-topology-singleton
 org.opendaylight.netconf:netconf-util
 org.opendaylight.netconf:odl-aaa-netconf-plugin
 org.opendaylight.netconf:odl-aaa-netconf-plugin-no-cluster
+org.opendaylight.netconf:odl-device-notification
 org.opendaylight.netconf:odl-mdsal-apidocs
 org.opendaylight.netconf:odl-netconf-all
 org.opendaylight.netconf:odl-netconf-api
@@ -4878,14 +4885,20 @@ org.opendaylight.netconf:restconf-api
 org.opendaylight.netconf:restconf-client
 org.opendaylight.netconf:restconf-common
 org.opendaylight.netconf:restconf-common-models
+org.opendaylight.netconf:restconf-mdsal-spi
 org.opendaylight.netconf:restconf-models
 org.opendaylight.netconf:restconf-nb
 org.opendaylight.netconf:restconf-nb-bierman02
 org.opendaylight.netconf:restconf-nb-rfc8040
 org.opendaylight.netconf:restconf-openapi
 org.opendaylight.netconf:restconf-server
+org.opendaylight.netconf:restconf-server-api
+org.opendaylight.netconf:restconf-server-jaxrs
+org.opendaylight.netconf:restconf-server-mdsal
+org.opendaylight.netconf:restconf-server-spi
 org.opendaylight.netconf:restconf-wadl-generator
 org.opendaylight.netconf:sal-netconf-connector
+org.opendaylight.netconf:sal-remote-impl
 org.opendaylight.netconf:sal-rest-connector-config
 org.opendaylight.netconf:sal-rest-docgen
 org.opendaylight.netconf:shaded-exificient
