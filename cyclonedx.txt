@@ -11,6 +11,7 @@ com.buschmais.jqassistant.plugin:yaml2
 com.duosecurity:duo-client
 com.flowlogix.depchain:depchain
 com.flowlogix.depchain:integration-test
+com.flowlogix.depchain:shiro-jakarta
 com.flowlogix.depchain:unit-test
 com.flowlogix:faces-affinity
 com.flowlogix:flowlogix
@@ -778,6 +779,7 @@ dev.samsanders.openvex:jvex
 dev.vality:service-parent-pom
 fr.marcwrobel:jbanking
 gov.nist.secauto.oscal:liboscal-java
+io.docops:docops-extension-server
 io.dropwizard.archetypes:dropwizard-archetypes
 io.dropwizard.archetypes:java-simple
 io.dropwizard.metrics5:docs
