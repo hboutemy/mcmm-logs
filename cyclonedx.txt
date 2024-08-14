@@ -2974,6 +2974,7 @@ org.eclipse.store:storage-restservice-sparkjava
 org.eclipse.store:storage-restservice-springboot
 org.eclipse.store:store-parent
 org.eclipse:yasson
+org.glassfish.build:command-security-maven-plugin
 org.glassfish.build:glassfishbuild-maven-plugin
 org.glassfish.build:spec-version-maven-plugin
 org.glassfish.concurro:concurro
