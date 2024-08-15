@@ -3623,6 +3623,7 @@ io.protostuff -> protostuff:protostuff-maven-plugin = "Protostuff Compiler - Mav
 io.pst.mojo -> s3-static-uploader:s3-static-uploader-plugin = "S3 Static Uploader Plugin"
 io.qameta.allure -> allure:allure-maven = "Allure Maven"
 io.quarkus -> quarkus-bootstrap:quarkus-bootstrap-maven-plugin = "Quarkus - Bootstrap - Maven plugin"
+io.quarkus -> quarkus-config-doc:quarkus-config-doc-maven-plugin = "Quarkus - Config doc Maven plugin"
 io.quarkus -> quarkus-extension:quarkus-extension-maven-plugin = "Quarkus - Extension Maven plugin"
 io.quarkus -> quarkus-extension:quarkus-extension-plugin = "Quarkus - Extension Maven plugin"
 io.quarkus -> quarkus:quarkus-maven-plugin = "Quarkus - Maven Plugin"
