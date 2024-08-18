@@ -58,6 +58,7 @@ com.github.hazendaz.tomcat:tomcat11-config
 com.github.hazendaz.tomcat:tomcat9-config
 com.github.hazendaz.winscp:winscp
 com.github.hazendaz:base-parent
+com.github.hazendaz:build-tools
 com.github.hazendaz:displaytag
 com.github.hazendaz:displaytag-doc
 com.github.hazendaz:displaytag-examples
