@@ -2473,6 +2473,7 @@ org.apache.maven.shared:maven-dependency-analyzer
 org.apache.maven.shared:maven-dependency-tree
 org.apache.maven.shared:maven-filtering
 org.apache.maven.shared:maven-invoker
+org.apache.maven.shared:maven-jarsigner
 org.apache.maven.shared:maven-script-interpreter
 org.apache.maven.shared:maven-shared-components
 org.apache.maven.shared:maven-shared-jar
