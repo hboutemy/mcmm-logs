@@ -1,0 +1,8 @@
+de/knightsoft-net/gwt-commons-codec/1.17.1-0/gwt-commons-codec-1.17.1-0.spdx.json
+de/knightsoft-net/gwt-commons-lang3/3.16.0-0/gwt-commons-lang3-3.16.0-0.spdx.rdf.xml
+org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.spdx.rdf.xml
+org/apache/commons/commons-statistics-descriptive/1.1/commons-statistics-descriptive-1.1.spdx.json
+org/apache/commons/commons-statistics-distribution/1.1/commons-statistics-distribution-1.1.spdx.json
+org/apache/commons/commons-statistics-inference/1.1/commons-statistics-inference-1.1.spdx.json
+org/apache/commons/commons-statistics-parent/1.1/commons-statistics-parent-1.1.spdx.json
+org/apache/commons/commons-statistics-ranking/1.1/commons-statistics-ranking-1.1.spdx.json

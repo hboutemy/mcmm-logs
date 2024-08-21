@@ -1417,6 +1417,11 @@ org.apache.commons:commons-rng-core
 org.apache.commons:commons-rng-parent
 org.apache.commons:commons-rng-sampling
 org.apache.commons:commons-rng-simple
+org.apache.commons:commons-statistics-descriptive
+org.apache.commons:commons-statistics-distribution
+org.apache.commons:commons-statistics-inference
+org.apache.commons:commons-statistics-parent
+org.apache.commons:commons-statistics-ranking
 org.apache.commons:commons-text
 org.apache.cxf.archetype:cxf-jaxrs-service
 org.apache.cxf.archetype:cxf-jaxws-javafirst
@@ -3718,6 +3723,11 @@ org.glassfish.mq:mqpersist-file
 org.glassfish.mq:mqpersist-jdbc
 org.glassfish.mq:persist
 org.glassfish.mq:project
+org.glassfish.soteria:parent
+org.glassfish.soteria:soteria
+org.glassfish.soteria:soteria.spi.bean.decorator.weld
+org.glassfish.soteria:spi
+org.glassfish.soteria:spi-bean-decorator
 org.glassfish.tyrus.archetypes:tyrus-archetype-echo
 org.glassfish.tyrus.archetypes:tyrus-archetypes-project
 org.glassfish.tyrus.bundles:tyrus-bundles

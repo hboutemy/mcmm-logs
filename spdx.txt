@@ -75,8 +75,11 @@ org.apache.commons:commons-rng-core
 org.apache.commons:commons-rng-parent
 org.apache.commons:commons-rng-sampling
 org.apache.commons:commons-rng-simple
+org.apache.commons:commons-statistics-descriptive
 org.apache.commons:commons-statistics-distribution
+org.apache.commons:commons-statistics-inference
 org.apache.commons:commons-statistics-parent
+org.apache.commons:commons-statistics-ranking
 org.apache.commons:commons-text
 org.ikasan:commons-dbcp2
 org.jetbrains.kotlin:analysis-api-test-framework
