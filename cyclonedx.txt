@@ -67,6 +67,7 @@ com.github.hazendaz:scriptable-dataset
 com.github.hazendaz:sitemesh
 com.github.hazendaz:smartsprites
 com.github.mwiede:jsch
+com.github.nhojpatrick.qa:nhojpatrick-versions-ruleset
 com.github.oscerd:finnhub-java-client
 com.github.spotbugs:spotbugs-maven-plugin
 com.gitlab.haynes:libsass-maven-plugin
@@ -1146,6 +1147,11 @@ jakarta.servlet:jakarta.servlet-api
 jakarta.tck.tools:sigtest-maven-plugin
 jakarta.tck:sigtest-maven-plugin
 jakarta.validation:jakarta.validation-api
+jakarta.validation:validation-standalone-container-adapter
+jakarta.validation:validation-tck-distribution
+jakarta.validation:validation-tck-documentation
+jakarta.validation:validation-tck-parent
+jakarta.validation:validation-tck-tests
 jakarta.websocket:jakarta.websocket-all
 jakarta.websocket:jakarta.websocket-api
 jakarta.websocket:jakarta.websocket-client-api
