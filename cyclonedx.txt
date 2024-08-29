@@ -9,10 +9,12 @@ com.buschmais.jqassistant.plugin:parent
 com.buschmais.jqassistant.plugin:xml
 com.buschmais.jqassistant.plugin:yaml2
 com.duosecurity:duo-client
+com.flowlogix.archetypes:starter
 com.flowlogix.depchain:depchain
 com.flowlogix.depchain:integration-test
 com.flowlogix.depchain:shiro-jakarta
 com.flowlogix.depchain:unit-test
+com.flowlogix.weld:weld-native
 com.flowlogix:faces-affinity
 com.flowlogix:flowlogix
 com.flowlogix:flowlogix-bom
