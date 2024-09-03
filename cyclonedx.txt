@@ -4646,6 +4646,7 @@ org.opendaylight.mdsal.binding.model.ietf:rfc8040
 org.opendaylight.mdsal.binding.model.ietf:rfc8040-ietf-restconf
 org.opendaylight.mdsal.binding.model.ietf:rfc8040-ietf-restconf-monitoring
 org.opendaylight.mdsal.binding.model.ietf:rfc8072
+org.opendaylight.mdsal.binding.model.ietf:rfc8177
 org.opendaylight.mdsal.binding.model.ietf:rfc8294
 org.opendaylight.mdsal.binding.model.ietf:rfc8294-ietf-routing-types
 org.opendaylight.mdsal.binding.model.ietf:rfc8341
@@ -4698,6 +4699,10 @@ org.opendaylight.mdsal.binding.model.ietf:rfc8795-ietf-te-topology-state
 org.opendaylight.mdsal.binding.model.ietf:rfc8808
 org.opendaylight.mdsal.binding.model.ietf:rfc8819-ietf-module-tags
 org.opendaylight.mdsal.binding.model.ietf:rfc8819-ietf-module-tags-state
+org.opendaylight.mdsal.binding.model.ietf:rfc8916
+org.opendaylight.mdsal.binding.model.ietf:rfc9067
+org.opendaylight.mdsal.binding.model.ietf:rfc9070-ietf-mpls-ldp
+org.opendaylight.mdsal.binding.model.ietf:rfc9070-ietf-mpls-ldp-extended
 org.opendaylight.mdsal.binding.model.ietf:rfc9144
 org.opendaylight.mdsal.binding.model.ietf:rfc9179
 org.opendaylight.mdsal.binding.model.ietf:rfc9196-ietf-notification-capabilities
@@ -4726,6 +4731,7 @@ org.opendaylight.mdsal.model:odl-mdsal-model-rfc8040
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc8040-ietf-restconf
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc8040-ietf-restconf-monitoring
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc8072
+org.opendaylight.mdsal.model:odl-mdsal-model-rfc8177
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc8294
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc8341
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc8342
@@ -4757,6 +4763,9 @@ org.opendaylight.mdsal.model:odl-mdsal-model-rfc8795-non-nmda
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc8808
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc8819
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc8819-non-nmda
+org.opendaylight.mdsal.model:odl-mdsal-model-rfc8916
+org.opendaylight.mdsal.model:odl-mdsal-model-rfc9067
+org.opendaylight.mdsal.model:odl-mdsal-model-rfc9070
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc9144
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc9179
 org.opendaylight.mdsal.model:odl-mdsal-model-rfc9196-ietf-notification-capabilities
