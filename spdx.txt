@@ -217,6 +217,8 @@ org.spdx:cdx2spdx
 org.spdx:java-spdx-library
 org.spdx:licenseListPublisher
 org.spdx:spdx-jackson-store
+org.spdx:spdx-java-core
+org.spdx:spdx-java-model-2_X
 org.spdx:spdx-rdf-store
 org.spdx:spdx-spreadsheet-store
 org.spdx:spdx-tagvalue-store

@@ -1,0 +1,7 @@
+org/opendaylight/aaa/aaa-sbom-0.20.1.spdx
+org/opendaylight/bgpcep/bgpcep-sbom-0.21.9.spdx
+org/opendaylight/bgpcep/bgpcep-sbom-0.22.1.spdx
+org/opendaylight/netconf/netconf-sbom-8.0.1.spdx
+org/opendaylight/netconf/netconf-sbom-7.0.9.spdx
+org/spdx/spdx-java-core/0.1.0-Alpha/spdx-java-core-0.1.0-Alpha.spdx.json
+org/spdx/spdx-java-model-2_X/0.1.0-Alpha/spdx-java-model-2_X-0.1.0-Alpha.spdx.json
