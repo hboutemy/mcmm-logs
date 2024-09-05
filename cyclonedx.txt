@@ -27,6 +27,7 @@ com.g2forge.reassert.test:reassert-test
 com.github.camel-tooling:camel-dap-server
 com.github.camel-tooling:camel-lsp-server
 com.github.hazendaz.7zip:7zip
+com.github.hazendaz.ant:apache-ant
 com.github.hazendaz.catch-exception:catch-exception
 com.github.hazendaz.catch-exception:catch-exception-parent
 com.github.hazendaz.catch-exception:catch-throwable
