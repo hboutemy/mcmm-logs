@@ -1,0 +1,6 @@
+org/spdx/java-spdx-library/2.0.0-Alpha/java-spdx-library-2.0.0-Alpha.spdx.json
+org/spdx/spdx-jackson-store/2.0.0-Alpha/spdx-jackson-store-2.0.0-Alpha.spdx.json
+org/spdx/spdx-rdf-store/2.0.0-Alpha/spdx-rdf-store-2.0.0-Alpha.spdx.json
+org/spdx/spdx-spreadsheet-store/2.0.0-Alpha/spdx-spreadsheet-store-2.0.0-Alpha.spdx.json
+org/spdx/spdx-tagvalue-store/2.0.0-Alpha/spdx-tagvalue-store-2.0.0-Alpha.spdx.json
+org/spdx/spdx-v3jsonld-store/0.1.0-Alpha/spdx-v3jsonld-store-0.1.0-Alpha.spdx.json

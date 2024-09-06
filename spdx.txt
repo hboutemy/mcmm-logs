@@ -225,6 +225,7 @@ org.spdx:spdx-spreadsheet-store
 org.spdx:spdx-tagvalue-store
 org.spdx:spdx-to-osv
 org.spdx:spdx-tools
+org.spdx:spdx-v3jsonld-store
 org.spdx:tools-java
 org.zoomba-lang:commons-jxpath
 org:opendaylight
