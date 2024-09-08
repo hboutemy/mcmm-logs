@@ -514,6 +514,8 @@ com.io7m.miscue:com.io7m.miscue.fx.demo
 com.io7m.miscue:com.io7m.miscue.fx.seltzer
 com.io7m.miscue:com.io7m.miscue.tests
 com.io7m.pallene:com.io7m.pallene
+com.io7m.peixoto:com.io7m.peixoto
+com.io7m.peixoto:com.io7m.peixoto.sdk
 com.io7m.percentpass:com.io7m.percentpass
 com.io7m.percentpass:com.io7m.percentpass.extension
 com.io7m.percentpass:com.io7m.percentpass.tests

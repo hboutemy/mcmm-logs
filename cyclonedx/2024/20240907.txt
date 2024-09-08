@@ -1,0 +1,9 @@
+com/io7m/darco/com.io7m.darco.api/2.0.0/com.io7m.darco.api-2.0.0-cyclonedx.xml
+com/io7m/darco/com.io7m.darco.examples/2.0.0/com.io7m.darco.examples-2.0.0-cyclonedx.xml
+com/io7m/darco/com.io7m.darco.postgres/2.0.0/com.io7m.darco.postgres-2.0.0-cyclonedx.xml
+com/io7m/darco/com.io7m.darco.sqlite/2.0.0/com.io7m.darco.sqlite-2.0.0-cyclonedx.xml
+com/io7m/darco/com.io7m.darco.templating/2.0.0/com.io7m.darco.templating-2.0.0-cyclonedx.xml
+com/io7m/darco/com.io7m.darco.tests/2.0.0/com.io7m.darco.tests-2.0.0-cyclonedx.xml
+com/io7m/darco/com.io7m.darco/2.0.0/com.io7m.darco-2.0.0-cyclonedx.xml
+com/io7m/peixoto/com.io7m.peixoto.sdk/2.27.21/com.io7m.peixoto.sdk-2.27.21-cyclonedx.xml
+com/io7m/peixoto/com.io7m.peixoto/2.27.21/com.io7m.peixoto-2.27.21-cyclonedx.xml
