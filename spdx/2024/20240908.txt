@@ -1,0 +1,2 @@
+org/opendaylight/transportpce/models/models-sbom-21.0.0.spdx
+org/opendaylight/transportpce/transportpce-sbom-10.0.0.spdx
