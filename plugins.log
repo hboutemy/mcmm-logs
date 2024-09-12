@@ -4962,6 +4962,7 @@ org.chrisjaehnen.tibco -> tibco-bw-profiles:tibco-bw-profiles-maven-plugin = "TI
 org.chrisjaehnen.tibco -> tibco-bw-properties:tibco-bw-properties-maven-plugin = "TIBCO BW Properties Maven Plugin"
 org.chrisjaehnen.tibco -> tibco-bw-versioning:tibco-bw-versioning-maven-plugin = "TIBCO BW Versioning Maven Plugin"
 org.chtijbug.drools -> guvnor-install-pojo:maven-guvnor-install-pojo-plugin = "ChtiJBug Maven plugin for installing the pojo model available at guvnor instance"
+org.citrusframework -> citrus-remote:citrus-remote-maven-plugin = "Citrus :: Tools :: Remote :: Maven Plugin"
 org.citrusframework.mvn -> citrus:citrus-maven-plugin = "Citrus :: Tools :: Maven :: Plugin"
 org.cjan -> test-collector:test-collector = "test-collector Maven Plugin"
 org.cjan -> test-collector:test-collector-maven-plugin = "test-collector-maven-plugin Maven Plugin"
