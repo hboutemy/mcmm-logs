@@ -3209,6 +3209,7 @@ io.github.barrypitman -> azure-storage-wagon:azure-storage-wagon =
 io.github.barrypitman -> google-storage-wagon:google-storage-wagon = 
 io.github.barrypitman -> s3-storage-wagon:s3-storage-wagon = 
 io.github.bbarker -> scalaxb:scalaxb-maven-plugin = "scalaxb Maven Plugin"
+io.github.belgif.rest.guide.validator -> belgif-rest-guide-validator:belgif-rest-guide-validator-maven-plugin = 
 io.github.benas -> jql:jql-maven-plugin = 
 io.github.berkleytechnologyservices -> restdocs-spec:restdocs-spec-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.blackrock -> protoc:protoc-maven-plugin = "maven-plugin"
