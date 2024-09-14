@@ -1,0 +1,1 @@
+io/opentelemetry/javaagent/opentelemetry-javaagent/2.8.0/opentelemetry-javaagent-2.8.0-spdx.json
