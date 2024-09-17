@@ -3898,6 +3898,7 @@ org.jqassistant.plugin.typescript:jqassistant-typescript-plugin
 org.jqassistant.plugin.typescript:parent
 org.jqassistant.plugin:common-parent
 org.jqassistant.plugin:jqassistant-asyncapi-plugin
+org.jqassistant.plugin:jqassistant-c4-plugin
 org.jqassistant.plugin:jqassistant-jira-plugin
 org.jqassistant.plugin:jqassistant-plantuml-report-plugin
 org.jqassistant.plugin:jqassistant-spring-plugin
