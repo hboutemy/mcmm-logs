@@ -1165,6 +1165,7 @@ jakarta.websocket:jakarta.websocket-all
 jakarta.websocket:jakarta.websocket-api
 jakarta.websocket:jakarta.websocket-client-api
 jakarta.ws.rs:all
+jakarta.ws.rs:jakarta-restful-ws-tck
 jakarta.ws.rs:jakarta.ws.rs-api
 jakarta.xml.bind:jakarta.xml.bind-api
 jakarta.xml.bind:jakarta.xml.bind-api-parent
@@ -2938,6 +2939,11 @@ org.eclipse.microprofile.openapi:microprofile-openapi-parent
 org.eclipse.microprofile.openapi:microprofile-openapi-spec
 org.eclipse.microprofile.openapi:microprofile-openapi-spi
 org.eclipse.microprofile.openapi:microprofile-openapi-tck
+org.eclipse.microprofile.reactive-streams-operators:microprofile-reactive-streams-operators-api
+org.eclipse.microprofile.reactive-streams-operators:microprofile-reactive-streams-operators-core
+org.eclipse.microprofile.reactive-streams-operators:microprofile-reactive-streams-operators-parent
+org.eclipse.microprofile.reactive-streams-operators:microprofile-reactive-streams-operators-spec
+org.eclipse.microprofile.reactive-streams-operators:microprofile-reactive-streams-operators-tck
 org.eclipse.microprofile.rest.client:microprofile-rest-client-api
 org.eclipse.microprofile.rest.client:microprofile-rest-client-parent
 org.eclipse.microprofile.rest.client:microprofile-rest-client-spec
