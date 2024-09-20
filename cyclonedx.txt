@@ -4992,11 +4992,13 @@ org.opendaylight.netconf:odl-netconf-truststore
 org.opendaylight.netconf:odl-netconf-util
 org.opendaylight.netconf:odl-restconf
 org.opendaylight.netconf:odl-restconf-all
+org.opendaylight.netconf:odl-restconf-api
 org.opendaylight.netconf:odl-restconf-common
 org.opendaylight.netconf:odl-restconf-nb
 org.opendaylight.netconf:odl-restconf-nb-bierman02
 org.opendaylight.netconf:odl-restconf-nb-rfc8040
 org.opendaylight.netconf:odl-restconf-openapi
+org.opendaylight.netconf:odl-restconf-server-api
 org.opendaylight.netconf:odl-yanglib
 org.opendaylight.netconf:odl-yanglib-mdsal-writer
 org.opendaylight.netconf:restconf-api

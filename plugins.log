@@ -5376,6 +5376,7 @@ org.eclipse.tycho -> tycho-packaging:tycho-packaging-plugin = "Tycho OSGi Packag
 org.eclipse.tycho -> tycho-pomgenerator:tycho-pomgenerator-plugin = "Tycho POM Generator Plugin"
 org.eclipse.tycho -> tycho-pomgenerator:tycho-pomgenerator-plugin = "Tycho POM Generator Plugin (Incubation)"
 org.eclipse.tycho -> tycho-repository:tycho-repository-plugin = "Tycho Repository Plugin"
+org.eclipse.tycho -> tycho-sbom:tycho-sbom = "Tycho SBOM model extension"
 org.eclipse.tycho -> tycho-source:tycho-source-plugin = "Tycho OSGi Source Plugin"
 org.eclipse.tycho -> tycho-source:tycho-source-plugin = "Tycho OSGi Source Plugin (Incubation)"
 org.eclipse.tycho -> tycho-surefire:tycho-surefire-plugin = "Tycho Surefire Plugin"
