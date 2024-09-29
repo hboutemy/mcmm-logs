@@ -6119,6 +6119,7 @@ org.nocrala.tools.database.debbie -> debbie:debbie-maven-plugin =
 org.nocrala.tools.database.sentinel -> sentinel:sentinel-maven-plugin = 
 org.nocrala.tools.sourcecode.maven -> artifacts-attach:artifacts-attach = "Artifacts Attach Maven Plugin"
 org.noear -> solon:solon-maven-plugin = 
+org.noear -> waad:waad-maven-plugin = 
 org.noear -> weed3:weed3-maven-plugin = 
 org.noear -> wood:wood-maven-plugin = 
 org.noorm -> noorm-generator:noorm-generator = "NoORM Java Code Generator"
