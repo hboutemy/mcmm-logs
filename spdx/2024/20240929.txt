@@ -1,0 +1,1 @@
+de/powerstat/toolbaseline/tbl-java-parent/17.1.0/tbl-java-parent-17.1.0.spdx.rdf.xml
