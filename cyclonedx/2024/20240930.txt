@@ -1,0 +1,11 @@
+de/powerstat/toolbaseline/tbl-java-parent/17.1.1/tbl-java-parent-17.1.1-cyclonedx.xml
+jakarta/data/jakarta.data-api/1.0.1/jakarta.data-api-1.0.1-cyclonedx.json
+jakarta/data/jakarta.data-api/1.0.1/jakarta.data-api-1.0.1-cyclonedx.xml
+jakarta/data/jakarta.data-parent/1.0.1/jakarta.data-parent-1.0.1-cyclonedx.xml
+jakarta/data/jakarta.data-parent/1.0.1/jakarta.data-parent-1.0.1-cyclonedx.json
+jakarta/data/jakarta.data-spec/1.0.1/jakarta.data-spec-1.0.1-cyclonedx.json
+jakarta/data/jakarta.data-spec/1.0.1/jakarta.data-spec-1.0.1-cyclonedx.xml
+jakarta/data/jakarta.data-tck-dist/1.0.1/jakarta.data-tck-dist-1.0.1-cyclonedx.xml
+jakarta/data/jakarta.data-tck-dist/1.0.1/jakarta.data-tck-dist-1.0.1-cyclonedx.json
+jakarta/data/jakarta.data-tck/1.0.1/jakarta.data-tck-1.0.1-cyclonedx.xml
+jakarta/data/jakarta.data-tck/1.0.1/jakarta.data-tck-1.0.1-cyclonedx.json
