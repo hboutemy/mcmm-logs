@@ -777,6 +777,7 @@ de.frachtwerk:essencium-backend-storage-module
 de.frachtwerk:essencium-backend-uuid-model
 de.knightsoft-net:gwt-commons-codec
 de.knightsoft-net:gwt-commons-lang3
+de.powerstat.phplib:templateengine
 de.powerstat.toolbaseline:tbl-java-parent
 de.stklcode.jvault:jvault-connector
 de.stklcode.pubtrans:juraclient

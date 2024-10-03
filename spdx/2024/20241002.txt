@@ -1,0 +1,2 @@
+de/powerstat/phplib/templateengine/2.1.0/templateengine-2.1.0.spdx.rdf.xml
+de/powerstat/toolbaseline/tbl-java-parent/17.2.0/tbl-java-parent-17.2.0.spdx.rdf.xml
