@@ -16,6 +16,7 @@ de.knightsoft-net:gwt-commons-codec
 de.knightsoft-net:gwt-commons-lang3
 de.powerstat.phplib:templateengine
 de.powerstat.toolbaseline:tbl-java-parent
+de.powerstat.validation:validation
 io.github.ryunen344.webauthn:webauthn2-json-moshi
 io.github.ryunen344.webauthn:webauthn2-json-serialization
 io.opentelemetry.javaagent:opentelemetry-javaagent

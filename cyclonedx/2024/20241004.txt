@@ -1,0 +1,4 @@
+de/codecentric/spring-boot-admin-sample-servlet/3.3.4/spring-boot-admin-sample-servlet-3.3.4-cyclonedx.json
+de/powerstat/validation/validation/3.1.0/validation-3.1.0-cyclonedx.xml
+dev/openfeature/contrib/providers/flagd/0.9.0/flagd-0.9.0-cyclonedx.json
+dev/openfeature/contrib/providers/flagd/0.9.0/flagd-0.9.0-cyclonedx.xml

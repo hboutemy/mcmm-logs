@@ -770,6 +770,7 @@ de.bund.bva.isyfact:isyfact-bom
 de.bund.bva.isyfact:isyfact-products-bom
 de.bund.bva.isyfact:isyfact-standards
 de.bund.bva.isyfact:isyfact-standards-bom
+de.codecentric:spring-boot-admin-sample-servlet
 de.frachtwerk:essencium-backend
 de.frachtwerk:essencium-backend-identity-model
 de.frachtwerk:essencium-backend-sequence-model
@@ -779,6 +780,7 @@ de.knightsoft-net:gwt-commons-codec
 de.knightsoft-net:gwt-commons-lang3
 de.powerstat.phplib:templateengine
 de.powerstat.toolbaseline:tbl-java-parent
+de.powerstat.validation:validation
 de.stklcode.jvault:jvault-connector
 de.stklcode.pubtrans:juraclient
 de.trustable.cmp.client:cmpClient
