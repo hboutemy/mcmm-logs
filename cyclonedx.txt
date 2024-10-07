@@ -2654,6 +2654,7 @@ org.apache.skywalking:apm
 org.apache.skywalking:apm-network
 org.apache.skywalking:apm-webapp
 org.apache.skywalking:aws-firehose-receiver
+org.apache.skywalking:cilium-fetcher-plugin
 org.apache.skywalking:cluster-consul-plugin
 org.apache.skywalking:cluster-etcd-plugin
 org.apache.skywalking:cluster-kubernetes-plugin
@@ -2673,6 +2674,7 @@ org.apache.skywalking:debugging-query-plugin
 org.apache.skywalking:envoy-metrics-receiver-plugin
 org.apache.skywalking:event-analyzer
 org.apache.skywalking:exporter
+org.apache.skywalking:fetcher-proto
 org.apache.skywalking:grpc-configuration-sync
 org.apache.skywalking:kafka-fetcher-plugin
 org.apache.skywalking:library-client
