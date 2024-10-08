@@ -800,6 +800,8 @@ dev.openfeature.contrib.tools:junitopenfeature
 dev.openfeature:sdk
 dev.samsanders.openvex:jvex
 dev.vality:service-parent-pom
+edu.hm.hafner:pmd-core
+edu.hm.hafner:pmd-java
 fr.marcwrobel:jbanking
 gov.nist.secauto.oscal:liboscal-java
 io.docops:docops-extension-server
