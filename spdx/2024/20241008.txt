@@ -1,0 +1,3 @@
+org/opendaylight/infrautils/infrautils-sbom-6.0.11.spdx
+org/opendaylight/mdsal/mdsal-sbom-12.0.7.spdx
+org/opendaylight/yangtools/yangtools-sbom-11.0.8.spdx
