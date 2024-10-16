@@ -2,6 +2,7 @@ org.apache.commons:commons-parent
 org.jetbrains.kotlin:analysis-api-test-framework
 org.jetbrains.kotlin:atomicfu
 org.jetbrains.kotlin:compose-compiler-gradle-plugin
+org.jetbrains.kotlin:fus-statistics-gradle-plugin
 org.jetbrains.kotlin:js-plain-objects
 org.jetbrains.kotlin:jvm-abi-gen
 org.jetbrains.kotlin:jvm-abi-gen-embeddable
@@ -125,4 +126,11 @@ org.jetbrains.kotlin:kotlin-util-klib
 org.jetbrains.kotlin:kotlin-util-klib-metadata
 org.jetbrains.kotlin:kotlinx-js-plain-objects-compiler-plugin
 org.jetbrains.kotlin:kotlinx-js-plain-objects-compiler-plugin-embeddable
+org.jetbrains.kotlin:sir
+org.jetbrains.kotlin:sir-compiler-bridge
+org.jetbrains.kotlin:sir-light-classes
+org.jetbrains.kotlin:sir-printer
+org.jetbrains.kotlin:sir-providers
+org.jetbrains.kotlin:swift-export-embeddable
+org.jetbrains.kotlin:swift-export-standalone
 org:opendaylight
