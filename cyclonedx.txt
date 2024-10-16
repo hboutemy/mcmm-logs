@@ -1,3 +1,11 @@
+com.buschmais.jqassistant.cli:jqassistant-commandline-neo4jv4
+com.buschmais.jqassistant.cli:jqassistant-commandline-neo4jv5
+com.buschmais.jqassistant.plugin:common
+com.buschmais.jqassistant.plugin:java
+com.buschmais.jqassistant.plugin:json
+com.buschmais.jqassistant.plugin:junit
+com.buschmais.jqassistant.plugin:maven3
+com.buschmais.jqassistant.plugin:xml
 com.flowlogix:flowlogix
 com.flowlogix:flowlogix-bom
 com.flowlogix:flowlogix-datamodel
@@ -131,6 +139,9 @@ org.janusgraph:janusgraph-server
 org.janusgraph:janusgraph-solr
 org.janusgraph:janusgraph-test
 org.janusgraph:scylla-hadoop-util
+org.jqassistant.plugin:common-parent
+org.jqassistant.plugin:parent
+org.jqassistant.plugin:rules
 org.locationtech.geomesa:docs
 org.locationtech.geomesa:geomesa-accumulo-datastore_2.12
 org.locationtech.geomesa:geomesa-accumulo-datastore_2.13
