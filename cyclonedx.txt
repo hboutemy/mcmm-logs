@@ -28,6 +28,18 @@ com.io7m.darco:com.io7m.darco.postgres
 com.io7m.darco:com.io7m.darco.sqlite
 com.io7m.darco:com.io7m.darco.templating
 com.io7m.darco:com.io7m.darco.tests
+com.io7m.montarre:com.io7m.montarre
+com.io7m.montarre:com.io7m.montarre.api
+com.io7m.montarre:com.io7m.montarre.cmdline
+com.io7m.montarre:com.io7m.montarre.distribution
+com.io7m.montarre:com.io7m.montarre.documentation
+com.io7m.montarre:com.io7m.montarre.io
+com.io7m.montarre:com.io7m.montarre.launchstub
+com.io7m.montarre:com.io7m.montarre.maven_plugin
+com.io7m.montarre:com.io7m.montarre.nativepack
+com.io7m.montarre:com.io7m.montarre.schema
+com.io7m.montarre:com.io7m.montarre.tests
+com.io7m.montarre:com.io7m.montarre.xml
 com.io7m.primogenitor:com.io7m.primogenitor
 com.io7m.primogenitor:com.io7m.primogenitor.full
 com.io7m.primogenitor:com.io7m.primogenitor.lite
@@ -326,6 +338,7 @@ org.apache.maven.doxia:doxia-site-model
 org.apache.maven.doxia:doxia-site-renderer
 org.apache.maven.doxia:doxia-sitetools
 org.apache.maven.doxia:doxia-skin-model
+org.apache.maven.plugins:maven-artifact-plugin
 org.apache.maven.reporting:maven-reporting-exec
 org.apache.maven.reporting:maven-reporting-impl
 org.apache.maven.resolver:maven-resolver

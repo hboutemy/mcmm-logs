@@ -1755,6 +1755,7 @@ com.io7m.jxtrand -> com.io7m.jxtrand._:com.io7m.jxtrand.maven_plugin = "com.io7m
 com.io7m.kstructural -> io7m-kstructural:io7m-kstructural-maven-plugin = "io7m-kstructural-maven-plugin"
 com.io7m.minisite -> com.io7m.minisite._:com.io7m.minisite.maven_plugin = "com.io7m.minisite.maven_plugin"
 com.io7m.modulechaser -> com.io7m.modulechaser:com.io7m.modulechaser = "com.io7m.modulechaser"
+com.io7m.montarre -> com.io7m.montarre._:com.io7m.montarre.maven_plugin = "com.io7m.montarre.maven_plugin"
 com.io7m.saxon-plugin -> io7m-saxon:io7m-saxon-plugin = "io7m-saxon-plugin"
 com.io7m.stmp -> string-template:string-template-maven-plugin = "string-template-maven-plugin"
 com.io7m.sunburst -> com.io7m.sunburst..:com.io7m.sunburst.maven.plugin = "com.io7m.sunburst.maven.plugin"
