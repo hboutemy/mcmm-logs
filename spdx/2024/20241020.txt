@@ -1,0 +1,4 @@
+org/opendaylight/aaa/aaa-sbom-0.18.7.spdx
+org/opendaylight/aaa/aaa-sbom-0.18.8.spdx
+org/opendaylight/bgpcep/bgpcep-sbom-0.20.9.spdx
+org/opendaylight/netconf/netconf-sbom-6.0.9.spdx

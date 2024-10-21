@@ -192,6 +192,7 @@ cn.joylau.code -> joylau-springboot-daemon-windows:joylau-springboot-daemon-wind
 cn.kduck -> kduck:kduck-maven-plugin = "kduck-maven-plugin Maven Plugin"
 cn.mapway -> db:db-maven-plugin = "db-maven-plugin"
 cn.mapway -> mapway:mapway-maven-plugin = "mapway-maven-plugin Maven Plugin"
+cn.mybatis-mp -> mybatis-mp-generator:mybatis-mp-generator-maven-plugin = "mybatis-mp-generator-maven-plugin"
 cn.pivoto.polaris.plugins -> properties:properties-maven-plugin = 
 cn.richinfo.agent.android -> agent:agent-maven-plugin = "RichAPM Android Agent Maven Plugin"
 cn.shenyanchao.ut -> ut:ut-maven-plugin = "ut-maven-plugin"
