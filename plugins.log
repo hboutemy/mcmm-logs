@@ -217,6 +217,7 @@ co.fizzed -> fizzed-versionizer:fizzed-versionizer-maven-plugin = "fizzed-maven-
 co.luminositylabs.oss.maven.plugins -> embedded-payara:embedded-payara-maven-plugin = "Payara Embedded Maven Plugin"
 co.luminositylabs.oss.maven.plugins -> payara-micro:payara-micro-maven-plugin = "Payara Micro Maven Plugin"
 co.mewf.humpty -> humpty:humpty-maven-plugin = "humpty-maven-plugin"
+codes.rafael.bytecodeupdate -> bytecode-update:bytecode-update-maven-plugin = "Byte Code Update Maven Plugin"
 codes.rafael.gradlemavenplugin -> gradle:gradle-maven-plugin = "gradle-maven-plugin Maven Mojo"
 codes.rafael.modulemaker -> modulemaker:modulemaker-maven-plugin = "Module Maker Maven Plugin"
 codes.rafael.structuraltype -> structural-type:structural-type-maven-plugin = 
@@ -5870,6 +5871,7 @@ org.kevoree.tools -> org.kevoree.tools.merger.:org.kevoree.tools.merger.mavenplu
 org.kevoree.watchdog -> org.kevoree.watchdog.runner:org.kevoree.watchdog.mavenrunner = "Kevoree :: Watchdog :: MavenRunner"
 org.keycloak -> keycloak-distribution-licenses:keycloak-distribution-licenses-maven-plugin = "Keycloak Licenses Processor Maven Plugin"
 org.keycloak -> keycloak-guides:keycloak-guides-maven-plugin = "Keycloak Guides Maven Plugin"
+org.keycloak -> keycloak-client-guides:keycloak-client-guides-maven-plugin = "Keycloak Client Guides Maven Plugin"
 org.kie -> jboss-modules:jboss-modules = "KIE EAP - Maven plugin"
 org.kie -> kie-gwthelper:kie-gwthelper-maven-plugin = "KIE :: Gwt Helper Maven Plugin"
 org.kie -> kie:kie-maven-plugin = "KIE :: Maven Plugin"
@@ -6430,8 +6432,10 @@ org.slinkyframework -> slinky-environment-config:slinky-environment-config-maven
 org.slinkyframework.environment -> slinky-environment-builder:slinky-environment-builder-maven-plugin = 
 org.slinkyframework.environment -> slinky-environment-config:slinky-environment-config-maven-plugin = "slinky-environment-config-maven-plugin"
 org.smallmind -> jaxws-mojo:maven-jaxws-mojo = "Maven-Jaxws-Mojo"
+org.smallmind -> schema-validation:schema-validation-maven-plugin = "schema-validation-maven-plugin"
 org.smallmind -> schema-validation:schema-validation-plugin = "Schema-Validation-Plugin"
 org.smallmind -> smallmind-javafx-mojo:smallmind-javafx-mojo = "Smallmind-JavaFX-Mojo"
+org.smallmind -> smallmind-license:smallmind-license-maven-plugin = "License"
 org.smallmind -> smallmind-license:smallmind-license-plugin = "License"
 org.smallmind -> smallmind-validation:smallmind-validation-plugin = "Validation"
 org.smallmind -> spark-singularity:spark-singularity-maven-plugin = "Spark-Singularity-Maven-Plugin"

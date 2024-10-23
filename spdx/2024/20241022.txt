@@ -1,0 +1,2 @@
+org/apache/commons/commons-parent/78/commons-parent-78.spdx.json
+org/opendaylight/aaa/aaa-sbom-0.20.3.spdx
