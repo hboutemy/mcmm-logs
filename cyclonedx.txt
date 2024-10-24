@@ -134,6 +134,12 @@ io.dropwizard:dropwizard-views
 io.dropwizard:dropwizard-views-freemarker
 io.dropwizard:dropwizard-views-mustache
 io.github.sebastian-toepfer.oss:oss-parent
+io.smallrye.reactive:mutiny
+io.smallrye.reactive:mutiny-kotlin
+io.smallrye.reactive:mutiny-math
+io.smallrye.reactive:mutiny-no-deps
+io.smallrye.reactive:mutiny-reactor
+io.smallrye.reactive:mutiny-rxjava3
 io.smallrye.reactive:smallrye-mutiny-vertx-amqp-client
 io.smallrye.reactive:smallrye-mutiny-vertx-auth-common
 io.smallrye.reactive:smallrye-mutiny-vertx-auth-htdigest
@@ -872,6 +878,8 @@ org.jdbi:jdbi3-stringtemplate4
 org.jdbi:jdbi3-testcontainers
 org.jdbi:jdbi3-testing
 org.jdbi:jdbi3-vavr
+org.jqassistant.plugin.typescript:jqassistant-typescript-plugin
+org.jqassistant.plugin.typescript:parent
 org.jqassistant.plugin:common-parent
 org.jqassistant.plugin:parent
 org.jqassistant.plugin:rules
