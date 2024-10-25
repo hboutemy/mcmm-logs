@@ -1926,6 +1926,7 @@ com.marcoeckstein -> autoannotator:autoannotator-maven-plugin =
 com.mariocairone.mule -> anypoint:anypoint-maven-plugin = "Anypoint Maven Plugin"
 com.markstickel.openapi -> openapi-docgen:openapi-docgen-maven-plugin = "openapi-docgen-maven-plugin Maven Plugin"
 com.marvinformatics -> adt:adt-maven-plugin = "Adobe AIR Development tools Maven plugin"
+com.marvinformatics -> dgs-codegen:dgs-codegen-maven-plugin = "dgs-codegen-maven-plugin"
 com.marvinformatics -> docker-compose:docker-compose-maven-plugin = "Docker Compose Maven Plugin"
 com.marvinformatics -> link-dependencies:link-dependencies-maven-plugin = "Apache Maven Dependency Plugin"
 com.marvinformatics -> manifest-validator:manifest-validator-maven-plugin = "manifest-validator-maven-plugin"
