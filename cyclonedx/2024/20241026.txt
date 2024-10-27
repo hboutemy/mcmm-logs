@@ -1,0 +1,4 @@
+com/github/hazendaz/git/github-desktop/3.4.8/github-desktop-3.4.8-cyclonedx.xml
+com/github/hazendaz/git/github-desktop/3.4.8/github-desktop-3.4.8-cyclonedx.json
+org/apache/maven/shared/maven-dependency-analyzer/1.15.1/maven-dependency-analyzer-1.15.1-cyclonedx.xml
+org/apache/maven/shared/maven-dependency-analyzer/1.15.1/maven-dependency-analyzer-1.15.1-cyclonedx.json

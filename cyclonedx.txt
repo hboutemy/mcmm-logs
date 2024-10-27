@@ -780,6 +780,7 @@ org.apache.maven.resolver:maven-resolver-transport-jetty
 org.apache.maven.resolver:maven-resolver-transport-minio
 org.apache.maven.resolver:maven-resolver-transport-wagon
 org.apache.maven.resolver:maven-resolver-util
+org.apache.maven.shared:maven-dependency-analyzer
 org.apache.maven:apache-maven
 org.apache.maven:maven
 org.apache.maven:maven-api
