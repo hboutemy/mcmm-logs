@@ -97,6 +97,8 @@ de.bund.bva.isyfact:isyfact-standards-bom
 de.trustable:cryptoUtil
 dev.openfeature.contrib.providers:flagd
 dev.openfeature:sdk
+edu.hm.hafner:pmd-core
+edu.hm.hafner:pmd-java
 io.dropwizard.archetypes:dropwizard-archetypes
 io.dropwizard.archetypes:java-simple
 io.dropwizard.modules:dropwizard-testing-junit4
