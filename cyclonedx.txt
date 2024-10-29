@@ -97,6 +97,7 @@ de.bund.bva.isyfact:isyfact-standards-bom
 de.trustable:cryptoUtil
 dev.openfeature.contrib.providers:flagd
 dev.openfeature:sdk
+dev.vality:service-parent-pom
 edu.hm.hafner:pmd-core
 edu.hm.hafner:pmd-java
 io.dropwizard.archetypes:dropwizard-archetypes
@@ -314,6 +315,7 @@ net.sourceforge.pmd:pmd-velocity
 net.sourceforge.pmd:pmd-visualforce
 net.sourceforge.pmd:pmd-xml
 org.apache.camel.k:camel-k-runtime-project
+org.apache.camel.quarkus:camel-quarkus
 org.apache.camel.springboot:spring-boot
 org.apache.camel:camel
 org.apache.commons:commons-parent
@@ -401,6 +403,9 @@ org.apache.flink:flink-architecture-tests
 org.apache.flink:flink-architecture-tests-base
 org.apache.flink:flink-architecture-tests-production
 org.apache.flink:flink-architecture-tests-test
+org.apache.flink:flink-autoscaler
+org.apache.flink:flink-autoscaler-plugin-jdbc
+org.apache.flink:flink-autoscaler-standalone
 org.apache.flink:flink-avro
 org.apache.flink:flink-avro-confluent-registry
 org.apache.flink:flink-azure-fs-hadoop
@@ -442,6 +447,11 @@ org.apache.flink:flink-hadoop-compatibility
 org.apache.flink:flink-hadoop-fs
 org.apache.flink:flink-json
 org.apache.flink:flink-kubernetes
+org.apache.flink:flink-kubernetes-operator
+org.apache.flink:flink-kubernetes-operator-api
+org.apache.flink:flink-kubernetes-operator-parent
+org.apache.flink:flink-kubernetes-standalone
+org.apache.flink:flink-kubernetes-webhook
 org.apache.flink:flink-libraries
 org.apache.flink:flink-metrics
 org.apache.flink:flink-metrics-core
@@ -726,6 +736,12 @@ org.apache.jena:jena-shex
 org.apache.jena:jena-tdb1
 org.apache.jena:jena-tdb2
 org.apache.jena:jena-text
+org.apache.maven.archetype:archetype-catalog
+org.apache.maven.archetype:archetype-common
+org.apache.maven.archetype:archetype-descriptor
+org.apache.maven.archetype:archetype-models
+org.apache.maven.archetype:archetype-packaging
+org.apache.maven.archetype:maven-archetype
 org.apache.maven.doxia:doxia-integration-tools
 org.apache.maven.doxia:doxia-site-model
 org.apache.maven.doxia:doxia-site-renderer
@@ -744,6 +760,7 @@ org.apache.maven.plugin-tools:maven-plugin-tools-model
 org.apache.maven.plugin-tools:maven-script
 org.apache.maven.plugin-tools:maven-script-ant
 org.apache.maven.plugin-tools:maven-script-beanshell
+org.apache.maven.plugins:maven-archetype-plugin
 org.apache.maven.plugins:maven-artifact-plugin
 org.apache.maven.plugins:maven-checkstyle-plugin
 org.apache.maven.plugins:maven-dependency-plugin
@@ -752,6 +769,7 @@ org.apache.maven.plugins:maven-invoker-plugin
 org.apache.maven.plugins:maven-jxr-plugin
 org.apache.maven.plugins:maven-plugin-plugin
 org.apache.maven.plugins:maven-plugin-report-plugin
+org.apache.maven.plugins:maven-pmd-plugin
 org.apache.maven.plugins:maven-project-info-reports-plugin
 org.apache.maven.plugins:maven-site-plugin
 org.apache.maven.reporting:maven-reporting-exec
