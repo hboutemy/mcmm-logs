@@ -6298,6 +6298,7 @@ org.palladiosimulator -> buckminster-tycho-migrator:buckminster-tycho-migrator =
 org.palladiosimulator -> tycho-document-bundle:tycho-document-bundle-plugin = "Tycho Document Bundle Plugin"
 org.palladiosimulator -> tycho-tp-refresh:tycho-tp-refresh-maven-plugin = "Tycho Target Platform Refresh Plugin"
 org.palladiosimulator -> tycho-versions:tycho-versions-plugin = "Tycho Versions Plugin"
+org.panteleyev -> jlink:jlink-maven-plugin = "${project.groupId}:${project.artifactId}"
 org.panteleyev -> jpackage:jpackage-maven-plugin = "${project.groupId}:${project.artifactId}"
 org.papoose.plugins -> version:version-maven-plugin = "Papoose :: Plugins :: Java Version Checking Plugin"
 org.patrodyne.jvnet -> hisrc-higherjaxb:hisrc-higherjaxb-maven-plugin = "HiSrc HigherJAXB Plugin"

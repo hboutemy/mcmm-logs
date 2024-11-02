@@ -822,6 +822,7 @@ org.apache.maven.resolver:maven-resolver-supplier-mvn3
 org.apache.maven.resolver:maven-resolver-supplier-mvn4
 org.apache.maven.resolver:maven-resolver-test-http
 org.apache.maven.resolver:maven-resolver-test-util
+org.apache.maven.resolver:maven-resolver-tools
 org.apache.maven.resolver:maven-resolver-transport-apache
 org.apache.maven.resolver:maven-resolver-transport-classpath
 org.apache.maven.resolver:maven-resolver-transport-file
