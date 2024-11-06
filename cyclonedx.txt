@@ -101,6 +101,7 @@ de.bund.bva.isyfact:isyfact-standards-bom
 de.codecentric:spring-boot-admin-sample-servlet
 de.trustable:cryptoUtil
 dev.openfeature.contrib.providers:flagd
+dev.openfeature.contrib.providers:multiprovider
 dev.openfeature:sdk
 dev.vality:service-parent-pom
 edu.hm.hafner:pmd-core
@@ -1464,6 +1465,8 @@ org.glassfish.main:glassfish-parent
 org.glassfish.main:hk2-config-generator
 org.glassfish.main:nucleus-parent
 org.glassfish.main:test-utils
+org.glassfish:jakarta.faces
+org.glassfish:mojarra-parent
 org.graylog2:graylog2-server
 org.janusgraph:cassandra-hadoop-util
 org.janusgraph:example-berkeleyje
