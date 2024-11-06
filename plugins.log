@@ -2195,6 +2195,7 @@ com.rudikershaw -> remove-attached-artifact:remove-attached-artifact-maven-plugi
 com.rudikershaw.gitbuildhook -> git-build-hook:git-build-hook-maven-plugin = "Git Build Hook Maven Plugin"
 com.ruleoftech -> markdown-page-generator:markdown-page-generator-plugin = "Markdown Page Generator Maven Plugin"
 com.rultor -> rultor:rultor-maven-plugin = "rultor-maven-plugin"
+com.sagframe -> quickvo:quickvo-maven-plugin = "quickvo-maven-plugin"
 com.salesforce.servicelibs -> canteen:canteen-maven-plugin = 
 com.salesforce.servicelibs -> proto-backwards-compatibility:proto-backwards-compatibility = "Proto Backwards Compatibility Maven Mojo"
 com.samajackun.arco -> arco:arco-maven-plugin = "Arco Maven Plugin"

@@ -28,6 +28,7 @@ com.github.hazendaz.jmockit:petclinic
 com.github.hazendaz.jmockit:samples
 com.github.hazendaz.jmockit:tutorial
 com.github.hazendaz.maven:makeself-maven-plugin
+com.github.hazendaz.nodejs:node
 com.github.hazendaz.tomcat:tomcat10-config
 com.github.hazendaz.tomcat:tomcat11-config
 com.github.hazendaz.tomcat:tomcat9-config
@@ -59,6 +60,7 @@ com.io7m.primogenitor:com.io7m.primogenitor.full
 com.io7m.primogenitor:com.io7m.primogenitor.lite
 com.io7m.primogenitor:com.io7m.primogenitor.support
 com.io7m.primogenitor:com.io7m.primogenitor.tests
+com.open-elements:oss-license-scanner
 com.yahoo.athenz:athenz
 com.yahoo.athenz:athenz-auth-core
 com.yahoo.athenz:athenz-cert-refresher
@@ -841,6 +843,7 @@ org.apache.maven.resolver:maven-resolver-transport-minio
 org.apache.maven.resolver:maven-resolver-transport-wagon
 org.apache.maven.resolver:maven-resolver-util
 org.apache.maven.shared:maven-dependency-analyzer
+org.apache.maven.skins:maven-fluido-skin
 org.apache.maven.surefire:common-java5
 org.apache.maven.surefire:common-junit3
 org.apache.maven.surefire:common-junit4
@@ -899,6 +902,7 @@ org.apache.maven:maven-settings-builder
 org.apache.maven:maven-toolchain-builder
 org.apache.maven:maven-toolchain-model
 org.apache.maven:maven-xml-impl
+org.apache.santuario:xmlsec
 org.apache.spark:spark-avro_2.12
 org.apache.spark:spark-avro_2.13
 org.apache.spark:spark-catalyst_2.12
