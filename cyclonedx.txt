@@ -1090,6 +1090,7 @@ org.apache.zookeeper:zookeeper-jute
 org.apache.zookeeper:zookeeper-metrics-providers
 org.apache.zookeeper:zookeeper-prometheus-metrics
 org.cyclonedx:cyclonedx-core-java
+org.eclipse.jetty:jetty-home
 org.eclipse.microprofile.fault-tolerance:microprofile-fault-tolerance-api
 org.eclipse.microprofile.fault-tolerance:microprofile-fault-tolerance-parent
 org.eclipse.microprofile.fault-tolerance:microprofile-fault-tolerance-spec
@@ -2587,6 +2588,7 @@ org.opendaylight.yangtools:yang-xpath-api
 org.opendaylight.yangtools:yang-xpath-impl
 org.opendaylight.yangtools:yangtools-artifacts
 org.opendaylight.yangtools:yangtools-docs
+org.sonarsource.scanner.maven:sonar-maven-plugin
 us.springett:alpine-common
 us.springett:alpine-executable-war
 us.springett:alpine-infra
