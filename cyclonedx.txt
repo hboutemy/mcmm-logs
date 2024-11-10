@@ -61,6 +61,8 @@ com.io7m.primogenitor:com.io7m.primogenitor.lite
 com.io7m.primogenitor:com.io7m.primogenitor.support
 com.io7m.primogenitor:com.io7m.primogenitor.tests
 com.open-elements:oss-license-scanner
+com.vesoft:driver
+com.vesoft:nebula
 com.yahoo.athenz:athenz
 com.yahoo.athenz:athenz-auth-core
 com.yahoo.athenz:athenz-cert-refresher
@@ -1473,6 +1475,17 @@ org.glassfish.main:test-utils
 org.glassfish:jakarta.faces
 org.glassfish:mojarra-parent
 org.graylog2:graylog2-server
+org.huiche:huiche
+org.huiche:huiche-bom
+org.huiche:huiche-core
+org.huiche:huiche-sql-apt
+org.huiche:huiche-sql-codegen
+org.huiche:huiche-sql-core
+org.huiche:huiche-sql-dao
+org.huiche:huiche-sql-dialect
+org.huiche:huiche-sql-dsl
+org.huiche:huiche-sql-jdbc
+org.huiche:huiche-sql-spring-boot-starter
 org.janusgraph:cassandra-hadoop-util
 org.janusgraph:example-berkeleyje
 org.janusgraph:example-common
