@@ -1,0 +1,14 @@
+com/github/hazendaz/tomcat/tomcat11-config/11.0.1/tomcat11-config-11.0.1-cyclonedx.xml
+com/github/hazendaz/tomcat/tomcat11-config/11.0.1/tomcat11-config-11.0.1-cyclonedx.json
+com/github/hazendaz/tomcat/tomcat9-config/9.0.97/tomcat9-config-9.0.97-cyclonedx.json
+com/github/hazendaz/tomcat/tomcat9-config/9.0.97/tomcat9-config-9.0.97-cyclonedx.xml
+com/open-elements/hedera/hedera-base/0.10.0/hedera-base-0.10.0-cyclonedx.json
+com/open-elements/hedera/hedera-base/0.10.0/hedera-base-0.10.0-cyclonedx.xml
+com/open-elements/hedera/hedera-enterprise/0.10.0/hedera-enterprise-0.10.0-cyclonedx.xml
+com/open-elements/hedera/hedera-enterprise/0.10.0/hedera-enterprise-0.10.0-cyclonedx.json
+com/open-elements/hedera/hedera-microprofile/0.10.0/hedera-microprofile-0.10.0-cyclonedx.xml
+com/open-elements/hedera/hedera-microprofile/0.10.0/hedera-microprofile-0.10.0-cyclonedx.json
+com/open-elements/hedera/hedera-spring/0.10.0/hedera-spring-0.10.0-cyclonedx.xml
+com/open-elements/hedera/hedera-spring/0.10.0/hedera-spring-0.10.0-cyclonedx.json
+org/apache/tsfile/tsfile-parent/1.1.0/tsfile-parent-1.1.0-cyclonedx.json
+org/apache/tsfile/tsfile-parent/1.1.0/tsfile-parent-1.1.0-cyclonedx.xml

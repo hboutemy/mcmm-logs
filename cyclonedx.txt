@@ -60,6 +60,10 @@ com.io7m.primogenitor:com.io7m.primogenitor.full
 com.io7m.primogenitor:com.io7m.primogenitor.lite
 com.io7m.primogenitor:com.io7m.primogenitor.support
 com.io7m.primogenitor:com.io7m.primogenitor.tests
+com.open-elements.hedera:hedera-base
+com.open-elements.hedera:hedera-enterprise
+com.open-elements.hedera:hedera-microprofile
+com.open-elements.hedera:hedera-spring
 com.open-elements:oss-license-scanner
 com.vesoft:driver
 com.vesoft:nebula
@@ -1274,6 +1278,7 @@ org.apache.syncope:syncope-ext
 org.apache.syncope:syncope-fit
 org.apache.syncope:syncope-sra
 org.apache.syncope:syncope-wa
+org.apache.tsfile:tsfile-parent
 org.apache.zookeeper:parent
 org.apache.zookeeper:zookeeper
 org.apache.zookeeper:zookeeper-contrib
