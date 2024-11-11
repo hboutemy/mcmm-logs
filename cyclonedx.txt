@@ -513,6 +513,7 @@ org.apache.camel.quarkus:camel-quarkus
 org.apache.camel.springboot:spring-boot
 org.apache.camel:camel
 org.apache.commons:commons-parent
+org.apache.commons:commons-release-plugin
 org.apache.druid.extensions.contrib:aliyun-oss-extensions
 org.apache.druid.extensions.contrib:ambari-metrics-emitter
 org.apache.druid.extensions.contrib:dropwizard-emitter

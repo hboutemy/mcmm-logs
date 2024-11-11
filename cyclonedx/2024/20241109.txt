@@ -1,0 +1,6 @@
+edu/hm/hafner/pmd-core/7.7.0-metrics-2/pmd-core-7.7.0-metrics-2-cyclonedx.xml
+edu/hm/hafner/pmd-core/7.7.0-metrics-2/pmd-core-7.7.0-metrics-2-cyclonedx.json
+edu/hm/hafner/pmd-java/7.7.0-metrics-2/pmd-java-7.7.0-metrics-2-cyclonedx.xml
+edu/hm/hafner/pmd-java/7.7.0-metrics-2/pmd-java-7.7.0-metrics-2-cyclonedx.json
+org/apache/commons/commons-release-plugin/1.8.3/commons-release-plugin-1.8.3-cyclonedx.xml
+org/apache/commons/commons-release-plugin/1.8.3/commons-release-plugin-1.8.3-cyclonedx.json

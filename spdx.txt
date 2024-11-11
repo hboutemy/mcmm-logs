@@ -1,5 +1,6 @@
 io.opentelemetry.javaagent:opentelemetry-javaagent
 org.apache.commons:commons-parent
+org.apache.commons:commons-release-plugin
 org.jetbrains.kotlin:analysis-api-test-framework
 org.jetbrains.kotlin:atomicfu
 org.jetbrains.kotlin:compose-compiler-gradle-plugin
