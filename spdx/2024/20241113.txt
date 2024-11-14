@@ -1,0 +1,2 @@
+io/opentelemetry/javaagent/opentelemetry-javaagent/2.10.0/opentelemetry-javaagent-2.10.0-spdx.json
+org/opendaylight/controller/controller-sbom-9.0.6.spdx

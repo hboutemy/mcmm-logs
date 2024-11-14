@@ -7,6 +7,11 @@ com.buschmais.jqassistant.plugin:junit
 com.buschmais.jqassistant.plugin:maven3
 com.buschmais.jqassistant.plugin:xml
 com.duosecurity:duo-universal-sdk
+com.flowlogix.archetypes:starter
+com.flowlogix.depchain:depchain
+com.flowlogix.depchain:integration-test
+com.flowlogix.depchain:shiro-jakarta
+com.flowlogix.depchain:unit-test
 com.flowlogix.weld:weld-native
 com.flowlogix:flowlogix
 com.flowlogix:flowlogix-bom
@@ -19,6 +24,7 @@ com.github.camel-tooling:camel-dap-server
 com.github.camel-tooling:camel-lsp-server
 com.github.hazendaz.git:git-for-windows
 com.github.hazendaz.git:github-desktop
+com.github.hazendaz.gradle:gradle
 com.github.hazendaz.jmockit:LoginService
 com.github.hazendaz.jmockit:coverage-tests
 com.github.hazendaz.jmockit:java8testing
@@ -241,6 +247,11 @@ io.smallrye.reactive:smallrye-mutiny-vertx-web-validation
 io.smallrye.reactive:vertx-mutiny-clients
 io.smallrye.reactive:vertx-mutiny-clients-bom
 io.smallrye.reactive:vertx-mutiny-generator
+io.telicent.jena.graphql:graphql-fuseki-module
+io.telicent.jena.graphql:graphql-jena-core
+io.telicent.jena.graphql:graphql-server
+io.telicent.jena.graphql:parent
+io.telicent.jena.graphql:telicent-graph-schema
 io.telicent.jena:jena-fmod-kafka
 io.telicent.jena:jena-fuseki-kafka-module
 io.telicent.jena:jena-kafka
@@ -1019,6 +1030,8 @@ org.apache.maven.doxia:doxia-site-renderer
 org.apache.maven.doxia:doxia-sitetools
 org.apache.maven.doxia:doxia-skin-model
 org.apache.maven.jxr:jxr
+org.apache.maven.plugin-testing:maven-plugin-testing
+org.apache.maven.plugin-testing:maven-plugin-testing-harness
 org.apache.maven.plugin-tools:maven-plugin-annotations
 org.apache.maven.plugin-tools:maven-plugin-tools
 org.apache.maven.plugin-tools:maven-plugin-tools-annotations
