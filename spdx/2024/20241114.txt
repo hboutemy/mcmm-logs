@@ -1,0 +1,2 @@
+de/knightsoft-net/gwt-commons-codec/1.17.1-1/gwt-commons-codec-1.17.1-1.spdx.json
+de/knightsoft-net/gwt-commons-lang3/3.17.0-1/gwt-commons-lang3-3.17.0-1.spdx.rdf.xml

@@ -118,6 +118,8 @@ de.bund.bva.isyfact:isyfact-standards-bom
 de.codecentric:spring-boot-admin-sample-servlet
 de.frachtwerk:essencium-backend
 de.frachtwerk:essencium-backend-storage-module
+de.knightsoft-net:gwt-commons-codec
+de.knightsoft-net:gwt-commons-lang3
 de.trustable:cryptoUtil
 dev.openfeature.contrib.providers:flagd
 dev.openfeature.contrib.providers:multiprovider
@@ -1369,6 +1371,16 @@ org.apache.syncope:syncope-fit
 org.apache.syncope:syncope-sra
 org.apache.syncope:syncope-wa
 org.apache.tsfile:tsfile-parent
+org.apache.wss4j:wss4j
+org.apache.wss4j:wss4j-bindings
+org.apache.wss4j:wss4j-integration
+org.apache.wss4j:wss4j-parent
+org.apache.wss4j:wss4j-policy
+org.apache.wss4j:wss4j-ws-security-common
+org.apache.wss4j:wss4j-ws-security-dom
+org.apache.wss4j:wss4j-ws-security-policy-stax
+org.apache.wss4j:wss4j-ws-security-stax
+org.apache.wss4j:wss4j-ws-security-web
 org.apache.zookeeper:parent
 org.apache.zookeeper:zookeeper
 org.apache.zookeeper:zookeeper-contrib
@@ -1841,6 +1853,7 @@ org.jdbi:jdbi3-vavr
 org.jqassistant.plugin.typescript:jqassistant-typescript-plugin
 org.jqassistant.plugin.typescript:parent
 org.jqassistant.plugin:common-parent
+org.jqassistant.plugin:jqassistant-pub-plugin
 org.jqassistant.plugin:jqassistant-spring-plugin
 org.jqassistant.plugin:parent
 org.jqassistant.plugin:rules

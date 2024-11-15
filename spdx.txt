@@ -1,3 +1,5 @@
+de.knightsoft-net:gwt-commons-codec
+de.knightsoft-net:gwt-commons-lang3
 io.opentelemetry.javaagent:opentelemetry-javaagent
 org.apache.commons:commons-parent
 org.apache.commons:commons-release-plugin
