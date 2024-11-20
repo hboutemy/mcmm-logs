@@ -12794,3 +12794,10 @@ fr/inria/gforge/spoon/spoon-pom/11.1.1-beta-14/spoon-pom-11.1.1-beta-14.pom
 nl/basjes/parse/useragent/yauaa-parent/7.29.0/yauaa-parent-7.29.0.pom
 nl/basjes/parse/useragent/yauaa/7.29.0/yauaa-7.29.0.pom
    from mvn: 887 - non-mvn: 858 - buildinfo: 0 - module: 841 - gradle timestamp: 306 - atlasdb: 0 = 0 release
+20241118
+com/cognite/units/units-catalog/0.1.15/units-catalog-0.1.15.pom
+com/github/hazendaz/base-parent/50/base-parent-50.pom
+io/quarkus/quarkus-parent/3.15.2/quarkus-parent-3.15.2.pom
+org/apache/maven/resolver/maven-resolver/2.0.4/maven-resolver-2.0.4.pom
+org/apache/sling/org.apache.sling.models.impl/1.7.4/org.apache.sling.models.impl-1.7.4.pom
+   from mvn: 4921 - non-mvn: 4350 - buildinfo: 0 - module: 3130 - gradle timestamp: 1477 - atlasdb: 0 = 0 release
