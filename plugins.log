@@ -4343,6 +4343,7 @@ org.aksw.maven.plugins -> lsq:lsq-maven-plugin =
 org.aksw.maven.plugins -> rpt-full:rpt-full-maven-plugin = "RPT-Full Maven Plugin"
 org.aksw.maven.plugins -> rpt:rpt-maven-plugin = "RPT Maven Plugin"
 org.aksw.maven.plugins -> tdb2:tdb2-maven-plugin = 
+org.alfasoftware -> astra:astra-maven-plugin = "ASTRA maven plugin"
 org.alfresco.maven.plugin -> alfresco:alfresco-maven-plugin = "Alfresco Maven Plugin"
 org.aludratest.maven -> aludratest-helper:aludratest-helper-maven-plugin = "AludraTest Maven Build Helper Plugin"
 org.amebastack.maven -> ameba:ameba-maven = "Ameba-Maven"
