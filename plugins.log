@@ -2908,6 +2908,7 @@ dev.iabudiab -> dependency-track:dependency-track-maven-plugin = "Dependency Tra
 dev.ikm.maven -> manifest:manifest-maven-plugin = "Manifest Maven Plugin"
 dev.ikm.maven -> tinkar:tinkar-maven-plugin = "Tinkar Maven Plugin"
 dev.ikm.maven -> unzip:unzip-maven-plugin = "Unzip Maven Plugin"
+dev.ikm.tinkar -> tinkar-data:tinkar-data-maven-plugin = "tinkar-data-maven-plugin"
 dev.jakartalemon -> jakarta-lemon:jakarta-lemon-plugin = "dev.jakartalemon:jakarta-lemon-plugin"
 dev.jbang -> jbang:jbang-maven-plugin = "JBang Maven Plugin"
 dev.khbd.interp4j -> interp4j:interp4j-maven-plugin = "Interp4j maven plugin"

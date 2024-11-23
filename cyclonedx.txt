@@ -4834,6 +4834,7 @@ org.opendaylight.aaa:aaa-encrypt-service-impl
 org.opendaylight.aaa:aaa-encryption-service-aggregator
 org.opendaylight.aaa:aaa-filterchain
 org.opendaylight.aaa:aaa-idm-store-h2
+org.opendaylight.aaa:aaa-jetty-auth-log-filter
 org.opendaylight.aaa:aaa-parent
 org.opendaylight.aaa:aaa-password-service-aggregator
 org.opendaylight.aaa:aaa-password-service-api

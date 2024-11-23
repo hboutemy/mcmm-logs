@@ -12844,3 +12844,14 @@ org/apache/amoro/amoro-parent/0.7.1-incubating/amoro-parent-0.7.1-incubating.pom
 org/apache/nifi/nifi/1.28.1/nifi-1.28.1.pom
 org/jpmml/jpmml-model/1.6.7/jpmml-model-1.6.7.pom
    from mvn: 4538 - non-mvn: 7007 - buildinfo: 0 - module: 3991 - gradle timestamp: 1407 - atlasdb: 0 = 0 release
+20241121
+dev/langchain4j/langchain4j-parent/0.36.2/langchain4j-parent-0.36.2.pom
+io/jooby/jooby-project/3.5.4/jooby-project-3.5.4.pom
+io/streamnative/buildtools/4.0.0.6/buildtools-4.0.0.6.pom
+io/streamnative/pulsar-bom/4.0.0.6/pulsar-bom-4.0.0.6.pom
+io/telicent/smart-caches/graph/docker/0.82.9/docker-0.82.9.pom
+io/telicent/smart-caches/graph/scg-base/0.82.9/scg-base-0.82.9.pom
+io/trino/trino-root/465/trino-root-465.pom
+org/owasp/antisamy/antisamy/1.7.7/antisamy-1.7.7.pom
+org/sonatype/buildsupport/buildsupport/51/buildsupport-51.pom
+   from mvn: 3691 - non-mvn: 3121 - buildinfo: 0 - module: 2894 - gradle timestamp: 1350 - atlasdb: 0 = 0 release
