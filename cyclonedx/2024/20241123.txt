@@ -1,0 +1,13 @@
+com/io7m/montarre/com.io7m.montarre.adoptium/0.0.3/com.io7m.montarre.adoptium-0.0.3-cyclonedx.xml
+com/io7m/montarre/com.io7m.montarre.api/0.0.3/com.io7m.montarre.api-0.0.3-cyclonedx.xml
+com/io7m/montarre/com.io7m.montarre.cmdline/0.0.3/com.io7m.montarre.cmdline-0.0.3-cyclonedx.xml
+com/io7m/montarre/com.io7m.montarre.distribution/0.0.3/com.io7m.montarre.distribution-0.0.3-cyclonedx.xml
+com/io7m/montarre/com.io7m.montarre.documentation/0.0.3/com.io7m.montarre.documentation-0.0.3-cyclonedx.xml
+com/io7m/montarre/com.io7m.montarre.io/0.0.3/com.io7m.montarre.io-0.0.3-cyclonedx.xml
+com/io7m/montarre/com.io7m.montarre.launchstub/0.0.3/com.io7m.montarre.launchstub-0.0.3-cyclonedx.xml
+com/io7m/montarre/com.io7m.montarre.maven_plugin/0.0.3/com.io7m.montarre.maven_plugin-0.0.3-cyclonedx.xml
+com/io7m/montarre/com.io7m.montarre.nativepack/0.0.3/com.io7m.montarre.nativepack-0.0.3-cyclonedx.xml
+com/io7m/montarre/com.io7m.montarre.schema/0.0.3/com.io7m.montarre.schema-0.0.3-cyclonedx.xml
+com/io7m/montarre/com.io7m.montarre.tests/0.0.3/com.io7m.montarre.tests-0.0.3-cyclonedx.xml
+com/io7m/montarre/com.io7m.montarre.xml/0.0.3/com.io7m.montarre.xml-0.0.3-cyclonedx.xml
+com/io7m/montarre/com.io7m.montarre/0.0.3/com.io7m.montarre-0.0.3-cyclonedx.xml
