@@ -1213,6 +1213,9 @@ io.vertx:vertx-lang-kotlin
 io.vertx:vertx-lang-kotlin-coroutines
 io.vertx:vertx-lang-kotlin-gen
 io.vertx:vertx-lang-kotlin-parent
+io.vertx:vertx-lang-scala-parent
+io.vertx:vertx-lang-scala-test_3
+io.vertx:vertx-lang-scala_3
 io.vertx:vertx-launcher-application
 io.vertx:vertx-launcher-legacy-cli
 io.vertx:vertx-launcher-parent

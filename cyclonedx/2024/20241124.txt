@@ -1,0 +1,8 @@
+de/trustable/cryptoUtil/1.3.28/cryptoUtil-1.3.28-cyclonedx.json
+de/trustable/cryptoUtil/1.3.28/cryptoUtil-1.3.28-cyclonedx.xml
+io/vertx/vertx-lang-scala-parent/5.0.0.CR2/vertx-lang-scala-parent-5.0.0.CR2-cyclonedx.xml
+io/vertx/vertx-lang-scala-parent/5.0.0.CR2/vertx-lang-scala-parent-5.0.0.CR2-cyclonedx.json
+io/vertx/vertx-lang-scala-test_3/5.0.0.CR2/vertx-lang-scala-test_3-5.0.0.CR2-cyclonedx.xml
+io/vertx/vertx-lang-scala-test_3/5.0.0.CR2/vertx-lang-scala-test_3-5.0.0.CR2-cyclonedx.json
+io/vertx/vertx-lang-scala_3/5.0.0.CR2/vertx-lang-scala_3-5.0.0.CR2-cyclonedx.xml
+io/vertx/vertx-lang-scala_3/5.0.0.CR2/vertx-lang-scala_3-5.0.0.CR2-cyclonedx.json
