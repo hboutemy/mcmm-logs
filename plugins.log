@@ -1953,6 +1953,7 @@ com.metaeffekt.artifact.analysis -> ae-dependency-track:ae-dependency-track-plug
 com.metaeffekt.artifact.analysis -> ae-inventory-conversion:ae-inventory-conversion-plugin = 
 com.metaeffekt.artifact.analysis -> ae-inventory-enrichment:ae-inventory-enrichment-plugin = 
 com.metaeffekt.artifact.analysis -> ae-inventory-overview-html-report:ae-inventory-overview-html-report = 
+com.metaeffekt.artifact.analysis -> ae-kotlin-scripting:ae-kotlin-scripting-maven-plugin = 
 com.metaeffekt.artifact.analysis -> ae-mirror:ae-mirror-plugin = 
 com.metaeffekt.artifact.analysis -> ae-tmd-packaging:ae-tmd-packaging-plugin = 
 com.metaeffekt.portfolio.manager -> ae-portfolio-manager:ae-portfolio-manager-maven-plugin = 

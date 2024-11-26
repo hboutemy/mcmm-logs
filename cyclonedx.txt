@@ -914,6 +914,7 @@ io.dropwizard.metrics:metrics-logback15
 io.dropwizard.metrics:metrics-parent
 io.dropwizard.metrics:metrics-servlet
 io.dropwizard.metrics:metrics-servlets
+io.dropwizard.modules:dropwizard-flyway
 io.dropwizard.modules:dropwizard-foundationdb
 io.dropwizard.modules:dropwizard-jdbi
 io.dropwizard.modules:dropwizard-kafka
@@ -4498,6 +4499,7 @@ org.jqassistant.plugin:common-parent
 org.jqassistant.plugin:jqassistant-asyncapi-plugin
 org.jqassistant.plugin:jqassistant-c4-plugin
 org.jqassistant.plugin:jqassistant-jira-plugin
+org.jqassistant.plugin:jqassistant-npm-plugin
 org.jqassistant.plugin:jqassistant-plantuml-report-plugin
 org.jqassistant.plugin:jqassistant-pub-plugin
 org.jqassistant.plugin:jqassistant-spring-plugin

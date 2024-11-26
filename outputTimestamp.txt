@@ -12862,3 +12862,12 @@ org/finos/legend/engine/legend-engine/4.67.0/legend-engine-4.67.0.pom
    from mvn: 4962 - non-mvn: 4081 - buildinfo: 0 - module: 3515 - gradle timestamp: 1530 - atlasdb: 0 = 0 release
 20241123
    from mvn: 601 - non-mvn: 1391 - buildinfo: 0 - module: 746 - gradle timestamp: 301 - atlasdb: 0 = 0 release
+20241124
+fr/inria/gforge/spoon/spoon-pom/11.1.1-beta-15/spoon-pom-11.1.1-beta-15.pom
+io/avaje/avaje-inject-parent/11.0-javax/avaje-inject-parent-11.0-javax.pom
+io/avaje/avaje-inject-parent/11.0/avaje-inject-parent-11.0.pom
+io/cucumber/junit-xml-formatter/0.7.0/junit-xml-formatter-0.7.0.pom
+io/cucumber/junit-xml-formatter/0.7.1/junit-xml-formatter-0.7.1.pom
+org/jpmml/jpmml-evaluator/1.6.7/jpmml-evaluator-1.6.7.pom
+org/mevenide/mevenide-parent/0.1.1/mevenide-parent-0.1.1.pom
+   from mvn: 603 - non-mvn: 1120 - buildinfo: 0 - module: 826 - gradle timestamp: 156 - atlasdb: 0 = 0 release
