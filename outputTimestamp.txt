@@ -12871,3 +12871,9 @@ io/cucumber/junit-xml-formatter/0.7.1/junit-xml-formatter-0.7.1.pom
 org/jpmml/jpmml-evaluator/1.6.7/jpmml-evaluator-1.6.7.pom
 org/mevenide/mevenide-parent/0.1.1/mevenide-parent-0.1.1.pom
    from mvn: 603 - non-mvn: 1120 - buildinfo: 0 - module: 826 - gradle timestamp: 156 - atlasdb: 0 = 0 release
+20241125
+net/osslabz/crypto-commons/0.5.0/crypto-commons-0.5.0.pom
+org/finos/legend/engine/legend-engine/4.67.1/legend-engine-4.67.1.pom
+org/jpmml/jpmml-converter/1.5.9/jpmml-converter-1.5.9.pom
+org/mevenide/mevenide-parent/0.1.2/mevenide-parent-0.1.2.pom
+   from mvn: 3744 - non-mvn: 4908 - buildinfo: 0 - module: 2745 - gradle timestamp: 1554 - atlasdb: 0 = 0 release
