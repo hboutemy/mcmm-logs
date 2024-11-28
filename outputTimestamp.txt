@@ -12877,3 +12877,13 @@ org/finos/legend/engine/legend-engine/4.67.1/legend-engine-4.67.1.pom
 org/jpmml/jpmml-converter/1.5.9/jpmml-converter-1.5.9.pom
 org/mevenide/mevenide-parent/0.1.2/mevenide-parent-0.1.2.pom
    from mvn: 3744 - non-mvn: 4908 - buildinfo: 0 - module: 2745 - gradle timestamp: 1554 - atlasdb: 0 = 0 release
+20241126
+com/github/hazendaz/maven/makeself-maven-plugin/1.8.4/makeself-maven-plugin-1.8.4.pom
+io/avaje/avaje-http-parent/2.9-RC1/avaje-http-parent-2.9-RC1.pom
+io/avaje/avaje-jex-parent/3.0-RC1/avaje-jex-parent-3.0-RC1.pom
+io/liftwizard/liftwizard-minimal-parent/2.1.22/liftwizard-minimal-parent-2.1.22.pom
+io/streamnative/pulsar/3.0.7.3-22cb86/pulsar-3.0.7.3-22cb86.pom
+org/apache/sling/org.apache.sling.engine/2.16.0/org.apache.sling.engine-2.16.0.pom
+org/jpmml/jpmml-transpiler/1.3.8/jpmml-transpiler-1.3.8.pom
+org/mybatis/mybatis/3.5.17/mybatis-3.5.17.pom
+   from mvn: 3248 - non-mvn: 3810 - buildinfo: 0 - module: 2787 - gradle timestamp: 1420 - atlasdb: 0 = 0 release
