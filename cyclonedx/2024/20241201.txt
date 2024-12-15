@@ -1,0 +1,2 @@
+de/trustable/cryptoUtil/1.3.29/cryptoUtil-1.3.29-cyclonedx.json
+de/trustable/cryptoUtil/1.3.29/cryptoUtil-1.3.29-cyclonedx.xml

@@ -1067,6 +1067,7 @@ com.github.jlgrock.javascript-framework -> jsdocs:jsdocs-maven-plugin = "JavaScr
 com.github.jlgrock.javascript-framework -> jspreprocessor:jspreprocessor-maven-plugin = "JS Preprocessor"
 com.github.jlgrock.javascript-framework -> source-archive:source-archive-maven-plugin = "Source Archive Maven Plugin"
 com.github.jlgrock.javascript-framework -> source-overlay:source-overlay-maven-plugin = "Source Overlay Maven Plugin"
+com.github.jochenw.jmp -> jwigrv:jwigrv-maven-plugin = "JWI Groovy Maven plugin"
 com.github.joelittlejohn.embedmongo -> embedmongo:embedmongo-maven-plugin = "embedmongo-maven-plugin"
 com.github.johnpoth -> jshell:jshell-maven-plugin = "jshell-maven-plugin Maven Plugin"
 com.github.jonasrutishauser.maven.plugin -> bpmn:bpmn-maven-plugin = "BPMN Maven Plugin"
