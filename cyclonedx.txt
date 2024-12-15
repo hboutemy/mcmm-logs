@@ -956,6 +956,9 @@ io.dropwizard:dropwizard-validation
 io.dropwizard:dropwizard-views
 io.dropwizard:dropwizard-views-freemarker
 io.dropwizard:dropwizard-views-mustache
+io.github.chains-project:maven-lockfile
+io.github.chains-project:maven-lockfile-github-action
+io.github.chains-project:maven-lockfile-parent
 io.github.r4fterman:abbot
 io.github.r4fterman:com.windowtester
 io.github.r4fterman:com.windowtester.runtime
@@ -3083,9 +3086,13 @@ org.apache.maven:maven-bom
 org.apache.maven:maven-builder-support
 org.apache.maven:maven-cli
 org.apache.maven:maven-compat
+org.apache.maven:maven-compat-modules
 org.apache.maven:maven-core
 org.apache.maven:maven-di
 org.apache.maven:maven-embedder
+org.apache.maven:maven-executor
+org.apache.maven:maven-impl
+org.apache.maven:maven-impl-modules
 org.apache.maven:maven-jline
 org.apache.maven:maven-jxr
 org.apache.maven:maven-logging
@@ -3102,6 +3109,7 @@ org.apache.maven:maven-slf4j-provider
 org.apache.maven:maven-slf4j-wrapper
 org.apache.maven:maven-toolchain-builder
 org.apache.maven:maven-toolchain-model
+org.apache.maven:maven-xml
 org.apache.maven:maven-xml-impl
 org.apache.orc:orc
 org.apache.orc:orc-core
@@ -3147,6 +3155,8 @@ org.apache.ratis:ratis-server
 org.apache.ratis:ratis-server-api
 org.apache.ratis:ratis-shell
 org.apache.ratis:ratis-test
+org.apache.ratis:ratis-thirdparty
+org.apache.ratis:ratis-thirdparty-misc
 org.apache.ratis:ratis-tools
 org.apache.santuario:xmlsec
 org.apache.skywalking:agent-analyzer
@@ -4498,6 +4508,7 @@ org.jqassistant.plugin.typescript:parent
 org.jqassistant.plugin:common-parent
 org.jqassistant.plugin:jqassistant-asyncapi-plugin
 org.jqassistant.plugin:jqassistant-c4-plugin
+org.jqassistant.plugin:jqassistant-jee-plugin
 org.jqassistant.plugin:jqassistant-jira-plugin
 org.jqassistant.plugin:jqassistant-npm-plugin
 org.jqassistant.plugin:jqassistant-plantuml-report-plugin

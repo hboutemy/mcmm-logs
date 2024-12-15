@@ -12887,3 +12887,23 @@ org/apache/sling/org.apache.sling.engine/2.16.0/org.apache.sling.engine-2.16.0.p
 org/jpmml/jpmml-transpiler/1.3.8/jpmml-transpiler-1.3.8.pom
 org/mybatis/mybatis/3.5.17/mybatis-3.5.17.pom
    from mvn: 3248 - non-mvn: 3810 - buildinfo: 0 - module: 2787 - gradle timestamp: 1420 - atlasdb: 0 = 0 release
+20241127
+biz/aQute/bnd/bnd-plugin-parent/7.1.0/bnd-plugin-parent-7.1.0.pom
+de/gematik/pki/gemLibPki/3.0.1/gemLibPki-3.0.1.pom
+io/airlift/airbase-policy/201/airbase-policy-201.pom
+io/airlift/airbase/201/airbase-201.pom
+io/avaje/avaje-http-parent/2.9-RC2/avaje-http-parent-2.9-RC2.pom
+io/avaje/avaje-jex-parent/3.0-RC2/avaje-jex-parent-3.0-RC2.pom
+io/avaje/avaje-jex-parent/3.0-RC3/avaje-jex-parent-3.0-RC3.pom
+io/avaje/avaje-sigma-parent/0.3/avaje-sigma-parent-0.3.pom
+io/dropwizard/dropwizard-project/3.0.11/dropwizard-project-3.0.11.pom
+io/dropwizard/dropwizard-project/4.0.11/dropwizard-project-4.0.11.pom
+io/dropwizard/dropwizard-project/5.0.0-alpha.5/dropwizard-project-5.0.0-alpha.5.pom
+io/dropwizard/metrics/metrics-parent/4.2.29/metrics-parent-4.2.29.pom
+io/dropwizard/metrics5/metrics-parent/5.0.0-rc23/metrics-parent-5.0.0-rc23.pom
+io/github/chains-project/maven-lockfile-parent/5.2.1/maven-lockfile-parent-5.2.1.pom
+io/jstach/kiwi/kiwi-maven-parent/0.1.0/kiwi-maven-parent-0.1.0.pom
+io/telicent/smart-caches/graph/docker/0.82.10/docker-0.82.10.pom
+io/telicent/smart-caches/graph/scg-base/0.82.10/scg-base-0.82.10.pom
+org/mybatis/spring/boot/mybatis-spring-boot/3.0.4/mybatis-spring-boot-3.0.4.pom
+   from mvn: 3192 - non-mvn: 3509 - buildinfo: 0 - module: 2468 - gradle timestamp: 1355 - atlasdb: 0 = 0 release

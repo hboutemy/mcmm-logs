@@ -1,0 +1,2 @@
+org/opendaylight/infrautils/infrautils-sbom-7.0.5.spdx
+org/opendaylight/odlparent/odlparent-sbom-14.0.5.spdx
