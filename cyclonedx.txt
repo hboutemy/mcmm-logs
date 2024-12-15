@@ -806,6 +806,8 @@ de.powerstat.toolbaseline:tbl-java-parent
 de.powerstat.validation:validation
 de.stklcode.jvault:jvault-connector
 de.stklcode.pubtrans:juraclient
+de.svenkubiak:embedded-mongodb
+de.svenkubiak:simple-http
 de.trustable.cmp.client:cmpClient
 de.trustable:cryptoUtil
 dev.iabudiab:dependency-track-maven-plugin

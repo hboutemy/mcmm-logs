@@ -12949,3 +12949,5 @@ org/apache/sling/org.apache.sling.scripting.sightly/1.4.26-1.4.0/org.apache.slin
 org/cyclonedx/cyclonedx-maven-plugin/2.9.1/cyclonedx-maven-plugin-2.9.1.pom
 org/finos/legend/engine/legend-engine/4.67.2/legend-engine-4.67.2.pom
    from mvn: 4850 - non-mvn: 4646 - buildinfo: 4 - module: 3344 - gradle timestamp: 716 - atlasdb: 0 = 0 release
+20241129
+   from mvn: 1823 - non-mvn: 2442 - buildinfo: 0 - module: 1893 - gradle timestamp: 328 - atlasdb: 0 = 0 release

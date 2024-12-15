@@ -1,0 +1,2 @@
+org/opendaylight/controller/controller-sbom-10.0.5.spdx
+org/opendaylight/mdsal/mdsal-sbom-14.0.6.spdx
