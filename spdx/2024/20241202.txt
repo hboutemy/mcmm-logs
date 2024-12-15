@@ -1,0 +1,3 @@
+org/apache/commons/commons-dbcp2/2.13.0/commons-dbcp2-2.13.0.spdx.rdf.xml
+org/opendaylight/aaa/aaa-sbom-0.20.4.spdx
+org/opendaylight/aaa/aaa-sbom-0.19.8.spdx

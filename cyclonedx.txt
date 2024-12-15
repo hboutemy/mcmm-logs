@@ -3030,6 +3030,7 @@ org.apache.maven.scm:maven-scm-providers-git
 org.apache.maven.scm:maven-scm-providers-standard
 org.apache.maven.scm:maven-scm-providers-svn
 org.apache.maven.scm:maven-scm-test
+org.apache.maven.shared:maven-archiver
 org.apache.maven.shared:maven-common-artifact-filters
 org.apache.maven.shared:maven-dependency-analyzer
 org.apache.maven.shared:maven-dependency-tree
