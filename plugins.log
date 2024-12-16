@@ -1951,6 +1951,7 @@ com.mebigfatguy.fbp-maven-plugin -> fbp:fbp-maven-plugin = "fbp-maven-plugin Mav
 com.memority.api.plugins -> memority-tenant:memority-tenant-plugin = 
 com.messapix.ftatr.jfxmobile -> jfxmobile:jfxmobile-maven-plugin = "jfxmobile Maven Plugin"
 com.metaeffekt.artifact.analysis -> ae-artifact-analysis:ae-artifact-analysis-plugin = 
+com.metaeffekt.artifact.analysis -> ae-asset-descriptor:ae-asset-descriptor-maven-plugin = 
 com.metaeffekt.artifact.analysis -> ae-dependency-track:ae-dependency-track-plugin = 
 com.metaeffekt.artifact.analysis -> ae-inventory-conversion:ae-inventory-conversion-plugin = 
 com.metaeffekt.artifact.analysis -> ae-inventory-enrichment:ae-inventory-enrichment-plugin = 

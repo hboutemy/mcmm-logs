@@ -1,0 +1,6 @@
+org/spdx/spdx-jackson-store/2.0.0-RC1/spdx-jackson-store-2.0.0-RC1.spdx.json
+org/spdx/spdx-rdf-store/2.0.0-RC1/spdx-rdf-store-2.0.0-RC1.spdx.json
+org/spdx/spdx-spreadsheet-store/2.0.0-RC1/spdx-spreadsheet-store-2.0.0-RC1.spdx.json
+org/spdx/spdx-tagvalue-store/2.0.0-RC1/spdx-tagvalue-store-2.0.0-RC1.spdx.json
+org/spdx/spdx-v3jsonld-store/1.0.0-RC1/spdx-v3jsonld-store-1.0.0-RC1.spdx.json
+org/spdx/tools-java/2.0.0-RC1/tools-java-2.0.0-RC1.spdx.json

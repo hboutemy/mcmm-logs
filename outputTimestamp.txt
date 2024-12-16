@@ -13317,3 +13317,10 @@ io/telicent/smart-caches/graph/docker/0.82.13/docker-0.82.13.pom
 io/telicent/smart-caches/graph/scg-base/0.82.13/scg-base-0.82.13.pom
 org/apache/commons/commons-text/1.13.0/commons-text-1.13.0.pom
    from mvn: 3059 - non-mvn: 3169 - buildinfo: 0 - module: 2772 - gradle timestamp: 1239 - atlasdb: 0 = 0 release
+20241214
+org/apache/maven/plugins/maven-patch-plugin/1.3/maven-patch-plugin-1.3.pom
+org/jpmml/jpmml-python/1.2.6/jpmml-python-1.2.6.pom
+org/jpmml/jpmml-sklearn/1.8.8/jpmml-sklearn-1.8.8.pom
+org/spdx/java-spdx-library/2.0.0-RC1/java-spdx-library-2.0.0-RC1.pom
+org/spdx/spdx-java-core/1.0.0-RC1/spdx-java-core-1.0.0-RC1.pom
+   from mvn: 766 - non-mvn: 853 - buildinfo: 0 - module: 480 - gradle timestamp: 96 - atlasdb: 0 = 0 release
