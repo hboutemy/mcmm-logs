@@ -751,6 +751,9 @@ com.theoryinpractise:clojure-maven-plugin
 com.vesoft:common_2.11
 com.vesoft:driver
 com.vesoft:nebula
+com.vesoft:nebula-connector_spark2.4
+com.vesoft:nebula-spark
+com.vesoft:nebula-spark-common_2.11
 com.vesoft:spark-connector
 com.vesoft:spark-connector_spark2.4
 com.xenoamess.fork.org.apache.commons:commons-compress
@@ -2967,6 +2970,7 @@ org.apache.maven.plugin-tools:maven-script-beanshell
 org.apache.maven.plugins:maven-archetype-plugin
 org.apache.maven.plugins:maven-artifact-plugin
 org.apache.maven.plugins:maven-assembly-plugin
+org.apache.maven.plugins:maven-changes-plugin
 org.apache.maven.plugins:maven-checkstyle-plugin
 org.apache.maven.plugins:maven-clean-plugin
 org.apache.maven.plugins:maven-compiler-plugin
