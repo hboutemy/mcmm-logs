@@ -3470,6 +3470,7 @@ io.github.selcukes -> selcukes-report:selcukes-report-plugin = "Selcukes Maven P
 io.github.shomeier -> openapi-util:openapi-util-maven-plugin = "openapi-util-maven-plugin Maven Plugin"
 io.github.silidos -> graphqxl:graphqxl-maven-plugin = "${project.artifactId}"
 io.github.siom79.jasyncapicmp -> jasyncapicmp:jasyncapicmp-maven-plugin = "jasyncapicmp Maven Plugin"
+io.github.siom79.jopenapicmp -> jopenapicmp:jopenapicmp-maven-plugin = "jopenapicmp Maven Plugin"
 io.github.sivalabs -> jooq-testcontainers-codegen:jooq-testcontainers-codegen-maven-plugin = "jooq-testcontainers-codegen-maven-plugin"
 io.github.solven-eu.cleanthat -> cleanthat:cleanthat-maven-plugin = 
 io.github.spafka -> feign-generator:feign-generator-plugin = "feign-generator-plugin"
