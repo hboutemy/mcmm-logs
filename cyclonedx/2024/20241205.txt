@@ -1,0 +1,6 @@
+com/github/camel-tooling/camel-lsp-server/1.28.0/camel-lsp-server-1.28.0-cyclonedx.xml
+com/github/camel-tooling/camel-lsp-server/1.28.0/camel-lsp-server-1.28.0-cyclonedx.json
+org/apache/camel/camel/4.8.2/camel-4.8.2-cyclonedx.xml
+org/apache/camel/camel/4.8.2/camel-4.8.2-cyclonedx.json
+org/apache/camel/springboot/spring-boot/4.8.2/spring-boot-4.8.2-cyclonedx.xml
+org/apache/camel/springboot/spring-boot/4.8.2/spring-boot-4.8.2-cyclonedx.json

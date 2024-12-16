@@ -12959,3 +12959,5 @@ org/finos/legend/engine/legend-engine/4.67.2/legend-engine-4.67.2.pom
    from mvn: 3459 - non-mvn: 4316 - buildinfo: 0 - module: 2882 - gradle timestamp: 1434 - atlasdb: 0 = 0 release
 20241203
    from mvn: 3575 - non-mvn: 8173 - buildinfo: 0 - module: 4839 - gradle timestamp: 1689 - atlasdb: 0 = 0 release
+20241204
+   from mvn: 6305 - non-mvn: 5035 - buildinfo: 1 - module: 4090 - gradle timestamp: 1968 - atlasdb: 0 = 0 release
