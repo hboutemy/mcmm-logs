@@ -13285,3 +13285,17 @@ org/kie/kogito/kogito-apps/10.0.0/kogito-apps-10.0.0.pom
 org/kie/kogito/kogito-runtimes/10.0.0/kogito-runtimes-10.0.0.pom
 org/optaplanner/optaplanner-parent/10.0.0/optaplanner-parent-10.0.0.pom
    from mvn: 3879 - non-mvn: 4936 - buildinfo: 0 - module: 3192 - gradle timestamp: 1705 - atlasdb: 0 = 0 release
+20241211
+io/airlift/airbase-policy/204/airbase-policy-204.pom
+io/airlift/airbase/204/airbase-204.pom
+io/jstach/ezkv/ezkv-maven-parent/0.2.1/ezkv-maven-parent-0.2.1.pom
+io/quarkus/quarkus-parent/3.17.4/quarkus-parent-3.17.4.pom
+io/telicent/jena/jena-kafka/1.5.2/jena-kafka-1.5.2.pom
+org/apache/maven/skins/maven-fluido-skin/2.0.1/maven-fluido-skin-2.0.1.pom
+org/cyclonedx/cyclonedx-core-java/10.0.0/cyclonedx-core-java-10.0.0.pom
+org/eclipse/jetty/jetty-project/12.0.16/jetty-project-12.0.16.pom
+org/infinispan/protostream/parent/6.0.0.Dev01/parent-6.0.0.Dev01.pom
+org/jpmml/jpmml-converter/1.5.10/jpmml-converter-1.5.10.pom
+org/jpmml/jpmml-evaluator/1.6.8/jpmml-evaluator-1.6.8.pom
+org/sonatype/buildsupport/buildsupport/52/buildsupport-52.pom
+   from mvn: 4622 - non-mvn: 3625 - buildinfo: 10 - module: 2754 - gradle timestamp: 1402 - atlasdb: 0 = 0 release

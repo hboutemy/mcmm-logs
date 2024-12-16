@@ -1,0 +1,8 @@
+com/github/hazendaz/tomcat/tomcat10-config/10.1.34/tomcat10-config-10.1.34-cyclonedx.xml
+com/github/hazendaz/tomcat/tomcat10-config/10.1.34/tomcat10-config-10.1.34-cyclonedx.json
+com/github/hazendaz/tomcat/tomcat11-config/11.0.2/tomcat11-config-11.0.2-cyclonedx.xml
+com/github/hazendaz/tomcat/tomcat11-config/11.0.2/tomcat11-config-11.0.2-cyclonedx.json
+com/github/hazendaz/tomcat/tomcat9-config/9.0.98/tomcat9-config-9.0.98-cyclonedx.xml
+com/github/hazendaz/tomcat/tomcat9-config/9.0.98/tomcat9-config-9.0.98-cyclonedx.json
+org/apache/camel/kamelets/camel-kamelets-parent/4.8.2/camel-kamelets-parent-4.8.2-cyclonedx.json
+org/apache/camel/kamelets/camel-kamelets-parent/4.8.2/camel-kamelets-parent-4.8.2-cyclonedx.xml
