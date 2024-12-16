@@ -2501,6 +2501,7 @@ org.apache.hop:hop-databases-oraclerdb
 org.apache.hop:hop-databases-postgresql
 org.apache.hop:hop-databases-redshift
 org.apache.hop:hop-databases-sapdb
+org.apache.hop:hop-databases-singlestore
 org.apache.hop:hop-databases-snowflake
 org.apache.hop:hop-databases-sqlbase
 org.apache.hop:hop-databases-sqlite
@@ -2522,6 +2523,7 @@ org.apache.hop:hop-misc-import
 org.apache.hop:hop-misc-passwords
 org.apache.hop:hop-misc-projects
 org.apache.hop:hop-misc-reflection
+org.apache.hop:hop-misc-rest
 org.apache.hop:hop-misc-static-schema
 org.apache.hop:hop-misc-testing
 org.apache.hop:hop-plugins
@@ -2569,6 +2571,7 @@ org.apache.hop:hop-transform-delay
 org.apache.hop:hop-transform-delete
 org.apache.hop:hop-transform-denormaliser
 org.apache.hop:hop-transform-detectemptystream
+org.apache.hop:hop-transform-detectlanguage
 org.apache.hop:hop-transform-detectlastrow
 org.apache.hop:hop-transform-dimensionlookup
 org.apache.hop:hop-transform-dorisbulkloader
@@ -2597,6 +2600,7 @@ org.apache.hop:hop-transform-getsubfolders
 org.apache.hop:hop-transform-gettablenames
 org.apache.hop:hop-transform-getvariable
 org.apache.hop:hop-transform-groupby
+org.apache.hop:hop-transform-html2text
 org.apache.hop:hop-transform-http
 org.apache.hop:hop-transform-httppost
 org.apache.hop:hop-transform-ifnull
@@ -2607,6 +2611,7 @@ org.apache.hop:hop-transform-jdbc-metadata
 org.apache.hop:hop-transform-joinrows
 org.apache.hop:hop-transform-json
 org.apache.hop:hop-transform-kafka
+org.apache.hop:hop-transform-languagemodelchat
 org.apache.hop:hop-transform-ldap
 org.apache.hop:hop-transform-loadfileinput
 org.apache.hop:hop-transform-mail
@@ -2658,6 +2663,7 @@ org.apache.hop:hop-transform-sql
 org.apache.hop:hop-transform-sqlfileoutput
 org.apache.hop:hop-transform-ssh
 org.apache.hop:hop-transform-standardizephonenumber
+org.apache.hop:hop-transform-stanfordnlp
 org.apache.hop:hop-transform-streamlookup
 org.apache.hop:hop-transform-streamschemamerge
 org.apache.hop:hop-transform-stringcut

@@ -13231,3 +13231,15 @@ org/apache/royale/typedefs/royale-typedefs-parent/0.9.12/royale-typedefs-parent-
 org/apache/royale/typedefs/royale-typedefs-playerglobal/0.9.12/royale-typedefs-playerglobal-0.9.12.pom
 org/apache/sling/org.apache.sling.models.impl/1.7.6/org.apache.sling.models.impl-1.7.6.pom
    from mvn: 988 - non-mvn: 1284 - buildinfo: 0 - module: 709 - gradle timestamp: 194 - atlasdb: 0 = 0 release
+20241208
+com/flowlogix/checkstyle/41/checkstyle-41-build.pom
+com/flowlogix/infra-pom/41/infra-pom-41.pom
+com/flowlogix/infra-pom/41/infra-pom-41-build.pom
+fr/inria/gforge/spoon/spoon-pom/11.1.1-beta-17/spoon-pom-11.1.1-beta-17.pom
+io/avaje/avaje-http-parent/2.9-RC5/avaje-http-parent-2.9-RC5.pom
+io/avaje/avaje-inject-parent/11.1-RC1/avaje-inject-parent-11.1-RC1.pom
+io/avaje/avaje-jex-parent/3.0-RC10/avaje-jex-parent-3.0-RC10.pom
+io/avaje/avaje-prisms-parent/1.36/avaje-prisms-parent-1.36.pom
+nl/hsac/hsac-fitnesse-fixtures/5.3.18/hsac-fitnesse-fixtures-5.3.18.pom
+org/jpmml/jpmml-model/1.6.8/jpmml-model-1.6.8.pom
+   from mvn: 478 - non-mvn: 1159 - buildinfo: 0 - module: 1191 - gradle timestamp: 310 - atlasdb: 0 = 0 release
