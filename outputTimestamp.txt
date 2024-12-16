@@ -13262,3 +13262,26 @@ org/green-code-initiative/creedengo-rules-specifications/1.0.0/creedengo-rules-s
 org/kie/drools-parent/10.0.0/drools-parent-10.0.0.pom
 org/webjars/flexmonster/2.9.92/flexmonster-2.9.92.pom
    from mvn: 5075 - non-mvn: 3468 - buildinfo: 0 - module: 3425 - gradle timestamp: 1505 - atlasdb: 0 = 0 release
+20241210
+com/flowlogix/checkstyle/44/checkstyle-44-build.pom
+com/flowlogix/infra-pom/44/infra-pom-44.pom
+com/flowlogix/infra-pom/44/infra-pom-44-build.pom
+com/kohlschutter/kohlschutter-parent/1.8.0/kohlschutter-parent-1.8.0.pom
+eu/maveniverse/maven/toolbox/toolbox/0.6.0/toolbox-0.6.0.pom
+io/streamnative/pulsar/4.0.0.8/pulsar-4.0.0.8.pom
+io/telicent/jena/rdf-abac/0.73.0/rdf-abac-0.73.0.pom
+io/wcm/io.wcm.caconfig.extensions/1.10.0/io.wcm.caconfig.extensions-1.10.0.pom
+io/wcm/io.wcm.handler.link/2.2.4/io.wcm.handler.link-2.2.4.pom
+io/wcm/io.wcm.handler.media/2.3.0/io.wcm.handler.media-2.3.0.pom
+io/yupiik/fusion/fusion/1.0.22/fusion-1.0.22.pom
+org/apache/kie/sonataflow/sonataflow-quarkus-devui-parent/10.0.0/sonataflow-quarkus-devui-parent-10.0.0.pom
+org/apache/maven/plugins/maven-changes-plugin/3.0.0-M1/maven-changes-plugin-3.0.0-M1.pom
+org/apache/stormcrawler/stormcrawler/3.2.0/stormcrawler-3.2.0.pom
+org/green-code-initiative/creedengo-rules-specifications/2.0.0/creedengo-rules-specifications-2.0.0.pom
+org/jbpm/jbpm-quarkus-devui-parent/10.0.0/jbpm-quarkus-devui-parent-10.0.0.pom
+org/jline/jline-parent/3.28.0/jline-parent-3.28.0.pom
+org/kie/kie-tools-maven-base/10.0.0/kie-tools-maven-base-10.0.0.pom
+org/kie/kogito/kogito-apps/10.0.0/kogito-apps-10.0.0.pom
+org/kie/kogito/kogito-runtimes/10.0.0/kogito-runtimes-10.0.0.pom
+org/optaplanner/optaplanner-parent/10.0.0/optaplanner-parent-10.0.0.pom
+   from mvn: 3879 - non-mvn: 4936 - buildinfo: 0 - module: 3192 - gradle timestamp: 1705 - atlasdb: 0 = 0 release
