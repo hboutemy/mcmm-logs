@@ -32,6 +32,7 @@ com.github.hazendaz.ant:apache-ant
 com.github.hazendaz.catch-exception:catch-exception
 com.github.hazendaz.catch-exception:catch-exception-parent
 com.github.hazendaz.catch-exception:catch-throwable
+com.github.hazendaz.fnm:fnm
 com.github.hazendaz.git:git-for-windows
 com.github.hazendaz.git:github-desktop
 com.github.hazendaz.gpg4win:gpg4win
@@ -676,6 +677,9 @@ com.open-elements.hedera:hedera-microprofile
 com.open-elements.hedera:hedera-spring
 com.open-elements.hiero:hiero-base
 com.open-elements.hiero:hiero-enterprise
+com.open-elements.hiero:hiero-enterprise-base
+com.open-elements.hiero:hiero-enterprise-microprofile
+com.open-elements.hiero:hiero-enterprise-spring
 com.open-elements.hiero:hiero-microprofile
 com.open-elements.hiero:hiero-spring
 com.open-elements:oss-license-scanner
@@ -1108,6 +1112,7 @@ io.telicent.jena:jena-kafka-client
 io.telicent.jena:jena-kafka-connector
 io.telicent.jena:rdf-abac
 io.telicent.jena:rdf-abac-core
+io.telicent.jena:rdf-abac-coverage-report
 io.telicent.jena:rdf-abac-eval
 io.telicent.jena:rdf-abac-fuseki
 io.telicent.jena:rdf-abac-fuseki-server
