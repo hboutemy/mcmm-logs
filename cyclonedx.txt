@@ -1391,6 +1391,13 @@ jakarta.platform:jakartaee-api-parent
 jakarta.security.enterprise:jakarta.security.enterprise-api
 jakarta.servlet.jsp:jakarta.servlet.jsp-api
 jakarta.servlet:jakarta.servlet-api
+jakarta.tck.coreprofile:cdi-lite-tck-suite
+jakarta.tck.coreprofile:common-annotations
+jakarta.tck.coreprofile:core-profile-tck-dist
+jakarta.tck.coreprofile:core-profile-tck-impl
+jakarta.tck.coreprofile:core-tck-jsonp-extension
+jakarta.tck.coreprofile:core-tck-parent
+jakarta.tck.coreprofile:rest-tck-suite
 jakarta.tck.tools:sigtest-maven-plugin
 jakarta.tck:cdi-ee-tck-dist
 jakarta.tck:cdi-tck-ee-impl
