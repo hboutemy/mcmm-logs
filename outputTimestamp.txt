@@ -13324,3 +13324,10 @@ org/jpmml/jpmml-sklearn/1.8.8/jpmml-sklearn-1.8.8.pom
 org/spdx/java-spdx-library/2.0.0-RC1/java-spdx-library-2.0.0-RC1.pom
 org/spdx/spdx-java-core/1.0.0-RC1/spdx-java-core-1.0.0-RC1.pom
    from mvn: 766 - non-mvn: 853 - buildinfo: 0 - module: 480 - gradle timestamp: 96 - atlasdb: 0 = 0 release
+20241215
+ch/qos/reload4j/reload4j/1.2.26/reload4j-1.2.26.pom
+fr/inria/gforge/spoon/spoon-pom/11.1.1-beta-18/spoon-pom-11.1.1-beta-18.pom
+net/bytebuddy/byte-buddy-parent/1.15.11/byte-buddy-parent-1.15.11.pom
+org/codehaus/plexus/plexus-utils/3.6.0/plexus-utils-3.6.0.pom
+org/jpmml/jpmml-r/1.6.3/jpmml-r-1.6.3.pom
+   from mvn: 636 - non-mvn: 1490 - buildinfo: 0 - module: 690 - gradle timestamp: 139 - atlasdb: 0 = 0 release

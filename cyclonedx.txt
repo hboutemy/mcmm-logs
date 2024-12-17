@@ -3112,6 +3112,7 @@ org.apache.maven.wrapper:maven-wrapper-parent
 org.apache.maven:apache-maven
 org.apache.maven:maven
 org.apache.maven:maven-api
+org.apache.maven:maven-api-annotations
 org.apache.maven:maven-api-cli
 org.apache.maven:maven-api-core
 org.apache.maven:maven-api-di

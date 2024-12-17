@@ -1,0 +1,8 @@
+io/github/microcks/microcks-kube-api/0.0.2/microcks-kube-api-0.0.2.spdx.json
+io/github/microcks/microcks-kube-operator/0.0.2/microcks-kube-operator-0.0.2.spdx.json
+io/github/microcks/microcks-operator/0.0.2/microcks-operator-0.0.2.spdx.json
+io/github/microcks/quarkus/quarkus-microcks-deployment/0.2.7/quarkus-microcks-deployment-0.2.7.spdx.json
+io/github/microcks/quarkus/quarkus-microcks-parent/0.2.7/quarkus-microcks-parent-0.2.7.spdx.json
+io/github/microcks/quarkus/quarkus-microcks-test/0.2.7/quarkus-microcks-test-0.2.7.spdx.json
+io/github/microcks/quarkus/quarkus-microcks/0.2.7/quarkus-microcks-0.2.7.spdx.json
+org/spdx/spdx-v3jsonld-store/1.0.0-RC2/spdx-v3jsonld-store-1.0.0-RC2.spdx.json
