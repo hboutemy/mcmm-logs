@@ -13364,3 +13364,20 @@ org/apache/sling/org.apache.sling.serviceuser.webconsole/1.0.4/org.apache.sling.
 org/apache/sling/org.apache.sling.starter.content/1.0.16/org.apache.sling.starter.content-1.0.16.pom
 org/apache/sling/org.apache.sling.validation.api/1.0.2/org.apache.sling.validation.api-1.0.2.pom
    from mvn: 4907 - non-mvn: 5233 - buildinfo: 0 - module: 2510 - gradle timestamp: 1208 - atlasdb: 0 = 0 release
+20241217
+ch/qos/logback/tyler/tyler-parent/1.0.1/tyler-parent-1.0.1.pom
+com/github/hazendaz/git/github-desktop/3.4.12/github-desktop-3.4.12.pom
+io/airlift/airbase-policy/206/airbase-policy-206.pom
+io/airlift/airbase/206/airbase-206.pom
+io/avaje/avaje-jex-parent/3.0-RC12/avaje-jex-parent-3.0-RC12.pom
+io/avaje/avaje-prisms-parent/1.37/avaje-prisms-parent-1.37.pom
+io/avaje/avaje-spi-parent/2.9/avaje-spi-parent-2.9.pom
+io/streamnative/buildtools/4.0.0.10/buildtools-4.0.0.10.pom
+io/streamnative/pulsar-bom/4.0.0.10/pulsar-bom-4.0.0.10.pom
+io/streamnative/pulsar/3.3.2.5/pulsar-3.3.2.5.pom
+io/trino/trino-root/468/trino-root-468.pom
+nl/hsac/hsac-fitnesse-plugin/1.33.0/hsac-fitnesse-plugin-1.33.0.pom
+org/glassfish/main/glassfish-main-aggregator/8.0.0-M9/glassfish-main-aggregator-8.0.0-M9.pom
+org/glassfish/main/nucleus-parent/8.0.0-M9/nucleus-parent-8.0.0-M9.pom
+org/sonatype/buildsupport/buildsupport/53/buildsupport-53.pom
+   from mvn: 4507 - non-mvn: 2791 - buildinfo: 0 - module: 2098 - gradle timestamp: 395 - atlasdb: 0 = 0 release

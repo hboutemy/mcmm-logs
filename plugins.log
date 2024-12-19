@@ -3238,6 +3238,7 @@ io.github.arrudalabs -> pom-editor:pom-editor-maven-plugin = "POM Editor Maven P
 io.github.ascopes -> protobuf:protobuf-maven-plugin = "Protobuf Maven Plugin"
 io.github.atkawa7 -> openapi-generator:openapi-generator-maven-plugin = "openapi-generator (maven-plugin)"
 io.github.atos-digital-id -> paprika:paprika-maven-plugin = "Paprika Maven Plugin"
+io.github.awesome-java-web -> sort-dependency:sort-dependency-maven-plugin = "sort-dependency-maven-plugin"
 io.github.barrypitman -> azure-storage-wagon:azure-storage-wagon = 
 io.github.barrypitman -> google-storage-wagon:google-storage-wagon = 
 io.github.barrypitman -> s3-storage-wagon:s3-storage-wagon = 
