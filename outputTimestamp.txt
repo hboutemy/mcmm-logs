@@ -13381,3 +13381,17 @@ org/glassfish/main/glassfish-main-aggregator/8.0.0-M9/glassfish-main-aggregator-
 org/glassfish/main/nucleus-parent/8.0.0-M9/nucleus-parent-8.0.0-M9.pom
 org/sonatype/buildsupport/buildsupport/53/buildsupport-53.pom
    from mvn: 4507 - non-mvn: 2791 - buildinfo: 0 - module: 2098 - gradle timestamp: 395 - atlasdb: 0 = 0 release
+20241218
+ch/qos/logback/logback-parent/1.5.13/logback-parent-1.5.13.pom
+com/foreach/across/across-core-dependencies/6.0.0/across-core-dependencies-6.0.0.pom
+com/foreach/across/across-platform-bom/6.0.0/across-platform-bom-6.0.0.pom
+com/foreach/across/across-platform-dependencies/6.0.0/across-platform-dependencies-6.0.0.pom
+com/github/marschall/jfr-jdbctemplate/2.1.0/jfr-jdbctemplate-2.1.0.pom
+com/vegardit/maven/vegardit-maven-parent/6.1.5/vegardit-maven-parent-6.1.5.pom
+io/fabric8/kubernetes-client-project/7.0.1/kubernetes-client-project-7.0.1.pom
+nl/hsac/hsac-fitnesse-plugin/1.33.1/hsac-fitnesse-plugin-1.33.1.pom
+org/apache/commons/commons-collections4/4.5.0-M3/commons-collections4-4.5.0-M3.pom
+org/apache/wicket/wicket-parent/10.3.0/wicket-parent-10.3.0.pom
+org/webjars/highcharts/12.1.0/highcharts-12.1.0.pom
+org/webjars/jquery-ui/1.14.1/jquery-ui-1.14.1.pom
+   from mvn: 2498 - non-mvn: 5231 - buildinfo: 6 - module: 4116 - gradle timestamp: 2249 - atlasdb: 0 = 0 release

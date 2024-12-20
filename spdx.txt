@@ -156,6 +156,7 @@ org.jetbrains.kotlin:kotlin-maven-allopen
 org.jetbrains.kotlin:kotlin-maven-lombok
 org.jetbrains.kotlin:kotlin-maven-noarg
 org.jetbrains.kotlin:kotlin-maven-plugin
+org.jetbrains.kotlin:kotlin-maven-power-assert
 org.jetbrains.kotlin:kotlin-maven-sam-with-receiver
 org.jetbrains.kotlin:kotlin-maven-serialization
 org.jetbrains.kotlin:kotlin-metadata-jvm
@@ -229,6 +230,7 @@ org.jetbrains.kotlin:sir-light-classes
 org.jetbrains.kotlin:sir-printer
 org.jetbrains.kotlin:sir-providers
 org.jetbrains.kotlin:swift-export-embeddable
+org.jetbrains.kotlin:swift-export-ide
 org.jetbrains.kotlin:swift-export-standalone
 org.jetbrains.kotlinx:kotlinx-metadata-jvm
 org.jetbrains.kotlinx:kotlinx-metadata-klib
