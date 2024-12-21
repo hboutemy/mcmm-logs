@@ -13395,3 +13395,24 @@ org/apache/wicket/wicket-parent/10.3.0/wicket-parent-10.3.0.pom
 org/webjars/highcharts/12.1.0/highcharts-12.1.0.pom
 org/webjars/jquery-ui/1.14.1/jquery-ui-1.14.1.pom
    from mvn: 2498 - non-mvn: 5231 - buildinfo: 6 - module: 4116 - gradle timestamp: 2249 - atlasdb: 0 = 0 release
+20241219
+ch/qos/logback/access/parent/2.0.5/parent-2.0.5.pom
+ch/qos/logback/logback-parent/1.5.14/logback-parent-1.5.14.pom
+io/airlift/airbase-policy/207/airbase-policy-207.pom
+io/airlift/airbase/207/airbase-207.pom
+io/github/chains-project/maven-lockfile-parent/5.3.0/maven-lockfile-parent-5.3.0.pom
+io/github/chains-project/maven-lockfile-parent/5.3.1/maven-lockfile-parent-5.3.1.pom
+io/github/chains-project/maven-lockfile-parent/5.3.2/maven-lockfile-parent-5.3.2.pom
+io/github/chains-project/maven-lockfile-parent/5.3.3/maven-lockfile-parent-5.3.3.pom
+io/quarkus/quarkus-parent/3.17.5/quarkus-parent-3.17.5.pom
+io/streamnative/pulsar/4.0.0.10/pulsar-4.0.0.10.pom
+io/telicent/jena/rdf-abac/0.73.1/rdf-abac-0.73.1.pom
+org/apache/activemq/artemis-project/2.39.0/artemis-project-2.39.0.pom
+org/apache/sling/org.apache.sling.xss/2.4.4/org.apache.sling.xss-2.4.4.pom
+org/apache/struts/struts2-parent/7.0.0/struts2-parent-7.0.0.pom
+org/finos/legend/engine/legend-engine/4.67.7/legend-engine-4.67.7.pom
+org/glassfish/main/glassfish-main-aggregator/8.0.0-JDK17-M9/glassfish-main-aggregator-8.0.0-JDK17-M9.pom
+org/glassfish/main/nucleus-parent/8.0.0-JDK17-M9/nucleus-parent-8.0.0-JDK17-M9.pom
+org/jpmml/jpmml-r/1.6.4/jpmml-r-1.6.4.pom
+org/liquibase/ext/liquibase-percona/4.30.0/liquibase-percona-4.30.0.pom
+   from mvn: 4742 - non-mvn: 6598 - buildinfo: 0 - module: 4490 - gradle timestamp: 1858 - atlasdb: 0 = 0 release
