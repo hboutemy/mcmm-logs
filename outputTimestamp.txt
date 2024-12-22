@@ -13416,3 +13416,10 @@ org/glassfish/main/nucleus-parent/8.0.0-JDK17-M9/nucleus-parent-8.0.0-JDK17-M9.p
 org/jpmml/jpmml-r/1.6.4/jpmml-r-1.6.4.pom
 org/liquibase/ext/liquibase-percona/4.30.0/liquibase-percona-4.30.0.pom
    from mvn: 4742 - non-mvn: 6598 - buildinfo: 0 - module: 4490 - gradle timestamp: 1858 - atlasdb: 0 = 0 release
+20241220
+io/github/chains-project/maven-lockfile-parent/5.3.4/maven-lockfile-parent-5.3.4.pom
+io/github/chains-project/maven-lockfile-parent/5.3.5/maven-lockfile-parent-5.3.5.pom
+org/apache/camel/camel/3.22.3/camel-3.22.3.pom
+org/apache/sling/org.apache.sling.models.impl/1.7.8/org.apache.sling.models.impl-1.7.8.pom
+org/apache/sling/org.apache.sling.testing.clients/3.1.0/org.apache.sling.testing.clients-3.1.0.pom
+   from mvn: 5236 - non-mvn: 3606 - buildinfo: 0 - module: 3311 - gradle timestamp: 1658 - atlasdb: 0 = 0 release
