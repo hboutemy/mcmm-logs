@@ -13423,3 +13423,10 @@ org/apache/camel/camel/3.22.3/camel-3.22.3.pom
 org/apache/sling/org.apache.sling.models.impl/1.7.8/org.apache.sling.models.impl-1.7.8.pom
 org/apache/sling/org.apache.sling.testing.clients/3.1.0/org.apache.sling.testing.clients-3.1.0.pom
    from mvn: 5236 - non-mvn: 3606 - buildinfo: 0 - module: 3311 - gradle timestamp: 1658 - atlasdb: 0 = 0 release
+20241221
+ch/qos/logback/logback-parent/1.5.15/logback-parent-1.5.15.pom
+org/apache/sling/org.apache.sling.feature.launcher/1.3.2/org.apache.sling.feature.launcher-1.3.2.pom
+org/apache/sling/org.apache.sling.feature/2.0.4/org.apache.sling.feature-2.0.4.pom
+org/apache/sling/org.apache.sling.installer.core/3.14.2/org.apache.sling.installer.core-3.14.2.pom
+org/finos/legend/engine/legend-engine/4.67.8/legend-engine-4.67.8.pom
+   from mvn: 829 - non-mvn: 1150 - buildinfo: 0 - module: 930 - gradle timestamp: 297 - atlasdb: 0 = 0 release

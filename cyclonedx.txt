@@ -1019,6 +1019,10 @@ io.github.sebastian-toepfer.json.rpc:json-rpc-runtime
 io.github.sebastian-toepfer.json.rpc:json-rpc-spring-integration-autoconfigure
 io.github.sebastian-toepfer.json.rpc:json-rpc-spring-integration-starter
 io.github.sebastian-toepfer.oss:oss-parent
+io.github.sparsick.testcontainers.gitserver:rewrite-testcontainers-gitserver
+io.github.sparsick.testcontainers.gitserver:testcontainers-git-bom
+io.github.sparsick.testcontainers.gitserver:testcontainers-git-parent
+io.github.sparsick.testcontainers.gitserver:testcontainers-gitserver
 io.smallrye.reactive:mutiny
 io.smallrye.reactive:mutiny-kotlin
 io.smallrye.reactive:mutiny-math
