@@ -4485,6 +4485,7 @@ org.glassfish.tyrus:tyrus-documentation
 org.glassfish.tyrus:tyrus-project
 org.glassfish.tyrus:tyrus-server
 org.glassfish.tyrus:tyrus-spi
+org.glassfish.wasp:wasp
 org.glassfish:jakarta.faces
 org.glassfish:mojarra-parent
 org.graylog2:graylog2-server

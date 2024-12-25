@@ -1,0 +1,2 @@
+org/glassfish/wasp/wasp/4.0.0/wasp-4.0.0-cyclonedx.json
+org/glassfish/wasp/wasp/4.0.0/wasp-4.0.0-cyclonedx.xml
