@@ -850,6 +850,7 @@ dev.openfeature.contrib.providers:unleash
 dev.openfeature.contrib.tools:junitopenfeature
 dev.openfeature:sdk
 dev.samsanders.openvex:jvex
+dev.vality:kotlin-service-parent-pom
 dev.vality:service-parent-pom
 edu.hm.hafner:pmd-core
 edu.hm.hafner:pmd-java

@@ -1,0 +1,4 @@
+com/github/hazendaz/7zip/7zip/24.09/7zip-24.09-cyclonedx.xml
+com/github/hazendaz/7zip/7zip/24.09/7zip-24.09-cyclonedx.json
+dev/vality/kotlin-service-parent-pom/3.0.0-RC-1/kotlin-service-parent-pom-3.0.0-RC-1-cyclonedx.json
+dev/vality/kotlin-service-parent-pom/3.0.0-RC/kotlin-service-parent-pom-3.0.0-RC-cyclonedx.json
