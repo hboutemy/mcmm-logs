@@ -1464,6 +1464,7 @@ net.sourceforge.pmd:pmd-php
 net.sourceforge.pmd:pmd-plsql
 net.sourceforge.pmd:pmd-python
 net.sourceforge.pmd:pmd-ruby
+net.sourceforge.pmd:pmd-rust
 net.sourceforge.pmd:pmd-scala
 net.sourceforge.pmd:pmd-scala-common
 net.sourceforge.pmd:pmd-scala_2.12

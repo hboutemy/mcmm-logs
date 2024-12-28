@@ -13464,3 +13464,11 @@ io/airlift/airbase/208/airbase-208.pom
 20241225
 io/streamnative/pulsar/3.0.8.1/pulsar-3.0.8.1.pom
    from mvn: 898 - non-mvn: 742 - buildinfo: 0 - module: 601 - gradle timestamp: 122 - atlasdb: 0 = 0 release
+20241226
+com/github/hazendaz/7zip/7zip/24.09/7zip-24.09.pom
+io/streamnative/buildtools/4.0.1.1/buildtools-4.0.1.1.pom
+io/streamnative/pulsar-bom/4.0.1.1/pulsar-bom-4.0.1.1.pom
+org/apache/sling/org.apache.sling.servlets.resolver/2.11.8/org.apache.sling.servlets.resolver-2.11.8.pom
+org/jpmml/jpmml-model/1.6.9/jpmml-model-1.6.9.pom
+org/mybatis/mybatis-parent/48/mybatis-parent-48.pom
+   from mvn: 1705 - non-mvn: 1661 - buildinfo: 0 - module: 1275 - gradle timestamp: 870 - atlasdb: 0 = 0 release
