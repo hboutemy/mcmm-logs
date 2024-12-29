@@ -87,6 +87,7 @@ org.apache.commons:commons-rng-core
 org.apache.commons:commons-rng-parent
 org.apache.commons:commons-rng-sampling
 org.apache.commons:commons-rng-simple
+org.apache.commons:commons-skin
 org.apache.commons:commons-statistics-descriptive
 org.apache.commons:commons-statistics-distribution
 org.apache.commons:commons-statistics-inference

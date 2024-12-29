@@ -13472,3 +13472,11 @@ org/apache/sling/org.apache.sling.servlets.resolver/2.11.8/org.apache.sling.serv
 org/jpmml/jpmml-model/1.6.9/jpmml-model-1.6.9.pom
 org/mybatis/mybatis-parent/48/mybatis-parent-48.pom
    from mvn: 1705 - non-mvn: 1661 - buildinfo: 0 - module: 1275 - gradle timestamp: 870 - atlasdb: 0 = 0 release
+20241227
+com/github/hazendaz/displaytag-doc/2.6.0/displaytag-doc-2.6.0.pom
+com/github/hazendaz/displaytag-doc/3.1.0/displaytag-doc-3.1.0.pom
+io/streamnative/pulsar/3.3.2.6/pulsar-3.3.2.6.pom
+net/sourceforge/pmd/pmd/7.9.0/pmd-7.9.0.pom
+org/apache/ratis/ratis-thirdparty/1.0.8/ratis-thirdparty-1.0.8.pom
+org/finos/legend/engine/legend-engine/4.67.10/legend-engine-4.67.10.pom
+   from mvn: 2253 - non-mvn: 2305 - buildinfo: 0 - module: 1596 - gradle timestamp: 995 - atlasdb: 0 = 0 release

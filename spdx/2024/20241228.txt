@@ -1,0 +1,1 @@
+org/apache/commons/commons-skin/5.0.0/commons-skin-5.0.0.spdx.json
