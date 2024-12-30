@@ -13480,3 +13480,7 @@ net/sourceforge/pmd/pmd/7.9.0/pmd-7.9.0.pom
 org/apache/ratis/ratis-thirdparty/1.0.8/ratis-thirdparty-1.0.8.pom
 org/finos/legend/engine/legend-engine/4.67.10/legend-engine-4.67.10.pom
    from mvn: 2253 - non-mvn: 2305 - buildinfo: 0 - module: 1596 - gradle timestamp: 995 - atlasdb: 0 = 0 release
+20241228
+io/avaje/avaje-inject-parent/11.1-RC2/avaje-inject-parent-11.1-RC2.pom
+org/apache/commons/commons-skin/5.0.0/commons-skin-5.0.0.pom
+   from mvn: 802 - non-mvn: 2048 - buildinfo: 0 - module: 2138 - gradle timestamp: 1255 - atlasdb: 0 = 0 release
