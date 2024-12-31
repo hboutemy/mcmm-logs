@@ -3425,8 +3425,10 @@ org.apache.syncope.core:syncope-core-am
 org.apache.syncope.core:syncope-core-idm
 org.apache.syncope.core:syncope-core-idrepo
 org.apache.syncope.core:syncope-core-persistence-api
+org.apache.syncope.core:syncope-core-persistence-common
 org.apache.syncope.core:syncope-core-persistence-jpa
 org.apache.syncope.core:syncope-core-persistence-jpa-json
+org.apache.syncope.core:syncope-core-persistence-neo4j
 org.apache.syncope.core:syncope-core-provisioning-api
 org.apache.syncope.core:syncope-core-provisioning-java
 org.apache.syncope.core:syncope-core-self-keymaster-starter
@@ -3436,6 +3438,7 @@ org.apache.syncope.core:syncope-core-workflow-api
 org.apache.syncope.core:syncope-core-workflow-java
 org.apache.syncope.ext.elasticsearch:syncope-ext-elasticsearch-client
 org.apache.syncope.ext.elasticsearch:syncope-ext-elasticsearch-logic
+org.apache.syncope.ext.elasticsearch:syncope-ext-elasticsearch-persistence
 org.apache.syncope.ext.elasticsearch:syncope-ext-elasticsearch-persistence-jpa
 org.apache.syncope.ext.elasticsearch:syncope-ext-elasticsearch-provisioning-java
 org.apache.syncope.ext.flowable:syncope-ext-flowable-bpmn
@@ -3459,6 +3462,7 @@ org.apache.syncope.ext.oidcc4ui:syncope-ext-oidcc4ui-rest-api
 org.apache.syncope.ext.oidcc4ui:syncope-ext-oidcc4ui-rest-cxf
 org.apache.syncope.ext.opensearch:syncope-ext-opensearch-client
 org.apache.syncope.ext.opensearch:syncope-ext-opensearch-logic
+org.apache.syncope.ext.opensearch:syncope-ext-opensearch-persistence
 org.apache.syncope.ext.opensearch:syncope-ext-opensearch-persistence-jpa
 org.apache.syncope.ext.opensearch:syncope-ext-opensearch-provisioning-java
 org.apache.syncope.ext.saml2sp4ui:syncope-ext-saml2sp4ui-client-common-ui
@@ -3485,6 +3489,7 @@ org.apache.syncope.ext:syncope-ext-oidcc4ui
 org.apache.syncope.ext:syncope-ext-opensearch
 org.apache.syncope.ext:syncope-ext-saml2sp4ui
 org.apache.syncope.ext:syncope-ext-scimv2
+org.apache.syncope.fit:persistence-embedded
 org.apache.syncope.fit:syncope-fit-build-tools
 org.apache.syncope.wa:syncope-wa-bootstrap
 org.apache.syncope.wa:syncope-wa-starter

@@ -13484,3 +13484,7 @@ org/finos/legend/engine/legend-engine/4.67.10/legend-engine-4.67.10.pom
 io/avaje/avaje-inject-parent/11.1-RC2/avaje-inject-parent-11.1-RC2.pom
 org/apache/commons/commons-skin/5.0.0/commons-skin-5.0.0.pom
    from mvn: 802 - non-mvn: 2048 - buildinfo: 0 - module: 2138 - gradle timestamp: 1255 - atlasdb: 0 = 0 release
+20241229
+de/unentscheidbar/migratedb/1.4.0/migratedb-1.4.0.pom
+fr/inria/gforge/spoon/spoon-pom/11.1.1-beta-20/spoon-pom-11.1.1-beta-20.pom
+   from mvn: 474 - non-mvn: 885 - buildinfo: 0 - module: 831 - gradle timestamp: 204 - atlasdb: 0 = 0 release
