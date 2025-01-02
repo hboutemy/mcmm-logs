@@ -13502,3 +13502,8 @@ org/apache/syncope/syncope/3.0.10/syncope-3.0.10.pom
 org/apache/syncope/syncope/4.0.0-M0/syncope-4.0.0-M0.pom
 org/cyclonedx/cyclonedx-core-java/10.1.0/cyclonedx-core-java-10.1.0.pom
    from mvn: 1183 - non-mvn: 2819 - buildinfo: 0 - module: 1271 - gradle timestamp: 185 - atlasdb: 0 = 0 release
+20241231
+org/jpmml/jpmml-converter/1.5.11/jpmml-converter-1.5.11.pom
+org/jpmml/jpmml-evaluator/1.6.9/jpmml-evaluator-1.6.9.pom
+org/jpmml/jpmml-transpiler/1.3.9/jpmml-transpiler-1.3.9.pom
+   from mvn: 1494 - non-mvn: 2591 - buildinfo: 0 - module: 832 - gradle timestamp: 169 - atlasdb: 0 = 0 release
