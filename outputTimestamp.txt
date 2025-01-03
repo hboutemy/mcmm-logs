@@ -13507,3 +13507,9 @@ org/jpmml/jpmml-converter/1.5.11/jpmml-converter-1.5.11.pom
 org/jpmml/jpmml-evaluator/1.6.9/jpmml-evaluator-1.6.9.pom
 org/jpmml/jpmml-transpiler/1.3.9/jpmml-transpiler-1.3.9.pom
    from mvn: 1494 - non-mvn: 2591 - buildinfo: 0 - module: 832 - gradle timestamp: 169 - atlasdb: 0 = 0 release
+20250101
+com/github/waffle/waffle/3.5.1/waffle-3.5.1.pom
+org/finos/legend/engine/legend-engine/4.67.11/legend-engine-4.67.11.pom
+org/jpmml/jpmml-statsmodels/1.2.0/jpmml-statsmodels-1.2.0.pom
+org/mybatis/mybatis/3.5.18/mybatis-3.5.18.pom
+   from mvn: 786 - non-mvn: 1458 - buildinfo: 0 - module: 652 - gradle timestamp: 71 - atlasdb: 0 = 0 release

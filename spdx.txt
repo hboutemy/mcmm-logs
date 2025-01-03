@@ -95,6 +95,10 @@ org.apache.commons:commons-statistics-inference
 org.apache.commons:commons-statistics-parent
 org.apache.commons:commons-statistics-ranking
 org.apache.commons:commons-text
+org.apache.openmeetings:openmeetings-db
+org.apache.openmeetings:openmeetings-parent
+org.apache.openmeetings:openmeetings-tests
+org.apache.openmeetings:openmeetings-util
 org.ikasan:commons-dbcp2
 org.jetbrains.kotlin:analysis-api-test-framework
 org.jetbrains.kotlin:atomicfu

@@ -3176,6 +3176,10 @@ org.apache.mina:mina-parent
 org.apache.mina:mina-statemachine
 org.apache.mina:mina-transport-apr
 org.apache.mina:mina-transport-serial
+org.apache.openmeetings:openmeetings-db
+org.apache.openmeetings:openmeetings-parent
+org.apache.openmeetings:openmeetings-tests
+org.apache.openmeetings:openmeetings-util
 org.apache.orc:orc
 org.apache.orc:orc-core
 org.apache.orc:orc-examples

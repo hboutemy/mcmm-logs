@@ -1,0 +1,4 @@
+org/apache/openmeetings/openmeetings-db/8.0.0/openmeetings-db-8.0.0.spdx.json
+org/apache/openmeetings/openmeetings-parent/8.0.0/openmeetings-parent-8.0.0.spdx.json
+org/apache/openmeetings/openmeetings-tests/8.0.0/openmeetings-tests-8.0.0.spdx.json
+org/apache/openmeetings/openmeetings-util/8.0.0/openmeetings-util-8.0.0.spdx.json

@@ -1,0 +1,14 @@
+com/github/hazendaz/gpg4win/gpg4win/4.4.0/gpg4win-4.4.0-cyclonedx.json
+com/github/hazendaz/gpg4win/gpg4win/4.4.0/gpg4win-4.4.0-cyclonedx.xml
+dev/openfeature/contrib/providers/flagd/0.10.3/flagd-0.10.3-cyclonedx.json
+dev/openfeature/contrib/providers/flagd/0.10.3/flagd-0.10.3-cyclonedx.xml
+dev/openfeature/contrib/providers/flagd/0.10.4/flagd-0.10.4-cyclonedx.xml
+dev/openfeature/contrib/providers/flagd/0.10.4/flagd-0.10.4-cyclonedx.json
+org/apache/openmeetings/openmeetings-db/8.0.0/openmeetings-db-8.0.0-cyclonedx.xml
+org/apache/openmeetings/openmeetings-db/8.0.0/openmeetings-db-8.0.0-cyclonedx.json
+org/apache/openmeetings/openmeetings-parent/8.0.0/openmeetings-parent-8.0.0-cyclonedx.xml
+org/apache/openmeetings/openmeetings-parent/8.0.0/openmeetings-parent-8.0.0-cyclonedx.json
+org/apache/openmeetings/openmeetings-tests/8.0.0/openmeetings-tests-8.0.0-cyclonedx.json
+org/apache/openmeetings/openmeetings-tests/8.0.0/openmeetings-tests-8.0.0-cyclonedx.xml
+org/apache/openmeetings/openmeetings-util/8.0.0/openmeetings-util-8.0.0-cyclonedx.json
+org/apache/openmeetings/openmeetings-util/8.0.0/openmeetings-util-8.0.0-cyclonedx.xml
