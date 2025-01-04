@@ -13513,3 +13513,13 @@ org/finos/legend/engine/legend-engine/4.67.11/legend-engine-4.67.11.pom
 org/jpmml/jpmml-statsmodels/1.2.0/jpmml-statsmodels-1.2.0.pom
 org/mybatis/mybatis/3.5.18/mybatis-3.5.18.pom
    from mvn: 786 - non-mvn: 1458 - buildinfo: 0 - module: 652 - gradle timestamp: 71 - atlasdb: 0 = 0 release
+20250102
+org/apache/openmeetings/openmeetings-parent/8.0.0/openmeetings-parent-8.0.0.pom
+org/jpmml/jpmml-sparkml/2.0.5/jpmml-sparkml-2.0.5.pom
+org/jpmml/jpmml-sparkml/2.1.5/jpmml-sparkml-2.1.5.pom
+org/jpmml/jpmml-sparkml/2.2.5/jpmml-sparkml-2.2.5.pom
+org/jpmml/jpmml-sparkml/2.3.4/jpmml-sparkml-2.3.4.pom
+org/jpmml/jpmml-sparkml/2.4.3/jpmml-sparkml-2.4.3.pom
+org/jpmml/jpmml-sparkml/2.5.2/jpmml-sparkml-2.5.2.pom
+org/mybatis/mybatis/3.5.19/mybatis-3.5.19.pom
+   from mvn: 1828 - non-mvn: 2831 - buildinfo: 0 - module: 2255 - gradle timestamp: 1141 - atlasdb: 0 = 0 release
