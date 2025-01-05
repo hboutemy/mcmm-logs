@@ -1,0 +1,10 @@
+com/flowlogix/archetypes/starter/49/starter-49-cyclonedx.json
+com/flowlogix/archetypes/starter/49/starter-49-cyclonedx.xml
+com/flowlogix/depchain/depchain/49/depchain-49-cyclonedx.xml
+com/flowlogix/depchain/depchain/49/depchain-49-cyclonedx.json
+com/flowlogix/depchain/integration-test/49/integration-test-49-cyclonedx.json
+com/flowlogix/depchain/integration-test/49/integration-test-49-cyclonedx.xml
+com/flowlogix/depchain/shiro-jakarta/49/shiro-jakarta-49-cyclonedx.json
+com/flowlogix/depchain/shiro-jakarta/49/shiro-jakarta-49-cyclonedx.xml
+com/flowlogix/depchain/unit-test/49/unit-test-49-cyclonedx.json
+com/flowlogix/depchain/unit-test/49/unit-test-49-cyclonedx.xml

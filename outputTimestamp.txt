@@ -13523,3 +13523,17 @@ org/jpmml/jpmml-sparkml/2.4.3/jpmml-sparkml-2.4.3.pom
 org/jpmml/jpmml-sparkml/2.5.2/jpmml-sparkml-2.5.2.pom
 org/mybatis/mybatis/3.5.19/mybatis-3.5.19.pom
    from mvn: 1828 - non-mvn: 2831 - buildinfo: 0 - module: 2255 - gradle timestamp: 1141 - atlasdb: 0 = 0 release
+20250103
+com/github/hazendaz/maven/coveralls-maven-plugin/4.5.0-M6/coveralls-maven-plugin-4.5.0-M6.pom
+com/github/hazendaz/maven/htmlcompressor-maven-plugin/1.10.1/htmlcompressor-maven-plugin-1.10.1.pom
+com/github/ldapchai/ldapchai/0.8.7/ldapchai-0.8.7.pom
+eu/maveniverse/maven/mimir/mimir/0.1.0/mimir-0.1.0.pom
+org/apache/maven/plugins/maven-changelog-plugin/3.0.0-M1/maven-changelog-plugin-3.0.0-M1.pom
+org/apache/maven/plugins/maven-changes-plugin/3.0.0-M2/maven-changes-plugin-3.0.0-M2.pom
+org/apache/maven/plugins/maven-remote-resources-plugin/3.3.0/maven-remote-resources-plugin-3.3.0.pom
+org/apache/maven/shared/maven-shared-jar/3.2.0/maven-shared-jar-3.2.0.pom
+org/apache/paimon/paimon-parent/1.0.0/paimon-parent-1.0.0.pom
+org/glassfish/main/glassfish-main-aggregator/7.0.21/glassfish-main-aggregator-7.0.21.pom
+org/glassfish/main/nucleus-parent/7.0.21/nucleus-parent-7.0.21.pom
+org/green-code-initiative/creedengo-rules-specifications/2.1.0/creedengo-rules-specifications-2.1.0.pom
+   from mvn: 2835 - non-mvn: 2879 - buildinfo: 0 - module: 2527 - gradle timestamp: 1333 - atlasdb: 0 = 0 release
