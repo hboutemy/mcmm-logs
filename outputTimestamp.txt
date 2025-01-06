@@ -13537,3 +13537,11 @@ org/glassfish/main/glassfish-main-aggregator/7.0.21/glassfish-main-aggregator-7.
 org/glassfish/main/nucleus-parent/7.0.21/nucleus-parent-7.0.21.pom
 org/green-code-initiative/creedengo-rules-specifications/2.1.0/creedengo-rules-specifications-2.1.0.pom
    from mvn: 2835 - non-mvn: 2879 - buildinfo: 0 - module: 2527 - gradle timestamp: 1333 - atlasdb: 0 = 0 release
+20250104
+eu/maveniverse/maven/parent/parent/23/parent-23.pom
+io/jstach/ezkv/ezkv-maven-parent/0.3.0/ezkv-maven-parent-0.3.0.pom
+io/streamnative/pulsar/3.0.8.2/pulsar-3.0.8.2.pom
+org/apache/baremaps/baremaps/0.8.1/baremaps-0.8.1.pom
+org/apache/causeway/causeway-bom/3.2.0/causeway-bom-3.2.0.pom
+org/jpmml/jpmml-model/1.6.10/jpmml-model-1.6.10.pom
+   from mvn: 1024 - non-mvn: 1504 - buildinfo: 0 - module: 1364 - gradle timestamp: 232 - atlasdb: 0 = 0 release
