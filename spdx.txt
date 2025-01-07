@@ -21,6 +21,7 @@ io.github.microcks.quarkus:quarkus-microcks
 io.github.microcks.quarkus:quarkus-microcks-deployment
 io.github.microcks.quarkus:quarkus-microcks-parent
 io.github.microcks.quarkus:quarkus-microcks-test
+io.github.microcks:microcks-java-client
 io.github.microcks:microcks-kube-api
 io.github.microcks:microcks-kube-operator
 io.github.microcks:microcks-operator

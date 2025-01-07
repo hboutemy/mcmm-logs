@@ -1,0 +1,2 @@
+commons-codec/commons-codec/1.17.2/commons-codec-1.17.2.spdx.json
+io/github/microcks/microcks-java-client/0.0.3/microcks-java-client-0.0.3.spdx.json

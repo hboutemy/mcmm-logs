@@ -13545,3 +13545,8 @@ org/apache/baremaps/baremaps/0.8.1/baremaps-0.8.1.pom
 org/apache/causeway/causeway-bom/3.2.0/causeway-bom-3.2.0.pom
 org/jpmml/jpmml-model/1.6.10/jpmml-model-1.6.10.pom
    from mvn: 1024 - non-mvn: 1504 - buildinfo: 0 - module: 1364 - gradle timestamp: 232 - atlasdb: 0 = 0 release
+20250105
+ch/qos/logback/logback-parent/1.5.16/logback-parent-1.5.16.pom
+fr/inria/gforge/spoon/spoon-pom/11.1.1-beta-21/spoon-pom-11.1.1-beta-21.pom
+org/jpmml/jpmml-r/1.6.5/jpmml-r-1.6.5.pom
+   from mvn: 805 - non-mvn: 1466 - buildinfo: 0 - module: 716 - gradle timestamp: 139 - atlasdb: 0 = 0 release

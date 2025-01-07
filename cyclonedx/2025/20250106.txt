@@ -1,0 +1,4 @@
+commons-codec/commons-codec/1.17.2/commons-codec-1.17.2-cyclonedx.json
+commons-codec/commons-codec/1.17.2/commons-codec-1.17.2-cyclonedx.xml
+org/glassfish/build/command-security-maven-plugin/1.0.19/command-security-maven-plugin-1.0.19-cyclonedx.json
+org/glassfish/build/command-security-maven-plugin/1.0.19/command-security-maven-plugin-1.0.19-cyclonedx.xml
