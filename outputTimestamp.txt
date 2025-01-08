@@ -13550,3 +13550,15 @@ ch/qos/logback/logback-parent/1.5.16/logback-parent-1.5.16.pom
 fr/inria/gforge/spoon/spoon-pom/11.1.1-beta-21/spoon-pom-11.1.1-beta-21.pom
 org/jpmml/jpmml-r/1.6.5/jpmml-r-1.6.5.pom
    from mvn: 805 - non-mvn: 1466 - buildinfo: 0 - module: 716 - gradle timestamp: 139 - atlasdb: 0 = 0 release
+20250106
+com/github/sitture/env-config/1.13.0/env-config-1.13.0.pom
+com/github/sitture/env-config/1.13.1/env-config-1.13.1.pom
+commons-codec/commons-codec/1.17.2/commons-codec-1.17.2.pom
+eu/maveniverse/maven/mimir/mimir/0.2.0/mimir-0.2.0.pom
+eu/maveniverse/maven/mimir/mimir/0.2.1/mimir-0.2.1.pom
+eu/maveniverse/maven/mimir/mimir/0.2.2/mimir-0.2.2.pom
+io/avaje/avaje-jex-parent/3.0-RC13/avaje-jex-parent-3.0-RC13.pom
+io/jstach/rainbowgum/rainbowgum-maven-parent/0.8.1/rainbowgum-maven-parent-0.8.1.pom
+org/finos/legend/engine/legend-engine/4.67.12/legend-engine-4.67.12.pom
+org/webjars/flexmonster/2.9.94/flexmonster-2.9.94.pom
+   from mvn: 4057 - non-mvn: 4445 - buildinfo: 0 - module: 2281 - gradle timestamp: 1263 - atlasdb: 0 = 0 release

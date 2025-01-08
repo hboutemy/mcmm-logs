@@ -3,6 +3,7 @@ com.hack23.cia:citizen-intelligence-agency
 com.hack23.sonar:sonar-cloudformation-plugin
 com.xenoamess.fork.org.apache.commons:commons-compress
 com.yookue.forkextension.apache:commons-beanutils2
+commons-beanutils:commons-beanutils
 commons-cli:commons-cli
 commons-codec:commons-codec
 commons-daemon:commons-daemon
@@ -30,6 +31,7 @@ io.github.ryunen344.webauthn:webauthn2-json-moshi
 io.github.ryunen344.webauthn:webauthn2-json-serialization
 io.opentelemetry.javaagent:opentelemetry-javaagent
 org.apache.bcel:bcel
+org.apache.commons:commons-beanutils2
 org.apache.commons:commons-build-plugin
 org.apache.commons:commons-collections4
 org.apache.commons:commons-compress

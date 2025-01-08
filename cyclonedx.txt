@@ -778,6 +778,7 @@ com.yahoo.athenz:athenz-zpe-java-client
 com.yahoo.athenz:athenz-zts-core
 com.yahoo.athenz:athenz-zts-java-client
 com.yookue.forkextension.apache:commons-beanutils2
+commons-beanutils:commons-beanutils
 commons-cli:commons-cli
 commons-codec:commons-codec
 commons-daemon:commons-daemon
@@ -1628,6 +1629,7 @@ org.apache.camel.kamelets:camel-kamelets-parent
 org.apache.camel.quarkus:camel-quarkus
 org.apache.camel.springboot:spring-boot
 org.apache.camel:camel
+org.apache.commons:commons-beanutils2
 org.apache.commons:commons-build-plugin
 org.apache.commons:commons-collections4
 org.apache.commons:commons-compress
@@ -2216,6 +2218,7 @@ org.apache.flink:flink-walkthrough-datastream-java
 org.apache.flink:flink-walkthroughs
 org.apache.flink:flink-yarn
 org.apache.fulcrum:fulcrum-intake
+org.apache.fulcrum:fulcrum-localization
 org.apache.fulcrum:fulcrum-parser
 org.apache.fulcrum:fulcrum-security
 org.apache.fulcrum:fulcrum-security-api
@@ -2223,6 +2226,7 @@ org.apache.fulcrum:fulcrum-security-dist
 org.apache.fulcrum:fulcrum-security-memory
 org.apache.fulcrum:fulcrum-security-torque
 org.apache.fulcrum:fulcrum-testcontainer
+org.apache.fulcrum:fulcrum-upload
 org.apache.fulcrum:fulcrum-yaafi
 org.apache.groovy:groovy
 org.apache.groovy:groovy-all
