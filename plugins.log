@@ -4073,6 +4073,7 @@ net.mdatools -> modelant.uml14..:modelant.uml14.maven.plugin = "modelant.uml14.m
 net.mfjassociates.maven -> enforce-rules:enforce-rules-maven-plugin = "enforce-rules-maven-plugin Maven Plugin"
 net.mfjassociates.maven -> scminfo:scminfo-maven-plugin = "scminfo-maven-plugin"
 net.mgorski.quicktag -> quicktag:quicktag = "Quicktag Maven Plugin"
+net.microfalx.maven -> :maven-plugin = "Maven :: Plugin"
 net.morimekta.providence -> providence:providence-maven-plugin = "Providence Tools : Source Generator Maven Plugin"
 net.nicoulaj.maven.plugins -> checksum:checksum-maven-plugin = "checksum-maven-plugin"
 net.nisgits.executablewar -> executable-war:maven-executable-war-plugin = "Maven plugin for creating executable WARs"

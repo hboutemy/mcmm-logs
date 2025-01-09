@@ -13562,3 +13562,14 @@ io/jstach/rainbowgum/rainbowgum-maven-parent/0.8.1/rainbowgum-maven-parent-0.8.1
 org/finos/legend/engine/legend-engine/4.67.12/legend-engine-4.67.12.pom
 org/webjars/flexmonster/2.9.94/flexmonster-2.9.94.pom
    from mvn: 4057 - non-mvn: 4445 - buildinfo: 0 - module: 2281 - gradle timestamp: 1263 - atlasdb: 0 = 0 release
+20250107
+ch/qos/logback/access/parent/2.0.6/parent-2.0.6.pom
+com/cognite/units/units-catalog/0.1.17/units-catalog-0.1.17.pom
+com/melloware/commons-configuration2/2.10.2/commons-configuration2-2.10.2.pom
+commons-beanutils/commons-beanutils/1.10.0/commons-beanutils-1.10.0.pom
+io/avaje/avaje-inject-parent/11.1-javax/avaje-inject-parent-11.1-javax.pom
+io/avaje/avaje-inject-parent/11.1/avaje-inject-parent-11.1.pom
+io/jooby/jooby-project/3.6.0/jooby-project-3.6.0.pom
+org/apache/commons/commons-beanutils2/2.0.0-M1/commons-beanutils2-2.0.0-M1.pom
+org/apache/commons/commons-parent/79/commons-parent-79.pom
+   from mvn: 3948 - non-mvn: 3245 - buildinfo: 0 - module: 2840 - gradle timestamp: 1458 - atlasdb: 0 = 0 release
