@@ -13573,3 +13573,15 @@ io/jooby/jooby-project/3.6.0/jooby-project-3.6.0.pom
 org/apache/commons/commons-beanutils2/2.0.0-M1/commons-beanutils2-2.0.0-M1.pom
 org/apache/commons/commons-parent/79/commons-parent-79.pom
    from mvn: 3948 - non-mvn: 3245 - buildinfo: 0 - module: 2840 - gradle timestamp: 1458 - atlasdb: 0 = 0 release
+20250108
+eu/maveniverse/maven/mimir/mimir/0.2.3/mimir-0.2.3.pom
+io/airlift/airbase-policy/210/airbase-policy-210.pom
+io/airlift/airbase/210/airbase-210.pom
+io/avaje/avaje-json-core/3.0-RC6-java8/avaje-json-core-3.0-RC6-java8.pom
+io/avaje/avaje-jsonb-parent/3.0-RC6/avaje-jsonb-parent-3.0-RC6.pom
+io/avaje/avaje-logback-encoder/0.7-java8/avaje-logback-encoder-0.7-java8.pom
+io/avaje/avaje-logback-encoder/0.7/avaje-logback-encoder-0.7.pom
+io/quarkus/quarkus-parent/3.17.6/quarkus-parent-3.17.6.pom
+io/streamnative/pulsar/3.3.2.7/pulsar-3.3.2.7.pom
+org/jpmml/jpmml-evaluator/1.6.10/jpmml-evaluator-1.6.10.pom
+   from mvn: 3639 - non-mvn: 3664 - buildinfo: 84 - module: 2762 - gradle timestamp: 1325 - atlasdb: 0 = 0 release

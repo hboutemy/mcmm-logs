@@ -1,0 +1,2 @@
+com/github/mwiede/jsch/0.2.22/jsch-0.2.22-cyclonedx.xml
+com/github/mwiede/jsch/0.2.22/jsch-0.2.22-cyclonedx.json
