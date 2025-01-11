@@ -13585,3 +13585,12 @@ io/quarkus/quarkus-parent/3.17.6/quarkus-parent-3.17.6.pom
 io/streamnative/pulsar/3.3.2.7/pulsar-3.3.2.7.pom
 org/jpmml/jpmml-evaluator/1.6.10/jpmml-evaluator-1.6.10.pom
    from mvn: 3639 - non-mvn: 3664 - buildinfo: 84 - module: 2762 - gradle timestamp: 1325 - atlasdb: 0 = 0 release
+20250109
+com/fasterxml/oss-parent/62/oss-parent-62.pom
+io/avaje/avaje-logback-encoder/0.8-java8/avaje-logback-encoder-0.8-java8.pom
+io/avaje/avaje-logback-encoder/0.8/avaje-logback-encoder-0.8.pom
+io/avaje/avaje-logback-encoder/0.9-java8/avaje-logback-encoder-0.9-java8.pom
+io/avaje/avaje-logback-encoder/0.9.1-java8/avaje-logback-encoder-0.9.1-java8.pom
+io/avaje/avaje-logback-encoder/0.9/avaje-logback-encoder-0.9.pom
+io/streamnative/pulsar/3.0.8.2-shaded/pulsar-3.0.8.2-shaded.pom
+   from mvn: 3719 - non-mvn: 4075 - buildinfo: 0 - module: 2856 - gradle timestamp: 1656 - atlasdb: 0 = 0 release
