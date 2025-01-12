@@ -1397,6 +1397,11 @@ jakarta.platform:jakartaee-api-parent
 jakarta.security.enterprise:jakarta.security.enterprise-api
 jakarta.servlet.jsp:jakarta.servlet.jsp-api
 jakarta.servlet:jakarta.servlet-api
+jakarta.tck.arquillian:arquillian-protocol-appclient
+jakarta.tck.arquillian:arquillian-protocol-common
+jakarta.tck.arquillian:arquillian-protocol-javatest
+jakarta.tck.arquillian:arquillian-protocol-lib
+jakarta.tck.arquillian:tck-porting-lib
 jakarta.tck.coreprofile:cdi-lite-tck-suite
 jakarta.tck.coreprofile:common-annotations
 jakarta.tck.coreprofile:core-profile-tck-dist
@@ -1409,6 +1414,7 @@ jakarta.tck:cdi-ee-tck-dist
 jakarta.tck:cdi-tck-ee-impl
 jakarta.tck:cdi-tck-ee-parent
 jakarta.tck:sigtest-maven-plugin
+jakarta.tck:tck.arquillian.parent
 jakarta.validation:jakarta.validation-api
 jakarta.validation:validation-standalone-container-adapter
 jakarta.validation:validation-tck-distribution

@@ -13594,3 +13594,12 @@ io/avaje/avaje-logback-encoder/0.9.1-java8/avaje-logback-encoder-0.9.1-java8.pom
 io/avaje/avaje-logback-encoder/0.9/avaje-logback-encoder-0.9.pom
 io/streamnative/pulsar/3.0.8.2-shaded/pulsar-3.0.8.2-shaded.pom
    from mvn: 3719 - non-mvn: 4075 - buildinfo: 0 - module: 2856 - gradle timestamp: 1656 - atlasdb: 0 = 0 release
+20250110
+org/apache/orc/orc/2.1.0/orc-2.1.0.pom
+org/jpmml/jpmml-converter/1.5.12/jpmml-converter-1.5.12.pom
+org/jpmml/jpmml-evaluator/1.6.11/jpmml-evaluator-1.6.11.pom
+org/jpmml/jpmml-lightgbm/1.5.6/jpmml-lightgbm-1.5.6.pom
+org/jpmml/jpmml-model/1.6.11/jpmml-model-1.6.11.pom
+org/jpmml/jpmml-python/1.2.8/jpmml-python-1.2.8.pom
+org/jpmml/jpmml-xgboost/1.8.8/jpmml-xgboost-1.8.8.pom
+   from mvn: 4771 - non-mvn: 5120 - buildinfo: 0 - module: 3815 - gradle timestamp: 1721 - atlasdb: 0 = 0 release
