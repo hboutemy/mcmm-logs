@@ -1413,6 +1413,10 @@ jakarta.tck.tools:sigtest-maven-plugin
 jakarta.tck:cdi-ee-tck-dist
 jakarta.tck:cdi-tck-ee-impl
 jakarta.tck:cdi-tck-ee-parent
+jakarta.tck:common
+jakarta.tck:libutil
+jakarta.tck:runtime
+jakarta.tck:signaturetest
 jakarta.tck:sigtest-maven-plugin
 jakarta.tck:tck.arquillian.parent
 jakarta.validation:jakarta.validation-api
