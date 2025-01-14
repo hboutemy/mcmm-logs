@@ -13619,3 +13619,8 @@ org/mybatis/caches/mybatis-redis/1.0.0/mybatis-redis-1.0.0.pom
 org/owasp/dependency-check-parent/12.0.0/dependency-check-parent-12.0.0.pom
 org/owasp/dependency-check-plugin/12.0.0/dependency-check-plugin-12.0.0.pom
    from mvn: 1086 - non-mvn: 1281 - buildinfo: 1 - module: 725 - gradle timestamp: 133 - atlasdb: 0 = 0 release
+20250112
+fr/inria/gforge/spoon/spoon-pom/11.1.1-beta-22/spoon-pom-11.1.1-beta-22.pom
+org/apache/camel/camel/4.8.3/camel-4.8.3.pom
+org/apache/maven/plugins/maven-artifact-plugin/3.6.0/maven-artifact-plugin-3.6.0.pom
+   from mvn: 1935 - non-mvn: 721 - buildinfo: 0 - module: 518 - gradle timestamp: 137 - atlasdb: 0 = 0 release
