@@ -13624,3 +13624,12 @@ fr/inria/gforge/spoon/spoon-pom/11.1.1-beta-22/spoon-pom-11.1.1-beta-22.pom
 org/apache/camel/camel/4.8.3/camel-4.8.3.pom
 org/apache/maven/plugins/maven-artifact-plugin/3.6.0/maven-artifact-plugin-3.6.0.pom
    from mvn: 1935 - non-mvn: 721 - buildinfo: 0 - module: 518 - gradle timestamp: 137 - atlasdb: 0 = 0 release
+20250113
+com/homeofthewizard/gcp-secretmanager-maven-plugin/1.0.0-beta/gcp-secretmanager-maven-plugin-1.0.0-beta.pom
+io/avaje/avaje-inject-parent/11.2-RC1/avaje-inject-parent-11.2-RC1.pom
+io/jstach/ezkv/ezkv-maven-parent/0.4.0/ezkv-maven-parent-0.4.0.pom
+io/wcm/io.wcm.caconfig.extensions/1.10.2/io.wcm.caconfig.extensions-1.10.2.pom
+org/apache/activemq/activemq-parent/6.1.5/activemq-parent-6.1.5.pom
+org/apache/opendal/opendal/0.47.7/opendal-0.47.7.pom
+org/infinispan/protostream/parent/6.0.0.Dev02/parent-6.0.0.Dev02.pom
+   from mvn: 3492 - non-mvn: 4414 - buildinfo: 0 - module: 2808 - gradle timestamp: 1487 - atlasdb: 0 = 0 release
