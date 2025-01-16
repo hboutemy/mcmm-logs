@@ -13633,3 +13633,16 @@ org/apache/activemq/activemq-parent/6.1.5/activemq-parent-6.1.5.pom
 org/apache/opendal/opendal/0.47.7/opendal-0.47.7.pom
 org/infinispan/protostream/parent/6.0.0.Dev02/parent-6.0.0.Dev02.pom
    from mvn: 3492 - non-mvn: 4414 - buildinfo: 0 - module: 2808 - gradle timestamp: 1487 - atlasdb: 0 = 0 release
+20250114
+com/cognite/units/units-catalog/0.1.18/units-catalog-0.1.18.pom
+commons-daemon/commons-daemon/1.4.1/commons-daemon-1.4.1.pom
+io/avaje/avaje-jex-parent/3.0-RC14/avaje-jex-parent-3.0-RC14.pom
+io/avaje/avaje-logback-encoder/0.10-java8/avaje-logback-encoder-0.10-java8.pom
+io/avaje/avaje-logback-encoder/0.10/avaje-logback-encoder-0.10.pom
+io/cucumber/query/13.1.0/query-13.1.0.pom
+io/dropwizard/metrics/metrics-parent/4.2.30/metrics-parent-4.2.30.pom
+io/dropwizard/metrics5/metrics-parent/5.0.0-rc24/metrics-parent-5.0.0-rc24.pom
+io/quarkus/quarkus-parent/3.15.3/quarkus-parent-3.15.3.pom
+io/streamnative/pulsar/4.0.1.1/pulsar-4.0.1.1.pom
+org/sonatype/buildsupport/buildsupport/54/buildsupport-54.pom
+   from mvn: 4206 - non-mvn: 3661 - buildinfo: 0 - module: 3323 - gradle timestamp: 1765 - atlasdb: 0 = 0 release
