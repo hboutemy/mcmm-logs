@@ -13646,3 +13646,14 @@ io/quarkus/quarkus-parent/3.15.3/quarkus-parent-3.15.3.pom
 io/streamnative/pulsar/4.0.1.1/pulsar-4.0.1.1.pom
 org/sonatype/buildsupport/buildsupport/54/buildsupport-54.pom
    from mvn: 4206 - non-mvn: 3661 - buildinfo: 0 - module: 3323 - gradle timestamp: 1765 - atlasdb: 0 = 0 release
+20250115
+com/github/hazendaz/git/github-desktop/3.4.13/github-desktop-3.4.13.pom
+com/github/hazendaz/maven/makeself-maven-plugin/1.8.5/makeself-maven-plugin-1.8.5.pom
+io/avaje/avaje-inject-parent/11.2-RC2/avaje-inject-parent-11.2-RC2.pom
+io/dropwizard/dropwizard-project/3.0.12/dropwizard-project-3.0.12.pom
+io/dropwizard/dropwizard-project/4.0.12/dropwizard-project-4.0.12.pom
+io/dropwizard/dropwizard-project/5.0.0-rc.1/dropwizard-project-5.0.0-rc.1.pom
+io/quarkus/quarkus-parent/3.17.7/quarkus-parent-3.17.7.pom
+io/quarkus/quarkus-parent/3.18.0.CR1/quarkus-parent-3.18.0.CR1.pom
+org/eclipse/jkube/jkube/1.18.0/jkube-1.18.0.pom
+   from mvn: 4624 - non-mvn: 4783 - buildinfo: 146 - module: 4278 - gradle timestamp: 1665 - atlasdb: 0 = 0 release
