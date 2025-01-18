@@ -1,0 +1,9 @@
+org/apache/camel/kamelets/camel-kamelets-parent/4.8.3/camel-kamelets-parent-4.8.3-cyclonedx.json
+org/apache/camel/kamelets/camel-kamelets-parent/4.8.3/camel-kamelets-parent-4.8.3-cyclonedx.xml
+org/apache/camel/quarkus/camel-quarkus/3.15.2/camel-quarkus-3.15.2-cyclonedx.xml
+org/apache/camel/quarkus/camel-quarkus/3.15.2/camel-quarkus-3.15.2-cyclonedx.json
+org/eclipse/scout/maven-master/25.1.1/maven-master-25.1.1-cyclonedx.json
+org/eclipse/scout/maven_plugin_config-master/25.1.1/maven_plugin_config-master-25.1.1-cyclonedx.json
+org/eclipse/scout/maven_rt_plugin_config-master/25.1.1/maven_rt_plugin_config-master-25.1.1-cyclonedx.json
+org/eclipse/scout/maven_sdk_p2_plugin_config-master/25.1.1/maven_sdk_p2_plugin_config-master-25.1.1-cyclonedx.json
+org/eclipse/scout/maven_sdk_plugin_config-master/25.1.1/maven_sdk_plugin_config-master-25.1.1-cyclonedx.json

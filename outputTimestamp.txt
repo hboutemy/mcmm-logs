@@ -13657,3 +13657,14 @@ io/quarkus/quarkus-parent/3.17.7/quarkus-parent-3.17.7.pom
 io/quarkus/quarkus-parent/3.18.0.CR1/quarkus-parent-3.18.0.CR1.pom
 org/eclipse/jkube/jkube/1.18.0/jkube-1.18.0.pom
    from mvn: 4624 - non-mvn: 4783 - buildinfo: 146 - module: 4278 - gradle timestamp: 1665 - atlasdb: 0 = 0 release
+20250116
+io/avaje/avaje-http-parent/2.9-RC8/avaje-http-parent-2.9-RC8.pom
+io/dropwizard/modules/module-parent/2.1.4/module-parent-2.1.4.pom
+io/dropwizard/modules/module-parent/3.0.4/module-parent-3.0.4.pom
+io/dropwizard/modules/module-parent/4.0.4/module-parent-4.0.4.pom
+io/dropwizard/modules/module-parent/5.0.0-rc.1/module-parent-5.0.0-rc.1.pom
+net/jsign/jsign-parent/7.0/jsign-parent-7.0.pom
+net/jsign/jsign/7.0/jsign-7.0.pom
+org/apache/jackrabbit/oak-parent/1.74.0/oak-parent-1.74.0.pom
+org/apache/ratis/ratis/3.1.3/ratis-3.1.3.pom
+   from mvn: 3994 - non-mvn: 4028 - buildinfo: 0 - module: 3330 - gradle timestamp: 1486 - atlasdb: 0 = 0 release
