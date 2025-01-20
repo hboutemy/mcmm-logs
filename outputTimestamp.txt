@@ -13681,3 +13681,5 @@ net/bytebuddy/byte-buddy-parent/1.16.0/byte-buddy-parent-1.16.0.pom
 org/apache/sling/org.apache.sling.starter/13/org.apache.sling.starter-13.pom
 org/finos/legend/engine/legend-engine/4.68.0/legend-engine-4.68.0.pom
    from mvn: 4551 - non-mvn: 3798 - buildinfo: 6 - module: 3423 - gradle timestamp: 1935 - atlasdb: 0 = 0 release
+20250118
+   from mvn: 951 - non-mvn: 2743 - buildinfo: 0 - module: 2654 - gradle timestamp: 451 - atlasdb: 0 = 0 release
