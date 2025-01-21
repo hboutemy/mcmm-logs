@@ -13692,3 +13692,18 @@ org/jpmml/jpmml-model/1.7.0/jpmml-model-1.7.0.pom
 org/owasp/dependency-check-parent/12.0.1/dependency-check-parent-12.0.1.pom
 org/owasp/dependency-check-plugin/12.0.1/dependency-check-plugin-12.0.1.pom
    from mvn: 659 - non-mvn: 1218 - buildinfo: 2 - module: 1395 - gradle timestamp: 498 - atlasdb: 0 = 0 release
+20250120
+io/airlift/airbase-policy/212/airbase-policy-212.pom
+io/airlift/airbase/212/airbase-212.pom
+io/wcm/io.wcm.handler.media/2.4.0/io.wcm.handler.media-2.4.0.pom
+org/apache/directory/project/project/50/project-50.pom
+org/apache/pulsar/buildtools/3.0.9/buildtools-3.0.9.pom
+org/apache/pulsar/buildtools/3.3.4/buildtools-3.3.4.pom
+org/apache/pulsar/buildtools/4.0.2/buildtools-4.0.2.pom
+org/apache/pulsar/pulsar-bom/3.3.4/pulsar-bom-3.3.4.pom
+org/apache/pulsar/pulsar-bom/4.0.2/pulsar-bom-4.0.2.pom
+org/apache/pulsar/pulsar/3.0.9/pulsar-3.0.9.pom
+org/apache/pulsar/pulsar/3.3.4/pulsar-3.3.4.pom
+org/apache/pulsar/pulsar/4.0.2/pulsar-4.0.2.pom
+org/webjars/flexmonster/2.9.95/flexmonster-2.9.95.pom
+   from mvn: 3981 - non-mvn: 4973 - buildinfo: 6 - module: 1952 - gradle timestamp: 943 - atlasdb: 0 = 0 release
