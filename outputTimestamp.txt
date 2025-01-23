@@ -13707,3 +13707,10 @@ org/apache/pulsar/pulsar/3.3.4/pulsar-3.3.4.pom
 org/apache/pulsar/pulsar/4.0.2/pulsar-4.0.2.pom
 org/webjars/flexmonster/2.9.95/flexmonster-2.9.95.pom
    from mvn: 3981 - non-mvn: 4973 - buildinfo: 6 - module: 1952 - gradle timestamp: 943 - atlasdb: 0 = 0 release
+20250121
+eu/maveniverse/maven/mimir/mimir/0.3.0/mimir-0.3.0.pom
+io/liftwizard/liftwizard-minimal-parent/2.1.24/liftwizard-minimal-parent-2.1.24.pom
+io/telicent/smart-caches/graph/docker/0.82.15/docker-0.82.15.pom
+io/telicent/smart-caches/graph/scg-base/0.82.15/scg-base-0.82.15.pom
+org/apache/jena/jena/5.3.0/jena-5.3.0.pom
+   from mvn: 3318 - non-mvn: 4492 - buildinfo: 0 - module: 2847 - gradle timestamp: 1556 - atlasdb: 0 = 0 release
