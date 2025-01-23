@@ -2766,6 +2766,7 @@ org.apache.jena:jena-fuseki-webapp
 org.apache.jena:jena-geosparql
 org.apache.jena:jena-integration-tests
 org.apache.jena:jena-iri
+org.apache.jena:jena-iri3986
 org.apache.jena:jena-ontapi
 org.apache.jena:jena-permissions
 org.apache.jena:jena-querybuilder
@@ -4925,6 +4926,8 @@ org.locationtech.geomesa:geomesa-arrow-tools_2.12
 org.locationtech.geomesa:geomesa-arrow-tools_2.13
 org.locationtech.geomesa:geomesa-arrow_2.12
 org.locationtech.geomesa:geomesa-arrow_2.13
+org.locationtech.geomesa:geomesa-bom_2.12
+org.locationtech.geomesa:geomesa-bom_2.13
 org.locationtech.geomesa:geomesa-cassandra-datastore_2.12
 org.locationtech.geomesa:geomesa-cassandra-datastore_2.13
 org.locationtech.geomesa:geomesa-cassandra-dist_2.12
