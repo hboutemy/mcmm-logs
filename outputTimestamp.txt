@@ -13714,3 +13714,19 @@ io/telicent/smart-caches/graph/docker/0.82.15/docker-0.82.15.pom
 io/telicent/smart-caches/graph/scg-base/0.82.15/scg-base-0.82.15.pom
 org/apache/jena/jena/5.3.0/jena-5.3.0.pom
    from mvn: 3318 - non-mvn: 4492 - buildinfo: 0 - module: 2847 - gradle timestamp: 1556 - atlasdb: 0 = 0 release
+20250122
+io/cucumber/gherkin-utils/9.0.1/gherkin-utils-9.0.1.pom
+io/cucumber/gherkin-utils/9.1.0/gherkin-utils-9.1.0.pom
+io/cucumber/html-formatter/21.8.0/html-formatter-21.8.0.pom
+io/quarkus/quarkus-parent/3.17.8/quarkus-parent-3.17.8.pom
+io/quarkus/quarkus-parent/3.18.0/quarkus-parent-3.18.0.pom
+io/telicent/smart-caches/graph/docker/0.82.16/docker-0.82.16.pom
+io/telicent/smart-caches/graph/docker/0.82.17/docker-0.82.17.pom
+io/telicent/smart-caches/graph/scg-base/0.82.16/scg-base-0.82.16.pom
+io/telicent/smart-caches/graph/scg-base/0.82.17/scg-base-0.82.17.pom
+org/apache/activemq/artemis-console-project/1.1.0/artemis-console-project-1.1.0.pom
+org/apache/camel/camel/4.4.5/camel-4.4.5.pom
+org/jpmml/jpmml-model/1.7.1/jpmml-model-1.7.1.pom
+org/sentrysoftware/maven/metricshub-connector-maven-plugin/1.0.08/metricshub-connector-maven-plugin-1.0.08.pom
+org/sentrysoftware/metricshub-community-connectors/1.0.08/metricshub-community-connectors-1.0.08.pom
+   from mvn: 4648 - non-mvn: 4053 - buildinfo: 2 - module: 3059 - gradle timestamp: 1549 - atlasdb: 0 = 0 release
