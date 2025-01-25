@@ -13730,3 +13730,13 @@ org/jpmml/jpmml-model/1.7.1/jpmml-model-1.7.1.pom
 org/sentrysoftware/maven/metricshub-connector-maven-plugin/1.0.08/metricshub-connector-maven-plugin-1.0.08.pom
 org/sentrysoftware/metricshub-community-connectors/1.0.08/metricshub-community-connectors-1.0.08.pom
    from mvn: 4648 - non-mvn: 4053 - buildinfo: 2 - module: 3059 - gradle timestamp: 1549 - atlasdb: 0 = 0 release
+20250123
+com/cognite/units/units-catalog/0.1.19/units-catalog-0.1.19.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.0/spoon-pom-11.2.0.pom
+net/sourceforge/pmd/pmd-build-tools-config/29/pmd-build-tools-config-29.pom
+net/sourceforge/pmd/pmd-designer/7.10.0/pmd-designer-7.10.0.pom
+org/infinispan/protostream/parent/15.0.13.Final/parent-15.0.13.Final.pom
+org/infinispan/protostream/parent/5.0.13.Final/parent-5.0.13.Final.pom
+org/sentrysoftware/metricshub-parent/1.0.00/metricshub-parent-1.0.00.pom
+org/webjars/redoc/2.3.0/redoc-2.3.0.pom
+   from mvn: 3545 - non-mvn: 4019 - buildinfo: 2 - module: 3197 - gradle timestamp: 1526 - atlasdb: 0 = 0 release
