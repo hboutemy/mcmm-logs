@@ -13746,3 +13746,15 @@ org/apache/karaf/karaf/4.4.7/karaf-4.4.7.pom
 org/apache/wicket/wicket-parent/10.4.0/wicket-parent-10.4.0.pom
 org/jpmml/jpmml-evaluator/1.7.0/jpmml-evaluator-1.7.0.pom
    from mvn: 3107 - non-mvn: 4970 - buildinfo: 0 - module: 3352 - gradle timestamp: 1406 - atlasdb: 0 = 0 release
+20250125
+eu/maveniverse/maven/parent/parent/24/parent-24.pom
+   from mvn: 586 - non-mvn: 1096 - buildinfo: 0 - module: 868 - gradle timestamp: 373 - atlasdb: 0 = 0 release
+20250126
+com/github/hazendaz/git/github-desktop/3.4.15/github-desktop-3.4.15.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-1/spoon-pom-11.2.1-beta-1.pom
+io/avaje/avaje-jex-parent/3.0-RC15/avaje-jex-parent-3.0-RC15.pom
+io/avaje/avaje-prisms-parent/1.38/avaje-prisms-parent-1.38.pom
+io/avaje/avaje-validator-parent/2.5/avaje-validator-parent-2.5.pom
+org/apache/sling/org.apache.sling.xss/2.4.6/org.apache.sling.xss-2.4.6.pom
+org/green-code-initiative/creedengo-rules-specifications/2.2.0/creedengo-rules-specifications-2.2.0.pom
+   from mvn: 611 - non-mvn: 1130 - buildinfo: 0 - module: 810 - gradle timestamp: 316 - atlasdb: 0 = 0 release
