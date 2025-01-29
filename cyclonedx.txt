@@ -2228,9 +2228,11 @@ org.apache.flink:flink-walkthrough-common
 org.apache.flink:flink-walkthrough-datastream-java
 org.apache.flink:flink-walkthroughs
 org.apache.flink:flink-yarn
+org.apache.fulcrum:fulcrum-cache
 org.apache.fulcrum:fulcrum-intake
 org.apache.fulcrum:fulcrum-localization
 org.apache.fulcrum:fulcrum-parser
+org.apache.fulcrum:fulcrum-quartz
 org.apache.fulcrum:fulcrum-security
 org.apache.fulcrum:fulcrum-security-api
 org.apache.fulcrum:fulcrum-security-dist
@@ -5817,6 +5819,7 @@ org.opendaylight.mdsal:odl-mdsal-rfc8294-netty
 org.opendaylight.mdsal:odl-mdsal-singleton-common
 org.opendaylight.mdsal:odl-mdsal-singleton-dom
 org.opendaylight.mdsal:odl-mdsal-trace
+org.opendaylight.mdsal:template-feature-parent
 org.opendaylight.mdsal:unified-html-generator
 org.opendaylight.mdsal:yang-binding
 org.opendaylight.netconf.model:draft-ietf-crypto-types

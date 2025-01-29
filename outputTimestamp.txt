@@ -13758,3 +13758,17 @@ io/avaje/avaje-validator-parent/2.5/avaje-validator-parent-2.5.pom
 org/apache/sling/org.apache.sling.xss/2.4.6/org.apache.sling.xss-2.4.6.pom
 org/green-code-initiative/creedengo-rules-specifications/2.2.0/creedengo-rules-specifications-2.2.0.pom
    from mvn: 611 - non-mvn: 1130 - buildinfo: 0 - module: 810 - gradle timestamp: 316 - atlasdb: 0 = 0 release
+20250127
+commons-codec/commons-codec/1.18.0/commons-codec-1.18.0.pom
+eu/maveniverse/maven/mimir/mimir/0.3.1/mimir-0.3.1.pom
+eu/maveniverse/maven/mimir/mimir/0.3.2/mimir-0.3.2.pom
+eu/maveniverse/maven/mimir/mimir/0.3.3/mimir-0.3.3.pom
+io/airlift/airbase-policy/213/airbase-policy-213.pom
+io/airlift/airbase/213/airbase-213.pom
+io/avaje/avaje-http-parent/3.0-RC1/avaje-http-parent-3.0-RC1.pom
+io/avaje/avaje-jex-parent/3.0-RC16/avaje-jex-parent-3.0-RC16.pom
+org/apache/commons/commons-pool2/2.12.1/commons-pool2-2.12.1.pom
+org/apache/nifi/nifi/2.2.0/nifi-2.2.0.pom
+org/green-code-initiative/creedengo-rules-specifications/2.2.1/creedengo-rules-specifications-2.2.1.pom
+org/openapitools/openapidiff/openapi-diff-parent/2.1.0-beta.12/openapi-diff-parent-2.1.0-beta.12.pom
+   from mvn: 3832 - non-mvn: 3746 - buildinfo: 0 - module: 3333 - gradle timestamp: 1724 - atlasdb: 0 = 0 release

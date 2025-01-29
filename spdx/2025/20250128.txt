@@ -1,0 +1,2 @@
+org/opendaylight/mdsal/mdsal-sbom-13.0.8.spdx
+org/opendaylight/mdsal/mdsal-sbom-14.0.8.spdx
