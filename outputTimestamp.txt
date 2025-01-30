@@ -13772,3 +13772,18 @@ org/apache/nifi/nifi/2.2.0/nifi-2.2.0.pom
 org/green-code-initiative/creedengo-rules-specifications/2.2.1/creedengo-rules-specifications-2.2.1.pom
 org/openapitools/openapidiff/openapi-diff-parent/2.1.0-beta.12/openapi-diff-parent-2.1.0-beta.12.pom
    from mvn: 3832 - non-mvn: 3746 - buildinfo: 0 - module: 3333 - gradle timestamp: 1724 - atlasdb: 0 = 0 release
+20250128
+com/github/nbbrd/picocsv/picocsv/2.5.0/picocsv-2.5.0.pom
+eu/europa/ted/eforms/eforms-sdk/1.10.5/eforms-sdk-1.10.5.pom
+eu/europa/ted/eforms/eforms-sdk/1.11.2/eforms-sdk-1.11.2.pom
+eu/europa/ted/eforms/eforms-sdk/1.12.1/eforms-sdk-1.12.1.pom
+eu/europa/ted/eforms/eforms-sdk/1.8.5/eforms-sdk-1.8.5.pom
+eu/europa/ted/eforms/eforms-sdk/1.9.5/eforms-sdk-1.9.5.pom
+eu/maveniverse/maven/mimir/mimir/0.3.4/mimir-0.3.4.pom
+io/airlift/airbase-policy/214/airbase-policy-214.pom
+io/airlift/airbase/214/airbase-214.pom
+io/cucumber/messages/27.1.0/messages-27.1.0.pom
+io/fabric8/kubernetes-client-project/6.13.5/kubernetes-client-project-6.13.5.pom
+io/streamnative/pulsar/4.0.1.2/pulsar-4.0.1.2.pom
+io/trino/trino-root/469/trino-root-469.pom
+   from mvn: 2656 - non-mvn: 3763 - buildinfo: 0 - module: 3303 - gradle timestamp: 1510 - atlasdb: 0 = 0 release

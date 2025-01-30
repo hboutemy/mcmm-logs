@@ -3293,6 +3293,7 @@ io.github.dgautier -> swagger:swagger-maven-plugin = "Swagger Maven Plugin"
 io.github.dibog -> pom-to-dot:pom-to-dot-maven-plugin = 
 io.github.dimitrovvlado -> proto-lint:proto-lint-maven-plugin = "proto-lint-maven-plugin"
 io.github.divinespear -> jpa-schema:jpa-schema-maven-plugin = "jpa-schema-maven-plugin"
+io.github.dmlloyd.maven -> module-services:module-services-plugin = "Module services plugin"
 io.github.dmlloyd.module-info -> module-info:module-info = "Module Info Generator"
 io.github.dovaleac -> stateless4j-yaml-importer:stateless4j-yaml-importer = "Stateless4j YAML importer"
 io.github.drrename.codesignjava -> codesignjava:codesignjava-maven-plugin = "Java package and code-sign plugin"
