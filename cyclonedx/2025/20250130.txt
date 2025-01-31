@@ -1,0 +1,4 @@
+org/apache/commons/commons-parent/81/commons-parent-81-cyclonedx.xml
+org/apache/commons/commons-parent/81/commons-parent-81-cyclonedx.json
+org/glassfish/jakarta.enterprise.concurrent/3.0.1/jakarta.enterprise.concurrent-3.0.1-cyclonedx.xml
+org/glassfish/jakarta.enterprise.concurrent/3.0.1/jakarta.enterprise.concurrent-3.0.1-cyclonedx.json

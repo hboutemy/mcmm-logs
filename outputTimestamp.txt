@@ -13787,3 +13787,17 @@ io/fabric8/kubernetes-client-project/6.13.5/kubernetes-client-project-6.13.5.pom
 io/streamnative/pulsar/4.0.1.2/pulsar-4.0.1.2.pom
 io/trino/trino-root/469/trino-root-469.pom
    from mvn: 2656 - non-mvn: 3763 - buildinfo: 0 - module: 3303 - gradle timestamp: 1510 - atlasdb: 0 = 0 release
+20250129
+com/google/code/gson/gson-parent/2.12.0/gson-parent-2.12.0.pom
+com/google/code/gson/gson/2.12.0/gson-2.12.0.pom
+io/avaje/avaje-validator-parent/2.6/avaje-validator-parent-2.6.pom
+io/cucumber/gherkin/31.0.0/gherkin-31.0.0.pom
+io/cucumber/tag-expressions/6.1.2/tag-expressions-6.1.2.pom
+io/micronaut/maven/micronaut-maven-plugin-parent/4.7.2/micronaut-maven-plugin-parent-4.7.2.pom
+io/quarkus/quarkus-parent/3.18.1/quarkus-parent-3.18.1.pom
+io/telicent/smart-caches/graph/docker/0.82.18/docker-0.82.18.pom
+io/telicent/smart-caches/graph/scg-base/0.82.18/scg-base-0.82.18.pom
+net/bytebuddy/byte-buddy-parent/1.17.0/byte-buddy-parent-1.17.0.pom
+org/apache/commons/commons-parent/80/commons-parent-80.pom
+org/finos/legend/engine/legend-engine/4.69.0/legend-engine-4.69.0.pom
+   from mvn: 6023 - non-mvn: 3567 - buildinfo: 1 - module: 3158 - gradle timestamp: 2065 - atlasdb: 0 = 0 release
