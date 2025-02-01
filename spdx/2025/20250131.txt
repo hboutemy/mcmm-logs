@@ -1,0 +1,2 @@
+org/opendaylight/aaa/aaa-sbom-0.20.5.spdx
+org/spdx/spdx-java-core/1.0.0-RC2/spdx-java-core-1.0.0-RC2.spdx.json
