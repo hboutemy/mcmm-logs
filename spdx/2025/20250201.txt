@@ -1,0 +1,9 @@
+org/spdx/java-spdx-library/2.0.0-RC2/java-spdx-library-2.0.0-RC2.spdx.json
+org/spdx/spdx-jackson-store/2.0.0-RC2/spdx-jackson-store-2.0.0-RC2.spdx.json
+org/spdx/spdx-java-model-2_X/1.0.0-RC2/spdx-java-model-2_X-1.0.0-RC2.spdx.json
+org/spdx/spdx-java-model-3_0/1.0.0-RC2/spdx-java-model-3_0-1.0.0-RC2.spdx.json
+org/spdx/spdx-rdf-store/2.0.0-RC2/spdx-rdf-store-2.0.0-RC2.spdx.json
+org/spdx/spdx-spreadsheet-store/2.0.0-RC2/spdx-spreadsheet-store-2.0.0-RC2.spdx.json
+org/spdx/spdx-tagvalue-store/2.0.0-RC2/spdx-tagvalue-store-2.0.0-RC2.spdx.json
+org/spdx/spdx-v3jsonld-store/1.0.0-RC3/spdx-v3jsonld-store-1.0.0-RC3.spdx.json
+org/spdx/tools-java/2.0.0-RC2/tools-java-2.0.0-RC2.spdx.json

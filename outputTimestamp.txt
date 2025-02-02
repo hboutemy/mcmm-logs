@@ -13818,3 +13818,11 @@ org/jline/jline-parent/3.29.0/jline-parent-3.29.0.pom
 org/owasp/dependency-check-parent/12.0.2/dependency-check-parent-12.0.2.pom
 org/owasp/dependency-check-plugin/12.0.2/dependency-check-plugin-12.0.2.pom
    from mvn: 3953 - non-mvn: 3919 - buildinfo: 2 - module: 3346 - gradle timestamp: 1449 - atlasdb: 0 = 0 release
+20250131
+io/cucumber/messages/27.2.0/messages-27.2.0.pom
+net/sourceforge/pmd/pmd/7.10.0/pmd-7.10.0.pom
+org/apache/sling/org.apache.sling.scripting.sightly.testing/1.0.38-1.4.0/org.apache.sling.scripting.sightly.testing-1.0.38-1.4.0.pom
+org/apache/tika/tika-parent/3.1.0/tika-parent-3.1.0.pom
+org/spdx/spdx-java-core/1.0.0-RC2/spdx-java-core-1.0.0-RC2.pom
+org/webjars/font-awesome/6.7.2/font-awesome-6.7.2.pom
+   from mvn: 3991 - non-mvn: 3597 - buildinfo: 0 - module: 2953 - gradle timestamp: 1276 - atlasdb: 0 = 0 release
