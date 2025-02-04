@@ -1,0 +1,8 @@
+com/github/hazendaz/git/github-desktop/3.4.16/github-desktop-3.4.16-cyclonedx.json
+com/github/hazendaz/git/github-desktop/3.4.16/github-desktop-3.4.16-cyclonedx.xml
+org/apache/maven/plugin-testing/maven-plugin-testing-harness/4.0.0-beta-3/maven-plugin-testing-harness-4.0.0-beta-3-cyclonedx.xml
+org/apache/maven/plugin-testing/maven-plugin-testing-harness/4.0.0-beta-3/maven-plugin-testing-harness-4.0.0-beta-3-cyclonedx.json
+org/apache/maven/plugin-testing/maven-plugin-testing/4.0.0-beta-3/maven-plugin-testing-4.0.0-beta-3-cyclonedx.json
+org/apache/maven/plugin-testing/maven-plugin-testing/4.0.0-beta-3/maven-plugin-testing-4.0.0-beta-3-cyclonedx.xml
+org/sonarsource/scanner/cli/sonar-scanner-cli/7.0.1.4817/sonar-scanner-cli-7.0.1.4817-cyclonedx.json
+org/sonarsource/sonarqube/sonar-application/25.2.0.102705/sonar-application-25.2.0.102705-cyclonedx.json
