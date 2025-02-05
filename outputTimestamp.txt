@@ -13853,3 +13853,18 @@ org/jpmml/jpmml-codemodel/1.2.0/jpmml-codemodel-1.2.0.pom
 org/jpmml/jpmml-converter/1.6.0/jpmml-converter-1.6.0.pom
 tech/picnic/error-prone-support/error-prone-support/0.20.0/error-prone-support-0.20.0.pom
    from mvn: 1045 - non-mvn: 804 - buildinfo: 0 - module: 634 - gradle timestamp: 228 - atlasdb: 0 = 0 release
+20250203
+com/cognite/units/units-catalog/0.1.20/units-catalog-0.1.20.pom
+com/github/hazendaz/git/github-desktop/3.4.16/github-desktop-3.4.16.pom
+com/github/nbbrd/picocsv/picocsv/2.5.1/picocsv-2.5.1.pom
+io/smallrye/jandex-parent/3.2.4/jandex-parent-3.2.4.pom
+io/yupiik/fusion/fusion/1.0.23/fusion-1.0.23.pom
+org/apache/helix/helix/1.4.3/helix-1.4.3.pom
+org/apache/maven/plugin-testing/maven-plugin-testing/4.0.0-beta-3/maven-plugin-testing-4.0.0-beta-3-build.pom
+org/apache/maven/plugin-testing/maven-plugin-testing/4.0.0-beta-3/maven-plugin-testing-4.0.0-beta-3.pom
+org/apache/ws/commons/axiom/axiom/2.0.0/axiom-2.0.0.pom
+org/jpmml/jpmml-python/1.3.0/jpmml-python-1.3.0.pom
+org/jpmml/jpmml-transpiler/1.4.0/jpmml-transpiler-1.4.0.pom
+org/sentrysoftware/metricshub-parent/1.0.01/metricshub-parent-1.0.01.pom
+org/webjars/flexmonster/2.9.96/flexmonster-2.9.96.pom
+   from mvn: 2032 - non-mvn: 3731 - buildinfo: 2 - module: 2613 - gradle timestamp: 1201 - atlasdb: 0 = 0 release
