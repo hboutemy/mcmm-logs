@@ -13876,3 +13876,14 @@ io/avaje/avaje-jex-parent/3.0-RC17/avaje-jex-parent-3.0-RC17.pom
 org/finos/legend/engine/legend-engine/4.69.2/legend-engine-4.69.2.pom
 org/jpmml/jpmml-lightgbm/1.6.0/jpmml-lightgbm-1.6.0.pom
    from mvn: 4697 - non-mvn: 3930 - buildinfo: 0 - module: 3330 - gradle timestamp: 1905 - atlasdb: 0 = 0 release
+20250205
+de/unentscheidbar/migratedb/1.4.1/migratedb-1.4.1.pom
+dev/langchain4j/langchain4j-parent/1.0.0-beta1/langchain4j-parent-1.0.0-beta1.pom
+io/quarkus/quarkus-parent/3.18.2/quarkus-parent-3.18.2.pom
+org/apache/maven/resolver/maven-resolver-ant-tasks/1.5.2/maven-resolver-ant-tasks-1.5.2-build.pom
+org/jpmml/jpmml-h2o/1.3.0/jpmml-h2o-1.3.0.pom
+org/jpmml/jpmml-statsmodels/1.3.0/jpmml-statsmodels-1.3.0.pom
+org/jpmml/jpmml-xgboost/1.9.0/jpmml-xgboost-1.9.0.pom
+org/sonatype/nexus/archetypes/nexus-format-archetype/1.0.66/nexus-format-archetype-1.0.66.pom
+org/sonatype/nexus/archetypes/nexus-format-archetype/1.0.67/nexus-format-archetype-1.0.67.pom
+   from mvn: 4329 - non-mvn: 4205 - buildinfo: 0 - module: 3086 - gradle timestamp: 1265 - atlasdb: 0 = 0 release
