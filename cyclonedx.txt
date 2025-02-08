@@ -3970,6 +3970,7 @@ org.glassfish.grizzly:grizzly-websockets
 org.glassfish.grizzly:grizzly-websockets-server
 org.glassfish.grizzly:tls-sni
 org.glassfish.hk2.external:aopalliance-repackaged
+org.glassfish.hk2:bundle-viewer
 org.glassfish.hk2:caching-aop-example
 org.glassfish.hk2:caching-aop-example-runner
 org.glassfish.hk2:caching-aop-example-system
@@ -3993,6 +3994,9 @@ org.glassfish.hk2:hk2-configuration-hub
 org.glassfish.hk2:hk2-configuration-integration
 org.glassfish.hk2:hk2-configuration-persistence
 org.glassfish.hk2:hk2-core
+org.glassfish.hk2:hk2-dependency-verifier
+org.glassfish.hk2:hk2-dependency-visualizer
+org.glassfish.hk2:hk2-extra-parent
 org.glassfish.hk2:hk2-extras
 org.glassfish.hk2:hk2-inhabitant-generator
 org.glassfish.hk2:hk2-jmx
@@ -4030,6 +4034,7 @@ org.glassfish.hk2:osgi
 org.glassfish.hk2:osgi-adapter
 org.glassfish.hk2:osgi-adapter-test
 org.glassfish.hk2:osgi-adapter-tests-parent
+org.glassfish.hk2:osgi-resource-locator
 org.glassfish.hk2:osgiversion-maven-plugin
 org.glassfish.hk2:sdp-management-bundle
 org.glassfish.hk2:security-lockdown-example
