@@ -13892,3 +13892,12 @@ io/trino/trino-root/470/trino-root-470.pom
 org/jpmml/jpmml-r/1.7.0/jpmml-r-1.7.0.pom
 org/jpmml/jpmml-sklearn/1.9.0/jpmml-sklearn-1.9.0.pom
    from mvn: 2738 - non-mvn: 3932 - buildinfo: 0 - module: 3107 - gradle timestamp: 1381 - atlasdb: 0 = 0 release
+20250207
+de/gematik/pki/gemLibPki/3.1.1/gemLibPki-3.1.1.pom
+io/cucumber/cucumber-jvm/7.21.1/cucumber-jvm-7.21.1.pom
+io/smallrye/jandex-parent/3.2.5/jandex-parent-3.2.5.pom
+org/apache/opendal/opendal/0.47.8/opendal-0.47.8.pom
+org/apache/tika/tika-parent/2.9.3/tika-parent-2.9.3.pom
+org/codehaus/plexus/plexus/20/plexus-20.pom
+org/finos/legend/engine/legend-engine/4.69.3/legend-engine-4.69.3.pom
+   from mvn: 3218 - non-mvn: 7650 - buildinfo: 0 - module: 3279 - gradle timestamp: 1363 - atlasdb: 0 = 0 release

@@ -772,6 +772,7 @@ com.yahoo.athenz:athenz-server-aws-common
 com.yahoo.athenz:athenz-server-common
 com.yahoo.athenz:athenz-server-k8s-common
 com.yahoo.athenz:athenz-server-msg-pulsar
+com.yahoo.athenz:athenz-server-notification-slack
 com.yahoo.athenz:athenz-syncer-common
 com.yahoo.athenz:athenz-zms-core
 com.yahoo.athenz:athenz-zms-java-client
@@ -5482,6 +5483,7 @@ org.opendaylight.infrautils:metrics-sample
 org.opendaylight.infrautils:odl-infrautils-caches
 org.opendaylight.infrautils:odl-infrautils-caches-sample
 org.opendaylight.infrautils:odl-infrautils-diagstatus
+org.opendaylight.infrautils:odl-infrautils-diagstatus-web
 org.opendaylight.infrautils:odl-infrautils-inject
 org.opendaylight.infrautils:odl-infrautils-metrics
 org.opendaylight.infrautils:odl-infrautils-metrics-prometheus
