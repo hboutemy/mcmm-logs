@@ -1,0 +1,2 @@
+com/github/hazendaz/base-parent/51/base-parent-51-cyclonedx.xml
+com/github/hazendaz/base-parent/51/base-parent-51-cyclonedx.json

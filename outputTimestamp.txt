@@ -13901,3 +13901,9 @@ org/apache/tika/tika-parent/2.9.3/tika-parent-2.9.3.pom
 org/codehaus/plexus/plexus/20/plexus-20.pom
 org/finos/legend/engine/legend-engine/4.69.3/legend-engine-4.69.3.pom
    from mvn: 3218 - non-mvn: 7650 - buildinfo: 0 - module: 3279 - gradle timestamp: 1363 - atlasdb: 0 = 0 release
+20250208
+commons-logging/commons-logging/1.3.5/commons-logging-1.3.5.pom
+org/apache/maven/resolver/maven-resolver/2.0.6/maven-resolver-2.0.6.pom
+org/codehaus/mojo/mojo-parent/87/mojo-parent-87.pom
+org/codehaus/plexus/plexus-languages/1.4.0/plexus-languages-1.4.0.pom
+   from mvn: 865 - non-mvn: 3190 - buildinfo: 0 - module: 1292 - gradle timestamp: 276 - atlasdb: 0 = 0 release
