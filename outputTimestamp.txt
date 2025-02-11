@@ -13907,3 +13907,9 @@ org/apache/maven/resolver/maven-resolver/2.0.6/maven-resolver-2.0.6.pom
 org/codehaus/mojo/mojo-parent/87/mojo-parent-87.pom
 org/codehaus/plexus/plexus-languages/1.4.0/plexus-languages-1.4.0.pom
    from mvn: 865 - non-mvn: 3190 - buildinfo: 0 - module: 1292 - gradle timestamp: 276 - atlasdb: 0 = 0 release
+20250209
+com/github/hazendaz/base-parent/51/base-parent-51.pom
+eu/maveniverse/maven/mima/mima/2.4.22/mima-2.4.22.pom
+eu/maveniverse/maven/toolbox/toolbox/0.6.2/toolbox-0.6.2.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-3/spoon-pom-11.2.1-beta-3.pom
+   from mvn: 649 - non-mvn: 4653 - buildinfo: 0 - module: 1883 - gradle timestamp: 675 - atlasdb: 0 = 0 release
