@@ -6350,6 +6350,7 @@ org.patrodyne.jvnet -> hisrc-hyperjaxb:hisrc-hyperjaxb-maven-plugin = "HiSrc Hyp
 org.patterntesting -> patterntesting-tools:patterntesting-tools = "patterntesting-tools"
 org.pdfsam.maven -> os:os-maven-plugin = "os-maven-plugin"
 org.perfcake -> perfcake:perfcake-maven-plugin = "ParfCake Maven Plugin"
+org.pih.maven.plugin -> pih:pih-maven-plugin = "PIH Maven Plugin"
 org.pitest -> classycle:classycle = "classycle"
 org.pitest -> classycle:classycle-maven-plugin = "classycle-maven-plugin"
 org.pitest -> highwheel-bytecode:highwheel-bytecode = "highwheel-bytecode"

@@ -1973,6 +1973,7 @@ org.apache.druid.extensions.contrib:druid-time-min-max
 org.apache.druid.extensions.contrib:druid-virtual-columns
 org.apache.druid.extensions.contrib:gce-extensions
 org.apache.druid.extensions.contrib:graphite-emitter
+org.apache.druid.extensions.contrib:grpc-query
 org.apache.druid.extensions.contrib:kafka-emitter
 org.apache.druid.extensions.contrib:materialized-view-maintenance
 org.apache.druid.extensions.contrib:materialized-view-selection

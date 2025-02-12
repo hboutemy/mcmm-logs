@@ -13913,3 +13913,26 @@ eu/maveniverse/maven/mima/mima/2.4.22/mima-2.4.22.pom
 eu/maveniverse/maven/toolbox/toolbox/0.6.2/toolbox-0.6.2.pom
 fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-3/spoon-pom-11.2.1-beta-3.pom
    from mvn: 649 - non-mvn: 4653 - buildinfo: 0 - module: 1883 - gradle timestamp: 675 - atlasdb: 0 = 0 release
+20250210
+io/airlift/airbase-policy/216/airbase-policy-216.pom
+io/airlift/airbase/216/airbase-216.pom
+io/avaje/avaje-http-parent/3.0-RC2/avaje-http-parent-3.0-RC2.pom
+io/avaje/avaje-http-parent/3.0/avaje-http-parent-3.0.pom
+io/avaje/avaje-jex-parent/3.0-RC18/avaje-jex-parent-3.0-RC18.pom
+io/avaje/avaje-json-core/3.0-java8/avaje-json-core-3.0-java8.pom
+io/avaje/avaje-jsonb-parent/3.0-RC7/avaje-jsonb-parent-3.0-RC7.pom
+io/avaje/avaje-jsonb-parent/3.0/avaje-jsonb-parent-3.0.pom
+io/avaje/avaje-logback-encoder/0.11-java8/avaje-logback-encoder-0.11-java8.pom
+io/avaje/avaje-logback-encoder/0.11/avaje-logback-encoder-0.11.pom
+io/avaje/avaje-validator-parent/2.7/avaje-validator-parent-2.7.pom
+io/telicent/jena/rdf-abac/0.73.2/rdf-abac-0.73.2.pom
+io/wcm/io.wcm.testing.aem-mock.parent/5.6.6/io.wcm.testing.aem-mock.parent-5.6.6.pom
+org/apache/logging/logging-parent/12.0.0/logging-parent-12.0.0.pom
+org/apache/paimon/paimon-parent/1.0.1/paimon-parent-1.0.1.pom
+org/jpmml/jpmml-sparkml/2.0.6/jpmml-sparkml-2.0.6.pom
+org/jpmml/jpmml-sparkml/2.1.6/jpmml-sparkml-2.1.6.pom
+org/jpmml/jpmml-sparkml/2.2.6/jpmml-sparkml-2.2.6.pom
+org/jpmml/jpmml-sparkml/2.3.5/jpmml-sparkml-2.3.5.pom
+org/jpmml/jpmml-sparkml/2.4.4/jpmml-sparkml-2.4.4.pom
+org/jpmml/jpmml-sparkml/2.5.3/jpmml-sparkml-2.5.3.pom
+   from mvn: 3296 - non-mvn: 2969 - buildinfo: 0 - module: 2494 - gradle timestamp: 1202 - atlasdb: 0 = 0 release
