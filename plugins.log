@@ -5597,6 +5597,7 @@ org.hedgecode.maven.plugins -> classpath:classpath-maven-plugin = "Hedgecode Cla
 org.hellojavaer.fatjar -> fatjar:fatjar-maven-plugin = "fatjar-maven-plugin"
 org.helmetsrequired -> jacocotogo:jacocotogo-maven-plugin = "jacocotogo-maven-plugin"
 org.hibernate -> hibernate-tools:hibernate-tools-maven-plugin = "Hibernate Tools Maven Plugin"
+org.hibernate.orm -> hibernate:hibernate-maven-plugin = "Hibernate ORM - hibernate-maven-plugin"
 org.hibernate.orm.tooling -> hibernate-enhance:hibernate-enhance-maven-plugin = "Hibernate Enhance Maven Plugin"
 org.hibernate.tool -> hibernate-tools:hibernate-tools-maven = "Hibernate Tools Maven Plugin"
 org.hiforce.lattice -> latticebuild:lattice-maven-build-plugin = 

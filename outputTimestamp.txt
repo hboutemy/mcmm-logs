@@ -13936,3 +13936,18 @@ org/jpmml/jpmml-sparkml/2.3.5/jpmml-sparkml-2.3.5.pom
 org/jpmml/jpmml-sparkml/2.4.4/jpmml-sparkml-2.4.4.pom
 org/jpmml/jpmml-sparkml/2.5.3/jpmml-sparkml-2.5.3.pom
    from mvn: 3296 - non-mvn: 2969 - buildinfo: 0 - module: 2494 - gradle timestamp: 1202 - atlasdb: 0 = 0 release
+20250211
+com/github/nbbrd/heylogs/heylogs-bom/0.9.3/heylogs-bom-0.9.3.pom
+com/github/nbbrd/heylogs/heylogs-parent/0.9.3/heylogs-parent-0.9.3.pom
+com/github/tomcat-slf4j-logback/tomcat-slf4j-logback-parent/1.7.1/tomcat-slf4j-logback-parent-1.7.1.pom
+io/smallrye/jandex-parent/3.2.6/jandex-parent-3.2.6.pom
+org/apache/camel/camel/4.10.0/camel-4.10.0.pom
+org/eclipse/jkube/jkube/1.18.1/jkube-1.18.1.pom
+org/infinispan/protostream/parent/6.0.0.Dev03/parent-6.0.0.Dev03.pom
+org/sentrysoftware/ipmi/1.2.00/ipmi-1.2.00.pom
+org/sonatype/nexus/archetypes/nexus-format-archetype/1.0.68/nexus-format-archetype-1.0.68.pom
+org/sonatype/nexus/archetypes/nexus-format-archetype/1.0.69/nexus-format-archetype-1.0.69.pom
+org/sonatype/nexus/archetypes/nexus-format-archetype/1.0.70/nexus-format-archetype-1.0.70.pom
+org/sonatype/nexus/archetypes/nexus-format-archetype/1.0.71/nexus-format-archetype-1.0.71.pom
+org/sonatype/nexus/archetypes/nexus-format-archetype/1.0.72/nexus-format-archetype-1.0.72.pom
+   from mvn: 4728 - non-mvn: 8256 - buildinfo: 1 - module: 5324 - gradle timestamp: 1985 - atlasdb: 0 = 0 release
