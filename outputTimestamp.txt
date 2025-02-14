@@ -13951,3 +13951,13 @@ org/sonatype/nexus/archetypes/nexus-format-archetype/1.0.70/nexus-format-archety
 org/sonatype/nexus/archetypes/nexus-format-archetype/1.0.71/nexus-format-archetype-1.0.71.pom
 org/sonatype/nexus/archetypes/nexus-format-archetype/1.0.72/nexus-format-archetype-1.0.72.pom
    from mvn: 4728 - non-mvn: 8256 - buildinfo: 1 - module: 5324 - gradle timestamp: 1985 - atlasdb: 0 = 0 release
+20250212
+io/quarkus/quarkus-parent/3.18.3/quarkus-parent-3.18.3.pom
+io/quarkus/quarkus-parent/3.19.0.CR1/quarkus-parent-3.19.0.CR1.pom
+io/telicent/jena/rdf-abac/0.73.3/rdf-abac-0.73.3.pom
+net/minidev/accessors-smart/2.5.2/accessors-smart-2.5.2.pom
+net/minidev/json-smart-action/2.5.2/json-smart-action-2.5.2.pom
+net/minidev/json-smart/2.5.2/json-smart-2.5.2.pom
+org/finos/legend/engine/legend-engine/4.69.4/legend-engine-4.69.4.pom
+org/jdbi/internal/jdbi3-root/3.48.0/jdbi3-root-3.48.0.pom
+   from mvn: 5620 - non-mvn: 3963 - buildinfo: 0 - module: 2150 - gradle timestamp: 1071 - atlasdb: 0 = 0 release
