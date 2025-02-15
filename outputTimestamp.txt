@@ -13961,3 +13961,25 @@ net/minidev/json-smart/2.5.2/json-smart-2.5.2.pom
 org/finos/legend/engine/legend-engine/4.69.4/legend-engine-4.69.4.pom
 org/jdbi/internal/jdbi3-root/3.48.0/jdbi3-root-3.48.0.pom
    from mvn: 5620 - non-mvn: 3963 - buildinfo: 0 - module: 2150 - gradle timestamp: 1071 - atlasdb: 0 = 0 release
+20250213
+com/fasterxml/oss-parent/63/oss-parent-63.pom
+commons-beanutils/commons-beanutils/1.10.1/commons-beanutils-1.10.1.pom
+eu/europa/ec/joinup/sat/demetra-parent/2.2.6/demetra-parent-2.2.6.pom
+eu/europa/ec/joinup/sat/jdplus-main-bom/3.4.0/jdplus-main-bom-3.4.0.pom
+eu/europa/ec/joinup/sat/jdplus-main/3.4.0/jdplus-main-3.4.0.pom
+eu/europa/ec/joinup/sat/jwsacruncher/2.2.6/jwsacruncher-2.2.6.pom
+eu/europa/ec/joinup/sat/nbdemetra-parent/2.2.6/nbdemetra-parent-2.2.6.pom
+eu/maveniverse/maven/toolbox/toolbox/0.6.3/toolbox-0.6.3.pom
+io/jooby/jooby-project/3.6.1/jooby-project-3.6.1.pom
+io/streamnative/buildtools/3.3.3.3/buildtools-3.3.3.3.pom
+io/streamnative/pulsar-bom/3.3.3.3/pulsar-bom-3.3.3.3.pom
+io/streamnative/pulsar/3.0.8.2-62444a/pulsar-3.0.8.2-62444a.pom
+io/streamnative/pulsar/3.3.3.3/pulsar-3.3.3.3.pom
+io/telicent/jena/rdf-abac/0.73.4/rdf-abac-0.73.4.pom
+net/revelc/code/formatter/formatter-maven-plugin/2.25.0/formatter-maven-plugin-2.25.0.pom
+org/apache/ignite/ignite-bom/2.17.0/ignite-bom-2.17.0.pom
+org/apache/ignite/ignite-parent/2.17.0/ignite-parent-2.17.0.pom
+org/apache/jackrabbit/oak-parent/1.76.0/oak-parent-1.76.0.pom
+org/finos/legend/engine/legend-engine/4.70.0/legend-engine-4.70.0.pom
+org/sentrysoftware/jawk/3.3.04/jawk-3.3.04.pom
+   from mvn: 3723 - non-mvn: 4423 - buildinfo: 1 - module: 4499 - gradle timestamp: 1919 - atlasdb: 0 = 0 release

@@ -1708,6 +1708,15 @@ org.apache.commons:commons-statistics-inference
 org.apache.commons:commons-statistics-parent
 org.apache.commons:commons-statistics-ranking
 org.apache.commons:commons-text
+org.apache.commons:commons-vfs2
+org.apache.commons:commons-vfs2-ant
+org.apache.commons:commons-vfs2-bom
+org.apache.commons:commons-vfs2-distribution
+org.apache.commons:commons-vfs2-examples
+org.apache.commons:commons-vfs2-hdfs
+org.apache.commons:commons-vfs2-jackrabbit1
+org.apache.commons:commons-vfs2-jackrabbit2
+org.apache.commons:commons-vfs2-project
 org.apache.cxf.archetype:cxf-jaxrs-service
 org.apache.cxf.archetype:cxf-jaxws-javafirst
 org.apache.cxf.archetype:cxf-jaxws-wsdlfirst

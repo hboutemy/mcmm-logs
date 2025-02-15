@@ -1,0 +1,10 @@
+org/apache/commons/commons-vfs2-ant/2.10.0/commons-vfs2-ant-2.10.0.spdx.json
+org/apache/commons/commons-vfs2-bom/2.10.0/commons-vfs2-bom-2.10.0.spdx.json
+org/apache/commons/commons-vfs2-distribution/2.10.0/commons-vfs2-distribution-2.10.0.spdx.json
+org/apache/commons/commons-vfs2-examples/2.10.0/commons-vfs2-examples-2.10.0.spdx.json
+org/apache/commons/commons-vfs2-hdfs/2.10.0/commons-vfs2-hdfs-2.10.0.spdx.json
+org/apache/commons/commons-vfs2-jackrabbit1/2.10.0/commons-vfs2-jackrabbit1-2.10.0.spdx.json
+org/apache/commons/commons-vfs2-jackrabbit2/2.10.0/commons-vfs2-jackrabbit2-2.10.0.spdx.json
+org/apache/commons/commons-vfs2-project/2.10.0/commons-vfs2-project-2.10.0.spdx.json
+org/apache/commons/commons-vfs2/2.10.0/commons-vfs2-2.10.0.spdx.json
+org/opendaylight/transportpce/models/models-sbom-21.2.0.spdx
