@@ -13983,3 +13983,23 @@ org/apache/jackrabbit/oak-parent/1.76.0/oak-parent-1.76.0.pom
 org/finos/legend/engine/legend-engine/4.70.0/legend-engine-4.70.0.pom
 org/sentrysoftware/jawk/3.3.04/jawk-3.3.04.pom
    from mvn: 3723 - non-mvn: 4423 - buildinfo: 1 - module: 4499 - gradle timestamp: 1919 - atlasdb: 0 = 0 release
+20250214
+io/telicent/jena/jena-kafka/1.5.3/jena-kafka-1.5.3.pom
+net/bytebuddy/byte-buddy-parent/1.17.1/byte-buddy-parent-1.17.1.pom
+net/jsign/jsign-parent/7.1/jsign-parent-7.1.pom
+net/jsign/jsign/7.1/jsign-7.1.pom
+org/apache/commons/commons-vfs2-ant/2.10.0/commons-vfs2-ant-2.10.0.pom
+org/apache/commons/commons-vfs2-bom/2.10.0/commons-vfs2-bom-2.10.0.pom
+org/apache/commons/commons-vfs2-distribution/2.10.0/commons-vfs2-distribution-2.10.0.pom
+org/apache/commons/commons-vfs2-examples/2.10.0/commons-vfs2-examples-2.10.0.pom
+org/apache/commons/commons-vfs2-hdfs/2.10.0/commons-vfs2-hdfs-2.10.0.pom
+org/apache/commons/commons-vfs2-jackrabbit1/2.10.0/commons-vfs2-jackrabbit1-2.10.0.pom
+org/apache/commons/commons-vfs2-jackrabbit2/2.10.0/commons-vfs2-jackrabbit2-2.10.0.pom
+org/apache/commons/commons-vfs2-project/2.10.0/commons-vfs2-project-2.10.0.pom
+org/apache/commons/commons-vfs2/2.10.0/commons-vfs2-2.10.0.pom
+org/apache/wss4j/wss4j/4.0.0/wss4j-4.0.0.pom
+org/jpmml/jpmml-sparkml/3.0.0/jpmml-sparkml-3.0.0.pom
+org/jpmml/jpmml-sparkml/3.1.0/jpmml-sparkml-3.1.0.pom
+org/sentrysoftware/snmp/2.0.00/snmp-2.0.00.pom
+org/sentrysoftware/winrm/1.1.00/winrm-1.1.00.pom
+   from mvn: 5284 - non-mvn: 5308 - buildinfo: 2 - module: 2785 - gradle timestamp: 1432 - atlasdb: 0 = 0 release
