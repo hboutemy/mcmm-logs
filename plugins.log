@@ -4078,6 +4078,7 @@ net.mfjassociates.maven -> enforce-rules:enforce-rules-maven-plugin = "enforce-r
 net.mfjassociates.maven -> scminfo:scminfo-maven-plugin = "scminfo-maven-plugin"
 net.mgorski.quicktag -> quicktag:quicktag = "Quicktag Maven Plugin"
 net.microfalx.maven -> :maven-plugin = "Maven :: Plugin"
+net.microfalx.talos -> talos:talos-maven-plugin = "Talos :: Maven :: Plugin"
 net.morimekta.providence -> providence:providence-maven-plugin = "Providence Tools : Source Generator Maven Plugin"
 net.nicoulaj.maven.plugins -> checksum:checksum-maven-plugin = "checksum-maven-plugin"
 net.nisgits.executablewar -> executable-war:maven-executable-war-plugin = "Maven plugin for creating executable WARs"

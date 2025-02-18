@@ -2529,6 +2529,7 @@ org.apache.hop:hop-databases-greenplum
 org.apache.hop:hop-databases-h2
 org.apache.hop:hop-databases-hive
 org.apache.hop:hop-databases-hypersonic
+org.apache.hop:hop-databases-impala
 org.apache.hop:hop-databases-infobright
 org.apache.hop:hop-databases-informix
 org.apache.hop:hop-databases-ingres
@@ -2576,9 +2577,11 @@ org.apache.hop:hop-plugins-actions
 org.apache.hop:hop-plugins-databases
 org.apache.hop:hop-plugins-engines
 org.apache.hop:hop-plugins-misc
+org.apache.hop:hop-plugins-resolvers
 org.apache.hop:hop-plugins-tech
 org.apache.hop:hop-plugins-transforms
 org.apache.hop:hop-plugins-valuetypes
+org.apache.hop:hop-resolvers-pipeline
 org.apache.hop:hop-rest
 org.apache.hop:hop-tech-avro
 org.apache.hop:hop-tech-aws
@@ -2588,6 +2591,7 @@ org.apache.hop:hop-tech-dropbox
 org.apache.hop:hop-tech-google
 org.apache.hop:hop-tech-neo4j
 org.apache.hop:hop-tech-parquet
+org.apache.hop:hop-tech-vault
 org.apache.hop:hop-transform-abort
 org.apache.hop:hop-transform-addsequence
 org.apache.hop:hop-transform-analyticquery

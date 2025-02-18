@@ -14009,3 +14009,13 @@ com/github/spotbugs/spotbugs-maven-plugin/4.9.1.0/spotbugs-maven-plugin-4.9.1.0.
 io/airlift/airbase-policy/217/airbase-policy-217.pom
 io/airlift/airbase/217/airbase-217.pom
    from mvn: 910 - non-mvn: 1963 - buildinfo: 0 - module: 1981 - gradle timestamp: 1047 - atlasdb: 0 = 0 release
+20250216
+ai/platon/platon/4.0.2/platon-4.0.2.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-4/spoon-pom-11.2.1-beta-4.pom
+io/airlift/airbase-policy/218/airbase-policy-218.pom
+io/airlift/airbase/218/airbase-218.pom
+org/jpmml/packager-maven-plugin/1.0.1/packager-maven-plugin-1.0.1.pom
+org/owasp/dependency-check-parent/12.1.0/dependency-check-parent-12.1.0.pom
+org/owasp/dependency-check-plugin/12.1.0/dependency-check-plugin-12.1.0.pom
+world/convex/convex/0.8.0/convex-0.8.0.pom
+   from mvn: 916 - non-mvn: 1906 - buildinfo: 1 - module: 1771 - gradle timestamp: 690 - atlasdb: 0 = 0 release
