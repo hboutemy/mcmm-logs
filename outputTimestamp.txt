@@ -14019,3 +14019,11 @@ org/owasp/dependency-check-parent/12.1.0/dependency-check-parent-12.1.0.pom
 org/owasp/dependency-check-plugin/12.1.0/dependency-check-plugin-12.1.0.pom
 world/convex/convex/0.8.0/convex-0.8.0.pom
    from mvn: 916 - non-mvn: 1906 - buildinfo: 1 - module: 1771 - gradle timestamp: 690 - atlasdb: 0 = 0 release
+20250217
+io/avaje/avaje-validator-parent/2.8-RC1/avaje-validator-parent-2.8-RC1.pom
+io/cucumber/gherkin/32.0.0/gherkin-32.0.0.pom
+io/smallrye/jandex-parent/3.2.7/jandex-parent-3.2.7.pom
+io/telicent/smart-caches/graph/docker/0.82.19/docker-0.82.19.pom
+io/telicent/smart-caches/graph/scg-base/0.82.19/scg-base-0.82.19.pom
+org/sentrysoftware/winrm/1.1.01/winrm-1.1.01.pom
+   from mvn: 3980 - non-mvn: 2888 - buildinfo: 85 - module: 2126 - gradle timestamp: 1131 - atlasdb: 0 = 0 release

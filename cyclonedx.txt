@@ -3882,6 +3882,7 @@ org.eclipse.serializer:configuration-yaml
 org.eclipse.serializer:persistence
 org.eclipse.serializer:persistence-binary
 org.eclipse.serializer:persistence-binary-android
+org.eclipse.serializer:persistence-binary-jdk17
 org.eclipse.serializer:persistence-binary-jdk8
 org.eclipse.serializer:persistence-parent
 org.eclipse.serializer:serializer
