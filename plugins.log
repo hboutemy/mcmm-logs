@@ -2822,6 +2822,7 @@ de.saumya.mojo -> rails3:rails3-maven-plugin = "Rails3 Maven Mojo"
 de.saumya.mojo -> rake:rake-maven-plugin = "Rake Maven Mojo"
 de.saumya.mojo -> rspec:rspec-maven-plugin = "RSpec Maven Mojo"
 de.saumya.mojo -> runit:runit-maven-plugin = "RUnit Maven Mojo"
+de.schegge -> freshmarker-compiler:freshmarker-compiler-maven-plugin = "freshmarker-compiler-maven-plugin Maven Plugin"
 de.schegge -> rest-markdown:rest-markdown-maven-plugin = "REST Markdown Maven Plugin"
 de.schrieveslaach.nlpf -> nlp:nlp-maven-plugin = 
 de.scravy -> waitfor:waitfor-maven-plugin = "Simplaex WaitFor Maven Plugin"

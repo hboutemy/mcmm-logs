@@ -14027,3 +14027,14 @@ io/telicent/smart-caches/graph/docker/0.82.19/docker-0.82.19.pom
 io/telicent/smart-caches/graph/scg-base/0.82.19/scg-base-0.82.19.pom
 org/sentrysoftware/winrm/1.1.01/winrm-1.1.01.pom
    from mvn: 3980 - non-mvn: 2888 - buildinfo: 85 - module: 2126 - gradle timestamp: 1131 - atlasdb: 0 = 0 release
+20250218
+com/spotify/github-client/0.3.7/github-client-0.3.7.pom
+io/avaje/avaje-prisms-parent/1.39/avaje-prisms-parent-1.39.pom
+io/avaje/avaje-spi-parent/2.10/avaje-spi-parent-2.10.pom
+nl/basjes/parse/useragent/yauaa-parent/7.30.0/yauaa-parent-7.30.0.pom
+nl/basjes/parse/useragent/yauaa/7.30.0/yauaa-7.30.0.pom
+org/apache/maven/plugins/maven-clean-plugin/3.4.1/maven-clean-plugin-3.4.1.pom
+org/apache/maven/plugins/maven-clean-plugin/4.0.0-beta-2/maven-clean-plugin-4.0.0-beta-2.pom
+org/apache/wayang/wayang/1.0.0/wayang-1.0.0.pom
+org/webjars/flexmonster/2.9.97/flexmonster-2.9.97.pom
+   from mvn: 4800 - non-mvn: 3496 - buildinfo: 0 - module: 2987 - gradle timestamp: 1798 - atlasdb: 0 = 0 release
