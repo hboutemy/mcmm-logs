@@ -39,6 +39,7 @@ io.github.microcks:microcks-util
 io.github.ryunen344.webauthn:webauthn2-json-moshi
 io.github.ryunen344.webauthn:webauthn2-json-serialization
 io.opentelemetry.javaagent:opentelemetry-javaagent
+net.dapete:locks
 org.apache.bcel:bcel
 org.apache.commons:commons-beanutils2
 org.apache.commons:commons-build-plugin
