@@ -683,6 +683,7 @@ com.open-elements.hiero:hiero-enterprise-microprofile
 com.open-elements.hiero:hiero-enterprise-spring
 com.open-elements.hiero:hiero-microprofile
 com.open-elements.hiero:hiero-spring
+com.open-elements.solidity:solidity-enterprise
 com.open-elements:oss-license-scanner
 com.siemens.pki:CmpRaComponent
 com.soartech:jsoar
