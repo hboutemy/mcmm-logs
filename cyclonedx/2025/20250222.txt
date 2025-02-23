@@ -1,0 +1,2 @@
+io/github/sebastian-toepfer/oss/oss-parent/1.2.0/oss-parent-1.2.0-cyclonedx.json
+io/github/sebastian-toepfer/oss/oss-parent/1.2.0/oss-parent-1.2.0-cyclonedx.xml

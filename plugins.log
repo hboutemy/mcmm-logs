@@ -3299,6 +3299,7 @@ io.github.dmlloyd.maven -> module-services:module-services-plugin = "Module serv
 io.github.dmlloyd.module-info -> module-info:module-info = "Module Info Generator"
 io.github.dovaleac -> stateless4j-yaml-importer:stateless4j-yaml-importer = "Stateless4j YAML importer"
 io.github.drrename.codesignjava -> codesignjava:codesignjava-maven-plugin = "Java package and code-sign plugin"
+io.github.dumijdev -> dp-xml:dp-xml-maven-plugin = "${project.groupId}:${project.artifactId}"
 io.github.duqian42707 -> screw:screw-maven-plugin = 
 io.github.epi155 -> emsql:emsql-maven-plugin = "JDBC DAO code generator"
 io.github.epi155 -> recfm:recfm-maven-plugin = "record fixed format plugin"
