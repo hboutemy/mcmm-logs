@@ -1,0 +1,6 @@
+com/open-elements/solidity/solidity-enterprise/0.2.0/solidity-enterprise-0.2.0-cyclonedx.json
+com/open-elements/solidity/solidity-enterprise/0.2.0/solidity-enterprise-0.2.0-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-core/11.2.1-beta-5/spoon-core-11.2.1-beta-5-cyclonedx.json
+fr/inria/gforge/spoon/spoon-core/11.2.1-beta-5/spoon-core-11.2.1-beta-5-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-javadoc/11.2.1-beta-5/spoon-javadoc-11.2.1-beta-5-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-javadoc/11.2.1-beta-5/spoon-javadoc-11.2.1-beta-5-cyclonedx.json
