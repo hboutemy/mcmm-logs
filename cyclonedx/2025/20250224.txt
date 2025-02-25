@@ -1,0 +1,14 @@
+nl/basjes/codeowners/codeowners-parent/1.11.0/codeowners-parent-1.11.0-cyclonedx.json
+nl/basjes/codeowners/codeowners-parent/1.11.0/codeowners-parent-1.11.0-cyclonedx.xml
+nl/basjes/codeowners/codeowners-reader/1.11.0/codeowners-reader-1.11.0-cyclonedx.json
+nl/basjes/codeowners/codeowners-reader/1.11.0/codeowners-reader-1.11.0-cyclonedx.xml
+nl/basjes/gitignore/gitignore-reader/1.11.0/gitignore-reader-1.11.0-cyclonedx.json
+nl/basjes/gitignore/gitignore-reader/1.11.0/gitignore-reader-1.11.0-cyclonedx.xml
+nl/basjes/maven/enforcer/codeowners/codeowners-enforcer-rules/1.11.0/codeowners-enforcer-rules-1.11.0-cyclonedx.xml
+nl/basjes/maven/enforcer/codeowners/codeowners-enforcer-rules/1.11.0/codeowners-enforcer-rules-1.11.0-cyclonedx.json
+org/apache/camel/quarkus/camel-quarkus/3.19.0/camel-quarkus-3.19.0-cyclonedx.xml
+org/apache/camel/quarkus/camel-quarkus/3.19.0/camel-quarkus-3.19.0-cyclonedx.json
+org/jqassistant/plugin/jqassistant-jee-plugin/1.1.0-M4/jqassistant-jee-plugin-1.1.0-M4-cyclonedx.xml
+org/jqassistant/plugin/jqassistant-jee-plugin/1.1.0-M4/jqassistant-jee-plugin-1.1.0-M4-cyclonedx.json
+org/leplus/ristretto/2.0.0/ristretto-2.0.0-cyclonedx.xml
+org/leplus/ristretto/2.0.0/ristretto-2.0.0-cyclonedx.json

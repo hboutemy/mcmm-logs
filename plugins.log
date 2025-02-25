@@ -3458,6 +3458,7 @@ io.github.pwszpl.maven -> replace-with-flattened:replace-with-flattened-plugin =
 io.github.q3769 -> semver:semver-maven-plugin = "semver-maven-plugin"
 io.github.qsy7.org.projectlombok -> lombok:lombok-maven-plugin = "Lombok Maven Plugin"
 io.github.qudtlib -> rdfio:rdfio-maven-plugin = "Maven RDF I/O Plugin"
+io.github.qudtlib -> seq:seq-maven-plugin = "Maven Seq Plugin"
 io.github.qudtlib -> shacl:shacl-maven-plugin = "Maven SHACL Plugin"
 io.github.r0bb3n -> sonar-quality-gate:sonar-quality-gate-maven-plugin = "Sonar Quality Gate Maven Plugin"
 io.github.radkovo -> vocab-builder:vocab-builder-maven-plugin = "RDF4J Vocabulary Builder :: Maven Plugin"

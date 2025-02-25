@@ -4912,6 +4912,7 @@ org.jreleaser:jreleaser-webhooks-java-sdk
 org.jreleaser:jreleaser-zulip-java-sdk
 org.kordamp.ezmorph:ezmorph-core
 org.kordamp.json:json-lib-core
+org.leplus:ristretto
 org.locationtech.geomesa:docs
 org.locationtech.geomesa:geomesa-accumulo-datastore_2.12
 org.locationtech.geomesa:geomesa-accumulo-datastore_2.13

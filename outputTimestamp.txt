@@ -14082,3 +14082,9 @@ io/airlift/airbase-policy/223/airbase-policy-223.pom
 io/airlift/airbase/222/airbase-222.pom
 io/airlift/airbase/223/airbase-223.pom
    from mvn: 1399 - non-mvn: 4010 - buildinfo: 0 - module: 1524 - gradle timestamp: 399 - atlasdb: 0 = 0 release
+20250223
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-5/spoon-pom-11.2.1-beta-5.pom
+io/avaje/avaje-validator-parent/2.8/avaje-validator-parent-2.8.pom
+nl/hsac/hsac-fitnesse-fixtures/5.3.20/hsac-fitnesse-fixtures-5.3.20.pom
+nl/hsac/hsac-fitnesse-plugin/1.33.2/hsac-fitnesse-plugin-1.33.2.pom
+   from mvn: 407 - non-mvn: 3023 - buildinfo: 0 - module: 1706 - gradle timestamp: 413 - atlasdb: 0 = 0 release
