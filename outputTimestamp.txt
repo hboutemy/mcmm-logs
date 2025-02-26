@@ -14088,3 +14088,11 @@ io/avaje/avaje-validator-parent/2.8/avaje-validator-parent-2.8.pom
 nl/hsac/hsac-fitnesse-fixtures/5.3.20/hsac-fitnesse-fixtures-5.3.20.pom
 nl/hsac/hsac-fitnesse-plugin/1.33.2/hsac-fitnesse-plugin-1.33.2.pom
    from mvn: 407 - non-mvn: 3023 - buildinfo: 0 - module: 1706 - gradle timestamp: 413 - atlasdb: 0 = 0 release
+20250224
+com/github/nbbrd/sdmx-dl/sdmx-dl-bom/3.0.0-beta.14/sdmx-dl-bom-3.0.0-beta.14.pom
+com/github/nbbrd/sdmx-dl/sdmx-dl-parent/3.0.0-beta.14/sdmx-dl-parent-3.0.0-beta.14.pom
+nl/basjes/codeowners/codeowners-parent/1.11.0/codeowners-parent-1.11.0.pom
+org/apache/opendal/opendal/0.47.9/opendal-0.47.9.pom
+org/apache/sshd/sshd/2.15.0/sshd-2.15.0.pom
+org/jpmml/jpmml-model/1.7.2/jpmml-model-1.7.2.pom
+   from mvn: 4524 - non-mvn: 7222 - buildinfo: 1 - module: 4633 - gradle timestamp: 2099 - atlasdb: 0 = 0 release
