@@ -1,0 +1,2 @@
+org/opendaylight/mdsal/mdsal-sbom-14.0.10.spdx
+org/opendaylight/transportpce/models/models-sbom-21.2.1.spdx

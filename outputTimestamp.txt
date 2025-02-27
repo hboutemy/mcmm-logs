@@ -14096,3 +14096,11 @@ org/apache/opendal/opendal/0.47.9/opendal-0.47.9.pom
 org/apache/sshd/sshd/2.15.0/sshd-2.15.0.pom
 org/jpmml/jpmml-model/1.7.2/jpmml-model-1.7.2.pom
    from mvn: 4524 - non-mvn: 7222 - buildinfo: 1 - module: 4633 - gradle timestamp: 2099 - atlasdb: 0 = 0 release
+20250225
+ch/qos/logback/logback-parent/1.5.17/logback-parent-1.5.17.pom
+com/spotify/github-client/0.3.8/github-client-0.3.8.pom
+com/spotify/github-client/0.3.9/github-client-0.3.9.pom
+org/codehaus/mojo/flatten-maven-plugin/1.7.0/flatten-maven-plugin-1.7.0.pom
+org/slf4j/slf4j-parent/2.0.17/slf4j-parent-2.0.17.pom
+org/sonatype/buildsupport/buildsupport/55/buildsupport-55.pom
+   from mvn: 4642 - non-mvn: 3441 - buildinfo: 0 - module: 3327 - gradle timestamp: 1763 - atlasdb: 0 = 0 release
