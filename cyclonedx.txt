@@ -3683,6 +3683,7 @@ org.eclipse.angus:logging-mailhandler
 org.eclipse.angus:pop3
 org.eclipse.angus:providers
 org.eclipse.angus:smtp
+org.eclipse.ecsp:entities
 org.eclipse.ee4j:project
 org.eclipse.jetty:jetty-home
 org.eclipse.lyo.clients:clients-parent

@@ -3358,6 +3358,7 @@ io.github.jiangxincode -> simian:simian-maven-plugin = "Simian Maven Plugin"
 io.github.jinlongliao -> generator:maven-generator-maven-plugin = 
 io.github.jinlongliao -> generator:maven-generator-plugin = 
 io.github.jiri-meluzin -> jsonschema2pojo:jsonschema2pojo-maven-plugin = "jsonschema2pojo-maven-plugin"
+io.github.jiri-meluzin -> git-versioning-extension:maven-git-versioning-extension = "Maven Git Versioning Extension"
 io.github.jkrauze.enumgen -> enumgen:enumgen-maven-plugin = "EnumGen Maven Plugin"
 io.github.jopatai -> lombok-config:lombok-config-maven-plugin = "lombok-config-maven-plugin"
 io.github.jorgerojasdev -> avro:avro-maven-plugin = "AutoImports Avro Maven Plugin"

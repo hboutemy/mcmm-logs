@@ -14104,3 +14104,15 @@ org/codehaus/mojo/flatten-maven-plugin/1.7.0/flatten-maven-plugin-1.7.0.pom
 org/slf4j/slf4j-parent/2.0.17/slf4j-parent-2.0.17.pom
 org/sonatype/buildsupport/buildsupport/55/buildsupport-55.pom
    from mvn: 4642 - non-mvn: 3441 - buildinfo: 0 - module: 3327 - gradle timestamp: 1763 - atlasdb: 0 = 0 release
+20250226
+com/github/hazendaz/maven/makeself-maven-plugin/1.9.0/makeself-maven-plugin-1.9.0.pom
+io/airlift/airbase-policy/224/airbase-policy-224.pom
+io/airlift/airbase/224/airbase-224.pom
+io/avaje/avaje-sigma-parent/1.0/avaje-sigma-parent-1.0.pom
+io/quarkus/quarkus-parent/3.19.1/quarkus-parent-3.19.1.pom
+io/telicent/smart-caches/graph/docker/0.83.0/docker-0.83.0.pom
+io/telicent/smart-caches/graph/scg-base/0.83.0/scg-base-0.83.0.pom
+org/apache/baremaps/baremaps/0.8.2/baremaps-0.8.2.pom
+org/apache/maven/plugins/maven-deploy-plugin/3.1.4/maven-deploy-plugin-3.1.4.pom
+org/apache/maven/plugins/maven-project-info-reports-plugin/3.9.0/maven-project-info-reports-plugin-3.9.0.pom
+   from mvn: 3560 - non-mvn: 5996 - buildinfo: 0 - module: 4330 - gradle timestamp: 1633 - atlasdb: 0 = 0 release
