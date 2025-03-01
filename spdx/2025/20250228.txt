@@ -1,0 +1,3 @@
+io/opentelemetry/javaagent/opentelemetry-javaagent/2.13.3/opentelemetry-javaagent-2.13.3-spdx.json
+org/opendaylight/aaa/aaa-sbom-0.20.7.spdx
+org/opendaylight/netconf/netconf-sbom-8.0.6.spdx
