@@ -14141,3 +14141,25 @@ org/apache/pulsar/pulsar/4.0.3/pulsar-4.0.3.pom
 org/jpmml/jpmml-parent/1.0.2/jpmml-parent-1.0.2.pom
 org/spdx/spdx-maven-plugin/1.0.0-RC2/spdx-maven-plugin-1.0.0-RC2.pom
    from mvn: 5285 - non-mvn: 6170 - buildinfo: 0 - module: 4128 - gradle timestamp: 2001 - atlasdb: 0 = 0 release
+20250228
+com/cognite/units/units-catalog/0.1.21/units-catalog-0.1.21.pom
+com/fasterxml/jackson/core/jackson-annotations/2.18.3/jackson-annotations-2.18.3.pom
+com/fasterxml/jackson/core/jackson-core/2.18.3/jackson-core-2.18.3.pom
+com/fasterxml/jackson/core/jackson-databind/2.18.3/jackson-databind-2.18.3.pom
+com/fasterxml/jackson/jackson-base/2.18.3/jackson-base-2.18.3.pom
+com/fasterxml/jackson/jackson-bom/2.18.3/jackson-bom-2.18.3.pom
+com/fasterxml/jackson/jr/jackson-jr-all/2.18.3/jackson-jr-all-2.18.3.pom
+com/fasterxml/jackson/jr/jackson-jr-annotation-support/2.18.3/jackson-jr-annotation-support-2.18.3.pom
+com/fasterxml/jackson/jr/jackson-jr-extension-javatime/2.18.3/jackson-jr-extension-javatime-2.18.3.pom
+com/fasterxml/jackson/jr/jackson-jr-objects/2.18.3/jackson-jr-objects-2.18.3.pom
+com/fasterxml/jackson/jr/jackson-jr-parent/2.18.3/jackson-jr-parent-2.18.3.pom
+com/fasterxml/jackson/jr/jackson-jr-retrofit2/2.18.3/jackson-jr-retrofit2-2.18.3.pom
+com/fasterxml/jackson/jr/jackson-jr-stree/2.18.3/jackson-jr-stree-2.18.3.pom
+io/github/ollama4j/ollama4j/1.0.96/ollama4j-1.0.96.pom
+net/sourceforge/pmd/pmd/7.11.0/pmd-7.11.0.pom
+nl/basjes/codeowners/codeowners-parent/1.11.1/codeowners-parent-1.11.1.pom
+org/apache/maven/plugins/maven-deploy-plugin/4.0.0-beta-2/maven-deploy-plugin-4.0.0-beta-2.pom
+org/apache/maven/plugins/maven-install-plugin/4.0.0-beta-2/maven-install-plugin-4.0.0-beta-2.pom
+org/apache/sling/org.apache.sling.jcr.repoinit/1.1.54/org.apache.sling.jcr.repoinit-1.1.54.pom
+org/apache/sling/org.apache.sling.repoinit.parser/1.9.2/org.apache.sling.repoinit.parser-1.9.2.pom
+   from mvn: 6479 - non-mvn: 4606 - buildinfo: 1 - module: 2937 - gradle timestamp: 1719 - atlasdb: 0 = 0 release
