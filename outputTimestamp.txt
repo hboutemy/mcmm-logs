@@ -14163,3 +14163,16 @@ org/apache/maven/plugins/maven-install-plugin/4.0.0-beta-2/maven-install-plugin-
 org/apache/sling/org.apache.sling.jcr.repoinit/1.1.54/org.apache.sling.jcr.repoinit-1.1.54.pom
 org/apache/sling/org.apache.sling.repoinit.parser/1.9.2/org.apache.sling.repoinit.parser-1.9.2.pom
    from mvn: 6479 - non-mvn: 4606 - buildinfo: 1 - module: 2937 - gradle timestamp: 1719 - atlasdb: 0 = 0 release
+20250301
+com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.18.3/jackson-dataformat-xml-2.18.3.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-binary/2.18.3/jackson-dataformats-binary-2.18.3.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.18.3/jackson-dataformats-text-2.18.3.pom
+com/fasterxml/jackson/datatype/jackson-datatype-joda/2.18.3/jackson-datatype-joda-2.18.3.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-collections/2.18.3/jackson-datatypes-collections-2.18.3.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/2.18.3/jackson-datatypes-misc-parent-2.18.3.pom
+io/airlift/airbase-policy/227/airbase-policy-227.pom
+io/airlift/airbase/227/airbase-227.pom
+net/sf/michael-o/michael-o-parent/19/michael-o-parent-19.pom
+org/apache/maven/resolver/maven-resolver/2.0.7/maven-resolver-2.0.7.pom
+org/finos/legend/engine/legend-engine/4.71.1/legend-engine-4.71.1.pom
+   from mvn: 1651 - non-mvn: 2600 - buildinfo: 4 - module: 1285 - gradle timestamp: 273 - atlasdb: 0 = 0 release
