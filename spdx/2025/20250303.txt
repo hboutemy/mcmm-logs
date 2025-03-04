@@ -1,0 +1,2 @@
+org/opendaylight/bgpcep/bgpcep-sbom-0.22.9.spdx
+org/opendaylight/transportpce/transportpce-sbom-10.2.2.spdx

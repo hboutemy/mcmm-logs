@@ -14176,3 +14176,7 @@ net/sf/michael-o/michael-o-parent/19/michael-o-parent-19.pom
 org/apache/maven/resolver/maven-resolver/2.0.7/maven-resolver-2.0.7.pom
 org/finos/legend/engine/legend-engine/4.71.1/legend-engine-4.71.1.pom
    from mvn: 1651 - non-mvn: 2600 - buildinfo: 4 - module: 1285 - gradle timestamp: 273 - atlasdb: 0 = 0 release
+20250302
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-6/spoon-pom-11.2.1-beta-6.pom
+org/simplify4u/parent/2.22.1/parent-2.22.1.pom
+   from mvn: 1084 - non-mvn: 2092 - buildinfo: 0 - module: 1059 - gradle timestamp: 304 - atlasdb: 0 = 0 release
