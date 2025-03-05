@@ -14180,3 +14180,12 @@ org/finos/legend/engine/legend-engine/4.71.1/legend-engine-4.71.1.pom
 fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-6/spoon-pom-11.2.1-beta-6.pom
 org/simplify4u/parent/2.22.1/parent-2.22.1.pom
    from mvn: 1084 - non-mvn: 2092 - buildinfo: 0 - module: 1059 - gradle timestamp: 304 - atlasdb: 0 = 0 release
+20250303
+eu/europa/ted/eforms/eforms-sdk-analyzer/1.13.1/eforms-sdk-analyzer-1.13.1.pom
+io/airlift/airbase-policy/228/airbase-policy-228.pom
+io/airlift/airbase/228/airbase-228.pom
+io/avaje/avaje-jsonb-parent/3.1-RC1/avaje-jsonb-parent-3.1-RC1.pom
+net/bytebuddy/byte-buddy-parent/1.17.2/byte-buddy-parent-1.17.2.pom
+org/apache/struts/struts2-parent/7.0.3/struts2-parent-7.0.3.pom
+org/webjars/flexmonster/2.9.98/flexmonster-2.9.98.pom
+   from mvn: 4241 - non-mvn: 3655 - buildinfo: 0 - module: 3155 - gradle timestamp: 1689 - atlasdb: 0 = 0 release

@@ -3947,6 +3947,7 @@ org.glassfish.build:command-security-maven-plugin
 org.glassfish.build:glassfishbuild-maven-plugin
 org.glassfish.build:spec-version-maven-plugin
 org.glassfish.concurro:concurro
+org.glassfish.embedded:embedded-glassfish-maven-plugin
 org.glassfish.expressly:expressly
 org.glassfish.grizzly.osgi:grizzly-httpservice
 org.glassfish.grizzly.osgi:grizzly-httpservice-bundle
