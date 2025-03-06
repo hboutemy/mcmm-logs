@@ -14189,3 +14189,19 @@ net/bytebuddy/byte-buddy-parent/1.17.2/byte-buddy-parent-1.17.2.pom
 org/apache/struts/struts2-parent/7.0.3/struts2-parent-7.0.3.pom
 org/webjars/flexmonster/2.9.98/flexmonster-2.9.98.pom
    from mvn: 4241 - non-mvn: 3655 - buildinfo: 0 - module: 3155 - gradle timestamp: 1689 - atlasdb: 0 = 0 release
+20250304
+com/github/spotbugs/spotbugs-maven-plugin/4.9.2.0/spotbugs-maven-plugin-4.9.2.0.pom
+eu/maveniverse/maven/mimir/mimir/0.3.5/mimir-0.3.5.pom
+eu/maveniverse/maven/mimir/mimir/0.3.6/mimir-0.3.6.pom
+eu/maveniverse/maven/nisse/nisse/0.4.0/nisse-0.4.0.pom
+io/airlift/airbase-policy/229/airbase-policy-229.pom
+io/airlift/airbase/229/airbase-229.pom
+io/avaje/avaje-jsonb-parent/3.1-RC2/avaje-jsonb-parent-3.1-RC2.pom
+io/wcm/io.wcm.wcm.ui.granite/1.10.6/io.wcm.wcm.ui.granite-1.10.6.pom
+land/oras/oras-java-sdk/0.2.0/oras-java-sdk-0.2.0.pom
+org/apache/camel/camel/4.10.1/camel-4.10.1.pom
+org/apache/camel/camel/4.8.4/camel-4.8.4.pom
+org/apache/yetus/yetus-project/0.15.1/yetus-project-0.15.1.pom
+org/glassfish/main/glassfish-main-aggregator/8.0.0-M10/glassfish-main-aggregator-8.0.0-M10.pom
+org/glassfish/main/nucleus-parent/8.0.0-M10/nucleus-parent-8.0.0-M10.pom
+   from mvn: 5634 - non-mvn: 5660 - buildinfo: 0 - module: 3381 - gradle timestamp: 1554 - atlasdb: 0 = 0 release
