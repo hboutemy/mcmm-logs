@@ -14205,3 +14205,14 @@ org/apache/yetus/yetus-project/0.15.1/yetus-project-0.15.1.pom
 org/glassfish/main/glassfish-main-aggregator/8.0.0-M10/glassfish-main-aggregator-8.0.0-M10.pom
 org/glassfish/main/nucleus-parent/8.0.0-M10/nucleus-parent-8.0.0-M10.pom
    from mvn: 5634 - non-mvn: 5660 - buildinfo: 0 - module: 3381 - gradle timestamp: 1554 - atlasdb: 0 = 0 release
+20250305
+eu/maveniverse/maven/mimir/mimir/0.4.0/mimir-0.4.0.pom
+io/quarkus/quarkus-parent/3.19.2/quarkus-parent-3.19.2.pom
+io/wcm/io.wcm.testing.aem-mock.parent/5.6.8/io.wcm.testing.aem-mock.parent-5.6.8.pom
+org/apache/struts/struts2-parent/6.7.4/struts2-parent-6.7.4.pom
+org/eclipse/jetty/jetty-project/12.0.17/jetty-project-12.0.17.pom
+org/glassfish/main/glassfish-main-aggregator/8.0.0-JDK17-M10/glassfish-main-aggregator-8.0.0-JDK17-M10.pom
+org/glassfish/main/nucleus-parent/8.0.0-JDK17-M10/nucleus-parent-8.0.0-JDK17-M10.pom
+org/infinispan/protostream/parent/6.0.0.Dev05/parent-6.0.0.Dev05.pom
+org/itsallcode/openfasttrace-asciidoc-plugin/0.3.0/openfasttrace-asciidoc-plugin-0.3.0.pom
+   from mvn: 3571 - non-mvn: 4934 - buildinfo: 0 - module: 3041 - gradle timestamp: 1603 - atlasdb: 0 = 0 release

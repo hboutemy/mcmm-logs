@@ -1156,6 +1156,7 @@ io.telicent.smart-caches.entity-resolution:parent
 io.telicent.smart-caches.entity-resolution:test-clusters
 io.telicent.smart-caches.graph:docker
 io.telicent.smart-caches.graph:scg-base
+io.telicent.smart-caches.graph:scg-benchmark
 io.telicent.smart-caches.graph:scg-server
 io.telicent.smart-caches.graph:scg-system
 io.telicent.smart-caches:cli
@@ -3720,6 +3721,7 @@ org.eclipse.angus:pop3
 org.eclipse.angus:providers
 org.eclipse.angus:smtp
 org.eclipse.ecsp:entities
+org.eclipse.ecsp:utils
 org.eclipse.ee4j:project
 org.eclipse.jetty:jetty-home
 org.eclipse.lyo.clients:clients-parent
