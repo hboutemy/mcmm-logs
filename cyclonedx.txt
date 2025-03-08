@@ -685,6 +685,10 @@ com.open-elements.hiero:hiero-microprofile
 com.open-elements.hiero:hiero-spring
 com.open-elements.solidity:solidity-enterprise
 com.open-elements:oss-license-scanner
+com.oracle.database.graph:opg-client
+com.oracle.database.graph:opg-graph-importer
+com.oracle.database.graph:opg-pgql-jdbc
+com.oracle.database.graph:opg-pgx-jdbc
 com.siemens.pki:CmpRaComponent
 com.soartech:jsoar
 com.soartech:jsoar-core
