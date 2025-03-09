@@ -14230,3 +14230,13 @@ io/trino/trino-root/472/trino-root-472.pom
 org/apache/orc/orc/2.1.1/orc-2.1.1.pom
 org/simplify4u/plugins/pgpverify-maven-plugin/1.19.0/pgpverify-maven-plugin-1.19.0.pom
    from mvn: 5258 - non-mvn: 5397 - buildinfo: 24 - module: 3970 - gradle timestamp: 2324 - atlasdb: 0 = 0 release
+20250307
+com/fasterxml/jackson/core/jackson-annotations/3.0-rc1/jackson-annotations-3.0-rc1.pom
+com/fasterxml/oss-parent/64/oss-parent-64.pom
+com/github/hazendaz/maven/whitespace-maven-plugin/1.5.0/whitespace-maven-plugin-1.5.0.pom
+io/telicent/smart-caches/graph/docker/0.83.2/docker-0.83.2.pom
+io/telicent/smart-caches/graph/scg-base/0.83.2/scg-base-0.83.2.pom
+tools/jackson/core/jackson-core/3.0.0-rc1/jackson-core-3.0.0-rc1.pom
+tools/jackson/jackson-base/3.0.0-rc1/jackson-base-3.0.0-rc1.pom
+tools/jackson/jackson-bom/3.0.0-rc1/jackson-bom-3.0.0-rc1.pom
+   from mvn: 2848 - non-mvn: 6915 - buildinfo: 0 - module: 3194 - gradle timestamp: 1760 - atlasdb: 0 = 0 release
