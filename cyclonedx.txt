@@ -3081,6 +3081,7 @@ org.apache.maven.plugins:maven-javadoc-plugin
 org.apache.maven.plugins:maven-jlink-plugin
 org.apache.maven.plugins:maven-jxr-plugin
 org.apache.maven.plugins:maven-patch-plugin
+org.apache.maven.plugins:maven-pdf-plugin
 org.apache.maven.plugins:maven-plugin-plugin
 org.apache.maven.plugins:maven-plugin-report-plugin
 org.apache.maven.plugins:maven-plugins
