@@ -14273,3 +14273,11 @@ tools/jackson/jr/jackson-jr-parent/3.0.0-rc1/jackson-jr-parent-3.0.0-rc1.pom
 tools/jackson/jr/jackson-jr-retrofit2/3.0.0-rc1/jackson-jr-retrofit2-3.0.0-rc1.pom
 tools/jackson/jr/jackson-jr-stree/3.0.0-rc1/jackson-jr-stree-3.0.0-rc1.pom
    from mvn: 2269 - non-mvn: 2287 - buildinfo: 0 - module: 797 - gradle timestamp: 170 - atlasdb: 0 = 0 release
+20250309
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-7/spoon-pom-11.2.1-beta-7.pom
+org/apache/camel/camel/3.22.4/camel-3.22.4.pom
+org/apache/camel/camel/4.10.2/camel-4.10.2.pom
+org/apache/maven/plugins/maven-pdf-plugin/1.6.2/maven-pdf-plugin-1.6.2.pom
+org/jpmml/jpmml-r/1.7.1/jpmml-r-1.7.1.pom
+org/jpmml/jpmml-sklearn/1.9.1/jpmml-sklearn-1.9.1.pom
+   from mvn: 3896 - non-mvn: 2589 - buildinfo: 0 - module: 1392 - gradle timestamp: 421 - atlasdb: 0 = 0 release

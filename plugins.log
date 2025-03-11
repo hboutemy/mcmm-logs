@@ -2034,6 +2034,7 @@ com.nesscomputing.mojo -> migratory:maven-migratory-plugin = "${project.artifact
 com.nesscomputing.mojo -> migratory:migratory-maven-plugin = "${project.artifactId}"
 com.nesscomputing.mojo -> numbers:numbers-maven-plugin = 
 com.netcetera.trema -> trema:trema-maven-plugin = "${project.artifactId}"
+com.netgrif -> nae-module:nae-module-maven-plugin = "nae-module-maven-plugin"
 com.networkbench.newlens.agent.android -> agent:agent-maven-plugin = "NetworkBench NewLens Android Agent Maven Plugin"
 com.networknt -> javadoc-packagelist:javadoc-packagelist-maven-plugin = "JavaDocPackageListMavenPlugin"
 com.newrelic.agent.android -> agent:agent-maven-plugin = "New Relic Android Agent Maven Plugin"

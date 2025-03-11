@@ -3239,6 +3239,7 @@ org.apache.maven:maven-settings
 org.apache.maven:maven-settings-builder
 org.apache.maven:maven-slf4j-provider
 org.apache.maven:maven-slf4j-wrapper
+org.apache.maven:maven-support
 org.apache.maven:maven-toolchain-builder
 org.apache.maven:maven-toolchain-model
 org.apache.maven:maven-xml
@@ -3631,6 +3632,8 @@ org.apache.syncope.ext.oidcc4ui:syncope-ext-oidcc4ui-provisioning-api
 org.apache.syncope.ext.oidcc4ui:syncope-ext-oidcc4ui-provisioning-java
 org.apache.syncope.ext.oidcc4ui:syncope-ext-oidcc4ui-rest-api
 org.apache.syncope.ext.oidcc4ui:syncope-ext-oidcc4ui-rest-cxf
+org.apache.syncope.ext.openfga:syncope-ext-openfga-client
+org.apache.syncope.ext.openfga:syncope-ext-openfga-provisioning-java
 org.apache.syncope.ext.opensearch:syncope-ext-opensearch-client
 org.apache.syncope.ext.opensearch:syncope-ext-opensearch-logic
 org.apache.syncope.ext.opensearch:syncope-ext-opensearch-persistence
@@ -3657,6 +3660,7 @@ org.apache.syncope.ext.scimv2:syncope-ext-scimv2-scim-rest-cxf
 org.apache.syncope.ext:syncope-ext-elasticsearch
 org.apache.syncope.ext:syncope-ext-flowable
 org.apache.syncope.ext:syncope-ext-oidcc4ui
+org.apache.syncope.ext:syncope-ext-openfga
 org.apache.syncope.ext:syncope-ext-opensearch
 org.apache.syncope.ext:syncope-ext-saml2sp4ui
 org.apache.syncope.ext:syncope-ext-scimv2

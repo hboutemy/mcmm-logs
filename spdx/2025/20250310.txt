@@ -1,0 +1,2 @@
+land/oras/oras-java-sdk/0.2.1/oras-java-sdk-0.2.1.spdx.json
+org/opendaylight/bgpcep/bgpcep-sbom-0.22.10.spdx
