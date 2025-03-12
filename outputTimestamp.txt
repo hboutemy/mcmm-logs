@@ -14281,3 +14281,22 @@ org/apache/maven/plugins/maven-pdf-plugin/1.6.2/maven-pdf-plugin-1.6.2.pom
 org/jpmml/jpmml-r/1.7.1/jpmml-r-1.7.1.pom
 org/jpmml/jpmml-sklearn/1.9.1/jpmml-sklearn-1.9.1.pom
    from mvn: 3896 - non-mvn: 2589 - buildinfo: 0 - module: 1392 - gradle timestamp: 421 - atlasdb: 0 = 0 release
+20250310
+com/spotify/github-client/0.3.10/github-client-0.3.10.pom
+io/avaje/avaje-http-parent/3.1-RC2/avaje-http-parent-3.1-RC2.pom
+io/avaje/avaje-jex-parent/3.0-RC21/avaje-jex-parent-3.0-RC21.pom
+io/avaje/avaje-jsonb-parent/3.1-RC3/avaje-jsonb-parent-3.1-RC3.pom
+io/github/ollama4j/ollama4j/1.0.98/ollama4j-1.0.98.pom
+io/jstach/jstachio-maven-parent/1.3.7/jstachio-maven-parent-1.3.7.pom
+land/oras/oras-java-sdk/0.2.1/oras-java-sdk-0.2.1.pom
+org/apache/activemq/activemq-parent/6.1.6/activemq-parent-6.1.6.pom
+org/apache/axis2/axis2/2.0.0/axis2-2.0.0.pom
+org/apache/maven/maven/4.0.0-rc-3/maven-4.0.0-rc-3-build.pom
+org/apache/maven/maven/4.0.0-rc-3/maven-4.0.0-rc-3.pom
+org/apache/sling/org.apache.sling.fsresource/2.3.0/org.apache.sling.fsresource-2.3.0.pom
+org/apache/sling/sling-maven-plugin/3.0.4/sling-maven-plugin-3.0.4.pom
+org/apache/syncope/fit/syncope-fit-build-tools/3.0.11/syncope-fit-build-tools-3.0.11.pom
+org/apache/syncope/fit/syncope-fit-build-tools/4.0.0-M1/syncope-fit-build-tools-4.0.0-M1.pom
+org/apache/syncope/syncope/3.0.11/syncope-3.0.11.pom
+org/apache/syncope/syncope/4.0.0-M1/syncope-4.0.0-M1.pom
+   from mvn: 3490 - non-mvn: 3673 - buildinfo: 0 - module: 3489 - gradle timestamp: 1434 - atlasdb: 0 = 0 release

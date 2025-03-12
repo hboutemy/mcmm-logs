@@ -3770,6 +3770,10 @@ org.eclipse.microprofile.fault-tolerance:microprofile-fault-tolerance-api
 org.eclipse.microprofile.fault-tolerance:microprofile-fault-tolerance-parent
 org.eclipse.microprofile.fault-tolerance:microprofile-fault-tolerance-spec
 org.eclipse.microprofile.fault-tolerance:microprofile-fault-tolerance-tck
+org.eclipse.microprofile.lra:microprofile-lra-api
+org.eclipse.microprofile.lra:microprofile-lra-parent
+org.eclipse.microprofile.lra:microprofile-lra-spec
+org.eclipse.microprofile.lra:microprofile-lra-tck
 org.eclipse.microprofile.openapi:microprofile-openapi-api
 org.eclipse.microprofile.openapi:microprofile-openapi-parent
 org.eclipse.microprofile.openapi:microprofile-openapi-spec
