@@ -1398,6 +1398,7 @@ jakarta.mail:jakarta.mail-api
 jakarta.nosql:jakarta.nosql-api
 jakarta.nosql:jakarta.nosql-parent
 jakarta.nosql:jakarta.nosql-spec
+jakarta.nosql:jakarta.nosql-tck
 jakarta.persistence:jakarta.persistence-api
 jakarta.platform:jakarta.jakartaee-api
 jakarta.platform:jakarta.jakartaee-bom
@@ -6447,6 +6448,8 @@ org.openl.jgit:org.eclipse.jgit.ssh.jsch
 org.openl.jgit:org.eclipse.jgit.ui
 org.owasp.antisamy:antisamy
 org.owasp.esapi:esapi
+org.primefaces.extensions:primefaces-extensions
+org.primefaces:primefaces
 org.sonarsource.dummy:sonar-dummy-oss-plugin
 org.sonarsource.scanner.cli:sonar-scanner-cli
 org.sonarsource.scanner.maven:sonar-maven-plugin
