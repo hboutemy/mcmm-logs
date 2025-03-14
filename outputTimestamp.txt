@@ -14339,3 +14339,18 @@ org/apache/dubbo/dubbo-dependencies-bom/3.2.17/dubbo-dependencies-bom-3.2.17.pom
 org/apache/dubbo/dubbo-dependencies/3.2.17/dubbo-dependencies-3.2.17.pom
 org/apache/nifi/nifi/2.3.0/nifi-2.3.0.pom
    from mvn: 6162 - non-mvn: 4609 - buildinfo: 1 - module: 2902 - gradle timestamp: 1337 - atlasdb: 0 = 0 release
+20250312
+eu/maveniverse/maven/nisse/nisse/0.4.1/nisse-0.4.1.pom
+eu/maveniverse/maven/parent/parent/25/parent-25.pom
+eu/maveniverse/maven/parent/parent/26/parent-26.pom
+io/airlift/airbase-policy/231/airbase-policy-231.pom
+io/airlift/airbase/231/airbase-231.pom
+io/quarkus/quarkus-parent/3.19.3/quarkus-parent-3.19.3.pom
+io/quarkus/quarkus-parent/3.20.0.CR1/quarkus-parent-3.20.0.CR1.pom
+io/quarkus/quarkus-parent/3.21.0.CR1/quarkus-parent-3.21.0.CR1.pom
+org/apache/maven/skins/maven-fluido-skin/2.1.0/maven-fluido-skin-2.1.0.pom
+org/apache/sling/org.apache.sling.adapter/2.3.0/org.apache.sling.adapter-2.3.0.pom
+org/apache/sling/org.apache.sling.bundleresource.impl/2.4.0/org.apache.sling.bundleresource.impl-2.4.0.pom
+org/cyclonedx/cyclonedx-core-java/10.2.1/cyclonedx-core-java-10.2.1.pom
+org/finos/legend/engine/legend-engine/4.73.0/legend-engine-4.73.0.pom
+   from mvn: 4654 - non-mvn: 3887 - buildinfo: 0 - module: 2168 - gradle timestamp: 580 - atlasdb: 0 = 0 release

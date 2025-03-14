@@ -832,6 +832,7 @@ de.frachtwerk:essencium-backend-identity-model
 de.frachtwerk:essencium-backend-sequence-model
 de.frachtwerk:essencium-backend-storage-module
 de.frachtwerk:essencium-backend-uuid-model
+de.gematik.demis:spring-parent
 de.knightsoft-net:gwt-commons-codec
 de.knightsoft-net:gwt-commons-lang3
 de.powerstat.phplib:templateengine
@@ -3731,6 +3732,7 @@ org.eclipse.angus:pop3
 org.eclipse.angus:providers
 org.eclipse.angus:smtp
 org.eclipse.ecsp:entities
+org.eclipse.ecsp:nosql-dao
 org.eclipse.ecsp:utils
 org.eclipse.ee4j:project
 org.eclipse.jetty:jetty-home
