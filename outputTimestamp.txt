@@ -14354,3 +14354,12 @@ org/apache/sling/org.apache.sling.bundleresource.impl/2.4.0/org.apache.sling.bun
 org/cyclonedx/cyclonedx-core-java/10.2.1/cyclonedx-core-java-10.2.1.pom
 org/finos/legend/engine/legend-engine/4.73.0/legend-engine-4.73.0.pom
    from mvn: 4654 - non-mvn: 3887 - buildinfo: 0 - module: 2168 - gradle timestamp: 580 - atlasdb: 0 = 0 release
+20250313
+dev/langchain4j/langchain4j-parent/1.0.0-beta2/langchain4j-parent-1.0.0-beta2.pom
+io/avaje/avaje-inject-parent/11.3-RC1/avaje-inject-parent-11.3-RC1.pom
+io/avaje/avaje-jex-parent/3.0-RC22/avaje-jex-parent-3.0-RC22.pom
+io/github/chains-project/maven-lockfile-parent/5.4.0/maven-lockfile-parent-5.4.0.pom
+io/github/chains-project/maven-lockfile-parent/5.4.1/maven-lockfile-parent-5.4.1.pom
+org/green-code-initiative/creedengo-rules-specifications/2.2.2/creedengo-rules-specifications-2.2.2.pom
+org/jpmml/jpmml-sklearn/1.9.2/jpmml-sklearn-1.9.2.pom
+   from mvn: 2981 - non-mvn: 6660 - buildinfo: 0 - module: 3039 - gradle timestamp: 1766 - atlasdb: 0 = 0 release
