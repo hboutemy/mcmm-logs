@@ -14388,3 +14388,10 @@ org/glassfish/main/nucleus-parent/7.0.23/nucleus-parent-7.0.23.pom
 org/ops4j/pax/tinybundles/tinybundles/4.0.1/tinybundles-4.0.1.pom
 world/convex/convex/0.8.1/convex-0.8.1.pom
    from mvn: 3373 - non-mvn: 5324 - buildinfo: 0 - module: 3895 - gradle timestamp: 2121 - atlasdb: 0 = 0 release
+20250315
+com/github/spotbugs/spotbugs-maven-plugin/4.9.3.0/spotbugs-maven-plugin-4.9.3.0.pom
+io/avaje/avaje-jsonb-parent/3.1/avaje-jsonb-parent-3.1.pom
+io/avaje/avaje-validator-parent/2.9/avaje-validator-parent-2.9.pom
+nl/basjes/codeowners/codeowners-parent/1.11.3/codeowners-parent-1.11.3.pom
+org/simplify4u/pgp-keys-map/2025.03.15/pgp-keys-map-2025.03.15.pom
+   from mvn: 1308 - non-mvn: 2576 - buildinfo: 1 - module: 1231 - gradle timestamp: 305 - atlasdb: 0 = 0 release

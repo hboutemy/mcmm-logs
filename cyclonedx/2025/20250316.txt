@@ -1,0 +1,8 @@
+fr/inria/gforge/spoon/spoon-core/11.2.1-beta-8/spoon-core-11.2.1-beta-8-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-core/11.2.1-beta-8/spoon-core-11.2.1-beta-8-cyclonedx.json
+fr/inria/gforge/spoon/spoon-javadoc/11.2.1-beta-8/spoon-javadoc-11.2.1-beta-8-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-javadoc/11.2.1-beta-8/spoon-javadoc-11.2.1-beta-8-cyclonedx.json
+org/eclipse/ecsp/entities/1.1.0/entities-1.1.0-cyclonedx.json
+org/eclipse/ecsp/entities/1.1.0/entities-1.1.0-cyclonedx.xml
+org/eclipse/ecsp/utils/1.1.0/utils-1.1.0-cyclonedx.json
+org/eclipse/ecsp/utils/1.1.0/utils-1.1.0-cyclonedx.xml
