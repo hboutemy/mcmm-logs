@@ -14395,3 +14395,12 @@ io/avaje/avaje-validator-parent/2.9/avaje-validator-parent-2.9.pom
 nl/basjes/codeowners/codeowners-parent/1.11.3/codeowners-parent-1.11.3.pom
 org/simplify4u/pgp-keys-map/2025.03.15/pgp-keys-map-2025.03.15.pom
    from mvn: 1308 - non-mvn: 2576 - buildinfo: 1 - module: 1231 - gradle timestamp: 305 - atlasdb: 0 = 0 release
+20250316
+com/yookue/forkextension/apache/commons-beanutils2/2.0.1/commons-beanutils2-2.0.1.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-8/spoon-pom-11.2.1-beta-8.pom
+io/airlift/airbase-policy/232/airbase-policy-232.pom
+io/airlift/airbase/232/airbase-232.pom
+io/avaje/avaje-inject-parent/11.3-javax/avaje-inject-parent-11.3-javax.pom
+io/avaje/avaje-inject-parent/11.3/avaje-inject-parent-11.3.pom
+org/jpmml/jpmml-parent/1.0.3/jpmml-parent-1.0.3.pom
+   from mvn: 1214 - non-mvn: 1399 - buildinfo: 0 - module: 825 - gradle timestamp: 259 - atlasdb: 0 = 0 release
