@@ -3979,6 +3979,8 @@ org.eclipse.store:cache-hibernate
 org.eclipse.store:cache-parent
 org.eclipse.store:eclipse-store-integrations-cdi4
 org.eclipse.store:integrations
+org.eclipse.store:integrations-spring-boot3
+org.eclipse.store:integrations-spring-boot3-console
 org.eclipse.store:storage
 org.eclipse.store:storage-embedded
 org.eclipse.store:storage-embedded-configuration
