@@ -2162,6 +2162,7 @@ org.apache.flink:flink-metrics-dropwizard
 org.apache.flink:flink-metrics-graphite
 org.apache.flink:flink-metrics-influxdb
 org.apache.flink:flink-metrics-jmx
+org.apache.flink:flink-metrics-otel
 org.apache.flink:flink-metrics-prometheus
 org.apache.flink:flink-metrics-slf4j
 org.apache.flink:flink-metrics-statsd
