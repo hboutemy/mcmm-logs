@@ -866,6 +866,7 @@ edu.hm.hafner:pmd-core
 edu.hm.hafner:pmd-java
 fr.inria.gforge.spoon:spoon-core
 fr.inria.gforge.spoon:spoon-javadoc
+fr.inria.gforge.spoon:spoon-pom
 fr.marcwrobel:jbanking
 gov.nist.secauto.oscal:liboscal-java
 io.docops:docops-extension-server

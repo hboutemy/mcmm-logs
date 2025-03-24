@@ -2424,6 +2424,7 @@ com.threerings -> tripleplay-convert-flump-libs:tripleplay-convert-flump-libs = 
 com.threerings -> tripleplay:tripleplay-maven-plugin = "Triple Play Tools"
 com.tibco.ep -> ep:ep-maven-plugin = "Event Processing Maven Plugin"
 com.tibco.plugins -> bw6:bw6-maven-plugin = "Plugin Code for Apache Maven and TIBCO BusinessWorks™"
+com.tibco.plugins -> flogo:flogo-maven-plugin = "Plugin Code for Apache Maven and TIBCO Flogo"
 com.tigrisdata.tools.code-generator -> code-generator:code-generator-maven-plugin = 
 com.tigrisdata.tools.code-generator -> :maven-plugin = 
 com.tikal -> tikaljet:tikal-maven-jet-plugin = "Tikal Maven JET Plugin"

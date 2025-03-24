@@ -1,0 +1,16 @@
+de/svenkubiak/embedded-mongodb/8.2.18/embedded-mongodb-8.2.18-cyclonedx.json
+de/svenkubiak/embedded-mongodb/8.2.18/embedded-mongodb-8.2.18-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-9/spoon-pom-11.2.1-beta-9-cyclonedx.json
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-9/spoon-pom-11.2.1-beta-9-cyclonedx.xml
+org/glassfish/hk2/bundle-viewer/1.0.4/bundle-viewer-1.0.4-cyclonedx.xml
+org/glassfish/hk2/bundle-viewer/1.0.4/bundle-viewer-1.0.4-cyclonedx.json
+org/glassfish/hk2/hk2-dependency-verifier/1.0.4/hk2-dependency-verifier-1.0.4-cyclonedx.xml
+org/glassfish/hk2/hk2-dependency-verifier/1.0.4/hk2-dependency-verifier-1.0.4-cyclonedx.json
+org/glassfish/hk2/hk2-dependency-visualizer/1.0.4/hk2-dependency-visualizer-1.0.4-cyclonedx.json
+org/glassfish/hk2/hk2-dependency-visualizer/1.0.4/hk2-dependency-visualizer-1.0.4-cyclonedx.xml
+org/glassfish/hk2/hk2-extra-parent/1.0.4/hk2-extra-parent-1.0.4-cyclonedx.json
+org/glassfish/hk2/hk2-extra-parent/1.0.4/hk2-extra-parent-1.0.4-cyclonedx.xml
+org/glassfish/hk2/osgi-resource-locator/1.0.4/osgi-resource-locator-1.0.4-cyclonedx.xml
+org/glassfish/hk2/osgi-resource-locator/1.0.4/osgi-resource-locator-1.0.4-cyclonedx.json
+org/omnifaces/microprofile-jwt-auth/3.0.1/microprofile-jwt-auth-3.0.1-cyclonedx.json
+org/omnifaces/microprofile-jwt-auth/3.0.1/microprofile-jwt-auth-3.0.1-cyclonedx.xml
