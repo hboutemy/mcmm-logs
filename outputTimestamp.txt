@@ -14489,3 +14489,10 @@ org/infinispan/protostream/parent/6.0.0.Dev06/parent-6.0.0.Dev06.pom
 io/trino/trino-root/474/trino-root-474.pom
 org/apache/activemq/activemq-parent/5.16.8/activemq-parent-5.16.8.pom
    from mvn: 958 - non-mvn: 2632 - buildinfo: 55 - module: 1200 - gradle timestamp: 195 - atlasdb: 0 = 0 release
+20250323
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-9/spoon-pom-11.2.1-beta-9.pom
+io/airlift/airbase-policy/238/airbase-policy-238.pom
+io/airlift/airbase/238/airbase-238.pom
+net/bytebuddy/byte-buddy-parent/1.17.4/byte-buddy-parent-1.17.4.pom
+org/jpmml/packager-maven-plugin/1.1.0/packager-maven-plugin-1.1.0.pom
+   from mvn: 824 - non-mvn: 1286 - buildinfo: 0 - module: 1176 - gradle timestamp: 276 - atlasdb: 0 = 0 release
