@@ -14507,3 +14507,11 @@ io/github/chains-project/maven-lockfile-parent/5.4.2/maven-lockfile-parent-5.4.2
 org/apache/stormcrawler/stormcrawler/3.3.0/stormcrawler-3.3.0.pom
 tech/picnic/error-prone-support/error-prone-support/0.21.0/error-prone-support-0.21.0.pom
    from mvn: 5450 - non-mvn: 4241 - buildinfo: 0 - module: 2797 - gradle timestamp: 1304 - atlasdb: 0 = 0 release
+20250325
+com/google/guava/guava-parent/33.4.6-android/guava-parent-33.4.6-android.pom
+com/google/guava/guava-parent/33.4.6-jre/guava-parent-33.4.6-jre.pom
+io/avaje/avaje-logback-encoder/0.12/avaje-logback-encoder-0.12.pom
+org/apache/camel/k/camel-k-runtime-bom/3.15.3/camel-k-runtime-bom-3.15.3.pom
+org/apache/sling/org.apache.sling.testing.paxexam/4.1.0/org.apache.sling.testing.paxexam-4.1.0.pom
+org/sentrysoftware/metricshub-community-connectors/1.0.09/metricshub-community-connectors-1.0.09.pom
+   from mvn: 3375 - non-mvn: 5921 - buildinfo: 1 - module: 3248 - gradle timestamp: 1396 - atlasdb: 0 = 0 release
