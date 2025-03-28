@@ -14515,3 +14515,13 @@ org/apache/camel/k/camel-k-runtime-bom/3.15.3/camel-k-runtime-bom-3.15.3.pom
 org/apache/sling/org.apache.sling.testing.paxexam/4.1.0/org.apache.sling.testing.paxexam-4.1.0.pom
 org/sentrysoftware/metricshub-community-connectors/1.0.09/metricshub-community-connectors-1.0.09.pom
    from mvn: 3375 - non-mvn: 5921 - buildinfo: 1 - module: 3248 - gradle timestamp: 1396 - atlasdb: 0 = 0 release
+20250326
+io/avaje/avaje-inject-parent/11.4-RC1/avaje-inject-parent-11.4-RC1.pom
+io/avaje/avaje-jex-parent/3.0-RC24/avaje-jex-parent-3.0-RC24.pom
+io/avaje/avaje-prisms-parent/1.41/avaje-prisms-parent-1.41.pom
+io/streamnative/buildtools/3.0.10.2/buildtools-3.0.10.2.pom
+io/streamnative/buildtools/4.0.3.1/buildtools-4.0.3.1.pom
+io/streamnative/pulsar-bom/4.0.3.1/pulsar-bom-4.0.3.1.pom
+org/finos/legend/engine/legend-engine/4.75.1/legend-engine-4.75.1.pom
+org/sentrysoftware/metricshub-parent/1.0.02/metricshub-parent-1.0.02.pom
+   from mvn: 4523 - non-mvn: 4003 - buildinfo: 2 - module: 2736 - gradle timestamp: 1202 - atlasdb: 0 = 0 release
