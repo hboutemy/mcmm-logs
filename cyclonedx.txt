@@ -510,6 +510,7 @@ com.io7m.looseleaf:com.io7m.looseleaf
 com.io7m.looseleaf:com.io7m.looseleaf.cmdline
 com.io7m.looseleaf:com.io7m.looseleaf.database.api
 com.io7m.looseleaf:com.io7m.looseleaf.database.mvstore
+com.io7m.looseleaf:com.io7m.looseleaf.database.sqlite
 com.io7m.looseleaf:com.io7m.looseleaf.documentation
 com.io7m.looseleaf:com.io7m.looseleaf.grafana
 com.io7m.looseleaf:com.io7m.looseleaf.oci
@@ -6511,6 +6512,9 @@ ru.vyarus:dropwizard-guicey
 tech.pantheon.triemap:bom
 tech.pantheon.triemap:pt-triemap
 tech.pantheon.triemap:triemap
+tools.jackson.module:jackson-module-scala_2.12
+tools.jackson.module:jackson-module-scala_2.13
+tools.jackson.module:jackson-module-scala_3
 us.springett:alpine
 us.springett:alpine-common
 us.springett:alpine-executable-war

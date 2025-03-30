@@ -14525,3 +14525,42 @@ io/streamnative/pulsar-bom/4.0.3.1/pulsar-bom-4.0.3.1.pom
 org/finos/legend/engine/legend-engine/4.75.1/legend-engine-4.75.1.pom
 org/sentrysoftware/metricshub-parent/1.0.02/metricshub-parent-1.0.02.pom
    from mvn: 4523 - non-mvn: 4003 - buildinfo: 2 - module: 2736 - gradle timestamp: 1202 - atlasdb: 0 = 0 release
+20250327
+io/airlift/airbase-policy/242/airbase-policy-242.pom
+io/airlift/airbase/242/airbase-242.pom
+io/cucumber/gherkin/32.0.1/gherkin-32.0.1.pom
+io/dropwizard/dropwizard-project/3.0.13/dropwizard-project-3.0.13.pom
+io/dropwizard/dropwizard-project/4.0.13/dropwizard-project-4.0.13.pom
+io/dropwizard/dropwizard-project/5.0.0-rc.2/dropwizard-project-5.0.0-rc.2.pom
+io/github/rockcrafters/rockcraft-parent/1.0.0/rockcraft-parent-1.0.0.pom
+org/apache/jackrabbit/oak-parent/1.22.22/oak-parent-1.22.22.pom
+org/infinispan/infinispan-build-configuration-parent/15.2.0.Dev02/infinispan-build-configuration-parent-15.2.0.Dev02.pom
+org/infinispan/infinispan-build-configuration-parent/15.2.0.Dev03/infinispan-build-configuration-parent-15.2.0.Dev03.pom
+org/infinispan/infinispan-build-configuration-parent/15.2.0.Final/infinispan-build-configuration-parent-15.2.0.Final.pom
+org/jdbi/internal/jdbi3-root/3.49.0/jdbi3-root-3.49.0.pom
+   from 20250328
+com/ascentstream/pulsar/buildtools/3.0.11.0/buildtools-3.0.11.0.pom
+com/ascentstream/pulsar/pulsar/3.0.11.0/pulsar-3.0.11.0.pom
+com/fasterxml/jackson/core/jackson-annotations/3.0-rc2/jackson-annotations-3.0-rc2.pom
+net/sourceforge/pmd/pmd/7.12.0/pmd-7.12.0.pom
+org/apache/jackrabbit/vault/jackrabbit-filevault/3.8.4/jackrabbit-filevault-3.8.4.pom
+org/apache/jackrabbit/vault/parent/3.8.4/parent-3.8.4.pom
+org/apache/sling/org.apache.sling.resourceresolver/1.12.6/org.apache.sling.resourceresolver-1.12.6.pom
+org/jpmml/jpmml-sklearn/1.9.4/jpmml-sklearn-1.9.4.pom
+tools/jackson/core/jackson-core/3.0.0-rc2/jackson-core-3.0.0-rc2.pom
+tools/jackson/core/jackson-databind/3.0.0-rc2/jackson-databind-3.0.0-rc2.pom
+tools/jackson/dataformat/jackson-dataformat-xml/3.0.0-rc2/jackson-dataformat-xml-3.0.0-rc2.pom
+tools/jackson/dataformat/jackson-dataformats-binary/3.0.0-rc2/jackson-dataformats-binary-3.0.0-rc2.pom
+tools/jackson/dataformat/jackson-dataformats-text/3.0.0-rc2/jackson-dataformats-text-3.0.0-rc2.pom
+tools/jackson/datatype/jackson-datatype-joda/3.0.0-rc2/jackson-datatype-joda-3.0.0-rc2.pom
+tools/jackson/datatype/jackson-datatypes-collections/3.0.0-rc2/jackson-datatypes-collections-3.0.0-rc2.pom
+tools/jackson/datatype/jackson-datatypes-misc-parent/3.0.0-rc2/jackson-datatypes-misc-parent-3.0.0-rc2.pom
+tools/jackson/jackson-bom/3.0.0-rc2/jackson-bom-3.0.0-rc2.pom
+tools/jackson/jr/jackson-jr-all/3.0.0-rc2/jackson-jr-all-3.0.0-rc2.pom
+tools/jackson/jr/jackson-jr-annotation-support/3.0.0-rc2/jackson-jr-annotation-support-3.0.0-rc2.pom
+tools/jackson/jr/jackson-jr-extension-javatime/3.0.0-rc2/jackson-jr-extension-javatime-3.0.0-rc2.pom
+tools/jackson/jr/jackson-jr-objects/3.0.0-rc2/jackson-jr-objects-3.0.0-rc2.pom
+tools/jackson/jr/jackson-jr-parent/3.0.0-rc2/jackson-jr-parent-3.0.0-rc2.pom
+tools/jackson/jr/jackson-jr-retrofit2/3.0.0-rc2/jackson-jr-retrofit2-3.0.0-rc2.pom
+tools/jackson/jr/jackson-jr-stree/3.0.0-rc2/jackson-jr-stree-3.0.0-rc2.pom
+   from mvn: 2979 - non-mvn: 7446 - buildinfo: 0 - module: 4487 - gradle timestamp: 1462 - atlasdb: 0 = 0 release

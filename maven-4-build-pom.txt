@@ -709,3 +709,9 @@ com/flowlogix/jakarta-ee/9.0.10/jakarta-ee-9.0.10-build.pom
 20250326
 20250327
 20250328
+20250329
+com/flowlogix/archetypes/starter/54/starter-54-build.pom
+com/flowlogix/depchain/depchain/54/depchain-54-build.pom
+com/flowlogix/depchain/integration-test/54/integration-test-54-build.pom
+com/flowlogix/depchain/shiro-jakarta/54/shiro-jakarta-54-build.pom
+com/flowlogix/depchain/unit-test/54/unit-test-54-build.pom
