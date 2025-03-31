@@ -715,3 +715,6 @@ com/flowlogix/depchain/depchain/54/depchain-54-build.pom
 com/flowlogix/depchain/integration-test/54/integration-test-54-build.pom
 com/flowlogix/depchain/shiro-jakarta/54/shiro-jakarta-54-build.pom
 com/flowlogix/depchain/unit-test/54/unit-test-54-build.pom
+20250330
+org/apache/maven/plugin-testing/maven-plugin-testing-harness/4.0.0-beta-4/maven-plugin-testing-harness-4.0.0-beta-4-build.pom
+org/apache/maven/plugin-testing/maven-plugin-testing/4.0.0-beta-4/maven-plugin-testing-4.0.0-beta-4-build.pom
