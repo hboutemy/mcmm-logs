@@ -14656,3 +14656,11 @@ org/metricshub/winrm-java/1.1.02/winrm-java-1.1.02.pom
 org/metricshub/wmi-java/1.0.03/wmi-java-1.0.03.pom
 org/metricshub/xflat/1.0.02/xflat-1.0.02.pom
    from mvn: 6384 - non-mvn: 5676 - buildinfo: 15 - module: 3986 - gradle timestamp: 1575 - atlasdb: 0 = 0 release
+20250404
+com/github/sitture/env-config/1.14.0/env-config-1.14.0.pom
+eu/europa/ted/eforms/eforms-sdk/1.13.1/eforms-sdk-1.13.1.pom
+io/cucumber/gherkin/32.1.0/gherkin-32.1.0.pom
+org/glassfish/main/glassfish-main-aggregator/8.0.0-M11/glassfish-main-aggregator-8.0.0-M11.pom
+org/glassfish/main/nucleus-parent/8.0.0-M11/nucleus-parent-8.0.0-M11.pom
+org/jpmml/jpmml-model/1.7.3/jpmml-model-1.7.3.pom
+   from mvn: 2886 - non-mvn: 8498 - buildinfo: 0 - module: 5987 - gradle timestamp: 2013 - atlasdb: 0 = 0 release

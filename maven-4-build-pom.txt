@@ -723,3 +723,8 @@ org/apache/maven/plugin-testing/maven-plugin-testing/4.0.0-beta-4/maven-plugin-t
 20250402
 20250403
 20250404
+20250405
+com/flowlogix/base-pom/52/base-pom-52-build.pom
+com/flowlogix/checkstyle/52/checkstyle-52-build.pom
+com/flowlogix/infra-pom/52/infra-pom-52-build.pom
+com/flowlogix/payara-pom/52/payara-pom-52-build.pom
