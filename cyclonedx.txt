@@ -1240,7 +1240,9 @@ io.vertx:vertx-grpc-it
 io.vertx:vertx-grpc-parent
 io.vertx:vertx-grpc-protoc-plugin
 io.vertx:vertx-grpc-protoc-plugin2
+io.vertx:vertx-grpc-reflection
 io.vertx:vertx-grpc-server
+io.vertx:vertx-grpc-transcoding
 io.vertx:vertx-grpcio-client
 io.vertx:vertx-grpcio-common
 io.vertx:vertx-grpcio-context-storage
@@ -3735,8 +3737,10 @@ org.eclipse.angus:logging-mailhandler
 org.eclipse.angus:pop3
 org.eclipse.angus:providers
 org.eclipse.angus:smtp
+org.eclipse.ecsp:cache-enabler
 org.eclipse.ecsp:entities
 org.eclipse.ecsp:nosql-dao
+org.eclipse.ecsp:transformers
 org.eclipse.ecsp:utils
 org.eclipse.ee4j:project
 org.eclipse.jetty:jetty-home
