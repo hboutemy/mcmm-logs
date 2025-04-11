@@ -773,3 +773,11 @@ org/apache/shiro/shiro-test-coverage/2.0.3/shiro-test-coverage-2.0.3-build.pom
 org/apache/shiro/shiro-web/2.0.3/shiro-web-2.0.3-build.pom
 org/apache/shiro/tools/shiro-tools-hasher/2.0.3/shiro-tools-hasher-2.0.3-build.pom
 org/apache/shiro/tools/shiro-tools/2.0.3/shiro-tools-2.0.3-build.pom
+20250410
+eu/maveniverse/maven/njord/core/0.1.0/core-0.1.0-build.pom
+eu/maveniverse/maven/njord/extension/0.1.0/extension-0.1.0-build.pom
+eu/maveniverse/maven/njord/njord/0.1.0/njord-0.1.0-build.pom
+eu/maveniverse/maven/njord/publisher/apache/0.1.0/apache-0.1.0-build.pom
+eu/maveniverse/maven/njord/publisher/publisher/0.1.0/publisher-0.1.0-build.pom
+eu/maveniverse/maven/njord/publisher/sonatype/0.1.0/sonatype-0.1.0-build.pom
+eu/maveniverse/maven/plugins/njord/0.1.0/njord-0.1.0-build.pom

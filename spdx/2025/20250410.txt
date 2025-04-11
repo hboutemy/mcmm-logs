@@ -1,0 +1,2 @@
+io/opentelemetry/javaagent/opentelemetry-javaagent/2.15.0/opentelemetry-javaagent-2.15.0-spdx.json
+org/apache/commons/commons-text/1.13.1/commons-text-1.13.1.spdx.json
