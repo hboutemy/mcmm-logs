@@ -1,0 +1,3 @@
+commons-io/commons-io/2.19.0/commons-io-2.19.0.spdx.json
+io/github/ryunen344/webauthn/webauthn2-json-moshi/1.1.0/webauthn2-json-moshi-1.1.0.spdx.json
+io/github/ryunen344/webauthn/webauthn2-json-serialization/1.1.0/webauthn2-json-serialization-1.1.0.spdx.json

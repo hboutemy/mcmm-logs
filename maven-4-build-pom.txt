@@ -782,3 +782,4 @@ eu/maveniverse/maven/njord/publisher/publisher/0.1.0/publisher-0.1.0-build.pom
 eu/maveniverse/maven/njord/publisher/sonatype/0.1.0/sonatype-0.1.0-build.pom
 eu/maveniverse/maven/plugins/njord/0.1.0/njord-0.1.0-build.pom
 20250411
+20250412
