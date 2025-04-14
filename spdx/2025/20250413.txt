@@ -1,0 +1,2 @@
+land/oras/oras-java-sdk/0.2.4/oras-java-sdk-0.2.4.spdx.json
+org/opendaylight/odlparent/odlparent-sbom-14.0.9.spdx
