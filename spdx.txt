@@ -123,6 +123,8 @@ org.apache.openmeetings:openmeetings-parent
 org.apache.openmeetings:openmeetings-tests
 org.apache.openmeetings:openmeetings-util
 org.ikasan:commons-dbcp2
+org.jetbrains.kotlin:abi-tools
+org.jetbrains.kotlin:abi-tools-api
 org.jetbrains.kotlin:analysis-api-test-framework
 org.jetbrains.kotlin:atomicfu
 org.jetbrains.kotlin:compose-compiler-gradle-plugin
@@ -163,6 +165,8 @@ org.jetbrains.kotlin:kotlin-compose-compiler-plugin-embeddable
 org.jetbrains.kotlin:kotlin-daemon
 org.jetbrains.kotlin:kotlin-daemon-client
 org.jetbrains.kotlin:kotlin-daemon-embeddable
+org.jetbrains.kotlin:kotlin-dataframe
+org.jetbrains.kotlin:kotlin-dataframe-compiler-plugin
 org.jetbrains.kotlin:kotlin-dist-for-jps-meta
 org.jetbrains.kotlin:kotlin-dom-api-compat
 org.jetbrains.kotlin:kotlin-gradle-build-metrics

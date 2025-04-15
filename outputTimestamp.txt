@@ -14797,3 +14797,13 @@ org/jpmml/jpmml-lightgbm/1.6.1/jpmml-lightgbm-1.6.1.pom
 org/jpmml/jpmml-python/1.3.4/jpmml-python-1.3.4.pom
 org/jpmml/jpmml-statsmodels/1.3.1/jpmml-statsmodels-1.3.1.pom
    from mvn: 1221 - non-mvn: 2623 - buildinfo: 0 - module: 1658 - gradle timestamp: 408 - atlasdb: 0 = 0 release
+20250413
+com/github/hazendaz/maven/coveralls-maven-plugin/4.5.0/coveralls-maven-plugin-4.5.0.pom
+com/github/hazendaz/maven/coveralls-maven-plugin/4.6.0/coveralls-maven-plugin-4.6.0.pom
+com/github/hazendaz/maven/directory-maven-plugin/1.2.1/directory-maven-plugin-1.2.1.pom
+de/stklcode/jvault/jvault-connector/1.5.0/jvault-connector-1.5.0.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-12/spoon-pom-11.2.1-beta-12.pom
+land/oras/oras-java-sdk/0.2.4/oras-java-sdk-0.2.4.pom
+org/jpmml/jpmml-sklearn/1.9.7/jpmml-sklearn-1.9.7.pom
+org/phoebus/service-olog/5.0.4/service-olog-5.0.4.pom
+   from mvn: 976 - non-mvn: 1331 - buildinfo: 0 - module: 1488 - gradle timestamp: 301 - atlasdb: 0 = 0 release
