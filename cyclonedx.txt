@@ -635,6 +635,10 @@ com.io7m.trasco:com.io7m.trasco.api
 com.io7m.trasco:com.io7m.trasco.tests
 com.io7m.trasco:com.io7m.trasco.vanilla
 com.io7m.trasco:com.io7m.trasco.xml.schemas
+com.io7m.ventrad:com.io7m.ventrad
+com.io7m.ventrad:com.io7m.ventrad.core
+com.io7m.ventrad:com.io7m.ventrad.schema
+com.io7m.ventrad:com.io7m.ventrad.tests
 com.io7m.verdant:com.io7m.verdant
 com.io7m.verdant:com.io7m.verdant.core
 com.io7m.verdant:com.io7m.verdant.core.cb
@@ -3741,8 +3745,13 @@ org.eclipse.angus:logging-mailhandler
 org.eclipse.angus:pop3
 org.eclipse.angus:providers
 org.eclipse.angus:smtp
+org.eclipse.ecsp:api-gateway3
+org.eclipse.ecsp:api-gateway3-parent
+org.eclipse.ecsp:api-registry
+org.eclipse.ecsp:api-registry-common
 org.eclipse.ecsp:cache-enabler
 org.eclipse.ecsp:entities
+org.eclipse.ecsp:helloWorldService
 org.eclipse.ecsp:nosql-dao
 org.eclipse.ecsp:transformers
 org.eclipse.ecsp:utils
