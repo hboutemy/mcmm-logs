@@ -14840,3 +14840,11 @@ tools/jackson/jr/jackson-jr-parent/3.0.0-rc3/jackson-jr-parent-3.0.0-rc3.pom
 tools/jackson/jr/jackson-jr-retrofit2/3.0.0-rc3/jackson-jr-retrofit2-3.0.0-rc3.pom
 tools/jackson/jr/jackson-jr-stree/3.0.0-rc3/jackson-jr-stree-3.0.0-rc3.pom
    from mvn: 3374 - non-mvn: 4347 - buildinfo: 0 - module: 3751 - gradle timestamp: 1818 - atlasdb: 0 = 0 release
+20250415
+com/github/hazendaz/displaytag-doc/3.2.0/displaytag-doc-3.2.0.pom
+eu/maveniverse/maven/njord/njord/0.2.0/njord-0.2.0.pom
+io/avaje/avaje-jex-parent/3.2-RC1/avaje-jex-parent-3.2-RC1.pom
+io/streamnative/buildtools/3.3.5.4/buildtools-3.3.5.4.pom
+io/streamnative/pulsar-bom/3.3.5.4/pulsar-bom-3.3.5.4.pom
+org/webjars/flexmonster/2.9.101/flexmonster-2.9.101.pom
+   from mvn: 2483 - non-mvn: 5794 - buildinfo: 0 - module: 3109 - gradle timestamp: 1035 - atlasdb: 0 = 0 release

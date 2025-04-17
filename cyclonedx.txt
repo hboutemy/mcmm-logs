@@ -254,6 +254,9 @@ com.io7m.ethermaker:com.io7m.ethermaker.cmdline
 com.io7m.ethermaker:com.io7m.ethermaker.core
 com.io7m.ethermaker:com.io7m.ethermaker.tests
 com.io7m.flail:com.io7m.flail
+com.io7m.fsbind:com.io7m.fsbind
+com.io7m.fsbind:com.io7m.fsbind.core
+com.io7m.fsbind:com.io7m.fsbind.tests
 com.io7m.garriga:com.io7m.garriga
 com.io7m.garriga:com.io7m.garriga.main
 com.io7m.garriga:com.io7m.garriga.oci
@@ -596,6 +599,15 @@ com.io7m.seltzer:com.io7m.seltzer.io
 com.io7m.seltzer:com.io7m.seltzer.tests
 com.io7m.sigiltron:sigiltron
 com.io7m.stmp:string-template-maven-plugin
+com.io7m.stonesignal:com.io7m.stonesignal
+com.io7m.stonesignal:com.io7m.stonesignal.distribution
+com.io7m.stonesignal:com.io7m.stonesignal.documentation
+com.io7m.stonesignal:com.io7m.stonesignal.oci
+com.io7m.stonesignal:com.io7m.stonesignal.protocol.admin
+com.io7m.stonesignal:com.io7m.stonesignal.protocol.data
+com.io7m.stonesignal:com.io7m.stonesignal.protocol.device
+com.io7m.stonesignal:com.io7m.stonesignal.server
+com.io7m.stonesignal:com.io7m.stonesignal.tests
 com.io7m.streamtime:com.io7m.streamtime
 com.io7m.streamtime:com.io7m.streamtime.core
 com.io7m.streamtime:com.io7m.streamtime.tests
@@ -3745,6 +3757,8 @@ org.eclipse.angus:logging-mailhandler
 org.eclipse.angus:pop3
 org.eclipse.angus:providers
 org.eclipse.angus:smtp
+org.eclipse.ecsp:api-gateway
+org.eclipse.ecsp:api-gateway-parent
 org.eclipse.ecsp:api-gateway3
 org.eclipse.ecsp:api-gateway3-parent
 org.eclipse.ecsp:api-registry
@@ -3754,6 +3768,7 @@ org.eclipse.ecsp:entities
 org.eclipse.ecsp:helloWorldService
 org.eclipse.ecsp:nosql-dao
 org.eclipse.ecsp:transformers
+org.eclipse.ecsp:uidam-user-management
 org.eclipse.ecsp:utils
 org.eclipse.ee4j:project
 org.eclipse.jetty:jetty-home
