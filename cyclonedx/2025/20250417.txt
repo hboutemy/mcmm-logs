@@ -1,0 +1,3 @@
+org/apache/camel/kafkaconnector/camel-kafka-connector-aggregator/4.11.0/camel-kafka-connector-aggregator-4.11.0-cyclonedx.json
+org/apache/camel/kafkaconnector/camel-kafka-connector-aggregator/4.11.0/camel-kafka-connector-aggregator-4.11.0-cyclonedx.xml
+org/eclipse/ecsp/helloWorldService/0.0.11/helloWorldService-0.0.11-cyclonedx.json

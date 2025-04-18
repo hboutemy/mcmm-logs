@@ -14848,3 +14848,14 @@ io/streamnative/buildtools/3.3.5.4/buildtools-3.3.5.4.pom
 io/streamnative/pulsar-bom/3.3.5.4/pulsar-bom-3.3.5.4.pom
 org/webjars/flexmonster/2.9.101/flexmonster-2.9.101.pom
    from mvn: 2483 - non-mvn: 5794 - buildinfo: 0 - module: 3109 - gradle timestamp: 1035 - atlasdb: 0 = 0 release
+20250416
+com/github/hazendaz/displaytag-doc/2.7.0/displaytag-doc-2.7.0.pom
+eu/maveniverse/maven/nisse/nisse/0.4.2/nisse-0.4.2.pom
+io/avaje/avaje-inject-parent/11.5-RC3/avaje-inject-parent-11.5-RC3.pom
+io/avaje/avaje-jsonb-parent/3.3/avaje-jsonb-parent-3.3.pom
+io/quarkus/quarkus-parent/3.21.3/quarkus-parent-3.21.3.pom
+io/quarkus/quarkus-parent/3.22.0.CR1/quarkus-parent-3.22.0.CR1.pom
+io/streamnative/buildtools/4.0.4.1/buildtools-4.0.4.1.pom
+io/streamnative/pulsar-bom/4.0.4.1/pulsar-bom-4.0.4.1.pom
+org/apache/commons/commons-jexl3/3.5.0/commons-jexl3-3.5.0.pom
+   from mvn: 3730 - non-mvn: 5021 - buildinfo: 0 - module: 3224 - gradle timestamp: 1538 - atlasdb: 0 = 0 release
