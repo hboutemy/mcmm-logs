@@ -587,6 +587,7 @@ com.io7m.quixote:com.io7m.quixote.main
 com.io7m.quixote:com.io7m.quixote.oci
 com.io7m.quixote:com.io7m.quixote.tests
 com.io7m.quixote:com.io7m.quixote.xml
+com.io7m.repackage.io.whitfin:io.whitfin.siphash
 com.io7m.repetoir:com.io7m.repetoir
 com.io7m.repetoir:com.io7m.repetoir.core
 com.io7m.repetoir:com.io7m.repetoir.tests

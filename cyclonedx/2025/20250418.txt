@@ -1,0 +1,3 @@
+com/io7m/repackage/io/whitfin/io.whitfin.siphash/2.0.1/io.whitfin.siphash-2.0.1-cyclonedx.xml
+org/glassfish/build/glassfishbuild-maven-plugin/4.1.0/glassfishbuild-maven-plugin-4.1.0-cyclonedx.json
+org/glassfish/build/glassfishbuild-maven-plugin/4.1.0/glassfishbuild-maven-plugin-4.1.0-cyclonedx.xml
