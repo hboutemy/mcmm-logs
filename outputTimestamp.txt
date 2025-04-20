@@ -14866,3 +14866,9 @@ io/streamnative/buildtools/3.0.10.3/buildtools-3.0.10.3.pom
 land/oras/oras-java-sdk/0.2.5/oras-java-sdk-0.2.5.pom
 org/apache/paimon/paimon-parent/1.1.0/paimon-parent-1.1.0.pom
    from mvn: 2447 - non-mvn: 1950 - buildinfo: 0 - module: 1378 - gradle timestamp: 522 - atlasdb: 0 = 0 release
+20250418
+io/airlift/airbase-policy/253/airbase-policy-253.pom
+io/airlift/airbase/253/airbase-253.pom
+io/yupiik/maven/yupiik-tools-maven-plugin-parent/1.2.6/yupiik-tools-maven-plugin-parent-1.2.6.pom
+org/glassfish/build/glassfishbuild-maven-plugin/4.1.0/glassfishbuild-maven-plugin-4.1.0.pom
+   from mvn: 752 - non-mvn: 1832 - buildinfo: 0 - module: 1155 - gradle timestamp: 1020 - atlasdb: 0 = 0 release
