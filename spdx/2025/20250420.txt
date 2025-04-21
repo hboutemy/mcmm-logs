@@ -1,0 +1,2 @@
+land/oras/oras-java-sdk/0.2.6/oras-java-sdk-0.2.6.spdx.json
+org/spdx/licenseListPublisher/3.1.0/licenseListPublisher-3.1.0.spdx.json

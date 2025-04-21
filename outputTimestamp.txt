@@ -14872,3 +14872,16 @@ io/airlift/airbase/253/airbase-253.pom
 io/yupiik/maven/yupiik-tools-maven-plugin-parent/1.2.6/yupiik-tools-maven-plugin-parent-1.2.6.pom
 org/glassfish/build/glassfishbuild-maven-plugin/4.1.0/glassfishbuild-maven-plugin-4.1.0.pom
    from mvn: 752 - non-mvn: 1832 - buildinfo: 0 - module: 1155 - gradle timestamp: 1020 - atlasdb: 0 = 0 release
+20250419
+com/github/hazendaz/htmlcompressor/1.10.0/htmlcompressor-1.10.0.pom
+com/github/hazendaz/htmlcompressor/1.11.0/htmlcompressor-1.11.0.pom
+com/github/hazendaz/htmlcompressor/2.1.0/htmlcompressor-2.1.0.pom
+com/github/hazendaz/htmlcompressor/2.2.0/htmlcompressor-2.2.0.pom
+com/github/hazendaz/maven/coveralls-maven-plugin/4.7.0/coveralls-maven-plugin-4.7.0.pom
+de/stklcode/pubtrans/juraclient/2.0.9/juraclient-2.0.9.pom
+io/cucumber/html-formatter/21.10.1/html-formatter-21.10.1.pom
+io/liftwizard/liftwizard-minimal-parent/2.1.28/liftwizard-minimal-parent-2.1.28.pom
+org/apache/opendal/opendal/0.47.11/opendal-0.47.11.pom
+org/spdx/java-spdx-library/2.0.0/java-spdx-library-2.0.0.pom
+org/spdx/spdx-maven-plugin/1.0.0/spdx-maven-plugin-1.0.0.pom
+   from mvn: 851 - non-mvn: 2678 - buildinfo: 0 - module: 1151 - gradle timestamp: 318 - atlasdb: 0 = 0 release

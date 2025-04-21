@@ -1252,6 +1252,9 @@ io.vertx:vertx-docgen-api
 io.vertx:vertx-docgen-parent
 io.vertx:vertx-docgen-processor
 io.vertx:vertx-dropwizard-metrics
+io.vertx:vertx-ext
+io.vertx:vertx-ext-parent
+io.vertx:vertx-ext-resources
 io.vertx:vertx-grpc
 io.vertx:vertx-grpc-aggregator
 io.vertx:vertx-grpc-client
@@ -1304,6 +1307,7 @@ io.vertx:vertx-openapi
 io.vertx:vertx-opentelemetry
 io.vertx:vertx-opentracing
 io.vertx:vertx-oracle-client
+io.vertx:vertx-parent
 io.vertx:vertx-pg-client
 io.vertx:vertx-proton
 io.vertx:vertx-proton-aggregator
