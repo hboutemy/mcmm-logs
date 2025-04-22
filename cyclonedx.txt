@@ -3773,8 +3773,10 @@ org.eclipse.ecsp:entities
 org.eclipse.ecsp:helloWorldService
 org.eclipse.ecsp:nosql-dao
 org.eclipse.ecsp:transformers
+org.eclipse.ecsp:uidam-authorization-server
 org.eclipse.ecsp:uidam-user-management
 org.eclipse.ecsp:utils
+org.eclipse.ecsp:vehicleconnectsdk
 org.eclipse.ee4j:project
 org.eclipse.jetty:jetty-home
 org.eclipse.lyo.clients:clients-parent

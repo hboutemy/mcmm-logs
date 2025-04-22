@@ -14885,3 +14885,21 @@ org/apache/opendal/opendal/0.47.11/opendal-0.47.11.pom
 org/spdx/java-spdx-library/2.0.0/java-spdx-library-2.0.0.pom
 org/spdx/spdx-maven-plugin/1.0.0/spdx-maven-plugin-1.0.0.pom
    from mvn: 851 - non-mvn: 2678 - buildinfo: 0 - module: 1151 - gradle timestamp: 318 - atlasdb: 0 = 0 release
+20250420
+com/github/hazendaz/maven/htmlcompressor-maven-plugin/1.10.2/htmlcompressor-maven-plugin-1.10.2.pom
+com/github/hazendaz/maven/htmlcompressor-maven-plugin/1.11.0/htmlcompressor-maven-plugin-1.11.0.pom
+com/github/hazendaz/maven/htmlcompressor-maven-plugin/2.1.1/htmlcompressor-maven-plugin-2.1.1.pom
+com/github/hazendaz/maven/htmlcompressor-maven-plugin/2.2.0/htmlcompressor-maven-plugin-2.2.0.pom
+eu/maveniverse/maven/bom-builder/bom-builder/1.0.4/bom-builder-1.0.4.pom
+eu/maveniverse/maven/mima/mima/2.4.24/mima-2.4.24.pom
+eu/maveniverse/maven/mimir/mimir/0.5.0/mimir-0.5.0.pom
+eu/maveniverse/maven/nisse/nisse/0.4.3/nisse-0.4.3.pom
+eu/maveniverse/maven/parent/parent/27/parent-27.pom
+eu/maveniverse/maven/parent/parent/28/parent-28.pom
+eu/maveniverse/maven/toolbox/toolbox/0.7.3/toolbox-0.7.3.pom
+eu/maveniverse/maven/zippy/zippy/0.1.1/zippy-0.1.1.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-13/spoon-pom-11.2.1-beta-13.pom
+land/oras/oras-java-sdk/0.2.6/oras-java-sdk-0.2.6.pom
+org/apache/shiro/shiro-root/2.0.4/shiro-root-2.0.4.pom
+org/apache/shiro/shiro-root/2.0.4/shiro-root-2.0.4-build.pom
+   from mvn: 847 - non-mvn: 822 - buildinfo: 0 - module: 882 - gradle timestamp: 275 - atlasdb: 0 = 0 release
