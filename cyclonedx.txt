@@ -12,6 +12,7 @@ com.buschmais.jqassistant.plugin:xml
 com.buschmais.jqassistant.plugin:yaml2
 com.duosecurity:duo-client
 com.duosecurity:duo-universal-sdk
+com.fasterxml.jackson.core:jackson-core
 com.fasterxml.jackson.module:jackson-module-scala_2.11
 com.fasterxml.jackson.module:jackson-module-scala_2.12
 com.fasterxml.jackson.module:jackson-module-scala_2.13
@@ -880,6 +881,7 @@ dev.openfeature.contrib.providers:multiprovider
 dev.openfeature.contrib.providers:statsig
 dev.openfeature.contrib.providers:unleash
 dev.openfeature.contrib.tools:junitopenfeature
+dev.openfeature.contrib:parent
 dev.openfeature:sdk
 dev.samsanders.openvex:jvex
 dev.vality:kotlin-service-parent-pom

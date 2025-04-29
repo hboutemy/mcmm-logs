@@ -1,0 +1,11 @@
+com/fasterxml/jackson/core/jackson-core/2.19.0/jackson-core-2.19.0-cyclonedx.xml
+com/fasterxml/jackson/core/jackson-core/2.19.0/jackson-core-2.19.0-cyclonedx.json
+com/open-elements/solidity/solidity-enterprise/0.3.0/solidity-enterprise-0.3.0-cyclonedx.xml
+com/open-elements/solidity/solidity-enterprise/0.3.0/solidity-enterprise-0.3.0-cyclonedx.json
+dev/openfeature/contrib/parent/0.2.0/parent-0.2.0-cyclonedx.xml
+dev/openfeature/contrib/parent/0.2.0/parent-0.2.0-cyclonedx.json
+dev/openfeature/contrib/parent/0.2.1/parent-0.2.1-cyclonedx.xml
+dev/openfeature/contrib/parent/0.2.1/parent-0.2.1-cyclonedx.json
+dev/openfeature/contrib/parent/0.2.2/parent-0.2.2-cyclonedx.xml
+dev/openfeature/contrib/parent/0.2.2/parent-0.2.2-cyclonedx.json
+org/eclipse/ecsp/vehicleconnectsdk/1.1.2/vehicleconnectsdk-1.1.2-cyclonedx.xml
