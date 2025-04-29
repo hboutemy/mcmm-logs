@@ -1,0 +1,2 @@
+land/oras/oras-java-sdk/0.2.9/oras-java-sdk-0.2.9.spdx.json
+org/apache/commons/commons-parent/82/commons-parent-82.spdx.json

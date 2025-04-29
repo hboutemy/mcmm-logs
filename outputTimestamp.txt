@@ -14935,3 +14935,29 @@ org/apache/sling/org.apache.sling.testing.paxexam/4.1.2/org.apache.sling.testing
 org/glassfish/main/glassfish-main-aggregator/7.0.24/glassfish-main-aggregator-7.0.24.pom
 org/glassfish/main/nucleus-parent/7.0.24/nucleus-parent-7.0.24.pom
    from mvn: 6795 - non-mvn: 4881 - buildinfo: 0 - module: 3340 - gradle timestamp: 1388 - atlasdb: 0 = 0 release
+20250424
+com/fasterxml/jackson/core/jackson-annotations/2.19.0/jackson-annotations-2.19.0.pom
+com/fasterxml/jackson/core/jackson-core/2.19.0/jackson-core-2.19.0.pom
+com/fasterxml/jackson/core/jackson-databind/2.19.0/jackson-databind-2.19.0.pom
+com/fasterxml/jackson/jackson-base/2.19.0/jackson-base-2.19.0.pom
+com/fasterxml/jackson/jackson-bom/2.19.0/jackson-bom-2.19.0.pom
+com/fasterxml/jackson/jackson-parent/2.19/jackson-parent-2.19.pom
+com/fasterxml/jackson/jr/jackson-jr-all/2.19.0/jackson-jr-all-2.19.0.pom
+com/fasterxml/jackson/jr/jackson-jr-annotation-support/2.19.0/jackson-jr-annotation-support-2.19.0.pom
+com/fasterxml/jackson/jr/jackson-jr-extension-javatime/2.19.0/jackson-jr-extension-javatime-2.19.0.pom
+com/fasterxml/jackson/jr/jackson-jr-objects/2.19.0/jackson-jr-objects-2.19.0.pom
+com/fasterxml/jackson/jr/jackson-jr-parent/2.19.0/jackson-jr-parent-2.19.0.pom
+com/fasterxml/jackson/jr/jackson-jr-retrofit2/2.19.0/jackson-jr-retrofit2-2.19.0.pom
+com/fasterxml/jackson/jr/jackson-jr-stree/2.19.0/jackson-jr-stree-2.19.0.pom
+com/google/code/gson/gson-parent/2.13.1/gson-parent-2.13.1.pom
+com/google/code/gson/gson/2.13.1/gson-2.13.1.pom
+io/cucumber/cucumber-jvm/7.22.1/cucumber-jvm-7.22.1.pom
+io/cucumber/cucumber-parent/4.3.5/cucumber-parent-4.3.5.pom
+io/cucumber/cucumber-parent/4.3.7/cucumber-parent-4.3.7.pom
+io/liftwizard/liftwizard-minimal-parent/2.1.29/liftwizard-minimal-parent-2.1.29.pom
+io/streamnative/buildtools/3.3.5.5/buildtools-3.3.5.5.pom
+io/streamnative/pulsar-bom/3.3.5.5/pulsar-bom-3.3.5.5.pom
+io/trino/trino-root/475/trino-root-475.pom
+net/osslabz/electrum-client/0.2.16/electrum-client-0.2.16.pom
+org/finos/legend/engine/legend-engine/4.78.6/legend-engine-4.78.6.pom
+   from mvn: 5356 - non-mvn: 5710 - buildinfo: 1 - module: 4192 - gradle timestamp: 1681 - atlasdb: 0 = 0 release
