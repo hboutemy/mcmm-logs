@@ -2753,6 +2753,7 @@ org.apache.hop:hop-transform-metastructure
 org.apache.hop:hop-transform-monetdbbulkloader
 org.apache.hop:hop-transform-mongodb
 org.apache.hop:hop-transform-multimerge
+org.apache.hop:hop-transform-mysqlbulkloader
 org.apache.hop:hop-transform-normaliser
 org.apache.hop:hop-transform-nullif
 org.apache.hop:hop-transform-numberrange
