@@ -5556,6 +5556,7 @@ org.fugerit.java -> native-helper:native-helper-maven-plugin = "native-helper-ma
 org.fugerit.java -> query-export:query-export-maven-plugin = "query-export-maven-plugin"
 org.fugerit.java -> yaml-doc:yaml-doc-maven-plugin = "yaml-doc-maven-plugin"
 org.fugerit.java.mvn -> fj-daogen:fj-daogen-maven-plugin = "Maven plugin for DaoGen framework"
+org.fuin -> artifact-versions:artifact-versions-maven-plugin = 
 org.fuin.esmp -> es:es-maven-plugin = "es-maven-plugin"
 org.fuin.jpmsr -> jpms-readiness:jpms-readiness-maven-plugin = 
 org.fuin.marchetyper -> marchetyper:marchetyper-maven-plugin = 

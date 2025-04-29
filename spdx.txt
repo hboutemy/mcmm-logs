@@ -28,6 +28,7 @@ io.github.microcks:microcks-async-minion
 io.github.microcks:microcks-distro
 io.github.microcks:microcks-el
 io.github.microcks:microcks-java-client
+io.github.microcks:microcks-jenkins-plugin
 io.github.microcks:microcks-kube-api
 io.github.microcks:microcks-kube-operator
 io.github.microcks:microcks-model

@@ -14988,3 +14988,12 @@ com/github/hazendaz/jmockit/jmockit-parent/1.56.0/jmockit-parent-1.56.0.pom
 com/io7m/primogenitor/com.io7m.primogenitor/8.5.0/com.io7m.primogenitor-8.5.0.pom
 org/openapitools/openapidiff/openapi-diff-parent/2.1.0/openapi-diff-parent-2.1.0.pom
    from mvn: 1012 - non-mvn: 2203 - buildinfo: 0 - module: 1037 - gradle timestamp: 211 - atlasdb: 0 = 0 release
+20250427
+com/github/hazendaz/maven/makeself-maven-plugin/1.9.1/makeself-maven-plugin-1.9.1.pom
+cool/klass/klass/0.5.0/klass-0.5.0.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-14/spoon-pom-11.2.1-beta-14.pom
+io/avaje/avaje-http-parent/3.3-RC1/avaje-http-parent-3.3-RC1.pom
+land/oras/oras-java-sdk/0.2.10/oras-java-sdk-0.2.10.pom
+org/apache/jena/jena/5.4.0/jena-5.4.0.pom
+org/jdbi/internal/jdbi3-root/3.49.2/jdbi3-root-3.49.2.pom
+   from mvn: 1663 - non-mvn: 1215 - buildinfo: 0 - module: 1243 - gradle timestamp: 289 - atlasdb: 0 = 0 release
