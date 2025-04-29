@@ -14961,3 +14961,24 @@ io/trino/trino-root/475/trino-root-475.pom
 net/osslabz/electrum-client/0.2.16/electrum-client-0.2.16.pom
 org/finos/legend/engine/legend-engine/4.78.6/legend-engine-4.78.6.pom
    from mvn: 5356 - non-mvn: 5710 - buildinfo: 1 - module: 4192 - gradle timestamp: 1681 - atlasdb: 0 = 0 release
+20250425
+com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.19.0/jackson-dataformat-xml-2.19.0.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-binary/2.19.0/jackson-dataformats-binary-2.19.0.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.19.0/jackson-dataformats-text-2.19.0.pom
+com/fasterxml/jackson/datatype/jackson-datatype-joda/2.19.0/jackson-datatype-joda-2.19.0.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-collections/2.19.0/jackson-datatypes-collections-2.19.0.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/2.19.0/jackson-datatypes-misc-parent-2.19.0.pom
+com/github/hazendaz/git/github-desktop/3.4.19/github-desktop-3.4.19.pom
+eu/europa/ec/joinup/sat/jdplus-benchmarking-bom/2.0.0/jdplus-benchmarking-bom-2.0.0.pom
+eu/europa/ec/joinup/sat/jdplus-benchmarking/2.0.0/jdplus-benchmarking-2.0.0.pom
+fr/jcgay/maven/maven-profiler/3.3/maven-profiler-3.3.pom
+io/airlift/airbase-policy/254/airbase-policy-254.pom
+io/airlift/airbase/254/airbase-254.pom
+io/github/chains-project/maven-lockfile-parent/5.5.1/maven-lockfile-parent-5.5.1.pom
+land/oras/oras-java-sdk/0.2.9/oras-java-sdk-0.2.9.pom
+net/sourceforge/pmd/pmd/7.13.0/pmd-7.13.0.pom
+org/apache/commons/commons-parent/82/commons-parent-82.pom
+org/apache/wicket/wicket-parent/10.5.0/wicket-parent-10.5.0.pom
+org/finos/legend/engine/legend-engine/4.81.0/legend-engine-4.81.0.pom
+org/jpmml/jpmml-transpiler/1.4.2/jpmml-transpiler-1.4.2.pom
+   from mvn: 5018 - non-mvn: 5755 - buildinfo: 4 - module: 3336 - gradle timestamp: 1250 - atlasdb: 0 = 0 release
