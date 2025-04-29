@@ -1260,6 +1260,7 @@ io.vertx:vertx-grpc-aggregator
 io.vertx:vertx-grpc-client
 io.vertx:vertx-grpc-common
 io.vertx:vertx-grpc-docs
+io.vertx:vertx-grpc-health
 io.vertx:vertx-grpc-it
 io.vertx:vertx-grpc-parent
 io.vertx:vertx-grpc-protoc-plugin
