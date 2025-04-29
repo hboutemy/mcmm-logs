@@ -2869,6 +2869,7 @@ org.apache.jena:jena-geosparql
 org.apache.jena:jena-integration-tests
 org.apache.jena:jena-iri
 org.apache.jena:jena-iri3986
+org.apache.jena:jena-langtag
 org.apache.jena:jena-ontapi
 org.apache.jena:jena-permissions
 org.apache.jena:jena-querybuilder
