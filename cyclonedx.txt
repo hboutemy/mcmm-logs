@@ -3847,6 +3847,7 @@ org.eclipse.ecsp:api-gateway3-parent
 org.eclipse.ecsp:api-registry
 org.eclipse.ecsp:api-registry-common
 org.eclipse.ecsp:cache-enabler
+org.eclipse.ecsp:device-common
 org.eclipse.ecsp:entities
 org.eclipse.ecsp:helloWorldService
 org.eclipse.ecsp:nosql-dao
