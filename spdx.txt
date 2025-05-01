@@ -193,6 +193,7 @@ org.jetbrains.kotlin:kotlin-maven-plugin
 org.jetbrains.kotlin:kotlin-maven-power-assert
 org.jetbrains.kotlin:kotlin-maven-sam-with-receiver
 org.jetbrains.kotlin:kotlin-maven-serialization
+org.jetbrains.kotlin:kotlin-maven-serialization-for-jps-avoid-using-this
 org.jetbrains.kotlin:kotlin-metadata-jvm
 org.jetbrains.kotlin:kotlin-native
 org.jetbrains.kotlin:kotlin-native-compiler-embeddable

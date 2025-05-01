@@ -210,6 +210,7 @@ com.io7m.certusine:com.io7m.certusine.cmdline
 com.io7m.certusine:com.io7m.certusine.documentation
 com.io7m.certusine:com.io7m.certusine.gandi
 com.io7m.certusine:com.io7m.certusine.grafana
+com.io7m.certusine:com.io7m.certusine.hetzner
 com.io7m.certusine:com.io7m.certusine.looseleaf
 com.io7m.certusine:com.io7m.certusine.oci
 com.io7m.certusine:com.io7m.certusine.tests
@@ -5074,6 +5075,7 @@ org.jreleaser:jreleaser-disco-java-sdk
 org.jreleaser:jreleaser-discord-java-sdk
 org.jreleaser:jreleaser-discourse-java-sdk
 org.jreleaser:jreleaser-engine
+org.jreleaser:jreleaser-forgejo-java-sdk
 org.jreleaser:jreleaser-ftp-java-sdk
 org.jreleaser:jreleaser-genericgit-java-sdk
 org.jreleaser:jreleaser-git-java-sdk
@@ -5094,6 +5096,7 @@ org.jreleaser:jreleaser-mavencentral-java-sdk
 org.jreleaser:jreleaser-model-api
 org.jreleaser:jreleaser-model-impl
 org.jreleaser:jreleaser-nexus2-java-sdk
+org.jreleaser:jreleaser-nexus3-java-sdk
 org.jreleaser:jreleaser-opencollective-java-sdk
 org.jreleaser:jreleaser-resource-bundle
 org.jreleaser:jreleaser-s3-java-sdk
