@@ -15038,3 +15038,21 @@ org/finos/legend/engine/legend-engine/4.83.3/legend-engine-4.83.3.pom
 org/fusesource/jansi/jansi/2.4.2/jansi-2.4.2.pom
 org/jpmml/jpmml-r/1.7.2/jpmml-r-1.7.2.pom
    from mvn: 6002 - non-mvn: 4812 - buildinfo: 36 - module: 3895 - gradle timestamp: 1492 - atlasdb: 0 = 0 release
+20250430
+com/sap/ai/sdk/sdk-parent/1.7.0/sdk-parent-1.7.0.pom
+de/cuioss/cui-java-parent/0.9.9.3/cui-java-parent-0.9.9.3.pom
+de/cuioss/cui-parent-pom/0.9.9.3/cui-parent-pom-0.9.9.3.pom
+io/fabric8/kubernetes-client-project/7.2.0/kubernetes-client-project-7.2.0.pom
+io/github/cbarlin/aru-parent/0.1.1/aru-parent-0.1.1.pom
+io/github/cbarlin/aru-parent/0.1.2/aru-parent-0.1.2.pom
+io/quarkus/quarkus-parent/3.22.1/quarkus-parent-3.22.1.pom
+nl/basjes/modbus/devices/modbus-device-schemas-parent/0.1.0/modbus-device-schemas-parent-0.1.0.pom
+nl/basjes/modbus/devices/modbus-devices-parent/0.1.1/modbus-devices-parent-0.1.1.pom
+nl/basjes/modbus/modbus-schema-parent/0.1.0/modbus-schema-parent-0.1.0.pom
+nl/basjes/modbus/modbus-schema-parent/0.1.1/modbus-schema-parent-0.1.1.pom
+nl/basjes/sunspec/sunspec-device-parent/0.1.0/sunspec-device-parent-0.1.0.pom
+nl/basjes/sunspec/sunspec-device-parent/0.1.1/sunspec-device-parent-0.1.1.pom
+org/apache/camel/camel/4.10.4/camel-4.10.4.pom
+org/apache/commons/commons-imaging/1.0.0-alpha6/commons-imaging-1.0.0-alpha6.pom
+org/apache/commons/commons-parent/83/commons-parent-83.pom
+   from mvn: 5510 - non-mvn: 3791 - buildinfo: 6 - module: 3559 - gradle timestamp: 1715 - atlasdb: 0 = 0 release
