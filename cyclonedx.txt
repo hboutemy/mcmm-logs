@@ -3841,6 +3841,7 @@ org.eclipse.angus:logging-mailhandler
 org.eclipse.angus:pop3
 org.eclipse.angus:providers
 org.eclipse.angus:smtp
+org.eclipse.ecsp:api-common
 org.eclipse.ecsp:api-gateway
 org.eclipse.ecsp:api-gateway-parent
 org.eclipse.ecsp:api-gateway3
@@ -3849,9 +3850,13 @@ org.eclipse.ecsp:api-registry
 org.eclipse.ecsp:api-registry-common
 org.eclipse.ecsp:cache-enabler
 org.eclipse.ecsp:device-common
+org.eclipse.ecsp:device-factory-management
+org.eclipse.ecsp:device-factory-management-api
+org.eclipse.ecsp:device-factory-management-common
 org.eclipse.ecsp:entities
 org.eclipse.ecsp:helloWorldService
 org.eclipse.ecsp:nosql-dao
+org.eclipse.ecsp:services-common
 org.eclipse.ecsp:services-dependencies
 org.eclipse.ecsp:transformers
 org.eclipse.ecsp:uidam-authorization-server
