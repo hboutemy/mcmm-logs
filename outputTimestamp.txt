@@ -15064,3 +15064,13 @@ org/jdbi/internal/jdbi3-root/3.49.3/jdbi3-root-3.49.3.pom
 org/mybatis/mybatis-parent/49/mybatis-parent-49.pom
 org/spdx/spdx-maven-plugin/1.0.2/spdx-maven-plugin-1.0.2.pom
    from mvn: 4575 - non-mvn: 3477 - buildinfo: 0 - module: 2877 - gradle timestamp: 1742 - atlasdb: 0 = 0 release
+20250502
+de/cuioss/cui-java-parent/0.9.9.4/cui-java-parent-0.9.9.4.pom
+de/cuioss/cui-parent-pom/0.9.9.4/cui-parent-pom-0.9.9.4.pom
+dev/langchain4j/langchain4j-parent/1.0.0-beta4/langchain4j-parent-1.0.0-beta4.pom
+io/airlift/airbase-policy/257/airbase-policy-257.pom
+io/airlift/airbase/257/airbase-257.pom
+org/apache/ratis/ratis-thirdparty/1.0.9/ratis-thirdparty-1.0.9.pom
+org/eclipse/jetty/jetty-project/12.0.20/jetty-project-12.0.20.pom
+org/finos/legend/engine/legend-engine/4.82.1/legend-engine-4.82.1.pom
+   from mvn: 3773 - non-mvn: 4589 - buildinfo: 0 - module: 3351 - gradle timestamp: 1577 - atlasdb: 0 = 0 release
