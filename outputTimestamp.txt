@@ -15074,3 +15074,11 @@ org/apache/ratis/ratis-thirdparty/1.0.9/ratis-thirdparty-1.0.9.pom
 org/eclipse/jetty/jetty-project/12.0.20/jetty-project-12.0.20.pom
 org/finos/legend/engine/legend-engine/4.82.1/legend-engine-4.82.1.pom
    from mvn: 3773 - non-mvn: 4589 - buildinfo: 0 - module: 3351 - gradle timestamp: 1577 - atlasdb: 0 = 0 release
+20250503
+com/github/hazendaz/smartsprites/0.4.0/smartsprites-0.4.0.pom
+de/cuioss/cui-java-parent/0.9.9.5/cui-java-parent-0.9.9.5.pom
+de/cuioss/cui-parent-pom/0.9.9.5/cui-parent-pom-0.9.9.5.pom
+io/github/cbarlin/aru-parent/0.1.4/aru-parent-0.1.4.pom
+nl/basjes/parse/useragent/yauaa-parent/7.31.0/yauaa-parent-7.31.0.pom
+nl/basjes/parse/useragent/yauaa/7.31.0/yauaa-7.31.0.pom
+   from mvn: 1332 - non-mvn: 1145 - buildinfo: 0 - module: 770 - gradle timestamp: 238 - atlasdb: 0 = 0 release

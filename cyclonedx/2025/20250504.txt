@@ -1,0 +1,12 @@
+com/github/hazendaz/maven/smartsprites-maven-plugin/2.4.0/smartsprites-maven-plugin-2.4.0-cyclonedx.json
+com/github/hazendaz/maven/smartsprites-maven-plugin/2.4.0/smartsprites-maven-plugin-2.4.0-cyclonedx.xml
+com/io7m/jbssio/com.io7m.jbssio.api/3.0.0/com.io7m.jbssio.api-3.0.0-cyclonedx.xml
+com/io7m/jbssio/com.io7m.jbssio.bom/3.0.0/com.io7m.jbssio.bom-3.0.0-cyclonedx.xml
+com/io7m/jbssio/com.io7m.jbssio.ext.bounded/3.0.0/com.io7m.jbssio.ext.bounded-3.0.0-cyclonedx.xml
+com/io7m/jbssio/com.io7m.jbssio.tests/3.0.0/com.io7m.jbssio.tests-3.0.0-cyclonedx.xml
+com/io7m/jbssio/com.io7m.jbssio.vanilla/3.0.0/com.io7m.jbssio.vanilla-3.0.0-cyclonedx.xml
+com/io7m/jbssio/com.io7m.jbssio/3.0.0/com.io7m.jbssio-3.0.0-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-15/spoon-pom-11.2.1-beta-15-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-15/spoon-pom-11.2.1-beta-15-cyclonedx.json
+org/apache/camel/quarkus/camel-quarkus/3.20.1/camel-quarkus-3.20.1-cyclonedx.xml
+org/apache/camel/quarkus/camel-quarkus/3.20.1/camel-quarkus-3.20.1-cyclonedx.json

@@ -352,6 +352,7 @@ com.io7m.jattribute:com.io7m.jattribute.core
 com.io7m.jattribute:com.io7m.jattribute.tests
 com.io7m.jbssio:com.io7m.jbssio
 com.io7m.jbssio:com.io7m.jbssio.api
+com.io7m.jbssio:com.io7m.jbssio.bom
 com.io7m.jbssio:com.io7m.jbssio.ext.bounded
 com.io7m.jbssio:com.io7m.jbssio.tests
 com.io7m.jbssio:com.io7m.jbssio.vanilla
