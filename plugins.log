@@ -2497,6 +2497,7 @@ com.vip.saturn -> saturn:saturn-plugin = "${project.artifactId}"
 com.vladsch.flexmark -> markdown-page-generator:markdown-page-generator-plugin = "Markdown Page Generator Maven Plugin"
 com.vlkan -> quasar:quasar-maven-plugin = "Quasar Maven Plugin"
 com.vmlens -> interleave:interleave = "interleave"
+com.vmlens -> vmlens:vmlens-maven-plugin = "vmlens-maven-plugin Maven Plugin"
 com.vmware.pscoe.maven.plugins -> abx-package:abx-package-maven-plugin = 
 com.vmware.pscoe.maven.plugins -> bsc-package:bsc-package-maven-plugin = 
 com.vmware.pscoe.maven.plugins -> cs-package:cs-package-maven-plugin = 

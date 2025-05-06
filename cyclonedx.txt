@@ -3851,7 +3851,11 @@ org.eclipse.ecsp:api-gateway3
 org.eclipse.ecsp:api-gateway3-parent
 org.eclipse.ecsp:api-registry
 org.eclipse.ecsp:api-registry-common
+org.eclipse.ecsp:association-api
+org.eclipse.ecsp:association-common
 org.eclipse.ecsp:cache-enabler
+org.eclipse.ecsp:device-activation
+org.eclipse.ecsp:device-association
 org.eclipse.ecsp:device-common
 org.eclipse.ecsp:device-factory-management
 org.eclipse.ecsp:device-factory-management-api

@@ -15082,3 +15082,7 @@ io/github/cbarlin/aru-parent/0.1.4/aru-parent-0.1.4.pom
 nl/basjes/parse/useragent/yauaa-parent/7.31.0/yauaa-parent-7.31.0.pom
 nl/basjes/parse/useragent/yauaa/7.31.0/yauaa-7.31.0.pom
    from mvn: 1332 - non-mvn: 1145 - buildinfo: 0 - module: 770 - gradle timestamp: 238 - atlasdb: 0 = 0 release
+20250504
+com/github/hazendaz/maven/smartsprites-maven-plugin/2.4.0/smartsprites-maven-plugin-2.4.0.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-15/spoon-pom-11.2.1-beta-15.pom
+   from mvn: 1613 - non-mvn: 5298 - buildinfo: 0 - module: 5746 - gradle timestamp: 887 - atlasdb: 0 = 0 release
