@@ -15086,3 +15086,16 @@ nl/basjes/parse/useragent/yauaa/7.31.0/yauaa-7.31.0.pom
 com/github/hazendaz/maven/smartsprites-maven-plugin/2.4.0/smartsprites-maven-plugin-2.4.0.pom
 fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-15/spoon-pom-11.2.1-beta-15.pom
    from mvn: 1613 - non-mvn: 5298 - buildinfo: 0 - module: 5746 - gradle timestamp: 887 - atlasdb: 0 = 0 release
+20250505
+com/github/hazendaz/javabean-tester/2.9.0/javabean-tester-2.9.0.pom
+com/github/hazendaz/maven/yuicompressor-maven-plugin/2.2.0/yuicompressor-maven-plugin-2.2.0.pom
+com/github/tomcat-slf4j-logback/tomcat-slf4j-logback-parent/1.7.2/tomcat-slf4j-logback-parent-1.7.2.pom
+com/spotify/fmt/fmt-maven-plugin/2.27/fmt-maven-plugin-2.27.pom
+io/jooby/jooby-project/3.8.0/jooby-project-3.8.0.pom
+org/apache/sling/org.apache.sling.engine/2.16.2/org.apache.sling.engine-2.16.2.pom
+org/apache/tika/tika-parent/2.9.4/tika-parent-2.9.4.pom
+org/infinispan/protostream/parent/6.0.0.Dev08/parent-6.0.0.Dev08.pom
+org/jpmml/jpmml-parent/1.0.4/jpmml-parent-1.0.4.pom
+org/metricshub/wmi-java/1.0.04/wmi-java-1.0.04.pom
+org/metricshub/wmi-java/1.0.05/wmi-java-1.0.05.pom
+   from mvn: 4232 - non-mvn: 8053 - buildinfo: 2 - module: 5761 - gradle timestamp: 1839 - atlasdb: 0 = 0 release

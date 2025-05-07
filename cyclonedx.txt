@@ -247,6 +247,9 @@ com.io7m.dixmont:com.io7m.dixmont
 com.io7m.dixmont:com.io7m.dixmont.colors
 com.io7m.dixmont:com.io7m.dixmont.core
 com.io7m.dixmont:com.io7m.dixmont.tests
+com.io7m.entomos:com.io7m.entomos
+com.io7m.entomos:com.io7m.entomos.core
+com.io7m.entomos:com.io7m.entomos.tests
 com.io7m.ervilla:com.io7m.ervilla
 com.io7m.ervilla:com.io7m.ervilla.api
 com.io7m.ervilla:com.io7m.ervilla.native_exec
@@ -601,7 +604,9 @@ com.io7m.scando:com.io7m.scando.cmdline
 com.io7m.scando:com.io7m.scando.tests
 com.io7m.seltzer:com.io7m.seltzer
 com.io7m.seltzer:com.io7m.seltzer.api
+com.io7m.seltzer:com.io7m.seltzer.bom
 com.io7m.seltzer:com.io7m.seltzer.io
+com.io7m.seltzer:com.io7m.seltzer.slf4j
 com.io7m.seltzer:com.io7m.seltzer.tests
 com.io7m.sigiltron:sigiltron
 com.io7m.stmp:string-template-maven-plugin
@@ -1181,6 +1186,7 @@ io.telicent.jena:jena-kafka
 io.telicent.jena:jena-kafka-client
 io.telicent.jena:jena-kafka-connector
 io.telicent.jena:rdf-abac
+io.telicent.jena:rdf-abac-benchmark
 io.telicent.jena:rdf-abac-core
 io.telicent.jena:rdf-abac-coverage-report
 io.telicent.jena:rdf-abac-eval
@@ -5035,6 +5041,7 @@ org.jdbi:jdbi3-freemarker
 org.jdbi:jdbi3-generator
 org.jdbi:jdbi3-gson2
 org.jdbi:jdbi3-guava
+org.jdbi:jdbi3-guava-cache
 org.jdbi:jdbi3-guice
 org.jdbi:jdbi3-jackson2
 org.jdbi:jdbi3-jodatime2
@@ -5386,6 +5393,18 @@ org.locationtech.geomesa:geomesa_2.13
 org.locationtech.geomesa:geomesa_pyspark
 org.membrane-soa:membrane-api-gateway
 org.membrane-soa:service-proxy-core
+org.neo4j:neo4j-jdbc
+org.neo4j:neo4j-jdbc-bom
+org.neo4j:neo4j-jdbc-bundle
+org.neo4j:neo4j-jdbc-full-bundle
+org.neo4j:neo4j-jdbc-parent
+org.neo4j:neo4j-jdbc-text2cypher-bundle
+org.neo4j:neo4j-jdbc-text2cypher-translator
+org.neo4j:neo4j-jdbc-tracing
+org.neo4j:neo4j-jdbc-tracing-micrometer
+org.neo4j:neo4j-jdbc-translator
+org.neo4j:neo4j-jdbc-translator-impl
+org.neo4j:neo4j-jdbc-translator-spi
 org.omnifaces:microprofile-jwt-auth
 org.openapitools.openapidiff:openapi-diff-cli
 org.openapitools.openapidiff:openapi-diff-core
