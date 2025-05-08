@@ -15099,3 +15099,15 @@ org/jpmml/jpmml-parent/1.0.4/jpmml-parent-1.0.4.pom
 org/metricshub/wmi-java/1.0.04/wmi-java-1.0.04.pom
 org/metricshub/wmi-java/1.0.05/wmi-java-1.0.05.pom
    from mvn: 4232 - non-mvn: 8053 - buildinfo: 2 - module: 5761 - gradle timestamp: 1839 - atlasdb: 0 = 0 release
+20250506
+io/avaje/avaje-jsonb-parent/3.5-RC1/avaje-jsonb-parent-3.5-RC1.pom
+io/github/cbarlin/aru-parent/0.1.5/aru-parent-0.1.5.pom
+io/github/dimabarbul/wiremock-openapi-validation-extension/1.4.0/wiremock-openapi-validation-extension-1.4.0.pom
+io/roastedroot/proxy-wasm-java-host-parent/0.0.3/proxy-wasm-java-host-parent-0.0.3.pom
+io/telicent/jena/rdf-abac/1.0.0/rdf-abac-1.0.0.pom
+nl/basjes/modbus/devices/modbus-devices-parent/0.2.0/modbus-devices-parent-0.2.0.pom
+nl/basjes/modbus/modbus-schema-parent/0.2.0/modbus-schema-parent-0.2.0.pom
+nl/basjes/sunspec/sunspec-device-parent/0.2.0/sunspec-device-parent-0.2.0.pom
+org/apache/orc/orc/2.1.2/orc-2.1.2.pom
+org/finos/legend/engine/legend-engine/4.84.0/legend-engine-4.84.0.pom
+   from mvn: 4995 - non-mvn: 6722 - buildinfo: 3 - module: 4933 - gradle timestamp: 2529 - atlasdb: 0 = 0 release

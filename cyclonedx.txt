@@ -543,6 +543,7 @@ com.io7m.medrina:com.io7m.medrina.tests
 com.io7m.medrina:com.io7m.medrina.vanilla
 com.io7m.mesquida:com.io7m.mesquida
 com.io7m.mime2045:com.io7m.mime2045
+com.io7m.mime2045:com.io7m.mime2045.bom
 com.io7m.mime2045:com.io7m.mime2045.core
 com.io7m.mime2045:com.io7m.mime2045.fileext
 com.io7m.mime2045:com.io7m.mime2045.parser
@@ -583,6 +584,7 @@ com.io7m.primogenitor:com.io7m.primogenitor.lite
 com.io7m.primogenitor:com.io7m.primogenitor.support
 com.io7m.primogenitor:com.io7m.primogenitor.tests
 com.io7m.quarrel:com.io7m.quarrel
+com.io7m.quarrel:com.io7m.quarrel.bom
 com.io7m.quarrel:com.io7m.quarrel.core
 com.io7m.quarrel:com.io7m.quarrel.documentation
 com.io7m.quarrel:com.io7m.quarrel.example
@@ -3871,6 +3873,7 @@ org.eclipse.ecsp:helloWorldService
 org.eclipse.ecsp:nosql-dao
 org.eclipse.ecsp:services-common
 org.eclipse.ecsp:services-dependencies
+org.eclipse.ecsp:streambase
 org.eclipse.ecsp:transformers
 org.eclipse.ecsp:uidam-authorization-server
 org.eclipse.ecsp:uidam-user-management

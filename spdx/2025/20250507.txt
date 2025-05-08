@@ -1,0 +1,1 @@
+io/github/microcks/microcks-java-client/0.0.5/microcks-java-client-0.0.5.spdx.json
