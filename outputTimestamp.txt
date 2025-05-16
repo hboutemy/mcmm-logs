@@ -15111,3 +15111,33 @@ nl/basjes/sunspec/sunspec-device-parent/0.2.0/sunspec-device-parent-0.2.0.pom
 org/apache/orc/orc/2.1.2/orc-2.1.2.pom
 org/finos/legend/engine/legend-engine/4.84.0/legend-engine-4.84.0.pom
    from mvn: 4995 - non-mvn: 6722 - buildinfo: 3 - module: 4933 - gradle timestamp: 2529 - atlasdb: 0 = 0 release
+20250507
+com/fasterxml/jackson/core/jackson-annotations/2.18.4/jackson-annotations-2.18.4.pom
+com/fasterxml/jackson/core/jackson-core/2.18.4/jackson-core-2.18.4.pom
+com/fasterxml/jackson/core/jackson-databind/2.18.4/jackson-databind-2.18.4.pom
+com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.18.4/jackson-dataformat-xml-2.18.4.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-binary/2.18.4/jackson-dataformats-binary-2.18.4.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.18.4/jackson-dataformats-text-2.18.4.pom
+com/fasterxml/jackson/datatype/jackson-datatype-joda/2.18.4/jackson-datatype-joda-2.18.4.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-collections/2.18.4/jackson-datatypes-collections-2.18.4.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/2.18.4/jackson-datatypes-misc-parent-2.18.4.pom
+com/fasterxml/jackson/jackson-base/2.18.4/jackson-base-2.18.4.pom
+com/fasterxml/jackson/jackson-bom/2.18.4/jackson-bom-2.18.4.pom
+com/fasterxml/jackson/jr/jackson-jr-all/2.18.4/jackson-jr-all-2.18.4.pom
+com/fasterxml/jackson/jr/jackson-jr-annotation-support/2.18.4/jackson-jr-annotation-support-2.18.4.pom
+com/fasterxml/jackson/jr/jackson-jr-extension-javatime/2.18.4/jackson-jr-extension-javatime-2.18.4.pom
+com/fasterxml/jackson/jr/jackson-jr-objects/2.18.4/jackson-jr-objects-2.18.4.pom
+com/fasterxml/jackson/jr/jackson-jr-parent/2.18.4/jackson-jr-parent-2.18.4.pom
+com/fasterxml/jackson/jr/jackson-jr-retrofit2/2.18.4/jackson-jr-retrofit2-2.18.4.pom
+com/fasterxml/jackson/jr/jackson-jr-stree/2.18.4/jackson-jr-stree-2.18.4.pom
+io/avaje/avaje-provides-maven-plugin/2.3/avaje-provides-maven-plugin-2.3.pom
+io/avaje/avaje-spi-parent/2.13/avaje-spi-parent-2.13.pom
+io/github/chains-project/maven-lockfile-parent/5.5.2/maven-lockfile-parent-5.5.2.pom
+io/quarkus/quarkus-parent/3.22.2/quarkus-parent-3.22.2.pom
+org/apache/orc/orc/1.8.9/orc-1.8.9.pom
+org/apache/orc/orc/1.9.6/orc-1.9.6.pom
+org/apache/orc/orc/2.0.5/orc-2.0.5.pom
+org/apache/paimon/paimon-parent/1.1.1/paimon-parent-1.1.1.pom
+org/infinispan/infinispan-build-configuration-parent/16.0.0.Dev01/infinispan-build-configuration-parent-16.0.0.Dev01.pom
+org/owasp/antisamy/antisamy/1.7.8/antisamy-1.7.8.pom
+   from mvn: 7325 - non-mvn: 4095 - buildinfo: 4 - module: 4002 - gradle timestamp: 1945 - atlasdb: 0 = 0 release
