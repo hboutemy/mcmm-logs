@@ -1,0 +1,2 @@
+io/github/ryunen344/webauthn/webauthn2-json-moshi/1.1.1/webauthn2-json-moshi-1.1.1.spdx.json
+io/github/ryunen344/webauthn/webauthn2-json-serialization/1.1.1/webauthn2-json-serialization-1.1.1.spdx.json

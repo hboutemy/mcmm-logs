@@ -15218,3 +15218,21 @@ org/itsallcode/hamcrest-mutliline-text-matcher/2.0.3/hamcrest-mutliline-text-mat
 org/openapitools/openapidiff/openapi-diff-parent/2.1.1/openapi-diff-parent-2.1.1.pom
 org/webjars/flexmonster/2.9.103/flexmonster-2.9.103.pom
    from mvn: 3491 - non-mvn: 4836 - buildinfo: 0 - module: 2735 - gradle timestamp: 1660 - atlasdb: 0 = 0 release
+20250513
+com/fasterxml/oss-parent/66/oss-parent-66.pom
+com/github/nbbrd/nbbrd-maven-tools/nbbrd-maven-bom/1.0.1/nbbrd-maven-bom-1.0.1.pom
+com/github/nbbrd/nbbrd-maven-tools/nbbrd-maven-tools/1.0.1/nbbrd-maven-tools-1.0.1.pom
+eu/maveniverse/maven/mima/mima/2.4.25/mima-2.4.25.pom
+io/airlift/airbase-policy/259/airbase-policy-259.pom
+io/airlift/airbase/259/airbase-259.pom
+io/github/cbarlin/aru-parent/0.2.0/aru-parent-0.2.0.pom
+io/quarkus/quarkus-parent/3.15.5/quarkus-parent-3.15.5.pom
+io/quarkus/quarkus-parent/3.20.1/quarkus-parent-3.20.1.pom
+io/smallrye/jandex-parent/3.3.1/jandex-parent-3.3.1.pom
+io/streamnative/buildtools/3.3.5.6/buildtools-3.3.5.6.pom
+io/streamnative/pulsar-bom/3.3.5.6/pulsar-bom-3.3.5.6.pom
+org/apache/opendal/opendal/0.47.12/opendal-0.47.12.pom
+org/craftercms/mariaDB4j/mariaDB4j-pom/3.1.0.4/mariaDB4j-pom-3.1.0.4.pom
+org/eclipse/jetty/jetty-project/12.0.21/jetty-project-12.0.21.pom
+tools/jackson/jackson-parent/3.0.0-test1/jackson-parent-3.0.0-test1.pom
+   from mvn: 6324 - non-mvn: 4552 - buildinfo: 0 - module: 3936 - gradle timestamp: 1678 - atlasdb: 0 = 0 release
