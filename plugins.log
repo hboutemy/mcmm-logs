@@ -1200,6 +1200,7 @@ com.github.nagyesta.abort-mission -> abort-mission:abort-mission-maven-plugin = 
 com.github.nahuelolgiati -> jaxrs-angular:jaxrs-angular-maven-plugin = "jaxrs-angular-maven-plugin"
 com.github.napp-com -> resource-minifier:resource-minifier = "Resource Minifier"
 com.github.nbbrd.heylogs -> heylogs:heylogs-maven-plugin = "heylogs-maven-plugin"
+com.github.nbbrd.nbbrd-maven-tools -> compatibility:compatibility-maven-plugin = "compatibility-maven-plugin"
 com.github.ndrew -> jasmine:jasmine-maven-plugin = "jasmine-maven-plugin"
 com.github.neokidd.maven.plugins -> hack-modifier:hack-modifier-maven-plugin = "hack-modifier-maven-plugin Maven Plugin"
 com.github.nfalco79 -> build-helper:build-helper-maven-plugin = "Collection of maven helper goals"

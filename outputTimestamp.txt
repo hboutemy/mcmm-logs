@@ -15194,3 +15194,13 @@ tools/jackson/jr/jackson-jr-parent/3.0.0-rc4/jackson-jr-parent-3.0.0-rc4.pom
 tools/jackson/jr/jackson-jr-retrofit2/3.0.0-rc4/jackson-jr-retrofit2-3.0.0-rc4.pom
 tools/jackson/jr/jackson-jr-stree/3.0.0-rc4/jackson-jr-stree-3.0.0-rc4.pom
    from mvn: 1253 - non-mvn: 1174 - buildinfo: 0 - module: 997 - gradle timestamp: 264 - atlasdb: 0 = 0 release
+20250511
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-16/spoon-pom-11.2.1-beta-16.pom
+io/cucumber/cucumber-jvm/7.22.2/cucumber-jvm-7.22.2.pom
+tools/jackson/dataformat/jackson-dataformat-xml/3.0.0-rc4/jackson-dataformat-xml-3.0.0-rc4.pom
+tools/jackson/dataformat/jackson-dataformats-binary/3.0.0-rc4/jackson-dataformats-binary-3.0.0-rc4.pom
+tools/jackson/dataformat/jackson-dataformats-text/3.0.0-rc4/jackson-dataformats-text-3.0.0-rc4.pom
+tools/jackson/datatype/jackson-datatype-joda/3.0.0-rc4/jackson-datatype-joda-3.0.0-rc4.pom
+tools/jackson/datatype/jackson-datatypes-collections/3.0.0-rc4/jackson-datatypes-collections-3.0.0-rc4.pom
+tools/jackson/datatype/jackson-datatypes-misc-parent/3.0.0-rc4/jackson-datatypes-misc-parent-3.0.0-rc4.pom
+   from mvn: 859 - non-mvn: 837 - buildinfo: 3 - module: 887 - gradle timestamp: 343 - atlasdb: 0 = 0 release
