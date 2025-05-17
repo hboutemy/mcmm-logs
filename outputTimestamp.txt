@@ -15141,3 +15141,19 @@ org/apache/paimon/paimon-parent/1.1.1/paimon-parent-1.1.1.pom
 org/infinispan/infinispan-build-configuration-parent/16.0.0.Dev01/infinispan-build-configuration-parent-16.0.0.Dev01.pom
 org/owasp/antisamy/antisamy/1.7.8/antisamy-1.7.8.pom
    from mvn: 7325 - non-mvn: 4095 - buildinfo: 4 - module: 4002 - gradle timestamp: 1945 - atlasdb: 0 = 0 release
+20250508
+com/github/nbbrd/java-design-util/java-design-bom/1.6.0/java-design-bom-1.6.0.pom
+com/github/nbbrd/java-design-util/java-design-parent/1.6.0/java-design-parent-1.6.0.pom
+com/github/nbbrd/java-io-util/java-io-bom/0.0.34/java-io-bom-0.0.34.pom
+com/github/nbbrd/java-io-util/java-io-parent/0.0.34/java-io-parent-0.0.34.pom
+eu/maveniverse/maven/njord/njord/0.4.0/njord-0.4.0.pom
+eu/maveniverse/maven/njord/njord/0.4.1/njord-0.4.1.pom
+eu/maveniverse/maven/shared/shared/0.1.0/shared-0.1.0.pom
+eu/maveniverse/maven/shared/shared/0.1.1/shared-0.1.1.pom
+io/streamnative/buildtools/4.0.4.2/buildtools-4.0.4.2.pom
+io/streamnative/pulsar-bom/4.0.4.2/pulsar-bom-4.0.4.2.pom
+net/sf/michael-o/michael-o-parent/20/michael-o-parent-20.pom
+org/apache/amoro/amoro-parent/0.8.0-incubating/amoro-parent-0.8.0-incubating.pom
+org/apache/sling/org.apache.sling.scripting.sightly.testing/1.0.40-1.4.0/org.apache.sling.scripting.sightly.testing-1.0.40-1.4.0.pom
+org/apache/sling/org.apache.sling.scripting.sightly/1.4.28-1.4.0/org.apache.sling.scripting.sightly-1.4.28-1.4.0.pom
+   from mvn: 3776 - non-mvn: 3169 - buildinfo: 0 - module: 2650 - gradle timestamp: 1509 - atlasdb: 0 = 0 release
