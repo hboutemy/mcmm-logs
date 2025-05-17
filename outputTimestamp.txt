@@ -15236,3 +15236,23 @@ org/craftercms/mariaDB4j/mariaDB4j-pom/3.1.0.4/mariaDB4j-pom-3.1.0.4.pom
 org/eclipse/jetty/jetty-project/12.0.21/jetty-project-12.0.21.pom
 tools/jackson/jackson-parent/3.0.0-test1/jackson-parent-3.0.0-test1.pom
    from mvn: 6324 - non-mvn: 4552 - buildinfo: 0 - module: 3936 - gradle timestamp: 1678 - atlasdb: 0 = 0 release
+20250514
+com/fasterxml/jackson/jackson-parent/2.18.2/jackson-parent-2.18.2.pom
+com/fasterxml/jackson/jackson-parent/2.19.1/jackson-parent-2.19.1.pom
+dev/langchain4j/langchain4j-parent/1.0.0-beta5/langchain4j-parent-1.0.0-beta5.pom
+eu/maveniverse/maven/njord/njord/0.5.0/njord-0.5.0.pom
+io/avaje/avaje-jsonb-parent/3.5-RC2/avaje-jsonb-parent-3.5-RC2.pom
+io/avaje/avaje-logback-encoder/0.13/avaje-logback-encoder-0.13.pom
+io/github/cbarlin/aru-parent/0.2.1/aru-parent-0.2.1.pom
+io/liftwizard/liftwizard-minimal-parent/2.1.31/liftwizard-minimal-parent-2.1.31.pom
+io/quarkus/quarkus-parent/3.22.3/quarkus-parent-3.22.3.pom
+io/roastedroot/quickjs4j-parent/0.0.3/quickjs4j-parent-0.0.3.pom
+io/telicent/smart-caches/graph/docker/0.83.7/docker-0.83.7.pom
+io/telicent/smart-caches/graph/docker/0.83.8/docker-0.83.8.pom
+io/telicent/smart-caches/graph/scg-base/0.83.7/scg-base-0.83.7.pom
+io/telicent/smart-caches/graph/scg-base/0.83.8/scg-base-0.83.8.pom
+org/finos/legend/engine/legend-engine/4.84.1/legend-engine-4.84.1.pom
+org/finos/legend/engine/legend-engine/4.85.2/legend-engine-4.85.2.pom
+org/finos/legend/engine/legend-engine/4.85.3/legend-engine-4.85.3.pom
+tools/jackson/jackson-parent/3.0.0-test2/jackson-parent-3.0.0-test2.pom
+   from mvn: 5841 - non-mvn: 3835 - buildinfo: 0 - module: 3851 - gradle timestamp: 1875 - atlasdb: 0 = 0 release
