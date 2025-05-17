@@ -15174,3 +15174,23 @@ org/finos/legend/engine/legend-engine/4.85.0/legend-engine-4.85.0.pom
 org/jline/jline-parent/3.30.0/jline-parent-3.30.0-consumer.pom
 org/jline/jline-parent/3.30.0/jline-parent-3.30.0.pom
    from mvn: 5424 - non-mvn: 5967 - buildinfo: 3 - module: 3333 - gradle timestamp: 1858 - atlasdb: 0 = 0 release
+20250510
+com/fasterxml/jackson/core/jackson-annotations/3.0-rc4/jackson-annotations-3.0-rc4.pom
+eu/maveniverse/maven/mimir/mimir/0.7.1/mimir-0.7.1.pom
+eu/maveniverse/maven/nisse/nisse/0.4.4/nisse-0.4.4.pom
+eu/maveniverse/maven/njord/njord/0.4.2/njord-0.4.2.pom
+eu/maveniverse/maven/shared/shared/0.1.2/shared-0.1.2.pom
+eu/maveniverse/maven/shared/shared/0.1.3/shared-0.1.3.pom
+eu/maveniverse/maven/shared/shared/0.1.4/shared-0.1.4.pom
+org/basepom/basepom-foundation/63/basepom-foundation-63.pom
+tools/jackson/core/jackson-core/3.0.0-rc4/jackson-core-3.0.0-rc4.pom
+tools/jackson/core/jackson-databind/3.0.0-rc4/jackson-databind-3.0.0-rc4.pom
+tools/jackson/jackson-bom/3.0.0-rc4/jackson-bom-3.0.0-rc4.pom
+tools/jackson/jr/jackson-jr-all/3.0.0-rc4/jackson-jr-all-3.0.0-rc4.pom
+tools/jackson/jr/jackson-jr-annotation-support/3.0.0-rc4/jackson-jr-annotation-support-3.0.0-rc4.pom
+tools/jackson/jr/jackson-jr-extension-javatime/3.0.0-rc4/jackson-jr-extension-javatime-3.0.0-rc4.pom
+tools/jackson/jr/jackson-jr-objects/3.0.0-rc4/jackson-jr-objects-3.0.0-rc4.pom
+tools/jackson/jr/jackson-jr-parent/3.0.0-rc4/jackson-jr-parent-3.0.0-rc4.pom
+tools/jackson/jr/jackson-jr-retrofit2/3.0.0-rc4/jackson-jr-retrofit2-3.0.0-rc4.pom
+tools/jackson/jr/jackson-jr-stree/3.0.0-rc4/jackson-jr-stree-3.0.0-rc4.pom
+   from mvn: 1253 - non-mvn: 1174 - buildinfo: 0 - module: 997 - gradle timestamp: 264 - atlasdb: 0 = 0 release
