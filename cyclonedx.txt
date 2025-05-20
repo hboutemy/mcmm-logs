@@ -796,8 +796,10 @@ com.vesoft:common_2.11
 com.vesoft:driver
 com.vesoft:nebula
 com.vesoft:nebula-connector_spark2.4
+com.vesoft:nebula-connector_spark3
 com.vesoft:nebula-spark
 com.vesoft:nebula-spark-common_2.11
+com.vesoft:nebula-spark-common_2.12
 com.vesoft:spark-connector
 com.vesoft:spark-connector_spark2.4
 com.xenoamess.fork.org.apache.commons:commons-compress
@@ -2634,6 +2636,7 @@ org.apache.hop:hop-action-folderscompare
 org.apache.hop:hop-action-ftp
 org.apache.hop:hop-action-getpop
 org.apache.hop:hop-action-http
+org.apache.hop:hop-action-join
 org.apache.hop:hop-action-mail
 org.apache.hop:hop-action-mailvalidator
 org.apache.hop:hop-action-movefiles
@@ -2727,6 +2730,7 @@ org.apache.hop:hop-misc-async
 org.apache.hop:hop-misc-debug
 org.apache.hop:hop-misc-git
 org.apache.hop:hop-misc-import
+org.apache.hop:hop-misc-mail
 org.apache.hop:hop-misc-passwords
 org.apache.hop:hop-misc-projects
 org.apache.hop:hop-misc-reflection
@@ -2749,6 +2753,7 @@ org.apache.hop:hop-tech-aws
 org.apache.hop:hop-tech-azure
 org.apache.hop:hop-tech-cassandra
 org.apache.hop:hop-tech-dropbox
+org.apache.hop:hop-tech-elastic
 org.apache.hop:hop-tech-google
 org.apache.hop:hop-tech-neo4j
 org.apache.hop:hop-tech-parquet
