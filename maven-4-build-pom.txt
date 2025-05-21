@@ -909,3 +909,9 @@ org/jline/jline-terminal-jna/3.30.2/jline-terminal-jna-3.30.2-build.pom
 org/jline/jline-terminal-jni/3.30.2/jline-terminal-jni-3.30.2-build.pom
 org/jline/jline-terminal/3.30.2/jline-terminal-3.30.2-build.pom
 org/jline/jline/3.30.2/jline-3.30.2-build.pom
+20250520
+com/flowlogix/base-pom/54/base-pom-54-build.pom
+com/flowlogix/checkstyle/54/checkstyle-54-build.pom
+com/flowlogix/infra-pom/54/infra-pom-54-build.pom
+com/flowlogix/payara-pom/54/payara-pom-54-build.pom
+us/ny/nyc/hope/deploytest/1.0/deploytest-1.0-build.pom

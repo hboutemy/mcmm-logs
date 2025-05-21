@@ -3903,6 +3903,11 @@ org.eclipse.angus:logging-mailhandler
 org.eclipse.angus:pop3
 org.eclipse.angus:providers
 org.eclipse.angus:smtp
+org.eclipse.ecsp.vehicle-profile:vehicle-profile
+org.eclipse.ecsp.vehicle-profile:vehicle-profile-api
+org.eclipse.ecsp.vehicle-profile:vehicle-profile-commons
+org.eclipse.ecsp.vehicle-profile:vehicle-profile-entities
+org.eclipse.ecsp.vehicle-profile:vehicle-profile-sp
 org.eclipse.ecsp:api-common
 org.eclipse.ecsp:api-gateway
 org.eclipse.ecsp:api-gateway-parent
@@ -6790,6 +6795,7 @@ tools.jackson.module:jackson-module-osgi
 tools.jackson.module:jackson-module-scala_2.12
 tools.jackson.module:jackson-module-scala_2.13
 tools.jackson.module:jackson-module-scala_3
+us.ny.nyc.hope:deploytest
 us.ny.nyc.hope:testdeploy
 us.springett:alpine
 us.springett:alpine-common
