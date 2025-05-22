@@ -915,3 +915,11 @@ com/flowlogix/checkstyle/54/checkstyle-54-build.pom
 com/flowlogix/infra-pom/54/infra-pom-54-build.pom
 com/flowlogix/payara-pom/54/payara-pom-54-build.pom
 us/ny/nyc/hope/deploytest/1.0/deploytest-1.0-build.pom
+20250521
+com/flowlogix/archetypes/starter/57/starter-57-build.pom
+com/flowlogix/depchain/depchain/57/depchain-57-build.pom
+com/flowlogix/depchain/integration-test/57/integration-test-57-build.pom
+com/flowlogix/depchain/shiro-jakarta/57/shiro-jakarta-57-build.pom
+com/flowlogix/depchain/unit-test/57/unit-test-57-build.pom
+eu/maveniverse/maven/parent/parent/33/parent-33-build.pom
+eu/maveniverse/maven/parent/parent/34/parent-34-build.pom

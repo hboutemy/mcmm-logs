@@ -3934,6 +3934,7 @@ org.eclipse.ecsp:device-shadow-commons
 org.eclipse.ecsp:device-shadow-entities
 org.eclipse.ecsp:entities
 org.eclipse.ecsp:helloWorldService
+org.eclipse.ecsp:hivemq-extension
 org.eclipse.ecsp:nosql-dao
 org.eclipse.ecsp:services-common
 org.eclipse.ecsp:services-dependencies
