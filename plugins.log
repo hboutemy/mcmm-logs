@@ -207,6 +207,7 @@ cn.weforward -> build:build-maven-plugin = "weforward-buildplugin"
 cn.wjee.boot -> wjee-spring-boot:wjee-spring-boot-maven-plugin = 
 cn.xphsc -> xpack:xpack-maven-plugin = "xpack-maven-plugin"
 cn.yusiwen -> whitespace:whitespace-maven-plugin = "whitespace-maven-plugin Maven Mojo"
+cn.yusiwen.maven.plugins -> utility:utility-maven-plugin = "utility-maven-plugin"
 co.aurasphere.maven.plugins -> linkedin:linkedin-maven-plugin = "LinkedIn Maven Plugin"
 co.aurasphere.maven.plugins -> zip:zip-maven-plugin = "Zip Maven Plugin"
 co.cask -> cdap:cdap-maven-plugin = "CDAP Maven Plugin"

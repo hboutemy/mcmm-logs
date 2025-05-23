@@ -3936,6 +3936,10 @@ org.eclipse.ecsp:entities
 org.eclipse.ecsp:helloWorldService
 org.eclipse.ecsp:hivemq-extension
 org.eclipse.ecsp:nosql-dao
+org.eclipse.ecsp:ro
+org.eclipse.ecsp:ro-api
+org.eclipse.ecsp:ro-entities
+org.eclipse.ecsp:ro-sp
 org.eclipse.ecsp:services-common
 org.eclipse.ecsp:services-dependencies
 org.eclipse.ecsp:streambase
@@ -5450,6 +5454,8 @@ org.locationtech.geomesa:geomesa-spark-test-with-sedona_2.12
 org.locationtech.geomesa:geomesa-spark-test-with-sedona_2.13
 org.locationtech.geomesa:geomesa-spark-test-without-sedona_2.12
 org.locationtech.geomesa:geomesa-spark-test-without-sedona_2.13
+org.locationtech.geomesa:geomesa-spark-test_2.12
+org.locationtech.geomesa:geomesa-spark-test_2.13
 org.locationtech.geomesa:geomesa-spark_2.12
 org.locationtech.geomesa:geomesa-spark_2.13
 org.locationtech.geomesa:geomesa-tools_2.12
