@@ -3671,6 +3671,7 @@ org.apache.spark:spark-connect-client-jvm_2.12
 org.apache.spark:spark-connect-client-jvm_2.13
 org.apache.spark:spark-connect-common_2.12
 org.apache.spark:spark-connect-common_2.13
+org.apache.spark:spark-connect-shims_2.13
 org.apache.spark:spark-connect_2.12
 org.apache.spark:spark-connect_2.13
 org.apache.spark:spark-core_2.12
