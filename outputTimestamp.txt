@@ -15431,3 +15431,9 @@ org/apache/sling/feature-launcher-maven-plugin/0.1.8/feature-launcher-maven-plug
 org/codehaus/mojo/mojo-parent/88/mojo-parent-88.pom
 org/codehaus/plexus/plexus/21/plexus-21.pom
    from mvn: 4038 - non-mvn: 4623 - buildinfo: 1 - module: 3951 - gradle timestamp: 1920 - atlasdb: 0 = 0 release
+20250524
+eu/maveniverse/maven/bom-builder/bom-builder/1.1.0/bom-builder-1.1.0.pom
+io/dropwizard/metrics/metrics-parent/4.2.32/metrics-parent-4.2.32.pom
+io/dropwizard/metrics5/metrics-parent/5.0.0-rc26/metrics-parent-5.0.0-rc26.pom
+org/finos/legend/engine/legend-engine/4.86.2/legend-engine-4.86.2.pom
+   from mvn: 1229 - non-mvn: 1666 - buildinfo: 0 - module: 723 - gradle timestamp: 134 - atlasdb: 0 = 0 release
