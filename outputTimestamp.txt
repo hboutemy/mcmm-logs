@@ -15437,3 +15437,13 @@ io/dropwizard/metrics/metrics-parent/4.2.32/metrics-parent-4.2.32.pom
 io/dropwizard/metrics5/metrics-parent/5.0.0-rc26/metrics-parent-5.0.0-rc26.pom
 org/finos/legend/engine/legend-engine/4.86.2/legend-engine-4.86.2.pom
    from mvn: 1229 - non-mvn: 1666 - buildinfo: 0 - module: 723 - gradle timestamp: 134 - atlasdb: 0 = 0 release
+20250525
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-18/spoon-pom-11.2.1-beta-18.pom
+io/dropwizard/dropwizard-project/3.0.14/dropwizard-project-3.0.14.pom
+io/dropwizard/dropwizard-project/4.0.14/dropwizard-project-4.0.14.pom
+io/dropwizard/dropwizard-project/5.0.0-rc.3/dropwizard-project-5.0.0-rc.3.pom
+nl/basjes/modbus/devices/modbus-devices-parent/0.2.2/modbus-devices-parent-0.2.2.pom
+nl/basjes/modbus/modbus-schema-parent/0.5.0/modbus-schema-parent-0.5.0.pom
+nl/basjes/sunspec/sunspec-device-parent/0.3.0/sunspec-device-parent-0.3.0.pom
+org/webjars/flexmonster/2.9.104/flexmonster-2.9.104.pom
+   from mvn: 932 - non-mvn: 2938 - buildinfo: 3 - module: 1383 - gradle timestamp: 508 - atlasdb: 0 = 0 release

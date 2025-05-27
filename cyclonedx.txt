@@ -3919,6 +3919,7 @@ org.eclipse.ecsp:api-registry-common
 org.eclipse.ecsp:association-api
 org.eclipse.ecsp:association-common
 org.eclipse.ecsp:cache-enabler
+org.eclipse.ecsp:common-model
 org.eclipse.ecsp:device-activation
 org.eclipse.ecsp:device-association
 org.eclipse.ecsp:device-common
@@ -3937,6 +3938,11 @@ org.eclipse.ecsp:entities
 org.eclipse.ecsp:helloWorldService
 org.eclipse.ecsp:hivemq-extension
 org.eclipse.ecsp:nosql-dao
+org.eclipse.ecsp:notification
+org.eclipse.ecsp:notification-api
+org.eclipse.ecsp:notification-common
+org.eclipse.ecsp:notification-config-utility
+org.eclipse.ecsp:notification-sp
 org.eclipse.ecsp:ro
 org.eclipse.ecsp:ro-api
 org.eclipse.ecsp:ro-entities
