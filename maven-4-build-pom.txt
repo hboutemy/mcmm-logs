@@ -963,3 +963,4 @@ eu/maveniverse/maven/shared/shared/0.1.6/shared-0.1.6-build.pom
 20250524
 20250525
 20250526
+20250527

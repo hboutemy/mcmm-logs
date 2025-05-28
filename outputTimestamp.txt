@@ -15447,3 +15447,13 @@ nl/basjes/modbus/modbus-schema-parent/0.5.0/modbus-schema-parent-0.5.0.pom
 nl/basjes/sunspec/sunspec-device-parent/0.3.0/sunspec-device-parent-0.3.0.pom
 org/webjars/flexmonster/2.9.104/flexmonster-2.9.104.pom
    from mvn: 932 - non-mvn: 2938 - buildinfo: 3 - module: 1383 - gradle timestamp: 508 - atlasdb: 0 = 0 release
+20250526
+com/sap/ai/sdk/sdk-parent/1.8.0/sdk-parent-1.8.0.pom
+eu/maveniverse/maven/njord/njord/0.6.1/njord-0.6.1.pom
+io/avaje/avaje-inject-parent/11.6-RC1/avaje-inject-parent-11.6-RC1.pom
+io/github/czudf/czudf-java-toolkit/1.2.0/czudf-java-toolkit-1.2.0.pom
+org/apache/opendal/opendal/0.47.13/opendal-0.47.13.pom
+org/apache/tika/tika-parent/3.2.0/tika-parent-3.2.0.pom
+org/codehaus/modello/modello/2.5.0/modello-2.5.0.pom
+org/mybatis/mybatis2/2.6.1/mybatis2-2.6.1.pom
+   from mvn: 4242 - non-mvn: 3110 - buildinfo: 0 - module: 1685 - gradle timestamp: 473 - atlasdb: 0 = 0 release

@@ -1535,6 +1535,7 @@ jakarta.tck.coreprofile:core-tck-jsonp-extension
 jakarta.tck.coreprofile:core-tck-parent
 jakarta.tck.coreprofile:rest-tck-suite
 jakarta.tck.tools:sigtest-maven-plugin
+jakarta.tck:annotated
 jakarta.tck:appclient
 jakarta.tck:artifacts-bom
 jakarta.tck:assembly-tck
@@ -1544,9 +1545,11 @@ jakarta.tck:cdi-tck-ee-parent
 jakarta.tck:common
 jakarta.tck:connector
 jakarta.tck:connector-docs
+jakarta.tck:connector-whitebox
 jakarta.tck:ejb30
 jakarta.tck:ejb32
 jakarta.tck:el-platform-tck
+jakarta.tck:ibanno
 jakarta.tck:integration
 jakarta.tck:javaee-tck
 jakarta.tck:javamail
@@ -1555,7 +1558,10 @@ jakarta.tck:jms-platform-tck
 jakarta.tck:jsonb-platform-tck
 jakarta.tck:jsonp-platform-tck
 jakarta.tck:libutil
+jakarta.tck:mdcomplete
 jakarta.tck:messaging-docs
+jakarta.tck:mixedmode
+jakarta.tck:multianno
 jakarta.tck:pages-platform-tck
 jakarta.tck:persistence-platform-tck
 jakarta.tck:persistence-platform-tck-common
@@ -1579,6 +1585,13 @@ jakarta.tck:websocket-tck-common
 jakarta.tck:websocket-tck-dist
 jakarta.tck:websocket-tck-platform-tests
 jakarta.tck:websocket-tck-spec-tests
+jakarta.tck:whitebox
+jakarta.tck:whitebox-notx
+jakarta.tck:whitebox-notx-param
+jakarta.tck:whitebox-tx
+jakarta.tck:whitebox-tx-param
+jakarta.tck:whitebox-xa
+jakarta.tck:whitebox-xa-param
 jakarta.tck:xa
 jakarta.validation:jakarta.validation-api
 jakarta.validation:validation-standalone-container-adapter
@@ -3737,6 +3750,7 @@ org.apache.spark:spark-variant_2.13
 org.apache.spark:spark-yarn_2.12
 org.apache.spark:spark-yarn_2.13
 org.apache.syncope.client.am:syncope-client-am-console
+org.apache.syncope.client.am:syncope-client-am-enduser
 org.apache.syncope.client.am:syncope-client-am-lib
 org.apache.syncope.client.idm:syncope-client-idm-console
 org.apache.syncope.client.idm:syncope-client-idm-lib
