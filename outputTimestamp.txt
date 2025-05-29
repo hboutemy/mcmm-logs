@@ -15457,3 +15457,33 @@ org/apache/tika/tika-parent/3.2.0/tika-parent-3.2.0.pom
 org/codehaus/modello/modello/2.5.0/modello-2.5.0.pom
 org/mybatis/mybatis2/2.6.1/mybatis2-2.6.1.pom
    from mvn: 4242 - non-mvn: 3110 - buildinfo: 0 - module: 1685 - gradle timestamp: 473 - atlasdb: 0 = 0 release
+20250527
+com/fasterxml/jackson/jackson-parent/2.18.3/jackson-parent-2.18.3.pom
+com/fasterxml/jackson/jackson-parent/2.19.2/jackson-parent-2.19.2.pom
+com/fasterxml/oss-parent/68/oss-parent-68.pom
+commons-beanutils/commons-beanutils/1.11.0/commons-beanutils-1.11.0.pom
+de/cuioss/cui-java-parent/1.0.2/cui-java-parent-1.0.2.pom
+de/cuioss/cui-parent-pom/1.0.2/cui-parent-pom-1.0.2.pom
+eu/maveniverse/maven/nisse/nisse/0.4.5/nisse-0.4.5.pom
+eu/maveniverse/maven/njord/njord/0.6.2/njord-0.6.2.pom
+io/avaje/avaje-jsonb-parent/3.5/avaje-jsonb-parent-3.5.pom
+io/jooby/jooby-project/3.9.0/jooby-project-3.9.0.pom
+io/roastedroot/zerofs-parent/0.1.0/zerofs-parent-0.1.0.pom
+io/streamnative/buildtools/3.0.10.5/buildtools-3.0.10.5.pom
+io/streamnative/pulsar/3.0.10.5/pulsar-3.0.10.5.pom
+io/telicent/smart-caches/graph/docker/0.83.11/docker-0.83.11.pom
+io/telicent/smart-caches/graph/scg-base/0.83.11/scg-base-0.83.11.pom
+org/apache/commons/commons-beanutils2/2.0.0-M2/commons-beanutils2-2.0.0-M2.pom
+org/apache/commons/commons-fileupload2-core/2.0.0-M3/commons-fileupload2-core-2.0.0-M3.pom
+org/apache/commons/commons-fileupload2-distribution/2.0.0-M3/commons-fileupload2-distribution-2.0.0-M3.pom
+org/apache/commons/commons-fileupload2-jakarta-servlet5/2.0.0-M3/commons-fileupload2-jakarta-servlet5-2.0.0-M3.pom
+org/apache/commons/commons-fileupload2-jakarta-servlet6/2.0.0-M3/commons-fileupload2-jakarta-servlet6-2.0.0-M3.pom
+org/apache/commons/commons-fileupload2-javax/2.0.0-M3/commons-fileupload2-javax-2.0.0-M3.pom
+org/apache/commons/commons-fileupload2-portlet/2.0.0-M3/commons-fileupload2-portlet-2.0.0-M3.pom
+org/apache/commons/commons-fileupload2/2.0.0-M3/commons-fileupload2-2.0.0-M3.pom
+org/codehaus/mojo/exec-maven-plugin/3.5.1/exec-maven-plugin-3.5.1.pom
+org/codehaus/mojo/mojo-parent/89/mojo-parent-89.pom
+org/finos/legend/engine/legend-engine/4.86.3/legend-engine-4.86.3.pom
+org/glassfish/main/glassfish-main-aggregator/7.0.25/glassfish-main-aggregator-7.0.25.pom
+org/glassfish/main/nucleus-parent/7.0.25/nucleus-parent-7.0.25.pom
+   from mvn: 4833 - non-mvn: 5620 - buildinfo: 0 - module: 3861 - gradle timestamp: 2026 - atlasdb: 0 = 0 release
