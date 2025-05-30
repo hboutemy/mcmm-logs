@@ -15487,3 +15487,17 @@ org/finos/legend/engine/legend-engine/4.86.3/legend-engine-4.86.3.pom
 org/glassfish/main/glassfish-main-aggregator/7.0.25/glassfish-main-aggregator-7.0.25.pom
 org/glassfish/main/nucleus-parent/7.0.25/nucleus-parent-7.0.25.pom
    from mvn: 4833 - non-mvn: 5620 - buildinfo: 0 - module: 3861 - gradle timestamp: 2026 - atlasdb: 0 = 0 release
+20250528
+io/yupiik/fusion/fusion/1.0.25/fusion-1.0.25.pom
+nl/basjes/modbus/modbus-schema-parent/0.5.1/modbus-schema-parent-0.5.1.pom
+nl/basjes/sunspec/sunspec-device-parent/0.4.0/sunspec-device-parent-0.4.0.pom
+org/apache/camel/camel/4.12.0/camel-4.12.0.pom
+org/apache/syncope/fit/syncope-fit-build-tools/3.0.12/syncope-fit-build-tools-3.0.12.pom
+org/apache/syncope/fit/syncope-fit-build-tools/4.0.0/syncope-fit-build-tools-4.0.0.pom
+org/apache/syncope/syncope/3.0.12/syncope-3.0.12.pom
+org/apache/syncope/syncope/4.0.0/syncope-4.0.0.pom
+org/finos/legend/engine/legend-engine/4.87.0/legend-engine-4.87.0.pom
+org/finos/legend/engine/legend-engine/4.87.1/legend-engine-4.87.1.pom
+org/jline/jline-parent/3.30.4/jline-parent-3.30.4.pom
+org/jline/jline-parent/3.30.4/jline-parent-3.30.4-build.pom
+   from mvn: 5463 - non-mvn: 4339 - buildinfo: 2 - module: 2986 - gradle timestamp: 1383 - atlasdb: 0 = 0 release
