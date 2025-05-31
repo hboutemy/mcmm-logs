@@ -988,3 +988,9 @@ org/jline/jline-terminal/3.30.4/jline-terminal-3.30.4-build.pom
 org/jline/jline/3.30.4/jline-3.30.4-build.pom
 20250529
 com/flowlogix/faces-affinity/0.8/faces-affinity-0.8-build.pom
+20250530
+com/flowlogix/archetypes/starter/59/starter-59-build.pom
+com/flowlogix/depchain/depchain/59/depchain-59-build.pom
+com/flowlogix/depchain/integration-test/59/integration-test-59-build.pom
+com/flowlogix/depchain/shiro-jakarta/59/shiro-jakarta-59-build.pom
+com/flowlogix/depchain/unit-test/59/unit-test-59-build.pom

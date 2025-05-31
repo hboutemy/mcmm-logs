@@ -15501,3 +15501,17 @@ org/finos/legend/engine/legend-engine/4.87.1/legend-engine-4.87.1.pom
 org/jline/jline-parent/3.30.4/jline-parent-3.30.4.pom
 org/jline/jline-parent/3.30.4/jline-parent-3.30.4-build.pom
    from mvn: 5463 - non-mvn: 4339 - buildinfo: 2 - module: 2986 - gradle timestamp: 1383 - atlasdb: 0 = 0 release
+20250529
+eu/maveniverse/maven/bom-builder/bom-builder/1.1.1/bom-builder-1.1.1.pom
+eu/maveniverse/maven/nisse/nisse/0.4.6/nisse-0.4.6.pom
+eu/maveniverse/maven/njord/njord/0.7.0/njord-0.7.0.pom
+io/avaje/avaje-config-toml/4.1/avaje-config-toml-4.1.pom
+io/avaje/avaje-config/4.1/avaje-config-4.1.pom
+io/cucumber/cucumber-jvm/7.23.0/cucumber-jvm-7.23.0.pom
+io/jooby/jooby-project/3.9.1/jooby-project-3.9.1.pom
+io/telicent/smart-caches/graph/docker/0.83.12/docker-0.83.12.pom
+io/telicent/smart-caches/graph/scg-base/0.83.12/scg-base-0.83.12.pom
+org/finos/legend/engine/legend-engine/4.87.3/legend-engine-4.87.3.pom
+org/glassfish/mq/project/6.6.0/project-6.6.0.pom
+org/infinispan/protostream/parent/5.0.14.Final/parent-5.0.14.Final.pom
+   from mvn: 4508 - non-mvn: 4685 - buildinfo: 0 - module: 2780 - gradle timestamp: 1548 - atlasdb: 0 = 0 release
