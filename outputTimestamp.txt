@@ -15515,3 +15515,11 @@ org/finos/legend/engine/legend-engine/4.87.3/legend-engine-4.87.3.pom
 org/glassfish/mq/project/6.6.0/project-6.6.0.pom
 org/infinispan/protostream/parent/5.0.14.Final/parent-5.0.14.Final.pom
    from mvn: 4508 - non-mvn: 4685 - buildinfo: 0 - module: 2780 - gradle timestamp: 1548 - atlasdb: 0 = 0 release
+20250530
+com/spotify/github-client/0.4.5/github-client-0.4.5.pom
+io/avaje/avaje-validator-parent/2.12-RC1/avaje-validator-parent-2.12-RC1.pom
+io/github/torand/fastersql/1.7.0/fastersql-1.7.0.pom
+io/github/torand/fastersql/1.7.1/fastersql-1.7.1.pom
+net/sourceforge/pmd/pmd/7.14.0/pmd-7.14.0.pom
+org/openapitools/openapidiff/openapi-diff-parent/2.1.2/openapi-diff-parent-2.1.2.pom
+   from mvn: 2594 - non-mvn: 5262 - buildinfo: 0 - module: 2920 - gradle timestamp: 1335 - atlasdb: 0 = 0 release

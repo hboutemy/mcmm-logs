@@ -994,3 +994,8 @@ com/flowlogix/depchain/depchain/59/depchain-59-build.pom
 com/flowlogix/depchain/integration-test/59/integration-test-59-build.pom
 com/flowlogix/depchain/shiro-jakarta/59/shiro-jakarta-59-build.pom
 com/flowlogix/depchain/unit-test/59/unit-test-59-build.pom
+20250531
+eu/maveniverse/maven/shared/core/0.1.7/core-0.1.7-build.pom
+eu/maveniverse/maven/shared/extension/0.1.7/extension-0.1.7-build.pom
+eu/maveniverse/maven/shared/plugin/0.1.7/plugin-0.1.7-build.pom
+eu/maveniverse/maven/shared/shared/0.1.7/shared-0.1.7-build.pom

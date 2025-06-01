@@ -6758,7 +6758,7 @@ org.wildfly.plugins -> wildfly-component-matrix:wildfly-component-matrix-plugin 
 org.wildfly.plugins -> wildfly-extension:wildfly-extension-maven-plugin = "Wildfly Extension Installer Maven Plugin"
 org.wildfly.plugins -> wildfly-jar:wildfly-jar-maven-plugin = "WildFly Bootable JAR Maven Plugin"
 org.wildfly.plugins -> wildfly:wildfly-maven-plugin = "WildFly Maven Plugin"
-org.wildfly.plugins -> wildfly-zip:wildfly-zip-plugin = "WildFly Plugins -- Zip Attachment Plugin"
+org.wildfly.plugins -> wfzip:wildfly-zip-plugin = "WildFly Plugins -- Zip Attachment Plugin"
 org.wildfly.swarm -> wildfly-swarm-fraction:wildfly-swarm-fraction-plugin = "WildFly Swarm: Fraction Plugin"
 org.wildfly.swarm -> wildfly-swarm:wildfly-swarm-plugin = "WildFly Swarm: Plugin"
 org.wildfly.unstable.api.annotation -> unstable-api-annotation-classpath-indexer:unstable-api-annotation-classpath-indexer-plugin = 
