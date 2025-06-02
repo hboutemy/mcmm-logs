@@ -15523,3 +15523,22 @@ io/github/torand/fastersql/1.7.1/fastersql-1.7.1.pom
 net/sourceforge/pmd/pmd/7.14.0/pmd-7.14.0.pom
 org/openapitools/openapidiff/openapi-diff-parent/2.1.2/openapi-diff-parent-2.1.2.pom
    from mvn: 2594 - non-mvn: 5262 - buildinfo: 0 - module: 2920 - gradle timestamp: 1335 - atlasdb: 0 = 0 release
+20250531
+com/github/hazendaz/base-parent/53/base-parent-53.pom
+com/github/hazendaz/git/github-desktop/3.4.20/github-desktop-3.4.20.pom
+com/github/seregamorph/maven-surefire-cached/0.14/maven-surefire-cached-0.14.pom
+com/github/seregamorph/test-distribution/0.8/test-distribution-0.8.pom
+eu/maveniverse/maven/mima/mima/2.4.26/mima-2.4.26.pom
+eu/maveniverse/maven/mimir/mimir/0.7.7/mimir-0.7.7.pom
+eu/maveniverse/maven/shared/shared/0.1.7/shared-0.1.7-build.pom
+eu/maveniverse/maven/shared/shared/0.1.7/shared-0.1.7.pom
+eu/maveniverse/maven/shared/shared/0.1.8/shared-0.1.8.pom
+org/apache/maven/plugins/maven-clean-plugin/3.5.0/maven-clean-plugin-3.5.0.pom
+org/codehaus/mojo/mojo-parent/90/mojo-parent-90.pom
+org/finos/legend/engine/legend-engine/4.87.4/legend-engine-4.87.4.pom
+org/glassfish/main/glassfish-main-aggregator/8.0.0-JDK17-M12/glassfish-main-aggregator-8.0.0-JDK17-M12.pom
+org/glassfish/main/glassfish-main-aggregator/8.0.0-M12/glassfish-main-aggregator-8.0.0-M12.pom
+org/glassfish/main/nucleus-parent/8.0.0-JDK17-M12/nucleus-parent-8.0.0-JDK17-M12.pom
+org/glassfish/main/nucleus-parent/8.0.0-M12/nucleus-parent-8.0.0-M12.pom
+org/mybatis/mybatis-parent/50/mybatis-parent-50.pom
+   from mvn: 1616 - non-mvn: 4751 - buildinfo: 0 - module: 2416 - gradle timestamp: 419 - atlasdb: 0 = 0 release
