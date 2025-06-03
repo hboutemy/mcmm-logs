@@ -1000,3 +1000,9 @@ eu/maveniverse/maven/shared/extension/0.1.7/extension-0.1.7-build.pom
 eu/maveniverse/maven/shared/plugin/0.1.7/plugin-0.1.7-build.pom
 eu/maveniverse/maven/shared/shared/0.1.7/shared-0.1.7-build.pom
 20250601
+20250602
+com/flowlogix/archetypes/starter/60/starter-60-build.pom
+com/flowlogix/depchain/depchain/60/depchain-60-build.pom
+com/flowlogix/depchain/integration-test/60/integration-test-60-build.pom
+com/flowlogix/depchain/shiro-jakarta/60/shiro-jakarta-60-build.pom
+com/flowlogix/depchain/unit-test/60/unit-test-60-build.pom

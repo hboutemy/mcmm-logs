@@ -1,0 +1,3 @@
+io/github/microcks/microcks-kube-api/0.0.4/microcks-kube-api-0.0.4.spdx.json
+io/github/microcks/microcks-kube-operator/0.0.4/microcks-kube-operator-0.0.4.spdx.json
+io/github/microcks/microcks-operator/0.0.4/microcks-operator-0.0.4.spdx.json

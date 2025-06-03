@@ -15542,3 +15542,12 @@ org/glassfish/main/nucleus-parent/8.0.0-JDK17-M12/nucleus-parent-8.0.0-JDK17-M12
 org/glassfish/main/nucleus-parent/8.0.0-M12/nucleus-parent-8.0.0-M12.pom
 org/mybatis/mybatis-parent/50/mybatis-parent-50.pom
    from mvn: 1616 - non-mvn: 4751 - buildinfo: 0 - module: 2416 - gradle timestamp: 419 - atlasdb: 0 = 0 release
+20250601
+com/github/seregamorph/maven-surefire-cached/0.15/maven-surefire-cached-0.15.pom
+com/github/seregamorph/maven-turbo-reactor/0.4/maven-turbo-reactor-0.4.pom
+eu/maveniverse/maven/njord/njord/0.7.1/njord-0.7.1.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-19/spoon-pom-11.2.1-beta-19.pom
+nl/basjes/modbus/devices/modbus-devices-parent/0.3.0/modbus-devices-parent-0.3.0.pom
+nl/basjes/modbus/modbus-schema-parent/0.6.0/modbus-schema-parent-0.6.0.pom
+nl/basjes/sunspec/sunspec-device-parent/0.4.1/sunspec-device-parent-0.4.1.pom
+   from mvn: 547 - non-mvn: 2143 - buildinfo: 6 - module: 2003 - gradle timestamp: 340 - atlasdb: 0 = 0 release
