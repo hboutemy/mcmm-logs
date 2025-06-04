@@ -15551,3 +15551,17 @@ nl/basjes/modbus/devices/modbus-devices-parent/0.3.0/modbus-devices-parent-0.3.0
 nl/basjes/modbus/modbus-schema-parent/0.6.0/modbus-schema-parent-0.6.0.pom
 nl/basjes/sunspec/sunspec-device-parent/0.4.1/sunspec-device-parent-0.4.1.pom
    from mvn: 547 - non-mvn: 2143 - buildinfo: 6 - module: 2003 - gradle timestamp: 340 - atlasdb: 0 = 0 release
+20250602
+com/github/seregamorph/maven-turbo-reactor/0.5/maven-turbo-reactor-0.5.pom
+com/spotify/github-client/0.4.6/github-client-0.4.6.pom
+de/cuioss/cui-java-parent/1.0.3/cui-java-parent-1.0.3.pom
+de/cuioss/cui-parent-pom/1.0.3/cui-parent-pom-1.0.3.pom
+de/stklcode/jvault/jvault-connector/1.5.1/jvault-connector-1.5.1.pom
+eu/maveniverse/maven/parent/parent/39/parent-39.pom
+io/airlift/airbase-policy/263/airbase-policy-263.pom
+io/airlift/airbase/263/airbase-263.pom
+org/apache/maven/indexer/maven-indexer/7.1.6/maven-indexer-7.1.6.pom
+org/codehaus/mojo/mojo-parent/91/mojo-parent-91.pom
+org/codehaus/plexus/plexus/22/plexus-22.pom
+org/webjars/bootstrap/5.3.6/bootstrap-5.3.6.pom
+   from mvn: 2706 - non-mvn: 4022 - buildinfo: 0 - module: 3684 - gradle timestamp: 1481 - atlasdb: 0 = 0 release

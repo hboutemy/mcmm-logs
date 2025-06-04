@@ -1006,3 +1006,5 @@ com/flowlogix/depchain/depchain/60/depchain-60-build.pom
 com/flowlogix/depchain/integration-test/60/integration-test-60-build.pom
 com/flowlogix/depchain/shiro-jakarta/60/shiro-jakarta-60-build.pom
 com/flowlogix/depchain/unit-test/60/unit-test-60-build.pom
+20250603
+io/takari/takari-archiver/1.0.4/takari-archiver-1.0.4-build.pom
