@@ -4473,6 +4473,7 @@ org.glassfish.jersey.examples:java8-webapp
 org.glassfish.jersey.examples:jaxb
 org.glassfish.jersey.examples:jaxrs-types-injection
 org.glassfish.jersey.examples:jersey-ejb
+org.glassfish.jersey.examples:jersey-example-expect-100-continue-netty-client
 org.glassfish.jersey.examples:jersey-micrometer-webapp
 org.glassfish.jersey.examples:json-binding-webapp
 org.glassfish.jersey.examples:json-jackson
