@@ -929,6 +929,7 @@ dev.openfeature.contrib.providers:jsonlogic-eval-provider
 dev.openfeature.contrib.providers:multiprovider
 dev.openfeature.contrib.providers:statsig
 dev.openfeature.contrib.providers:unleash
+dev.openfeature.contrib.tools:flagdhttpconnector
 dev.openfeature.contrib.tools:junitopenfeature
 dev.openfeature.contrib:parent
 dev.openfeature:sdk
