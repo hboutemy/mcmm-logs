@@ -15604,3 +15604,16 @@ org/codehaus/modello/modello/2.5.1/modello-2.5.1.pom
 org/codehaus/mojo/build-helper-maven-plugin/3.6.1/build-helper-maven-plugin-3.6.1.pom
 org/finos/legend/engine/legend-engine/4.88.0/legend-engine-4.88.0.pom
    from mvn: 5889 - non-mvn: 4697 - buildinfo: 0 - module: 3097 - gradle timestamp: 1706 - atlasdb: 0 = 0 release
+20250605
+de/gematik/pki/gemLibPki/3.1.4/gemLibPki-3.1.4.pom
+eu/maveniverse/maven/mima/mima/2.4.27/mima-2.4.27.pom
+eu/maveniverse/maven/mima/mima/2.4.28/mima-2.4.28.pom
+eu/maveniverse/maven/mimir/mimir/0.7.9/mimir-0.7.9.pom
+eu/maveniverse/maven/njord/njord/0.7.2/njord-0.7.2.pom
+eu/maveniverse/maven/toolbox/toolbox/0.10.2/toolbox-0.10.2.pom
+io/roastedroot/quickjs4j-parent/0.0.5/quickjs4j-parent-0.0.5.pom
+io/telicent/jena/rdf-abac/1.0.1/rdf-abac-1.0.1.pom
+io/yupiik/maven/yupiik-tools-maven-plugin-parent/1.2.8/yupiik-tools-maven-plugin-parent-1.2.8.pom
+org/apache/maven/maven/3.9.10/maven-3.9.10.pom
+org/eclipse/jgit/org.eclipse.jgit-parent/7.3.0.202506031305-r/org.eclipse.jgit-parent-7.3.0.202506031305-r.pom
+   from mvn: 6524 - non-mvn: 4112 - buildinfo: 0 - module: 3732 - gradle timestamp: 1731 - atlasdb: 0 = 0 release
