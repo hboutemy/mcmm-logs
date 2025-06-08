@@ -15617,3 +15617,17 @@ io/yupiik/maven/yupiik-tools-maven-plugin-parent/1.2.8/yupiik-tools-maven-plugin
 org/apache/maven/maven/3.9.10/maven-3.9.10.pom
 org/eclipse/jgit/org.eclipse.jgit-parent/7.3.0.202506031305-r/org.eclipse.jgit-parent-7.3.0.202506031305-r.pom
    from mvn: 6524 - non-mvn: 4112 - buildinfo: 0 - module: 3732 - gradle timestamp: 1731 - atlasdb: 0 = 0 release
+20250606
+commons-fileupload/commons-fileupload/1.6.0/commons-fileupload-1.6.0.pom
+de/cuioss/cui-java-parent/1.0.5/cui-java-parent-1.0.5.pom
+de/cuioss/cui-java-parent/1.0.6/cui-java-parent-1.0.6.pom
+de/cuioss/cui-parent-pom/1.0.5/cui-parent-pom-1.0.5.pom
+de/cuioss/cui-parent-pom/1.0.6/cui-parent-pom-1.0.6.pom
+eu/maveniverse/maven/mima/mima/2.4.29/mima-2.4.29.pom
+io/github/chains-project/maven-lockfile-parent/5.5.3/maven-lockfile-parent-5.5.3.pom
+io/github/rockcrafters/rockcraft-parent/1.1.2/rockcraft-parent-1.1.2.pom
+io/github/torand/java-commons/1.1.0/java-commons-1.1.0.pom
+io/trino/trino-root/476/trino-root-476.pom
+org/apache/sling/org.apache.sling.engine/2.16.4/org.apache.sling.engine-2.16.4.pom
+org/finos/legend/engine/legend-engine/4.88.1/legend-engine-4.88.1.pom
+   from mvn: 4423 - non-mvn: 3594 - buildinfo: 1 - module: 3423 - gradle timestamp: 1872 - atlasdb: 0 = 0 release
