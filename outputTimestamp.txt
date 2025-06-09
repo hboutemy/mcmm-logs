@@ -15631,3 +15631,11 @@ io/trino/trino-root/476/trino-root-476.pom
 org/apache/sling/org.apache.sling.engine/2.16.4/org.apache.sling.engine-2.16.4.pom
 org/finos/legend/engine/legend-engine/4.88.1/legend-engine-4.88.1.pom
    from mvn: 4423 - non-mvn: 3594 - buildinfo: 1 - module: 3423 - gradle timestamp: 1872 - atlasdb: 0 = 0 release
+20250607
+com/github/seregamorph/maven-turbo-reactor-parent/0.1/maven-turbo-reactor-parent-0.1.pom
+com/vegardit/maven/vegardit-maven-parent/6.1.10/vegardit-maven-parent-6.1.10.pom
+eu/maveniverse/maven/njord/njord/0.7.3/njord-0.7.3.pom
+eu/maveniverse/maven/njord/njord/0.7.4/njord-0.7.4.pom
+org/owasp/dependency-check-parent/12.1.2/dependency-check-parent-12.1.2.pom
+org/owasp/dependency-check-plugin/12.1.2/dependency-check-plugin-12.1.2.pom
+   from mvn: 787 - non-mvn: 1582 - buildinfo: 1 - module: 874 - gradle timestamp: 177 - atlasdb: 0 = 0 release
