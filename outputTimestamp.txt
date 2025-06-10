@@ -15639,3 +15639,11 @@ eu/maveniverse/maven/njord/njord/0.7.4/njord-0.7.4.pom
 org/owasp/dependency-check-parent/12.1.2/dependency-check-parent-12.1.2.pom
 org/owasp/dependency-check-plugin/12.1.2/dependency-check-plugin-12.1.2.pom
    from mvn: 787 - non-mvn: 1582 - buildinfo: 1 - module: 874 - gradle timestamp: 177 - atlasdb: 0 = 0 release
+20250608
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-20/spoon-pom-11.2.1-beta-20.pom
+io/airlift/airbase-policy/266/airbase-policy-266.pom
+io/airlift/airbase/266/airbase-266.pom
+io/avaje/avaje-inject-parent/11.6-RC2/avaje-inject-parent-11.6-RC2.pom
+org/jpmml/telemetry-client/1.0.0/telemetry-client-1.0.0.pom
+org/perfectable/perfectable/30.0.0/perfectable-30.0.0.pom
+   from mvn: 732 - non-mvn: 866 - buildinfo: 0 - module: 782 - gradle timestamp: 216 - atlasdb: 0 = 0 release
