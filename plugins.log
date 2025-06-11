@@ -565,6 +565,7 @@ com.dasberg.maven.plugins -> closure-compiler:maven-closure-compiler-plugin = "m
 com.dataliquid -> json-yaml-validator:json-yaml-validator-maven-plugin = "JSON/YAML Validator Maven Plugin"
 com.dataliquid.maven -> api-portal:api-portal-maven-plugin = "dataliquid :: API Portal Maven Plugin"
 com.dataliquid.maven -> distribution-verifier:distribution-verifier-maven-plugin = "dataliquid :: Distribution Verifier Maven Plugin"
+com.dataliquid.maven -> json-yaml-validator:json-yaml-validator-maven-plugin = "JSON/YAML Validator Maven Plugin"
 com.datathings -> greycat:greycat-mavenplugin = "greycat-mavenplugin"
 com.datathings -> j2ts:j2ts-mavenplugin = "j2ts-mavenplugin"
 com.day.jcr.vault -> content-package:content-package-maven-plugin = "Adobe Content Package Maven Plugin"

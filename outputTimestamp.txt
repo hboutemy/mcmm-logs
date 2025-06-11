@@ -15647,3 +15647,13 @@ io/avaje/avaje-inject-parent/11.6-RC2/avaje-inject-parent-11.6-RC2.pom
 org/jpmml/telemetry-client/1.0.0/telemetry-client-1.0.0.pom
 org/perfectable/perfectable/30.0.0/perfectable-30.0.0.pom
    from mvn: 732 - non-mvn: 866 - buildinfo: 0 - module: 782 - gradle timestamp: 216 - atlasdb: 0 = 0 release
+20250609
+io/streamnative/connectors/pulsar-spark-connector_2.13/3.4.1.2/pulsar-spark-connector_2.13-3.4.1.2.pom
+io/telicent/jena/rdf-abac/1.0.2/rdf-abac-1.0.2.pom
+nl/basjes/modbus/devices/modbus-devices-parent/0.3.1/modbus-devices-parent-0.3.1.pom
+nl/basjes/modbus/modbus-schema-parent/0.7.0/modbus-schema-parent-0.7.0.pom
+nl/basjes/sunspec/sunspec-device-parent/0.5.0/sunspec-device-parent-0.5.0.pom
+org/jpmml/jpmml-sklearn/1.9.9/jpmml-sklearn-1.9.9.pom
+org/mybatis/mybatis-spring/3.0.5/mybatis-spring-3.0.5.pom
+org/webjars/flexmonster/2.9.105/flexmonster-2.9.105.pom
+   from mvn: 3574 - non-mvn: 3617 - buildinfo: 3 - module: 3359 - gradle timestamp: 1524 - atlasdb: 0 = 0 release
