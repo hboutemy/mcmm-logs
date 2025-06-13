@@ -15670,3 +15670,20 @@ org/infinispan/infinispan-build-configuration-parent/15.2.3.Final/infinispan-bui
 org/owasp/dependency-check-parent/12.1.3/dependency-check-parent-12.1.3.pom
 org/owasp/dependency-check-plugin/12.1.3/dependency-check-plugin-12.1.3.pom
    from mvn: 4237 - non-mvn: 4464 - buildinfo: 1 - module: 3562 - gradle timestamp: 1702 - atlasdb: 0 = 0 release
+20250611
+com/cognite/units/units-catalog/0.1.22/units-catalog-0.1.22.pom
+com/fasterxml/jackson/core/jackson-core/2.18.4.1/jackson-core-2.18.4.1.pom
+com/fasterxml/jackson/jackson-base/2.18.4.1/jackson-base-2.18.4.1.pom
+com/fasterxml/jackson/jackson-bom/2.18.4.1/jackson-bom-2.18.4.1.pom
+com/github/nbbrd/picocsv/picocsv/2.6.0/picocsv-2.6.0.pom
+de/cuioss/cui-java-parent/1.0.7/cui-java-parent-1.0.7.pom
+de/cuioss/cui-parent-pom/1.0.7/cui-parent-pom-1.0.7.pom
+io/airlift/airbase-policy/267/airbase-policy-267.pom
+io/airlift/airbase/267/airbase-267.pom
+io/quarkus/quarkus-parent/3.23.3/quarkus-parent-3.23.3.pom
+io/quarkus/quarkus-parent/3.24.0.CR1/quarkus-parent-3.24.0.CR1.pom
+io/telicent/smart-caches/graph/docker/0.83.13/docker-0.83.13.pom
+io/telicent/smart-caches/graph/scg-base/0.83.13/scg-base-0.83.13.pom
+nl/basjes/codeowners/codeowners-parent/1.12.0/codeowners-parent-1.12.0.pom
+org/finos/legend/engine/legend-engine/4.88.6/legend-engine-4.88.6.pom
+   from mvn: 4920 - non-mvn: 3523 - buildinfo: 1 - module: 3420 - gradle timestamp: 1775 - atlasdb: 0 = 0 release
