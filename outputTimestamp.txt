@@ -15687,3 +15687,21 @@ io/telicent/smart-caches/graph/scg-base/0.83.13/scg-base-0.83.13.pom
 nl/basjes/codeowners/codeowners-parent/1.12.0/codeowners-parent-1.12.0.pom
 org/finos/legend/engine/legend-engine/4.88.6/legend-engine-4.88.6.pom
    from mvn: 4920 - non-mvn: 3523 - buildinfo: 1 - module: 3420 - gradle timestamp: 1775 - atlasdb: 0 = 0 release
+20250612
+com/flowlogix/checkstyle/57/checkstyle-57-build.pom
+com/flowlogix/infra-pom/57/infra-pom-57-build.pom
+com/flowlogix/infra-pom/57/infra-pom-57.pom
+eu/europa/ec/joinup/sat/jdplus-main-bom/3.5.1/jdplus-main-bom-3.5.1.pom
+eu/europa/ec/joinup/sat/jdplus-main/3.5.1/jdplus-main-3.5.1.pom
+eu/maveniverse/maven/njord/njord/0.7.5/njord-0.7.5.pom
+io/streamnative/buildtools/3.3.5.8/buildtools-3.3.5.8.pom
+io/streamnative/buildtools/4.0.4.3/buildtools-4.0.4.3.pom
+io/streamnative/pulsar-bom/3.3.5.8/pulsar-bom-3.3.5.8.pom
+io/streamnative/pulsar-bom/4.0.4.3/pulsar-bom-4.0.4.3.pom
+io/streamnative/pulsar/3.3.5.8/pulsar-3.3.5.8.pom
+io/telicent/smart-caches/graph/docker/0.83.14/docker-0.83.14.pom
+io/telicent/smart-caches/graph/scg-base/0.83.14/scg-base-0.83.14.pom
+org/finos/legend/engine/legend-engine/4.88.7/legend-engine-4.88.7.pom
+org/finos/legend/engine/legend-engine/4.88.8/legend-engine-4.88.8.pom
+org/infinispan/infinispan-build-configuration-parent/15.2.4.Final/infinispan-build-configuration-parent-15.2.4.Final.pom
+   from mvn: 4410 - non-mvn: 8562 - buildinfo: 0 - module: 5132 - gradle timestamp: 1519 - atlasdb: 0 = 0 release
