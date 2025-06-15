@@ -15705,3 +15705,15 @@ org/finos/legend/engine/legend-engine/4.88.7/legend-engine-4.88.7.pom
 org/finos/legend/engine/legend-engine/4.88.8/legend-engine-4.88.8.pom
 org/infinispan/infinispan-build-configuration-parent/15.2.4.Final/infinispan-build-configuration-parent-15.2.4.Final.pom
    from mvn: 4410 - non-mvn: 8562 - buildinfo: 0 - module: 5132 - gradle timestamp: 1519 - atlasdb: 0 = 0 release
+20250613
+com/github/hazendaz/git/github-desktop/3.4.21/github-desktop-3.4.21.pom
+com/spotify/github-client/0.4.8/github-client-0.4.8.pom
+io/airlift/airbase-policy/268/airbase-policy-268.pom
+io/airlift/airbase/268/airbase-268.pom
+io/streamnative/pulsar/4.0.4.3/pulsar-4.0.4.3.pom
+io/telicent/smart-caches/graph/docker/0.83.15/docker-0.83.15.pom
+io/telicent/smart-caches/graph/scg-base/0.83.15/scg-base-0.83.15.pom
+org/apache/apache/35/apache-35.pom
+org/apache/logging/logging-parent/12.1.1/logging-parent-12.1.1.pom
+org/jdbi/internal/jdbi3-root/3.49.5/jdbi3-root-3.49.5.pom
+   from mvn: 3070 - non-mvn: 2698 - buildinfo: 85 - module: 2827 - gradle timestamp: 696 - atlasdb: 0 = 0 release
