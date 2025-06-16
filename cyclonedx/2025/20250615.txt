@@ -1,0 +1,4 @@
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-21/spoon-pom-11.2.1-beta-21-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-21/spoon-pom-11.2.1-beta-21-cyclonedx.json
+net/dapete/locks/1.3.0/locks-1.3.0-cyclonedx.xml
+net/dapete/locks/1.3.0/locks-1.3.0-cyclonedx.json

@@ -15717,3 +15717,26 @@ org/apache/apache/35/apache-35.pom
 org/apache/logging/logging-parent/12.1.1/logging-parent-12.1.1.pom
 org/jdbi/internal/jdbi3-root/3.49.5/jdbi3-root-3.49.5.pom
    from mvn: 3070 - non-mvn: 2698 - buildinfo: 85 - module: 2827 - gradle timestamp: 696 - atlasdb: 0 = 0 release
+20250614
+com/fasterxml/jackson/core/jackson-annotations/2.19.1/jackson-annotations-2.19.1.pom
+com/fasterxml/jackson/core/jackson-core/2.19.1/jackson-core-2.19.1.pom
+com/fasterxml/jackson/core/jackson-databind/2.19.1/jackson-databind-2.19.1.pom
+com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.19.1/jackson-dataformat-xml-2.19.1.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-binary/2.19.1/jackson-dataformats-binary-2.19.1.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.19.1/jackson-dataformats-text-2.19.1.pom
+com/fasterxml/jackson/datatype/jackson-datatype-joda/2.19.1/jackson-datatype-joda-2.19.1.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-collections/2.19.1/jackson-datatypes-collections-2.19.1.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/2.19.1/jackson-datatypes-misc-parent-2.19.1.pom
+com/fasterxml/jackson/jackson-base/2.19.1/jackson-base-2.19.1.pom
+com/fasterxml/jackson/jackson-bom/2.19.1/jackson-bom-2.19.1.pom
+com/fasterxml/jackson/jr/jackson-jr-all/2.19.1/jackson-jr-all-2.19.1.pom
+com/fasterxml/jackson/jr/jackson-jr-annotation-support/2.19.1/jackson-jr-annotation-support-2.19.1.pom
+com/fasterxml/jackson/jr/jackson-jr-extension-javatime/2.19.1/jackson-jr-extension-javatime-2.19.1.pom
+com/fasterxml/jackson/jr/jackson-jr-objects/2.19.1/jackson-jr-objects-2.19.1.pom
+com/fasterxml/jackson/jr/jackson-jr-parent/2.19.1/jackson-jr-parent-2.19.1.pom
+com/fasterxml/jackson/jr/jackson-jr-retrofit2/2.19.1/jackson-jr-retrofit2-2.19.1.pom
+com/fasterxml/jackson/jr/jackson-jr-stree/2.19.1/jackson-jr-stree-2.19.1.pom
+eu/maveniverse/maven/heimdall/heimdall/0.1.0/heimdall-0.1.0.pom
+org/apache/sling/org.apache.sling.discovery.commons/1.1.0/org.apache.sling.discovery.commons-1.1.0.pom
+org/codehaus/mojo/mojo-parent/92/mojo-parent-92.pom
+   from mvn: 938 - non-mvn: 1453 - buildinfo: 4 - module: 900 - gradle timestamp: 173 - atlasdb: 0 = 0 release

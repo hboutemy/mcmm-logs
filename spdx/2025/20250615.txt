@@ -1,0 +1,2 @@
+land/oras/oras-java-sdk/0.2.11/oras-java-sdk-0.2.11.spdx.json
+net/dapete/locks/1.3.0/locks-1.3.0.spdx.json
