@@ -700,6 +700,7 @@ com.io7m.zeptoblog:com.io7m.zeptoblog.commonmark
 com.io7m.zeptoblog:com.io7m.zeptoblog.core
 com.io7m.zeptoblog:com.io7m.zeptoblog.glossary
 com.io7m.zeptoblog:com.io7m.zeptoblog.tests
+com.mountainminds:three4j
 com.ongres.pgconfig:pgconfig-validator
 com.ongres.scram:scram-aggregator
 com.ongres.scram:scram-client
@@ -792,6 +793,8 @@ com.sun.xml.ws:www
 com.swardana:oofx
 com.swardana:wisteria
 com.theoryinpractise:clojure-maven-plugin
+com.vectorprint:Config
+com.vectorprint:VectorPrintCommon
 com.vesoft:common_2.11
 com.vesoft:driver
 com.vesoft:nebula
@@ -3089,6 +3092,7 @@ org.apache.logging.log4j:log4j-docgen-maven-plugin
 org.apache.logging.log4j:log4j-docker
 org.apache.logging.log4j:log4j-flume-ng
 org.apache.logging.log4j:log4j-iostreams
+org.apache.logging.log4j:log4j-jakarta-jms
 org.apache.logging.log4j:log4j-jakarta-smtp
 org.apache.logging.log4j:log4j-jakarta-web
 org.apache.logging.log4j:log4j-jcl
@@ -4264,6 +4268,7 @@ org.eclipse.store:storage-restservice-sparkjava
 org.eclipse.store:storage-restservice-springboot
 org.eclipse.store:store-parent
 org.eclipse:yasson
+org.fryske-akademy:teidictionaries
 org.glassfish.annotations:logging-annotation-processor
 org.glassfish.build:command-security-maven-plugin
 org.glassfish.build:glassfishbuild-maven-plugin

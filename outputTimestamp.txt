@@ -15740,3 +15740,11 @@ eu/maveniverse/maven/heimdall/heimdall/0.1.0/heimdall-0.1.0.pom
 org/apache/sling/org.apache.sling.discovery.commons/1.1.0/org.apache.sling.discovery.commons-1.1.0.pom
 org/codehaus/mojo/mojo-parent/92/mojo-parent-92.pom
    from mvn: 938 - non-mvn: 1453 - buildinfo: 4 - module: 900 - gradle timestamp: 173 - atlasdb: 0 = 0 release
+20250615
+com/github/seregamorph/maven-surefire-cached/0.18/maven-surefire-cached-0.18.pom
+eu/maveniverse/maven/heimdall/heimdall/0.1.1/heimdall-0.1.1.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.1-beta-21/spoon-pom-11.2.1-beta-21.pom
+land/oras/oras-java-sdk/0.2.11/oras-java-sdk-0.2.11.pom
+nl/basjes/maven/release/conventional-commits-version-policy/1.0.8/conventional-commits-version-policy-1.0.8.pom
+org/jpmml/jpmml-sklearn/1.9.10/jpmml-sklearn-1.9.10.pom
+   from mvn: 452 - non-mvn: 900 - buildinfo: 0 - module: 890 - gradle timestamp: 239 - atlasdb: 0 = 0 release
