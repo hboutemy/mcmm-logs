@@ -724,6 +724,9 @@ com.open-elements.hiero:hiero-microprofile
 com.open-elements.hiero:hiero-spring
 com.open-elements.solidity:solidity-enterprise
 com.open-elements:oss-license-scanner
+com.open-elements:recordstore-parent
+com.open-elements:recordstore-runtime
+com.open-elements:recordstore-server
 com.oracle.database.graph:opg-client
 com.oracle.database.graph:opg-graph-importer
 com.oracle.database.graph:opg-pgql-jdbc

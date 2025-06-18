@@ -15748,3 +15748,20 @@ land/oras/oras-java-sdk/0.2.11/oras-java-sdk-0.2.11.pom
 nl/basjes/maven/release/conventional-commits-version-policy/1.0.8/conventional-commits-version-policy-1.0.8.pom
 org/jpmml/jpmml-sklearn/1.9.10/jpmml-sklearn-1.9.10.pom
    from mvn: 452 - non-mvn: 900 - buildinfo: 0 - module: 890 - gradle timestamp: 239 - atlasdb: 0 = 0 release
+20250616
+fr/inria/gforge/spoon/spoon-pom/11.2.1/spoon-pom-11.2.1.pom
+io/avaje/avaje-inject-parent/11.6-RC3/avaje-inject-parent-11.6-RC3.pom
+io/roastedroot/quickjs4j-parent/0.0.6/quickjs4j-parent-0.0.6.pom
+io/telicent/jena/jena-kafka/2.0.0/jena-kafka-2.0.0.pom
+net/bytebuddy/byte-buddy-agent/1.17.6/byte-buddy-agent-1.17.6.pom
+net/bytebuddy/byte-buddy-dep/1.17.6/byte-buddy-dep-1.17.6.pom
+net/bytebuddy/byte-buddy-parent/1.17.6/byte-buddy-parent-1.17.6.pom
+org/apache/commons/commons-fileupload2-core/2.0.0-M4/commons-fileupload2-core-2.0.0-M4.pom
+org/apache/commons/commons-fileupload2-distribution/2.0.0-M4/commons-fileupload2-distribution-2.0.0-M4.pom
+org/apache/commons/commons-fileupload2-jakarta-servlet5/2.0.0-M4/commons-fileupload2-jakarta-servlet5-2.0.0-M4.pom
+org/apache/commons/commons-fileupload2-jakarta-servlet6/2.0.0-M4/commons-fileupload2-jakarta-servlet6-2.0.0-M4.pom
+org/apache/commons/commons-fileupload2-javax/2.0.0-M4/commons-fileupload2-javax-2.0.0-M4.pom
+org/apache/commons/commons-fileupload2-portlet/2.0.0-M4/commons-fileupload2-portlet-2.0.0-M4.pom
+org/apache/commons/commons-fileupload2/2.0.0-M4/commons-fileupload2-2.0.0-M4.pom
+org/phoebus/service-olog/5.0.5/service-olog-5.0.5.pom
+   from mvn: 3261 - non-mvn: 4436 - buildinfo: 0 - module: 2719 - gradle timestamp: 1327 - atlasdb: 0 = 0 release

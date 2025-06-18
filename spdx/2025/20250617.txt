@@ -1,0 +1,1 @@
+land/oras/oras-java-sdk/0.2.12/oras-java-sdk-0.2.12.spdx.json
