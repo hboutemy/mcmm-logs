@@ -1136,6 +1136,7 @@ io.github.sparsick.testcontainers.gitserver:rewrite-testcontainers-gitserver
 io.github.sparsick.testcontainers.gitserver:testcontainers-git-bom
 io.github.sparsick.testcontainers.gitserver:testcontainers-git-parent
 io.github.sparsick.testcontainers.gitserver:testcontainers-gitserver
+io.github.tomverin:sonar-dummy-oss-plugin
 io.smallrye.reactive:mutiny
 io.smallrye.reactive:mutiny-kotlin
 io.smallrye.reactive:mutiny-math
@@ -6773,6 +6774,7 @@ org.sonarsource.scanner.cli:sonar-scanner-cli
 org.sonarsource.scanner.maven:sonar-maven-plugin
 org.sonarsource.sonarqube:sonar-application
 org.sonatype.nexus.plugins:nexus-blobstore-google-cloud
+org.wildfly:wildfly-maven-gpg-plugin
 org.xmlunit:xmlunit-assertj
 org.xmlunit:xmlunit-assertj3
 org.xmlunit:xmlunit-core
