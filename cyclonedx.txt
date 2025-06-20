@@ -723,6 +723,7 @@ com.open-elements.hiero:hiero-enterprise-spring
 com.open-elements.hiero:hiero-microprofile
 com.open-elements.hiero:hiero-spring
 com.open-elements.solidity:solidity-enterprise
+com.open-elements:go-cardless-client
 com.open-elements:oss-license-scanner
 com.open-elements:recordstore-parent
 com.open-elements:recordstore-runtime
@@ -2933,6 +2934,7 @@ org.apache.hop:hop-ui
 org.apache.hop:hop-ui-rap
 org.apache.hop:hop-ui-rcp
 org.apache.hop:hop-valuetypes-json
+org.apache.iotdb:iotdb-extras-parent
 org.apache.iotdb:iotdb-parent
 org.apache.jena:apache-jena
 org.apache.jena:apache-jena-fuseki

@@ -15781,3 +15781,21 @@ org/apache/dubbo/dubbo-dependencies-bom/3.2.18/dubbo-dependencies-bom-3.2.18.pom
 org/apache/dubbo/dubbo-dependencies/3.2.18/dubbo-dependencies-3.2.18.pom
 org/apache/maven/maven-parent/45/maven-parent-45.pom
    from mvn: 3874 - non-mvn: 3900 - buildinfo: 0 - module: 3768 - gradle timestamp: 1618 - atlasdb: 0 = 0 release
+20250618
+com/github/hazendaz/git/github-desktop/3.5.0/github-desktop-3.5.0.pom
+de/cuioss/cui-java-parent/1.0.9/cui-java-parent-1.0.9.pom
+de/cuioss/cui-parent-pom/1.0.9/cui-parent-pom-1.0.9.pom
+dev/langchain4j/langchain4j-parent/1.1.0-beta7/langchain4j-parent-1.1.0-beta7.pom
+eu/maveniverse/maven/heimdall/heimdall/0.1.2/heimdall-0.1.2.pom
+eu/maveniverse/maven/njord/njord/0.8.0/njord-0.8.0.pom
+eu/maveniverse/maven/toolbox/toolbox/0.11.0/toolbox-0.11.0.pom
+eu/maveniverse/maven/toolbox/toolbox/0.11.1/toolbox-0.11.1.pom
+io/github/chains-project/maven-lockfile-parent/5.6.0/maven-lockfile-parent-5.6.0.pom
+io/github/rosestack/rose-build/0.0.6/rose-build-0.0.6.pom
+io/github/rosestack/rose-build/0.0.7/rose-build-0.0.7.pom
+io/liftwizard/liftwizard-minimal-parent/2.1.32/liftwizard-minimal-parent-2.1.32.pom
+io/wcm/tooling/commons/io.wcm.tooling.commons.content-package-builder/1.7.6/io.wcm.tooling.commons.content-package-builder-1.7.6.pom
+org/apache/maven/maven/3.8.9/maven-3.8.9.pom
+org/webjars/bootstrap/5.3.7/bootstrap-5.3.7.pom
+org/wildfly/wildfly-maven-gpg-plugin/3.2.7.SP1/wildfly-maven-gpg-plugin-3.2.7.SP1.pom
+   from mvn: 3271 - non-mvn: 3350 - buildinfo: 2 - module: 3251 - gradle timestamp: 1331 - atlasdb: 0 = 0 release
