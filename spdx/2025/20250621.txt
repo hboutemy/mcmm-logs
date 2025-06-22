@@ -1,0 +1,2 @@
+land/oras/oras-java-sdk/0.2.13/oras-java-sdk-0.2.13.spdx.json
+land/oras/oras-java-sdk/0.2.14/oras-java-sdk-0.2.14.spdx.json

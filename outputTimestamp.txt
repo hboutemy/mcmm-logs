@@ -15844,3 +15844,15 @@ org/apache/commons/commons-parent/85/commons-parent-85.pom
 org/apache/sling/org.apache.sling.feature.launcher/1.3.4/org.apache.sling.feature.launcher-1.3.4.pom
 org/eclipse/jetty/jetty-project/12.1.0.beta1/jetty-project-12.1.0.beta1.pom
    from mvn: 6281 - non-mvn: 3532 - buildinfo: 5 - module: 3588 - gradle timestamp: 1360 - atlasdb: 0 = 0 release
+20250620
+io/dropwizard/metrics5/metrics-parent/5.0.1/metrics-parent-5.0.1.pom
+io/github/rosestack/test/0.0.15/test-0.0.15.pom
+io/github/rosestack/test/0.0.16/test-0.0.16.pom
+io/github/rosestack/test/0.0.17/test-0.0.17.pom
+io/github/rosestack/test/0.0.18/test-0.0.18.pom
+io/streamnative/connectors/pulsar-spark-connector_2.13/3.4.1.3/pulsar-spark-connector_2.13-3.4.1.3.pom
+org/apache/maven/plugins/maven-ear-plugin/3.4.0/maven-ear-plugin-3.4.0.pom
+org/finos/legend/engine/legend-engine/4.88.11/legend-engine-4.88.11.pom
+org/finos/legend/engine/legend-engine/4.89.0/legend-engine-4.89.0.pom
+org/jpmml/jpmml-sklearn/1.9.11/jpmml-sklearn-1.9.11.pom
+   from mvn: 8174 - non-mvn: 3895 - buildinfo: 5 - module: 3653 - gradle timestamp: 1574 - atlasdb: 0 = 0 release

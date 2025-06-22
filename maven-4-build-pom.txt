@@ -1053,3 +1053,5 @@ com/flowlogix/payara-pom/57/payara-pom-57-build.pom
 20250618
 20250619
 20250620
+20250621
+dev/pretsa/scm-version-core/0.0.1/scm-version-core-0.0.1-build.pom
