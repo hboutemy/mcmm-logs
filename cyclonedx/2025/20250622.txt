@@ -1,0 +1,4 @@
+com/github/hazendaz/winscp/winscp/6.5.2/winscp-6.5.2-cyclonedx.json
+com/github/hazendaz/winscp/winscp/6.5.2/winscp-6.5.2-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-1/spoon-pom-11.2.2-beta-1-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-1/spoon-pom-11.2.2-beta-1-cyclonedx.json
