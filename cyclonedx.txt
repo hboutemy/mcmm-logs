@@ -1442,6 +1442,7 @@ io.vertx:vertx-web-parent
 io.vertx:vertx-web-proxy
 io.vertx:vertx-web-session-stores
 io.vertx:vertx-web-sstore-cafeinne
+io.vertx:vertx-web-sstore-caffeine
 io.vertx:vertx-web-sstore-cookie
 io.vertx:vertx-web-sstore-infinispan
 io.vertx:vertx-web-sstore-redis
