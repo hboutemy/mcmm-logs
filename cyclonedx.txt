@@ -3389,6 +3389,7 @@ org.apache.maven:maven-settings-builder
 org.apache.maven:maven-slf4j-provider
 org.apache.maven:maven-slf4j-wrapper
 org.apache.maven:maven-support
+org.apache.maven:maven-testing
 org.apache.maven:maven-toolchain-builder
 org.apache.maven:maven-toolchain-model
 org.apache.maven:maven-xml
