@@ -1098,3 +1098,9 @@ org/apache/maven/maven-toolchain-builder/4.0.0-rc-4/maven-toolchain-builder-4.0.
 org/apache/maven/maven-toolchain-model/4.0.0-rc-4/maven-toolchain-model-4.0.0-rc-4-build.pom
 org/apache/maven/maven-xml/4.0.0-rc-4/maven-xml-4.0.0-rc-4-build.pom
 org/apache/maven/maven/4.0.0-rc-4/maven-4.0.0-rc-4-build.pom
+20250626
+com/flowlogix/archetypes/starter/65/starter-65-build.pom
+com/flowlogix/depchain/depchain/65/depchain-65-build.pom
+com/flowlogix/depchain/integration-test/65/integration-test-65-build.pom
+com/flowlogix/depchain/shiro-jakarta/65/shiro-jakarta-65-build.pom
+com/flowlogix/depchain/unit-test/65/unit-test-65-build.pom

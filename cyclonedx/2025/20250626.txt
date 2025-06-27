@@ -1,0 +1,14 @@
+com/flowlogix/archetypes/starter/65/starter-65-cyclonedx.json
+com/flowlogix/archetypes/starter/65/starter-65-cyclonedx.xml
+com/flowlogix/depchain/depchain/65/depchain-65-cyclonedx.xml
+com/flowlogix/depchain/depchain/65/depchain-65-cyclonedx.json
+com/flowlogix/depchain/integration-test/65/integration-test-65-cyclonedx.xml
+com/flowlogix/depchain/integration-test/65/integration-test-65-cyclonedx.json
+com/flowlogix/depchain/shiro-jakarta/65/shiro-jakarta-65-cyclonedx.json
+com/flowlogix/depchain/shiro-jakarta/65/shiro-jakarta-65-cyclonedx.xml
+com/flowlogix/depchain/unit-test/65/unit-test-65-cyclonedx.xml
+com/flowlogix/depchain/unit-test/65/unit-test-65-cyclonedx.json
+org/apache/camel/camel/4.8.8/camel-4.8.8-cyclonedx.xml
+org/apache/camel/camel/4.8.8/camel-4.8.8-cyclonedx.json
+org/apache/camel/springboot/spring-boot/4.8.8/spring-boot-4.8.8-cyclonedx.json
+org/apache/camel/springboot/spring-boot/4.8.8/spring-boot-4.8.8-cyclonedx.xml
