@@ -15930,3 +15930,11 @@ org/apache/sling/org.apache.sling.testing.hamcrest/1.1.0/org.apache.sling.testin
 org/jpmml/jpmml-parent/1.0.5/jpmml-parent-1.0.5.pom
 org/jpmml/jpmml-sklearn/1.9.12/jpmml-sklearn-1.9.12.pom
    from mvn: 3745 - non-mvn: 4107 - buildinfo: 0 - module: 3025 - gradle timestamp: 1296 - atlasdb: 0 = 0 release
+20250626
+com/github/felfert/jclouds/jclouds-project/2.7.4/jclouds-project-2.7.4.pom
+com/spotify/github-client/0.4.9/github-client-0.4.9.pom
+net/revelc/code/formatter/formatter-maven-plugin/2.27.0/formatter-maven-plugin-2.27.0.pom
+net/sourceforge/pmd/pmd-build-tools-config/32/pmd-build-tools-config-32.pom
+org/apache/camel/camel/4.8.8/camel-4.8.8.pom
+org/apache/opennlp/opennlp-models/1.3.0/opennlp-models-1.3.0.pom
+   from mvn: 6793 - non-mvn: 4143 - buildinfo: 0 - module: 3056 - gradle timestamp: 1413 - atlasdb: 0 = 0 release

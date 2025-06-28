@@ -5535,6 +5535,9 @@ org.locationtech.geomesa:geomesa_pyspark
 org.membrane-soa:membrane-api-gateway
 org.membrane-soa:service-proxy-core
 org.neo4j:neo4j-jdbc
+org.neo4j:neo4j-jdbc-authn
+org.neo4j:neo4j-jdbc-authn-kc
+org.neo4j:neo4j-jdbc-authn-spi
 org.neo4j:neo4j-jdbc-bom
 org.neo4j:neo4j-jdbc-bundle
 org.neo4j:neo4j-jdbc-full-bundle
