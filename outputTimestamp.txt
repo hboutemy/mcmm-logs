@@ -15938,3 +15938,13 @@ net/sourceforge/pmd/pmd-build-tools-config/32/pmd-build-tools-config-32.pom
 org/apache/camel/camel/4.8.8/camel-4.8.8.pom
 org/apache/opennlp/opennlp-models/1.3.0/opennlp-models-1.3.0.pom
    from mvn: 6793 - non-mvn: 4143 - buildinfo: 0 - module: 3056 - gradle timestamp: 1413 - atlasdb: 0 = 0 release
+20250627
+com/github/spotbugs/spotbugs-maven-plugin/4.9.3.2/spotbugs-maven-plugin-4.9.3.2.pom
+io/kokuwa/micronaut/micronaut-logging/5.0.0/micronaut-logging-5.0.0.pom
+net/sourceforge/pmd/pmd/7.15.0/pmd-7.15.0.pom
+org/apache/camel/camel/4.10.6/camel-4.10.6.pom
+org/apache/orc/orc/1.8.10/orc-1.8.10.pom
+org/apache/stormcrawler/stormcrawler/3.4.0/stormcrawler-3.4.0.pom
+org/metricshub/community-connectors/1.0.12/community-connectors-1.0.12.pom
+org/metricshub/metricshub-community/1.0.04/metricshub-community-1.0.04.pom
+   from mvn: 4364 - non-mvn: 6146 - buildinfo: 2 - module: 4839 - gradle timestamp: 1899 - atlasdb: 0 = 0 release
