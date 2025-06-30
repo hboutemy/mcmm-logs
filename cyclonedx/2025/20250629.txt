@@ -1,0 +1,2 @@
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-2/spoon-pom-11.2.2-beta-2-cyclonedx.json
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-2/spoon-pom-11.2.2-beta-2-cyclonedx.xml

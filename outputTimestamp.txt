@@ -15948,3 +15948,23 @@ org/apache/stormcrawler/stormcrawler/3.4.0/stormcrawler-3.4.0.pom
 org/metricshub/community-connectors/1.0.12/community-connectors-1.0.12.pom
 org/metricshub/metricshub-community/1.0.04/metricshub-community-1.0.04.pom
    from mvn: 4364 - non-mvn: 6146 - buildinfo: 2 - module: 4839 - gradle timestamp: 1899 - atlasdb: 0 = 0 release
+20250628
+com/flowlogix/checkstyle/58/checkstyle-58-build.pom
+com/flowlogix/infra-pom/58/infra-pom-58.pom
+com/flowlogix/infra-pom/58/infra-pom-58-build.pom
+com/github/seregamorph/maven-surefire-cached/0.20/maven-surefire-cached-0.20.pom
+io/github/dimabarbul/wiremock-openapi-validation-extension/1.5.0/wiremock-openapi-validation-extension-1.5.0.pom
+nl/basjes/modbus/graphql/modbus-graphql-parent/0.1.0/modbus-graphql-parent-0.1.0.pom
+org/apache/drill/drill-root/1.22.0/drill-root-1.22.0.pom
+org/apache/maven/plugins/maven-invoker-plugin/3.9.1/maven-invoker-plugin-3.9.1.pom
+org/apache/sling/org.apache.sling.api/3.0.0/org.apache.sling.api-3.0.0.pom
+org/apache/sling/org.apache.sling.auth.core/2.0.0/org.apache.sling.auth.core-2.0.0.pom
+org/apache/sling/org.apache.sling.engine/3.0.0/org.apache.sling.engine-3.0.0.pom
+org/apache/sling/org.apache.sling.models.jacksonexporter/2.0.0/org.apache.sling.models.jacksonexporter-2.0.0.pom
+org/apache/sling/org.apache.sling.resourceresolver/2.0.0/org.apache.sling.resourceresolver-2.0.0.pom
+org/apache/sling/org.apache.sling.scripting.core/3.0.0/org.apache.sling.scripting.core-3.0.0.pom
+org/apache/sling/org.apache.sling.scripting.spi/2.0.0/org.apache.sling.scripting.spi-2.0.0.pom
+org/apache/sling/org.apache.sling.servlets.post/3.0.0/org.apache.sling.servlets.post-3.0.0.pom
+org/apache/sling/org.apache.sling.servlets.resolver/3.0.0/org.apache.sling.servlets.resolver-3.0.0.pom
+org/finos/legend/engine/legend-engine/4.89.1/legend-engine-4.89.1.pom
+   from mvn: 1054 - non-mvn: 1285 - buildinfo: 1 - module: 1101 - gradle timestamp: 369 - atlasdb: 0 = 0 release
