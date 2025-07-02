@@ -1140,3 +1140,4 @@ com/flowlogix/infra-pom/59/infra-pom-59-build.pom
 com/flowlogix/infra-pom/60/infra-pom-60-build.pom
 com/flowlogix/payara-pom/59/payara-pom-59-build.pom
 com/flowlogix/payara-pom/60/payara-pom-60-build.pom
+20250701

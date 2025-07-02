@@ -4278,6 +4278,7 @@ org.eclipse.store:storage-restservice-springboot
 org.eclipse.store:store-parent
 org.eclipse:yasson
 org.fryske-akademy:teidictionaries
+org.fryske-akademy:validation
 org.glassfish.annotations:logging-annotation-processor
 org.glassfish.build:command-security-maven-plugin
 org.glassfish.build:glassfishbuild-maven-plugin

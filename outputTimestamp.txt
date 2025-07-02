@@ -15973,3 +15973,22 @@ fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-2/spoon-pom-11.2.2-beta-2.pom
 io/airlift/airbase-policy/271/airbase-policy-271.pom
 io/airlift/airbase/271/airbase-271.pom
    from mvn: 737 - non-mvn: 1694 - buildinfo: 0 - module: 1550 - gradle timestamp: 336 - atlasdb: 0 = 0 release
+20250630
+com/flowlogix/checkstyle/59/checkstyle-59-build.pom
+com/flowlogix/checkstyle/60/checkstyle-60-build.pom
+com/flowlogix/infra-pom/59/infra-pom-59.pom
+com/flowlogix/infra-pom/59/infra-pom-59-build.pom
+com/flowlogix/infra-pom/60/infra-pom-60.pom
+com/flowlogix/infra-pom/60/infra-pom-60-build.pom
+com/github/hazendaz/javabean-tester/2.10.0/javabean-tester-2.10.0.pom
+io/avaje/avaje-applog/1.1/avaje-applog-1.1.pom
+io/avaje/avaje-applog/1.2/avaje-applog-1.2.pom
+io/avaje/avaje-inject-parent/11.6-RC5/avaje-inject-parent-11.6-RC5.pom
+io/wcm/io.wcm.handler.link/2.2.6/io.wcm.handler.link-2.2.6.pom
+io/wcm/io.wcm.handler.media/2.5.0/io.wcm.handler.media-2.5.0.pom
+io/wcm/io.wcm.handler.url/2.1.2/io.wcm.handler.url-2.1.2.pom
+nl/basjes/modbus/graphql/modbus-graphql-parent/0.1.1/modbus-graphql-parent-0.1.1.pom
+org/apache/helix/helix/1.3.2/helix-1.3.2.pom
+org/jpmml/jpmml-sklearn/1.9.13/jpmml-sklearn-1.9.13.pom
+org/metricshub/metricshub-community/1.0.05/metricshub-community-1.0.05.pom
+   from mvn: 2449 - non-mvn: 4439 - buildinfo: 1 - module: 3448 - gradle timestamp: 1458 - atlasdb: 0 = 0 release
