@@ -882,6 +882,7 @@ de.frachtwerk:essencium-backend-uuid-model
 de.gematik.demis:spring-parent
 de.knightsoft-net:gwt-commons-codec
 de.knightsoft-net:gwt-commons-lang3
+de.muenchen.refarch.tools:refarch-pmd
 de.muenchen.refarch:refarch-address-integration
 de.muenchen.refarch:refarch-address-integration-client
 de.muenchen.refarch:refarch-address-integration-core
@@ -915,6 +916,7 @@ de.muenchen.refarch:refarch-s3-integration-rest-client-starter
 de.muenchen.refarch:refarch-s3-integration-rest-core
 de.muenchen.refarch:refarch-s3-integration-rest-starter
 de.muenchen.refarch:refarch-s3-integration-starter
+de.muenchen.refarch:refarch-tools
 de.powerstat.phplib:templateengine
 de.powerstat.toolbaseline:tbl-java-parent
 de.powerstat.validation:validation

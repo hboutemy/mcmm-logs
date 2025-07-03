@@ -15992,3 +15992,10 @@ org/apache/helix/helix/1.3.2/helix-1.3.2.pom
 org/jpmml/jpmml-sklearn/1.9.13/jpmml-sklearn-1.9.13.pom
 org/metricshub/metricshub-community/1.0.05/metricshub-community-1.0.05.pom
    from mvn: 2449 - non-mvn: 4439 - buildinfo: 1 - module: 3448 - gradle timestamp: 1458 - atlasdb: 0 = 0 release
+20250701
+io/github/jmkeyes/thrift-spring-boot-starter/2.0.0/thrift-spring-boot-starter-2.0.0.pom
+org/apache/activemq/artemis-console-project/1.2.1/artemis-console-project-1.2.1.pom
+org/apache/maven/resolver/maven-resolver/1.9.24/maven-resolver-1.9.24.pom
+org/apache/maven/resolver/maven-resolver/2.0.10/maven-resolver-2.0.10.pom
+org/finos/legend/engine/legend-engine/4.89.2/legend-engine-4.89.2.pom
+   from mvn: 5020 - non-mvn: 3217 - buildinfo: 0 - module: 3351 - gradle timestamp: 1615 - atlasdb: 0 = 0 release
