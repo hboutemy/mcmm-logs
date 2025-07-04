@@ -1,0 +1,7 @@
+com/github/hazendaz/git/git-for-windows/2.50.0.1/git-for-windows-2.50.0.1-cyclonedx.xml
+com/github/hazendaz/git/git-for-windows/2.50.0.1/git-for-windows-2.50.0.1-cyclonedx.json
+com/github/hazendaz/nodejs/node/v22.17.0/node-v22.17.0-cyclonedx.xml
+com/github/hazendaz/nodejs/node/v22.17.0/node-v22.17.0-cyclonedx.json
+com/github/hazendaz/nodejs/node/v24.3.0/node-v24.3.0-cyclonedx.json
+com/github/hazendaz/nodejs/node/v24.3.0/node-v24.3.0-cyclonedx.xml
+dev/vality/service-parent-pom/3.1.2/service-parent-pom-3.1.2-cyclonedx.json
