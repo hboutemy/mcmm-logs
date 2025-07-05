@@ -4279,6 +4279,9 @@ org.eclipse.store:storage-restservice-sparkjava
 org.eclipse.store:storage-restservice-springboot
 org.eclipse.store:store-parent
 org.eclipse:yasson
+org.fryske-akademy:CrudApi
+org.fryske-akademy:jpaservices
+org.fryske-akademy:primefacesgui
 org.fryske-akademy:teidictionaries
 org.fryske-akademy:validation
 org.glassfish.annotations:logging-annotation-processor
