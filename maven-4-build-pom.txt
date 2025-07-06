@@ -1144,3 +1144,9 @@ com/flowlogix/payara-pom/60/payara-pom-60-build.pom
 20250702
 20250703
 20250704
+20250705
+com/flowlogix/archetypes/starter/70/starter-70-build.pom
+com/flowlogix/depchain/depchain/70/depchain-70-build.pom
+com/flowlogix/depchain/integration-test/70/integration-test-70-build.pom
+com/flowlogix/depchain/shiro-jakarta/70/shiro-jakarta-70-build.pom
+com/flowlogix/depchain/unit-test/70/unit-test-70-build.pom
