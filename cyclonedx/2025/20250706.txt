@@ -1,0 +1,8 @@
+com/github/hazendaz/gradle/gradle/8.14.3/gradle-8.14.3-cyclonedx.json
+com/github/hazendaz/gradle/gradle/8.14.3/gradle-8.14.3-cyclonedx.xml
+com/github/hazendaz/tomcat/tomcat10-config/10.1.43/tomcat10-config-10.1.43-cyclonedx.json
+com/github/hazendaz/tomcat/tomcat10-config/10.1.43/tomcat10-config-10.1.43-cyclonedx.xml
+com/github/hazendaz/tomcat/tomcat11-config/11.0.9/tomcat11-config-11.0.9-cyclonedx.xml
+com/github/hazendaz/tomcat/tomcat11-config/11.0.9/tomcat11-config-11.0.9-cyclonedx.json
+com/github/hazendaz/tomcat/tomcat9-config/9.0.107/tomcat9-config-9.0.107-cyclonedx.xml
+com/github/hazendaz/tomcat/tomcat9-config/9.0.107/tomcat9-config-9.0.107-cyclonedx.json
