@@ -5597,6 +5597,7 @@ org.opendaylight.aaa:odl-aaa-shiro
 org.opendaylight.aaa:odl-aaa-web
 org.opendaylight.aaa:odl-apache-shiro
 org.opendaylight.aaa:repackaged-shiro
+org.opendaylight.aaa:template-feature-parent
 org.opendaylight.bgpcep:algo-api
 org.opendaylight.bgpcep:algo-artifacts
 org.opendaylight.bgpcep:algo-impl
@@ -5782,6 +5783,7 @@ org.opendaylight.controller.samples:sample-toaster-provider
 org.opendaylight.controller:atomix-storage
 org.opendaylight.controller:benchmark-api
 org.opendaylight.controller:blueprint
+org.opendaylight.controller:bnd-parent
 org.opendaylight.controller:bundle-parent
 org.opendaylight.controller:cds-access-api
 org.opendaylight.controller:cds-access-client
@@ -5792,6 +5794,7 @@ org.opendaylight.controller:controller-docs
 org.opendaylight.controller:controller-test-karaf
 org.opendaylight.controller:dsbenchmark
 org.opendaylight.controller:eos-dom-akka
+org.opendaylight.controller:feature-parent
 org.opendaylight.controller:features-controller
 org.opendaylight.controller:features-controller-experimental
 org.opendaylight.controller:features-controller-testing
@@ -5811,14 +5814,20 @@ org.opendaylight.controller:odl-controller-mdsal-common
 org.opendaylight.controller:odl-controller-scala
 org.opendaylight.controller:odl-jolokia
 org.opendaylight.controller:odl-jolokia-osgi
+org.opendaylight.controller:odl-lz4
 org.opendaylight.controller:odl-mdsal-benchmark
 org.opendaylight.controller:odl-mdsal-broker
 org.opendaylight.controller:odl-mdsal-clustering-commons
 org.opendaylight.controller:odl-mdsal-distributed-datastore
 org.opendaylight.controller:odl-mdsal-remoterpc-connector
+org.opendaylight.controller:odl-raft-api
+org.opendaylight.controller:odl-raft-spi
 org.opendaylight.controller:odl-toaster
+org.opendaylight.controller:raft-api
 org.opendaylight.controller:raft-journal
+org.opendaylight.controller:raft-spi
 org.opendaylight.controller:repackaged-akka
+org.opendaylight.controller:repackaged-pekko
 org.opendaylight.controller:rpcbenchmark
 org.opendaylight.controller:sal-akka-raft
 org.opendaylight.controller:sal-akka-raft-example

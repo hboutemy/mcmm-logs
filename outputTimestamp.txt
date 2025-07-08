@@ -16053,3 +16053,7 @@ com/github/veithen/hermetic-security-manager/1.3.0/hermetic-security-manager-1.3
 com/github/veithen/maven/hermetic-maven-plugin/0.9.0/hermetic-maven-plugin-0.9.0.pom
 com/github/veithen/parent/54/parent-54.pom
    from mvn: 594 - non-mvn: 1676 - buildinfo: 0 - module: 1407 - gradle timestamp: 269 - atlasdb: 0 = 0 release
+20250706
+de/unentscheidbar/migratedb/1.5.0/migratedb-1.5.0.pom
+io/github/czudf/czudf-java-toolkit/1.3.1/czudf-java-toolkit-1.3.1.pom
+   from mvn: 1354 - non-mvn: 1280 - buildinfo: 0 - module: 1110 - gradle timestamp: 294 - atlasdb: 0 = 0 release
