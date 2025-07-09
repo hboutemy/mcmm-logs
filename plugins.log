@@ -4488,6 +4488,7 @@ org.apache.camel -> camel-main-package:camel-main-package-maven-plugin = "Camel 
 org.apache.camel -> camel:camel-maven-plugin = "Camel :: Maven Plugins :: Camel Maven Plugin"
 org.apache.camel -> camel:camel-maven-plugin = "Camel :: Maven Plugins :: Camel Maven Run"
 org.apache.camel -> camel-package:camel-package-maven-plugin = "Camel :: Maven Plugins :: Camel Maven Package"
+org.apache.camel -> camel-repackager:camel-repackager-maven-plugin = "Camel :: Maven Plugins :: Repackager"
 org.apache.camel -> camel-report:camel-report-maven-plugin = "Camel :: Catalog :: Camel Report Maven Plugin"
 org.apache.camel -> camel-resources:camel-resources-plugin = "Camel :: Maven Plugins :: Enhanced Resources Plugin"
 org.apache.camel -> camel-restdsl-openapi:camel-restdsl-openapi-plugin = "Camel :: Maven Plugins :: OpenApi REST DSL Generator Maven Plugin"

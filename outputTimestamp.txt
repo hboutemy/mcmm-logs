@@ -16057,3 +16057,36 @@ com/github/veithen/parent/54/parent-54.pom
 de/unentscheidbar/migratedb/1.5.0/migratedb-1.5.0.pom
 io/github/czudf/czudf-java-toolkit/1.3.1/czudf-java-toolkit-1.3.1.pom
    from mvn: 1354 - non-mvn: 1280 - buildinfo: 0 - module: 1110 - gradle timestamp: 294 - atlasdb: 0 = 0 release
+20250707
+com/github/nbbrd/java-sql-util/java-sql-bom/1.0.7/java-sql-bom-1.0.7.pom
+com/github/nbbrd/java-sql-util/java-sql-parent/1.0.7/java-sql-parent-1.0.7.pom
+com/hibegin/common-dao/1.0.0/common-dao-1.0.0.pom
+com/hibegin/common-dao/1.0.1/common-dao-1.0.1.pom
+com/hibegin/common-dao/1.0.2/common-dao-1.0.2.pom
+com/hibegin/common-dao/1.0.3/common-dao-1.0.3.pom
+com/hibegin/common-dao/1.0.4/common-dao-1.0.4.pom
+eu/maveniverse/maven/njord/njord/0.8.1/njord-0.8.1.pom
+eu/maveniverse/maven/parent/parent/40/parent-40.pom
+io/airlift/airbase-policy/276/airbase-policy-276.pom
+io/airlift/airbase/276/airbase-276.pom
+io/avaje/avaje-jex-parent/3.3-RC1/avaje-jex-parent-3.3-RC1.pom
+io/cucumber/cucumber-jvm/7.24.0/cucumber-jvm-7.24.0.pom
+io/cucumber/gherkin/32.2.0/gherkin-32.2.0.pom
+io/cucumber/gherkin/33.0.0/gherkin-33.0.0.pom
+io/cucumber/html-formatter/21.13.0/html-formatter-21.13.0.pom
+io/cucumber/junit-xml-formatter/0.8.0/junit-xml-formatter-0.8.0.pom
+io/cucumber/messages/28.0.0/messages-28.0.0.pom
+io/cucumber/pretty-formatter/0.1.0/pretty-formatter-0.1.0.pom
+io/cucumber/pretty-formatter/0.2.0/pretty-formatter-0.2.0.pom
+io/cucumber/query/13.4.0/query-13.4.0.pom
+io/cucumber/testng-xml-formatter/0.4.0/testng-xml-formatter-0.4.0.pom
+io/github/pierce-lonergan/nexus-piercer/1.0.0/nexus-piercer-1.0.0.pom
+io/github/pierce-lonergan/nexus-piercer/1.0.1/nexus-piercer-1.0.1.pom
+io/github/pierce-lonergan/nexus-piercer/1.0.2/nexus-piercer-1.0.2.pom
+io/github/pierce-lonergan/nexus-piercer/1.0.3/nexus-piercer-1.0.3.pom
+io/github/rockcrafters/rockcraft-parent/1.1.3/rockcraft-parent-1.1.3.pom
+io/roastedroot/jq4j-parent/0.0.1/jq4j-parent-0.0.1.pom
+org/apache/shiro/shiro-root/2.0.5/shiro-root-2.0.5.pom
+org/apache/shiro/shiro-root/2.0.5/shiro-root-2.0.5-build.pom
+org/eclipse/daanse/org.eclipse.daanse.pom.parent/0.0.3/org.eclipse.daanse.pom.parent-0.0.3.pom
+   from mvn: 4928 - non-mvn: 3017 - buildinfo: 0 - module: 2291 - gradle timestamp: 519 - atlasdb: 0 = 0 release
