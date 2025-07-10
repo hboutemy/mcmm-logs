@@ -6266,6 +6266,7 @@ org.opendaylight.netconf:bnd-parent
 org.opendaylight.netconf:callhome-model
 org.opendaylight.netconf:callhome-protocol
 org.opendaylight.netconf:callhome-provider
+org.opendaylight.netconf:databind
 org.opendaylight.netconf:feature-parent
 org.opendaylight.netconf:features-netconf
 org.opendaylight.netconf:features-netconf-connector
@@ -6338,11 +6339,13 @@ org.opendaylight.netconf:odl-netconf-common
 org.opendaylight.netconf:odl-netconf-connector
 org.opendaylight.netconf:odl-netconf-connector-all
 org.opendaylight.netconf:odl-netconf-console
+org.opendaylight.netconf:odl-netconf-databind
 org.opendaylight.netconf:odl-netconf-impl
 org.opendaylight.netconf:odl-netconf-keystore
 org.opendaylight.netconf:odl-netconf-keystore-plaintext
 org.opendaylight.netconf:odl-netconf-mapping-api
 org.opendaylight.netconf:odl-netconf-mdsal
+org.opendaylight.netconf:odl-netconf-mdsal-common
 org.opendaylight.netconf:odl-netconf-model-rfc5277
 org.opendaylight.netconf:odl-netconf-model-rfc6022
 org.opendaylight.netconf:odl-netconf-model-rfc6241
@@ -6388,9 +6391,11 @@ org.opendaylight.netconf:restconf-nb-rfc8040
 org.opendaylight.netconf:restconf-openapi
 org.opendaylight.netconf:restconf-server
 org.opendaylight.netconf:restconf-server-api
+org.opendaylight.netconf:restconf-server-api-testlib
 org.opendaylight.netconf:restconf-server-jaxrs
 org.opendaylight.netconf:restconf-server-mdsal
 org.opendaylight.netconf:restconf-server-spi
+org.opendaylight.netconf:restconf-subscription
 org.opendaylight.netconf:restconf-wadl-generator
 org.opendaylight.netconf:sal-netconf-connector
 org.opendaylight.netconf:sal-remote-impl

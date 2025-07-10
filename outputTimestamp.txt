@@ -16090,3 +16090,25 @@ org/apache/shiro/shiro-root/2.0.5/shiro-root-2.0.5.pom
 org/apache/shiro/shiro-root/2.0.5/shiro-root-2.0.5-build.pom
 org/eclipse/daanse/org.eclipse.daanse.pom.parent/0.0.3/org.eclipse.daanse.pom.parent-0.0.3.pom
    from mvn: 4928 - non-mvn: 3017 - buildinfo: 0 - module: 2291 - gradle timestamp: 519 - atlasdb: 0 = 0 release
+20250708
+com/fasterxml/oss-parent/69/oss-parent-69.pom
+eu/maveniverse/maven/njord/njord/0.8.2/njord-0.8.2.pom
+io/airlift/airbase-policy/277/airbase-policy-277.pom
+io/airlift/airbase/277/airbase-277.pom
+io/avaje/avaje-config-toml/4.2-RC1/avaje-config-toml-4.2-RC1.pom
+io/avaje/avaje-config/4.2-RC1/avaje-config-4.2-RC1.pom
+io/avaje/avaje-metrics-parent/9.7-RC2/avaje-metrics-parent-9.7-RC2.pom
+io/github/czudf/czudf-java-toolkit/1.4.0/czudf-java-toolkit-1.4.0.pom
+io/github/jmkeyes/curator-kubernetes-ensemble-provider/0.3.1/curator-kubernetes-ensemble-provider-0.3.1.pom
+io/github/jmkeyes/httpclient-proxy-protocol/0.3.0/httpclient-proxy-protocol-0.3.0.pom
+io/github/jmkeyes/opensaml-message-converter/1.0.1/opensaml-message-converter-1.0.1.pom
+io/github/jmkeyes/opensaml-message-converter/2.0.1/opensaml-message-converter-2.0.1.pom
+io/github/jmkeyes/thrift-spring-boot-starter/1.1.0/thrift-spring-boot-starter-1.1.0.pom
+io/github/jmkeyes/thrift-spring-boot-starter/2.0.1/thrift-spring-boot-starter-2.0.1.pom
+io/github/pierce-lonergan/nexus-piercer/1.0.4/nexus-piercer-1.0.4.pom
+org/apache/camel/camel/4.13.0/camel-4.13.0.pom
+org/apache/causeway/causeway-bom/3.4.0/causeway-bom-3.4.0.pom
+org/apache/orc/orc/2.0.6/orc-2.0.6.pom
+org/finos/legend/engine/legend-engine/4.89.6/legend-engine-4.89.6.pom
+org/green-code-initiative/creedengo-rules-specifications/2.3.0/creedengo-rules-specifications-2.3.0.pom
+   from mvn: 3723 - non-mvn: 3829 - buildinfo: 1 - module: 2828 - gradle timestamp: 801 - atlasdb: 0 = 0 release
