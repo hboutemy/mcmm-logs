@@ -157,6 +157,7 @@ org.jetbrains.kotlin:kotlin-build-statistics
 org.jetbrains.kotlin:kotlin-build-tools-api
 org.jetbrains.kotlin:kotlin-build-tools-impl
 org.jetbrains.kotlin:kotlin-compiler
+org.jetbrains.kotlin:kotlin-compiler-arguments-description
 org.jetbrains.kotlin:kotlin-compiler-client-embeddable
 org.jetbrains.kotlin:kotlin-compiler-embeddable
 org.jetbrains.kotlin:kotlin-compiler-internal-test-framework
@@ -168,9 +169,12 @@ org.jetbrains.kotlin:kotlin-daemon-client
 org.jetbrains.kotlin:kotlin-daemon-embeddable
 org.jetbrains.kotlin:kotlin-dataframe
 org.jetbrains.kotlin:kotlin-dataframe-compiler-plugin
+org.jetbrains.kotlin:kotlin-dataframe-compiler-plugin-embeddable
+org.jetbrains.kotlin:kotlin-dataframe-compiler-plugin-experimental
 org.jetbrains.kotlin:kotlin-dist-for-jps-meta
 org.jetbrains.kotlin:kotlin-dom-api-compat
 org.jetbrains.kotlin:kotlin-gradle-build-metrics
+org.jetbrains.kotlin:kotlin-gradle-ecosystem-plugin
 org.jetbrains.kotlin:kotlin-gradle-plugin
 org.jetbrains.kotlin:kotlin-gradle-plugin-annotations
 org.jetbrains.kotlin:kotlin-gradle-plugin-api
@@ -187,6 +191,7 @@ org.jetbrains.kotlin:kotlin-lombok-compiler-plugin
 org.jetbrains.kotlin:kotlin-lombok-compiler-plugin-embeddable
 org.jetbrains.kotlin:kotlin-main-kts
 org.jetbrains.kotlin:kotlin-maven-allopen
+org.jetbrains.kotlin:kotlin-maven-dataframe
 org.jetbrains.kotlin:kotlin-maven-lombok
 org.jetbrains.kotlin:kotlin-maven-noarg
 org.jetbrains.kotlin:kotlin-maven-plugin

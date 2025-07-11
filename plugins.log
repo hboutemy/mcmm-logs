@@ -5623,6 +5623,7 @@ org.glassfish.jersey.tools.plugins -> jersey-release-notes:jersey-release-notes-
 org.glassfish.main.hk2 -> config-generator:config-generator = "HK2 configuration reader generator module"
 org.glassfish.maven.plugin -> glassfish:maven-glassfish-plugin = "Maven Glassfish Plugin"
 org.glassfish.metro -> harness:harness-maven-plugin = "WS Test Harness Maven Plugin"
+org.glassfish.tyrus.tools.plugins -> tyrus-jar-updater:tyrus-jar-updater = "Tyrus Jar Updater"
 org.golo-lang -> golo:golo-maven-plugin = "Golo Maven Plugin"
 org.goots.maven.plugins -> pom-deployer:pom-deployer-maven-plugin = "pom-deployer-maven-plugin"
 org.graalvm.buildtools -> native:native-maven-plugin = "GraalVM Native Maven Plugin"

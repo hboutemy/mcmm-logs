@@ -5111,6 +5111,7 @@ org.glassfish.tyrus.tests:tyrus-tests-e2e-jetty
 org.glassfish.tyrus.tests:tyrus-tests-e2e-nondeployable
 org.glassfish.tyrus.tests:tyrus-tests-e2e-stdconfig
 org.glassfish.tyrus.tests:tyrus-tests-project
+org.glassfish.tyrus.tools.plugins:tyrus-jar-updater
 org.glassfish.tyrus:tyrus-bom
 org.glassfish.tyrus:tyrus-client
 org.glassfish.tyrus:tyrus-container-glassfish-cdi
@@ -6552,6 +6553,9 @@ org.opendaylight.openflowplugin:openflowplugin-parent
 org.opendaylight.openflowplugin:sample-bundles
 org.opendaylight.openflowplugin:sample-consumer
 org.opendaylight.openflowplugin:simple-client
+org.opendaylight.openflowplugin:srm-api
+org.opendaylight.openflowplugin:srm-impl
+org.opendaylight.openflowplugin:srm-shell
 org.opendaylight.openflowplugin:test-common
 org.opendaylight.openflowplugin:test-extension
 org.opendaylight.openflowplugin:test-provider
