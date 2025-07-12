@@ -16125,3 +16125,21 @@ org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.pom
 org/apache/orc/orc/2.1.3/orc-2.1.3.pom
 org/apache/tika/tika-parent/3.2.1/tika-parent-3.2.1.pom
    from mvn: 4046 - non-mvn: 3610 - buildinfo: 1 - module: 2883 - gradle timestamp: 1489 - atlasdb: 0 = 0 release
+20250710
+com/github/nbbrd/java-desktop-util/java-desktop-util-bom/2.5.0/java-desktop-util-bom-2.5.0.pom
+com/github/nbbrd/java-desktop-util/java-desktop-util-parent/2.5.0/java-desktop-util-parent-2.5.0.pom
+io/airlift/airbase-policy/278/airbase-policy-278.pom
+io/airlift/airbase/278/airbase-278.pom
+io/cucumber/cucumber-jvm/7.25.0/cucumber-jvm-7.25.0.pom
+io/cucumber/pretty-formatter/0.3.0/pretty-formatter-0.3.0.pom
+io/cucumber/query/13.5.0/query-13.5.0.pom
+io/jenkins/lib/mock-javamail/2.3/mock-javamail-2.3.pom
+io/jenkins/lib/syslog-java-client/1.1.8/syslog-java-client-1.1.8.pom
+org/apache/kie/sonataflow/sonataflow-quarkus-devui-parent/10.1.0/sonataflow-quarkus-devui-parent-10.1.0.pom
+org/jbpm/jbpm-quarkus-devui-parent/10.1.0/jbpm-quarkus-devui-parent-10.1.0.pom
+org/kie/drools-parent/10.1.0/drools-parent-10.1.0.pom
+org/kie/kie-tools-maven-base/10.1.0/kie-tools-maven-base-10.1.0.pom
+org/kie/kogito/kogito-apps/10.1.0/kogito-apps-10.1.0.pom
+org/kie/kogito/kogito-runtimes/10.1.0/kogito-runtimes-10.1.0.pom
+org/optaplanner/optaplanner-parent/10.1.0/optaplanner-parent-10.1.0.pom
+   from mvn: 4324 - non-mvn: 3923 - buildinfo: 0 - module: 3044 - gradle timestamp: 986 - atlasdb: 0 = 0 release
