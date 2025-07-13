@@ -16143,3 +16143,22 @@ org/kie/kogito/kogito-apps/10.1.0/kogito-apps-10.1.0.pom
 org/kie/kogito/kogito-runtimes/10.1.0/kogito-runtimes-10.1.0.pom
 org/optaplanner/optaplanner-parent/10.1.0/optaplanner-parent-10.1.0.pom
    from mvn: 4324 - non-mvn: 3923 - buildinfo: 0 - module: 3044 - gradle timestamp: 986 - atlasdb: 0 = 0 release
+20250711
+com/github/nbbrd/java-design-util/java-design-bom/1.7.0/java-design-bom-1.7.0.pom
+com/github/nbbrd/java-design-util/java-design-parent/1.7.0/java-design-parent-1.7.0.pom
+com/hibegin/common-dao/1.0.7/common-dao-1.0.7.pom
+de/cuioss/cui-java-parent/1.1.1/cui-java-parent-1.1.1.pom
+de/cuioss/cui-parent-pom/1.1.1/cui-parent-pom-1.1.1.pom
+eu/maveniverse/maven/mima/mima/2.4.31/mima-2.4.31.pom
+eu/maveniverse/maven/toolbox/toolbox/0.11.5/toolbox-0.11.5.pom
+io/streamnative/buildtools/4.0.5.3/buildtools-4.0.5.3.pom
+io/streamnative/pulsar-bom/4.0.5.3/pulsar-bom-4.0.5.3.pom
+io/streamnative/pulsar/4.0.5.3/pulsar-4.0.5.3.pom
+nl/basjes/modbus/devices/modbus-devices-parent/0.5.0/modbus-devices-parent-0.5.0.pom
+nl/basjes/modbus/graphql/modbus-graphql-parent/0.1.2/modbus-graphql-parent-0.1.2.pom
+nl/basjes/modbus/graphql/modbus-graphql-parent/0.2.0/modbus-graphql-parent-0.2.0.pom
+nl/basjes/modbus/modbus-schema-parent/0.11.0/modbus-schema-parent-0.11.0.pom
+nl/basjes/sunspec/sunspec-device-parent/0.7.0/sunspec-device-parent-0.7.0.pom
+org/finos/legend/engine/legend-engine/4.90.0/legend-engine-4.90.0.pom
+org/mybatis/spring/boot/mybatis-spring-boot/3.0.5/mybatis-spring-boot-3.0.5.pom
+   from mvn: 3958 - non-mvn: 2470 - buildinfo: 5 - module: 2625 - gradle timestamp: 710 - atlasdb: 0 = 0 release
