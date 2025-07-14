@@ -1,0 +1,2 @@
+org/opendaylight/aaa/aaa-sbom-0.20.9.spdx
+org/opendaylight/mdsal/mdsal-sbom-13.0.9.spdx

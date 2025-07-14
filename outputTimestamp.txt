@@ -16162,3 +16162,9 @@ nl/basjes/sunspec/sunspec-device-parent/0.7.0/sunspec-device-parent-0.7.0.pom
 org/finos/legend/engine/legend-engine/4.90.0/legend-engine-4.90.0.pom
 org/mybatis/spring/boot/mybatis-spring-boot/3.0.5/mybatis-spring-boot-3.0.5.pom
    from mvn: 3958 - non-mvn: 2470 - buildinfo: 5 - module: 2625 - gradle timestamp: 710 - atlasdb: 0 = 0 release
+20250712
+com/hibegin/common-dao/1.0.8/common-dao-1.0.8.pom
+com/hibegin/common-dao/1.0.9/common-dao-1.0.9.pom
+io/github/cbarlin/aru-parent/0.2.6/aru-parent-0.2.6.pom
+org/apache/wicket/wicket-parent/10.6.0/wicket-parent-10.6.0.pom
+   from mvn: 853 - non-mvn: 1786 - buildinfo: 0 - module: 1732 - gradle timestamp: 462 - atlasdb: 0 = 0 release
