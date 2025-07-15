@@ -16168,3 +16168,13 @@ com/hibegin/common-dao/1.0.9/common-dao-1.0.9.pom
 io/github/cbarlin/aru-parent/0.2.6/aru-parent-0.2.6.pom
 org/apache/wicket/wicket-parent/10.6.0/wicket-parent-10.6.0.pom
    from mvn: 853 - non-mvn: 1786 - buildinfo: 0 - module: 1732 - gradle timestamp: 462 - atlasdb: 0 = 0 release
+20250713
+com/github/seregamorph/maven-surefire-cached/0.22/maven-surefire-cached-0.22.pom
+de/cuioss/cui-java-parent/1.1.2/cui-java-parent-1.1.2.pom
+de/cuioss/cui-parent-pom/1.1.2/cui-parent-pom-1.1.2.pom
+io/avaje/avaje-http-parent/3.4-RC2/avaje-http-parent-3.4-RC2.pom
+io/avaje/avaje-inject-parent/11.6-RC6/avaje-inject-parent-11.6-RC6.pom
+org/jpmml/jpmml-converter/1.6.3/jpmml-converter-1.6.3.pom
+org/jpmml/jpmml-evaluator/1.7.4/jpmml-evaluator-1.7.4.pom
+org/jpmml/jpmml-transpiler/1.4.3/jpmml-transpiler-1.4.3.pom
+   from mvn: 1012 - non-mvn: 1201 - buildinfo: 0 - module: 990 - gradle timestamp: 269 - atlasdb: 0 = 0 release

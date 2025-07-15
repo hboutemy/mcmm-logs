@@ -1,0 +1,5 @@
+land/oras/oras-java-sdk/0.2.15/oras-java-sdk-0.2.15.spdx.json
+org/opendaylight/controller/controller-sbom-9.0.7.spdx
+org/opendaylight/infrautils/infrautils-sbom-6.0.13.spdx
+org/opendaylight/odlparent/odlparent-sbom-13.1.7.spdx
+org/opendaylight/yangtools/yangtools-sbom-13.0.11.spdx
