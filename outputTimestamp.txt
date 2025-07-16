@@ -16178,3 +16178,19 @@ org/jpmml/jpmml-converter/1.6.3/jpmml-converter-1.6.3.pom
 org/jpmml/jpmml-evaluator/1.7.4/jpmml-evaluator-1.7.4.pom
 org/jpmml/jpmml-transpiler/1.4.3/jpmml-transpiler-1.4.3.pom
    from mvn: 1012 - non-mvn: 1201 - buildinfo: 0 - module: 990 - gradle timestamp: 269 - atlasdb: 0 = 0 release
+20250714
+com/hibegin/common-dao/1.0.10/common-dao-1.0.10.pom
+digital/pragmatech/testing/spring-test-profiler/0.0.1/spring-test-profiler-0.0.1.pom
+digital/pragmatech/testing/spring-test-profiler/0.0.2/spring-test-profiler-0.0.2.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-3/spoon-pom-11.2.2-beta-3.pom
+io/airlift/airbase-policy/279/airbase-policy-279.pom
+io/airlift/airbase/279/airbase-279.pom
+io/avaje/avaje-metrics-parent/9.7-RC3/avaje-metrics-parent-9.7-RC3.pom
+io/cucumber/cucumber-jvm/7.26.0/cucumber-jvm-7.26.0.pom
+io/github/cbarlin/aru-parent/0.3.0/aru-parent-0.3.0.pom
+io/yupiik/fusion/fusion/1.0.27/fusion-1.0.27.pom
+land/oras/oras-java-sdk/0.2.15/oras-java-sdk-0.2.15.pom
+org/apache/jackrabbit/jackrabbit-parent/2.20.17/jackrabbit-parent-2.20.17.pom
+org/apache/jackrabbit/jackrabbit-parent/2.22.1/jackrabbit-parent-2.22.1.pom
+org/apache/jackrabbit/jackrabbit-parent/2.23.2-beta/jackrabbit-parent-2.23.2-beta.pom
+   from mvn: 4782 - non-mvn: 3781 - buildinfo: 0 - module: 3448 - gradle timestamp: 732 - atlasdb: 0 = 0 release

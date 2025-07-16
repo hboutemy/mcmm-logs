@@ -1270,6 +1270,7 @@ io.telicent.smart-caches.graph:scg-base
 io.telicent.smart-caches.graph:scg-benchmark
 io.telicent.smart-caches.graph:scg-server
 io.telicent.smart-caches.graph:scg-system
+io.telicent.smart-caches:action-tracker
 io.telicent.smart-caches:cli
 io.telicent.smart-caches:cli-core
 io.telicent.smart-caches:cli-debug
