@@ -1,0 +1,2 @@
+io/github/microcks/microcks-testcontainers/0.3.2/microcks-testcontainers-0.3.2.spdx.json
+org/opendaylight/controller/controller-sbom-9.0.8.spdx

@@ -16194,3 +16194,19 @@ org/apache/jackrabbit/jackrabbit-parent/2.20.17/jackrabbit-parent-2.20.17.pom
 org/apache/jackrabbit/jackrabbit-parent/2.22.1/jackrabbit-parent-2.22.1.pom
 org/apache/jackrabbit/jackrabbit-parent/2.23.2-beta/jackrabbit-parent-2.23.2-beta.pom
    from mvn: 4782 - non-mvn: 3781 - buildinfo: 0 - module: 3448 - gradle timestamp: 732 - atlasdb: 0 = 0 release
+20250715
+com/adobe/acs/acs-aem-commons/6.14.0/acs-aem-commons-6.14.0.pom
+io/avaje/avaje-http-parent/3.4-RC3/avaje-http-parent-3.4-RC3.pom
+io/avaje/avaje-inject-parent/11.6-RC7/avaje-inject-parent-11.6-RC7.pom
+io/avaje/avaje-jsonb-parent/3.6-RC1/avaje-jsonb-parent-3.6-RC1.pom
+io/avaje/avaje-jsonb-parent/3.6-RC2/avaje-jsonb-parent-3.6-RC2.pom
+io/avaje/avaje-metrics-parent/9.7/avaje-metrics-parent-9.7.pom
+io/wcm/caravan/io.wcm.caravan.commons.httpasyncclient/1.4.2/io.wcm.caravan.commons.httpasyncclient-1.4.2.pom
+io/yupiik/maven/yupiik-tools-maven-plugin-parent/1.2.9/yupiik-tools-maven-plugin-parent-1.2.9.pom
+org/apache/maven/enforcer/enforcer/3.6.1/enforcer-3.6.1.pom
+org/apache/maven/maven/3.9.11/maven-3.9.11.pom
+org/apache/sling/org.apache.sling.installer.core/3.14.4/org.apache.sling.installer.core-3.14.4.pom
+org/apache/sling/org.apache.sling.servlets.resolver/2.11.12/org.apache.sling.servlets.resolver-2.11.12.pom
+org/metricshub/snmp-java/2.1.00/snmp-java-2.1.00.pom
+org/phoebus/parent/5.0.2/parent-5.0.2.pom
+   from mvn: 3222 - non-mvn: 4779 - buildinfo: 1 - module: 3362 - gradle timestamp: 1649 - atlasdb: 0 = 0 release
