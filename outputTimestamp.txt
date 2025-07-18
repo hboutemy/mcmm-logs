@@ -16210,3 +16210,23 @@ org/apache/sling/org.apache.sling.servlets.resolver/2.11.12/org.apache.sling.ser
 org/metricshub/snmp-java/2.1.00/snmp-java-2.1.00.pom
 org/phoebus/parent/5.0.2/parent-5.0.2.pom
    from mvn: 3222 - non-mvn: 4779 - buildinfo: 1 - module: 3362 - gradle timestamp: 1649 - atlasdb: 0 = 0 release
+20250716
+com/flowlogix/checkstyle/61/checkstyle-61-build.pom
+com/flowlogix/checkstyle/62/checkstyle-62-build.pom
+com/flowlogix/infra-pom/61/infra-pom-61.pom
+com/flowlogix/infra-pom/61/infra-pom-61-build.pom
+com/flowlogix/infra-pom/62/infra-pom-62-build.pom
+com/flowlogix/infra-pom/62/infra-pom-62.pom
+com/hibegin/common-dao/1.0.11/common-dao-1.0.11.pom
+com/hibegin/common-dao/1.0.12/common-dao-1.0.12.pom
+com/hibegin/common-dao/1.0.13/common-dao-1.0.13.pom
+de/stklcode/jvault/jvault-connector/1.5.2/jvault-connector-1.5.2.pom
+io/avaje/avaje-http-parent/3.4-RC4/avaje-http-parent-3.4-RC4.pom
+io/avaje/avaje-jsonb-parent/3.6-RC3/avaje-jsonb-parent-3.6-RC3.pom
+io/cucumber/testng-xml-formatter/0.5.0/testng-xml-formatter-0.5.0.pom
+io/micronaut/maven/micronaut-maven-plugin-parent/4.10.0/micronaut-maven-plugin-parent-4.10.0.pom
+io/quarkus/quarkus-parent/3.15.6/quarkus-parent-3.15.6.pom
+io/quarkus/quarkus-parent/3.20.2/quarkus-parent-3.20.2.pom
+io/quarkus/quarkus-parent/3.25.0.CR1/quarkus-parent-3.25.0.CR1.pom
+io/yupiik/maven/yupiik-tools-maven-plugin-parent/1.2.10/yupiik-tools-maven-plugin-parent-1.2.10.pom
+   from mvn: 5606 - non-mvn: 4180 - buildinfo: 0 - module: 3742 - gradle timestamp: 2120 - atlasdb: 0 = 0 release

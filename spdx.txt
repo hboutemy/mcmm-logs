@@ -15,6 +15,7 @@ commons-net:commons-net
 commons-validator:commons-validator
 de.knightsoft-net:gwt-commons-codec
 de.knightsoft-net:gwt-commons-lang3
+de.knightsoft-net:gwt-commons-validator
 de.powerstat.phplib:templateengine
 de.powerstat.toolbaseline:tbl-java-parent
 de.powerstat.validation:validation
