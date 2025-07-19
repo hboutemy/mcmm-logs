@@ -2970,6 +2970,7 @@ org.apache.jena:jena-fuseki-docker
 org.apache.jena:jena-fuseki-fulljar
 org.apache.jena:jena-fuseki-geosparql
 org.apache.jena:jena-fuseki-main
+org.apache.jena:jena-fuseki-mod-geosparql
 org.apache.jena:jena-fuseki-server
 org.apache.jena:jena-fuseki-ui
 org.apache.jena:jena-fuseki-war

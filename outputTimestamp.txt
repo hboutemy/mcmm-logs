@@ -16230,3 +16230,21 @@ io/quarkus/quarkus-parent/3.20.2/quarkus-parent-3.20.2.pom
 io/quarkus/quarkus-parent/3.25.0.CR1/quarkus-parent-3.25.0.CR1.pom
 io/yupiik/maven/yupiik-tools-maven-plugin-parent/1.2.10/yupiik-tools-maven-plugin-parent-1.2.10.pom
    from mvn: 5606 - non-mvn: 4180 - buildinfo: 0 - module: 3742 - gradle timestamp: 2120 - atlasdb: 0 = 0 release
+20250717
+de/knightsoft-net/gwt-commons-lang3/3.18.0-0/gwt-commons-lang3-3.18.0-0.pom
+de/knightsoft-net/gwt-commons-validator/1.10.0-0/gwt-commons-validator-1.10.0-0.pom
+digital/pragmatech/testing/spring-test-profiler/0.0.3/spring-test-profiler-0.0.3.pom
+digital/pragmatech/testing/spring-test-profiler/0.0.4/spring-test-profiler-0.0.4.pom
+digital/pragmatech/testing/spring-test-profiler/0.0.5/spring-test-profiler-0.0.5.pom
+io/github/cbarlin/aru-parent/0.3.1/aru-parent-0.3.1.pom
+io/github/firmers/aidoc/0.0.1/aidoc-0.0.1.pom
+io/github/firmers/aidoc/0.0.2/aidoc-0.0.2.pom
+io/kokuwa/maven/k3s-maven-plugin/2.0.0/k3s-maven-plugin-2.0.0.pom
+io/kokuwa/micronaut/micronaut-openapi-codegen/4.5.0/micronaut-openapi-codegen-4.5.0.pom
+io/quarkus/quarkus-parent/3.24.4/quarkus-parent-3.24.4.pom
+org/apache/opendal/opendal/0.48.0/opendal-0.48.0.pom
+org/finos/legend/engine/legend-engine/4.90.1/legend-engine-4.90.1.pom
+org/infinispan/infinispan-build-configuration-parent/15.0.17.Final/infinispan-build-configuration-parent-15.0.17.Final.pom
+org/infinispan/infinispan-build-configuration-parent/15.2.5.Final/infinispan-build-configuration-parent-15.2.5.Final.pom
+org/infinispan/infinispan-build-configuration-parent/16.0.0.Dev02/infinispan-build-configuration-parent-16.0.0.Dev02.pom
+   from mvn: 4579 - non-mvn: 4205 - buildinfo: 84 - module: 3215 - gradle timestamp: 1465 - atlasdb: 0 = 0 release
