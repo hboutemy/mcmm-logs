@@ -1,0 +1,7 @@
+com/fasterxml/jackson/module/jackson-module-scala_2.11/2.19.2/jackson-module-scala_2.11-2.19.2-cyclonedx.xml
+com/fasterxml/jackson/module/jackson-module-scala_2.12/2.19.2/jackson-module-scala_2.12-2.19.2-cyclonedx.xml
+com/fasterxml/jackson/module/jackson-module-scala_2.13/2.19.2/jackson-module-scala_2.13-2.19.2-cyclonedx.xml
+com/fasterxml/jackson/module/jackson-module-scala_3/2.19.2/jackson-module-scala_3-2.19.2-cyclonedx.xml
+tools/jackson/module/jackson-module-scala_2.12/3.0.0-rc6/jackson-module-scala_2.12-3.0.0-rc6-cyclonedx.xml
+tools/jackson/module/jackson-module-scala_2.13/3.0.0-rc6/jackson-module-scala_2.13-3.0.0-rc6-cyclonedx.xml
+tools/jackson/module/jackson-module-scala_3/3.0.0-rc6/jackson-module-scala_3-3.0.0-rc6-cyclonedx.xml

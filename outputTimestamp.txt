@@ -16248,3 +16248,37 @@ org/infinispan/infinispan-build-configuration-parent/15.0.17.Final/infinispan-bu
 org/infinispan/infinispan-build-configuration-parent/15.2.5.Final/infinispan-build-configuration-parent-15.2.5.Final.pom
 org/infinispan/infinispan-build-configuration-parent/16.0.0.Dev02/infinispan-build-configuration-parent-16.0.0.Dev02.pom
    from mvn: 4579 - non-mvn: 4205 - buildinfo: 84 - module: 3215 - gradle timestamp: 1465 - atlasdb: 0 = 0 release
+20250718
+com/fasterxml/jackson/core/jackson-annotations/2.19.2/jackson-annotations-2.19.2.pom
+com/fasterxml/jackson/core/jackson-core/2.19.2/jackson-core-2.19.2.pom
+com/fasterxml/jackson/core/jackson-databind/2.19.2/jackson-databind-2.19.2.pom
+com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.19.2/jackson-dataformat-xml-2.19.2.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-binary/2.19.2/jackson-dataformats-binary-2.19.2.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.19.2/jackson-dataformats-text-2.19.2.pom
+com/fasterxml/jackson/datatype/jackson-datatype-joda/2.19.2/jackson-datatype-joda-2.19.2.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-collections/2.19.2/jackson-datatypes-collections-2.19.2.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/2.19.2/jackson-datatypes-misc-parent-2.19.2.pom
+com/fasterxml/jackson/jackson-base/2.19.2/jackson-base-2.19.2.pom
+com/fasterxml/jackson/jackson-bom/2.19.2/jackson-bom-2.19.2.pom
+com/fasterxml/jackson/jackson-parent/2.19.3/jackson-parent-2.19.3.pom
+com/fasterxml/jackson/jr/jackson-jr-all/2.19.2/jackson-jr-all-2.19.2.pom
+com/fasterxml/jackson/jr/jackson-jr-annotation-support/2.19.2/jackson-jr-annotation-support-2.19.2.pom
+com/fasterxml/jackson/jr/jackson-jr-extension-javatime/2.19.2/jackson-jr-extension-javatime-2.19.2.pom
+com/fasterxml/jackson/jr/jackson-jr-objects/2.19.2/jackson-jr-objects-2.19.2.pom
+com/fasterxml/jackson/jr/jackson-jr-parent/2.19.2/jackson-jr-parent-2.19.2.pom
+com/fasterxml/jackson/jr/jackson-jr-retrofit2/2.19.2/jackson-jr-retrofit2-2.19.2.pom
+com/fasterxml/jackson/jr/jackson-jr-stree/2.19.2/jackson-jr-stree-2.19.2.pom
+commons-io/commons-io/2.20.0/commons-io-2.20.0.pom
+de/knightsoft-net/gwt-commons-codec/1.18.0-0/gwt-commons-codec-1.18.0-0.pom
+io/airlift/airbase-policy/280/airbase-policy-280.pom
+io/airlift/airbase/280/airbase-280.pom
+io/avaje/avaje-inject-parent/11.6-RC8/avaje-inject-parent-11.6-RC8.pom
+io/cucumber/pretty-formatter/2.0.0/pretty-formatter-2.0.0.pom
+io/streamnative/buildtools/3.3.5.10/buildtools-3.3.5.10.pom
+io/streamnative/pulsar-bom/3.3.5.10/pulsar-bom-3.3.5.10.pom
+io/streamnative/pulsar/3.3.5.10/pulsar-3.3.5.10.pom
+net/sourceforge/pmd/pmd-build-tools-config/33/pmd-build-tools-config-33.pom
+org/apache/activemq/artemis-project/2.42.0/artemis-project-2.42.0.pom
+org/apache/jena/jena/5.5.0/jena-5.5.0.pom
+org/eclipse/jetty/jetty-project/12.1.0.beta2/jetty-project-12.1.0.beta2.pom
+   from mvn: 3179 - non-mvn: 4602 - buildinfo: 1 - module: 3719 - gradle timestamp: 1944 - atlasdb: 0 = 0 release
