@@ -16282,3 +16282,23 @@ org/apache/activemq/artemis-project/2.42.0/artemis-project-2.42.0.pom
 org/apache/jena/jena/5.5.0/jena-5.5.0.pom
 org/eclipse/jetty/jetty-project/12.1.0.beta2/jetty-project-12.1.0.beta2.pom
    from mvn: 3179 - non-mvn: 4602 - buildinfo: 1 - module: 3719 - gradle timestamp: 1944 - atlasdb: 0 = 0 release
+20250719
+io/cucumber/pretty-formatter/2.0.1/pretty-formatter-2.0.1.pom
+io/yupiik/bundlebee/1.0.30/bundlebee-1.0.30.pom
+tools/jackson/core/jackson-core/3.0.0-rc6/jackson-core-3.0.0-rc6.pom
+tools/jackson/core/jackson-databind/3.0.0-rc6/jackson-databind-3.0.0-rc6.pom
+tools/jackson/dataformat/jackson-dataformat-xml/3.0.0-rc6/jackson-dataformat-xml-3.0.0-rc6.pom
+tools/jackson/dataformat/jackson-dataformats-binary/3.0.0-rc6/jackson-dataformats-binary-3.0.0-rc6.pom
+tools/jackson/dataformat/jackson-dataformats-text/3.0.0-rc6/jackson-dataformats-text-3.0.0-rc6.pom
+tools/jackson/datatype/jackson-datatype-joda/3.0.0-rc6/jackson-datatype-joda-3.0.0-rc6.pom
+tools/jackson/datatype/jackson-datatypes-collections/3.0.0-rc6/jackson-datatypes-collections-3.0.0-rc6.pom
+tools/jackson/datatype/jackson-datatypes-misc-parent/3.0.0-rc6/jackson-datatypes-misc-parent-3.0.0-rc6.pom
+tools/jackson/jackson-bom/3.0.0-rc6/jackson-bom-3.0.0-rc6.pom
+tools/jackson/jr/jackson-jr-all/3.0.0-rc6/jackson-jr-all-3.0.0-rc6.pom
+tools/jackson/jr/jackson-jr-annotation-support/3.0.0-rc6/jackson-jr-annotation-support-3.0.0-rc6.pom
+tools/jackson/jr/jackson-jr-extension-javatime/3.0.0-rc6/jackson-jr-extension-javatime-3.0.0-rc6.pom
+tools/jackson/jr/jackson-jr-objects/3.0.0-rc6/jackson-jr-objects-3.0.0-rc6.pom
+tools/jackson/jr/jackson-jr-parent/3.0.0-rc6/jackson-jr-parent-3.0.0-rc6.pom
+tools/jackson/jr/jackson-jr-retrofit2/3.0.0-rc6/jackson-jr-retrofit2-3.0.0-rc6.pom
+tools/jackson/jr/jackson-jr-stree/3.0.0-rc6/jackson-jr-stree-3.0.0-rc6.pom
+   from mvn: 946 - non-mvn: 1428 - buildinfo: 7 - module: 872 - gradle timestamp: 274 - atlasdb: 0 = 0 release
