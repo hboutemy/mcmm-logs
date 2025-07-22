@@ -16302,3 +16302,8 @@ tools/jackson/jr/jackson-jr-parent/3.0.0-rc6/jackson-jr-parent-3.0.0-rc6.pom
 tools/jackson/jr/jackson-jr-retrofit2/3.0.0-rc6/jackson-jr-retrofit2-3.0.0-rc6.pom
 tools/jackson/jr/jackson-jr-stree/3.0.0-rc6/jackson-jr-stree-3.0.0-rc6.pom
    from mvn: 946 - non-mvn: 1428 - buildinfo: 7 - module: 872 - gradle timestamp: 274 - atlasdb: 0 = 0 release
+20250720
+org/green-code-initiative/creedengo-rules-specifications/2.4.0/creedengo-rules-specifications-2.4.0.pom
+org/moditect/moditect-parent/1.3.0.Final/moditect-parent-1.3.0.Final.pom
+org/moditect/moditect-parent/1.3.0/moditect-parent-1.3.0.pom
+   from mvn: 664 - non-mvn: 717 - buildinfo: 0 - module: 697 - gradle timestamp: 233 - atlasdb: 0 = 0 release

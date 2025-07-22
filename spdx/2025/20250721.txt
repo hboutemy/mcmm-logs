@@ -1,0 +1,13 @@
+de/fhlintstone/fhlintstone-cli/0.1.0/fhlintstone-cli-0.1.0.spdx.json
+de/fhlintstone/fhlintstone-core/0.1.0/fhlintstone-core-0.1.0.spdx.json
+de/fhlintstone/fhlintstone-maven-plugin/0.1.0/fhlintstone-maven-plugin-0.1.0.spdx.json
+io/github/microcks/microcks-app/1.12.1/microcks-app-1.12.1.spdx.json
+io/github/microcks/microcks-async-minion/1.12.1/microcks-async-minion-1.12.1.spdx.json
+io/github/microcks/microcks-distro/1.12.1/microcks-distro-1.12.1.spdx.json
+io/github/microcks/microcks-el/1.12.1/microcks-el-1.12.1.spdx.json
+io/github/microcks/microcks-model/1.12.1/microcks-model-1.12.1.spdx.json
+io/github/microcks/microcks-uber-app/1.12.1/microcks-uber-app-1.12.1.spdx.json
+io/github/microcks/microcks-uber-async-minion/1.12.1/microcks-uber-async-minion-1.12.1.spdx.json
+io/github/microcks/microcks-util/1.12.1/microcks-util-1.12.1.spdx.json
+io/github/microcks/microcks/1.12.1/microcks-1.12.1.spdx.json
+io/opentelemetry/javaagent/opentelemetry-javaagent/2.18.1/opentelemetry-javaagent-2.18.1-spdx.json
