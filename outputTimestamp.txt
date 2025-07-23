@@ -16307,3 +16307,30 @@ org/green-code-initiative/creedengo-rules-specifications/2.4.0/creedengo-rules-s
 org/moditect/moditect-parent/1.3.0.Final/moditect-parent-1.3.0.Final.pom
 org/moditect/moditect-parent/1.3.0/moditect-parent-1.3.0.pom
    from mvn: 664 - non-mvn: 717 - buildinfo: 0 - module: 697 - gradle timestamp: 233 - atlasdb: 0 = 0 release
+20250721
+com/hibegin/zrlog-base/3.2.10/zrlog-base-3.2.10.pom
+com/hibegin/zrlog-base/3.2.11/zrlog-base-3.2.11.pom
+com/hibegin/zrlog-base/3.2.12/zrlog-base-3.2.12.pom
+com/hibegin/zrlog-base/3.2.13/zrlog-base-3.2.13.pom
+com/hibegin/zrlog-base/3.2.14/zrlog-base-3.2.14.pom
+com/hibegin/zrlog-base/3.2.7/zrlog-base-3.2.7.pom
+com/hibegin/zrlog-base/3.2.8/zrlog-base-3.2.8.pom
+com/hibegin/zrlog-base/3.2.9/zrlog-base-3.2.9.pom
+io/avaje/avaje-json-core/3.6-java8-RC3/avaje-json-core-3.6-java8-RC3.pom
+io/avaje/avaje-json-core/3.6-java8/avaje-json-core-3.6-java8.pom
+io/avaje/avaje-jsonb-parent/3.6/avaje-jsonb-parent-3.6.pom
+io/avaje/avaje-logback-encoder/1.0-java8/avaje-logback-encoder-1.0-java8.pom
+io/avaje/avaje-logback-encoder/1.0/avaje-logback-encoder-1.0.pom
+io/cucumber/messages/28.1.0/messages-28.1.0.pom
+io/github/cbarlin/aru-parent/0.3.2/aru-parent-0.3.2.pom
+io/github/cbarlin/aru-parent/0.4.0/aru-parent-0.4.0.pom
+io/jooby/jooby-project/3.11.0/jooby-project-3.11.0.pom
+io/roastedroot/proxy-wasm-java-host-parent/0.0.5/proxy-wasm-java-host-parent-0.0.5.pom
+io/roastedroot/quickjs4j-parent/0.0.7/quickjs4j-parent-0.0.7.pom
+io/smallrye/jandex-parent/3.4.0/jandex-parent-3.4.0.pom
+io/yupiik/maven/yupiik-tools-maven-plugin-parent/1.2.11/yupiik-tools-maven-plugin-parent-1.2.11.pom
+nl/basjes/modbus/devices/modbus-devices-parent/0.6.0/modbus-devices-parent-0.6.0.pom
+nl/basjes/modbus/graphql/modbus-graphql-parent/0.2.1/modbus-graphql-parent-0.2.1.pom
+nl/basjes/modbus/modbus-schema-parent/0.12.0/modbus-schema-parent-0.12.0.pom
+nl/basjes/sunspec/sunspec-device-parent/0.7.1/sunspec-device-parent-0.7.1.pom
+   from mvn: 3355 - non-mvn: 6195 - buildinfo: 88 - module: 5092 - gradle timestamp: 3387 - atlasdb: 0 = 0 release
