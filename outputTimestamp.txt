@@ -16334,3 +16334,15 @@ nl/basjes/modbus/graphql/modbus-graphql-parent/0.2.1/modbus-graphql-parent-0.2.1
 nl/basjes/modbus/modbus-schema-parent/0.12.0/modbus-schema-parent-0.12.0.pom
 nl/basjes/sunspec/sunspec-device-parent/0.7.1/sunspec-device-parent-0.7.1.pom
    from mvn: 3355 - non-mvn: 6195 - buildinfo: 88 - module: 5092 - gradle timestamp: 3387 - atlasdb: 0 = 0 release
+20250722
+com/hibegin/zrlog-base/3.2.15/zrlog-base-3.2.15.pom
+com/sap/ai/sdk/sdk-parent/1.9.0/sdk-parent-1.9.0.pom
+commons-codec/commons-codec/1.19.0/commons-codec-1.19.0.pom
+io/github/cbarlin/aru-parent/0.4.1/aru-parent-0.4.1.pom
+io/roastedroot/quickjs4j-parent/0.0.8/quickjs4j-parent-0.0.8.pom
+io/telicent/jena/jena-kafka/2.0.2/jena-kafka-2.0.2.pom
+org/apache/commons/commons-build-plugin/1.16.0/commons-build-plugin-1.16.0.pom
+org/apache/nifi/nifi/2.5.0/nifi-2.5.0.pom
+org/finos/legend/engine/legend-engine/4.90.2/legend-engine-4.90.2.pom
+org/openl/jgit/org.eclipse.jgit-parent/7.3.0.202506031305-openl/org.eclipse.jgit-parent-7.3.0.202506031305-openl.pom
+   from mvn: 3607 - non-mvn: 6404 - buildinfo: 0 - module: 5044 - gradle timestamp: 1997 - atlasdb: 0 = 0 release

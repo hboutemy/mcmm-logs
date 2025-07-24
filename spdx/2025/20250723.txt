@@ -1,0 +1,4 @@
+io/github/microcks/quarkus/quarkus-microcks-deployment/0.4.0/quarkus-microcks-deployment-0.4.0.spdx.json
+io/github/microcks/quarkus/quarkus-microcks-parent/0.4.0/quarkus-microcks-parent-0.4.0.spdx.json
+io/github/microcks/quarkus/quarkus-microcks-test/0.4.0/quarkus-microcks-test-0.4.0.spdx.json
+io/github/microcks/quarkus/quarkus-microcks/0.4.0/quarkus-microcks-0.4.0.spdx.json
