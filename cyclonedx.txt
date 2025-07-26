@@ -1639,6 +1639,7 @@ net.sourceforge.pmd:pmd-compat6
 net.sourceforge.pmd:pmd-core
 net.sourceforge.pmd:pmd-cpp
 net.sourceforge.pmd:pmd-cs
+net.sourceforge.pmd:pmd-css
 net.sourceforge.pmd:pmd-dart
 net.sourceforge.pmd:pmd-dist
 net.sourceforge.pmd:pmd-doc

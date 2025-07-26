@@ -16363,3 +16363,35 @@ org/apache/sling/org.apache.sling.jcr.oak.server/1.4.4/org.apache.sling.jcr.oak.
 org/finos/legend/engine/legend-engine/4.91.0/legend-engine-4.91.0.pom
 tech/picnic/error-prone-support/error-prone-support/0.24.0/error-prone-support-0.24.0.pom
    from mvn: 5059 - non-mvn: 3603 - buildinfo: 0 - module: 2854 - gradle timestamp: 1358 - atlasdb: 0 = 0 release
+20250724
+com/github/nbbrd/heylogs/heylogs-bom/0.11.1/heylogs-bom-0.11.1.pom
+com/github/nbbrd/heylogs/heylogs-parent/0.11.1/heylogs-parent-0.11.1.pom
+com/github/nbbrd/jdplus-sdmx/jdplus-sdmx-bom/3.3.1/jdplus-sdmx-bom-3.3.1.pom
+com/github/nbbrd/jdplus-sdmx/jdplus-sdmx/3.3.1/jdplus-sdmx-3.3.1.pom
+com/hibegin/common-dao/1.0.15/common-dao-1.0.15.pom
+com/hibegin/common-dao/1.0.16/common-dao-1.0.16.pom
+com/hibegin/zrlog-base/3.2.17/zrlog-base-3.2.17.pom
+com/hibegin/zrlog-base/3.2.18/zrlog-base-3.2.18.pom
+com/hibegin/zrlog-base/3.2.19/zrlog-base-3.2.19.pom
+com/hibegin/zrlog-base/3.2.20/zrlog-base-3.2.20.pom
+com/hibegin/zrlog-base/3.2.21/zrlog-base-3.2.21.pom
+com/hibegin/zrlog-base/3.2.22/zrlog-base-3.2.22.pom
+de/gematik/pki/gemLibPki/3.2.0/gemLibPki-3.2.0.pom
+digital/pragmatech/testing/spring-test-profiler/0.0.6/spring-test-profiler-0.0.6.pom
+digital/pragmatech/testing/spring-test-profiler/0.0.7/spring-test-profiler-0.0.7.pom
+io/avaje/avaje-http-parent/3.4/avaje-http-parent-3.4.pom
+io/avaje/avaje-inject-parent/11.6-javax/avaje-inject-parent-11.6-javax.pom
+io/avaje/avaje-inject-parent/11.6/avaje-inject-parent-11.6.pom
+io/avaje/avaje-validator-parent/2.13/avaje-validator-parent-2.13.pom
+io/cucumber/cucumber-json-formatter/0.1.1/cucumber-json-formatter-0.1.1.pom
+io/cucumber/json-formatter/0.1.0/json-formatter-0.1.0.pom
+io/dropwizard/dropwizard-project/3.0.15/dropwizard-project-3.0.15.pom
+io/dropwizard/dropwizard-project/4.0.15/dropwizard-project-4.0.15.pom
+io/streamnative/buildtools/3.0.10.7/buildtools-3.0.10.7.pom
+io/streamnative/pulsar/3.0.10.7/pulsar-3.0.10.7.pom
+io/telicent/smart-caches/graph/scg-base/0.90.0/scg-base-0.90.0.pom
+org/apache/commons/commons-text/1.14.0/commons-text-1.14.0.pom
+org/finos/legend/engine/legend-engine/4.92.0/legend-engine-4.92.0.pom
+org/finos/legend/engine/legend-engine/4.93.0/legend-engine-4.93.0.pom
+org/green-code-initiative/creedengo-rules-specifications/2.4.1/creedengo-rules-specifications-2.4.1.pom
+   from mvn: 3786 - non-mvn: 4770 - buildinfo: 0 - module: 3426 - gradle timestamp: 1788 - atlasdb: 0 = 0 release
