@@ -1,0 +1,2 @@
+org/apache/commons/commons-release-plugin/1.9.1/commons-release-plugin-1.9.1-cyclonedx.xml
+org/apache/commons/commons-release-plugin/1.9.1/commons-release-plugin-1.9.1-cyclonedx.json
