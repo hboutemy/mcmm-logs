@@ -1,0 +1,12 @@
+com/github/hazendaz/git/git-for-windows/2.50.1.0/git-for-windows-2.50.1.0-cyclonedx.json
+com/github/hazendaz/git/git-for-windows/2.50.1.0/git-for-windows-2.50.1.0-cyclonedx.xml
+com/github/hazendaz/git/github-desktop/3.5.2/github-desktop-3.5.2-cyclonedx.xml
+com/github/hazendaz/git/github-desktop/3.5.2/github-desktop-3.5.2-cyclonedx.json
+com/github/hazendaz/winscp/winscp/6.5.3/winscp-6.5.3-cyclonedx.xml
+com/github/hazendaz/winscp/winscp/6.5.3/winscp-6.5.3-cyclonedx.json
+edu/hm/hafner/pmd-core/7.16.0-metrics/pmd-core-7.16.0-metrics-cyclonedx.json
+edu/hm/hafner/pmd-core/7.16.0-metrics/pmd-core-7.16.0-metrics-cyclonedx.xml
+edu/hm/hafner/pmd-java/7.16.0-metrics/pmd-java-7.16.0-metrics-cyclonedx.xml
+edu/hm/hafner/pmd-java/7.16.0-metrics/pmd-java-7.16.0-metrics-cyclonedx.json
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-4/spoon-pom-11.2.2-beta-4-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-4/spoon-pom-11.2.2-beta-4-cyclonedx.json
