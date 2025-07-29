@@ -16428,3 +16428,10 @@ org/apache/commons/commons-release-plugin/1.9.1/commons-release-plugin-1.9.1.pom
 org/apache/sling/org.apache.sling.engine/2.16.6/org.apache.sling.engine-2.16.6.pom
 org/spdx/spdx-maven-plugin/1.0.3/spdx-maven-plugin-1.0.3.pom
    from mvn: 495 - non-mvn: 2183 - buildinfo: 0 - module: 2061 - gradle timestamp: 1235 - atlasdb: 0 = 0 release
+20250727
+com/github/hazendaz/git/github-desktop/3.5.2/github-desktop-3.5.2.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-4/spoon-pom-11.2.2-beta-4.pom
+io/cucumber/cucumber-jvm/7.27.0/cucumber-jvm-7.27.0.pom
+io/cucumber/gherkin/33.1.0/gherkin-33.1.0.pom
+io/jooby/jooby-project/4.0.2/jooby-project-4.0.2.pom
+   from mvn: 574 - non-mvn: 1732 - buildinfo: 0 - module: 1522 - gradle timestamp: 418 - atlasdb: 0 = 0 release
