@@ -16435,3 +16435,19 @@ io/cucumber/cucumber-jvm/7.27.0/cucumber-jvm-7.27.0.pom
 io/cucumber/gherkin/33.1.0/gherkin-33.1.0.pom
 io/jooby/jooby-project/4.0.2/jooby-project-4.0.2.pom
    from mvn: 574 - non-mvn: 1732 - buildinfo: 0 - module: 1522 - gradle timestamp: 418 - atlasdb: 0 = 0 release
+20250728
+com/hibegin/common-dao/1.0.17/common-dao-1.0.17.pom
+com/hibegin/common-dao/1.0.18/common-dao-1.0.18.pom
+com/hibegin/zrlog-base/3.2.39/zrlog-base-3.2.39.pom
+com/spotify/github-client/0.4.11/github-client-0.4.11.pom
+digital/pragmatech/testing/spring-test-profiler/0.0.9/spring-test-profiler-0.0.9.pom
+io/airlift/airbase-policy/282/airbase-policy-282.pom
+io/airlift/airbase/282/airbase-282.pom
+io/avaje/avaje-inject-parent/12.0-RC1/avaje-inject-parent-12.0-RC1.pom
+io/avaje/avaje-prisms-parent/1.43/avaje-prisms-parent-1.43.pom
+io/wcm/io.wcm.handler.link/2.2.8/io.wcm.handler.link-2.2.8.pom
+nl/basjes/modbus/devices/modbus-devices-parent/0.6.1/modbus-devices-parent-0.6.1.pom
+nl/basjes/modbus/modbus-schema-parent/0.13.0/modbus-schema-parent-0.13.0.pom
+nl/basjes/sunspec/sunspec-device-parent/0.7.2/sunspec-device-parent-0.7.2.pom
+org/codehaus/mojo/flatten-maven-plugin/1.7.2/flatten-maven-plugin-1.7.2.pom
+   from mvn: 4495 - non-mvn: 4961 - buildinfo: 3 - module: 5585 - gradle timestamp: 2514 - atlasdb: 0 = 0 release
