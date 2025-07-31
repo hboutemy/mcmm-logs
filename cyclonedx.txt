@@ -5136,6 +5136,7 @@ org.glassfish:jakarta.enterprise.concurrent
 org.glassfish:jakarta.faces
 org.glassfish:mojarra-parent
 org.graylog2:graylog2-server
+org.htmlunit:htmlunit
 org.huiche:huiche
 org.huiche:huiche-bom
 org.huiche:huiche-core

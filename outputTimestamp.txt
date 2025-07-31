@@ -16451,3 +16451,26 @@ nl/basjes/modbus/modbus-schema-parent/0.13.0/modbus-schema-parent-0.13.0.pom
 nl/basjes/sunspec/sunspec-device-parent/0.7.2/sunspec-device-parent-0.7.2.pom
 org/codehaus/mojo/flatten-maven-plugin/1.7.2/flatten-maven-plugin-1.7.2.pom
    from mvn: 4495 - non-mvn: 4961 - buildinfo: 3 - module: 5585 - gradle timestamp: 2514 - atlasdb: 0 = 0 release
+20250729
+com/hibegin/common-dao/1.0.47/common-dao-1.0.47.pom
+com/hibegin/common-dao/1.1.0/common-dao-1.1.0.pom
+com/hibegin/zrlog-base/3.2.40/zrlog-base-3.2.40.pom
+com/hibegin/zrlog-base/3.2.41/zrlog-base-3.2.41.pom
+com/hibegin/zrlog-base/3.2.42/zrlog-base-3.2.42.pom
+com/hibegin/zrlog-base/3.2.43/zrlog-base-3.2.43.pom
+com/hibegin/zrlog-base/3.2.44/zrlog-base-3.2.44.pom
+com/hibegin/zrlog-base/3.2.45/zrlog-base-3.2.45.pom
+com/hibegin/zrlog-base/3.2.46/zrlog-base-3.2.46.pom
+com/hibegin/zrlog-base/3.2.47/zrlog-base-3.2.47.pom
+com/hibegin/zrlog-base/3.2.48/zrlog-base-3.2.48.pom
+dev/langchain4j/langchain4j-parent/1.2.0-beta8/langchain4j-parent-1.2.0-beta8.pom
+digital/pragmatech/testing/spring-test-profiler/0.0.10/spring-test-profiler-0.0.10.pom
+eu/maveniverse/maven/parent/parent/41/parent-41.pom
+io/avaje/avaje-inject-parent/12.0-RC2/avaje-inject-parent-12.0-RC2.pom
+io/jooby/jooby-project/3.11.1/jooby-project-3.11.1.pom
+io/jooby/jooby-project/4.0.3/jooby-project-4.0.3.pom
+io/micronaut/maven/micronaut-maven-plugin-parent/4.10.1/micronaut-maven-plugin-parent-4.10.1.pom
+org/apache/commons/commons-compress/1.28.0/commons-compress-1.28.0.pom
+org/apache/jspwiki/jspwiki-builder/2.12.3/jspwiki-builder-2.12.3.pom
+org/metricshub/jawk/4.0.00/jawk-4.0.00.pom
+   from mvn: 2600 - non-mvn: 6370 - buildinfo: 1 - module: 6265 - gradle timestamp: 2530 - atlasdb: 0 = 0 release

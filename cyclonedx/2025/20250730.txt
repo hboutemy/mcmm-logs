@@ -1,0 +1,15 @@
+org/apache/commons/commons-csv/1.14.1/commons-csv-1.14.1-cyclonedx.xml
+org/apache/commons/commons-csv/1.14.1/commons-csv-1.14.1-cyclonedx.json
+org/apache/orc/orc-core/2.2.0/orc-core-2.2.0-cyclonedx.xml
+org/apache/orc/orc-core/2.2.0/orc-core-2.2.0-cyclonedx.json
+org/apache/orc/orc-mapreduce/2.2.0/orc-mapreduce-2.2.0-cyclonedx.xml
+org/apache/orc/orc-mapreduce/2.2.0/orc-mapreduce-2.2.0-cyclonedx.json
+org/apache/orc/orc-shims/2.2.0/orc-shims-2.2.0-cyclonedx.xml
+org/apache/orc/orc-shims/2.2.0/orc-shims-2.2.0-cyclonedx.json
+org/apache/orc/orc-tools/2.2.0/orc-tools-2.2.0-cyclonedx.xml
+org/apache/orc/orc-tools/2.2.0/orc-tools-2.2.0-cyclonedx.json
+org/apache/orc/orc/2.2.0/orc-2.2.0-cyclonedx.xml
+org/apache/orc/orc/2.2.0/orc-2.2.0-cyclonedx.json
+org/eclipse/starter/jakarta-starter/2.7.0/jakarta-starter-2.7.0-cyclonedx.xml
+org/eclipse/starter/jakarta-starter/2.7.0/jakarta-starter-2.7.0-cyclonedx.json
+org/htmlunit/htmlunit/4.14.0/htmlunit-4.14.0-cyclonedx.json
