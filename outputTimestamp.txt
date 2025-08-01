@@ -16474,3 +16474,31 @@ org/apache/commons/commons-compress/1.28.0/commons-compress-1.28.0.pom
 org/apache/jspwiki/jspwiki-builder/2.12.3/jspwiki-builder-2.12.3.pom
 org/metricshub/jawk/4.0.00/jawk-4.0.00.pom
    from mvn: 2600 - non-mvn: 6370 - buildinfo: 1 - module: 6265 - gradle timestamp: 2530 - atlasdb: 0 = 0 release
+20250730
+com/hibegin/zrlog-base/3.2.49/zrlog-base-3.2.49.pom
+com/hibegin/zrlog-base/3.2.50/zrlog-base-3.2.50.pom
+com/hibegin/zrlog-base/3.2.52/zrlog-base-3.2.52.pom
+com/hibegin/zrlog-base/3.2.53/zrlog-base-3.2.53.pom
+com/hibegin/zrlog-base/3.2.54/zrlog-base-3.2.54.pom
+com/hibegin/zrlog-base/3.2.55/zrlog-base-3.2.55.pom
+com/hibegin/zrlog-base/3.2.56/zrlog-base-3.2.56.pom
+com/hibegin/zrlog-base/3.2.57/zrlog-base-3.2.57.pom
+digital/pragmatech/testing/spring-test-profiler/0.0.11/spring-test-profiler-0.0.11.pom
+eu/europa/ted/eforms/eforms-core-java/1.5.0/eforms-core-java-1.5.0.pom
+eu/europa/ted/eforms/eforms-sdk/1.13.2/eforms-sdk-1.13.2.pom
+eu/europa/ted/eforms/efx-toolkit-java/2.0.0-alpha.5/efx-toolkit-java-2.0.0-alpha.5.pom
+eu/maveniverse/maven/bom-builder/bom-builder/1.2.0/bom-builder-1.2.0.pom
+eu/maveniverse/maven/heimdall/heimdall/0.1.3/heimdall-0.1.3.pom
+eu/maveniverse/maven/mima/mima/2.4.32/mima-2.4.32.pom
+eu/maveniverse/maven/mimir/mimir/0.8.1/mimir-0.8.1.pom
+eu/maveniverse/maven/nisse/nisse/0.5.0/nisse-0.5.0.pom
+eu/maveniverse/maven/njord/njord/0.8.3/njord-0.8.3.pom
+io/avaje/avaje-inject-parent/12.0-RC3/avaje-inject-parent-12.0-RC3.pom
+io/avaje/avaje-jsonb-parent/3.7-RC1/avaje-jsonb-parent-3.7-RC1.pom
+io/github/torand/fastersql/1.8.0/fastersql-1.8.0.pom
+nl/basjes/modbus/devices/modbus-devices-parent/0.6.2/modbus-devices-parent-0.6.2.pom
+nl/basjes/modbus/modbus-schema-parent/0.14.0/modbus-schema-parent-0.14.0.pom
+nl/basjes/sunspec/sunspec-device-parent/0.7.3/sunspec-device-parent-0.7.3.pom
+org/apache/commons/commons-csv/1.14.1/commons-csv-1.14.1.pom
+org/apache/orc/orc/2.2.0/orc-2.2.0.pom
+   from mvn: 5898 - non-mvn: 5405 - buildinfo: 3 - module: 5236 - gradle timestamp: 2552 - atlasdb: 0 = 0 release

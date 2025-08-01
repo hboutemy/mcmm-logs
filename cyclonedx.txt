@@ -2354,6 +2354,8 @@ org.apache.flink:flink-ml-uber
 org.apache.flink:flink-ml-uber-1.15
 org.apache.flink:flink-ml-uber-1.16
 org.apache.flink:flink-ml-uber-1.17
+org.apache.flink:flink-model-openai
+org.apache.flink:flink-models
 org.apache.flink:flink-optimizer
 org.apache.flink:flink-orc
 org.apache.flink:flink-orc-nohive
@@ -6828,6 +6830,7 @@ org.owasp.antisamy:antisamy
 org.owasp.esapi:esapi
 org.primefaces.extensions:primefaces-extensions
 org.primefaces:primefaces
+org.seleniumhq.selenium:htmlunit3-driver
 org.sonarsource.dummy:sonar-dummy-oss-plugin
 org.sonarsource.scanner.cli:sonar-scanner-cli
 org.sonarsource.scanner.maven:sonar-maven-plugin
