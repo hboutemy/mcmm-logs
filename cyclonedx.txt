@@ -947,6 +947,15 @@ dev.vality:kotlin-service-parent-pom
 dev.vality:service-parent-pom
 edu.hm.hafner:pmd-core
 edu.hm.hafner:pmd-java
+ee.omnifish.arquillian:arquillian-glassfish-server-embedded
+ee.omnifish.arquillian:arquillian-glassfish-server-managed
+ee.omnifish.arquillian:arquillian-glassfish-server-remote
+ee.omnifish.arquillian:glassfish-client-ee10
+ee.omnifish.arquillian:glassfish-client-ee11
+ee.omnifish.arquillian:glassfish-container-common
+ee.omnifish.arquillian:glassfish-containers-dependencies
+ee.omnifish.arquillian:glassfish-containers-docs
+ee.omnifish.arquillian:glassfish-containers-main
 eu.michael-simons.neo4j:neo4j-migrations
 eu.michael-simons.neo4j:neo4j-migrations-annotation-catalog
 eu.michael-simons.neo4j:neo4j-migrations-annotation-processing
@@ -6826,6 +6835,7 @@ org.openl.jgit:org.eclipse.jgit.ssh.apache
 org.openl.jgit:org.eclipse.jgit.ssh.apache.agent
 org.openl.jgit:org.eclipse.jgit.ssh.jsch
 org.openl.jgit:org.eclipse.jgit.ui
+org.orekit:orekit
 org.owasp.antisamy:antisamy
 org.owasp.esapi:esapi
 org.primefaces.extensions:primefaces-extensions
