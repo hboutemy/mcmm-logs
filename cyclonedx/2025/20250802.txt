@@ -1,0 +1,2 @@
+commons-cli/commons-cli/1.10.0/commons-cli-1.10.0-cyclonedx.xml
+commons-cli/commons-cli/1.10.0/commons-cli-1.10.0-cyclonedx.json

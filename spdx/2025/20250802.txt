@@ -1,0 +1,2 @@
+com/yookue/forkextension/apache/commons-beanutils2/2.0.2/commons-beanutils2-2.0.2.spdx.json
+commons-cli/commons-cli/1.10.0/commons-cli-1.10.0.spdx.json
