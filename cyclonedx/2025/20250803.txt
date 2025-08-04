@@ -1,0 +1,16 @@
+com/flowlogix/archetypes/starter/73/starter-73-cyclonedx.json
+com/flowlogix/archetypes/starter/73/starter-73-cyclonedx.xml
+com/flowlogix/depchain/depchain/73/depchain-73-cyclonedx.json
+com/flowlogix/depchain/depchain/73/depchain-73-cyclonedx.xml
+com/flowlogix/depchain/integration-test/73/integration-test-73-cyclonedx.xml
+com/flowlogix/depchain/integration-test/73/integration-test-73-cyclonedx.json
+com/flowlogix/depchain/shiro-jakarta/73/shiro-jakarta-73-cyclonedx.json
+com/flowlogix/depchain/shiro-jakarta/73/shiro-jakarta-73-cyclonedx.xml
+com/flowlogix/depchain/unit-test/73/unit-test-73-cyclonedx.json
+com/flowlogix/depchain/unit-test/73/unit-test-73-cyclonedx.xml
+com/github/hazendaz/gradle/gradle/9.0.0/gradle-9.0.0-cyclonedx.xml
+com/github/hazendaz/gradle/gradle/9.0.0/gradle-9.0.0-cyclonedx.json
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-5/spoon-pom-11.2.2-beta-5-cyclonedx.json
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-5/spoon-pom-11.2.2-beta-5-cyclonedx.xml
+io/github/sola-ris/jax-rs-client-test/0.1.0/jax-rs-client-test-0.1.0-cyclonedx.json
+io/github/sola-ris/jax-rs-client-test/0.1.0/jax-rs-client-test-0.1.0-cyclonedx.xml

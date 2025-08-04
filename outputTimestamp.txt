@@ -16547,3 +16547,10 @@ org/infinispan/protostream/parent/6.0.0.Dev09/parent-6.0.0.Dev09.pom
 org/jpmml/jpmml-python/1.3.6/jpmml-python-1.3.6.pom
 org/jpmml/jpmml-python/1.3.7/jpmml-python-1.3.7.pom
    from mvn: 3884 - non-mvn: 3579 - buildinfo: 1 - module: 2958 - gradle timestamp: 1698 - atlasdb: 0 = 0 release
+20250802
+com/hibegin/common-dao/1.1.5/common-dao-1.1.5.pom
+com/hibegin/zrlog-base/3.2.71/zrlog-base-3.2.71.pom
+com/yookue/forkextension/apache/commons-beanutils2/2.0.2/commons-beanutils2-2.0.2.pom
+commons-cli/commons-cli/1.10.0/commons-cli-1.10.0.pom
+org/green-code-initiative/creedengo-rules-specifications/2.5.0/creedengo-rules-specifications-2.5.0.pom
+   from mvn: 930 - non-mvn: 1295 - buildinfo: 0 - module: 1352 - gradle timestamp: 466 - atlasdb: 0 = 0 release
