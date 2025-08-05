@@ -1,0 +1,13 @@
+jakarta/tck/arquillian/arquillian-protocol-appclient/11.1.1/arquillian-protocol-appclient-11.1.1-cyclonedx.xml
+jakarta/tck/arquillian/arquillian-protocol-appclient/11.1.1/arquillian-protocol-appclient-11.1.1-cyclonedx.json
+jakarta/tck/arquillian/arquillian-protocol-common/11.1.1/arquillian-protocol-common-11.1.1-cyclonedx.xml
+jakarta/tck/arquillian/arquillian-protocol-common/11.1.1/arquillian-protocol-common-11.1.1-cyclonedx.json
+jakarta/tck/arquillian/arquillian-protocol-javatest/11.1.1/arquillian-protocol-javatest-11.1.1-cyclonedx.xml
+jakarta/tck/arquillian/arquillian-protocol-javatest/11.1.1/arquillian-protocol-javatest-11.1.1-cyclonedx.json
+jakarta/tck/arquillian/arquillian-protocol-lib/11.1.1/arquillian-protocol-lib-11.1.1-cyclonedx.xml
+jakarta/tck/arquillian/arquillian-protocol-lib/11.1.1/arquillian-protocol-lib-11.1.1-cyclonedx.json
+jakarta/tck/arquillian/tck-porting-lib/11.1.1/tck-porting-lib-11.1.1-cyclonedx.xml
+jakarta/tck/arquillian/tck-porting-lib/11.1.1/tck-porting-lib-11.1.1-cyclonedx.json
+jakarta/tck/tck.arquillian.parent/11.1.1/tck.arquillian.parent-11.1.1-cyclonedx.json
+jakarta/tck/tck.arquillian.parent/11.1.1/tck.arquillian.parent-11.1.1-cyclonedx.xml
+org/sonarsource/sonarqube/sonar-application/25.8.0.111929/sonar-application-25.8.0.111929-cyclonedx.json
