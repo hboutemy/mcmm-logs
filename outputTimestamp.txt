@@ -16566,3 +16566,12 @@ com/hibegin/zrlog-base/3.2.73/zrlog-base-3.2.73.pom
 fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-5/spoon-pom-11.2.2-beta-5.pom
 io/github/sola-ris/jax-rs-client-test/0.1.0/jax-rs-client-test-0.1.0.pom
    from mvn: 762 - non-mvn: 1622 - buildinfo: 0 - module: 1825 - gradle timestamp: 677 - atlasdb: 0 = 0 release
+20250804
+com/hibegin/zrlog-base/3.2.76/zrlog-base-3.2.76.pom
+io/avaje/avaje-inject-parent/12.0-RC4/avaje-inject-parent-12.0-RC4.pom
+io/github/cbarlin/aru-parent/0.6.0/aru-parent-0.6.0.pom
+io/roastedroot/quickjs4j-parent/0.0.9/quickjs4j-parent-0.0.9.pom
+org/finos/legend/engine/legend-engine/4.95.1/legend-engine-4.95.1.pom
+org/jpmml/jpmml-sklearn/1.9.14/jpmml-sklearn-1.9.14.pom
+org/webjars/font-awesome/7.0.0/font-awesome-7.0.0.pom
+   from mvn: 4468 - non-mvn: 4120 - buildinfo: 0 - module: 3662 - gradle timestamp: 1610 - atlasdb: 0 = 0 release
