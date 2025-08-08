@@ -1270,3 +1270,8 @@ org/jline/jline-terminal-jna/3.30.5/jline-terminal-jna-3.30.5-build.pom
 org/jline/jline-terminal-jni/3.30.5/jline-terminal-jni-3.30.5-build.pom
 org/jline/jline-terminal/3.30.5/jline-terminal-3.30.5-build.pom
 org/jline/jline/3.30.5/jline-3.30.5-build.pom
+20250807
+com/flowlogix/base-pom/64/base-pom-64-build.pom
+com/flowlogix/checkstyle/64/checkstyle-64-build.pom
+com/flowlogix/infra-pom/64/infra-pom-64-build.pom
+com/flowlogix/payara-pom/64/payara-pom-64-build.pom
