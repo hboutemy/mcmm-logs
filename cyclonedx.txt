@@ -2227,6 +2227,7 @@ org.apache.druid:distribution
 org.apache.druid:druid
 org.apache.druid:druid-aws-common
 org.apache.druid:druid-benchmarks
+org.apache.druid:druid-embedded-tests
 org.apache.druid:druid-gcp-common
 org.apache.druid:druid-indexing-hadoop
 org.apache.druid:druid-indexing-service

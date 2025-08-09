@@ -1275,3 +1275,8 @@ com/flowlogix/base-pom/64/base-pom-64-build.pom
 com/flowlogix/checkstyle/64/checkstyle-64-build.pom
 com/flowlogix/infra-pom/64/infra-pom-64-build.pom
 com/flowlogix/payara-pom/64/payara-pom-64-build.pom
+20250808
+com/flowlogix/base-pom/65/base-pom-65-build.pom
+com/flowlogix/checkstyle/65/checkstyle-65-build.pom
+com/flowlogix/infra-pom/65/infra-pom-65-build.pom
+com/flowlogix/payara-pom/65/payara-pom-65-build.pom

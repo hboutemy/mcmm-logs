@@ -1,0 +1,8 @@
+org/opendaylight/aaa/aaa-sbom-0.19.10.spdx
+org/opendaylight/aaa/aaa-sbom-0.20.10.spdx
+org/opendaylight/bgpcep/bgpcep-sbom-0.22.11.spdx
+org/opendaylight/bgpcep/bgpcep-sbom-0.21.12.spdx
+org/opendaylight/controller/controller-sbom-10.0.11.spdx
+org/opendaylight/mdsal/mdsal-sbom-14.0.14.spdx
+org/opendaylight/netconf/netconf-sbom-7.0.12.spdx
+org/opendaylight/netconf/netconf-sbom-8.0.8.spdx
