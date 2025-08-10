@@ -16736,3 +16736,37 @@ org/jpmml/jpmml-sparkml/3.1.1/jpmml-sparkml-3.1.1.pom
 org/metricshub/metricshub-community/1.0.07/metricshub-community-1.0.07.pom
 org/metricshub/snmp-java/2.1.01/snmp-java-2.1.01.pom
    from mvn: 4445 - non-mvn: 3357 - buildinfo: 1 - module: 3381 - gradle timestamp: 2200 - atlasdb: 0 = 0 release
+20250808
+com/flowlogix/checkstyle/65/checkstyle-65-build.pom
+com/flowlogix/infra-pom/65/infra-pom-65-build.pom
+com/flowlogix/infra-pom/65/infra-pom-65.pom
+com/sap/ai/sdk/sdk-parent/1.10.0/sdk-parent-1.10.0.pom
+io/airlift/airbase-policy/284/airbase-policy-284.pom
+io/airlift/airbase/284/airbase-284.pom
+io/kroxylicious/kroxylicious-bom/0.14.0/kroxylicious-bom-0.14.0.pom
+io/kroxylicious/kroxylicious-parent/0.14.0/kroxylicious-parent-0.14.0.pom
+io/quarkus/quarkus-parent/3.25.2/quarkus-parent-3.25.2.pom
+io/yupiik/fusion/fusion/1.0.28/fusion-1.0.28.pom
+org/apache/tika/tika-parent/3.2.2/tika-parent-3.2.2.pom
+org/jpmml/jpmml-sparkml/3.2.0/jpmml-sparkml-3.2.0.pom
+org/liquibase/ext/liquibase-percona/4.32.0/liquibase-percona-4.32.0.pom
+org/liquibase/ext/liquibase-percona/4.33.0/liquibase-percona-4.33.0.pom
+org/metricshub/jawk/4.0.01/jawk-4.0.01.pom
+org/wildfly/wildfly-maven-gpg-plugin/3.2.8.SP1/wildfly-maven-gpg-plugin-3.2.8.SP1.pom
+tools/jackson/core/jackson-core/3.0.0-rc7/jackson-core-3.0.0-rc7.pom
+tools/jackson/core/jackson-databind/3.0.0-rc7/jackson-databind-3.0.0-rc7.pom
+tools/jackson/dataformat/jackson-dataformat-xml/3.0.0-rc7/jackson-dataformat-xml-3.0.0-rc7.pom
+tools/jackson/dataformat/jackson-dataformats-binary/3.0.0-rc7/jackson-dataformats-binary-3.0.0-rc7.pom
+tools/jackson/dataformat/jackson-dataformats-text/3.0.0-rc7/jackson-dataformats-text-3.0.0-rc7.pom
+tools/jackson/datatype/jackson-datatype-joda/3.0.0-rc7/jackson-datatype-joda-3.0.0-rc7.pom
+tools/jackson/datatype/jackson-datatypes-collections/3.0.0-rc7/jackson-datatypes-collections-3.0.0-rc7.pom
+tools/jackson/datatype/jackson-datatypes-misc-parent/3.0.0-rc7/jackson-datatypes-misc-parent-3.0.0-rc7.pom
+tools/jackson/jackson-bom/3.0.0-rc7/jackson-bom-3.0.0-rc7.pom
+tools/jackson/jr/jackson-jr-all/3.0.0-rc7/jackson-jr-all-3.0.0-rc7.pom
+tools/jackson/jr/jackson-jr-annotation-support/3.0.0-rc7/jackson-jr-annotation-support-3.0.0-rc7.pom
+tools/jackson/jr/jackson-jr-extension-javatime/3.0.0-rc7/jackson-jr-extension-javatime-3.0.0-rc7.pom
+tools/jackson/jr/jackson-jr-objects/3.0.0-rc7/jackson-jr-objects-3.0.0-rc7.pom
+tools/jackson/jr/jackson-jr-parent/3.0.0-rc7/jackson-jr-parent-3.0.0-rc7.pom
+tools/jackson/jr/jackson-jr-retrofit2/3.0.0-rc7/jackson-jr-retrofit2-3.0.0-rc7.pom
+tools/jackson/jr/jackson-jr-stree/3.0.0-rc7/jackson-jr-stree-3.0.0-rc7.pom
+   from mvn: 7484 - non-mvn: 3760 - buildinfo: 4 - module: 3579 - gradle timestamp: 2178 - atlasdb: 0 = 0 release

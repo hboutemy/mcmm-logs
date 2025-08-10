@@ -1280,3 +1280,5 @@ com/flowlogix/base-pom/65/base-pom-65-build.pom
 com/flowlogix/checkstyle/65/checkstyle-65-build.pom
 com/flowlogix/infra-pom/65/infra-pom-65-build.pom
 com/flowlogix/payara-pom/65/payara-pom-65-build.pom
+20250809
+dev/pretsa/scm-version-maven-extension/0.0.2/scm-version-maven-extension-0.0.2-build.pom
