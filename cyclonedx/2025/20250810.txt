@@ -1,0 +1,6 @@
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-6/spoon-pom-11.2.2-beta-6-cyclonedx.json
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-6/spoon-pom-11.2.2-beta-6-cyclonedx.xml
+org/apache/maven/maven-archiver/3.6.4/maven-archiver-3.6.4-cyclonedx.xml
+org/apache/maven/maven-archiver/3.6.4/maven-archiver-3.6.4-cyclonedx.json
+org/apache/maven/shared/maven-archiver/4.0.0-beta-4/maven-archiver-4.0.0-beta-4-cyclonedx.json
+org/apache/maven/shared/maven-archiver/4.0.0-beta-4/maven-archiver-4.0.0-beta-4-cyclonedx.xml

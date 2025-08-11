@@ -16770,3 +16770,5 @@ tools/jackson/jr/jackson-jr-parent/3.0.0-rc7/jackson-jr-parent-3.0.0-rc7.pom
 tools/jackson/jr/jackson-jr-retrofit2/3.0.0-rc7/jackson-jr-retrofit2-3.0.0-rc7.pom
 tools/jackson/jr/jackson-jr-stree/3.0.0-rc7/jackson-jr-stree-3.0.0-rc7.pom
    from mvn: 7484 - non-mvn: 3760 - buildinfo: 4 - module: 3579 - gradle timestamp: 2178 - atlasdb: 0 = 0 release
+20250809
+   from mvn: 1153 - non-mvn: 1923 - buildinfo: 0 - module: 2101 - gradle timestamp: 1141 - atlasdb: 0 = 0 release
