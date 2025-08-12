@@ -16772,3 +16772,10 @@ tools/jackson/jr/jackson-jr-stree/3.0.0-rc7/jackson-jr-stree-3.0.0-rc7.pom
    from mvn: 7484 - non-mvn: 3760 - buildinfo: 4 - module: 3579 - gradle timestamp: 2178 - atlasdb: 0 = 0 release
 20250809
    from mvn: 1153 - non-mvn: 1923 - buildinfo: 0 - module: 2101 - gradle timestamp: 1141 - atlasdb: 0 = 0 release
+20250810
+com/github/seregamorph/maven-surefire-cached/0.23/maven-surefire-cached-0.23.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-6/spoon-pom-11.2.2-beta-6.pom
+io/yupiik/bundlebee/1.0.31/bundlebee-1.0.31.pom
+org/apache/maven/maven-archiver/3.6.4/maven-archiver-3.6.4.pom
+org/apache/maven/shared/maven-archiver/4.0.0-beta-4/maven-archiver-4.0.0-beta-4.pom
+   from mvn: 453 - non-mvn: 2032 - buildinfo: 0 - module: 2395 - gradle timestamp: 1089 - atlasdb: 0 = 0 release
