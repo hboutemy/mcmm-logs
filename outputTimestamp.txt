@@ -16779,3 +16779,19 @@ io/yupiik/bundlebee/1.0.31/bundlebee-1.0.31.pom
 org/apache/maven/maven-archiver/3.6.4/maven-archiver-3.6.4.pom
 org/apache/maven/shared/maven-archiver/4.0.0-beta-4/maven-archiver-4.0.0-beta-4.pom
    from mvn: 453 - non-mvn: 2032 - buildinfo: 0 - module: 2395 - gradle timestamp: 1089 - atlasdb: 0 = 0 release
+20250811
+eu/maveniverse/maven/mima/mima/2.4.33/mima-2.4.33.pom
+io/airlift/airbase-policy/285/airbase-policy-285.pom
+io/airlift/airbase/285/airbase-285.pom
+io/cucumber/query/13.6.0/query-13.6.0.pom
+io/github/torand/java-commons/1.2.0/java-commons-1.2.0.pom
+io/hyte/platform/build/4.4.8.hyte-25324/build-4.4.8.hyte-25324.pom
+io/streamnative/buildtools/4.0.6.1/buildtools-4.0.6.1.pom
+io/streamnative/pulsar-bom/4.0.6.1/pulsar-bom-4.0.6.1.pom
+io/streamnative/pulsar/4.0.6.1/pulsar-4.0.6.1.pom
+org/apache/syncope/fit/syncope-fit-build-tools/3.0.13/syncope-fit-build-tools-3.0.13.pom
+org/apache/syncope/fit/syncope-fit-build-tools/4.0.1/syncope-fit-build-tools-4.0.1.pom
+org/apache/syncope/syncope/3.0.13/syncope-3.0.13.pom
+org/apache/syncope/syncope/4.0.1/syncope-4.0.1.pom
+org/infinispan/infinispan-build-configuration-parent/16.0.0.Dev03/infinispan-build-configuration-parent-16.0.0.Dev03.pom
+   from mvn: 3001 - non-mvn: 6467 - buildinfo: 0 - module: 5117 - gradle timestamp: 2841 - atlasdb: 0 = 0 release
