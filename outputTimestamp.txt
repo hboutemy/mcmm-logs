@@ -16795,3 +16795,9 @@ org/apache/syncope/syncope/3.0.13/syncope-3.0.13.pom
 org/apache/syncope/syncope/4.0.1/syncope-4.0.1.pom
 org/infinispan/infinispan-build-configuration-parent/16.0.0.Dev03/infinispan-build-configuration-parent-16.0.0.Dev03.pom
    from mvn: 3001 - non-mvn: 6467 - buildinfo: 0 - module: 5117 - gradle timestamp: 2841 - atlasdb: 0 = 0 release
+20250812
+com/github/hazendaz/maven/makeself-maven-plugin/1.9.2/makeself-maven-plugin-1.9.2.pom
+org/eclipse/daanse/org.eclipse.daanse.pom.parent/0.0.4/org.eclipse.daanse.pom.parent-0.0.4.pom
+org/eclipse/jetty/jetty-project/12.0.25/jetty-project-12.0.25.pom
+org/eclipse/jetty/jetty-project/12.1.0.beta3/jetty-project-12.1.0.beta3.pom
+   from mvn: 3445 - non-mvn: 4973 - buildinfo: 0 - module: 3974 - gradle timestamp: 2500 - atlasdb: 0 = 0 release
