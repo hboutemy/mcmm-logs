@@ -16801,3 +16801,31 @@ org/eclipse/daanse/org.eclipse.daanse.pom.parent/0.0.4/org.eclipse.daanse.pom.pa
 org/eclipse/jetty/jetty-project/12.0.25/jetty-project-12.0.25.pom
 org/eclipse/jetty/jetty-project/12.1.0.beta3/jetty-project-12.1.0.beta3.pom
    from mvn: 3445 - non-mvn: 4973 - buildinfo: 0 - module: 3974 - gradle timestamp: 2500 - atlasdb: 0 = 0 release
+20250813
+com/cognite/units/units-catalog/0.1.23/units-catalog-0.1.23.pom
+io/airlift/airbase-policy/286/airbase-policy-286.pom
+io/airlift/airbase/286/airbase-286.pom
+io/cucumber/junit-xml-formatter/0.8.1/junit-xml-formatter-0.8.1.pom
+io/github/cbarlin/aru-parent/0.6.1/aru-parent-0.6.1.pom
+io/jooby/jooby-project/4.0.6/jooby-project-4.0.6.pom
+io/quarkus/quarkus-parent/3.25.3/quarkus-parent-3.25.3.pom
+io/quarkus/quarkus-parent/3.26.0.CR1/quarkus-parent-3.26.0.CR1.pom
+org/apache/torque/torque/7.0/torque-7.0.pom
+org/finos/legend/engine/legend-engine/4.96.2/legend-engine-4.96.2.pom
+tools/jackson/core/jackson-core/3.0.0-rc8/jackson-core-3.0.0-rc8.pom
+tools/jackson/core/jackson-databind/3.0.0-rc8/jackson-databind-3.0.0-rc8.pom
+tools/jackson/dataformat/jackson-dataformat-xml/3.0.0-rc8/jackson-dataformat-xml-3.0.0-rc8.pom
+tools/jackson/dataformat/jackson-dataformats-binary/3.0.0-rc8/jackson-dataformats-binary-3.0.0-rc8.pom
+tools/jackson/dataformat/jackson-dataformats-text/3.0.0-rc8/jackson-dataformats-text-3.0.0-rc8.pom
+tools/jackson/datatype/jackson-datatype-joda/3.0.0-rc8/jackson-datatype-joda-3.0.0-rc8.pom
+tools/jackson/datatype/jackson-datatypes-collections/3.0.0-rc8/jackson-datatypes-collections-3.0.0-rc8.pom
+tools/jackson/datatype/jackson-datatypes-misc-parent/3.0.0-rc8/jackson-datatypes-misc-parent-3.0.0-rc8.pom
+tools/jackson/jackson-bom/3.0.0-rc8/jackson-bom-3.0.0-rc8.pom
+tools/jackson/jr/jackson-jr-all/3.0.0-rc8/jackson-jr-all-3.0.0-rc8.pom
+tools/jackson/jr/jackson-jr-annotation-support/3.0.0-rc8/jackson-jr-annotation-support-3.0.0-rc8.pom
+tools/jackson/jr/jackson-jr-extension-javatime/3.0.0-rc8/jackson-jr-extension-javatime-3.0.0-rc8.pom
+tools/jackson/jr/jackson-jr-objects/3.0.0-rc8/jackson-jr-objects-3.0.0-rc8.pom
+tools/jackson/jr/jackson-jr-parent/3.0.0-rc8/jackson-jr-parent-3.0.0-rc8.pom
+tools/jackson/jr/jackson-jr-retrofit2/3.0.0-rc8/jackson-jr-retrofit2-3.0.0-rc8.pom
+tools/jackson/jr/jackson-jr-stree/3.0.0-rc8/jackson-jr-stree-3.0.0-rc8.pom
+   from mvn: 7746 - non-mvn: 4433 - buildinfo: 3 - module: 3891 - gradle timestamp: 2196 - atlasdb: 0 = 0 release

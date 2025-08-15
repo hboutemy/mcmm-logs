@@ -1286,3 +1286,9 @@ dev/pretsa/scm-version-maven-extension/0.0.2/scm-version-maven-extension-0.0.2-b
 20250811
 20250812
 20250813
+20250814
+com/flowlogix/archetypes/starter/74/starter-74-build.pom
+com/flowlogix/depchain/depchain/74/depchain-74-build.pom
+com/flowlogix/depchain/integration-test/74/integration-test-74-build.pom
+com/flowlogix/depchain/shiro-jakarta/74/shiro-jakarta-74-build.pom
+com/flowlogix/depchain/unit-test/74/unit-test-74-build.pom
