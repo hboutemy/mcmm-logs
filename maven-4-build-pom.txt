@@ -1292,3 +1292,4 @@ com/flowlogix/depchain/depchain/74/depchain-74-build.pom
 com/flowlogix/depchain/integration-test/74/integration-test-74-build.pom
 com/flowlogix/depchain/shiro-jakarta/74/shiro-jakarta-74-build.pom
 com/flowlogix/depchain/unit-test/74/unit-test-74-build.pom
+20250815

@@ -16829,3 +16829,26 @@ tools/jackson/jr/jackson-jr-parent/3.0.0-rc8/jackson-jr-parent-3.0.0-rc8.pom
 tools/jackson/jr/jackson-jr-retrofit2/3.0.0-rc8/jackson-jr-retrofit2-3.0.0-rc8.pom
 tools/jackson/jr/jackson-jr-stree/3.0.0-rc8/jackson-jr-stree-3.0.0-rc8.pom
    from mvn: 7746 - non-mvn: 4433 - buildinfo: 3 - module: 3891 - gradle timestamp: 2196 - atlasdb: 0 = 0 release
+20250814
+com/hibegin/zrlog-base/3.2.101/zrlog-base-3.2.101.pom
+com/hibegin/zrlog-base/3.2.104/zrlog-base-3.2.104.pom
+io/airlift/airbase-policy/287/airbase-policy-287.pom
+io/airlift/airbase/287/airbase-287.pom
+net/sourceforge/pmd/pmd-build-tools-config/34/pmd-build-tools-config-34.pom
+org/apache/jackrabbit/oak-parent/1.84.0/oak-parent-1.84.0.pom
+org/apache/plc4x/plc4j-apache-calcite/0.13.0/plc4j-apache-calcite-0.13.0.pom
+org/apache/plc4x/plc4j-apache-kafka/0.13.0/plc4j-apache-kafka-0.13.0.pom
+org/apache/plc4x/plc4j-apache-nifi-1/0.13.0/plc4j-apache-nifi-1-0.13.0.pom
+org/apache/plc4x/plc4j-apache-nifi-2/0.13.0/plc4j-apache-nifi-2-0.13.0.pom
+org/apache/plc4x/plc4j-apache-nifi/0.13.0/plc4j-apache-nifi-0.13.0.pom
+org/apache/plc4x/plc4j-extras/0.13.0/plc4j-extras-0.13.0.pom
+org/apache/plc4x/plc4j-integrations/0.13.0/plc4j-integrations-0.13.0.pom
+org/apache/plc4x/plc4j-nifi-2-plc4x-processors/0.13.0/plc4j-nifi-2-plc4x-processors-0.13.0.pom
+org/apache/plc4x/plc4j-nifi-plc4x-processors/0.13.0/plc4j-nifi-plc4x-processors-0.13.0.pom
+org/apache/plc4x/plc4j-plc4x-server/0.13.0/plc4j-plc4x-server-0.13.0.pom
+org/apache/plc4x/plc4x-extras-parent/0.13.0/plc4x-extras-parent-0.13.0.pom
+org/apache/plc4x/plc4x-opcua-server/0.13.0/plc4x-opcua-server-0.13.0.pom
+org/finos/legend/engine/legend-engine/4.96.4/legend-engine-4.96.4.pom
+org/finos/legend/engine/legend-engine/release-4.96.3/legend-engine-release-4.96.3.pom
+org/sentrysoftware/oss-parent/3/oss-parent-3.pom
+   from mvn: 4106 - non-mvn: 4941 - buildinfo: 1 - module: 4607 - gradle timestamp: 3219 - atlasdb: 0 = 0 release

@@ -1,0 +1,2 @@
+org/apache/tsfile/tsfile-parent/2.1.1/tsfile-parent-2.1.1-cyclonedx.json
+org/apache/tsfile/tsfile-parent/2.1.1/tsfile-parent-2.1.1-cyclonedx.xml
