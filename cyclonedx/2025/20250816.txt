@@ -1,0 +1,2 @@
+org/apache/maven/plugins/maven-javadoc-plugin/3.11.3/maven-javadoc-plugin-3.11.3-cyclonedx.xml
+org/apache/maven/plugins/maven-javadoc-plugin/3.11.3/maven-javadoc-plugin-3.11.3-cyclonedx.json
