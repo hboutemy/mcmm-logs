@@ -16867,3 +16867,13 @@ net/bytebuddy/byte-buddy-dep/1.17.7/byte-buddy-dep-1.17.7.pom
 net/bytebuddy/byte-buddy-parent/1.17.7/byte-buddy-parent-1.17.7.pom
 org/apache/maven/plugins/maven-javadoc-plugin/3.11.3/maven-javadoc-plugin-3.11.3.pom
    from mvn: 402 - non-mvn: 1581 - buildinfo: 0 - module: 1544 - gradle timestamp: 968 - atlasdb: 0 = 0 release
+20250817
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-7/spoon-pom-11.2.2-beta-7.pom
+io/avaje/avaje-jsonb-parent/3.7-RC2/avaje-jsonb-parent-3.7-RC2.pom
+io/cucumber/cucumber-jvm/7.27.1/cucumber-jvm-7.27.1.pom
+io/cucumber/gherkin/34.0.0/gherkin-34.0.0.pom
+io/cucumber/pretty-formatter/2.1.0/pretty-formatter-2.1.0.pom
+org/apache/sling/org.apache.sling.discovery.standalone/1.0.4/org.apache.sling.discovery.standalone-1.0.4.pom
+org/codehaus/mojo/mojo-parent/93/mojo-parent-93.pom
+org/codehaus/plexus/plexus/23/plexus-23.pom
+   from mvn: 1095 - non-mvn: 2511 - buildinfo: 0 - module: 2286 - gradle timestamp: 1328 - atlasdb: 0 = 0 release
