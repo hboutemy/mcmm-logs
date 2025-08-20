@@ -16877,3 +16877,19 @@ org/apache/sling/org.apache.sling.discovery.standalone/1.0.4/org.apache.sling.di
 org/codehaus/mojo/mojo-parent/93/mojo-parent-93.pom
 org/codehaus/plexus/plexus/23/plexus-23.pom
    from mvn: 1095 - non-mvn: 2511 - buildinfo: 0 - module: 2286 - gradle timestamp: 1328 - atlasdb: 0 = 0 release
+20250818
+com/github/nbbrd/heylogs/heylogs-bom/0.12.1/heylogs-bom-0.12.1.pom
+com/github/nbbrd/heylogs/heylogs-parent/0.12.1/heylogs-parent-0.12.1.pom
+com/github/sitture/env-config/2.0.0/env-config-2.0.0.pom
+io/airlift/airbase-policy/288/airbase-policy-288.pom
+io/airlift/airbase/288/airbase-288.pom
+io/cucumber/cucumber-jvm/7.27.2/cucumber-jvm-7.27.2.pom
+io/hyte/platform/build/4.4.8.hyte-25341/build-4.4.8.hyte-25341.pom
+io/kroxylicious/kroxylicious-bom/0.15.0/kroxylicious-bom-0.15.0.pom
+io/kroxylicious/kroxylicious-parent/0.15.0/kroxylicious-parent-0.15.0.pom
+io/quarkus/quarkus-parent/3.15.6.1/quarkus-parent-3.15.6.1.pom
+io/quarkus/quarkus-parent/3.20.2.1/quarkus-parent-3.20.2.1.pom
+org/apache/maven/resolver/maven-resolver-ant-tasks/1.6.0/maven-resolver-ant-tasks-1.6.0.pom
+org/codehaus/plexus/plexus-testing/1.6.0/plexus-testing-1.6.0.pom
+org/eclipse/jetty/jetty-project/12.1.0/jetty-project-12.1.0.pom
+   from mvn: 4433 - non-mvn: 4741 - buildinfo: 0 - module: 3620 - gradle timestamp: 2090 - atlasdb: 0 = 0 release
