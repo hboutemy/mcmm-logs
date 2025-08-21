@@ -16893,3 +16893,15 @@ org/apache/maven/resolver/maven-resolver-ant-tasks/1.6.0/maven-resolver-ant-task
 org/codehaus/plexus/plexus-testing/1.6.0/plexus-testing-1.6.0.pom
 org/eclipse/jetty/jetty-project/12.1.0/jetty-project-12.1.0.pom
    from mvn: 4433 - non-mvn: 4741 - buildinfo: 0 - module: 3620 - gradle timestamp: 2090 - atlasdb: 0 = 0 release
+20250819
+io/airlift/airbase-policy/289/airbase-policy-289.pom
+io/airlift/airbase/289/airbase-289.pom
+io/avaje/avaje-jex-parent/3.3-RC3/avaje-jex-parent-3.3-RC3.pom
+io/github/rockcrafters/rockcraft-parent/1.2.1/rockcraft-parent-1.2.1.pom
+io/liftwizard/liftwizard-minimal-parent/2.1.33/liftwizard-minimal-parent-2.1.33.pom
+io/streamnative/buildtools/3.3.5.12/buildtools-3.3.5.12.pom
+io/streamnative/pulsar-bom/3.3.5.12/pulsar-bom-3.3.5.12.pom
+io/streamnative/pulsar/3.3.5.12/pulsar-3.3.5.12.pom
+org/apache/camel/camel/4.14.0/camel-4.14.0.pom
+org/apache/commons/commons-parent/86/commons-parent-86.pom
+   from mvn: 4425 - non-mvn: 9118 - buildinfo: 1 - module: 5666 - gradle timestamp: 2363 - atlasdb: 0 = 0 release
