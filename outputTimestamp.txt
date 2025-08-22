@@ -16905,3 +16905,14 @@ io/streamnative/pulsar/3.3.5.12/pulsar-3.3.5.12.pom
 org/apache/camel/camel/4.14.0/camel-4.14.0.pom
 org/apache/commons/commons-parent/86/commons-parent-86.pom
    from mvn: 4425 - non-mvn: 9118 - buildinfo: 1 - module: 5666 - gradle timestamp: 2363 - atlasdb: 0 = 0 release
+20250820
+io/airlift/airbase-policy/290/airbase-policy-290.pom
+io/airlift/airbase/290/airbase-290.pom
+io/dropwizard/metrics5/metrics-parent/5.0.2/metrics-parent-5.0.2.pom
+io/quarkus/quarkus-parent/3.25.4/quarkus-parent-3.25.4.pom
+io/quarkus/quarkus-parent/3.26.0/quarkus-parent-3.26.0.pom
+org/apache/wayang/wayang/1.1.0/wayang-1.1.0.pom
+org/codehaus/plexus/plexus-archiver/4.10.1/plexus-archiver-4.10.1.pom
+org/finos/legend/engine/legend-engine/4.97.0/legend-engine-4.97.0.pom
+org/infinispan/protostream/parent/5.0.15.Final/parent-5.0.15.Final.pom
+   from mvn: 5297 - non-mvn: 5161 - buildinfo: 0 - module: 4672 - gradle timestamp: 2232 - atlasdb: 0 = 0 release

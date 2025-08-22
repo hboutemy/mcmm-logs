@@ -1,0 +1,6 @@
+com/github/hazendaz/git/git-for-windows/2.51.0.1/git-for-windows-2.51.0.1-cyclonedx.xml
+com/github/hazendaz/git/git-for-windows/2.51.0.1/git-for-windows-2.51.0.1-cyclonedx.json
+com/github/spotbugs/spotbugs-maven-plugin/4.9.4.0/spotbugs-maven-plugin-4.9.4.0-cyclonedx.xml
+com/github/spotbugs/spotbugs-maven-plugin/4.9.4.0/spotbugs-maven-plugin-4.9.4.0-cyclonedx.json
+org/apache/iotdb/iotdb-parent/2.0.5/iotdb-parent-2.0.5-cyclonedx.xml
+org/apache/iotdb/iotdb-parent/2.0.5/iotdb-parent-2.0.5-cyclonedx.json
