@@ -1,0 +1,6 @@
+com/oracle/database/graph/opg-client/25.3.0/opg-client-25.3.0-cyclonedx.xml
+com/oracle/database/graph/opg-graph-importer/25.3.0/opg-graph-importer-25.3.0-cyclonedx.xml
+com/oracle/database/graph/opg-pgql-jdbc/25.3.0/opg-pgql-jdbc-25.3.0-cyclonedx.xml
+com/oracle/database/graph/opg-pgx-jdbc/25.3.0/opg-pgx-jdbc-25.3.0-cyclonedx.xml
+io/github/sebastian-toepfer/oss/oss-parent/1.8.0/oss-parent-1.8.0-cyclonedx.json
+io/github/sebastian-toepfer/oss/oss-parent/1.8.0/oss-parent-1.8.0-cyclonedx.xml
