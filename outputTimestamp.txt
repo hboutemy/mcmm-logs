@@ -16935,3 +16935,9 @@ io/streamnative/pulsar-bom/3.3.5.13/pulsar-bom-3.3.5.13.pom
 io/streamnative/pulsar/3.3.5.13/pulsar-3.3.5.13.pom
 org/jpmml/jpmml-transpiler/1.4.4/jpmml-transpiler-1.4.4.pom
    from mvn: 2877 - non-mvn: 5350 - buildinfo: 2 - module: 4230 - gradle timestamp: 2255 - atlasdb: 0 = 0 release
+20250823
+eu/maveniverse/maven/bom-builder/bom-builder/1.2.1/bom-builder-1.2.1.pom
+eu/maveniverse/maven/nisse/nisse/0.6.0/nisse-0.6.0.pom
+org/apache/sshd/sshd-osgi/2.16.0/sshd-osgi-2.16.0.pom
+org/apache/sshd/sshd/2.16.0/sshd-2.16.0.pom
+   from mvn: 791 - non-mvn: 928 - buildinfo: 0 - module: 1090 - gradle timestamp: 403 - atlasdb: 0 = 0 release
