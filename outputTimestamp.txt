@@ -16941,3 +16941,8 @@ eu/maveniverse/maven/nisse/nisse/0.6.0/nisse-0.6.0.pom
 org/apache/sshd/sshd-osgi/2.16.0/sshd-osgi-2.16.0.pom
 org/apache/sshd/sshd/2.16.0/sshd-2.16.0.pom
    from mvn: 791 - non-mvn: 928 - buildinfo: 0 - module: 1090 - gradle timestamp: 403 - atlasdb: 0 = 0 release
+20250824
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-8/spoon-pom-11.2.2-beta-8.pom
+io/dropwizard/metrics/metrics-parent/4.2.34/metrics-parent-4.2.34.pom
+org/apache/commons/commons-parent/87/commons-parent-87.pom
+   from mvn: 574 - non-mvn: 1394 - buildinfo: 0 - module: 1312 - gradle timestamp: 618 - atlasdb: 0 = 0 release
