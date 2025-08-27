@@ -16946,3 +16946,29 @@ fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-8/spoon-pom-11.2.2-beta-8.pom
 io/dropwizard/metrics/metrics-parent/4.2.34/metrics-parent-4.2.34.pom
 org/apache/commons/commons-parent/87/commons-parent-87.pom
    from mvn: 574 - non-mvn: 1394 - buildinfo: 0 - module: 1312 - gradle timestamp: 618 - atlasdb: 0 = 0 release
+20250825
+com/flowlogix/checkstyle/66/checkstyle-66-build.pom
+com/flowlogix/infra-pom/66/infra-pom-66-build.pom
+com/flowlogix/infra-pom/66/infra-pom-66.pom
+eu/maveniverse/maven/mima/mima/2.4.34/mima-2.4.34.pom
+eu/maveniverse/maven/toolbox/toolbox/0.11.6/toolbox-0.11.6.pom
+io/airlift/airbase-policy/291/airbase-policy-291.pom
+io/airlift/airbase-policy/292/airbase-policy-292.pom
+io/airlift/airbase/291/airbase-291.pom
+io/airlift/airbase/292/airbase-292.pom
+io/dropwizard/dropwizard-project/3.0.16/dropwizard-project-3.0.16.pom
+io/dropwizard/dropwizard-project/4.0.16/dropwizard-project-4.0.16.pom
+io/dropwizard/dropwizard-project/5.0.0-rc.5/dropwizard-project-5.0.0-rc.5.pom
+io/github/torand/java-commons/1.3.0/java-commons-1.3.0.pom
+io/streamnative/buildtools/4.0.6.2/buildtools-4.0.6.2.pom
+io/streamnative/pulsar-bom/4.0.6.2/pulsar-bom-4.0.6.2.pom
+io/streamnative/pulsar/4.0.6.2/pulsar-4.0.6.2.pom
+io/yupiik/fusion/fusion/1.0.29/fusion-1.0.29.pom
+org/apache/qpid/qpid-jms-parent/1.14.0/qpid-jms-parent-1.14.0.pom
+org/apache/qpid/qpid-jms-parent/2.8.0/qpid-jms-parent-2.8.0.pom
+org/apache/sling/org.apache.sling.auth.core/2.0.2/org.apache.sling.auth.core-2.0.2.pom
+org/apache/sling/org.apache.sling.jcr.jackrabbit.accessmanager/5.0.0/org.apache.sling.jcr.jackrabbit.accessmanager-5.0.0.pom
+org/apache/sling/org.apache.sling.jcr.jackrabbit.usermanager/3.0.0/org.apache.sling.jcr.jackrabbit.usermanager-3.0.0.pom
+org/codehaus/plexus/plexus-i18n/1.0.0/plexus-i18n-1.0.0.pom
+org/codehaus/plexus/plexus-resources/1.3.1/plexus-resources-1.3.1.pom
+   from mvn: 5169 - non-mvn: 6276 - buildinfo: 0 - module: 5044 - gradle timestamp: 2931 - atlasdb: 0 = 0 release
