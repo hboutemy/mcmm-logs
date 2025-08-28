@@ -1318,3 +1318,4 @@ com/flowlogix/depchain/depchain/76/depchain-76-build.pom
 com/flowlogix/depchain/integration-test/76/integration-test-76-build.pom
 com/flowlogix/depchain/shiro-jakarta/76/shiro-jakarta-76-build.pom
 com/flowlogix/depchain/unit-test/76/unit-test-76-build.pom
+20250827
