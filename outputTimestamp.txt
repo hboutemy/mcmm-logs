@@ -16990,3 +16990,7 @@ org/apache/sling/org.apache.sling.testing.resourceresolver-mock/2.0.0/org.apache
 org/finos/legend/engine/legend-engine/4.97.1/legend-engine-4.97.1.pom
 org/jpmml/jpmml-transpiler/1.4.5/jpmml-transpiler-1.4.5.pom
    from mvn: 7163 - non-mvn: 5313 - buildinfo: 2 - module: 4035 - gradle timestamp: 1817 - atlasdb: 0 = 0 release
+20250827
+org/apache/sling/org.apache.sling.models.api/2.0.0/org.apache.sling.models.api-2.0.0.pom
+org/webjars/bootstrap/5.3.8/bootstrap-5.3.8.pom
+   from mvn: 3643 - non-mvn: 5061 - buildinfo: 0 - module: 2634 - gradle timestamp: 1292 - atlasdb: 0 = 0 release

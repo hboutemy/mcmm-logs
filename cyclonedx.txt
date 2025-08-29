@@ -2586,6 +2586,7 @@ org.apache.hadoop:hadoop-yarn-server-timelineservice-hbase-client
 org.apache.hadoop:hadoop-yarn-server-timelineservice-hbase-common
 org.apache.hadoop:hadoop-yarn-server-timelineservice-hbase-server
 org.apache.hadoop:hadoop-yarn-server-timelineservice-hbase-server-1
+org.apache.hadoop:hadoop-yarn-server-timelineservice-hbase-server-2
 org.apache.hadoop:hadoop-yarn-server-timelineservice-hbase-tests
 org.apache.hadoop:hadoop-yarn-server-web-proxy
 org.apache.hadoop:hadoop-yarn-services
