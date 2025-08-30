@@ -16994,3 +16994,31 @@ org/jpmml/jpmml-transpiler/1.4.5/jpmml-transpiler-1.4.5.pom
 org/apache/sling/org.apache.sling.models.api/2.0.0/org.apache.sling.models.api-2.0.0.pom
 org/webjars/bootstrap/5.3.8/bootstrap-5.3.8.pom
    from mvn: 3643 - non-mvn: 5061 - buildinfo: 0 - module: 2634 - gradle timestamp: 1292 - atlasdb: 0 = 0 release
+20250828
+com/fasterxml/jackson/core/jackson-annotations/2.20/jackson-annotations-2.20.pom
+com/fasterxml/jackson/core/jackson-core/2.20.0/jackson-core-2.20.0.pom
+com/fasterxml/jackson/core/jackson-databind/2.20.0/jackson-databind-2.20.0.pom
+com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.20.0/jackson-dataformat-xml-2.20.0.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-binary/2.20.0/jackson-dataformats-binary-2.20.0.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.20.0/jackson-dataformats-text-2.20.0.pom
+com/fasterxml/jackson/datatype/jackson-datatype-joda/2.20.0/jackson-datatype-joda-2.20.0.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-collections/2.20.0/jackson-datatypes-collections-2.20.0.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/2.20.0/jackson-datatypes-misc-parent-2.20.0.pom
+com/fasterxml/jackson/jackson-base/2.20.0/jackson-base-2.20.0.pom
+com/fasterxml/jackson/jackson-bom/2.20.0/jackson-bom-2.20.0.pom
+com/fasterxml/jackson/jackson-parent/2.20/jackson-parent-2.20.pom
+com/fasterxml/jackson/jr/jackson-jr-all/2.20.0/jackson-jr-all-2.20.0.pom
+com/fasterxml/jackson/jr/jackson-jr-annotation-support/2.20.0/jackson-jr-annotation-support-2.20.0.pom
+com/fasterxml/jackson/jr/jackson-jr-extension-javatime/2.20.0/jackson-jr-extension-javatime-2.20.0.pom
+com/fasterxml/jackson/jr/jackson-jr-objects/2.20.0/jackson-jr-objects-2.20.0.pom
+com/fasterxml/jackson/jr/jackson-jr-parent/2.20.0/jackson-jr-parent-2.20.0.pom
+com/fasterxml/jackson/jr/jackson-jr-retrofit2/2.20.0/jackson-jr-retrofit2-2.20.0.pom
+com/fasterxml/jackson/jr/jackson-jr-stree/2.20.0/jackson-jr-stree-2.20.0.pom
+dev/langchain4j/langchain4j-parent/1.4.0-beta10/langchain4j-parent-1.4.0-beta10.pom
+io/airlift/airbase-policy/293/airbase-policy-293.pom
+io/airlift/airbase-policy/294/airbase-policy-294.pom
+io/airlift/airbase/293/airbase-293.pom
+io/airlift/airbase/294/airbase-294.pom
+io/dropwizard/metrics/metrics-parent/4.2.35/metrics-parent-4.2.35.pom
+io/dropwizard/metrics5/metrics-parent/5.0.3/metrics-parent-5.0.3.pom
+   from mvn: 6082 - non-mvn: 4553 - buildinfo: 2 - module: 3922 - gradle timestamp: 1762 - atlasdb: 0 = 0 release
