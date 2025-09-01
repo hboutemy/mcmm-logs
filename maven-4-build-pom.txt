@@ -1327,3 +1327,4 @@ com/flowlogix/depchain/depchain/77/depchain-77-build.pom
 com/flowlogix/depchain/integration-test/77/integration-test-77-build.pom
 com/flowlogix/depchain/shiro-jakarta/77/shiro-jakarta-77-build.pom
 com/flowlogix/depchain/unit-test/77/unit-test-77-build.pom
+20250831

@@ -17122,3 +17122,7 @@ org/apache/qpid/protonj2-parent/1.0.0/protonj2-parent-1.0.0.pom
 org/apache/zookeeper/parent/3.9.4/parent-3.9.4.pom
 org/eclipse/tycho/tycho/5.0.0/tycho-5.0.0.pom
    from mvn: 8409 - non-mvn: 5271 - buildinfo: 5 - module: 4998 - gradle timestamp: 3706 - atlasdb: 0 = 0 release
+20250830
+io/avaje/avaje-http-parent/3.5-RC2/avaje-http-parent-3.5-RC2.pom
+org/apache/maven/wrapper/maven-wrapper-parent/3.3.3/maven-wrapper-parent-3.3.3.pom
+   from mvn: 1125 - non-mvn: 950 - buildinfo: 0 - module: 875 - gradle timestamp: 436 - atlasdb: 0 = 0 release
