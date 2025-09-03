@@ -1,0 +1,6 @@
+com/github/spotbugs/spotbugs-maven-plugin/4.8.6.7/spotbugs-maven-plugin-4.8.6.7-cyclonedx.xml
+com/github/spotbugs/spotbugs-maven-plugin/4.8.6.7/spotbugs-maven-plugin-4.8.6.7-cyclonedx.json
+com/github/spotbugs/spotbugs-maven-plugin/4.9.4.1/spotbugs-maven-plugin-4.9.4.1-cyclonedx.xml
+com/github/spotbugs/spotbugs-maven-plugin/4.9.4.1/spotbugs-maven-plugin-4.9.4.1-cyclonedx.json
+org/apache/plc4x/plc4x-extras-parent/0.13.1/plc4x-extras-parent-0.13.1-cyclonedx.json
+org/apache/plc4x/plc4x-extras-parent/0.13.1/plc4x-extras-parent-0.13.1-cyclonedx.xml

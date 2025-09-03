@@ -17136,3 +17136,14 @@ io/github/ollama4j/ollama4j/1.1.0/ollama4j-1.1.0.pom
 net/jsign/jsign-parent/7.2/jsign-parent-7.2.pom
 net/jsign/jsign/7.2/jsign-7.2.pom
    from mvn: 664 - non-mvn: 819 - buildinfo: 0 - module: 789 - gradle timestamp: 454 - atlasdb: 0 = 0 release
+20250901
+id/devcode/spring-extension-parent/1.0.0/spring-extension-parent-1.0.0.pom
+io/airlift/airbase-policy/296/airbase-policy-296.pom
+io/airlift/airbase/296/airbase-296.pom
+io/cucumber/cucumber-jvm/7.28.0/cucumber-jvm-7.28.0.pom
+io/streamnative/buildtools/4.0.6.3/buildtools-4.0.6.3.pom
+io/streamnative/pulsar-bom/4.0.6.3/pulsar-bom-4.0.6.3.pom
+io/streamnative/pulsar/4.0.6.3/pulsar-4.0.6.3.pom
+io/telicent/smart-caches/graph/scg-base/0.90.1/scg-base-0.90.1.pom
+org/infinispan/protostream/parent/6.0.0.Dev12/parent-6.0.0.Dev12.pom
+   from mvn: 2464 - non-mvn: 5240 - buildinfo: 85 - module: 4131 - gradle timestamp: 1608 - atlasdb: 0 = 0 release
