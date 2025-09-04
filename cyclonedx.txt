@@ -3508,6 +3508,7 @@ org.apache.parquet:parquet-pig-bundle
 org.apache.parquet:parquet-protobuf
 org.apache.parquet:parquet-scala_2.12
 org.apache.parquet:parquet-thrift
+org.apache.parquet:parquet-variant
 org.apache.pekko:pekko-actor-testkit-typed_2.12
 org.apache.pekko:pekko-actor-testkit-typed_2.13
 org.apache.pekko:pekko-actor-testkit-typed_3
@@ -3755,6 +3756,7 @@ org.apache.spark:spark-network-yarn_2.12
 org.apache.spark:spark-network-yarn_2.13
 org.apache.spark:spark-parent_2.12
 org.apache.spark:spark-parent_2.13
+org.apache.spark:spark-pipelines_2.13
 org.apache.spark:spark-profiler_2.13
 org.apache.spark:spark-protobuf_2.12
 org.apache.spark:spark-protobuf_2.13
