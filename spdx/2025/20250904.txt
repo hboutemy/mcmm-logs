@@ -1,0 +1,5 @@
+org/opendaylight/controller/controller-sbom-10.0.12.spdx
+org/opendaylight/infrautils/infrautils-sbom-7.1.6.spdx
+org/opendaylight/mdsal/mdsal-sbom-14.0.16.spdx
+org/opendaylight/odlparent/odlparent-sbom-14.1.2.spdx
+org/opendaylight/yangtools/yangtools-sbom-14.0.16.spdx

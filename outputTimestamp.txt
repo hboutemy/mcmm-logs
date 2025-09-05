@@ -17175,3 +17175,16 @@ org/apache/sling/org.apache.sling.models.impl/2.0.0/org.apache.sling.models.impl
 org/apache/sling/org.apache.sling.starter.content/2.0.0/org.apache.sling.starter.content-2.0.0.pom
 org/jpmml/jpmml-sklearn/1.9.15/jpmml-sklearn-1.9.15.pom
    from mvn: 3320 - non-mvn: 5604 - buildinfo: 1 - module: 4018 - gradle timestamp: 2411 - atlasdb: 0 = 0 release
+20250903
+de/cuioss/cui-java-parent/1.1.7/cui-java-parent-1.1.7.pom
+de/cuioss/cui-parent-pom/1.1.7/cui-parent-pom-1.1.7.pom
+eu/maveniverse/maven/bom-builder/bom-builder/1.3.0/bom-builder-1.3.0.pom
+eu/maveniverse/maven/maven-boms/maven-boms/3.9.11-01/maven-boms-3.9.11-01.pom
+io/avaje/avaje-validator-parent/2.14-RC1/avaje-validator-parent-2.14-RC1.pom
+io/cucumber/cucumber-json-formatter/0.1.2/cucumber-json-formatter-0.1.2.pom
+io/cucumber/cucumber-jvm/7.28.1/cucumber-jvm-7.28.1.pom
+io/quarkus/quarkus-parent/3.26.2/quarkus-parent-3.26.2.pom
+org/finos/legend/engine/legend-engine/4.97.2/legend-engine-4.97.2.pom
+org/infinispan/infinispan-build-configuration-parent/15.2.6.Final/infinispan-build-configuration-parent-15.2.6.Final.pom
+org/openapitools/openapidiff/openapi-diff-parent/2.1.3/openapi-diff-parent-2.1.3.pom
+   from mvn: 5700 - non-mvn: 6065 - buildinfo: 0 - module: 4619 - gradle timestamp: 2988 - atlasdb: 0 = 0 release

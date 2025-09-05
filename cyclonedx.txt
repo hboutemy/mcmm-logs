@@ -6507,6 +6507,7 @@ org.opendaylight.odlparent:odl-karaf-feat-war
 org.opendaylight.odlparent:odl-license
 org.opendaylight.odlparent:odl-lmax-3
 org.opendaylight.odlparent:odl-netty-4
+org.opendaylight.odlparent:odl-netty-http3
 org.opendaylight.odlparent:odl-netty-io_uring
 org.opendaylight.odlparent:odl-netty-kqueue
 org.opendaylight.odlparent:odl-servlet-api
