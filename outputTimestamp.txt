@@ -17201,3 +17201,14 @@ de/cuioss/cui-parent-pom/1.2.1/cui-parent-pom-1.2.1.pom
 org/apache/sling/org.apache.sling.resourceresolver/1.12.12/org.apache.sling.resourceresolver-1.12.12.pom
 org/codehaus/mojo/versions/versions/2.19.0/versions-2.19.0.pom
    from mvn: 4503 - non-mvn: 5462 - buildinfo: 0 - module: 4007 - gradle timestamp: 2863 - atlasdb: 0 = 0 release
+20250905
+com/flowlogix/checkstyle/67/checkstyle-67-build.pom
+com/flowlogix/infra-pom/67/infra-pom-67.pom
+com/flowlogix/infra-pom/67/infra-pom-67-build.pom
+eu/maveniverse/maven/nisse/nisse/0.6.1/nisse-0.6.1.pom
+eu/maveniverse/maven/toolbox/toolbox/0.12.0/toolbox-0.12.0.pom
+id/devcode/spring-extension-parent/1.0.2/spring-extension-parent-1.0.2.pom
+org/apache/sling/org.apache.sling.testing.sling-mock.parent/4.0.0/org.apache.sling.testing.sling-mock.parent-4.0.0.pom
+org/eclipse/jetty/jetty-project/12.0.26/jetty-project-12.0.26.pom
+org/finos/legend/engine/legend-engine/4.98.0/legend-engine-4.98.0.pom
+   from mvn: 4382 - non-mvn: 4561 - buildinfo: 1 - module: 2901 - gradle timestamp: 1571 - atlasdb: 0 = 0 release
