@@ -1,0 +1,10 @@
+com/github/hazendaz/base-parent/54/base-parent-54-cyclonedx.json
+com/github/hazendaz/base-parent/54/base-parent-54-cyclonedx.xml
+com/github/hazendaz/build-tools/1.5.0/build-tools-1.5.0-cyclonedx.xml
+com/github/hazendaz/build-tools/1.5.0/build-tools-1.5.0-cyclonedx.json
+com/github/spotbugs/spotbugs-maven-plugin/4.9.4.2/spotbugs-maven-plugin-4.9.4.2-cyclonedx.json
+com/github/spotbugs/spotbugs-maven-plugin/4.9.4.2/spotbugs-maven-plugin-4.9.4.2-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-10/spoon-pom-11.2.2-beta-10-cyclonedx.json
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-10/spoon-pom-11.2.2-beta-10-cyclonedx.xml
+net/dapete/locks/1.3.1/locks-1.3.1-cyclonedx.xml
+net/dapete/locks/1.3.1/locks-1.3.1-cyclonedx.json
