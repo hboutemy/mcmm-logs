@@ -1,0 +1,10 @@
+com/github/hazendaz/scriptable-dataset/3.1.0/scriptable-dataset-3.1.0-cyclonedx.xml
+com/github/hazendaz/scriptable-dataset/3.1.0/scriptable-dataset-3.1.0-cyclonedx.json
+com/github/hazendaz/tomcat/tomcat11-config/11.0.11/tomcat11-config-11.0.11-cyclonedx.xml
+com/github/hazendaz/tomcat/tomcat11-config/11.0.11/tomcat11-config-11.0.11-cyclonedx.json
+com/github/hazendaz/tomcat/tomcat9-config/9.0.109/tomcat9-config-9.0.109-cyclonedx.xml
+com/github/hazendaz/tomcat/tomcat9-config/9.0.109/tomcat9-config-9.0.109-cyclonedx.json
+org/apache/tsfile/tsfile-parent/1.1.2/tsfile-parent-1.1.2-cyclonedx.json
+org/apache/tsfile/tsfile-parent/1.1.2/tsfile-parent-1.1.2-cyclonedx.xml
+org/eclipse/jetty/jetty-home/12.1.1/jetty-home-12.1.1-cyclonedx.xml
+org/eclipse/jetty/jetty-home/12.1.1/jetty-home-12.1.1-cyclonedx.json

@@ -17241,3 +17241,10 @@ tools/jackson/jr/jackson-jr-parent/3.0.0-rc9/jackson-jr-parent-3.0.0-rc9.pom
 tools/jackson/jr/jackson-jr-retrofit2/3.0.0-rc9/jackson-jr-retrofit2-3.0.0-rc9.pom
 tools/jackson/jr/jackson-jr-stree/3.0.0-rc9/jackson-jr-stree-3.0.0-rc9.pom
    from mvn: 792 - non-mvn: 2774 - buildinfo: 3 - module: 2898 - gradle timestamp: 796 - atlasdb: 0 = 0 release
+20250907
+com/github/hazendaz/base-parent/54/base-parent-54.pom
+com/github/spotbugs/spotbugs-maven-plugin/4.9.4.2/spotbugs-maven-plugin-4.9.4.2.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-10/spoon-pom-11.2.2-beta-10.pom
+id/devcode/spring-extension-parent/1.0.3/spring-extension-parent-1.0.3.pom
+org/finos/legend/engine/legend-engine/4.99.0/legend-engine-4.99.0.pom
+   from mvn: 1003 - non-mvn: 1908 - buildinfo: 1 - module: 2063 - gradle timestamp: 1192 - atlasdb: 0 = 0 release
