@@ -17280,3 +17280,19 @@ io/streamnative/pulsar-bom/4.0.6.4/pulsar-bom-4.0.6.4.pom
 io/streamnative/pulsar/4.0.6.4/pulsar-4.0.6.4.pom
 org/jvnet/jaxb/jaxb-tools-project/4.0.10/jaxb-tools-project-4.0.10.pom
    from mvn: 3877 - non-mvn: 4930 - buildinfo: 10 - module: 2778 - gradle timestamp: 2746 - atlasdb: 0 = 0 release
+20250910
+com/google/code/gson/gson-extras/2.13.2-rc1/gson-extras-2.13.2-rc1.pom
+com/google/code/gson/gson-parent/2.13.2-rc1/gson-parent-2.13.2-rc1.pom
+com/google/code/gson/gson-parent/2.13.2/gson-parent-2.13.2.pom
+com/google/code/gson/gson/2.13.2-rc1/gson-2.13.2-rc1.pom
+com/google/code/gson/gson/2.13.2/gson-2.13.2.pom
+com/google/code/gson/proto/2.13.2-rc1/proto-2.13.2-rc1.pom
+eu/maveniverse/maven/njord/njord/0.8.4/njord-0.8.4.pom
+id/devcode/spring-extension-parent/1.0.5/spring-extension-parent-1.0.5.pom
+io/github/chains-project/maven-lockfile-parent/5.6.2/maven-lockfile-parent-5.6.2.pom
+io/quarkus/quarkus-parent/3.28.0.CR1/quarkus-parent-3.28.0.CR1.pom
+io/wcm/io.wcm.wcm.ui.granite/1.11.2/io.wcm.wcm.ui.granite-1.11.2.pom
+org/apache/sling/org.apache.sling.resourceresolver/2.0.2/org.apache.sling.resourceresolver-2.0.2.pom
+org/jline/jline-parent/3.30.6/jline-parent-3.30.6-build.pom
+org/jline/jline-parent/3.30.6/jline-parent-3.30.6.pom
+   from mvn: 5080 - non-mvn: 5416 - buildinfo: 2 - module: 4486 - gradle timestamp: 3501 - atlasdb: 0 = 0 release
