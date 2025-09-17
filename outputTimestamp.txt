@@ -17321,3 +17321,17 @@ org/eclipse/angus/angus-activation-project/2.0.3/angus-activation-project-2.0.3.
 org/eclipse/angus/angus-activation-project/2.1.0-M1/angus-activation-project-2.1.0-M1.pom
 org/eclipse/jetty/jetty-project/12.0.27/jetty-project-12.0.27.pom
    from mvn: 4084 - non-mvn: 7250 - buildinfo: 0 - module: 6667 - gradle timestamp: 4310 - atlasdb: 0 = 0 release
+20250912
+com/sap/ai/sdk/sdk-parent/1.11.0/sdk-parent-1.11.0.pom
+de/cuioss/cui-java-parent/1.2.2/cui-java-parent-1.2.2.pom
+de/cuioss/cui-parent-pom/1.2.2/cui-parent-pom-1.2.2.pom
+io/cucumber/gherkin-utils/10.0.0/gherkin-utils-10.0.0.pom
+io/github/dimabarbul/wiremock-openapi-validation-extension/1.5.1/wiremock-openapi-validation-extension-1.5.1.pom
+io/smallrye/jandex-parent/3.5.0/jandex-parent-3.5.0.pom
+io/streamnative/buildtools/4.1.0.1/buildtools-4.1.0.1.pom
+io/streamnative/pulsar-bom/4.1.0.1/pulsar-bom-4.1.0.1.pom
+io/streamnative/pulsar/4.1.0.1/pulsar-4.1.0.1.pom
+net/sourceforge/pmd/pmd/7.17.0/pmd-7.17.0.pom
+org/apache/karaf/cellar/4.4.8/cellar-4.4.8.pom
+org/finos/legend/engine/legend-engine/4.100.0/legend-engine-4.100.0.pom
+   from mvn: 5959 - non-mvn: 4384 - buildinfo: 1 - module: 2667 - gradle timestamp: 1810 - atlasdb: 0 = 0 release
