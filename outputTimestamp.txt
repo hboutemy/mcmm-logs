@@ -17296,3 +17296,28 @@ org/apache/sling/org.apache.sling.resourceresolver/2.0.2/org.apache.sling.resour
 org/jline/jline-parent/3.30.6/jline-parent-3.30.6-build.pom
 org/jline/jline-parent/3.30.6/jline-parent-3.30.6.pom
    from mvn: 5080 - non-mvn: 5416 - buildinfo: 2 - module: 4486 - gradle timestamp: 3501 - atlasdb: 0 = 0 release
+20250911
+com/spotify/fmt/fmt-maven-plugin/2.28/fmt-maven-plugin-2.28.pom
+eu/maveniverse/maven/toolbox/toolbox/0.12.1/toolbox-0.12.1.pom
+eu/maveniverse/maven/toolbox/toolbox/0.12.2/toolbox-0.12.2.pom
+io/airlift/airbase-policy/298/airbase-policy-298.pom
+io/airlift/airbase/298/airbase-298.pom
+io/cucumber/cucumber-json-formatter/0.2.0/cucumber-json-formatter-0.2.0.pom
+io/cucumber/gherkin/35.0.0/gherkin-35.0.0.pom
+io/cucumber/html-formatter/21.15.1/html-formatter-21.15.1.pom
+io/cucumber/junit-xml-formatter/0.9.0/junit-xml-formatter-0.9.0.pom
+io/cucumber/pretty-formatter/2.2.0/pretty-formatter-2.2.0.pom
+io/cucumber/query/14.0.0/query-14.0.0.pom
+io/cucumber/query/14.0.1/query-14.0.1.pom
+io/cucumber/testng-xml-formatter/0.6.0/testng-xml-formatter-0.6.0.pom
+jakarta/activation/jakarta.activation-api/2.1.4/jakarta.activation-api-2.1.4.pom
+jakarta/activation/jakarta.activation-api/2.2.0-M1/jakarta.activation-api-2.2.0-M1.pom
+net/revelc/code/formatter/formatter-maven-plugin/2.29.0/formatter-maven-plugin-2.29.0.pom
+org/apache/amoro/amoro-parent/0.8.1-incubating/amoro-parent-0.8.1-incubating.pom
+org/apache/maven/resolver/maven-resolver/2.0.11/maven-resolver-2.0.11.pom
+org/apache/maven/wrapper/maven-wrapper-parent/3.3.4/maven-wrapper-parent-3.3.4.pom
+org/apache/opendal/opendal/0.48.1/opendal-0.48.1.pom
+org/eclipse/angus/angus-activation-project/2.0.3/angus-activation-project-2.0.3.pom
+org/eclipse/angus/angus-activation-project/2.1.0-M1/angus-activation-project-2.1.0-M1.pom
+org/eclipse/jetty/jetty-project/12.0.27/jetty-project-12.0.27.pom
+   from mvn: 4084 - non-mvn: 7250 - buildinfo: 0 - module: 6667 - gradle timestamp: 4310 - atlasdb: 0 = 0 release
