@@ -1,0 +1,5 @@
+org/apache/commons/commons-skin/5.1.0/commons-skin-5.1.0.spdx.json
+org/opendaylight/aaa/aaa-sbom-0.20.12.spdx
+org/opendaylight/controller/controller-sbom-10.0.13.spdx
+org/opendaylight/controller/controller-sbom-11.0.2.spdx
+org/opendaylight/mdsal/mdsal-sbom-14.0.18.spdx

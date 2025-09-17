@@ -17357,3 +17357,19 @@ io/streamnative/buildtools/4.0.6.5/buildtools-4.0.6.5.pom
 io/streamnative/pulsar-bom/4.0.6.5/pulsar-bom-4.0.6.5.pom
 io/streamnative/pulsar/4.0.6.5/pulsar-4.0.6.5.pom
    from mvn: 871 - non-mvn: 2100 - buildinfo: 0 - module: 1875 - gradle timestamp: 1434 - atlasdb: 0 = 0 release
+20250915
+com/github/spotbugs/spotbugs-maven-plugin/4.9.5.0/spotbugs-maven-plugin-4.9.5.0.pom
+eu/maveniverse/maven/toolbox/toolbox/0.12.3/toolbox-0.12.3.pom
+io/airlift/airbase-policy/300/airbase-policy-300.pom
+io/airlift/airbase/300/airbase-300.pom
+io/cucumber/query/14.1.0/query-14.1.0.pom
+io/dropwizard/metrics/metrics-parent/4.2.37/metrics-parent-4.2.37.pom
+io/dropwizard/metrics5/metrics-parent/5.0.5/metrics-parent-5.0.5.pom
+io/streamnative/connectors/pulsar-spark-connector_2.13/3.5.2.0/pulsar-spark-connector_2.13-3.5.2.0.pom
+nl/hsac/hsac-fitnesse-fixtures/5.3.22/hsac-fitnesse-fixtures-5.3.22.pom
+org/apache/ratis/ratis-thirdparty/1.0.10/ratis-thirdparty-1.0.10.pom
+org/apache/tika/tika-parent/3.2.3/tika-parent-3.2.3.pom
+org/finos/legend/engine/legend-engine/4.101.0/legend-engine-4.101.0.pom
+org/infinispan/protostream/parent/6.0.0.Dev13/parent-6.0.0.Dev13.pom
+org/jpmml/jpmml-sklearn/1.9.16/jpmml-sklearn-1.9.16.pom
+   from mvn: 3614 - non-mvn: 4150 - buildinfo: 0 - module: 3571 - gradle timestamp: 1949 - atlasdb: 0 = 0 release
