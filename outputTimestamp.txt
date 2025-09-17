@@ -17335,3 +17335,13 @@ net/sourceforge/pmd/pmd/7.17.0/pmd-7.17.0.pom
 org/apache/karaf/cellar/4.4.8/cellar-4.4.8.pom
 org/finos/legend/engine/legend-engine/4.100.0/legend-engine-4.100.0.pom
    from mvn: 5959 - non-mvn: 4384 - buildinfo: 1 - module: 2667 - gradle timestamp: 1810 - atlasdb: 0 = 0 release
+20250913
+eu/maveniverse/maven/parent/parent/42/parent-42.pom
+id/devcode/spring-extension-parent/1.0.6/spring-extension-parent-1.0.6.pom
+io/airlift/airbase-policy/299/airbase-policy-299.pom
+io/airlift/airbase/299/airbase-299.pom
+io/github/sola-ris/jax-rs-client-test/0.2.0/jax-rs-client-test-0.2.0.pom
+org/apache/maven/plugins/maven-shade-plugin/3.6.1/maven-shade-plugin-3.6.1.pom
+org/apache/maven/surefire/surefire/3.5.4/surefire-3.5.4.pom
+org/apache/openmeetings/openmeetings-parent/8.1.0/openmeetings-parent-8.1.0.pom
+   from mvn: 943 - non-mvn: 1179 - buildinfo: 0 - module: 1304 - gradle timestamp: 508 - atlasdb: 0 = 0 release
