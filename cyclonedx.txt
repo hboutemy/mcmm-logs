@@ -1147,9 +1147,11 @@ io.dropwizard:dropwizard-validation
 io.dropwizard:dropwizard-views
 io.dropwizard:dropwizard-views-freemarker
 io.dropwizard:dropwizard-views-mustache
+io.github.amadeusitgroup.maven.wagon:ghrelasset-wagon
 io.github.chains-project:maven-lockfile
 io.github.chains-project:maven-lockfile-github-action
 io.github.chains-project:maven-lockfile-parent
+io.github.ptsdirect:pts
 io.github.r4fterman:abbot
 io.github.r4fterman:com.windowtester
 io.github.r4fterman:com.windowtester.runtime
@@ -1942,6 +1944,7 @@ org.apache.commons:commons-skin
 org.apache.commons:commons-statistics-descriptive
 org.apache.commons:commons-statistics-distribution
 org.apache.commons:commons-statistics-inference
+org.apache.commons:commons-statistics-interval
 org.apache.commons:commons-statistics-parent
 org.apache.commons:commons-statistics-ranking
 org.apache.commons:commons-text

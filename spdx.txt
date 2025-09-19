@@ -42,6 +42,7 @@ io.github.microcks:microcks-testcontainers
 io.github.microcks:microcks-uber-app
 io.github.microcks:microcks-uber-async-minion
 io.github.microcks:microcks-util
+io.github.ptsdirect:pts
 io.github.ryunen344.webauthn:webauthn2-json-moshi
 io.github.ryunen344.webauthn:webauthn2-json-serialization
 io.opentelemetry.javaagent:opentelemetry-javaagent
@@ -112,6 +113,7 @@ org.apache.commons:commons-skin
 org.apache.commons:commons-statistics-descriptive
 org.apache.commons:commons-statistics-distribution
 org.apache.commons:commons-statistics-inference
+org.apache.commons:commons-statistics-interval
 org.apache.commons:commons-statistics-parent
 org.apache.commons:commons-statistics-ranking
 org.apache.commons:commons-text

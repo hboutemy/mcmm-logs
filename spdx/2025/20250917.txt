@@ -1,0 +1,11 @@
+io/github/ptsdirect/pts/1.0.4/pts-1.0.4.spdx.json
+io/github/ptsdirect/pts/1.0.4/pts-1.0.4-spdx.json
+org/apache/commons/commons-statistics-descriptive/1.2/commons-statistics-descriptive-1.2.spdx.json
+org/apache/commons/commons-statistics-distribution/1.2/commons-statistics-distribution-1.2.spdx.json
+org/apache/commons/commons-statistics-inference/1.2/commons-statistics-inference-1.2.spdx.json
+org/apache/commons/commons-statistics-interval/1.2/commons-statistics-interval-1.2.spdx.json
+org/apache/commons/commons-statistics-parent/1.2/commons-statistics-parent-1.2.spdx.json
+org/apache/commons/commons-statistics-ranking/1.2/commons-statistics-ranking-1.2.spdx.json
+org/opendaylight/aaa/aaa-sbom-0.21.2.spdx
+org/opendaylight/aaa/aaa-sbom-0.20.13.spdx
+org/opendaylight/controller/controller-sbom-10.0.14.spdx
