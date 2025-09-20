@@ -17425,3 +17425,15 @@ org/infinispan/infinispan-build-configuration-parent/16.0.0.Dev04/infinispan-bui
 org/webjars/font-awesome/7.0.1/font-awesome-7.0.1.pom
 us/abstracta/jmeter/jmeter-java-dsl-parent/2.0/jmeter-java-dsl-parent-2.0.pom
    from mvn: 7139 - non-mvn: 4396 - buildinfo: 0 - module: 3195 - gradle timestamp: 1363 - atlasdb: 0 = 0 release
+20250918
+com/fasterxml/oss-parent/71/oss-parent-71.pom
+com/flowlogix/checkstyle/68/checkstyle-68-build.pom
+com/flowlogix/infra-pom/68/infra-pom-68-build.pom
+com/flowlogix/infra-pom/68/infra-pom-68.pom
+digital/pragmatech/testing/spring-test-profiler/0.0.12/spring-test-profiler-0.0.12.pom
+io/airlift/airbase-policy/302/airbase-policy-302.pom
+io/airlift/airbase/302/airbase-302.pom
+io/dropwizard/modules/module-parent/5.0.0/module-parent-5.0.0.pom
+io/streamnative/connectors/pulsar-spark-connector_2.12/3.4.0.3-p2/pulsar-spark-connector_2.12-3.4.0.3-p2.pom
+jakarta/mail/jakarta.mail-api/2.2.0-M1/jakarta.mail-api-2.2.0-M1.pom
+   from mvn: 3241 - non-mvn: 8104 - buildinfo: 149 - module: 5865 - gradle timestamp: 3769 - atlasdb: 0 = 0 release
