@@ -17437,3 +17437,15 @@ io/dropwizard/modules/module-parent/5.0.0/module-parent-5.0.0.pom
 io/streamnative/connectors/pulsar-spark-connector_2.12/3.4.0.3-p2/pulsar-spark-connector_2.12-3.4.0.3-p2.pom
 jakarta/mail/jakarta.mail-api/2.2.0-M1/jakarta.mail-api-2.2.0-M1.pom
    from mvn: 3241 - non-mvn: 8104 - buildinfo: 149 - module: 5865 - gradle timestamp: 3769 - atlasdb: 0 = 0 release
+20250919
+com/github/hazendaz/javabean-tester/2.11.1/javabean-tester-2.11.1.pom
+io/avaje/avaje-metrics-parent/9.8/avaje-metrics-parent-9.8.pom
+io/avaje/avaje-validator-parent/2.14/avaje-validator-parent-2.14.pom
+io/cucumber/pretty-formatter/2.3.0/pretty-formatter-2.3.0.pom
+io/wcm/maven/plugins/wcmio-content-package-maven-plugin/2.3.0/wcmio-content-package-maven-plugin-2.3.0.pom
+io/wcm/tooling/commons/io.wcm.tooling.commons.crx-packmgr-helper/2.3.0/io.wcm.tooling.commons.crx-packmgr-helper-2.3.0.pom
+jakarta/mail/jakarta.mail-api/2.1.5/jakarta.mail-api-2.1.5.pom
+org/apache/commons/commons-parent/88/commons-parent-88.pom
+org/eclipse/angus/all/2.1.0-M1/all-2.1.0-M1.pom
+org/jpmml/jpmml-sklearn/1.9.17/jpmml-sklearn-1.9.17.pom
+   from mvn: 4327 - non-mvn: 6020 - buildinfo: 1 - module: 5686 - gradle timestamp: 3265 - atlasdb: 0 = 0 release
