@@ -1,0 +1,4 @@
+org/opendaylight/bgpcep/bgpcep-sbom-0.23.1.spdx
+org/spdx/spdx-java-core/1.0.1/spdx-java-core-1.0.1.spdx.json
+org/spdx/spdx-java-model-2_X/1.0.1/spdx-java-model-2_X-1.0.1.spdx.json
+org/spdx/spdx-java-model-3_0/1.0.1/spdx-java-model-3_0-1.0.1.spdx.json

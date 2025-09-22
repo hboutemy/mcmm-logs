@@ -17449,3 +17449,34 @@ org/apache/commons/commons-parent/88/commons-parent-88.pom
 org/eclipse/angus/all/2.1.0-M1/all-2.1.0-M1.pom
 org/jpmml/jpmml-sklearn/1.9.17/jpmml-sklearn-1.9.17.pom
    from mvn: 4327 - non-mvn: 6020 - buildinfo: 1 - module: 5686 - gradle timestamp: 3265 - atlasdb: 0 = 0 release
+20250920
+eu/maveniverse/maven/toolbox/toolbox/0.13.5/toolbox-0.13.5.pom
+io/airlift/airbase-policy/303/airbase-policy-303.pom
+io/airlift/airbase/303/airbase-303.pom
+io/cucumber/gherkin/35.1.0/gherkin-35.1.0.pom
+io/github/cbarlin/aru-parent/0.6.6/aru-parent-0.6.6.pom
+io/streamnative/buildtools/4.0.6.6/buildtools-4.0.6.6.pom
+io/streamnative/pulsar-bom/4.0.6.6/pulsar-bom-4.0.6.6.pom
+org/apache/stormcrawler/stormcrawler/3.5.0/stormcrawler-3.5.0.pom
+org/craftercms/mariaDB4j/mariaDB4j-pom/3.1.0.5/mariaDB4j-pom-3.1.0.5.pom
+org/owasp/dependency-check-parent/12.1.4/dependency-check-parent-12.1.4.pom
+org/owasp/dependency-check-parent/12.1.5/dependency-check-parent-12.1.5.pom
+org/owasp/dependency-check-plugin/12.1.4/dependency-check-plugin-12.1.4.pom
+org/owasp/dependency-check-plugin/12.1.5/dependency-check-plugin-12.1.5.pom
+tools/jackson/core/jackson-core/3.0.0-rc10/jackson-core-3.0.0-rc10.pom
+tools/jackson/core/jackson-databind/3.0.0-rc10/jackson-databind-3.0.0-rc10.pom
+tools/jackson/dataformat/jackson-dataformat-xml/3.0.0-rc10/jackson-dataformat-xml-3.0.0-rc10.pom
+tools/jackson/dataformat/jackson-dataformats-binary/3.0.0-rc10/jackson-dataformats-binary-3.0.0-rc10.pom
+tools/jackson/dataformat/jackson-dataformats-text/3.0.0-rc10/jackson-dataformats-text-3.0.0-rc10.pom
+tools/jackson/datatype/jackson-datatype-joda/3.0.0-rc10/jackson-datatype-joda-3.0.0-rc10.pom
+tools/jackson/datatype/jackson-datatypes-collections/3.0.0-rc10/jackson-datatypes-collections-3.0.0-rc10.pom
+tools/jackson/datatype/jackson-datatypes-misc-parent/3.0.0-rc10/jackson-datatypes-misc-parent-3.0.0-rc10.pom
+tools/jackson/jackson-bom/3.0.0-rc10/jackson-bom-3.0.0-rc10.pom
+tools/jackson/jr/jackson-jr-all/3.0.0-rc10/jackson-jr-all-3.0.0-rc10.pom
+tools/jackson/jr/jackson-jr-annotation-support/3.0.0-rc10/jackson-jr-annotation-support-3.0.0-rc10.pom
+tools/jackson/jr/jackson-jr-extension-javatime/3.0.0-rc10/jackson-jr-extension-javatime-3.0.0-rc10.pom
+tools/jackson/jr/jackson-jr-objects/3.0.0-rc10/jackson-jr-objects-3.0.0-rc10.pom
+tools/jackson/jr/jackson-jr-parent/3.0.0-rc10/jackson-jr-parent-3.0.0-rc10.pom
+tools/jackson/jr/jackson-jr-retrofit2/3.0.0-rc10/jackson-jr-retrofit2-3.0.0-rc10.pom
+tools/jackson/jr/jackson-jr-stree/3.0.0-rc10/jackson-jr-stree-3.0.0-rc10.pom
+   from mvn: 1442 - non-mvn: 2212 - buildinfo: 5 - module: 1378 - gradle timestamp: 600 - atlasdb: 0 = 0 release
