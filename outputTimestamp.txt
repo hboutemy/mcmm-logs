@@ -17480,3 +17480,13 @@ tools/jackson/jr/jackson-jr-parent/3.0.0-rc10/jackson-jr-parent-3.0.0-rc10.pom
 tools/jackson/jr/jackson-jr-retrofit2/3.0.0-rc10/jackson-jr-retrofit2-3.0.0-rc10.pom
 tools/jackson/jr/jackson-jr-stree/3.0.0-rc10/jackson-jr-stree-3.0.0-rc10.pom
    from mvn: 1442 - non-mvn: 2212 - buildinfo: 5 - module: 1378 - gradle timestamp: 600 - atlasdb: 0 = 0 release
+20250921
+eu/maveniverse/maven/toolbox/toolbox/0.13.6/toolbox-0.13.6.pom
+io/cucumber/cucumber-jvm/7.29.0/cucumber-jvm-7.29.0.pom
+org/apache/maven/plugins/maven-javadoc-plugin/3.12.0/maven-javadoc-plugin-3.12.0.pom
+org/apache/nifi/nifi/2.6.0/nifi-2.6.0.pom
+org/apache/sling/org.apache.sling.jcr.resource/3.3.4/org.apache.sling.jcr.resource-3.3.4.pom
+org/codehaus/mojo/flatten-maven-plugin/1.7.3/flatten-maven-plugin-1.7.3.pom
+org/jpmml/jpmml-parent/1.0.9/jpmml-parent-1.0.9.pom
+org/spdx/spdx-java-core/1.0.1/spdx-java-core-1.0.1.pom
+   from mvn: 1263 - non-mvn: 1186 - buildinfo: 0 - module: 1207 - gradle timestamp: 491 - atlasdb: 0 = 0 release
