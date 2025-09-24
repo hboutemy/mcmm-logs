@@ -1404,3 +1404,8 @@ com/flowlogix/flowlogix-datamodel/10.0.1/flowlogix-datamodel-10.0.1-build.pom
 com/flowlogix/flowlogix-jee/10.0.1/flowlogix-jee-10.0.1-build.pom
 com/flowlogix/flowlogix/10.0.1/flowlogix-10.0.1-build.pom
 com/flowlogix/jakarta-ee/10.0.1/jakarta-ee-10.0.1-build.pom
+20250923
+com/flowlogix/base-pom/69/base-pom-69-build.pom
+com/flowlogix/checkstyle/69/checkstyle-69-build.pom
+com/flowlogix/infra-pom/69/infra-pom-69-build.pom
+com/flowlogix/payara-pom/69/payara-pom-69-build.pom
