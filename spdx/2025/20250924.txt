@@ -1,0 +1,4 @@
+org/apache/commons/commons-lang3/3.19.0/commons-lang3-3.19.0.spdx.json
+org/spdx/spdx-jackson-store/2.0.3/spdx-jackson-store-2.0.3.spdx.json
+org/spdx/spdx-rdf-store/2.0.1/spdx-rdf-store-2.0.1.spdx.json
+org/spdx/spdx-spreadsheet-store/2.0.1/spdx-spreadsheet-store-2.0.1.spdx.json

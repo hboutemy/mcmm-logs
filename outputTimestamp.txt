@@ -17507,3 +17507,13 @@ org/codehaus/mojo/versions/versions/2.19.1/versions-2.19.1.pom
 org/finos/legend/engine/legend-engine/4.101.2/legend-engine-4.101.2.pom
 org/spdx/java-spdx-library/2.0.1/java-spdx-library-2.0.1.pom
    from mvn: 5121 - non-mvn: 5504 - buildinfo: 0 - module: 4407 - gradle timestamp: 2566 - atlasdb: 0 = 0 release
+20250923
+com/flowlogix/checkstyle/69/checkstyle-69-build.pom
+com/flowlogix/infra-pom/69/infra-pom-69-build.pom
+com/flowlogix/infra-pom/69/infra-pom-69.pom
+eu/maveniverse/maven/toolbox/toolbox/0.13.7/toolbox-0.13.7.pom
+io/airlift/airbase-policy/305/airbase-policy-305.pom
+io/airlift/airbase/305/airbase-305.pom
+io/github/cbarlin/aru-parent/0.6.7/aru-parent-0.6.7.pom
+org/eclipse/angus/all/2.0.5/all-2.0.5.pom
+   from mvn: 4212 - non-mvn: 3508 - buildinfo: 0 - module: 3046 - gradle timestamp: 2033 - atlasdb: 0 = 0 release
