@@ -17517,3 +17517,13 @@ io/airlift/airbase/305/airbase-305.pom
 io/github/cbarlin/aru-parent/0.6.7/aru-parent-0.6.7.pom
 org/eclipse/angus/all/2.0.5/all-2.0.5.pom
    from mvn: 4212 - non-mvn: 3508 - buildinfo: 0 - module: 3046 - gradle timestamp: 2033 - atlasdb: 0 = 0 release
+20250924
+eu/maveniverse/maven/mimir/mimir/0.9.0/mimir-0.9.0.pom
+io/github/chains-project/maven-lockfile-parent/5.7.1/maven-lockfile-parent-5.7.1.pom
+io/quarkus/quarkus-parent/3.28.1/quarkus-parent-3.28.1.pom
+org/apache/camel/camel/4.10.7/camel-4.10.7.pom
+org/apache/commons/commons-lang3/3.19.0/commons-lang3-3.19.0.pom
+org/owasp/dependency-check-parent/12.1.6/dependency-check-parent-12.1.6.pom
+org/owasp/dependency-check-plugin/12.1.6/dependency-check-plugin-12.1.6.pom
+us/abstracta/jmeter/jmeter-java-dsl-parent/2.1/jmeter-java-dsl-parent-2.1.pom
+   from mvn: 7851 - non-mvn: 8404 - buildinfo: 85 - module: 4336 - gradle timestamp: 2451 - atlasdb: 0 = 0 release

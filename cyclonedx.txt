@@ -64,6 +64,7 @@ com.flowlogix.depchain:depchain
 com.flowlogix.depchain:integration-test
 com.flowlogix.depchain:shiro-jakarta
 com.flowlogix.depchain:unit-test
+com.flowlogix.plugins:container-deploy-plugin
 com.flowlogix.weld:weld-native
 com.flowlogix:faces-affinity
 com.flowlogix:flowlogix
@@ -5865,6 +5866,7 @@ org.opendaylight.controller:feature-parent
 org.opendaylight.controller:features-controller
 org.opendaylight.controller:features-controller-experimental
 org.opendaylight.controller:features-controller-testing
+org.opendaylight.controller:karaf4-parent
 org.opendaylight.controller:mdsal-it-base
 org.opendaylight.controller:mdsal-it-parent
 org.opendaylight.controller:mdsal-parent
@@ -5887,6 +5889,7 @@ org.opendaylight.controller:odl-mdsal-broker
 org.opendaylight.controller:odl-mdsal-clustering-commons
 org.opendaylight.controller:odl-mdsal-distributed-datastore
 org.opendaylight.controller:odl-mdsal-remoterpc-connector
+org.opendaylight.controller:odl-pekko
 org.opendaylight.controller:odl-raft-api
 org.opendaylight.controller:odl-raft-spi
 org.opendaylight.controller:odl-toaster
@@ -5911,6 +5914,8 @@ org.opendaylight.controller:sal-dummy-distributed-datastore
 org.opendaylight.controller:sal-remoterpc-connector
 org.opendaylight.controller:sal-test-model
 org.opendaylight.controller:sample-toaster-it
+org.opendaylight.controller:scala3-library
+org.opendaylight.controller:scripts
 org.opendaylight.controller:single-feature-parent
 org.opendaylight.controller:threadpool-config-api
 org.opendaylight.controller:threadpool-config-impl

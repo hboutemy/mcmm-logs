@@ -1,0 +1,5 @@
+io/github/microcks/microcks-testcontainers/0.4.0/microcks-testcontainers-0.4.0.spdx.json
+org/opendaylight/aaa/aaa-sbom-0.22.0.spdx
+org/opendaylight/controller/controller-sbom-12.0.0.spdx
+org/spdx/spdx-tagvalue-store/2.0.1/spdx-tagvalue-store-2.0.1.spdx.json
+org/spdx/spdx-v3jsonld-store/1.0.1/spdx-v3jsonld-store-1.0.1.spdx.json

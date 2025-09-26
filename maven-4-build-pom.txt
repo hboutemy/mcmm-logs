@@ -1410,3 +1410,10 @@ com/flowlogix/checkstyle/69/checkstyle-69-build.pom
 com/flowlogix/infra-pom/69/infra-pom-69-build.pom
 com/flowlogix/payara-pom/69/payara-pom-69-build.pom
 20250924
+20250925
+com/flowlogix/base-pom/70/base-pom-70-build.pom
+com/flowlogix/checkstyle/70/checkstyle-70-build.pom
+com/flowlogix/infra-pom/70/infra-pom-70-build.pom
+com/flowlogix/payara-pom/70/payara-pom-70-build.pom
+com/flowlogix/plugins/container-deploy-plugin/0.1/container-deploy-plugin-0.1-build.pom
+com/flowlogix/plugins/container-deploy-plugin/0.2/container-deploy-plugin-0.2-build.pom
