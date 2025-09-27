@@ -17527,3 +17527,21 @@ org/owasp/dependency-check-parent/12.1.6/dependency-check-parent-12.1.6.pom
 org/owasp/dependency-check-plugin/12.1.6/dependency-check-plugin-12.1.6.pom
 us/abstracta/jmeter/jmeter-java-dsl-parent/2.1/jmeter-java-dsl-parent-2.1.pom
    from mvn: 7851 - non-mvn: 8404 - buildinfo: 85 - module: 4336 - gradle timestamp: 2451 - atlasdb: 0 = 0 release
+20250925
+com/flowlogix/checkstyle/70/checkstyle-70-build.pom
+com/flowlogix/infra-pom/70/infra-pom-70-build.pom
+com/flowlogix/infra-pom/70/infra-pom-70.pom
+eu/maveniverse/maven/mimir/mimir/0.9.1/mimir-0.9.1.pom
+eu/maveniverse/maven/mimir/mimir/0.9.2/mimir-0.9.2.pom
+io/airlift/airbase-policy/306/airbase-policy-306.pom
+io/airlift/airbase/306/airbase-306.pom
+io/streamnative/buildtools/3.0.10.8/buildtools-3.0.10.8.pom
+io/streamnative/pulsar/3.0.10.8/pulsar-3.0.10.8.pom
+io/trino/trino-root/477/trino-root-477.pom
+io/wcm/maven/plugins/wcmio-content-package-maven-plugin/2.4.0/wcmio-content-package-maven-plugin-2.4.0.pom
+io/wcm/tooling/commons/io.wcm.tooling.commons.crx-packmgr-helper/2.4.0/io.wcm.tooling.commons.crx-packmgr-helper-2.4.0.pom
+io/yupiik/fusion/fusion/1.0.30/fusion-1.0.30.pom
+org/apache/maven/scm/maven-scm/2.2.1/maven-scm-2.2.1.pom
+org/finos/legend/engine/legend-engine/4.101.3/legend-engine-4.101.3.pom
+org/finos/legend/engine/legend-engine/4.101.4/legend-engine-4.101.4.pom
+   from mvn: 4685 - non-mvn: 4867 - buildinfo: 0 - module: 4125 - gradle timestamp: 2906 - atlasdb: 0 = 0 release
