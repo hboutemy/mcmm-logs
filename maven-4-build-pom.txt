@@ -1438,3 +1438,14 @@ com/flowlogix/jakarta-ee/10.0.2/jakarta-ee-10.0.2-build.pom
 com/flowlogix/payara-pom/71/payara-pom-71-build.pom
 com/flowlogix/payara-pom/72/payara-pom-72-build.pom
 com/flowlogix/plugins/container-deploy-plugin/0.3/container-deploy-plugin-0.3-build.pom
+20250927
+com/flowlogix/archetypes/starter/82/starter-82-build.pom
+com/flowlogix/depchain/depchain/82/depchain-82-build.pom
+com/flowlogix/depchain/integration-test/82/integration-test-82-build.pom
+com/flowlogix/depchain/shiro-jakarta/82/shiro-jakarta-82-build.pom
+com/flowlogix/depchain/unit-test/82/unit-test-82-build.pom
+com/flowlogix/flowlogix-bom/10.0.3/flowlogix-bom-10.0.3-build.pom
+com/flowlogix/flowlogix-datamodel/10.0.3/flowlogix-datamodel-10.0.3-build.pom
+com/flowlogix/flowlogix-jee/10.0.3/flowlogix-jee-10.0.3-build.pom
+com/flowlogix/flowlogix/10.0.3/flowlogix-10.0.3-build.pom
+com/flowlogix/jakarta-ee/10.0.3/jakarta-ee-10.0.3-build.pom

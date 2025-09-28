@@ -17545,3 +17545,20 @@ org/apache/maven/scm/maven-scm/2.2.1/maven-scm-2.2.1.pom
 org/finos/legend/engine/legend-engine/4.101.3/legend-engine-4.101.3.pom
 org/finos/legend/engine/legend-engine/4.101.4/legend-engine-4.101.4.pom
    from mvn: 4685 - non-mvn: 4867 - buildinfo: 0 - module: 4125 - gradle timestamp: 2906 - atlasdb: 0 = 0 release
+20250926
+com/fasterxml/uuid/java-uuid-generator/5.1.1/java-uuid-generator-5.1.1.pom
+com/flowlogix/checkstyle/71/checkstyle-71-build.pom
+com/flowlogix/checkstyle/72/checkstyle-72-build.pom
+com/flowlogix/infra-pom/71/infra-pom-71-build.pom
+com/flowlogix/infra-pom/71/infra-pom-71.pom
+com/flowlogix/infra-pom/72/infra-pom-72.pom
+com/flowlogix/infra-pom/72/infra-pom-72-build.pom
+dev/langchain4j/langchain4j-parent/1.6.0-beta12/langchain4j-parent-1.6.0-beta12.pom
+eu/maveniverse/maven/mimir/mimir/0.9.3/mimir-0.9.3.pom
+io/cucumber/compatbility-kit/23.1.0/compatbility-kit-23.1.0.pom
+io/micronaut/maven/micronaut-maven-plugin-parent/4.10.2/micronaut-maven-plugin-parent-4.10.2.pom
+org/finos/legend/engine/legend-engine/4.100.1/legend-engine-4.100.1.pom
+org/finos/legend/engine/legend-engine/4.102.0/legend-engine-4.102.0.pom
+org/jpmml/jpmml-python/1.3.8/jpmml-python-1.3.8.pom
+tech/picnic/error-prone-support/error-prone-support/0.25.0/error-prone-support-0.25.0.pom
+   from mvn: 4720 - non-mvn: 7168 - buildinfo: 1 - module: 6651 - gradle timestamp: 4877 - atlasdb: 0 = 0 release
