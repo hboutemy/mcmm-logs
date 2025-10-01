@@ -1,0 +1,16 @@
+com/flowlogix/flowlogix-bom/10.0.4/flowlogix-bom-10.0.4-cyclonedx.json
+com/flowlogix/flowlogix-bom/10.0.4/flowlogix-bom-10.0.4-cyclonedx.xml
+com/flowlogix/flowlogix-datamodel/10.0.4/flowlogix-datamodel-10.0.4-cyclonedx.json
+com/flowlogix/flowlogix-datamodel/10.0.4/flowlogix-datamodel-10.0.4-cyclonedx.xml
+com/flowlogix/flowlogix-jee/10.0.4/flowlogix-jee-10.0.4-cyclonedx.json
+com/flowlogix/flowlogix-jee/10.0.4/flowlogix-jee-10.0.4-cyclonedx.xml
+com/flowlogix/flowlogix/10.0.4/flowlogix-10.0.4-cyclonedx.xml
+com/flowlogix/flowlogix/10.0.4/flowlogix-10.0.4-cyclonedx.json
+com/flowlogix/jakarta-ee/10.0.4/jakarta-ee-10.0.4-cyclonedx.json
+com/flowlogix/jakarta-ee/10.0.4/jakarta-ee-10.0.4-cyclonedx.xml
+com/flowlogix/plugins/container-deploy-plugin/0.4/container-deploy-plugin-0.4-cyclonedx.json
+com/flowlogix/plugins/container-deploy-plugin/0.4/container-deploy-plugin-0.4-cyclonedx.xml
+io/github/chains-project/maven-lockfile-parent/5.8.0/maven-lockfile-parent-5.8.0-cyclonedx.json
+io/github/chains-project/maven-lockfile-parent/5.8.0/maven-lockfile-parent-5.8.0-cyclonedx.xml
+io/github/chains-project/maven-lockfile/5.8.0/maven-lockfile-5.8.0-cyclonedx.xml
+io/github/chains-project/maven-lockfile/5.8.0/maven-lockfile-5.8.0-cyclonedx.json
