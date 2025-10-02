@@ -17602,3 +17602,19 @@ org/metricshub/community-connectors/1.0.14/community-connectors-1.0.14.pom
 org/metricshub/jawk/4.1.00/jawk-4.1.00.pom
 org/metricshub/metricshub-community/1.0.08/metricshub-community-1.0.08.pom
    from mvn: 3572 - non-mvn: 6628 - buildinfo: 2 - module: 7061 - gradle timestamp: 2491 - atlasdb: 0 = 0 release
+20250930
+ch/qos/logback/logback-parent/1.5.19/logback-parent-1.5.19.pom
+io/airlift/airbase-policy/307/airbase-policy-307.pom
+io/airlift/airbase/307/airbase-307.pom
+io/github/chains-project/maven-lockfile-parent/5.8.0/maven-lockfile-parent-5.8.0.pom
+io/github/mrzahmadi/filterx/0.0.1/filterx-0.0.1.pom
+io/github/ollama4j/ollama4j/1.1.1/ollama4j-1.1.1.pom
+io/streamnative/buildtools/3.3.5.14/buildtools-3.3.5.14.pom
+io/streamnative/buildtools/4.1.0.3/buildtools-4.1.0.3.pom
+io/streamnative/pulsar-bom/3.3.5.14/pulsar-bom-3.3.5.14.pom
+io/streamnative/pulsar-bom/4.1.0.3/pulsar-bom-4.1.0.3.pom
+io/streamnative/pulsar/3.3.5.14/pulsar-3.3.5.14.pom
+io/streamnative/pulsar/4.1.0.3/pulsar-4.1.0.3.pom
+org/apache/wicket/wicket-parent/10.7.0/wicket-parent-10.7.0.pom
+org/codehaus/mojo/exec-maven-plugin/3.6.0/exec-maven-plugin-3.6.0.pom
+   from mvn: 4477 - non-mvn: 5668 - buildinfo: 0 - module: 4831 - gradle timestamp: 2406 - atlasdb: 0 = 0 release

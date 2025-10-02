@@ -1460,3 +1460,11 @@ com/flowlogix/flowlogix-jee/10.0.4/flowlogix-jee-10.0.4-build.pom
 com/flowlogix/flowlogix/10.0.4/flowlogix-10.0.4-build.pom
 com/flowlogix/jakarta-ee/10.0.4/jakarta-ee-10.0.4-build.pom
 com/flowlogix/plugins/container-deploy-plugin/0.4/container-deploy-plugin-0.4-build.pom
+20251001
+com/flowlogix/base-pom/73/base-pom-73-build.pom
+com/flowlogix/checkstyle/73/checkstyle-73-build.pom
+com/flowlogix/infra-pom/73/infra-pom-73-build.pom
+com/flowlogix/payara-pom/73/payara-pom-73-build.pom
+com/flowlogix/plugins/container-deploy-plugin-root/0.5/container-deploy-plugin-root-0.5-build.pom
+com/flowlogix/plugins/container-deploy-plugin/0.5/container-deploy-plugin-0.5-build.pom
+com/flowlogix/plugins/live-reload/0.5/live-reload-0.5-build.pom
