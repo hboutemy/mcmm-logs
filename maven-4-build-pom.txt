@@ -1468,3 +1468,10 @@ com/flowlogix/payara-pom/73/payara-pom-73-build.pom
 com/flowlogix/plugins/container-deploy-plugin-root/0.5/container-deploy-plugin-root-0.5-build.pom
 com/flowlogix/plugins/container-deploy-plugin/0.5/container-deploy-plugin-0.5-build.pom
 com/flowlogix/plugins/live-reload/0.5/live-reload-0.5-build.pom
+20251002
+com/flowlogix/plugins/container-deploy-plugin-root/0.5.1/container-deploy-plugin-root-0.5.1-build.pom
+com/flowlogix/plugins/container-deploy-plugin-root/0.5.2/container-deploy-plugin-root-0.5.2-build.pom
+com/flowlogix/plugins/container-deploy-plugin/0.5.1/container-deploy-plugin-0.5.1-build.pom
+com/flowlogix/plugins/container-deploy-plugin/0.5.2/container-deploy-plugin-0.5.2-build.pom
+com/flowlogix/plugins/live-reload/0.5.1/live-reload-0.5.1-build.pom
+com/flowlogix/plugins/live-reload/0.5.2/live-reload-0.5.2-build.pom

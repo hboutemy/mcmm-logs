@@ -4368,6 +4368,8 @@ org.glassfish.corba:glassfish-corba-tests
 org.glassfish.corba:idlj
 org.glassfish.corba:rmic
 org.glassfish.embedded:embedded-glassfish-maven-plugin
+org.glassfish.exousia:parent
+org.glassfish.exousia:spi
 org.glassfish.expressly:expressly
 org.glassfish.external:management-api
 org.glassfish.gmbal:gmbal
@@ -5253,12 +5255,17 @@ org.janusgraph:janusgraph-server
 org.janusgraph:janusgraph-solr
 org.janusgraph:janusgraph-test
 org.janusgraph:scylla-hadoop-util
+org.jdbi.internal:jdbi3-internal-cache-parent
+org.jdbi.internal:jdbi3-internal-parent
 org.jdbi.internal:jdbi3-parent
+org.jdbi:jdbi3-benchmark
 org.jdbi:jdbi3-bom
 org.jdbi:jdbi3-build-parent
 org.jdbi:jdbi3-caffeine-cache
 org.jdbi:jdbi3-commons-text
 org.jdbi:jdbi3-core
+org.jdbi:jdbi3-docs
+org.jdbi:jdbi3-e2e
 org.jdbi:jdbi3-examples
 org.jdbi:jdbi3-freemarker
 org.jdbi:jdbi3-generator
@@ -5267,6 +5274,7 @@ org.jdbi:jdbi3-guava
 org.jdbi:jdbi3-guava-cache
 org.jdbi:jdbi3-guice
 org.jdbi:jdbi3-jackson2
+org.jdbi:jdbi3-java21
 org.jdbi:jdbi3-jodatime2
 org.jdbi:jdbi3-jpa
 org.jdbi:jdbi3-json
@@ -5274,6 +5282,7 @@ org.jdbi:jdbi3-kotlin
 org.jdbi:jdbi3-kotlin-sqlobject
 org.jdbi:jdbi3-moshi
 org.jdbi:jdbi3-noop-cache
+org.jdbi:jdbi3-noparameters
 org.jdbi:jdbi3-opentelemetry
 org.jdbi:jdbi3-oracle12
 org.jdbi:jdbi3-postgis
