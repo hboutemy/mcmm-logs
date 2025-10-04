@@ -1475,3 +1475,8 @@ com/flowlogix/plugins/container-deploy-plugin/0.5.1/container-deploy-plugin-0.5.
 com/flowlogix/plugins/container-deploy-plugin/0.5.2/container-deploy-plugin-0.5.2-build.pom
 com/flowlogix/plugins/live-reload/0.5.1/live-reload-0.5.1-build.pom
 com/flowlogix/plugins/live-reload/0.5.2/live-reload-0.5.2-build.pom
+20251003
+com/flowlogix/base-pom/74/base-pom-74-build.pom
+com/flowlogix/checkstyle/74/checkstyle-74-build.pom
+com/flowlogix/infra-pom/74/infra-pom-74-build.pom
+com/flowlogix/payara-pom/74/payara-pom-74-build.pom

@@ -17638,3 +17638,25 @@ org/apache/orc/orc/2.2.1/orc-2.2.1.pom
 org/codehaus/plexus/plexus-archiver/4.10.2/plexus-archiver-4.10.2.pom
 org/glassfish/main/nucleus-parent/7.1.0-M1/nucleus-parent-7.1.0-M1.pom
    from mvn: 5141 - non-mvn: 5539 - buildinfo: 0 - module: 3886 - gradle timestamp: 2359 - atlasdb: 0 = 0 release
+20251002
+de/cuioss/cui-java-parent/1.2.3/cui-java-parent-1.2.3.pom
+de/cuioss/cui-java-parent/1.2.4/cui-java-parent-1.2.4.pom
+de/cuioss/cui-parent-pom/1.2.3/cui-parent-pom-1.2.3.pom
+de/cuioss/cui-parent-pom/1.2.4/cui-parent-pom-1.2.4.pom
+dev/langchain4j/langchain4j-parent/1.7.0-beta13/langchain4j-parent-1.7.0-beta13.pom
+dev/langchain4j/langchain4j-parent/1.7.1-beta14/langchain4j-parent-1.7.1-beta14.pom
+io/carbonintensity/green-scheduler-bom/0.8.2/green-scheduler-bom-0.8.2.pom
+io/carbonintensity/green-scheduler-parent/0.8.2/green-scheduler-parent-0.8.2.pom
+io/carbonintensity/scheduler-bom/0.8.1/scheduler-bom-0.8.1.pom
+io/carbonintensity/scheduler-parent/0.8.1/scheduler-parent-0.8.1.pom
+io/cucumber/cucumber-parent/4.4.0/cucumber-parent-4.4.0.pom
+io/telicent/jena/rdf-abac/1.1.0/rdf-abac-1.1.0.pom
+org/apache/maven/enforcer/enforcer/3.6.2/enforcer-3.6.2.pom
+org/apache/maven/plugins/maven-artifact-plugin/3.6.1/maven-artifact-plugin-3.6.1.pom
+org/apache/maven/plugins/maven-dependency-plugin/3.9.0/maven-dependency-plugin-3.9.0.pom
+org/infinispan/infinispan-build-configuration-parent/16.0.0.Dev05/infinispan-build-configuration-parent-16.0.0.Dev05.pom
+org/jdbi/internal/basepom/jdbi-basepom/3.49.6/jdbi-basepom-3.49.6.pom
+org/jdbi/internal/jdbi3-root/3.49.6/jdbi3-root-3.49.6.pom
+org/phoebus/service-olog/5.1.0/service-olog-5.1.0.pom
+org/phoebus/service-olog/5.1.1/service-olog-5.1.1.pom
+   from mvn: 3088 - non-mvn: 6835 - buildinfo: 0 - module: 5115 - gradle timestamp: 3112 - atlasdb: 0 = 0 release

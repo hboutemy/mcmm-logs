@@ -4368,6 +4368,8 @@ org.glassfish.corba:glassfish-corba-tests
 org.glassfish.corba:idlj
 org.glassfish.corba:rmic
 org.glassfish.embedded:embedded-glassfish-maven-plugin
+org.glassfish.exousia:exousia
+org.glassfish.exousia:exousia.spi.tomcat
 org.glassfish.exousia:parent
 org.glassfish.exousia:spi
 org.glassfish.expressly:expressly
@@ -4963,6 +4965,8 @@ org.glassfish.main.persistence:eclipselink-wrapper
 org.glassfish.main.persistence:entitybean-container
 org.glassfish.main.persistence:gf-jpa-connector
 org.glassfish.main.persistence:glassfish-oracle-jdbc-driver-packages
+org.glassfish.main.persistence:jnosql-jakarta-persistence-integration
+org.glassfish.main.persistence:jnosql-jakarta-persistence-osgi-bundle
 org.glassfish.main.persistence:jpa-container
 org.glassfish.main.persistence:persistence
 org.glassfish.main.persistence:persistence-common
