@@ -17660,3 +17660,30 @@ org/jdbi/internal/jdbi3-root/3.49.6/jdbi3-root-3.49.6.pom
 org/phoebus/service-olog/5.1.0/service-olog-5.1.0.pom
 org/phoebus/service-olog/5.1.1/service-olog-5.1.1.pom
    from mvn: 3088 - non-mvn: 6835 - buildinfo: 0 - module: 5115 - gradle timestamp: 3112 - atlasdb: 0 = 0 release
+20251003
+ch/vorburger/mariaDB4j/mariaDB4j-pom/3.3.0/mariaDB4j-pom-3.3.0.pom
+com/flowlogix/checkstyle/74/checkstyle-74-build.pom
+com/flowlogix/infra-pom/74/infra-pom-74-build.pom
+com/flowlogix/infra-pom/74/infra-pom-74.pom
+io/cucumber/html-formatter/22.0.0/html-formatter-22.0.0.pom
+io/cucumber/messages/30.0.0/messages-30.0.0.pom
+io/cucumber/tag-expressions/7.0.0/tag-expressions-7.0.0.pom
+net/jsign/jsign-parent/7.3/jsign-parent-7.3.pom
+net/jsign/jsign/7.3/jsign-7.3.pom
+org/apache/jackrabbit/oak-parent/1.22.23/oak-parent-1.22.23.pom
+org/apache/sling/org.apache.sling.jcr.resource/3.3.6/org.apache.sling.jcr.resource-3.3.6.pom
+org/codehaus/mojo/extra-enforcer-rules/1.11.0/extra-enforcer-rules-1.11.0.pom
+org/codehaus/mojo/mojo-parent/94/mojo-parent-94.pom
+org/glassfish/main/nucleus-parent/8.0.0-M13/nucleus-parent-8.0.0-M13.pom
+org/webjars/webjars-locator-lite/1.1.1/webjars-locator-lite-1.1.1.pom
+tools/jackson/core/jackson-core/3.0.0/jackson-core-3.0.0.pom
+tools/jackson/core/jackson-databind/3.0.0/jackson-databind-3.0.0.pom
+tools/jackson/jackson-bom/3.0.0/jackson-bom-3.0.0.pom
+tools/jackson/jr/jackson-jr-all/3.0.0/jackson-jr-all-3.0.0.pom
+tools/jackson/jr/jackson-jr-annotation-support/3.0.0/jackson-jr-annotation-support-3.0.0.pom
+tools/jackson/jr/jackson-jr-extension-javatime/3.0.0/jackson-jr-extension-javatime-3.0.0.pom
+tools/jackson/jr/jackson-jr-objects/3.0.0/jackson-jr-objects-3.0.0.pom
+tools/jackson/jr/jackson-jr-parent/3.0.0/jackson-jr-parent-3.0.0.pom
+tools/jackson/jr/jackson-jr-retrofit2/3.0.0/jackson-jr-retrofit2-3.0.0.pom
+tools/jackson/jr/jackson-jr-stree/3.0.0/jackson-jr-stree-3.0.0.pom
+   from mvn: 4290 - non-mvn: 5671 - buildinfo: 1 - module: 4268 - gradle timestamp: 3669 - atlasdb: 0 = 0 release
