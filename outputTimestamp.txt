@@ -17687,3 +17687,18 @@ tools/jackson/jr/jackson-jr-parent/3.0.0/jackson-jr-parent-3.0.0.pom
 tools/jackson/jr/jackson-jr-retrofit2/3.0.0/jackson-jr-retrofit2-3.0.0.pom
 tools/jackson/jr/jackson-jr-stree/3.0.0/jackson-jr-stree-3.0.0.pom
    from mvn: 4290 - non-mvn: 5671 - buildinfo: 1 - module: 4268 - gradle timestamp: 3669 - atlasdb: 0 = 0 release
+20251004
+com/github/hazendaz/base-parent/55/base-parent-55.pom
+com/github/hazendaz/maven/coveralls-maven-plugin/5.0.0/coveralls-maven-plugin-5.0.0.pom
+com/github/seregamorph/spring-test-smart-context-parent/0.15/spring-test-smart-context-parent-0.15.pom
+io/airlift/airbase-policy/309/airbase-policy-309.pom
+io/airlift/airbase/309/airbase-309.pom
+org/mybatis/mybatis-parent/51/mybatis-parent-51.pom
+org/webjars/webjars-locator-lite/1.1.2/webjars-locator-lite-1.1.2.pom
+tools/jackson/dataformat/jackson-dataformat-xml/3.0.0/jackson-dataformat-xml-3.0.0.pom
+tools/jackson/dataformat/jackson-dataformats-binary/3.0.0/jackson-dataformats-binary-3.0.0.pom
+tools/jackson/dataformat/jackson-dataformats-text/3.0.0/jackson-dataformats-text-3.0.0.pom
+tools/jackson/datatype/jackson-datatype-joda/3.0.0/jackson-datatype-joda-3.0.0.pom
+tools/jackson/datatype/jackson-datatypes-collections/3.0.0/jackson-datatypes-collections-3.0.0.pom
+tools/jackson/datatype/jackson-datatypes-misc-parent/3.0.0/jackson-datatypes-misc-parent-3.0.0.pom
+   from mvn: 1108 - non-mvn: 1367 - buildinfo: 3 - module: 1748 - gradle timestamp: 696 - atlasdb: 0 = 0 release

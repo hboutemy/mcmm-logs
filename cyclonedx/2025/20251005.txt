@@ -1,0 +1,2 @@
+org/htmlunit/htmlunit/4.17.0/htmlunit-4.17.0-cyclonedx.json
+org/seleniumhq/selenium/htmlunit3-driver/4.36.0/htmlunit3-driver-4.36.0-cyclonedx.json
