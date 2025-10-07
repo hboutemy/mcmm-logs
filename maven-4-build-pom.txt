@@ -1492,3 +1492,9 @@ com/flowlogix/depchain/shiro-jakarta/84/shiro-jakarta-84-build.pom
 com/flowlogix/depchain/unit-test/83/unit-test-83-build.pom
 com/flowlogix/depchain/unit-test/84/unit-test-84-build.pom
 20251005
+20251006
+com/flowlogix/archetypes/starter/85/starter-85-build.pom
+com/flowlogix/depchain/depchain/85/depchain-85-build.pom
+com/flowlogix/depchain/integration-test/85/integration-test-85-build.pom
+com/flowlogix/depchain/shiro-jakarta/85/shiro-jakarta-85-build.pom
+com/flowlogix/depchain/unit-test/85/unit-test-85-build.pom

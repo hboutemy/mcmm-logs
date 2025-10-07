@@ -17702,3 +17702,17 @@ tools/jackson/datatype/jackson-datatype-joda/3.0.0/jackson-datatype-joda-3.0.0.p
 tools/jackson/datatype/jackson-datatypes-collections/3.0.0/jackson-datatypes-collections-3.0.0.pom
 tools/jackson/datatype/jackson-datatypes-misc-parent/3.0.0/jackson-datatypes-misc-parent-3.0.0.pom
    from mvn: 1108 - non-mvn: 1367 - buildinfo: 3 - module: 1748 - gradle timestamp: 696 - atlasdb: 0 = 0 release
+20251005
+de/cuioss/cui-java-parent/1.2.5/cui-java-parent-1.2.5.pom
+de/cuioss/cui-parent-pom/1.2.5/cui-parent-pom-1.2.5.pom
+io/airlift/airbase-policy/310/airbase-policy-310.pom
+io/airlift/airbase/310/airbase-310.pom
+org/apache/struts/struts2-parent/6.8.0/struts2-parent-6.8.0.pom
+org/codehaus/mojo/exec-maven-plugin/3.6.1/exec-maven-plugin-3.6.1.pom
+org/jpmml/jpmml-parent/1.0.10/jpmml-parent-1.0.10.pom
+org/jpmml/jpmml-r/1.7.3/jpmml-r-1.7.3.pom
+org/mybatis/base-bundle-descriptor/13/base-bundle-descriptor-13.pom
+org/mybatis/caches/mybatis-caffeine/1.2.1/mybatis-caffeine-1.2.1.pom
+org/mybatis/mybatis-cdi/2.1.1/mybatis-cdi-2.1.1.pom
+org/simplify4u/parent/3.0.0/parent-3.0.0.pom
+   from mvn: 1141 - non-mvn: 1523 - buildinfo: 0 - module: 1395 - gradle timestamp: 852 - atlasdb: 0 = 0 release
