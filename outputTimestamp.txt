@@ -17716,3 +17716,18 @@ org/mybatis/caches/mybatis-caffeine/1.2.1/mybatis-caffeine-1.2.1.pom
 org/mybatis/mybatis-cdi/2.1.1/mybatis-cdi-2.1.1.pom
 org/simplify4u/parent/3.0.0/parent-3.0.0.pom
    from mvn: 1141 - non-mvn: 1523 - buildinfo: 0 - module: 1395 - gradle timestamp: 852 - atlasdb: 0 = 0 release
+20251006
+de/cuioss/cui-java-parent/1.3.0/cui-java-parent-1.3.0.pom
+de/cuioss/cui-parent-pom/1.3.0/cui-parent-pom-1.3.0.pom
+io/airlift/airbase-policy/311/airbase-policy-311.pom
+io/airlift/airbase-policy/312/airbase-policy-312.pom
+io/airlift/airbase/311/airbase-311.pom
+io/airlift/airbase/312/airbase-312.pom
+io/avaje/avaje-http-parent/3.5-RC5/avaje-http-parent-3.5-RC5.pom
+io/avaje/avaje-inject-parent/12.0-RC5/avaje-inject-parent-12.0-RC5.pom
+io/avaje/avaje-jex-parent/3.3-RC5/avaje-jex-parent-3.3-RC5.pom
+io/avaje/avaje-jsonb-parent/3.8-RC2/avaje-jsonb-parent-3.8-RC2.pom
+org/apache/maven/archetype/maven-archetype/3.4.1/maven-archetype-3.4.1.pom
+org/eclipse/jgit/org.eclipse.jgit-parent/7.4.0.202509020913-r/org.eclipse.jgit-parent-7.4.0.202509020913-r.pom
+org/metricshub/snmp-java/2.1.02/snmp-java-2.1.02.pom
+   from mvn: 2924 - non-mvn: 6458 - buildinfo: 1 - module: 3945 - gradle timestamp: 2902 - atlasdb: 0 = 0 release

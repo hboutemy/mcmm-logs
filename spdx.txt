@@ -136,6 +136,7 @@ org.jetbrains.kotlin:abi-tools-api
 org.jetbrains.kotlin:analysis-api-test-framework
 org.jetbrains.kotlin:atomicfu
 org.jetbrains.kotlin:compose-compiler-gradle-plugin
+org.jetbrains.kotlin:compose-group-mapping
 org.jetbrains.kotlin:fus-statistics-gradle-plugin
 org.jetbrains.kotlin:js-plain-objects
 org.jetbrains.kotlin:jvm-abi-gen
@@ -162,6 +163,7 @@ org.jetbrains.kotlin:kotlin-atomicfu-compiler-plugin-embeddable
 org.jetbrains.kotlin:kotlin-build-common
 org.jetbrains.kotlin:kotlin-build-statistics
 org.jetbrains.kotlin:kotlin-build-tools-api
+org.jetbrains.kotlin:kotlin-build-tools-compat
 org.jetbrains.kotlin:kotlin-build-tools-impl
 org.jetbrains.kotlin:kotlin-compiler
 org.jetbrains.kotlin:kotlin-compiler-arguments-description
@@ -190,6 +192,7 @@ org.jetbrains.kotlin:kotlin-gradle-plugin-idea-proto
 org.jetbrains.kotlin:kotlin-gradle-plugin-model
 org.jetbrains.kotlin:kotlin-gradle-statistics
 org.jetbrains.kotlin:kotlin-jps-plugin
+org.jetbrains.kotlin:kotlin-klib-abi-reader
 org.jetbrains.kotlin:kotlin-klib-commonizer
 org.jetbrains.kotlin:kotlin-klib-commonizer-api
 org.jetbrains.kotlin:kotlin-klib-commonizer-embeddable
