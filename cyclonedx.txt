@@ -4400,6 +4400,7 @@ org.glassfish.corba:glassfish-corba-tests
 org.glassfish.corba:idlj
 org.glassfish.corba:rmic
 org.glassfish.embedded:embedded-glassfish-maven-plugin
+org.glassfish.epicyro:epicyro
 org.glassfish.exousia:exousia
 org.glassfish.exousia:exousia.spi.tomcat
 org.glassfish.exousia:parent

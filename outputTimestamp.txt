@@ -17731,3 +17731,13 @@ org/apache/maven/archetype/maven-archetype/3.4.1/maven-archetype-3.4.1.pom
 org/eclipse/jgit/org.eclipse.jgit-parent/7.4.0.202509020913-r/org.eclipse.jgit-parent-7.4.0.202509020913-r.pom
 org/metricshub/snmp-java/2.1.02/snmp-java-2.1.02.pom
    from mvn: 2924 - non-mvn: 6458 - buildinfo: 1 - module: 3945 - gradle timestamp: 2902 - atlasdb: 0 = 0 release
+20251007
+com/flowlogix/checkstyle/75/checkstyle-75-build.pom
+com/flowlogix/infra-pom/75/infra-pom-75.pom
+com/flowlogix/infra-pom/75/infra-pom-75-build.pom
+io/avaje/avaje-inject-parent/12.0-RC6/avaje-inject-parent-12.0-RC6.pom
+io/cucumber/ci-environment/11.0.0/ci-environment-11.0.0.pom
+io/github/torand/fastersql/1.9.0/fastersql-1.9.0.pom
+org/apache/camel/camel/4.15.0/camel-4.15.0.pom
+org/eclipse/jetty/jetty-project/12.0.28/jetty-project-12.0.28.pom
+   from mvn: 6760 - non-mvn: 6146 - buildinfo: 1 - module: 3955 - gradle timestamp: 3060 - atlasdb: 0 = 0 release
