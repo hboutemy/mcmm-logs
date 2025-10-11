@@ -17780,3 +17780,14 @@ org/codehaus/plexus/plexus-io/3.5.2/plexus-io-3.5.2.pom
 org/eclipse/ee4j/project/2.0.0-M1/project-2.0.0-M1.pom
 org/eclipse/jetty/jetty-project/12.1.2/jetty-project-12.1.2.pom
    from mvn: 3205 - non-mvn: 5289 - buildinfo: 1 - module: 5431 - gradle timestamp: 3460 - atlasdb: 0 = 0 release
+20251009
+com/github/tomcat-slf4j-logback/tomcat-slf4j-logback-parent/1.7.5/tomcat-slf4j-logback-parent-1.7.5.pom
+dev/langchain4j/langchain4j-parent/0.0.10-test-beta10/langchain4j-parent-0.0.10-test-beta10.pom
+dev/langchain4j/langchain4j-parent/0.0.8-test-beta8/langchain4j-parent-0.0.8-test-beta8.pom
+dev/langchain4j/langchain4j-parent/0.0.9-test-beta9/langchain4j-parent-0.0.9-test-beta9.pom
+io/cucumber/gherkin/36.0.0/gherkin-36.0.0.pom
+io/kokuwa/maven/k3s-maven-plugin/2.0.2/k3s-maven-plugin-2.0.2.pom
+io/quarkus/quarkus-parent/3.28.3/quarkus-parent-3.28.3.pom
+org/finos/legend/engine/legend-engine/4.103.0/legend-engine-4.103.0.pom
+org/infinispan/protostream/parent/6.0.0.Dev14/parent-6.0.0.Dev14.pom
+   from mvn: 4095 - non-mvn: 5126 - buildinfo: 0 - module: 4013 - gradle timestamp: 2312 - atlasdb: 0 = 0 release

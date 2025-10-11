@@ -3990,6 +3990,10 @@ org.bonitasoft.bpm:org.bonitasoft.spec.bpmn
 org.csveed:csveed
 org.cyclonedx:cyclonedx-core-java
 org.cyclonedx:cyclonedx-maven-plugin
+org.docx4j:docx4j-ImportXHTML-core
+org.docx4j:docx4j-ImportXHTML-core-tests
+org.docx4j:docx4j-ImportXHTML-parent
+org.docx4j:docx4j-ImportXHTML-samples
 org.docx4j:docx4j-JAXB-MOXy
 org.docx4j:docx4j-JAXB-ReferenceImpl
 org.docx4j:docx4j-conversion-via-microsoft-graph
