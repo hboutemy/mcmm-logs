@@ -1544,3 +1544,12 @@ com/flowlogix/plugins/live-reload/0.5.3/live-reload-0.5.3-build.pom
 dev/mccue/module-info/2025.10.07/module-info-2025.10.07-build.pom
 20251009
 20251010
+20251011
+com/flowlogix/archetypes/starter/91/starter-91-build.pom
+com/flowlogix/depchain/depchain/91/depchain-91-build.pom
+com/flowlogix/depchain/integration-test/91/integration-test-91-build.pom
+com/flowlogix/depchain/shiro-jakarta/91/shiro-jakarta-91-build.pom
+com/flowlogix/depchain/unit-test/91/unit-test-91-build.pom
+com/flowlogix/plugins/container-deploy-plugin-root/0.5.4/container-deploy-plugin-root-0.5.4-build.pom
+com/flowlogix/plugins/container-deploy-plugin/0.5.4/container-deploy-plugin-0.5.4-build.pom
+com/flowlogix/plugins/live-reload/0.5.4/live-reload-0.5.4-build.pom

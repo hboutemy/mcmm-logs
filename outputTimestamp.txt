@@ -17791,3 +17791,11 @@ io/quarkus/quarkus-parent/3.28.3/quarkus-parent-3.28.3.pom
 org/finos/legend/engine/legend-engine/4.103.0/legend-engine-4.103.0.pom
 org/infinispan/protostream/parent/6.0.0.Dev14/parent-6.0.0.Dev14.pom
    from mvn: 4095 - non-mvn: 5126 - buildinfo: 0 - module: 4013 - gradle timestamp: 2312 - atlasdb: 0 = 0 release
+20251010
+com/fasterxml/oss-parent/73/oss-parent-73.pom
+com/vegardit/maven/vegardit-maven-parent/6.1.12/vegardit-maven-parent-6.1.12.pom
+dev/langchain4j/langchain4j-parent/0.0.11-test-beta11/langchain4j-parent-0.0.11-test-beta11.pom
+org/apache/maven/plugins/maven-pmd-plugin/3.28.0/maven-pmd-plugin-3.28.0.pom
+org/apache/maven/resolver/maven-resolver/2.0.13/maven-resolver-2.0.13.pom
+org/finos/legend/engine/legend-engine/4.103.1/legend-engine-4.103.1.pom
+   from mvn: 4701 - non-mvn: 4474 - buildinfo: 1 - module: 2699 - gradle timestamp: 1451 - atlasdb: 0 = 0 release

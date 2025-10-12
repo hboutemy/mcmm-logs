@@ -1,0 +1,17 @@
+com/flowlogix/archetypes/starter/91/starter-91-cyclonedx.json
+com/flowlogix/archetypes/starter/91/starter-91-cyclonedx.xml
+com/flowlogix/depchain/depchain/91/depchain-91-cyclonedx.json
+com/flowlogix/depchain/depchain/91/depchain-91-cyclonedx.xml
+com/flowlogix/depchain/integration-test/91/integration-test-91-cyclonedx.json
+com/flowlogix/depchain/integration-test/91/integration-test-91-cyclonedx.xml
+com/flowlogix/depchain/shiro-jakarta/91/shiro-jakarta-91-cyclonedx.xml
+com/flowlogix/depchain/shiro-jakarta/91/shiro-jakarta-91-cyclonedx.json
+com/flowlogix/depchain/unit-test/91/unit-test-91-cyclonedx.xml
+com/flowlogix/depchain/unit-test/91/unit-test-91-cyclonedx.json
+com/flowlogix/plugins/container-deploy-plugin-root/0.5.4/container-deploy-plugin-root-0.5.4-cyclonedx.json
+com/flowlogix/plugins/container-deploy-plugin-root/0.5.4/container-deploy-plugin-root-0.5.4-cyclonedx.xml
+com/flowlogix/plugins/container-deploy-plugin/0.5.4/container-deploy-plugin-0.5.4-cyclonedx.xml
+com/flowlogix/plugins/container-deploy-plugin/0.5.4/container-deploy-plugin-0.5.4-cyclonedx.json
+com/flowlogix/plugins/live-reload/0.5.4/live-reload-0.5.4-cyclonedx.json
+com/flowlogix/plugins/live-reload/0.5.4/live-reload-0.5.4-cyclonedx.xml
+org/seleniumhq/selenium/htmlunit3-driver/4.36.1/htmlunit3-driver-4.36.1-cyclonedx.json
