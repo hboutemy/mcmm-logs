@@ -17799,3 +17799,12 @@ org/apache/maven/plugins/maven-pmd-plugin/3.28.0/maven-pmd-plugin-3.28.0.pom
 org/apache/maven/resolver/maven-resolver/2.0.13/maven-resolver-2.0.13.pom
 org/finos/legend/engine/legend-engine/4.103.1/legend-engine-4.103.1.pom
    from mvn: 4701 - non-mvn: 4474 - buildinfo: 1 - module: 2699 - gradle timestamp: 1451 - atlasdb: 0 = 0 release
+20251011
+io/github/raptularius/mmddbrn/project/0.15.1/project-0.15.1.pom
+nl/basjes/modbus/graphql/modbus-graphql-parent/0.3.0/modbus-graphql-parent-0.3.0.pom
+nl/basjes/parse/useragent/yauaa-parent/7.32.0/yauaa-parent-7.32.0.pom
+nl/basjes/parse/useragent/yauaa/7.32.0/yauaa-7.32.0.pom
+org/apache/activemq/activemq-parent/5.19.1/activemq-parent-5.19.1.pom
+org/codehaus/plexus/plexus-testing/1.6.1/plexus-testing-1.6.1.pom
+org/codehaus/plexus/plexus/24/plexus-24.pom
+   from mvn: 1231 - non-mvn: 2538 - buildinfo: 1 - module: 1379 - gradle timestamp: 658 - atlasdb: 0 = 0 release

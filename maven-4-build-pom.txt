@@ -1553,3 +1553,17 @@ com/flowlogix/depchain/unit-test/91/unit-test-91-build.pom
 com/flowlogix/plugins/container-deploy-plugin-root/0.5.4/container-deploy-plugin-root-0.5.4-build.pom
 com/flowlogix/plugins/container-deploy-plugin/0.5.4/container-deploy-plugin-0.5.4-build.pom
 com/flowlogix/plugins/live-reload/0.5.4/live-reload-0.5.4-build.pom
+20251012
+com/flowlogix/archetypes/starter/92/starter-92-build.pom
+com/flowlogix/base-pom/77/base-pom-77-build.pom
+com/flowlogix/base-pom/78/base-pom-78-build.pom
+com/flowlogix/checkstyle/77/checkstyle-77-build.pom
+com/flowlogix/checkstyle/78/checkstyle-78-build.pom
+com/flowlogix/depchain/depchain/92/depchain-92-build.pom
+com/flowlogix/depchain/integration-test/92/integration-test-92-build.pom
+com/flowlogix/depchain/shiro-jakarta/92/shiro-jakarta-92-build.pom
+com/flowlogix/depchain/unit-test/92/unit-test-92-build.pom
+com/flowlogix/infra-pom/77/infra-pom-77-build.pom
+com/flowlogix/infra-pom/78/infra-pom-78-build.pom
+com/flowlogix/payara-pom/77/payara-pom-77-build.pom
+com/flowlogix/payara-pom/78/payara-pom-78-build.pom
