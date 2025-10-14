@@ -963,6 +963,8 @@ de.muenchen.refarch:refarch-tools
 de.powerstat.phplib:templateengine
 de.powerstat.toolbaseline:tbl-java-parent
 de.powerstat.validation:validation
+de.softwareforge.testing:maven-loader
+de.softwareforge.testing:pg-embedded
 de.stklcode.jvault:jvault-connector
 de.stklcode.pubtrans:juraclient
 de.svenkubiak:embedded-mongodb

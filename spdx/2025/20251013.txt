@@ -1,0 +1,4 @@
+land/oras/oras-java-sdk/0.3.0/oras-java-sdk-0.3.0.spdx.json
+org/apache/bcel/bcel/6.11.0/bcel-6.11.0.spdx.json
+org/opendaylight/infrautils/infrautils-sbom-7.1.8.spdx
+org/opendaylight/odlparent/odlparent-sbom-14.1.4.spdx
