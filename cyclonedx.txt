@@ -3015,6 +3015,7 @@ org.apache.jena:jena-benchmarks
 org.apache.jena:jena-benchmarks-jmh
 org.apache.jena:jena-benchmarks-shadedJena480
 org.apache.jena:jena-benchmarks-shadedJena510
+org.apache.jena:jena-benchmarks-shadedJena550
 org.apache.jena:jena-bom
 org.apache.jena:jena-cmds
 org.apache.jena:jena-commonsrdf

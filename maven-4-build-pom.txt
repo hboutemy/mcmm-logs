@@ -1582,3 +1582,9 @@ com/flowlogix/infra-pom/80/infra-pom-80-build.pom
 com/flowlogix/payara-pom/79/payara-pom-79-build.pom
 com/flowlogix/payara-pom/80/payara-pom-80-build.pom
 20251014
+20251015
+com/flowlogix/archetypes/starter/94/starter-94-build.pom
+com/flowlogix/depchain/depchain/94/depchain-94-build.pom
+com/flowlogix/depchain/integration-test/94/integration-test-94-build.pom
+com/flowlogix/depchain/shiro-jakarta/94/shiro-jakarta-94-build.pom
+com/flowlogix/depchain/unit-test/94/unit-test-94-build.pom

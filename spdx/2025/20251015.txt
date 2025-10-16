@@ -1,0 +1,5 @@
+org/opendaylight/ietf/ietf-sbom-1.0.1.spdx
+org/opendaylight/mdsal/mdsal-sbom-15.0.1.spdx
+org/opendaylight/mdsal/mdsal-sbom-14.0.19.spdx
+org/opendaylight/yangtools/yangtools-sbom-14.0.18.spdx
+org/spdx/tools-java/2.0.2/tools-java-2.0.2.spdx.json
