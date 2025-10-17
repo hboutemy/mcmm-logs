@@ -6709,6 +6709,7 @@ org.opendaylight.netconf:restconf-server-mdsal
 org.opendaylight.netconf:restconf-server-spi
 org.opendaylight.netconf:restconf-subscription
 org.opendaylight.netconf:restconf-wadl-generator
+org.opendaylight.netconf:rfc8639-impl
 org.opendaylight.netconf:sal-netconf-connector
 org.opendaylight.netconf:sal-remote-impl
 org.opendaylight.netconf:sal-rest-connector-config
@@ -6723,6 +6724,7 @@ org.opendaylight.netconf:transport-tls
 org.opendaylight.netconf:transport-udp
 org.opendaylight.netconf:truststore-api
 org.opendaylight.netconf:truststore-none
+org.opendaylight.netconf:wadl-codegen
 org.opendaylight.netconf:websocket-client
 org.opendaylight.netconf:yanglib
 org.opendaylight.netconf:yanglib-mdsal-writer
