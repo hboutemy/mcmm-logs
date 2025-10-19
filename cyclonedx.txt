@@ -5228,6 +5228,7 @@ org.glassfish.tyrus.tests:tyrus-tests-e2e
 org.glassfish.tyrus.tests:tyrus-tests-e2e-appconfig
 org.glassfish.tyrus.tests:tyrus-tests-e2e-auth-basic
 org.glassfish.tyrus.tests:tyrus-tests-e2e-auth-digest
+org.glassfish.tyrus.tests:tyrus-tests-e2e-jdk21
 org.glassfish.tyrus.tests:tyrus-tests-e2e-jdk8
 org.glassfish.tyrus.tests:tyrus-tests-e2e-jetty
 org.glassfish.tyrus.tests:tyrus-tests-e2e-nondeployable
