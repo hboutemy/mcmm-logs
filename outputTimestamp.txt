@@ -17927,3 +17927,18 @@ eu/maveniverse/maven/mimir/mimir/0.10.1/mimir-0.10.1.pom
 io/micronaut/maven/micronaut-maven-plugin-parent/4.11.0/micronaut-maven-plugin-parent-4.11.0.pom
 org/apache/rat/apache-rat-project/0.17/apache-rat-project-0.17.pom
    from mvn: 3354 - non-mvn: 5543 - buildinfo: 1 - module: 3389 - gradle timestamp: 1905 - atlasdb: 0 = 0 release
+20251018
+com/artagon/artagon-parent/10/artagon-parent-10.pom
+com/artagon/artagon-parent/11/artagon-parent-11.pom
+com/github/spotbugs/spotbugs-maven-plugin/4.9.8.0/spotbugs-maven-plugin-4.9.8.0.pom
+eu/maveniverse/maven/mima/mima/2.4.35/mima-2.4.35.pom
+eu/maveniverse/maven/mimir/mimir/0.10.2/mimir-0.10.2.pom
+eu/maveniverse/maven/toolbox/toolbox/0.14.1/toolbox-0.14.1.pom
+io/streamnative/buildtools/4.0.6.8/buildtools-4.0.6.8.pom
+io/streamnative/pulsar-bom/4.0.6.8/pulsar-bom-4.0.6.8.pom
+io/streamnative/pulsar/4.0.6.8/pulsar-4.0.6.8.pom
+org/apache/struts/struts2-project/7.1.1/struts2-project-7.1.1.pom
+org/finos/legend/engine/legend-engine/4.105.0/legend-engine-4.105.0.pom
+org/jpmml/jpmml-evaluator/1.7.5/jpmml-evaluator-1.7.5.pom
+org/jpmml/jpmml-model/1.7.5/jpmml-model-1.7.5.pom
+   from mvn: 1442 - non-mvn: 2971 - buildinfo: 0 - module: 1714 - gradle timestamp: 639 - atlasdb: 0 = 0 release
