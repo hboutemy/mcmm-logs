@@ -3277,6 +3277,7 @@ org.apache.maven.plugin-tools:maven-plugin-tools-model
 org.apache.maven.plugin-tools:maven-script
 org.apache.maven.plugin-tools:maven-script-ant
 org.apache.maven.plugin-tools:maven-script-beanshell
+org.apache.maven.plugins:maven-antrun-plugin
 org.apache.maven.plugins:maven-archetype-plugin
 org.apache.maven.plugins:maven-artifact-plugin
 org.apache.maven.plugins:maven-assembly-plugin
@@ -3873,6 +3874,7 @@ org.apache.syncope.core.idrepo:syncope-core-idrepo-rest-cxf
 org.apache.syncope.core:syncope-core-am
 org.apache.syncope.core:syncope-core-idm
 org.apache.syncope.core:syncope-core-idrepo
+org.apache.syncope.core:syncope-core-metrics-starter
 org.apache.syncope.core:syncope-core-persistence-api
 org.apache.syncope.core:syncope-core-persistence-common
 org.apache.syncope.core:syncope-core-persistence-jpa
@@ -4413,6 +4415,8 @@ org.glassfish.exousia:exousia.spi.tomcat
 org.glassfish.exousia:parent
 org.glassfish.exousia:spi
 org.glassfish.expressly:expressly
+org.glassfish.external:ant
+org.glassfish.external:derby
 org.glassfish.external:management-api
 org.glassfish.gmbal:gmbal
 org.glassfish.gmbal:gmbal-api-only

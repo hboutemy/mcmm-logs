@@ -1593,3 +1593,5 @@ com/flowlogix/depchain/unit-test/94/unit-test-94-build.pom
 20251018
 20251019
 org/apache/maven/plugins/maven-compiler-plugin/4.0.0-beta-3/maven-compiler-plugin-4.0.0-beta-3-build.pom
+20251020
+io/github/helpermethod/zip-forge/2.0.0/zip-forge-2.0.0-build.pom

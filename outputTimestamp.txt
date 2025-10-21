@@ -17942,3 +17942,11 @@ org/finos/legend/engine/legend-engine/4.105.0/legend-engine-4.105.0.pom
 org/jpmml/jpmml-evaluator/1.7.5/jpmml-evaluator-1.7.5.pom
 org/jpmml/jpmml-model/1.7.5/jpmml-model-1.7.5.pom
    from mvn: 1442 - non-mvn: 2971 - buildinfo: 0 - module: 1714 - gradle timestamp: 639 - atlasdb: 0 = 0 release
+20251019
+ch/qos/logback/logback-parent/1.5.20/logback-parent-1.5.20.pom
+com/github/hazendaz/git/github-desktop/3.5.3/github-desktop-3.5.3.pom
+com/hibegin/zrlog-base/3.2.121/zrlog-base-3.2.121.pom
+org/apache/maven/plugins/maven-compiler-plugin/4.0.0-beta-3/maven-compiler-plugin-4.0.0-beta-3-build.pom
+org/codehaus/mojo/exec-maven-plugin/3.6.2/exec-maven-plugin-3.6.2.pom
+org/codehaus/mojo/xml-maven-plugin/1.2.0/xml-maven-plugin-1.2.0.pom
+   from mvn: 972 - non-mvn: 2975 - buildinfo: 0 - module: 1833 - gradle timestamp: 711 - atlasdb: 0 = 0 release
