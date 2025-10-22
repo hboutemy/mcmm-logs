@@ -6942,6 +6942,8 @@ org.opendaylight.serviceutils:srm-shell
 org.opendaylight.serviceutils:tools-api
 org.opendaylight.serviceutils:tools-testutils
 org.opendaylight.serviceutils:upgrade
+org.opendaylight.transportpce.models:bundle-parent
+org.opendaylight.transportpce.models:feature-parent
 org.opendaylight.transportpce.models:features-aggregator
 org.opendaylight.transportpce.models:features-transportpce-models
 org.opendaylight.transportpce.models:odl-openconfig-models

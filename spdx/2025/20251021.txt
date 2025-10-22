@@ -1,0 +1,4 @@
+com/github/mwiede/jsch/2.27.4/jsch-2.27.4.spdx.json
+org/apache/commons/commons-parent/90/commons-parent-90.spdx.json
+org/apache/commons/commons-skin/5.2.0/commons-skin-5.2.0.spdx.json
+org/opendaylight/transportpce/models/models-sbom-23.0.0.spdx
