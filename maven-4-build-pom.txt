@@ -1612,3 +1612,8 @@ com/flowlogix/payara-pom/82/payara-pom-82-build.pom
 com/flowlogix/plugins/container-deploy-plugin-root/0.6.0/container-deploy-plugin-root-0.6.0-build.pom
 com/flowlogix/plugins/container-deploy-plugin/0.6.0/container-deploy-plugin-0.6.0-build.pom
 com/flowlogix/plugins/live-reload/0.6.0/live-reload-0.6.0-build.pom
+20251022
+com/flowlogix/base-pom/83/base-pom-83-build.pom
+com/flowlogix/checkstyle/83/checkstyle-83-build.pom
+com/flowlogix/infra-pom/83/infra-pom-83-build.pom
+com/flowlogix/payara-pom/83/payara-pom-83-build.pom
