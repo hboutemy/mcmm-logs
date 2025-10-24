@@ -17994,3 +17994,33 @@ org/apache/commons/commons-skin/5.2.0/commons-skin-5.2.0.pom
 org/apache/sling/org.apache.sling.event/4.4.0/org.apache.sling.event-4.4.0.pom
 org/codehaus/mojo/jaxb2-maven-plugin/4.0.0/jaxb2-maven-plugin-4.0.0.pom
    from mvn: 5159 - non-mvn: 4887 - buildinfo: 11 - module: 3818 - gradle timestamp: 2314 - atlasdb: 0 = 0 release
+20251022
+com/elharo/docfix/docfix-parent/1.0.4/docfix-parent-1.0.4.pom
+com/elharo/propernouns/1.0.1/propernouns-1.0.1.pom
+com/flowlogix/checkstyle/83/checkstyle-83-build.pom
+com/flowlogix/infra-pom/83/infra-pom-83-build.pom
+com/flowlogix/infra-pom/83/infra-pom-83.pom
+eu/maveniverse/maven/mimir/mimir/0.10.4/mimir-0.10.4.pom
+io/airlift/airbase-policy/321/airbase-policy-321.pom
+io/airlift/airbase/321/airbase-321.pom
+io/quarkus/quarkus-parent/3.28.5/quarkus-parent-3.28.5.pom
+io/quarkus/quarkus-parent/3.29.0/quarkus-parent-3.29.0.pom
+io/telicent/smart-caches/graph/scg-base/0.91.1/scg-base-0.91.1.pom
+org/apache/activemq/activemq-parent/6.1.8/activemq-parent-6.1.8.pom
+tools/jackson/core/jackson-core/3.0.1/jackson-core-3.0.1.pom
+tools/jackson/core/jackson-databind/3.0.1/jackson-databind-3.0.1.pom
+tools/jackson/dataformat/jackson-dataformat-xml/3.0.1/jackson-dataformat-xml-3.0.1.pom
+tools/jackson/dataformat/jackson-dataformats-binary/3.0.1/jackson-dataformats-binary-3.0.1.pom
+tools/jackson/dataformat/jackson-dataformats-text/3.0.1/jackson-dataformats-text-3.0.1.pom
+tools/jackson/datatype/jackson-datatype-joda/3.0.1/jackson-datatype-joda-3.0.1.pom
+tools/jackson/datatype/jackson-datatypes-collections/3.0.1/jackson-datatypes-collections-3.0.1.pom
+tools/jackson/datatype/jackson-datatypes-misc-parent/3.0.1/jackson-datatypes-misc-parent-3.0.1.pom
+tools/jackson/jackson-bom/3.0.1/jackson-bom-3.0.1.pom
+tools/jackson/jr/jackson-jr-all/3.0.1/jackson-jr-all-3.0.1.pom
+tools/jackson/jr/jackson-jr-annotation-support/3.0.1/jackson-jr-annotation-support-3.0.1.pom
+tools/jackson/jr/jackson-jr-extension-javatime/3.0.1/jackson-jr-extension-javatime-3.0.1.pom
+tools/jackson/jr/jackson-jr-objects/3.0.1/jackson-jr-objects-3.0.1.pom
+tools/jackson/jr/jackson-jr-parent/3.0.1/jackson-jr-parent-3.0.1.pom
+tools/jackson/jr/jackson-jr-retrofit2/3.0.1/jackson-jr-retrofit2-3.0.1.pom
+tools/jackson/jr/jackson-jr-stree/3.0.1/jackson-jr-stree-3.0.1.pom
+   from mvn: 4665 - non-mvn: 6381 - buildinfo: 4 - module: 4633 - gradle timestamp: 3200 - atlasdb: 0 = 0 release
