@@ -179,6 +179,8 @@ com.io7m.cardant:com.io7m.cardant.parsers
 com.io7m.cardant:com.io7m.cardant.protocol.api
 com.io7m.cardant:com.io7m.cardant.protocol.inventory
 com.io7m.cardant:com.io7m.cardant.protocol.inventory.cb
+com.io7m.cardant:com.io7m.cardant.protocol.inventory.json
+com.io7m.cardant:com.io7m.cardant.protocol.inventory.json.schemagen
 com.io7m.cardant:com.io7m.cardant.security
 com.io7m.cardant:com.io7m.cardant.server.api
 com.io7m.cardant:com.io7m.cardant.server.basic
