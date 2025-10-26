@@ -1,0 +1,6 @@
+com/github/hazendaz/base-parent/56/base-parent-56-cyclonedx.json
+com/github/hazendaz/base-parent/56/base-parent-56-cyclonedx.xml
+com/github/hazendaz/htmlcompressor/1.12.0/htmlcompressor-1.12.0-cyclonedx.json
+com/github/hazendaz/htmlcompressor/1.12.0/htmlcompressor-1.12.0-cyclonedx.xml
+com/github/hazendaz/htmlcompressor/2.3.0/htmlcompressor-2.3.0-cyclonedx.json
+com/github/hazendaz/htmlcompressor/2.3.0/htmlcompressor-2.3.0-cyclonedx.xml
