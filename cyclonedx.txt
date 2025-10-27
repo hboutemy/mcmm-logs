@@ -3320,6 +3320,7 @@ org.apache.maven.plugins:maven-source-plugin
 org.apache.maven.plugins:maven-surefire-plugin
 org.apache.maven.plugins:maven-surefire-report-plugin
 org.apache.maven.plugins:maven-toolchains-plugin
+org.apache.maven.plugins:maven-war-plugin
 org.apache.maven.plugins:maven-wrapper-plugin
 org.apache.maven.release:maven-release
 org.apache.maven.release:maven-release-api

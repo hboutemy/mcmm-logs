@@ -18089,3 +18089,11 @@ org/apache/maven/plugin-tools/maven-plugin-tools/3.15.2/maven-plugin-tools-3.15.
 org/apache/maven/plugin-tools/maven-plugin-tools/4.0.0-beta-2/maven-plugin-tools-4.0.0-beta-2-build.pom
 org/apache/maven/plugin-tools/maven-plugin-tools/4.0.0-beta-2/maven-plugin-tools-4.0.0-beta-2.pom
    from mvn: 4484 - non-mvn: 6363 - buildinfo: 1 - module: 3843 - gradle timestamp: 2356 - atlasdb: 0 = 0 release
+20251025
+com/github/hazendaz/base-parent/56/base-parent-56.pom
+com/github/hazendaz/htmlcompressor/1.12.0/htmlcompressor-1.12.0.pom
+com/github/hazendaz/htmlcompressor/2.3.0/htmlcompressor-2.3.0.pom
+org/apache/cxf/xjc-utils/xjc-utils/4.1.1/xjc-utils-4.1.1.pom
+org/apache/sshd/sshd-osgi/3.0.0-M2/sshd-osgi-3.0.0-M2.pom
+org/apache/sshd/sshd/3.0.0-M2/sshd-3.0.0-M2.pom
+   from mvn: 1057 - non-mvn: 2117 - buildinfo: 21 - module: 1119 - gradle timestamp: 568 - atlasdb: 0 = 0 release

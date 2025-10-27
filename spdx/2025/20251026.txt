@@ -1,0 +1,1 @@
+org/spdx/licenseListPublisher/3.1.2/licenseListPublisher-3.1.2.spdx.json
