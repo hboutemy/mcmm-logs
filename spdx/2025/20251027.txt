@@ -1,0 +1,2 @@
+com/github/mwiede/jsch/2.27.5/jsch-2.27.5.spdx.json
+org/opendaylight/odlparent/odlparent-sbom-14.1.5.spdx

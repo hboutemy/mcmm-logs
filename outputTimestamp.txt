@@ -18097,3 +18097,11 @@ org/apache/cxf/xjc-utils/xjc-utils/4.1.1/xjc-utils-4.1.1.pom
 org/apache/sshd/sshd-osgi/3.0.0-M2/sshd-osgi-3.0.0-M2.pom
 org/apache/sshd/sshd/3.0.0-M2/sshd-3.0.0-M2.pom
    from mvn: 1057 - non-mvn: 2117 - buildinfo: 21 - module: 1119 - gradle timestamp: 568 - atlasdb: 0 = 0 release
+20251026
+com/elharo/propernouns/1.0.2/propernouns-1.0.2.pom
+com/flowlogix/checkstyle/84/checkstyle-84-build.pom
+com/flowlogix/infra-pom/84/infra-pom-84.pom
+com/flowlogix/infra-pom/84/infra-pom-84-build.pom
+eu/maveniverse/maven/toolbox/toolbox/0.14.2/toolbox-0.14.2.pom
+org/apache/maven/plugins/maven-war-plugin/3.5.0/maven-war-plugin-3.5.0.pom
+   from mvn: 1453 - non-mvn: 3394 - buildinfo: 1 - module: 2530 - gradle timestamp: 1469 - atlasdb: 0 = 0 release
