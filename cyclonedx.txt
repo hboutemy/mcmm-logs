@@ -1240,6 +1240,7 @@ io.smallrye.reactive:smallrye-mutiny-vertx-mongo-client
 io.smallrye.reactive:smallrye-mutiny-vertx-mqtt
 io.smallrye.reactive:smallrye-mutiny-vertx-mssql-client
 io.smallrye.reactive:smallrye-mutiny-vertx-mysql-client
+io.smallrye.reactive:smallrye-mutiny-vertx-openapi
 io.smallrye.reactive:smallrye-mutiny-vertx-oracle-client
 io.smallrye.reactive:smallrye-mutiny-vertx-pg-client
 io.smallrye.reactive:smallrye-mutiny-vertx-rabbitmq-client
@@ -1267,6 +1268,7 @@ io.smallrye.reactive:smallrye-mutiny-vertx-web-client
 io.smallrye.reactive:smallrye-mutiny-vertx-web-common
 io.smallrye.reactive:smallrye-mutiny-vertx-web-graphql
 io.smallrye.reactive:smallrye-mutiny-vertx-web-openapi
+io.smallrye.reactive:smallrye-mutiny-vertx-web-openapi-router
 io.smallrye.reactive:smallrye-mutiny-vertx-web-proxy
 io.smallrye.reactive:smallrye-mutiny-vertx-web-sstore-cookie
 io.smallrye.reactive:smallrye-mutiny-vertx-web-sstore-infinispan

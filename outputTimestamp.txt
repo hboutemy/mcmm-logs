@@ -18105,3 +18105,30 @@ com/flowlogix/infra-pom/84/infra-pom-84-build.pom
 eu/maveniverse/maven/toolbox/toolbox/0.14.2/toolbox-0.14.2.pom
 org/apache/maven/plugins/maven-war-plugin/3.5.0/maven-war-plugin-3.5.0.pom
    from mvn: 1453 - non-mvn: 3394 - buildinfo: 1 - module: 2530 - gradle timestamp: 1469 - atlasdb: 0 = 0 release
+20251027
+ch/qos/logback/tyler/tyler-parent/1.0.3/tyler-parent-1.0.3.pom
+com/elharo/docfix/docfix-parent/1.0.5/docfix-parent-1.0.5.pom
+com/elharo/propernouns/1.0.3/propernouns-1.0.3.pom
+io/avaje/avaje-config-toml/4.2/avaje-config-toml-4.2.pom
+io/avaje/avaje-config/4.2/avaje-config-4.2.pom
+io/avaje/avaje-jex-parent/3.3/avaje-jex-parent-3.3.pom
+io/cucumber/ci-environment/12.0.0/ci-environment-12.0.0.pom
+io/cucumber/compatibility-kit/24.0.1/compatibility-kit-24.0.1.pom
+io/cucumber/cucumber-json-formatter/0.3.0/cucumber-json-formatter-0.3.0.pom
+io/cucumber/cucumber-jvm/7.31.0/cucumber-jvm-7.31.0.pom
+io/cucumber/junit-xml-formatter/0.10.0/junit-xml-formatter-0.10.0.pom
+io/cucumber/pretty-formatter/2.4.0/pretty-formatter-2.4.0.pom
+io/cucumber/query/14.6.0/query-14.6.0.pom
+io/cucumber/teamcity-formatter/0.2.0/teamcity-formatter-0.2.0.pom
+io/cucumber/testng-xml-formatter/0.7.0/testng-xml-formatter-0.7.0.pom
+io/jooby/jooby-project/3.11.5/jooby-project-3.11.5.pom
+io/jooby/jooby-project/4.0.10/jooby-project-4.0.10.pom
+org/apache/sling/org.apache.sling.auth.form/2.0.0/org.apache.sling.auth.form-2.0.0.pom
+org/apache/sling/org.apache.sling.commons.log.webconsole/2.0.0/org.apache.sling.commons.log.webconsole-2.0.0.pom
+org/apache/sling/org.apache.sling.starter.content/2.0.2/org.apache.sling.starter.content-2.0.2.pom
+org/codehaus/plexus/plexus-testing/2.0.1/plexus-testing-2.0.1.pom
+org/eclipse/osgi-technology/org.eclipse.osgi-technology.pom.parent/0.0.1/org.eclipse.osgi-technology.pom.parent-0.0.1.pom
+org/finos/legend/engine/legend-engine/4.106.0/legend-engine-4.106.0.pom
+org/infinispan/protostream/parent/6.0.0/parent-6.0.0.pom
+tech/picnic/error-prone-support/error-prone-support/0.26.0/error-prone-support-0.26.0.pom
+   from mvn: 6500 - non-mvn: 4777 - buildinfo: 0 - module: 4698 - gradle timestamp: 2898 - atlasdb: 0 = 0 release
