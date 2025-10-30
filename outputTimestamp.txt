@@ -18132,3 +18132,34 @@ org/finos/legend/engine/legend-engine/4.106.0/legend-engine-4.106.0.pom
 org/infinispan/protostream/parent/6.0.0/parent-6.0.0.pom
 tech/picnic/error-prone-support/error-prone-support/0.26.0/error-prone-support-0.26.0.pom
    from mvn: 6500 - non-mvn: 4777 - buildinfo: 0 - module: 4698 - gradle timestamp: 2898 - atlasdb: 0 = 0 release
+20251028
+com/fasterxml/jackson/core/jackson-annotations/2.18.5/jackson-annotations-2.18.5.pom
+com/fasterxml/jackson/core/jackson-core/2.18.5/jackson-core-2.18.5.pom
+com/fasterxml/jackson/core/jackson-databind/2.18.5/jackson-databind-2.18.5.pom
+com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.18.5/jackson-dataformat-xml-2.18.5.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-binary/2.18.5/jackson-dataformats-binary-2.18.5.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.18.5/jackson-dataformats-text-2.18.5.pom
+com/fasterxml/jackson/datatype/jackson-datatype-joda/2.18.5/jackson-datatype-joda-2.18.5.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-collections/2.18.5/jackson-datatypes-collections-2.18.5.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/2.18.5/jackson-datatypes-misc-parent-2.18.5.pom
+com/fasterxml/jackson/jackson-base/2.18.5/jackson-base-2.18.5.pom
+com/fasterxml/jackson/jackson-bom/2.18.5/jackson-bom-2.18.5.pom
+com/fasterxml/jackson/jr/jackson-jr-all/2.18.5/jackson-jr-all-2.18.5.pom
+com/fasterxml/jackson/jr/jackson-jr-annotation-support/2.18.5/jackson-jr-annotation-support-2.18.5.pom
+com/fasterxml/jackson/jr/jackson-jr-extension-javatime/2.18.5/jackson-jr-extension-javatime-2.18.5.pom
+com/fasterxml/jackson/jr/jackson-jr-objects/2.18.5/jackson-jr-objects-2.18.5.pom
+com/fasterxml/jackson/jr/jackson-jr-parent/2.18.5/jackson-jr-parent-2.18.5.pom
+com/fasterxml/jackson/jr/jackson-jr-retrofit2/2.18.5/jackson-jr-retrofit2-2.18.5.pom
+com/fasterxml/jackson/jr/jackson-jr-stree/2.18.5/jackson-jr-stree-2.18.5.pom
+de/gematik/pki/gemLibPki/3.3.1/gemLibPki-3.3.1.pom
+id/devcode/spring-extension-parent/1.0.8/spring-extension-parent-1.0.8.pom
+io/github/chains-project/maven-lockfile-parent/5.8.1-beta-1/maven-lockfile-parent-5.8.1-beta-1.pom
+io/github/chains-project/maven-lockfile-parent/5.8.1/maven-lockfile-parent-5.8.1.pom
+io/github/chains-project/maven-lockfile-parent/5.8.2-beta-1/maven-lockfile-parent-5.8.2-beta-1.pom
+io/github/czudf/czudf-java-toolkit/1.5.0/czudf-java-toolkit-1.5.0.pom
+io/github/czudf/czudf-java-toolkit/1.6.0/czudf-java-toolkit-1.6.0.pom
+io/kroxylicious/kroxylicious-bom/0.17.0/kroxylicious-bom-0.17.0.pom
+io/kroxylicious/kroxylicious-parent/0.17.0/kroxylicious-parent-0.17.0.pom
+io/roastedroot/quickjs4j-parent/0.0.11/quickjs4j-parent-0.0.11.pom
+org/apache/sling/org.apache.sling.auth.oauth-client/0.1.4/org.apache.sling.auth.oauth-client-0.1.4.pom
+   from mvn: 3517 - non-mvn: 7868 - buildinfo: 4 - module: 8550 - gradle timestamp: 5779 - atlasdb: 0 = 0 release
