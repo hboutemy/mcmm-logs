@@ -927,6 +927,9 @@ de.frachtwerk:essencium-backend-uuid-model
 de.gematik.demis:spring-parent
 de.knightsoft-net:gwt-commons-codec
 de.knightsoft-net:gwt-commons-lang3
+de.muenchen.oss:xjustiz
+de.muenchen.oss:xjustiz-converter
+de.muenchen.oss:xjustiz-starter
 de.muenchen.refarch.tools:refarch-pmd
 de.muenchen.refarch:refarch-address-integration
 de.muenchen.refarch:refarch-address-integration-client
@@ -3773,6 +3776,7 @@ org.apache.spark:spark-catalyst_2.13
 org.apache.spark:spark-common-utils-java_2.13
 org.apache.spark:spark-common-utils_2.12
 org.apache.spark:spark-common-utils_2.13
+org.apache.spark:spark-connect-client-jdbc_2.13
 org.apache.spark:spark-connect-client-jvm_2.12
 org.apache.spark:spark-connect-client-jvm_2.13
 org.apache.spark:spark-connect-common_2.12
