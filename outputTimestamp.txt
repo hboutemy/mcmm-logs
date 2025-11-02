@@ -18233,3 +18233,17 @@ net/osslabz/jdbc-url-parser/0.1.1/jdbc-url-parser-0.1.1.pom
 nl/basjes/codeowners/codeowners-parent/1.12.1/codeowners-parent-1.12.1.pom
 org/apache/commons/commons-parent/91/commons-parent-91.pom
    from mvn: 5184 - non-mvn: 6569 - buildinfo: 5 - module: 5799 - gradle timestamp: 4278 - atlasdb: 0 = 0 release
+20251031
+com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.20.1/jackson-dataformat-xml-2.20.1.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-binary/2.20.1/jackson-dataformats-binary-2.20.1.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.20.1/jackson-dataformats-text-2.20.1.pom
+com/fasterxml/jackson/datatype/jackson-datatype-joda/2.20.1/jackson-datatype-joda-2.20.1.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-collections/2.20.1/jackson-datatypes-collections-2.20.1.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/2.20.1/jackson-datatypes-misc-parent-2.20.1.pom
+eu/maveniverse/maven/toolbox/toolbox/0.14.3/toolbox-0.14.3.pom
+io/github/chains-project/maven-lockfile-parent/5.8.3-beta-1/maven-lockfile-parent-5.8.3-beta-1.pom
+io/micronaut/maven/micronaut-maven-plugin-parent/4.11.2/micronaut-maven-plugin-parent-4.11.2.pom
+net/sourceforge/pmd/pmd/7.18.0/pmd-7.18.0.pom
+org/apache/maven/extensions/maven-build-cache-extension/1.2.1/maven-build-cache-extension-1.2.1.pom
+org/apache/maven/plugin-testing/maven-plugin-testing/3.4.0/maven-plugin-testing-3.4.0.pom
+   from mvn: 2471 - non-mvn: 9377 - buildinfo: 4 - module: 7911 - gradle timestamp: 5649 - atlasdb: 0 = 0 release
