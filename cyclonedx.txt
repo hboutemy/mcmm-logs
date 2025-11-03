@@ -6560,6 +6560,7 @@ org.opendaylight.mdsal:odl-mdsal-dom-runtime
 org.opendaylight.mdsal:odl-mdsal-eos-binding
 org.opendaylight.mdsal:odl-mdsal-eos-common
 org.opendaylight.mdsal:odl-mdsal-eos-dom
+org.opendaylight.mdsal:odl-mdsal-eos-single
 org.opendaylight.mdsal:odl-mdsal-exp-yanglib-api
 org.opendaylight.mdsal:odl-mdsal-exp-yanglib-rfc7895
 org.opendaylight.mdsal:odl-mdsal-exp-yanglib-rfc8525

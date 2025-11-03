@@ -18247,3 +18247,10 @@ net/sourceforge/pmd/pmd/7.18.0/pmd-7.18.0.pom
 org/apache/maven/extensions/maven-build-cache-extension/1.2.1/maven-build-cache-extension-1.2.1.pom
 org/apache/maven/plugin-testing/maven-plugin-testing/3.4.0/maven-plugin-testing-3.4.0.pom
    from mvn: 2471 - non-mvn: 9377 - buildinfo: 4 - module: 7911 - gradle timestamp: 5649 - atlasdb: 0 = 0 release
+20251101
+com/github/hazendaz/maven/htmlcompressor-maven-plugin/1.12.0/htmlcompressor-maven-plugin-1.12.0.pom
+com/github/hazendaz/maven/htmlcompressor-maven-plugin/2.3.0/htmlcompressor-maven-plugin-2.3.0.pom
+com/github/seregamorph/maven-surefire-cached/0.24/maven-surefire-cached-0.24.pom
+io/fabric8/docker-maven-plugin/0.47.0/docker-maven-plugin-0.47.0.pom
+org/finos/legend/engine/legend-engine/4.107.0/legend-engine-4.107.0.pom
+   from mvn: 1028 - non-mvn: 4341 - buildinfo: 0 - module: 4651 - gradle timestamp: 2932 - atlasdb: 0 = 0 release
