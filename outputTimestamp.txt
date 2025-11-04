@@ -18254,3 +18254,13 @@ com/github/seregamorph/maven-surefire-cached/0.24/maven-surefire-cached-0.24.pom
 io/fabric8/docker-maven-plugin/0.47.0/docker-maven-plugin-0.47.0.pom
 org/finos/legend/engine/legend-engine/4.107.0/legend-engine-4.107.0.pom
    from mvn: 1028 - non-mvn: 4341 - buildinfo: 0 - module: 4651 - gradle timestamp: 2932 - atlasdb: 0 = 0 release
+20251102
+io/cucumber/pretty-formatter/2.4.1/pretty-formatter-2.4.1.pom
+io/github/chains-project/maven-lockfile-parent/5.8.3-beta-2/maven-lockfile-parent-5.8.3-beta-2.pom
+io/github/heiye115/hyperliquid-java-sdk/0.1.1/hyperliquid-java-sdk-0.1.1.pom
+io/github/heiye115/hyperliquid-java-sdk/0.1.2/hyperliquid-java-sdk-0.1.2.pom
+io/github/heiye115/hyperliquid-java-sdk/0.1.3/hyperliquid-java-sdk-0.1.3.pom
+org/apache/camel/camel/4.14.2/camel-4.14.2.pom
+org/basepom/basepom-foundation/66/basepom-foundation-66.pom
+org/jpmml/jpmml-sparkml/3.0.3/jpmml-sparkml-3.0.3.pom
+   from mvn: 1737 - non-mvn: 5723 - buildinfo: 0 - module: 7020 - gradle timestamp: 4459 - atlasdb: 0 = 0 release
