@@ -2218,6 +2218,7 @@ org.apache.druid.extensions.contrib:druid-compressed-bigdecimal
 org.apache.druid.extensions.contrib:druid-ddsketch
 org.apache.druid.extensions.contrib:druid-deltalake-extensions
 org.apache.druid.extensions.contrib:druid-distinctcount
+org.apache.druid.extensions.contrib:druid-exact-count-bitmap
 org.apache.druid.extensions.contrib:druid-iceberg-extensions
 org.apache.druid.extensions.contrib:druid-influx-extensions
 org.apache.druid.extensions.contrib:druid-influxdb-emitter
@@ -2271,6 +2272,7 @@ org.apache.druid.extensions:druid-protobuf-extensions
 org.apache.druid.extensions:druid-ranger-security
 org.apache.druid.extensions:druid-s3-extensions
 org.apache.druid.extensions:druid-stats
+org.apache.druid.extensions:druid-testcontainers
 org.apache.druid.extensions:druid-testing-tools
 org.apache.druid.extensions:mysql-metadata-storage
 org.apache.druid.extensions:postgresql-metadata-storage
@@ -2287,6 +2289,7 @@ org.apache.druid:druid-gcp-common
 org.apache.druid:druid-indexing-hadoop
 org.apache.druid:druid-indexing-service
 org.apache.druid:druid-integration-tests
+org.apache.druid:druid-multi-stage-query
 org.apache.druid:druid-processing
 org.apache.druid:druid-quidem-ut
 org.apache.druid:druid-server
@@ -4399,9 +4402,11 @@ org.eclipse.store:storage-restservice-springboot
 org.eclipse.store:store-parent
 org.eclipse:yasson
 org.fryske-akademy:CrudApi
+org.fryske-akademy:blacklab-udpipe-plugin
 org.fryske-akademy:jpaservices
 org.fryske-akademy:primefacesgui
 org.fryske-akademy:teidictionaries
+org.fryske-akademy:udpipe-service
 org.fryske-akademy:validation
 org.glassfish.annotations:logging-annotation-processor
 org.glassfish.build:command-security-maven-plugin
