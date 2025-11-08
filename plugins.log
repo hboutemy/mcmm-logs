@@ -4573,6 +4573,7 @@ org.apache.felix -> osgicheck:osgicheck-maven-plugin = "Apache Felix OSGi Check 
 org.apache.felix.karaf.tooling -> features:features-maven-plugin = "Apache Felix Karaf :: Maven2 Features plugin"
 org.apache.flex.flexjs.compiler -> compiler-build-tools:compiler-build-tools = "Apache Flex - FlexJS: Build Tools"
 org.apache.flex.flexjs.compiler -> flexjs:flexjs-maven-plugin = "Apache Flex - FlexJS: FlexJS Maven Plugin"
+org.apache.fluss -> fluss-protogen:fluss-protogen-maven-plugin = "Fluss : ProtoGen : Maven Plugin"
 org.apache.geronimo -> geronimo-openapi:geronimo-openapi-maven-plugin = "Geronimo OpenAPI :: Maven Plugin"
 org.apache.geronimo.arthur -> arthur:arthur-maven-plugin = "Arthur :: Maven Plugin"
 org.apache.geronimo.buildsupport -> buildsupport:buildsupport-maven-plugin = "Geronimo Build Support :: Plugin"
