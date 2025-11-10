@@ -18367,3 +18367,10 @@ tools/jackson/jr/jackson-jr-parent/3.0.2/jackson-jr-parent-3.0.2.pom
 tools/jackson/jr/jackson-jr-retrofit2/3.0.2/jackson-jr-retrofit2-3.0.2.pom
 tools/jackson/jr/jackson-jr-stree/3.0.2/jackson-jr-stree-3.0.2.pom
    from mvn: 4568 - non-mvn: 5994 - buildinfo: 5 - module: 3078 - gradle timestamp: 2250 - atlasdb: 0 = 0 release
+20251108
+io/github/leandrosnazareth/nazareth-look-and-feel/1.0.0/nazareth-look-and-feel-1.0.0.pom
+io/quarkus/quarkus-parent/3.29.2/quarkus-parent-3.29.2.pom
+nl/basjes/codeowners/codeowners-parent/1.12.2/codeowners-parent-1.12.2.pom
+org/apache/maven/release/maven-release/3.2.0/maven-release-3.2.0.pom
+org/infinispan/infinispan-build-configuration-parent/16.0.1/infinispan-build-configuration-parent-16.0.1.pom
+   from mvn: 2119 - non-mvn: 2124 - buildinfo: 1 - module: 1740 - gradle timestamp: 1208 - atlasdb: 0 = 0 release
