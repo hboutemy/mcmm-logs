@@ -18374,3 +18374,14 @@ nl/basjes/codeowners/codeowners-parent/1.12.2/codeowners-parent-1.12.2.pom
 org/apache/maven/release/maven-release/3.2.0/maven-release-3.2.0.pom
 org/infinispan/infinispan-build-configuration-parent/16.0.1/infinispan-build-configuration-parent-16.0.1.pom
    from mvn: 2119 - non-mvn: 2124 - buildinfo: 1 - module: 1740 - gradle timestamp: 1208 - atlasdb: 0 = 0 release
+20251109
+com/github/hazendaz/jmockit/jmockit-parent/2.0.0/jmockit-parent-2.0.0.pom
+com/github/hazendaz/maven/yuicompressor-maven-plugin/2.3.0/yuicompressor-maven-plugin-2.3.0.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-12/spoon-pom-11.2.2-beta-12.pom
+io/avaje/avaje-inject-parent/12.1-RC2/avaje-inject-parent-12.1-RC2.pom
+io/github/cbarlin/aru-parent/0.7.0/aru-parent-0.7.0.pom
+io/github/chains-project/maven-lockfile-parent/5.10.1-beta-1/maven-lockfile-parent-5.10.1-beta-1.pom
+io/yupiik/fusion/fusion/1.0.32/fusion-1.0.32.pom
+org/finos/legend/engine/legend-engine/4.108.0/legend-engine-4.108.0.pom
+org/jpmml/jpmml-sparkml/3.0.4/jpmml-sparkml-3.0.4.pom
+   from mvn: 1359 - non-mvn: 3370 - buildinfo: 0 - module: 1530 - gradle timestamp: 2069 - atlasdb: 0 = 0 release

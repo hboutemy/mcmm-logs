@@ -1,0 +1,13 @@
+fr/marcwrobel/jbanking/4.3.0/jbanking-4.3.0-cyclonedx.json
+fr/marcwrobel/jbanking/4.3.0/jbanking-4.3.0-cyclonedx.xml
+org/apache/camel/kamelets/camel-kamelets-parent/4.14.2/camel-kamelets-parent-4.14.2-cyclonedx.xml
+org/apache/camel/kamelets/camel-kamelets-parent/4.14.2/camel-kamelets-parent-4.14.2-cyclonedx.json
+org/apache/camel/kamelets/camel-kamelets-parent/4.16.0/camel-kamelets-parent-4.16.0-cyclonedx.xml
+org/apache/camel/kamelets/camel-kamelets-parent/4.16.0/camel-kamelets-parent-4.16.0-cyclonedx.json
+org/apache/commons/commons-parent/92/commons-parent-92-cyclonedx.xml
+org/apache/commons/commons-parent/92/commons-parent-92-cyclonedx.json
+org/primefaces/extensions/primefaces-extensions/15.0.10/primefaces-extensions-15.0.10-cyclonedx.json
+org/primefaces/extensions/primefaces-extensions/15.0.10/primefaces-extensions-15.0.10-cyclonedx.xml
+org/primefaces/primefaces/15.0.10/primefaces-15.0.10-cyclonedx.json
+org/primefaces/primefaces/15.0.10/primefaces-15.0.10-cyclonedx.xml
+org/sonarsource/scanner/maven/sonar-maven-plugin/5.3.0.6276/sonar-maven-plugin-5.3.0.6276-cyclonedx.json
