@@ -18385,3 +18385,17 @@ io/yupiik/fusion/fusion/1.0.32/fusion-1.0.32.pom
 org/finos/legend/engine/legend-engine/4.108.0/legend-engine-4.108.0.pom
 org/jpmml/jpmml-sparkml/3.0.4/jpmml-sparkml-3.0.4.pom
    from mvn: 1359 - non-mvn: 3370 - buildinfo: 0 - module: 1530 - gradle timestamp: 2069 - atlasdb: 0 = 0 release
+20251110
+ch/qos/logback/logback-parent/1.5.21/logback-parent-1.5.21.pom
+eu/maveniverse/maven/njord/njord/0.8.6/njord-0.8.6.pom
+io/airlift/airbase-policy/326/airbase-policy-326.pom
+io/airlift/airbase/326/airbase-326.pom
+io/github/devacfr/maven/skins/reflow-parent/2.3.5/reflow-parent-2.3.5.pom
+io/streamnative/buildtools/3.0.10.9/buildtools-3.0.10.9.pom
+org/apache/commons/commons-parent/92/commons-parent-92.pom
+org/apache/sling/org.apache.sling.settings/1.5.0/org.apache.sling.settings-1.5.0.pom
+org/cyclonedx/cyclonedx-core-java/11.0.1/cyclonedx-core-java-11.0.1.pom
+org/jpmml/jpmml-parent/1.0.11/jpmml-parent-1.0.11.pom
+org/jpmml/jpmml-sparkml/3.1.4/jpmml-sparkml-3.1.4.pom
+org/jpmml/jpmml-sparkml/3.2.3/jpmml-sparkml-3.2.3.pom
+   from mvn: 3389 - non-mvn: 5977 - buildinfo: 0 - module: 4406 - gradle timestamp: 3090 - atlasdb: 0 = 0 release
