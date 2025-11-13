@@ -18399,3 +18399,25 @@ org/jpmml/jpmml-parent/1.0.11/jpmml-parent-1.0.11.pom
 org/jpmml/jpmml-sparkml/3.1.4/jpmml-sparkml-3.1.4.pom
 org/jpmml/jpmml-sparkml/3.2.3/jpmml-sparkml-3.2.3.pom
    from mvn: 3389 - non-mvn: 5977 - buildinfo: 0 - module: 4406 - gradle timestamp: 3090 - atlasdb: 0 = 0 release
+20251111
+com/github/hazendaz/git/github-desktop/3.5.4/github-desktop-3.5.4.pom
+com/github/hazendaz/javabean-tester/2.11.2/javabean-tester-2.11.2.pom
+com/github/hazendaz/maven/makeself-maven-plugin/1.10.0/makeself-maven-plugin-1.10.0.pom
+com/topicus-keyhub/sdk-java/44.0.0/sdk-java-44.0.0.pom
+com/topicus-keyhub/sdk-java/44.0.1/sdk-java-44.0.1.pom
+com/vegardit/maven/vegardit-maven-parent/6.1.14/vegardit-maven-parent-6.1.14.pom
+io/airlift/airbase-policy/327/airbase-policy-327.pom
+io/airlift/airbase/327/airbase-327.pom
+io/github/devacfr/maven/skins/reflow-parent/2.4.0-beta3/reflow-parent-2.4.0-beta3.pom
+io/streamnative/buildtools/4.0.7.1/buildtools-4.0.7.1.pom
+io/streamnative/pulsar-bom/4.0.7.1/pulsar-bom-4.0.7.1.pom
+io/streamnative/pulsar/3.0.10.9/pulsar-3.0.10.9.pom
+io/streamnative/pulsar/4.0.7.1/pulsar-4.0.7.1.pom
+io/telicent/jena/rdf-abac/1.1.2/rdf-abac-1.1.2.pom
+net/bytebuddy/byte-buddy-agent/1.18.0/byte-buddy-agent-1.18.0.pom
+net/bytebuddy/byte-buddy-dep/1.18.0/byte-buddy-dep-1.18.0.pom
+net/bytebuddy/byte-buddy-parent/1.18.0/byte-buddy-parent-1.18.0.pom
+org/apache/activemq/artemis-console-project/1.4.0/artemis-console-project-1.4.0.pom
+org/owasp/dependency-check-parent/12.1.9/dependency-check-parent-12.1.9.pom
+org/owasp/dependency-check-plugin/12.1.9/dependency-check-plugin-12.1.9.pom
+   from mvn: 3355 - non-mvn: 4882 - buildinfo: 1 - module: 4467 - gradle timestamp: 3142 - atlasdb: 0 = 0 release
