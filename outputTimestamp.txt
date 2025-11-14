@@ -18421,3 +18421,21 @@ org/apache/activemq/artemis-console-project/1.4.0/artemis-console-project-1.4.0.
 org/owasp/dependency-check-parent/12.1.9/dependency-check-parent-12.1.9.pom
 org/owasp/dependency-check-plugin/12.1.9/dependency-check-plugin-12.1.9.pom
    from mvn: 3355 - non-mvn: 4882 - buildinfo: 1 - module: 4467 - gradle timestamp: 3142 - atlasdb: 0 = 0 release
+20251112
+com/github/seregamorph/test-distribution/0.9/test-distribution-0.9.pom
+eu/maveniverse/maven/toolbox/toolbox/0.14.5/toolbox-0.14.5.pom
+fr/acinq/bitcoin-lib_2.13/0.45.1/bitcoin-lib_2.13-0.45.1.pom
+io/airlift/airbase-policy/328/airbase-policy-328.pom
+io/airlift/airbase/328/airbase-328.pom
+io/quarkus/quarkus-parent/3.20.4/quarkus-parent-3.20.4.pom
+io/quarkus/quarkus-parent/3.27.1/quarkus-parent-3.27.1.pom
+io/quarkus/quarkus-parent/3.30.0.CR1/quarkus-parent-3.30.0.CR1.pom
+io/smallrye/jandex-parent/3.5.2/jandex-parent-3.5.2.pom
+net/bytebuddy/byte-buddy-agent/1.18.1/byte-buddy-agent-1.18.1.pom
+net/bytebuddy/byte-buddy-dep/1.18.1/byte-buddy-dep-1.18.1.pom
+net/bytebuddy/byte-buddy-parent/1.18.1/byte-buddy-parent-1.18.1.pom
+org/apache/ratis/ratis/3.2.1/ratis-3.2.1.pom
+org/eclipse/jetty/jetty-project/12.0.30/jetty-project-12.0.30.pom
+org/eclipse/jetty/jetty-project/12.1.4/jetty-project-12.1.4.pom
+org/infinispan/protostream/parent/6.0.2/parent-6.0.2.pom
+   from mvn: 8437 - non-mvn: 6230 - buildinfo: 0 - module: 6551 - gradle timestamp: 4166 - atlasdb: 0 = 0 release

@@ -1684,3 +1684,8 @@ com/flowlogix/jakarta-ee/10.0.8/jakarta-ee-10.0.8-build.pom
 20251110
 20251111
 20251112
+20251113
+com/flowlogix/base-pom/85/base-pom-85-build.pom
+com/flowlogix/checkstyle/85/checkstyle-85-build.pom
+com/flowlogix/infra-pom/85/infra-pom-85-build.pom
+com/flowlogix/payara-pom/85/payara-pom-85-build.pom

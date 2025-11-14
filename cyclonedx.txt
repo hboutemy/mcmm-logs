@@ -6739,6 +6739,7 @@ org.opendaylight.netconf:sal-rest-docgen
 org.opendaylight.netconf:shaded-exificient
 org.opendaylight.netconf:shaded-sshd
 org.opendaylight.netconf:transport-api
+org.opendaylight.netconf:transport-crypto
 org.opendaylight.netconf:transport-http
 org.opendaylight.netconf:transport-ssh
 org.opendaylight.netconf:transport-tcp
