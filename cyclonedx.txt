@@ -2827,6 +2827,7 @@ org.apache.hop:hop-libs
 org.apache.hop:hop-libs-jdbc
 org.apache.hop:hop-misc-async
 org.apache.hop:hop-misc-debug
+org.apache.hop:hop-misc-documentation
 org.apache.hop:hop-misc-git
 org.apache.hop:hop-misc-import
 org.apache.hop:hop-misc-mail
@@ -2855,12 +2856,15 @@ org.apache.hop:hop-tech-databricks
 org.apache.hop:hop-tech-dropbox
 org.apache.hop:hop-tech-elastic
 org.apache.hop:hop-tech-google
+org.apache.hop:hop-tech-minio
 org.apache.hop:hop-tech-neo4j
 org.apache.hop:hop-tech-opensearch
 org.apache.hop:hop-tech-parquet
+org.apache.hop:hop-tech-salesforce
 org.apache.hop:hop-tech-vault
 org.apache.hop:hop-transform-abort
 org.apache.hop:hop-transform-addsequence
+org.apache.hop:hop-transform-addsnowflakeid
 org.apache.hop:hop-transform-analyticquery
 org.apache.hop:hop-transform-append
 org.apache.hop:hop-transform-blockingtransform
@@ -3013,6 +3017,7 @@ org.apache.hop:hop-ui
 org.apache.hop:hop-ui-rap
 org.apache.hop:hop-ui-rcp
 org.apache.hop:hop-valuetypes-json
+org.apache.hop:hop-valuetypes-uuid
 org.apache.iotdb:iotdb-extras-parent
 org.apache.iotdb:iotdb-parent
 org.apache.jena:apache-jena
