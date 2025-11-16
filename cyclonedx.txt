@@ -3322,6 +3322,7 @@ org.apache.maven.plugins:maven-plugin-report-plugin
 org.apache.maven.plugins:maven-plugins
 org.apache.maven.plugins:maven-pmd-plugin
 org.apache.maven.plugins:maven-project-info-reports-plugin
+org.apache.maven.plugins:maven-rar-plugin
 org.apache.maven.plugins:maven-release-plugin
 org.apache.maven.plugins:maven-remote-resources-plugin
 org.apache.maven.plugins:maven-resources-plugin

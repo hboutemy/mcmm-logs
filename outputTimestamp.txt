@@ -18458,3 +18458,17 @@ org/jpmml/jpmml-sparkml/3.0.5/jpmml-sparkml-3.0.5.pom
 org/jpmml/jpmml-sparkml/3.1.5/jpmml-sparkml-3.1.5.pom
 org/jpmml/jpmml-sparkml/3.2.4/jpmml-sparkml-3.2.4.pom
    from mvn: 4254 - non-mvn: 4320 - buildinfo: 0 - module: 4261 - gradle timestamp: 2942 - atlasdb: 0 = 0 release
+20251114
+com/adobe/acs/acs-aem-commons/6.15.0/acs-aem-commons-6.15.0.pom
+com/flowlogix/checkstyle/86/checkstyle-86-build.pom
+com/flowlogix/infra-pom/86/infra-pom-86-build.pom
+com/flowlogix/infra-pom/86/infra-pom-86.pom
+com/github/nbbrd/jdplus-sdmx/jdplus-sdmx-bom/3.3.2/jdplus-sdmx-bom-3.3.2.pom
+com/github/nbbrd/jdplus-sdmx/jdplus-sdmx/3.3.2/jdplus-sdmx-3.3.2.pom
+io/cucumber/junit-xml-formatter/0.11.0/junit-xml-formatter-0.11.0.pom
+io/github/heiye115/hyperliquid-java-sdk/0.2.0-beta1/hyperliquid-java-sdk-0.2.0-beta1.pom
+io/github/leandrosnazareth/nazareth-look-and-feel/1.0.1/nazareth-look-and-feel-1.0.1.pom
+io/telicent/smart-caches/graph/scg-base/0.91.2/scg-base-0.91.2.pom
+org/apache/commons/commons-jexl3/3.6.0/commons-jexl3-3.6.0.pom
+org/apache/hop/hop/2.16.0/hop-2.16.0.pom
+   from mvn: 4317 - non-mvn: 4106 - buildinfo: 1 - module: 2786 - gradle timestamp: 1990 - atlasdb: 0 = 0 release
