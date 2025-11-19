@@ -18485,3 +18485,22 @@ org/finos/legend/engine/legend-engine/4.110.0/legend-engine-4.110.0.pom
 fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-13/spoon-pom-11.2.2-beta-13.pom
 org/apache/commons/commons-lang3/3.20.0/commons-lang3-3.20.0.pom
    from mvn: 1487 - non-mvn: 1377 - buildinfo: 0 - module: 1481 - gradle timestamp: 714 - atlasdb: 0 = 0 release
+20251117
+com/github/nbbrd/spreadsheet4j/spreadsheet-bom/2.5.10/spreadsheet-bom-2.5.10.pom
+com/github/nbbrd/spreadsheet4j/spreadsheet-parent/2.5.10/spreadsheet-parent-2.5.10.pom
+commons-validator/commons-validator/1.10.1/commons-validator-1.10.1.pom
+io/avaje/avaje-aws-appconfig/1.5/avaje-aws-appconfig-1.5.pom
+io/avaje/avaje-http-parent/3.6-RC1/avaje-http-parent-3.6-RC1.pom
+io/cucumber/compatibility-kit/25.0.0/compatibility-kit-25.0.0.pom
+io/fabric8/docker-maven-plugin/0.48.0/docker-maven-plugin-0.48.0.pom
+io/github/kbuntrock/openapi-maven-plugin/0.0.28/openapi-maven-plugin-0.0.28.pom
+org/apache/causeway/causeway-bom/3.5.0/causeway-bom-3.5.0.pom
+org/apache/pulsar/buildtools/3.0.15/buildtools-3.0.15.pom
+org/apache/pulsar/buildtools/4.0.8/buildtools-4.0.8.pom
+org/apache/pulsar/buildtools/4.1.2/buildtools-4.1.2.pom
+org/apache/pulsar/pulsar-bom/4.0.8/pulsar-bom-4.0.8.pom
+org/apache/pulsar/pulsar-bom/4.1.2/pulsar-bom-4.1.2.pom
+org/apache/pulsar/pulsar/3.0.15/pulsar-3.0.15.pom
+org/apache/pulsar/pulsar/4.0.8/pulsar-4.0.8.pom
+org/apache/pulsar/pulsar/4.1.2/pulsar-4.1.2.pom
+   from mvn: 4360 - non-mvn: 5434 - buildinfo: 0 - module: 3955 - gradle timestamp: 2866 - atlasdb: 0 = 0 release

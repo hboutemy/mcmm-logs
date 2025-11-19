@@ -1702,3 +1702,17 @@ com/flowlogix/depchain/integration-test/100/integration-test-100-build.pom
 com/flowlogix/depchain/shiro-jakarta/100/shiro-jakarta-100-build.pom
 com/flowlogix/depchain/unit-test/100/unit-test-100-build.pom
 20251117
+20251118
+com/flowlogix/base-pom/87/base-pom-87-build.pom
+com/flowlogix/base-pom/88/base-pom-88-build.pom
+com/flowlogix/checkstyle/87/checkstyle-87-build.pom
+com/flowlogix/checkstyle/88/checkstyle-88-build.pom
+com/flowlogix/flowlogix-bom/11/flowlogix-bom-11-build.pom
+com/flowlogix/flowlogix-datamodel/11/flowlogix-datamodel-11-build.pom
+com/flowlogix/flowlogix-jee/11/flowlogix-jee-11-build.pom
+com/flowlogix/flowlogix/11/flowlogix-11-build.pom
+com/flowlogix/infra-pom/87/infra-pom-87-build.pom
+com/flowlogix/infra-pom/88/infra-pom-88-build.pom
+com/flowlogix/jakarta-ee/11/jakarta-ee-11-build.pom
+com/flowlogix/payara-pom/87/payara-pom-87-build.pom
+com/flowlogix/payara-pom/88/payara-pom-88-build.pom

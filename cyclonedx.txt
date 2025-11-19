@@ -105,6 +105,7 @@ com.github.hazendaz.maven:htmlcompressor-maven-plugin
 com.github.hazendaz.maven:makeself-maven-plugin
 com.github.hazendaz.maven:smartsprites-maven-plugin
 com.github.hazendaz.maven:whitespace-maven-plugin
+com.github.hazendaz.maven:xml-format-maven-plugin
 com.github.hazendaz.maven:yuicompressor-maven-plugin
 com.github.hazendaz.nodejs:node
 com.github.hazendaz.npp:npp
