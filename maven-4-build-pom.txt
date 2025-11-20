@@ -1716,3 +1716,14 @@ com/flowlogix/infra-pom/88/infra-pom-88-build.pom
 com/flowlogix/jakarta-ee/11/jakarta-ee-11-build.pom
 com/flowlogix/payara-pom/87/payara-pom-87-build.pom
 com/flowlogix/payara-pom/88/payara-pom-88-build.pom
+20251119
+com/flowlogix/archetypes/starter/101/starter-101-build.pom
+com/flowlogix/base-pom/89/base-pom-89-build.pom
+com/flowlogix/checkstyle/89/checkstyle-89-build.pom
+com/flowlogix/depchain/depchain/101/depchain-101-build.pom
+com/flowlogix/depchain/integration-test/101/integration-test-101-build.pom
+com/flowlogix/depchain/shiro-jakarta/101/shiro-jakarta-101-build.pom
+com/flowlogix/depchain/unit-test/101/unit-test-101-build.pom
+com/flowlogix/infra-pom/89/infra-pom-89-build.pom
+com/flowlogix/payara-pom/89/payara-pom-89-build.pom
+com/flowlogix/weld/weld-native/6.0.3/weld-native-6.0.3-build.pom

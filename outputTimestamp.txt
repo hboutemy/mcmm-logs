@@ -18504,3 +18504,22 @@ org/apache/pulsar/pulsar/3.0.15/pulsar-3.0.15.pom
 org/apache/pulsar/pulsar/4.0.8/pulsar-4.0.8.pom
 org/apache/pulsar/pulsar/4.1.2/pulsar-4.1.2.pom
    from mvn: 4360 - non-mvn: 5434 - buildinfo: 0 - module: 3955 - gradle timestamp: 2866 - atlasdb: 0 = 0 release
+20251118
+com/adobe/acs/acs-aem-commons/6.15.4/acs-aem-commons-6.15.4.pom
+com/flowlogix/checkstyle/87/checkstyle-87-build.pom
+com/flowlogix/checkstyle/88/checkstyle-88-build.pom
+com/flowlogix/infra-pom/87/infra-pom-87.pom
+com/flowlogix/infra-pom/87/infra-pom-87-build.pom
+com/flowlogix/infra-pom/88/infra-pom-88.pom
+com/flowlogix/infra-pom/88/infra-pom-88-build.pom
+eu/maveniverse/maven/njord/njord/0.8.7/njord-0.8.7.pom
+io/cucumber/messages/31.0.0/messages-31.0.0.pom
+io/github/ollama4j/ollama4j/1.1.5/ollama4j-1.1.5.pom
+org/apache/sling/org.apache.sling.auth.oauth-client/0.1.6/org.apache.sling.auth.oauth-client-0.1.6.pom
+org/apache/sling/org.apache.sling.commons.log/6.0.2/org.apache.sling.commons.log-6.0.2.pom
+org/apache/sling/org.apache.sling.servlets.resolver/3.0.2/org.apache.sling.servlets.resolver-3.0.2.pom
+org/apache/sling/org.apache.sling.testing.jcr-mock/1.7.0/org.apache.sling.testing.jcr-mock-1.7.0.pom
+org/apache/sling/org.apache.sling.testing.osgi-mock.parent/3.5.4/org.apache.sling.testing.osgi-mock.parent-3.5.4.pom
+org/finos/legend/engine/legend-engine/4.110.1/legend-engine-4.110.1.pom
+org/metricshub/metricshub-community/1.0.12/metricshub-community-1.0.12.pom
+   from mvn: 4699 - non-mvn: 4556 - buildinfo: 0 - module: 4382 - gradle timestamp: 3296 - atlasdb: 0 = 0 release
