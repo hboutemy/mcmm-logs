@@ -18523,3 +18523,22 @@ org/apache/sling/org.apache.sling.testing.osgi-mock.parent/3.5.4/org.apache.slin
 org/finos/legend/engine/legend-engine/4.110.1/legend-engine-4.110.1.pom
 org/metricshub/metricshub-community/1.0.12/metricshub-community-1.0.12.pom
    from mvn: 4699 - non-mvn: 4556 - buildinfo: 0 - module: 4382 - gradle timestamp: 3296 - atlasdb: 0 = 0 release
+20251119
+com/flowlogix/checkstyle/89/checkstyle-89-build.pom
+com/flowlogix/infra-pom/89/infra-pom-89-build.pom
+com/flowlogix/infra-pom/89/infra-pom-89.pom
+com/tguzik/valueclasses-parent/2.0.0/valueclasses-parent-2.0.0.pom
+de/knightsoft-net/gwt-commons-validator/1.10.1-0/gwt-commons-validator-1.10.1-0.pom
+io/avaje/avaje-jsonb-parent/3.9-RC1/avaje-jsonb-parent-3.9-RC1.pom
+io/cucumber/gherkin/37.0.0/gherkin-37.0.0.pom
+io/github/heiye115/hyperliquid-java-sdk/0.2.0-beta2/hyperliquid-java-sdk-0.2.0-beta2.pom
+io/micronaut/maven/micronaut-maven-plugin-parent/4.11.3/micronaut-maven-plugin-parent-4.11.3.pom
+io/quarkus/quarkus-parent/3.29.4/quarkus-parent-3.29.4.pom
+io/quarkus/quarkus-parent/3.30.0/quarkus-parent-3.30.0.pom
+io/roastedroot/quickjs4j-parent/0.0.13/quickjs4j-parent-0.0.13.pom
+org/finos/legend/engine/legend-engine/4.111.0/legend-engine-4.111.0.pom
+org/jpmml/jpmml-sparkml/3.0.6/jpmml-sparkml-3.0.6.pom
+org/jpmml/jpmml-sparkml/3.1.6/jpmml-sparkml-3.1.6.pom
+org/jpmml/jpmml-sparkml/3.2.5/jpmml-sparkml-3.2.5.pom
+org/liquibase/ext/liquibase-percona/5.0.1/liquibase-percona-5.0.1.pom
+   from mvn: 5046 - non-mvn: 5304 - buildinfo: 84 - module: 5351 - gradle timestamp: 3567 - atlasdb: 0 = 0 release
