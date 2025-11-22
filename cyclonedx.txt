@@ -4409,7 +4409,9 @@ org.eclipse.store:storage-restservice-springboot
 org.eclipse.store:store-parent
 org.eclipse:yasson
 org.fryske-akademy:CrudApi
+org.fryske-akademy:TeiLinguisticsFa
 org.fryske-akademy:blacklab-udpipe-plugin
+org.fryske-akademy:graph2phon-service
 org.fryske-akademy:jpaservices
 org.fryske-akademy:primefacesgui
 org.fryske-akademy:teidictionaries
