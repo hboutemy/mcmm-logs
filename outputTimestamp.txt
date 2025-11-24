@@ -18569,3 +18569,13 @@ org/apache/sling/org.apache.sling.testing.sling-mock.parent/4.0.2/org.apache.sli
 org/metricshub/metricshub-community/1.0.13/metricshub-community-1.0.13.pom
 world/convex/convex/0.8.2/convex-0.8.2.pom
    from mvn: 5243 - non-mvn: 5587 - buildinfo: 1 - module: 3451 - gradle timestamp: 2568 - atlasdb: 0 = 0 release
+20251122
+com/github/hazendaz/jmockit/jmockit-parent/2.0.1/jmockit-parent-2.0.1.pom
+id/devcode/spring-extension-parent/1.0.12/spring-extension-parent-1.0.12.pom
+io/streamnative/buildtools/4.0.7.2/buildtools-4.0.7.2.pom
+io/streamnative/pulsar-bom/4.0.7.2/pulsar-bom-4.0.7.2.pom
+io/streamnative/pulsar/4.0.7.2/pulsar-4.0.7.2.pom
+org/apache/commons/commons-parent/93/commons-parent-93.pom
+org/apache/maven/plugins/maven-ejb-plugin/3.3.0/maven-ejb-plugin-3.3.0.pom
+org/finos/legend/engine/legend-engine/4.112.0/legend-engine-4.112.0.pom
+   from mvn: 2317 - non-mvn: 785 - buildinfo: 0 - module: 873 - gradle timestamp: 409 - atlasdb: 0 = 0 release
