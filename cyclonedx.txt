@@ -6772,6 +6772,7 @@ org.opendaylight.odlparent:bundles-test-lib
 org.opendaylight.odlparent:bundles4-test
 org.opendaylight.odlparent:checkstyle
 org.opendaylight.odlparent:copy-files-plugin
+org.opendaylight.odlparent:dagger
 org.opendaylight.odlparent:feature-repo-parent
 org.opendaylight.odlparent:features-odlparent
 org.opendaylight.odlparent:features-test
@@ -6791,6 +6792,7 @@ org.opendaylight.odlparent:odl-apache-commons-text
 org.opendaylight.odlparent:odl-apache-spifly
 org.opendaylight.odlparent:odl-asm
 org.opendaylight.odlparent:odl-dropwizard-metrics
+org.opendaylight.odlparent:odl-errorprone
 org.opendaylight.odlparent:odl-gson
 org.opendaylight.odlparent:odl-guava
 org.opendaylight.odlparent:odl-jackson-2
@@ -6799,6 +6801,7 @@ org.opendaylight.odlparent:odl-jackson-2.13
 org.opendaylight.odlparent:odl-jakarta-activation-api
 org.opendaylight.odlparent:odl-javassist-3
 org.opendaylight.odlparent:odl-jersey-2
+org.opendaylight.odlparent:odl-jspecify
 org.opendaylight.odlparent:odl-jung-2.1
 org.opendaylight.odlparent:odl-karaf-feat-feature
 org.opendaylight.odlparent:odl-karaf-feat-jdbc
