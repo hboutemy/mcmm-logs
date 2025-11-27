@@ -18616,3 +18616,11 @@ org/apache/syncope/syncope/4.0.3/syncope-4.0.3.pom
 org/codehaus/mojo/versions/versions/2.20.1/versions-2.20.1.pom
 org/infinispan/infinispan-build-configuration-parent/16.0.2/infinispan-build-configuration-parent-16.0.2.pom
    from mvn: 5190 - non-mvn: 3172 - buildinfo: 0 - module: 2921 - gradle timestamp: 1711 - atlasdb: 0 = 0 release
+20251125
+com/github/veithen/maven/resolver-proxy-maven-plugin/0.5.1/resolver-proxy-maven-plugin-0.5.1.pom
+com/github/veithen/parent/56/parent-56.pom
+io/github/chains-project/maven-lockfile-parent/5.10.1-beta-2/maven-lockfile-parent-5.10.1-beta-2.pom
+org/jpmml/jpmml-model/1.7.6/jpmml-model-1.7.6.pom
+org/jvnet/jaxb/jaxb-tools-project/4.0.12/jaxb-tools-project-4.0.12.pom
+org/webjars/redoc/2.5.1/redoc-2.5.1.pom
+   from mvn: 3828 - non-mvn: 5570 - buildinfo: 0 - module: 4509 - gradle timestamp: 2963 - atlasdb: 0 = 0 release
