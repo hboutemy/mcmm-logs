@@ -5280,6 +5280,13 @@ org.glassfish.tyrus:tyrus-project
 org.glassfish.tyrus:tyrus-server
 org.glassfish.tyrus:tyrus-spi
 org.glassfish.wasp:wasp
+org.glassfish.woodstock.external:dojo
+org.glassfish.woodstock.external:woodstock-external
+org.glassfish.woodstock:woodstock-dt
+org.glassfish.woodstock:woodstock-example
+org.glassfish.woodstock:woodstock-parent
+org.glassfish.woodstock:woodstock-webui-jsf
+org.glassfish.woodstock:woodstock-webui-jsf-suntheme
 org.glassfish:jakarta.enterprise.concurrent
 org.glassfish:jakarta.faces
 org.glassfish:mojarra-parent

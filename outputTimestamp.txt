@@ -18624,3 +18624,23 @@ org/jpmml/jpmml-model/1.7.6/jpmml-model-1.7.6.pom
 org/jvnet/jaxb/jaxb-tools-project/4.0.12/jaxb-tools-project-4.0.12.pom
 org/webjars/redoc/2.5.1/redoc-2.5.1.pom
    from mvn: 3828 - non-mvn: 5570 - buildinfo: 0 - module: 4509 - gradle timestamp: 2963 - atlasdb: 0 = 0 release
+20251126
+at/yawk/lz4/lz4-java/1.8.1/lz4-java-1.8.1.pom
+at/yawk/lz4/lz4-java/1.9.0/lz4-java-1.9.0.pom
+dev/langchain4j/langchain4j-parent/1.9.0-beta16/langchain4j-parent-1.9.0-beta16.pom
+io/cucumber/tag-expressions/8.1.0/tag-expressions-8.1.0.pom
+io/jooby/jooby-project/4.0.12/jooby-project-4.0.12.pom
+io/quarkus/quarkus-parent/3.30.1/quarkus-parent-3.30.1.pom
+io/telicent/jena/jena-kafka/2.2.0/jena-kafka-2.2.0.pom
+io/telicent/smart-caches/graph/scg-base/0.92.0/scg-base-0.92.0.pom
+net/bytebuddy/byte-buddy-agent/1.18.2/byte-buddy-agent-1.18.2.pom
+net/bytebuddy/byte-buddy-dep/1.18.2/byte-buddy-dep-1.18.2.pom
+net/bytebuddy/byte-buddy-parent/1.18.2/byte-buddy-parent-1.18.2.pom
+org/apache/commons/commons-configuration2/2.13.0/commons-configuration2-2.13.0.pom
+org/apache/dubbo/dubbo-bom/3.2.19/dubbo-bom-3.2.19.pom
+org/apache/dubbo/dubbo-dependencies-bom/3.2.19/dubbo-dependencies-bom-3.2.19.pom
+org/apache/dubbo/dubbo-dependencies/3.2.19/dubbo-dependencies-3.2.19.pom
+org/finos/legend/engine/legend-engine/4.113.1/legend-engine-4.113.1.pom
+org/openapitools/openapidiff/openapi-diff-parent/2.1.6/openapi-diff-parent-2.1.6.pom
+org/phoebus/service-olog/5.1.2/service-olog-5.1.2.pom
+   from mvn: 4789 - non-mvn: 6644 - buildinfo: 0 - module: 5430 - gradle timestamp: 3224 - atlasdb: 0 = 0 release
