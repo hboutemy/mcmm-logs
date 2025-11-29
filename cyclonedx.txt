@@ -5882,6 +5882,7 @@ org.opendaylight.bgpcep:odl-bgpcep-pcep-cli
 org.opendaylight.bgpcep:odl-bgpcep-pcep-config-example
 org.opendaylight.bgpcep:odl-bgpcep-pcep-impl
 org.opendaylight.bgpcep:odl-bgpcep-pcep-p2mp-te-lsp
+org.opendaylight.bgpcep:odl-bgpcep-pcep-parser
 org.opendaylight.bgpcep:odl-bgpcep-pcep-segment-routing
 org.opendaylight.bgpcep:odl-bgpcep-pcep-server
 org.opendaylight.bgpcep:odl-bgpcep-pcep-server-provider
@@ -5909,6 +5910,7 @@ org.opendaylight.bgpcep:pcep-config-example
 org.opendaylight.bgpcep:pcep-ietf-p2mp-te-lsp
 org.opendaylight.bgpcep:pcep-ietf-stateful
 org.opendaylight.bgpcep:pcep-impl
+org.opendaylight.bgpcep:pcep-parser
 org.opendaylight.bgpcep:pcep-pcc-mock
 org.opendaylight.bgpcep:pcep-segment-routing
 org.opendaylight.bgpcep:pcep-server-api

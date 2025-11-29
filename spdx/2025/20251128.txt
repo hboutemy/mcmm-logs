@@ -1,0 +1,2 @@
+commons-daemon/commons-daemon/1.5.0/commons-daemon-1.5.0.spdx.json
+org/opendaylight/bgpcep/bgpcep-sbom-1.0.0.spdx
