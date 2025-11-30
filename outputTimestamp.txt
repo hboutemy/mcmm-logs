@@ -18679,3 +18679,33 @@ net/sourceforge/pmd/pmd-build-tools-config/36/pmd-build-tools-config-36.pom
 net/sourceforge/pmd/pmd-designer/7.19.0/pmd-designer-7.19.0.pom
 net/sourceforge/pmd/pmd-designer/7.19.1/pmd-designer-7.19.1.pom
    from mvn: 2829 - non-mvn: 3314 - buildinfo: 0 - module: 2379 - gradle timestamp: 1294 - atlasdb: 0 = 0 release
+20251128
+commons-daemon/commons-daemon/1.5.0/commons-daemon-1.5.0.pom
+dev/langchain4j/langchain4j-parent/1.9.1-beta17/langchain4j-parent-1.9.1-beta17.pom
+eu/europa/ted/eforms/eforms-sdk-analyzer/1.14.0/eforms-sdk-analyzer-1.14.0.pom
+io/kroxylicious/kroxylicious-bom/0.18.0/kroxylicious-bom-0.18.0.pom
+io/kroxylicious/kroxylicious-parent/0.18.0/kroxylicious-parent-0.18.0.pom
+io/telicent/jena/jena-kafka/2.3.0/jena-kafka-2.3.0.pom
+net/sourceforge/pmd/pmd/7.19.0/pmd-7.19.0.pom
+org/apache/maven/plugins/maven-war-plugin/3.5.1/maven-war-plugin-3.5.1.pom
+org/apache/mina/mina-parent/2.2.5/mina-parent-2.2.5.pom
+org/apache/sling/feature-launcher-maven-plugin/1.0.0/feature-launcher-maven-plugin-1.0.0.pom
+org/eclipse/tycho/tycho/5.0.1/tycho-5.0.1.pom
+org/jpmml/jpmml-evaluator/1.7.6/jpmml-evaluator-1.7.6.pom
+tools/jackson/core/jackson-core/3.0.3/jackson-core-3.0.3.pom
+tools/jackson/core/jackson-databind/3.0.3/jackson-databind-3.0.3.pom
+tools/jackson/dataformat/jackson-dataformat-xml/3.0.3/jackson-dataformat-xml-3.0.3.pom
+tools/jackson/dataformat/jackson-dataformats-binary/3.0.3/jackson-dataformats-binary-3.0.3.pom
+tools/jackson/dataformat/jackson-dataformats-text/3.0.3/jackson-dataformats-text-3.0.3.pom
+tools/jackson/datatype/jackson-datatype-joda/3.0.3/jackson-datatype-joda-3.0.3.pom
+tools/jackson/datatype/jackson-datatypes-collections/3.0.3/jackson-datatypes-collections-3.0.3.pom
+tools/jackson/datatype/jackson-datatypes-misc-parent/3.0.3/jackson-datatypes-misc-parent-3.0.3.pom
+tools/jackson/jackson-bom/3.0.3/jackson-bom-3.0.3.pom
+tools/jackson/jr/jackson-jr-all/3.0.3/jackson-jr-all-3.0.3.pom
+tools/jackson/jr/jackson-jr-annotation-support/3.0.3/jackson-jr-annotation-support-3.0.3.pom
+tools/jackson/jr/jackson-jr-extension-javatime/3.0.3/jackson-jr-extension-javatime-3.0.3.pom
+tools/jackson/jr/jackson-jr-objects/3.0.3/jackson-jr-objects-3.0.3.pom
+tools/jackson/jr/jackson-jr-parent/3.0.3/jackson-jr-parent-3.0.3.pom
+tools/jackson/jr/jackson-jr-retrofit2/3.0.3/jackson-jr-retrofit2-3.0.3.pom
+tools/jackson/jr/jackson-jr-stree/3.0.3/jackson-jr-stree-3.0.3.pom
+   from mvn: 2915 - non-mvn: 3876 - buildinfo: 4 - module: 2485 - gradle timestamp: 1037 - atlasdb: 0 = 0 release

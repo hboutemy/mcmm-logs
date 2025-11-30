@@ -3293,6 +3293,7 @@ org.apache.maven.plugin-tools:maven-plugin-tools-model
 org.apache.maven.plugin-tools:maven-script
 org.apache.maven.plugin-tools:maven-script-ant
 org.apache.maven.plugin-tools:maven-script-beanshell
+org.apache.maven.plugins:maven-acr-plugin
 org.apache.maven.plugins:maven-antrun-plugin
 org.apache.maven.plugins:maven-archetype-plugin
 org.apache.maven.plugins:maven-artifact-plugin
@@ -3304,6 +3305,7 @@ org.apache.maven.plugins:maven-clean-plugin
 org.apache.maven.plugins:maven-compiler-plugin
 org.apache.maven.plugins:maven-dependency-plugin
 org.apache.maven.plugins:maven-deploy-plugin
+org.apache.maven.plugins:maven-doap-plugin
 org.apache.maven.plugins:maven-ear-plugin
 org.apache.maven.plugins:maven-ejb-plugin
 org.apache.maven.plugins:maven-enforcer-plugin

@@ -1,0 +1,1 @@
+org/opendaylight/l2switch/l2switch-sbom-2.0.1.spdx
