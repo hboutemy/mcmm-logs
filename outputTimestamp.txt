@@ -18709,3 +18709,17 @@ tools/jackson/jr/jackson-jr-parent/3.0.3/jackson-jr-parent-3.0.3.pom
 tools/jackson/jr/jackson-jr-retrofit2/3.0.3/jackson-jr-retrofit2-3.0.3.pom
 tools/jackson/jr/jackson-jr-stree/3.0.3/jackson-jr-stree-3.0.3.pom
    from mvn: 2915 - non-mvn: 3876 - buildinfo: 4 - module: 2485 - gradle timestamp: 1037 - atlasdb: 0 = 0 release
+20251129
+com/github/felfert/jclouds/jclouds-project/2.7.5/jclouds-project-2.7.5.pom
+io/github/dimabarbul/wiremock-openapi-validation-extension/1.6.0/wiremock-openapi-validation-extension-1.6.0.pom
+org/apache/maven/plugins/maven-acr-plugin/3.2.0/maven-acr-plugin-3.2.0.pom
+org/apache/maven/plugins/maven-assembly-plugin/3.8.0/maven-assembly-plugin-3.8.0.pom
+org/apache/maven/plugins/maven-doap-plugin/3.0.0-M1/maven-doap-plugin-3.0.0-M1.pom
+org/apache/maven/plugins/maven-resources-plugin/3.4.0/maven-resources-plugin-3.4.0.pom
+org/apache/maven/plugins/maven-source-plugin/3.4.0/maven-source-plugin-3.4.0.pom
+org/jpmml/jpmml-converter/1.6.5/jpmml-converter-1.6.5.pom
+org/jpmml/jpmml-sparkml/3.0.7/jpmml-sparkml-3.0.7.pom
+org/jpmml/jpmml-sparkml/3.1.7/jpmml-sparkml-3.1.7.pom
+org/jpmml/jpmml-sparkml/3.2.6/jpmml-sparkml-3.2.6.pom
+tech/picnic/error-prone-support/error-prone-support/0.27.0/error-prone-support-0.27.0.pom
+   from mvn: 756 - non-mvn: 749 - buildinfo: 0 - module: 961 - gradle timestamp: 376 - atlasdb: 0 = 0 release
