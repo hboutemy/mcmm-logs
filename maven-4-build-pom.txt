@@ -1759,3 +1759,13 @@ org/apache/myfaces/tobago/tobago-tool-apt/6.9.0/tobago-tool-apt-6.9.0-build.pom
 org/apache/myfaces/tobago/tobago-tool-test/6.9.0/tobago-tool-test-6.9.0-build.pom
 org/apache/myfaces/tobago/tobago-tool/6.9.0/tobago-tool-6.9.0-build.pom
 org/apache/myfaces/tobago/tobago/6.9.0/tobago-6.9.0-build.pom
+20251201
+com/flowlogix/archetypes/starter/102/starter-102-build.pom
+com/flowlogix/base-pom/90/base-pom-90-build.pom
+com/flowlogix/checkstyle/90/checkstyle-90-build.pom
+com/flowlogix/depchain/depchain/102/depchain-102-build.pom
+com/flowlogix/depchain/integration-test/102/integration-test-102-build.pom
+com/flowlogix/depchain/shiro-jakarta/102/shiro-jakarta-102-build.pom
+com/flowlogix/depchain/unit-test/102/unit-test-102-build.pom
+com/flowlogix/infra-pom/90/infra-pom-90-build.pom
+com/flowlogix/payara-pom/90/payara-pom-90-build.pom

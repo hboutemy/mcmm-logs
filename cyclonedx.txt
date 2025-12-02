@@ -977,6 +977,7 @@ de.powerstat.toolbaseline:tbl-java-parent
 de.powerstat.validation:validation
 de.softwareforge.testing:maven-loader
 de.softwareforge.testing:pg-embedded
+de.speedbanking:iban-commons
 de.stklcode.jvault:jvault-connector
 de.stklcode.pubtrans:juraclient
 de.svenkubiak:embedded-mongodb

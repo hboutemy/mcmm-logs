@@ -18723,3 +18723,13 @@ org/jpmml/jpmml-sparkml/3.1.7/jpmml-sparkml-3.1.7.pom
 org/jpmml/jpmml-sparkml/3.2.6/jpmml-sparkml-3.2.6.pom
 tech/picnic/error-prone-support/error-prone-support/0.27.0/error-prone-support-0.27.0.pom
    from mvn: 756 - non-mvn: 749 - buildinfo: 0 - module: 961 - gradle timestamp: 376 - atlasdb: 0 = 0 release
+20251130
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-15/spoon-pom-11.2.2-beta-15.pom
+io/cucumber/html-formatter/22.2.0/html-formatter-22.2.0.pom
+io/github/chains-project/maven-lockfile-parent/5.10.1-beta-3/maven-lockfile-parent-5.10.1-beta-3.pom
+io/github/heiye115/hyperliquid-java-sdk/0.2.1/hyperliquid-java-sdk-0.2.1.pom
+io/javalin/javalin-parent/7.0.0-alpha.2/javalin-parent-7.0.0-alpha.2.pom
+org/jpmml/jpmml-python/1.3.10/jpmml-python-1.3.10.pom
+org/jpmml/jpmml-python/1.3.11/jpmml-python-1.3.11.pom
+org/mybatis/mybatis-spring/4.0.0/mybatis-spring-4.0.0.pom
+   from mvn: 587 - non-mvn: 2953 - buildinfo: 0 - module: 1193 - gradle timestamp: 691 - atlasdb: 0 = 0 release
