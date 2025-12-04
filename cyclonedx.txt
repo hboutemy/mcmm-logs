@@ -2501,6 +2501,7 @@ org.apache.flink:flink-table-planner_2.12
 org.apache.flink:flink-table-runtime
 org.apache.flink:flink-table-test-utils
 org.apache.flink:flink-test-utils
+org.apache.flink:flink-test-utils-connector
 org.apache.flink:flink-test-utils-junit
 org.apache.flink:flink-test-utils-parent
 org.apache.flink:flink-tests

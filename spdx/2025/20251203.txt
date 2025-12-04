@@ -1,0 +1,5 @@
+org/opendaylight/l2switch/l2switch-sbom-1.0.1.spdx
+org/spdx/licenseListPublisher/3.1.4/licenseListPublisher-3.1.4.spdx.json
+org/spdx/spdx-spreadsheet-store/2.0.2/spdx-spreadsheet-store-2.0.2.spdx.json
+org/spdx/spdx-tagvalue-store/2.0.2/spdx-tagvalue-store-2.0.2.spdx.json
+org/spdx/tools-java/2.0.3/tools-java-2.0.3.spdx.json

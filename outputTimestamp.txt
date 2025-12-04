@@ -18754,3 +18754,26 @@ org/apache/sling/org.apache.sling.servlets.resolver/3.0.4/org.apache.sling.servl
 org/infinispan/infinispan-build-configuration-parent/16.0.3/infinispan-build-configuration-parent-16.0.3.pom
 org/mybatis/spring/boot/mybatis-spring-boot/4.0.0/mybatis-spring-boot-4.0.0.pom
    from mvn: 2237 - non-mvn: 5518 - buildinfo: 0 - module: 4312 - gradle timestamp: 3108 - atlasdb: 0 = 0 release
+20251202
+at/yawk/lz4/lz4-java/1.10.0/lz4-java-1.10.0.pom
+com/flowlogix/checkstyle/91/checkstyle-91-build.pom
+com/flowlogix/infra-pom/91/infra-pom-91-build.pom
+com/flowlogix/infra-pom/91/infra-pom-91.pom
+com/github/veithen/maven/resolver-proxy-maven-plugin/0.6.0/resolver-proxy-maven-plugin-0.6.0.pom
+com/hibegin/zrlog-base/3.2.123/zrlog-base-3.2.123.pom
+dev/langchain4j/langchain4j-parent/0.0.001-test-beta1/langchain4j-parent-0.0.001-test-beta1.pom
+dev/langchain4j/langchain4j-parent/0.0.002-test-beta2/langchain4j-parent-0.0.002-test-beta2.pom
+eu/europa/ted/eforms/eforms-sdk/1.14.0/eforms-sdk-1.14.0.pom
+io/avaje/avaje-inject-parent/12.1-RC6/avaje-inject-parent-12.1-RC6.pom
+io/avaje/avaje-prisms-parent/2.0-RC1/avaje-prisms-parent-2.0-RC1.pom
+io/avaje/avaje-prisms-parent/2.0-RC2/avaje-prisms-parent-2.0-RC2.pom
+io/avaje/avaje-spi-parent/2.14-RC1/avaje-spi-parent-2.14-RC1.pom
+io/smallrye/jandex-parent/3.5.3/jandex-parent-3.5.3.pom
+org/apache/commons/commons-exec/1.6.0/commons-exec-1.6.0.pom
+org/apache/datasketches/datasketches-java/9.0.0/datasketches-java-9.0.0.pom
+org/codehaus/plexus/plexus-testing/2.0.2/plexus-testing-2.0.2.pom
+org/metricshub/community-connectors/1.0.17/community-connectors-1.0.17.pom
+org/metricshub/metricshub-community/1.0.14/metricshub-community-1.0.14.pom
+org/spdx/java-spdx-library/2.0.2/java-spdx-library-2.0.2.pom
+org/spdx/spdx-java-core/1.0.2/spdx-java-core-1.0.2.pom
+   from mvn: 2837 - non-mvn: 9116 - buildinfo: 1 - module: 4745 - gradle timestamp: 3499 - atlasdb: 0 = 0 release
