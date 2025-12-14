@@ -18828,3 +18828,17 @@ org/eclipse/jetty/jetty-project/12.0.31/jetty-project-12.0.31.pom
 org/eclipse/jetty/jetty-project/12.1.5/jetty-project-12.1.5.pom
 org/webjars/font-awesome/7.1.0/font-awesome-7.1.0.pom
    from mvn: 5225 - non-mvn: 11201 - buildinfo: 1 - module: 12369 - gradle timestamp: 8157 - atlasdb: 0 = 0 release
+20251206
+com/flowlogix/checkstyle/93/checkstyle-93-build.pom
+com/flowlogix/infra-pom/93/infra-pom-93-build.pom
+com/flowlogix/infra-pom/93/infra-pom-93.pom
+com/github/hazendaz/displaytag-doc/2.10.0/displaytag-doc-2.10.0.pom
+com/github/hazendaz/displaytag-doc/3.5.0/displaytag-doc-3.5.0.pom
+com/github/hazendaz/httpunit/httpunit/1.16.0/httpunit-1.16.0.pom
+com/github/hazendaz/maven/htmlcompressor-maven-plugin/1.13.0/htmlcompressor-maven-plugin-1.13.0.pom
+com/github/hazendaz/maven/htmlcompressor-maven-plugin/2.4.0/htmlcompressor-maven-plugin-2.4.0.pom
+org/glassfish/main/nucleus-parent/7.1.0/nucleus-parent-7.1.0.pom
+org/jpmml/jpmml-codemodel/1.2.1/jpmml-codemodel-1.2.1.pom
+org/jpmml/jpmml-sklearn/1.9.20/jpmml-sklearn-1.9.20.pom
+org/jpmml/jpmml-transpiler/1.4.7/jpmml-transpiler-1.4.7.pom
+   from mvn: 1682 - non-mvn: 3578 - buildinfo: 0 - module: 1678 - gradle timestamp: 1673 - atlasdb: 0 = 0 release
