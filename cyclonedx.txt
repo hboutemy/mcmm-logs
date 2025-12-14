@@ -4039,6 +4039,7 @@ org.docx4j:docx4j-documents4j-local
 org.docx4j:docx4j-documents4j-remote
 org.docx4j:docx4j-docx-anon
 org.docx4j:docx4j-export-fo
+org.docx4j:docx4j-export-fo-fonts-symbol
 org.docx4j:docx4j-legacy-service
 org.docx4j:docx4j-openxml-objects
 org.docx4j:docx4j-openxml-objects-pml

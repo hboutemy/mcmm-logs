@@ -1,0 +1,2 @@
+org/opendaylight/mdsal/mdsal-sbom-14.0.20.spdx
+org/spdx/tools-java/2.0.4/tools-java-2.0.4.spdx.json

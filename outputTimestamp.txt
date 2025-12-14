@@ -18792,3 +18792,16 @@ io/streamnative/pulsar/4.1.0.9/pulsar-4.1.0.9.pom
 io/telicent/jena/rdf-abac/1.1.3/rdf-abac-1.1.3.pom
 org/apache/maven/release/maven-release/3.3.0/maven-release-3.3.0.pom
    from mvn: 5304 - non-mvn: 6413 - buildinfo: 0 - module: 5402 - gradle timestamp: 2954 - atlasdb: 0 = 0 release
+20251204
+eu/maveniverse/maven/mima/mima/2.4.37/mima-2.4.37.pom
+eu/maveniverse/maven/parent/parent/46/parent-46.pom
+eu/maveniverse/maven/toolbox/toolbox/0.14.6/toolbox-0.14.6.pom
+io/avaje/avaje-jsonb-parent/3.9-RC3/avaje-jsonb-parent-3.9-RC3.pom
+io/avaje/avaje-validator-parent/2.15-RC3/avaje-validator-parent-2.15-RC3.pom
+io/github/heiye115/hyperliquid-java-sdk/0.2.2/hyperliquid-java-sdk-0.2.2.pom
+io/github/ollama4j/ollama4j/1.1.6/ollama4j-1.1.6.pom
+io/javalin/javalin-parent/7.0.0-alpha.3/javalin-parent-7.0.0-alpha.3.pom
+io/micronaut/maven/micronaut-maven-plugin-parent/4.11.4/micronaut-maven-plugin-parent-4.11.4.pom
+io/telicent/jena/jena-kafka/2.3.1/jena-kafka-2.3.1.pom
+io/telicent/smart-caches/graph/scg-base/0.92.3/scg-base-0.92.3.pom
+   from mvn: 3622 - non-mvn: 8039 - buildinfo: 0 - module: 8608 - gradle timestamp: 6215 - atlasdb: 0 = 0 release
