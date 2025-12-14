@@ -1785,3 +1785,11 @@ com/flowlogix/infra-pom/92/infra-pom-92-build.pom
 com/flowlogix/payara-pom/92/payara-pom-92-build.pom
 eu/maveniverse/maven/mason/mason-parent/0.2.2/mason-parent-0.2.2-build.pom
 eu/maveniverse/maven/mason/mason/0.2.2/mason-0.2.2-build.pom
+20251206
+com/flowlogix/archetypes/starter/105/starter-105-build.pom
+com/flowlogix/archetypes/starter/106/starter-106-build.pom
+com/flowlogix/archetypes/starter/107/starter-107-build.pom
+com/flowlogix/base-pom/93/base-pom-93-build.pom
+com/flowlogix/checkstyle/93/checkstyle-93-build.pom
+com/flowlogix/infra-pom/93/infra-pom-93-build.pom
+com/flowlogix/payara-pom/93/payara-pom-93-build.pom

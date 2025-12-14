@@ -18805,3 +18805,26 @@ io/micronaut/maven/micronaut-maven-plugin-parent/4.11.4/micronaut-maven-plugin-p
 io/telicent/jena/jena-kafka/2.3.1/jena-kafka-2.3.1.pom
 io/telicent/smart-caches/graph/scg-base/0.92.3/scg-base-0.92.3.pom
    from mvn: 3622 - non-mvn: 8039 - buildinfo: 0 - module: 8608 - gradle timestamp: 6215 - atlasdb: 0 = 0 release
+20251205
+at/yawk/lz4/lz4-java/1.10.1/lz4-java-1.10.1.pom
+com/fasterxml/uuid/java-uuid-generator/5.2.0/java-uuid-generator-5.2.0.pom
+com/flowlogix/checkstyle/92/checkstyle-92-build.pom
+com/flowlogix/infra-pom/92/infra-pom-92-build.pom
+com/flowlogix/infra-pom/92/infra-pom-92.pom
+com/github/hazendaz/htmlcompressor/1.12.1/htmlcompressor-1.12.1.pom
+com/github/hazendaz/htmlcompressor/2.3.1/htmlcompressor-2.3.1.pom
+com/github/marschall/jfr-jdbc/0.5.0/jfr-jdbc-0.5.0.pom
+com/spotify/github-client/0.5.4/github-client-0.5.4.pom
+com/topicus-keyhub/sdk-java/45.0.0/sdk-java-45.0.0.pom
+eu/maveniverse/maven/mimir/mimir/0.10.6/mimir-0.10.6.pom
+eu/maveniverse/maven/toolbox/toolbox/0.14.7/toolbox-0.14.7.pom
+io/airlift/airbase-policy/332/airbase-policy-332.pom
+io/airlift/airbase/332/airbase-332.pom
+io/avaje/avaje-http-parent/3.6-RC4/avaje-http-parent-3.6-RC4.pom
+io/github/rockcrafters/rockcraft-parent/1.2.2/rockcraft-parent-1.2.2.pom
+io/streamnative/connectors/pulsar-spark-connector_2.13/4.0.1.0/pulsar-spark-connector_2.13-4.0.1.0.pom
+io/wcm/maven/plugins/wcmio-content-package-maven-plugin/2.4.2/wcmio-content-package-maven-plugin-2.4.2.pom
+org/eclipse/jetty/jetty-project/12.0.31/jetty-project-12.0.31.pom
+org/eclipse/jetty/jetty-project/12.1.5/jetty-project-12.1.5.pom
+org/webjars/font-awesome/7.1.0/font-awesome-7.1.0.pom
+   from mvn: 5225 - non-mvn: 11201 - buildinfo: 1 - module: 12369 - gradle timestamp: 8157 - atlasdb: 0 = 0 release
