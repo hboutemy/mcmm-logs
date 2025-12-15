@@ -47,6 +47,7 @@ io.github.ryunen344.webauthn:webauthn2-json-moshi
 io.github.ryunen344.webauthn:webauthn2-json-serialization
 io.opentelemetry.javaagent:opentelemetry-javaagent
 land.oras:oras-java-sdk
+net.dapete:exceptional
 net.dapete:locks
 org.apache.bcel:bcel
 org.apache.commons:commons-beanutils2

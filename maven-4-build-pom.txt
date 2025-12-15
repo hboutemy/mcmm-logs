@@ -1795,3 +1795,5 @@ com/flowlogix/infra-pom/93/infra-pom-93-build.pom
 com/flowlogix/payara-pom/93/payara-pom-93-build.pom
 20251207
 20251208
+20251209
+com/muneebkhawaja/spring-boot-4-openapi-archetype/1.0.0/spring-boot-4-openapi-archetype-1.0.0-build.pom

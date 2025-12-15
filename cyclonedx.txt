@@ -1696,6 +1696,7 @@ jakarta.xml.soap:jakarta.xml.soap-api
 jakarta.xml.ws:jakarta.xml.ws-api
 me.dmmax.akka:akka-spawn-protocol
 me.dmmax.akka:akka-spawn-protocol-guice
+net.dapete:exceptional
 net.dapete:locks
 net.e175.klaus:solarpositioning
 net.intelie.pipes:pipes
@@ -5368,6 +5369,7 @@ org.jdbi:jdbi3-guava
 org.jdbi:jdbi3-guava-cache
 org.jdbi:jdbi3-guice
 org.jdbi:jdbi3-jackson2
+org.jdbi:jdbi3-jackson3
 org.jdbi:jdbi3-java21
 org.jdbi:jdbi3-jodatime2
 org.jdbi:jdbi3-jpa
@@ -7178,6 +7180,7 @@ org.openl.jgit:org.eclipse.jgit.ssh.apache.agent
 org.openl.jgit:org.eclipse.jgit.ssh.jsch
 org.openl.jgit:org.eclipse.jgit.ui
 org.orekit:orekit
+org.orekit:rugged
 org.owasp.antisamy:antisamy
 org.owasp.esapi:esapi
 org.primefaces.extensions:primefaces-extensions
