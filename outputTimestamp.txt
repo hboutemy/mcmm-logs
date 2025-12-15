@@ -18943,3 +18943,13 @@ org/apache/jackrabbit/jackrabbit-parent/2.23.3-beta/jackrabbit-parent-2.23.3-bet
 org/finos/legend/engine/legend-engine/4.114.2/legend-engine-4.114.2.pom
 org/finos/legend/engine/legend-engine/4.115.0/legend-engine-4.115.0.pom
    from mvn: 6362 - non-mvn: 5829 - buildinfo: 1 - module: 4546 - gradle timestamp: 3267 - atlasdb: 0 = 0 release
+20251212
+com/elharo/propernouns/1.0.4/propernouns-1.0.4.pom
+eu/maveniverse/maven/toolbox/toolbox/0.14.8/toolbox-0.14.8.pom
+io/github/heiye115/hyperliquid-java-sdk/0.2.4/hyperliquid-java-sdk-0.2.4.pom
+net/sourceforge/pmd/pmd-designer/7.19.2/pmd-designer-7.19.2.pom
+nl/basjes/codeowners/codeowners-parent/1.14.1/codeowners-parent-1.14.1.pom
+org/apache/sling/org.apache.sling.starter.test-services/14/org.apache.sling.starter.test-services-14.pom
+org/apache/turbine/turbine-webapp/7.0/turbine-webapp-7.0.pom
+org/eclipse/jgit/org.eclipse.jgit-parent/7.5.0.202512021534-r/org.eclipse.jgit-parent-7.5.0.202512021534-r.pom
+   from mvn: 3218 - non-mvn: 4662 - buildinfo: 85 - module: 3457 - gradle timestamp: 2038 - atlasdb: 0 = 0 release

@@ -144,6 +144,15 @@ com.io7m.anethum:com.io7m.anethum
 com.io7m.anethum:com.io7m.anethum.api
 com.io7m.anethum:com.io7m.anethum.slf4j
 com.io7m.anethum:com.io7m.anethum.tests
+com.io7m.aurantium:com.io7m.aurantium
+com.io7m.aurantium:com.io7m.aurantium.api
+com.io7m.aurantium:com.io7m.aurantium.json.schemagen
+com.io7m.aurantium:com.io7m.aurantium.parser.api
+com.io7m.aurantium:com.io7m.aurantium.specification
+com.io7m.aurantium:com.io7m.aurantium.tests
+com.io7m.aurantium:com.io7m.aurantium.validation.api
+com.io7m.aurantium:com.io7m.aurantium.vanilla
+com.io7m.aurantium:com.io7m.aurantium.writer.api
 com.io7m.blackthorne:com.io7m.blackthorne
 com.io7m.blackthorne:com.io7m.blackthorne.api
 com.io7m.blackthorne:com.io7m.blackthorne.core
