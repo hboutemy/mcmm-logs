@@ -18953,3 +18953,13 @@ org/apache/sling/org.apache.sling.starter.test-services/14/org.apache.sling.star
 org/apache/turbine/turbine-webapp/7.0/turbine-webapp-7.0.pom
 org/eclipse/jgit/org.eclipse.jgit-parent/7.5.0.202512021534-r/org.eclipse.jgit-parent-7.5.0.202512021534-r.pom
    from mvn: 3218 - non-mvn: 4662 - buildinfo: 85 - module: 3457 - gradle timestamp: 2038 - atlasdb: 0 = 0 release
+20251213
+com/github/tomcat-slf4j-logback/tomcat-slf4j-logback-parent/1.8.0/tomcat-slf4j-logback-parent-1.8.0.pom
+io/github/heiye115/hyperliquid-java-sdk/0.2.5/hyperliquid-java-sdk-0.2.5.pom
+io/streamnative/buildtools/4.0.8.2/buildtools-4.0.8.2.pom
+io/streamnative/pulsar-bom/4.0.8.2/pulsar-bom-4.0.8.2.pom
+io/streamnative/pulsar/4.0.8.2/pulsar-4.0.8.2.pom
+org/apache/camel/camel/4.10.8/camel-4.10.8.pom
+org/apache/maven/release/maven-release/3.3.1/maven-release-3.3.1.pom
+org/apache/nifi/nifi/2.7.1/nifi-2.7.1.pom
+   from mvn: 2114 - non-mvn: 4020 - buildinfo: 0 - module: 2890 - gradle timestamp: 2056 - atlasdb: 0 = 0 release

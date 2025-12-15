@@ -1801,3 +1801,4 @@ com/muneebkhawaja/spring-boot-4-openapi-archetype/1.0.0/spring-boot-4-openapi-ar
 20251211
 20251212
 20251213
+20251214
