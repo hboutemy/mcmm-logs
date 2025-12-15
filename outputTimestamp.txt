@@ -18842,3 +18842,16 @@ org/jpmml/jpmml-codemodel/1.2.1/jpmml-codemodel-1.2.1.pom
 org/jpmml/jpmml-sklearn/1.9.20/jpmml-sklearn-1.9.20.pom
 org/jpmml/jpmml-transpiler/1.4.7/jpmml-transpiler-1.4.7.pom
    from mvn: 1682 - non-mvn: 3578 - buildinfo: 0 - module: 1678 - gradle timestamp: 1673 - atlasdb: 0 = 0 release
+20251207
+com/github/hazendaz/jmockit/jmockit-parent/2.1.0/jmockit-parent-2.1.0.pom
+com/github/hazendaz/maven/makeself-maven-plugin/1.10.1/makeself-maven-plugin-1.10.1.pom
+com/github/hazendaz/maven/smartsprites-maven-plugin/2.4.1/smartsprites-maven-plugin-2.4.1.pom
+com/github/hazendaz/maven/whitespace-maven-plugin/1.6.0/whitespace-maven-plugin-1.6.0.pom
+com/github/hazendaz/sitemesh/2.5.4/sitemesh-2.5.4.pom
+com/github/hazendaz/sitemesh/2.6.2/sitemesh-2.6.2.pom
+com/github/hazendaz/smartsprites/0.4.1/smartsprites-0.4.1.pom
+com/github/marschall/memoryfilesystem-junit-provider/2.0.1/memoryfilesystem-junit-provider-2.0.1.pom
+com/hibegin/zrlog-base/3.2.124/zrlog-base-3.2.124.pom
+io/github/chains-project/maven-lockfile-parent/5.10.1-beta-4/maven-lockfile-parent-5.10.1-beta-4.pom
+org/apache/commons/commons-text/1.15.0/commons-text-1.15.0.pom
+   from mvn: 584 - non-mvn: 1391 - buildinfo: 0 - module: 826 - gradle timestamp: 657 - atlasdb: 0 = 0 release
