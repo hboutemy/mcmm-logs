@@ -18932,3 +18932,14 @@ io/liftwizard/liftwizard-minimal-parent/2.1.36/liftwizard-minimal-parent-2.1.36.
 io/quarkus/quarkus-parent/3.30.3/quarkus-parent-3.30.3.pom
 us/abstracta/jmeter/jmeter-java-dsl-parent/2.2/jmeter-java-dsl-parent-2.2.pom
    from mvn: 5648 - non-mvn: 5936 - buildinfo: 1 - module: 5032 - gradle timestamp: 2786 - atlasdb: 0 = 0 release
+20251211
+ch/qos/logback/logback-parent/1.5.22/logback-parent-1.5.22.pom
+com/spotify/github-client/0.5.5/github-client-0.5.5.pom
+io/github/rockcrafters/rockcraft-parent/1.2.4/rockcraft-parent-1.2.4.pom
+io/telicent/jena/rdf-abac/1.1.4/rdf-abac-1.1.4.pom
+io/telicent/smart-caches/graph/scg-base/0.92.5/scg-base-0.92.5.pom
+nl/basjes/codeowners/codeowners-parent/1.14.0/codeowners-parent-1.14.0.pom
+org/apache/jackrabbit/jackrabbit-parent/2.23.3-beta/jackrabbit-parent-2.23.3-beta.pom
+org/finos/legend/engine/legend-engine/4.114.2/legend-engine-4.114.2.pom
+org/finos/legend/engine/legend-engine/4.115.0/legend-engine-4.115.0.pom
+   from mvn: 6362 - non-mvn: 5829 - buildinfo: 1 - module: 4546 - gradle timestamp: 3267 - atlasdb: 0 = 0 release

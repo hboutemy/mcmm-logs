@@ -3997,6 +3997,7 @@ org.apache.syncope:syncope-wa
 org.apache.tsfile:tsfile-parent
 org.apache.turbine:turbine
 org.apache.turbine:turbine-parent
+org.apache.turbine:turbine-webapp
 org.apache.wss4j:wss4j
 org.apache.wss4j:wss4j-bindings
 org.apache.wss4j:wss4j-integration
