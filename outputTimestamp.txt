@@ -18922,3 +18922,13 @@ org/infinispan/infinispan-build-configuration-parent/16.1.0.Dev01/infinispan-bui
 org/jdbi/internal/jdbi3-root/3.51.0/jdbi3-root-3.51.0.pom
 org/jpmml/jpmml-r/1.7.5/jpmml-r-1.7.5.pom
    from mvn: 5394 - non-mvn: 7116 - buildinfo: 0 - module: 4642 - gradle timestamp: 3035 - atlasdb: 0 = 0 release
+20251210
+com/vegardit/maven/vegardit-maven-parent/7.0.0/vegardit-maven-parent-7.0.0.pom
+io/avaje/avaje-aws-appconfig/1.6/avaje-aws-appconfig-1.6.pom
+io/avaje/avaje-http-parent/3.7-RC1/avaje-http-parent-3.7-RC1.pom
+io/avaje/avaje-inject-parent/12.2-RC1/avaje-inject-parent-12.2-RC1.pom
+io/github/heiye115/hyperliquid-java-sdk/0.2.3/hyperliquid-java-sdk-0.2.3.pom
+io/liftwizard/liftwizard-minimal-parent/2.1.36/liftwizard-minimal-parent-2.1.36.pom
+io/quarkus/quarkus-parent/3.30.3/quarkus-parent-3.30.3.pom
+us/abstracta/jmeter/jmeter-java-dsl-parent/2.2/jmeter-java-dsl-parent-2.2.pom
+   from mvn: 5648 - non-mvn: 5936 - buildinfo: 1 - module: 5032 - gradle timestamp: 2786 - atlasdb: 0 = 0 release

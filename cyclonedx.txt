@@ -672,6 +672,11 @@ com.io7m.stonesignal:com.io7m.stonesignal.tests
 com.io7m.streamtime:com.io7m.streamtime
 com.io7m.streamtime:com.io7m.streamtime.core
 com.io7m.streamtime:com.io7m.streamtime.tests
+com.io7m.sumjack:com.io7m.sumjack
+com.io7m.sumjack:com.io7m.sumjack.bom
+com.io7m.sumjack:com.io7m.sumjack.core
+com.io7m.sumjack:com.io7m.sumjack.lanark
+com.io7m.sumjack:com.io7m.sumjack.tests
 com.io7m.sunburst:com.io7m.sunburst
 com.io7m.sunburst:com.io7m.sunburst.codegen
 com.io7m.sunburst:com.io7m.sunburst.documentation
