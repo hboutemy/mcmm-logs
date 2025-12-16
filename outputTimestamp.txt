@@ -18963,3 +18963,13 @@ org/apache/camel/camel/4.10.8/camel-4.10.8.pom
 org/apache/maven/release/maven-release/3.3.1/maven-release-3.3.1.pom
 org/apache/nifi/nifi/2.7.1/nifi-2.7.1.pom
    from mvn: 2114 - non-mvn: 4020 - buildinfo: 0 - module: 2890 - gradle timestamp: 2056 - atlasdb: 0 = 0 release
+20251214
+com/github/hazendaz/maven/makeself-maven-plugin/1.11.0/makeself-maven-plugin-1.11.0.pom
+com/github/hazendaz/sitemesh/2.5.5/sitemesh-2.5.5.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-16/spoon-pom-11.2.2-beta-16.pom
+io/github/chains-project/maven-lockfile-parent/5.11.1-beta-1/maven-lockfile-parent-5.11.1-beta-1.pom
+io/liftwizard/liftwizard-minimal-parent/2.1.37/liftwizard-minimal-parent-2.1.37.pom
+org/apache/commons/commons-jexl3/3.6.1/commons-jexl3-3.6.1.pom
+org/mybatis/mybatis-typehandlers-threeten-extra/1.1.1/mybatis-typehandlers-threeten-extra-1.1.1.pom
+org/mybatis/scripting/mybatis-velocity/2.3.1/mybatis-velocity-2.3.1.pom
+   from mvn: 882 - non-mvn: 2882 - buildinfo: 36 - module: 1331 - gradle timestamp: 790 - atlasdb: 0 = 0 release
