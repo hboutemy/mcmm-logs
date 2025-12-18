@@ -18996,3 +18996,22 @@ org/gosu-lang/gosu/gosu-parent/1.18.5-incremental-alpha-1/gosu-parent-1.18.5-inc
 org/jpmml/jpmml-r/1.7.6/jpmml-r-1.7.6.pom
 org/jpmml/jpmml-r/1.7.7/jpmml-r-1.7.7.pom
    from mvn: 5238 - non-mvn: 4454 - buildinfo: 0 - module: 4543 - gradle timestamp: 3024 - atlasdb: 0 = 0 release
+20251216
+at/yawk/lz4/lz4-java/1.10.2/lz4-java-1.10.2.pom
+com/flowlogix/checkstyle/96/checkstyle-96-build.pom
+com/flowlogix/infra-pom/96/infra-pom-96-build.pom
+com/flowlogix/infra-pom/96/infra-pom-96.pom
+commons-daemon/commons-daemon/1.5.1/commons-daemon-1.5.1.pom
+de/gematik/pki/gemLibPki/3.4.0/gemLibPki-3.4.0.pom
+eu/maveniverse/maven/mima/mima/2.4.38/mima-2.4.38.pom
+eu/maveniverse/maven/parent/parent/47/parent-47.pom
+eu/maveniverse/maven/toolbox/toolbox/0.14.9/toolbox-0.14.9.pom
+io/avaje/avaje-config-toml/5.0/avaje-config-toml-5.0.pom
+io/avaje/avaje-config/5.0/avaje-config-5.0.pom
+io/avaje/avaje-dynamic-logback/2.0/avaje-dynamic-logback-2.0.pom
+io/github/heiye115/hyperliquid-java-sdk/0.2.7/hyperliquid-java-sdk-0.2.7.pom
+io/yupiik/maven/yupiik-tools-maven-plugin-parent/1.2.13/yupiik-tools-maven-plugin-parent-1.2.13.pom
+net/osslabz/evm-abi-decoder/0.1.2/evm-abi-decoder-0.1.2.pom
+org/apache/commons/commons-dbcp2/2.14.0/commons-dbcp2-2.14.0.pom
+org/apache/maven/maven/3.9.12/maven-3.9.12.pom
+   from mvn: 6154 - non-mvn: 6376 - buildinfo: 0 - module: 6436 - gradle timestamp: 4739 - atlasdb: 0 = 0 release

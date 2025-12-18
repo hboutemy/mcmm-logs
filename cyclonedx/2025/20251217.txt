@@ -1,0 +1,8 @@
+com/io7m/nanohttpd/nanohttpd-apache-fileupload/3.0.0-palace0001/nanohttpd-apache-fileupload-3.0.0-palace0001-cyclonedx.xml
+com/io7m/nanohttpd/nanohttpd-nanolets/3.0.0-palace0001/nanohttpd-nanolets-3.0.0-palace0001-cyclonedx.xml
+com/io7m/nanohttpd/nanohttpd-project/3.0.0-palace0001/nanohttpd-project-3.0.0-palace0001-cyclonedx.xml
+com/io7m/nanohttpd/nanohttpd-webserver/3.0.0-palace0001/nanohttpd-webserver-3.0.0-palace0001-cyclonedx.xml
+com/io7m/nanohttpd/nanohttpd-websocket/3.0.0-palace0001/nanohttpd-websocket-3.0.0-palace0001-cyclonedx.xml
+com/io7m/nanohttpd/nanohttpd/3.0.0-palace0001/nanohttpd-3.0.0-palace0001-cyclonedx.xml
+net/e175/klaus/solarpositioning/2.0.12/solarpositioning-2.0.12-cyclonedx.json
+net/e175/klaus/solarpositioning/2.0.12/solarpositioning-2.0.12-cyclonedx.xml

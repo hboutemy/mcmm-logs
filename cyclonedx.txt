@@ -629,6 +629,12 @@ com.io7m.montarre:com.io7m.montarre.nativepack
 com.io7m.montarre:com.io7m.montarre.schema
 com.io7m.montarre:com.io7m.montarre.tests
 com.io7m.montarre:com.io7m.montarre.xml
+com.io7m.nanohttpd:nanohttpd
+com.io7m.nanohttpd:nanohttpd-apache-fileupload
+com.io7m.nanohttpd:nanohttpd-nanolets
+com.io7m.nanohttpd:nanohttpd-project
+com.io7m.nanohttpd:nanohttpd-webserver
+com.io7m.nanohttpd:nanohttpd-websocket
 com.io7m.pallene:com.io7m.pallene
 com.io7m.peixoto:com.io7m.peixoto
 com.io7m.peixoto:com.io7m.peixoto.sdk
