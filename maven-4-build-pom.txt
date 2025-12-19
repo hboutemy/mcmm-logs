@@ -1825,3 +1825,5 @@ com/flowlogix/checkstyle/96/checkstyle-96-build.pom
 com/flowlogix/infra-pom/96/infra-pom-96-build.pom
 com/flowlogix/payara-pom/96/payara-pom-96-build.pom
 20251217
+20251218
+com/flowlogix/archetypes/starter/111/starter-111-build.pom

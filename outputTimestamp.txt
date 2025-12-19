@@ -19015,3 +19015,24 @@ net/osslabz/evm-abi-decoder/0.1.2/evm-abi-decoder-0.1.2.pom
 org/apache/commons/commons-dbcp2/2.14.0/commons-dbcp2-2.14.0.pom
 org/apache/maven/maven/3.9.12/maven-3.9.12.pom
    from mvn: 6154 - non-mvn: 6376 - buildinfo: 0 - module: 6436 - gradle timestamp: 4739 - atlasdb: 0 = 0 release
+20251217
+eu/maveniverse/maven/mima/mima/2.4.39/mima-2.4.39.pom
+eu/maveniverse/maven/nisse/nisse/0.6.3/nisse-0.6.3.pom
+eu/maveniverse/maven/parent/parent/48/parent-48.pom
+eu/maveniverse/maven/toolbox/toolbox/0.15.0/toolbox-0.15.0.pom
+io/airlift/airbase-policy/336/airbase-policy-336.pom
+io/airlift/airbase/336/airbase-336.pom
+io/avaje/avaje-inject-parent/12.2-javax/avaje-inject-parent-12.2-javax.pom
+io/avaje/avaje-inject-parent/12.2/avaje-inject-parent-12.2.pom
+io/avaje/avaje-jex-parent/3.4-RC3/avaje-jex-parent-3.4-RC3.pom
+io/quarkus/quarkus-parent/3.30.4/quarkus-parent-3.30.4.pom
+io/streamnative/buildtools/4.1.0.10/buildtools-4.1.0.10.pom
+io/streamnative/pulsar-bom/4.1.0.10/pulsar-bom-4.1.0.10.pom
+io/streamnative/pulsar/4.1.0.10/pulsar-4.1.0.10.pom
+org/apache/nifi/nifi/2.7.2/nifi-2.7.2.pom
+org/finos/legend/engine/legend-engine/4.116.0/legend-engine-4.116.0.pom
+org/infinispan/infinispan-build-configuration-parent/16.0.4/infinispan-build-configuration-parent-16.0.4.pom
+org/wso2/org/apache/commons/commons-vfs2-distribution/2.10.0-wso2v5/commons-vfs2-distribution-2.10.0-wso2v5.pom
+org/wso2/org/apache/commons/commons-vfs2-project/2.10.0-wso2v5/commons-vfs2-project-2.10.0-wso2v5.pom
+org/wso2/org/apache/commons/commons-vfs2/2.10.0-wso2v5/commons-vfs2-2.10.0-wso2v5.pom
+   from mvn: 6131 - non-mvn: 6969 - buildinfo: 0 - module: 6088 - gradle timestamp: 4414 - atlasdb: 0 = 0 release
