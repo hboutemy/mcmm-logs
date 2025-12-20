@@ -19036,3 +19036,20 @@ org/wso2/org/apache/commons/commons-vfs2-distribution/2.10.0-wso2v5/commons-vfs2
 org/wso2/org/apache/commons/commons-vfs2-project/2.10.0-wso2v5/commons-vfs2-project-2.10.0-wso2v5.pom
 org/wso2/org/apache/commons/commons-vfs2/2.10.0-wso2v5/commons-vfs2-2.10.0-wso2v5.pom
    from mvn: 6131 - non-mvn: 6969 - buildinfo: 0 - module: 6088 - gradle timestamp: 4414 - atlasdb: 0 = 0 release
+20251218
+eu/europa/ec/joinup/sat/jdplus-benchmarking-bom/2.1.0/jdplus-benchmarking-bom-2.1.0.pom
+eu/europa/ec/joinup/sat/jdplus-benchmarking/2.1.0/jdplus-benchmarking-2.1.0.pom
+eu/maveniverse/maven/parent/parent/49/parent-49.pom
+eu/maveniverse/maven/shared/shared/0.1.10/shared-0.1.10.pom
+fr/acinq/bitcoin-lib_2.13/0.46/bitcoin-lib_2.13-0.46.pom
+io/cucumber/messages/31.0.1/messages-31.0.1.pom
+io/github/cbarlin/aru-parent/0.7.2/aru-parent-0.7.2.pom
+io/github/heiye115/hyperliquid-java-sdk/0.2.8/hyperliquid-java-sdk-0.2.8.pom
+io/kokuwa/maven/k3s-maven-plugin/2.0.3/k3s-maven-plugin-2.0.3.pom
+org/basepom/basepom-foundation/67/basepom-foundation-67.pom
+org/craftercms/mariaDB4j/mariaDB4j-pom/3.3.0.0/mariaDB4j-pom-3.3.0.0.pom
+org/glassfish/main/glassfish-main-aggregator/8.0.0-DONTPUBLISH/glassfish-main-aggregator-8.0.0-DONTPUBLISH.pom
+org/glassfish/main/nucleus-parent/8.0.0-DONTPUBLISH/nucleus-parent-8.0.0-DONTPUBLISH.pom
+org/infinispan/infinispan-build-configuration-parent/16.0.5/infinispan-build-configuration-parent-16.0.5.pom
+org/infinispan/protostream/parent/6.0.3/parent-6.0.3.pom
+   from mvn: 8404 - non-mvn: 6432 - buildinfo: 0 - module: 5319 - gradle timestamp: 3759 - atlasdb: 0 = 0 release
