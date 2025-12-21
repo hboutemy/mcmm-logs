@@ -19053,3 +19053,20 @@ org/glassfish/main/nucleus-parent/8.0.0-DONTPUBLISH/nucleus-parent-8.0.0-DONTPUB
 org/infinispan/infinispan-build-configuration-parent/16.0.5/infinispan-build-configuration-parent-16.0.5.pom
 org/infinispan/protostream/parent/6.0.3/parent-6.0.3.pom
    from mvn: 8404 - non-mvn: 6432 - buildinfo: 0 - module: 5319 - gradle timestamp: 3759 - atlasdb: 0 = 0 release
+20251219
+com/github/nbbrd/java-desktop-util/java-desktop-util-bom/2.6.0/java-desktop-util-bom-2.6.0.pom
+com/github/nbbrd/java-desktop-util/java-desktop-util-parent/2.6.0/java-desktop-util-parent-2.6.0.pom
+eu/maveniverse/maven/bom-builder/bom-builder/1.3.2/bom-builder-1.3.2.pom
+eu/maveniverse/maven/maven-boms/maven-boms/3.9.12-01/maven-boms-3.9.12-01.pom
+eu/maveniverse/maven/mimir/mimir/0.11.0/mimir-0.11.0.pom
+eu/maveniverse/maven/nisse/nisse/0.7.0/nisse-0.7.0.pom
+io/avaje/avaje-validator-parent/2.16-RC1/avaje-validator-parent-2.16-RC1.pom
+io/cucumber/cucumber-parent/4.6.0/cucumber-parent-4.6.0.pom
+net/bytebuddy/byte-buddy-agent/1.18.3/byte-buddy-agent-1.18.3.pom
+net/bytebuddy/byte-buddy-dep/1.18.3/byte-buddy-dep-1.18.3.pom
+net/bytebuddy/byte-buddy-parent/1.18.3/byte-buddy-parent-1.18.3.pom
+net/osslabz/evm-abi-decoder/0.1.3/evm-abi-decoder-0.1.3.pom
+net/osslabz/evm-abi-decoder/0.1.4/evm-abi-decoder-0.1.4.pom
+org/infinispan/infinispan-build-configuration-parent/16.1.0.Dev02/infinispan-build-configuration-parent-16.1.0.Dev02.pom
+org/jpmml/jpmml-converter/1.6.6/jpmml-converter-1.6.6.pom
+   from mvn: 4732 - non-mvn: 4856 - buildinfo: 0 - module: 3823 - gradle timestamp: 2477 - atlasdb: 0 = 0 release

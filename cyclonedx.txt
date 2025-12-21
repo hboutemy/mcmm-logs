@@ -4066,6 +4066,9 @@ org.docx4j:docx4j-documents4j-local
 org.docx4j:docx4j-documents4j-remote
 org.docx4j:docx4j-docx-anon
 org.docx4j:docx4j-export-fo
+org.docx4j:docx4j-export-fo-fonts-croscore
+org.docx4j:docx4j-export-fo-fonts-crosextra
+org.docx4j:docx4j-export-fo-fonts-liberation
 org.docx4j:docx4j-export-fo-fonts-symbol
 org.docx4j:docx4j-legacy-service
 org.docx4j:docx4j-openxml-objects

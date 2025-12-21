@@ -1833,3 +1833,7 @@ com/flowlogix/depchain/depchain/104/depchain-104-build.pom
 com/flowlogix/depchain/integration-test/104/integration-test-104-build.pom
 com/flowlogix/depchain/shiro-jakarta/104/shiro-jakarta-104-build.pom
 com/flowlogix/depchain/unit-test/104/unit-test-104-build.pom
+20251220
+com/flowlogix/plugins/container-deploy-plugin-root/1.0/container-deploy-plugin-root-1.0-build.pom
+com/flowlogix/plugins/container-deploy-plugin/1.0/container-deploy-plugin-1.0-build.pom
+com/flowlogix/plugins/live-reload/1.0/live-reload-1.0-build.pom
