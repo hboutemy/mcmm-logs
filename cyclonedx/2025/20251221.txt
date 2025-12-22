@@ -1,0 +1,16 @@
+com/flowlogix/archetypes/starter/113/starter-113-cyclonedx.json
+com/flowlogix/archetypes/starter/113/starter-113-cyclonedx.xml
+com/flowlogix/archetypes/starter/114/starter-114-cyclonedx.json
+com/flowlogix/archetypes/starter/114/starter-114-cyclonedx.xml
+com/flowlogix/plugins/container-deploy-plugin-root/1.1/container-deploy-plugin-root-1.1-cyclonedx.json
+com/flowlogix/plugins/container-deploy-plugin-root/1.1/container-deploy-plugin-root-1.1-cyclonedx.xml
+com/flowlogix/plugins/container-deploy-plugin/1.1/container-deploy-plugin-1.1-cyclonedx.xml
+com/flowlogix/plugins/container-deploy-plugin/1.1/container-deploy-plugin-1.1-cyclonedx.json
+com/flowlogix/plugins/live-reload/1.1/live-reload-1.1-cyclonedx.json
+com/flowlogix/plugins/live-reload/1.1/live-reload-1.1-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-17/spoon-pom-11.2.2-beta-17-cyclonedx.json
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-17/spoon-pom-11.2.2-beta-17-cyclonedx.xml
+io/github/chains-project/maven-lockfile-parent/5.11.1-beta-2/maven-lockfile-parent-5.11.1-beta-2-cyclonedx.json
+io/github/chains-project/maven-lockfile-parent/5.11.1-beta-2/maven-lockfile-parent-5.11.1-beta-2-cyclonedx.xml
+io/github/chains-project/maven-lockfile/5.11.1-beta-2/maven-lockfile-5.11.1-beta-2-cyclonedx.xml
+io/github/chains-project/maven-lockfile/5.11.1-beta-2/maven-lockfile-5.11.1-beta-2-cyclonedx.json

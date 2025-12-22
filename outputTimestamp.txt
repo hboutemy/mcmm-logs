@@ -19070,3 +19070,7 @@ net/osslabz/evm-abi-decoder/0.1.4/evm-abi-decoder-0.1.4.pom
 org/infinispan/infinispan-build-configuration-parent/16.1.0.Dev02/infinispan-build-configuration-parent-16.1.0.Dev02.pom
 org/jpmml/jpmml-converter/1.6.6/jpmml-converter-1.6.6.pom
    from mvn: 4732 - non-mvn: 4856 - buildinfo: 0 - module: 3823 - gradle timestamp: 2477 - atlasdb: 0 = 0 release
+20251220
+com/github/hazendaz/maven/makeself-maven-plugin/1.11.1/makeself-maven-plugin-1.11.1.pom
+org/finos/legend/engine/legend-engine/4.116.1/legend-engine-4.116.1.pom
+   from mvn: 2009 - non-mvn: 1844 - buildinfo: 3 - module: 1406 - gradle timestamp: 895 - atlasdb: 0 = 0 release
