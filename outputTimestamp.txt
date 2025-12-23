@@ -19074,3 +19074,28 @@ org/jpmml/jpmml-converter/1.6.6/jpmml-converter-1.6.6.pom
 com/github/hazendaz/maven/makeself-maven-plugin/1.11.1/makeself-maven-plugin-1.11.1.pom
 org/finos/legend/engine/legend-engine/4.116.1/legend-engine-4.116.1.pom
    from mvn: 2009 - non-mvn: 1844 - buildinfo: 3 - module: 1406 - gradle timestamp: 895 - atlasdb: 0 = 0 release
+20251221
+ch/qos/logback/logback-parent/1.5.23/logback-parent-1.5.23.pom
+com/flowlogix/checkstyle/97/checkstyle-97-build.pom
+com/flowlogix/checkstyle/98/checkstyle-98-build.pom
+com/flowlogix/infra-pom/97/infra-pom-97-build.pom
+com/flowlogix/infra-pom/97/infra-pom-97.pom
+com/flowlogix/infra-pom/98/infra-pom-98.pom
+com/flowlogix/infra-pom/98/infra-pom-98-build.pom
+com/github/hypfvieh/dbus-java-bom/5.2.0/dbus-java-bom-5.2.0.pom
+com/github/hypfvieh/dbus-java-core/5.2.0/dbus-java-core-5.2.0.pom
+com/github/hypfvieh/dbus-java-osgi/5.2.0/dbus-java-osgi-5.2.0.pom
+com/github/hypfvieh/dbus-java-parent/5.2.0/dbus-java-parent-5.2.0.pom
+com/github/hypfvieh/dbus-java-tests/5.2.0/dbus-java-tests-5.2.0.pom
+com/github/hypfvieh/dbus-java-transport-jnr-unixsocket/5.2.0/dbus-java-transport-jnr-unixsocket-5.2.0.pom
+com/github/hypfvieh/dbus-java-transport-junixsocket/5.2.0/dbus-java-transport-junixsocket-5.2.0.pom
+com/github/hypfvieh/dbus-java-transport-native-unixsocket/5.2.0/dbus-java-transport-native-unixsocket-5.2.0.pom
+com/github/hypfvieh/dbus-java-transport-tcp/5.2.0/dbus-java-transport-tcp-5.2.0.pom
+com/github/hypfvieh/dbus-java-utils/5.2.0/dbus-java-utils-5.2.0.pom
+eu/maveniverse/maven/shared/shared/0.1.11/shared-0.1.11.pom
+fr/inria/gforge/spoon/spoon-pom/11.2.2-beta-17/spoon-pom-11.2.2-beta-17.pom
+io/github/chains-project/maven-lockfile-parent/5.11.1-beta-2/maven-lockfile-parent-5.11.1-beta-2.pom
+org/apache/wicket/wicket-parent/10.8.0/wicket-parent-10.8.0.pom
+org/codehaus/mojo/exec-maven-plugin/3.6.3/exec-maven-plugin-3.6.3.pom
+org/codehaus/plexus/plexus-languages/1.5.2/plexus-languages-1.5.2.pom
+   from mvn: 1285 - non-mvn: 1313 - buildinfo: 0 - module: 1369 - gradle timestamp: 712 - atlasdb: 0 = 0 release

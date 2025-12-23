@@ -318,6 +318,9 @@ com.io7m.ethermaker:com.io7m.ethermaker.cmdline
 com.io7m.ethermaker:com.io7m.ethermaker.core
 com.io7m.ethermaker:com.io7m.ethermaker.tests
 com.io7m.flail:com.io7m.flail
+com.io7m.flannel:com.io7m.flannel
+com.io7m.flannel:com.io7m.flannel.core
+com.io7m.flannel:com.io7m.flannel.tests
 com.io7m.fsbind:com.io7m.fsbind
 com.io7m.fsbind:com.io7m.fsbind.core
 com.io7m.fsbind:com.io7m.fsbind.tests
