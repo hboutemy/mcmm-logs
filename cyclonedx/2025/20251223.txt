@@ -1,0 +1,2 @@
+net/dapete/exceptional/0.1.2/exceptional-0.1.2-cyclonedx.json
+net/dapete/exceptional/0.1.2/exceptional-0.1.2-cyclonedx.xml
