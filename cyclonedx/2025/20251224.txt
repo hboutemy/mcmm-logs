@@ -1,0 +1,4 @@
+org/apache/maven/maven-archiver/3.6.6/maven-archiver-3.6.6-cyclonedx.json
+org/apache/maven/maven-archiver/3.6.6/maven-archiver-3.6.6-cyclonedx.xml
+org/apache/tsfile/tsfile-parent/1.1.3/tsfile-parent-1.1.3-cyclonedx.json
+org/apache/tsfile/tsfile-parent/1.1.3/tsfile-parent-1.1.3-cyclonedx.xml
