@@ -19118,3 +19118,14 @@ io/cucumber/messages/31.1.0/messages-31.1.0.pom
 org/jpmml/jpmml-lightgbm/1.6.3/jpmml-lightgbm-1.6.3.pom
 org/jpmml/jpmml-python/1.3.12/jpmml-python-1.3.12.pom
    from mvn: 4048 - non-mvn: 3194 - buildinfo: 0 - module: 3298 - gradle timestamp: 2192 - atlasdb: 0 = 0 release
+20251224
+com/elharo/docfix/docfix-parent/1.0.6/docfix-parent-1.0.6.pom
+com/kohlschutter/kohlschutter-parent/1.8.4/kohlschutter-parent-1.8.4.pom
+dev/langchain4j/langchain4j-parent/1.10.0-beta18/langchain4j-parent-1.10.0-beta18.pom
+io/micronaut/maven/micronaut-maven-plugin-parent/4.11.5/micronaut-maven-plugin-parent-4.11.5.pom
+io/quarkus/quarkus-parent/3.30.5/quarkus-parent-3.30.5.pom
+org/apache/maven/maven-archiver/3.6.6/maven-archiver-3.6.6.pom
+org/jpmml/jpmml-h2o/1.3.3/jpmml-h2o-1.3.3.pom
+org/jpmml/jpmml-statsmodels/1.3.6/jpmml-statsmodels-1.3.6.pom
+org/jpmml/jpmml-xgboost/1.9.4/jpmml-xgboost-1.9.4.pom
+   from mvn: 1908 - non-mvn: 2050 - buildinfo: 0 - module: 1572 - gradle timestamp: 552 - atlasdb: 0 = 0 release
