@@ -1,0 +1,2 @@
+net/dapete/exceptional/0.2.0/exceptional-0.2.0.spdx.json
+org/opendaylight/infrautils/infrautils-sbom-7.1.10.spdx
