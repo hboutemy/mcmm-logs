@@ -1,0 +1,14 @@
+com/github/hazendaz/npp/npp/8.9/npp-8.9-cyclonedx.xml
+com/github/hazendaz/npp/npp/8.9/npp-8.9-cyclonedx.json
+fr/inria/gforge/spoon/spoon-pom/11.3.1-beta-1/spoon-pom-11.3.1-beta-1-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-pom/11.3.1-beta-1/spoon-pom-11.3.1-beta-1-cyclonedx.json
+io/github/chains-project/maven-lockfile-parent/5.11.1-beta-3/maven-lockfile-parent-5.11.1-beta-3-cyclonedx.json
+io/github/chains-project/maven-lockfile-parent/5.11.1-beta-3/maven-lockfile-parent-5.11.1-beta-3-cyclonedx.xml
+io/github/chains-project/maven-lockfile/5.11.1-beta-3/maven-lockfile-5.11.1-beta-3-cyclonedx.xml
+io/github/chains-project/maven-lockfile/5.11.1-beta-3/maven-lockfile-5.11.1-beta-3-cyclonedx.json
+org/apache/maven/plugins/maven-jdeprscan-plugin/3.0.0/maven-jdeprscan-plugin-3.0.0-cyclonedx.xml
+org/apache/maven/plugins/maven-jdeprscan-plugin/3.0.0/maven-jdeprscan-plugin-3.0.0-cyclonedx.json
+org/apache/maven/plugins/maven-jmod-plugin/3.0.0/maven-jmod-plugin-3.0.0-cyclonedx.xml
+org/apache/maven/plugins/maven-jmod-plugin/3.0.0/maven-jmod-plugin-3.0.0-cyclonedx.json
+org/apache/maven/plugins/maven-scripting-plugin/3.1.0/maven-scripting-plugin-3.1.0-cyclonedx.xml
+org/apache/maven/plugins/maven-scripting-plugin/3.1.0/maven-scripting-plugin-3.1.0-cyclonedx.json

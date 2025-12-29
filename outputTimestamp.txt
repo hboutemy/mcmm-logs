@@ -19149,3 +19149,11 @@ org/jpmml/jpmml-sparkml/3.0.8/jpmml-sparkml-3.0.8.pom
 org/jpmml/jpmml-sparkml/3.1.8/jpmml-sparkml-3.1.8.pom
 org/jpmml/jpmml-sparkml/3.2.7/jpmml-sparkml-3.2.7.pom
    from mvn: 1774 - non-mvn: 2537 - buildinfo: 1 - module: 2440 - gradle timestamp: 1573 - atlasdb: 0 = 0 release
+20251227
+fr/inria/gforge/spoon/spoon-pom/11.3.0/spoon-pom-11.3.0.pom
+io/streamnative/buildtools/4.1.0.11/buildtools-4.1.0.11.pom
+io/streamnative/pulsar-bom/4.1.0.11/pulsar-bom-4.1.0.11.pom
+io/streamnative/pulsar/4.1.0.11/pulsar-4.1.0.11.pom
+org/jpmml/jpmml-sparkml/3.3.0/jpmml-sparkml-3.3.0.pom
+org/mybatis/mybatis2/2.7.0/mybatis2-2.7.0.pom
+   from mvn: 716 - non-mvn: 3550 - buildinfo: 0 - module: 4577 - gradle timestamp: 739 - atlasdb: 0 = 0 release
