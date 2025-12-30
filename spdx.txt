@@ -164,6 +164,7 @@ org.frankframework:frankframework-security
 org.frankframework:frankframework-test
 org.frankframework:frankframework-tibco
 org.frankframework:frankframework-webapp
+org.frankframework:property-expression-evaluator
 org.ikasan:commons-dbcp2
 org.jetbrains.kotlin:abi-tools
 org.jetbrains.kotlin:abi-tools-api
