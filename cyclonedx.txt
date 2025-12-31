@@ -3573,6 +3573,7 @@ org.apache.ozone:hdds-test-utils
 org.apache.ozone:hdds-tools
 org.apache.ozone:mini-chaos-tests
 org.apache.ozone:ozone
+org.apache.ozone:ozone-cli-admin
 org.apache.ozone:ozone-cli-shell
 org.apache.ozone:ozone-client
 org.apache.ozone:ozone-common
@@ -3587,13 +3588,18 @@ org.apache.ozone:ozone-filesystem-hadoop2
 org.apache.ozone:ozone-filesystem-hadoop3
 org.apache.ozone:ozone-filesystem-hadoop3-client
 org.apache.ozone:ozone-filesystem-shaded
+org.apache.ozone:ozone-freon
 org.apache.ozone:ozone-httpfsgateway
 org.apache.ozone:ozone-insight
 org.apache.ozone:ozone-integration-test
+org.apache.ozone:ozone-integration-test-recon
+org.apache.ozone:ozone-integration-test-s3
 org.apache.ozone:ozone-interface-client
 org.apache.ozone:ozone-interface-storage
 org.apache.ozone:ozone-main
 org.apache.ozone:ozone-manager
+org.apache.ozone:ozone-mini-cluster
+org.apache.ozone:ozone-multitenancy-ranger
 org.apache.ozone:ozone-network-tests
 org.apache.ozone:ozone-recon
 org.apache.ozone:ozone-reconcodegen
