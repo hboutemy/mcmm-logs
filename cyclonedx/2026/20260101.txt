@@ -1,0 +1,8 @@
+edu/hm/hafner/pmd-core/7.20.0-metrics/pmd-core-7.20.0-metrics-cyclonedx.xml
+edu/hm/hafner/pmd-core/7.20.0-metrics/pmd-core-7.20.0-metrics-cyclonedx.json
+edu/hm/hafner/pmd-java/7.20.0-metrics/pmd-java-7.20.0-metrics-cyclonedx.xml
+edu/hm/hafner/pmd-java/7.20.0-metrics/pmd-java-7.20.0-metrics-cyclonedx.json
+org/apache/camel/camel/4.14.3/camel-4.14.3-cyclonedx.xml
+org/apache/camel/camel/4.14.3/camel-4.14.3-cyclonedx.json
+org/apache/camel/springboot/spring-boot/4.14.3/spring-boot-4.14.3-cyclonedx.xml
+org/apache/camel/springboot/spring-boot/4.14.3/spring-boot-4.14.3-cyclonedx.json
