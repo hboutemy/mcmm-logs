@@ -19217,3 +19217,13 @@ org/jpmml/telemetry-client/1.0.2/telemetry-client-1.0.2.pom
 20251231
 org/jpmml/jpmml-sklearn/1.9.22/jpmml-sklearn-1.9.22.pom
    from mvn: 1370 - non-mvn: 1241 - buildinfo: 0 - module: 1051 - gradle timestamp: 448 - atlasdb: 0 = 0 release
+20260101
+io/github/cbarlin/aru-parent/0.7.3/aru-parent-0.7.3.pom
+org/apache/camel/camel/4.14.3/camel-4.14.3.pom
+org/codehaus/mojo/mojo-parent/95/mojo-parent-95.pom
+org/jpmml/jpmml-evaluator-spark/1.4.0/jpmml-evaluator-spark-1.4.0.pom
+org/mybatis/caches/mybatis-memcached/1.2.0/mybatis-memcached-1.2.0.pom
+org/mybatis/jpetstore/6.2.0/jpetstore-6.2.0.pom
+org/mybatis/maven/migrations-maven-plugin/1.3.0/migrations-maven-plugin-1.3.0.pom
+org/mybatis/mybatis-migrations/3.5.0/mybatis-migrations-3.5.0.pom
+   from mvn: 1493 - non-mvn: 2604 - buildinfo: 0 - module: 975 - gradle timestamp: 465 - atlasdb: 0 = 0 release
