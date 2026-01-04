@@ -1,0 +1,5 @@
+com/flowlogix/flowlogix-bom/14/flowlogix-bom-14-cyclonedx.xml
+com/flowlogix/flowlogix-bom/14/flowlogix-bom-14-cyclonedx.json
+de/speedbanking/iban-commons/1.8.1/iban-commons-1.8.1-cyclonedx.xml
+org/apache/maven/plugins/maven-jdeps-plugin/3.2.0/maven-jdeps-plugin-3.2.0-cyclonedx.xml
+org/apache/maven/plugins/maven-jdeps-plugin/3.2.0/maven-jdeps-plugin-3.2.0-cyclonedx.json

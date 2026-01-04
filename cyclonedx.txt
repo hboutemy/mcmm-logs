@@ -3355,6 +3355,7 @@ org.apache.maven.plugins:maven-jar-plugin
 org.apache.maven.plugins:maven-jarsigner-plugin
 org.apache.maven.plugins:maven-javadoc-plugin
 org.apache.maven.plugins:maven-jdeprscan-plugin
+org.apache.maven.plugins:maven-jdeps-plugin
 org.apache.maven.plugins:maven-jlink-plugin
 org.apache.maven.plugins:maven-jmod-plugin
 org.apache.maven.plugins:maven-jxr-plugin
