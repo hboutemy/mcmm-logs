@@ -1,0 +1,16 @@
+com/io7m/seltzer/com.io7m.seltzer.api/1.3.0/com.io7m.seltzer.api-1.3.0-cyclonedx.xml
+com/io7m/seltzer/com.io7m.seltzer.bom/1.3.0/com.io7m.seltzer.bom-1.3.0-cyclonedx.xml
+com/io7m/seltzer/com.io7m.seltzer.io/1.3.0/com.io7m.seltzer.io-1.3.0-cyclonedx.xml
+com/io7m/seltzer/com.io7m.seltzer.slf4j/1.3.0/com.io7m.seltzer.slf4j-1.3.0-cyclonedx.xml
+com/io7m/seltzer/com.io7m.seltzer.tests/1.3.0/com.io7m.seltzer.tests-1.3.0-cyclonedx.xml
+com/io7m/seltzer/com.io7m.seltzer/1.3.0/com.io7m.seltzer-1.3.0-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-pom/11.3.1-beta-2/spoon-pom-11.3.1-beta-2-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-pom/11.3.1-beta-2/spoon-pom-11.3.1-beta-2-cyclonedx.json
+io/github/chains-project/maven-lockfile-parent/5.11.1-beta-4/maven-lockfile-parent-5.11.1-beta-4-cyclonedx.json
+io/github/chains-project/maven-lockfile-parent/5.11.1-beta-4/maven-lockfile-parent-5.11.1-beta-4-cyclonedx.xml
+io/github/chains-project/maven-lockfile/5.11.1-beta-4/maven-lockfile-5.11.1-beta-4-cyclonedx.json
+io/github/chains-project/maven-lockfile/5.11.1-beta-4/maven-lockfile-5.11.1-beta-4-cyclonedx.xml
+org/primefaces/extensions/primefaces-extensions/15.0.11/primefaces-extensions-15.0.11-cyclonedx.json
+org/primefaces/extensions/primefaces-extensions/15.0.11/primefaces-extensions-15.0.11-cyclonedx.xml
+org/primefaces/primefaces/15.0.11/primefaces-15.0.11-cyclonedx.json
+org/primefaces/primefaces/15.0.11/primefaces-15.0.11-cyclonedx.xml

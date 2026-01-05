@@ -19235,3 +19235,10 @@ org/apache/commons/commons-parent/94/commons-parent-94.pom
 org/finos/legend/engine/legend-engine/4.118.0/legend-engine-4.118.0.pom
 org/mybatis/mybatis2/2.7.4/mybatis2-2.7.4.pom
    from mvn: 2680 - non-mvn: 2859 - buildinfo: 1 - module: 3202 - gradle timestamp: 2067 - atlasdb: 0 = 0 release
+20260103
+com/flowlogix/checkstyle/100/checkstyle-100-build.pom
+com/flowlogix/infra-pom/100/infra-pom-100-build.pom
+com/flowlogix/infra-pom/100/infra-pom-100.pom
+org/apache/maven/plugins/maven-jdeps-plugin/3.2.0/maven-jdeps-plugin-3.2.0.pom
+org/codehaus/plexus/plexus/25/plexus-25.pom
+   from mvn: 421 - non-mvn: 1120 - buildinfo: 0 - module: 1436 - gradle timestamp: 817 - atlasdb: 0 = 0 release
