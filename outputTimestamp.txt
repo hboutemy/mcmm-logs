@@ -19242,3 +19242,12 @@ com/flowlogix/infra-pom/100/infra-pom-100.pom
 org/apache/maven/plugins/maven-jdeps-plugin/3.2.0/maven-jdeps-plugin-3.2.0.pom
 org/codehaus/plexus/plexus/25/plexus-25.pom
    from mvn: 421 - non-mvn: 1120 - buildinfo: 0 - module: 1436 - gradle timestamp: 817 - atlasdb: 0 = 0 release
+20260104
+com/github/marschall/jol-agent/0.17.1/jol-agent-0.17.1.pom
+com/github/seregamorph/maven-surefire-cached/0.25/maven-surefire-cached-0.25.pom
+fr/inria/gforge/spoon/spoon-pom/11.3.1-beta-2/spoon-pom-11.3.1-beta-2.pom
+io/avaje/avaje-inject-parent/12.3-RC1/avaje-inject-parent-12.3-RC1.pom
+io/github/chains-project/maven-lockfile-parent/5.11.1-beta-4/maven-lockfile-parent-5.11.1-beta-4.pom
+io/github/heiye115/hyperliquid-java-sdk/0.2.10/hyperliquid-java-sdk-0.2.10.pom
+io/liftwizard/liftwizard-minimal-parent/2.1.39/liftwizard-minimal-parent-2.1.39.pom
+   from mvn: 1530 - non-mvn: 1877 - buildinfo: 0 - module: 2077 - gradle timestamp: 1037 - atlasdb: 0 = 0 release
