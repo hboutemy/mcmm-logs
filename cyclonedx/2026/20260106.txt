@@ -1,0 +1,11 @@
+org/apache/maven/extensions/maven-extensions/46/maven-extensions-46-cyclonedx.xml
+org/apache/maven/extensions/maven-extensions/46/maven-extensions-46-cyclonedx.json
+org/apache/maven/maven-parent/46/maven-parent-46-cyclonedx.xml
+org/apache/maven/maven-parent/46/maven-parent-46-cyclonedx.json
+org/apache/maven/plugins/maven-plugins/46/maven-plugins-46-cyclonedx.xml
+org/apache/maven/plugins/maven-plugins/46/maven-plugins-46-cyclonedx.json
+org/apache/maven/shared/maven-shared-components/46/maven-shared-components-46-cyclonedx.xml
+org/apache/maven/shared/maven-shared-components/46/maven-shared-components-46-cyclonedx.json
+org/apache/maven/skins/maven-skins/46/maven-skins-46-cyclonedx.json
+org/apache/maven/skins/maven-skins/46/maven-skins-46-cyclonedx.xml
+org/sonarsource/sonarqube/sonar-application/26.1.0.118079/sonar-application-26.1.0.118079-cyclonedx.json

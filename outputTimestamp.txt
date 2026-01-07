@@ -19251,3 +19251,19 @@ io/github/chains-project/maven-lockfile-parent/5.11.1-beta-4/maven-lockfile-pare
 io/github/heiye115/hyperliquid-java-sdk/0.2.10/hyperliquid-java-sdk-0.2.10.pom
 io/liftwizard/liftwizard-minimal-parent/2.1.39/liftwizard-minimal-parent-2.1.39.pom
    from mvn: 1530 - non-mvn: 1877 - buildinfo: 0 - module: 2077 - gradle timestamp: 1037 - atlasdb: 0 = 0 release
+20260105
+com/ascentstream/pulsar/buildtools/3.0.16.1/buildtools-3.0.16.1.pom
+com/ascentstream/pulsar/pulsar/3.0.16.1/pulsar-3.0.16.1.pom
+com/flowlogix/checkstyle/101/checkstyle-101-build.pom
+com/flowlogix/infra-pom/101/infra-pom-101-build.pom
+com/flowlogix/infra-pom/101/infra-pom-101.pom
+eu/maveniverse/maven/njord/njord/0.9.2/njord-0.9.2.pom
+io/airlift/airbase-policy/338/airbase-policy-338.pom
+io/airlift/airbase/338/airbase-338.pom
+io/avaje/avaje-jsonb-parent/3.10-RC1/avaje-jsonb-parent-3.10-RC1.pom
+io/avaje/avaje-spi-parent/2.15-RC1/avaje-spi-parent-2.15-RC1.pom
+io/avaje/avaje-validator-parent/2.16-RC2/avaje-validator-parent-2.16-RC2.pom
+org/codehaus/mojo/license-maven-plugin/2.7.1/license-maven-plugin-2.7.1.pom
+org/codehaus/plexus/plexus-testing/2.1.0/plexus-testing-2.1.0.pom
+org/jpmml/jpmml-evaluator-spark/2.0.0/jpmml-evaluator-spark-2.0.0.pom
+   from mvn: 3190 - non-mvn: 3141 - buildinfo: 0 - module: 2655 - gradle timestamp: 1793 - atlasdb: 0 = 0 release

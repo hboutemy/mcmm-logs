@@ -1,0 +1,9 @@
+io/github/microcks/microcks-app/1.13.2/microcks-app-1.13.2.spdx.json
+io/github/microcks/microcks-async-minion/1.13.2/microcks-async-minion-1.13.2.spdx.json
+io/github/microcks/microcks-distro/1.13.2/microcks-distro-1.13.2.spdx.json
+io/github/microcks/microcks-el/1.13.2/microcks-el-1.13.2.spdx.json
+io/github/microcks/microcks-model/1.13.2/microcks-model-1.13.2.spdx.json
+io/github/microcks/microcks-uber-app/1.13.2/microcks-uber-app-1.13.2.spdx.json
+io/github/microcks/microcks-uber-async-minion/1.13.2/microcks-uber-async-minion-1.13.2.spdx.json
+io/github/microcks/microcks-util/1.13.2/microcks-util-1.13.2.spdx.json
+io/github/microcks/microcks/1.13.2/microcks-1.13.2.spdx.json
