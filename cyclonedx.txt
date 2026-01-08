@@ -5344,6 +5344,7 @@ org.glassfish.tyrus:tyrus-server
 org.glassfish.tyrus:tyrus-spi
 org.glassfish.wasp:wasp
 org.glassfish.woodstock.external:dojo
+org.glassfish.woodstock.external:prototype
 org.glassfish.woodstock.external:woodstock-external
 org.glassfish.woodstock:woodstock-dt
 org.glassfish.woodstock:woodstock-example

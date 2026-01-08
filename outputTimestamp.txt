@@ -19267,3 +19267,20 @@ org/codehaus/mojo/license-maven-plugin/2.7.1/license-maven-plugin-2.7.1.pom
 org/codehaus/plexus/plexus-testing/2.1.0/plexus-testing-2.1.0.pom
 org/jpmml/jpmml-evaluator-spark/2.0.0/jpmml-evaluator-spark-2.0.0.pom
    from mvn: 3190 - non-mvn: 3141 - buildinfo: 0 - module: 2655 - gradle timestamp: 1793 - atlasdb: 0 = 0 release
+20260106
+ch/qos/logback/logback-parent/1.5.24/logback-parent-1.5.24.pom
+eu/maveniverse/maven/mimir/mimir/0.11.1/mimir-0.11.1.pom
+eu/maveniverse/maven/mimir/mimir/0.11.2/mimir-0.11.2.pom
+io/avaje/avaje-spi-parent/2.15/avaje-spi-parent-2.15.pom
+io/avaje/openapi-maven-plugin/1.1/openapi-maven-plugin-1.1.pom
+io/streamnative/buildtools/4.1.0.12/buildtools-4.1.0.12.pom
+io/streamnative/connectors/pulsar-spark-connector_2.13/4.0.1.1/pulsar-spark-connector_2.13-4.0.1.1.pom
+io/streamnative/pulsar-bom/4.1.0.12/pulsar-bom-4.1.0.12.pom
+io/streamnative/pulsar/4.1.0.12/pulsar-4.1.0.12.pom
+org/apache/apache/36/apache-36.pom
+org/apache/commons/commons-pool2/2.13.1/commons-pool2-2.13.1.pom
+org/apache/maven/maven-parent/46/maven-parent-46.pom
+org/jpmml/jpmml-evaluator-spark/2.0.1/jpmml-evaluator-spark-2.0.1.pom
+org/jpmml/jpmml-evaluator-spark/2.1.0/jpmml-evaluator-spark-2.1.0.pom
+org/jpmml/jpmml-evaluator-spark/2.1.1/jpmml-evaluator-spark-2.1.1.pom
+   from mvn: 2538 - non-mvn: 4254 - buildinfo: 0 - module: 3665 - gradle timestamp: 2621 - atlasdb: 0 = 0 release
