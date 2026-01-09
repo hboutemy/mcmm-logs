@@ -19284,3 +19284,13 @@ org/jpmml/jpmml-evaluator-spark/2.0.1/jpmml-evaluator-spark-2.0.1.pom
 org/jpmml/jpmml-evaluator-spark/2.1.0/jpmml-evaluator-spark-2.1.0.pom
 org/jpmml/jpmml-evaluator-spark/2.1.1/jpmml-evaluator-spark-2.1.1.pom
    from mvn: 2538 - non-mvn: 4254 - buildinfo: 0 - module: 3665 - gradle timestamp: 2621 - atlasdb: 0 = 0 release
+20260107
+io/airlift/airbase-policy/339/airbase-policy-339.pom
+io/airlift/airbase-policy/340/airbase-policy-340.pom
+io/airlift/airbase/339/airbase-339.pom
+io/airlift/airbase/340/airbase-340.pom
+io/avaje/avaje-http-parent/3.7-RC2/avaje-http-parent-3.7-RC2.pom
+io/quarkus/quarkus-parent/3.30.6/quarkus-parent-3.30.6.pom
+org/apache/jackrabbit/oak-parent/1.90.0/oak-parent-1.90.0.pom
+org/eclipse/daanse/org.eclipse.daanse.pom.parent/0.0.5/org.eclipse.daanse.pom.parent-0.0.5.pom
+   from mvn: 3887 - non-mvn: 4348 - buildinfo: 1 - module: 2335 - gradle timestamp: 1864 - atlasdb: 0 = 0 release

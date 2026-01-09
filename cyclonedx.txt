@@ -745,6 +745,7 @@ com.io7m.verdant:com.io7m.verdant.tests
 com.io7m.verona:com.io7m.verona
 com.io7m.verona:com.io7m.verona.core
 com.io7m.verona:com.io7m.verona.tests
+com.io7m.verona:com.io7m.verona.tests.arbitraries
 com.io7m.wendover:com.io7m.wendover
 com.io7m.wendover:com.io7m.wendover.core
 com.io7m.wendover:com.io7m.wendover.tests
@@ -1194,6 +1195,7 @@ io.github.amadeusitgroup.maven.wagon:ghrelasset-wagon
 io.github.chains-project:maven-lockfile
 io.github.chains-project:maven-lockfile-github-action
 io.github.chains-project:maven-lockfile-parent
+io.github.luigidemasi:jsch
 io.github.ptsdirect:pts
 io.github.r4fterman:abbot
 io.github.r4fterman:com.windowtester

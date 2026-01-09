@@ -23,6 +23,7 @@ de.knightsoft-net:gwt-commons-validator
 de.powerstat.phplib:templateengine
 de.powerstat.toolbaseline:tbl-java-parent
 de.powerstat.validation:validation
+io.github.luigidemasi:jsch
 io.github.microcks.quarkus:quarkus-microcks
 io.github.microcks.quarkus:quarkus-microcks-deployment
 io.github.microcks.quarkus:quarkus-microcks-parent
@@ -199,6 +200,7 @@ org.jetbrains.kotlin:kotlin-build-common
 org.jetbrains.kotlin:kotlin-build-statistics
 org.jetbrains.kotlin:kotlin-build-tools-api
 org.jetbrains.kotlin:kotlin-build-tools-compat
+org.jetbrains.kotlin:kotlin-build-tools-cri-impl
 org.jetbrains.kotlin:kotlin-build-tools-impl
 org.jetbrains.kotlin:kotlin-compiler
 org.jetbrains.kotlin:kotlin-compiler-arguments-description
