@@ -19294,3 +19294,15 @@ io/quarkus/quarkus-parent/3.30.6/quarkus-parent-3.30.6.pom
 org/apache/jackrabbit/oak-parent/1.90.0/oak-parent-1.90.0.pom
 org/eclipse/daanse/org.eclipse.daanse.pom.parent/0.0.5/org.eclipse.daanse.pom.parent-0.0.5.pom
    from mvn: 3887 - non-mvn: 4348 - buildinfo: 1 - module: 2335 - gradle timestamp: 1864 - atlasdb: 0 = 0 release
+20260108
+ch/qos/logback/access/parent/2.0.8/parent-2.0.8.pom
+com/flowlogix/checkstyle/102/checkstyle-102-build.pom
+com/flowlogix/infra-pom/102/infra-pom-102-build.pom
+com/flowlogix/infra-pom/102/infra-pom-102.pom
+com/sap/ai/sdk/sdk-parent/1.14.0/sdk-parent-1.14.0.pom
+io/airlift/airbase-policy/341/airbase-policy-341.pom
+io/airlift/airbase/341/airbase-341.pom
+io/liftwizard/liftwizard-minimal-parent/2.1.40/liftwizard-minimal-parent-2.1.40.pom
+org/apache/orc/orc/1.9.8/orc-1.9.8.pom
+org/apache/orc/orc/2.0.7/orc-2.0.7.pom
+   from mvn: 3858 - non-mvn: 4807 - buildinfo: 0 - module: 2281 - gradle timestamp: 1505 - atlasdb: 0 = 0 release

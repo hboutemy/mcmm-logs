@@ -1900,3 +1900,8 @@ com/flowlogix/depchain/shiro-jakarta/106/shiro-jakarta-106-build.pom
 com/flowlogix/depchain/unit-test/106/unit-test-106-build.pom
 com/flowlogix/infra-pom/102/infra-pom-102-build.pom
 com/flowlogix/payara-pom/102/payara-pom-102-build.pom
+20260109
+com/flowlogix/archetypes/starter/119/starter-119-build.pom
+com/flowlogix/flowlogix-datamodel/11.1/flowlogix-datamodel-11.1-build.pom
+com/flowlogix/flowlogix-jee/11.1/flowlogix-jee-11.1-build.pom
+com/flowlogix/flowlogix/11.1/flowlogix-11.1-build.pom
