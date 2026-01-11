@@ -19306,3 +19306,20 @@ io/liftwizard/liftwizard-minimal-parent/2.1.40/liftwizard-minimal-parent-2.1.40.
 org/apache/orc/orc/1.9.8/orc-1.9.8.pom
 org/apache/orc/orc/2.0.7/orc-2.0.7.pom
    from mvn: 3858 - non-mvn: 4807 - buildinfo: 0 - module: 2281 - gradle timestamp: 1505 - atlasdb: 0 = 0 release
+20260109
+io/airlift/airbase-policy/342/airbase-policy-342.pom
+io/airlift/airbase/342/airbase-342.pom
+io/fabric8/kubernetes-client-project/7.5.0/kubernetes-client-project-7.5.0.pom
+io/github/chains-project/maven-lockfile-parent/5.11.1/maven-lockfile-parent-5.11.1.pom
+io/streamnative/buildtools/4.0.8.5/buildtools-4.0.8.5.pom
+io/streamnative/pulsar-bom/4.0.8.5/pulsar-bom-4.0.8.5.pom
+io/streamnative/pulsar/4.0.8.5/pulsar-4.0.8.5.pom
+org/green-code-initiative/creedengo-rules-specifications/2.6.1/creedengo-rules-specifications-2.6.1.pom
+org/green-code-initiative/creedengo-rules-specifications/2.6.2/creedengo-rules-specifications-2.6.2.pom
+org/green-code-initiative/creedengo-rules-specifications/2.6.3/creedengo-rules-specifications-2.6.3.pom
+org/green-code-initiative/creedengo-rules-specifications/2.6.4/creedengo-rules-specifications-2.6.4.pom
+org/green-code-initiative/creedengo-rules-specifications/2.6.5/creedengo-rules-specifications-2.6.5.pom
+org/owasp/dependency-check-parent/12.2.0/dependency-check-parent-12.2.0.pom
+org/owasp/dependency-check-plugin/12.2.0/dependency-check-plugin-12.2.0.pom
+tech/picnic/error-prone-support/error-prone-support/0.28.0/error-prone-support-0.28.0.pom
+   from mvn: 3412 - non-mvn: 5398 - buildinfo: 3 - module: 3926 - gradle timestamp: 2168 - atlasdb: 0 = 0 release
