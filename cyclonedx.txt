@@ -90,6 +90,10 @@ com.github.hazendaz.git:github-desktop
 com.github.hazendaz.gpg4win:gpg4win
 com.github.hazendaz.gradle:gradle
 com.github.hazendaz.httpunit:httpunit
+com.github.hazendaz.jaxws:jaxws-spring
+com.github.hazendaz.jaxws:jaxws-spring-parent
+com.github.hazendaz.jaxws:jaxws-spring-sample
+com.github.hazendaz.jaxws:jaxws-spring-sample-fromjava
 com.github.hazendaz.jmeter:apache-jmeter
 com.github.hazendaz.jmockit:LoginService
 com.github.hazendaz.jmockit:coverage-tests
