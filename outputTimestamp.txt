@@ -19374,3 +19374,20 @@ org/jpmml/jpmml-lightgbm/1.6.4/jpmml-lightgbm-1.6.4.pom
 org/jpmml/jpmml-r/1.7.8/jpmml-r-1.7.8.pom
 org/jpmml/jpmml-xgboost/1.9.5/jpmml-xgboost-1.9.5.pom
    from mvn: 657 - non-mvn: 2427 - buildinfo: 0 - module: 3076 - gradle timestamp: 1014 - atlasdb: 0 = 0 release
+20260112
+biz/aQute/bnd/bnd-plugin-parent/7.2.1/bnd-plugin-parent-7.2.1.pom
+com/github/hazendaz/jaxws/jaxws-spring-parent/2.0.0/jaxws-spring-parent-2.0.0.pom
+com/github/hazendaz/jaxws/jaxws-spring-parent/3.0.0/jaxws-spring-parent-3.0.0.pom
+com/github/veithen/phos/phos/0.4.1/phos-0.4.1.pom
+fr/vidal/oss/atom-jaxb/1.1.2/atom-jaxb-1.1.2.pom
+io/cucumber/messages-ndjson/0.1.0/messages-ndjson-0.1.0.pom
+io/cucumber/messages-ndjson/0.2.0/messages-ndjson-0.2.0.pom
+io/wcm/io.wcm.handler.media/2.6.2/io.wcm.handler.media-2.6.2.pom
+org/apache/camel/camel/4.17.0/camel-4.17.0.pom
+org/apache/orc/orc/2.2.2/orc-2.2.2.pom
+org/craftercms/mariaDB4j/mariaDB4j-pom/3.3.0.1/mariaDB4j-pom-3.3.0.1.pom
+org/jpmml/jpmml-python/1.3.16/jpmml-python-1.3.16.pom
+org/jpmml/jpmml-sklearn/1.9.23/jpmml-sklearn-1.9.23.pom
+org/jpmml/jpmml-statsmodels/1.3.9/jpmml-statsmodels-1.3.9.pom
+org/jpmml/telemetry-client/1.0.3/telemetry-client-1.0.3.pom
+   from mvn: 4023 - non-mvn: 5970 - buildinfo: 0 - module: 6309 - gradle timestamp: 3189 - atlasdb: 0 = 0 release
