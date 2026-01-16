@@ -1,0 +1,6 @@
+io/github/microcks/microcks-testcontainers/0.4.4/microcks-testcontainers-0.4.4.spdx.json
+io/github/microcks/quarkus/quarkus-microcks-deployment/0.4.3/quarkus-microcks-deployment-0.4.3.spdx.json
+io/github/microcks/quarkus/quarkus-microcks-parent/0.4.3/quarkus-microcks-parent-0.4.3.spdx.json
+io/github/microcks/quarkus/quarkus-microcks-test/0.4.3/quarkus-microcks-test-0.4.3.spdx.json
+io/github/microcks/quarkus/quarkus-microcks/0.4.3/quarkus-microcks-0.4.3.spdx.json
+org/opendaylight/mdsal/mdsal-sbom-15.0.3.spdx

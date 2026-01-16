@@ -19410,3 +19410,12 @@ org/jpmml/jpmml-sparkml/3.2.8/jpmml-sparkml-3.2.8.pom
 org/jpmml/jpmml-sparkml/3.3.1/jpmml-sparkml-3.3.1.pom
 org/sentrysoftware/oss-parent/4/oss-parent-4.pom
    from mvn: 3613 - non-mvn: 5643 - buildinfo: 1 - module: 5622 - gradle timestamp: 4156 - atlasdb: 0 = 0 release
+20260114
+io/avaje/avaje-spi-parent/2.16/avaje-spi-parent-2.16.pom
+io/cucumber/messages-ndjson/0.3.0/messages-ndjson-0.3.0.pom
+io/jooby/jooby-project/3.11.6/jooby-project-3.11.6.pom
+io/jooby/jooby-project/4.0.15/jooby-project-4.0.15.pom
+io/quarkus/quarkus-parent/3.20.5/quarkus-parent-3.20.5.pom
+io/quarkus/quarkus-parent/3.27.2/quarkus-parent-3.27.2.pom
+io/quarkus/quarkus-parent/3.31.0.CR1/quarkus-parent-3.31.0.CR1.pom
+   from mvn: 5663 - non-mvn: 6523 - buildinfo: 0 - module: 5732 - gradle timestamp: 3709 - atlasdb: 0 = 0 release
