@@ -19419,3 +19419,14 @@ io/quarkus/quarkus-parent/3.20.5/quarkus-parent-3.20.5.pom
 io/quarkus/quarkus-parent/3.27.2/quarkus-parent-3.27.2.pom
 io/quarkus/quarkus-parent/3.31.0.CR1/quarkus-parent-3.31.0.CR1.pom
    from mvn: 5663 - non-mvn: 6523 - buildinfo: 0 - module: 5732 - gradle timestamp: 3709 - atlasdb: 0 = 0 release
+20260115
+com/github/hazendaz/base-parent/57/base-parent-57.pom
+io/fabric8/kubernetes-client-project/7.5.1/kubernetes-client-project-7.5.1.pom
+io/github/devacfr/maven/skins/reflow-parent/2.4.0-beta4/reflow-parent-2.4.0-beta4.pom
+net/bytebuddy/byte-buddy-agent/1.18.4/byte-buddy-agent-1.18.4.pom
+net/bytebuddy/byte-buddy-dep/1.18.4/byte-buddy-dep-1.18.4.pom
+net/bytebuddy/byte-buddy-parent/1.18.4/byte-buddy-parent-1.18.4.pom
+nl/basjes/parse/useragent/yauaa-parent/8.0.0/yauaa-parent-8.0.0.pom
+nl/basjes/parse/useragent/yauaa/8.0.0/yauaa-8.0.0.pom
+org/jpmml/jpmml-sklearn/1.9.24/jpmml-sklearn-1.9.24.pom
+   from mvn: 6549 - non-mvn: 4471 - buildinfo: 0 - module: 3318 - gradle timestamp: 2165 - atlasdb: 0 = 0 release
