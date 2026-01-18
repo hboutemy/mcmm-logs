@@ -1,0 +1,2 @@
+com/flowlogix/flowlogix-bom/16/flowlogix-bom-16-cyclonedx.json
+com/flowlogix/flowlogix-bom/16/flowlogix-bom-16-cyclonedx.xml

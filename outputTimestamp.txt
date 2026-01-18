@@ -19430,3 +19430,19 @@ nl/basjes/parse/useragent/yauaa-parent/8.0.0/yauaa-parent-8.0.0.pom
 nl/basjes/parse/useragent/yauaa/8.0.0/yauaa-8.0.0.pom
 org/jpmml/jpmml-sklearn/1.9.24/jpmml-sklearn-1.9.24.pom
    from mvn: 6549 - non-mvn: 4471 - buildinfo: 0 - module: 3318 - gradle timestamp: 2165 - atlasdb: 0 = 0 release
+20260116
+com/github/seregamorph/maven-surefire-cached/0.26/maven-surefire-cached-0.26.pom
+io/cucumber/compatibility-kit/27.0.0/compatibility-kit-27.0.0.pom
+io/streamnative/buildtools/4.0.8.6/buildtools-4.0.8.6.pom
+io/streamnative/buildtools/4.1.0.14/buildtools-4.1.0.14.pom
+io/streamnative/pulsar-bom/4.0.8.6/pulsar-bom-4.0.8.6.pom
+io/streamnative/pulsar-bom/4.1.0.14/pulsar-bom-4.1.0.14.pom
+io/streamnative/pulsar/4.0.8.6/pulsar-4.0.8.6.pom
+io/streamnative/pulsar/4.1.0.14/pulsar-4.1.0.14.pom
+org/apache/jackrabbit/jackrabbit-parent/2.22.3/jackrabbit-parent-2.22.3.pom
+org/apache/qpid/protonj2-parent/1.1.0/protonj2-parent-1.1.0.pom
+org/infinispan/protostream/parent/6.0.4/parent-6.0.4.pom
+org/jpmml/jpmml-transpiler/1.4.8/jpmml-transpiler-1.4.8.pom
+org/jpmml/jpmml-transpiler/1.5.0/jpmml-transpiler-1.5.0.pom
+org/metricshub/maven/metricshub-connector-maven-plugin/1.0.13/metricshub-connector-maven-plugin-1.0.13.pom
+   from mvn: 3786 - non-mvn: 5115 - buildinfo: 2 - module: 4714 - gradle timestamp: 2387 - atlasdb: 0 = 0 release
