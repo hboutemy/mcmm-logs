@@ -32,7 +32,7 @@
       <artifactId>apt-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>aspectj-maven-plugin</name>
+      <name>Mojo's AspectJ Maven Plugin</name>
       <prefix>aspectj</prefix>
       <artifactId>aspectj-maven-plugin</artifactId>
     </plugin>
@@ -57,7 +57,7 @@
       <artifactId>build-on-demand-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>buildnumber-maven-plugin</name>
+      <name>Build Number Maven Plugin</name>
       <prefix>buildnumber</prefix>
       <artifactId>buildnumber-maven-plugin</artifactId>
     </plugin>
@@ -247,7 +247,7 @@
       <artifactId>jasperreports-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>javacc-maven-plugin</name>
+      <name>JavaCC Maven Plugin</name>
       <prefix>javacc</prefix>
       <artifactId>javacc-maven-plugin</artifactId>
     </plugin>
@@ -277,7 +277,7 @@
       <artifactId>jboss-packaging-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>jdepend-maven-plugin</name>
+      <name>JDepend Maven Plugin</name>
       <prefix>jdepend</prefix>
       <artifactId>jdepend-maven-plugin</artifactId>
     </plugin>
@@ -317,7 +317,7 @@
       <artifactId>keytool-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>l10n-maven-plugin</name>
+      <name>Localization Tools Maven Plugin</name>
       <prefix>l10n</prefix>
       <artifactId>l10n-maven-plugin</artifactId>
     </plugin>
@@ -357,7 +357,7 @@
       <artifactId>minijar-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>mrm-maven-plugin</name>
+      <name>Mock Repository Manager :: Maven Plugin</name>
       <prefix>mrm</prefix>
       <artifactId>mrm-maven-plugin</artifactId>
     </plugin>
@@ -367,7 +367,7 @@
       <artifactId>multibuild-optimizer-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>native-maven-plugin</name>
+      <name>Native Maven Plugin</name>
       <prefix>native</prefix>
       <artifactId>native-maven-plugin</artifactId>
     </plugin>
@@ -437,7 +437,7 @@
       <artifactId>project-sources-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>properties-maven-plugin</name>
+      <name>Properties Maven Plugin</name>
       <prefix>properties</prefix>
       <artifactId>properties-maven-plugin</artifactId>
     </plugin>
@@ -572,7 +572,7 @@
       <artifactId>taglist-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>templating-maven-plugin</name>
+      <name>Templating Maven Plugin</name>
       <prefix>templating</prefix>
       <artifactId>templating-maven-plugin</artifactId>
     </plugin>
@@ -607,7 +607,7 @@
       <artifactId>vfs-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>wagon-maven-plugin</name>
+      <name>Wagon Maven Plugin</name>
       <prefix>wagon</prefix>
       <artifactId>wagon-maven-plugin</artifactId>
     </plugin>

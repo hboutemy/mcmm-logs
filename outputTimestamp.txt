@@ -19446,3 +19446,12 @@ org/jpmml/jpmml-transpiler/1.4.8/jpmml-transpiler-1.4.8.pom
 org/jpmml/jpmml-transpiler/1.5.0/jpmml-transpiler-1.5.0.pom
 org/metricshub/maven/metricshub-connector-maven-plugin/1.0.13/metricshub-connector-maven-plugin-1.0.13.pom
    from mvn: 3786 - non-mvn: 5115 - buildinfo: 2 - module: 4714 - gradle timestamp: 2387 - atlasdb: 0 = 0 release
+20260117
+ch/qos/logback/logback-parent/1.5.25/logback-parent-1.5.25.pom
+com/hibegin/zrlog-base/3.2.126/zrlog-base-3.2.126.pom
+eu/maveniverse/maven/ipfs/ipfs/0.1.0/ipfs-0.1.0.pom
+io/avaje/avaje-http-parent/3.7/avaje-http-parent-3.7.pom
+io/github/kbuntrock/openapi-maven-plugin/0.0.29/openapi-maven-plugin-0.0.29.pom
+org/jpmml/jpmml-parent-github/1.0.0/jpmml-parent-github-1.0.0.pom
+org/jpmml/jpmml-transpiler-plugin/1.0.0/jpmml-transpiler-plugin-1.0.0.pom
+   from mvn: 837 - non-mvn: 3709 - buildinfo: 0 - module: 3066 - gradle timestamp: 2841 - atlasdb: 0 = 0 release
