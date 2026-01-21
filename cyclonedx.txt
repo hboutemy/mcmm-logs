@@ -1412,6 +1412,7 @@ io.telicent.jena:rdf-abac-fuseki
 io.telicent.jena:rdf-abac-fuseki-server
 io.telicent.public:fuseki-yaml-config
 io.telicent.public:jwt-servlet-auth-aws
+io.telicent.public:jwt-servlet-auth-benchmarks
 io.telicent.public:jwt-servlet-auth-common-integration-tests
 io.telicent.public:jwt-servlet-auth-core
 io.telicent.public:jwt-servlet-auth-integration-tests

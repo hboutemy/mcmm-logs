@@ -19506,3 +19506,34 @@ org/codehaus/mojo/versions/versions/2.21.0/versions-2.21.0.pom
 org/codehaus/mojo/wagon-maven-plugin/3.0.0/wagon-maven-plugin-3.0.0.pom
 org/codehaus/mojo/xml-maven-plugin/1.2.1/xml-maven-plugin-1.2.1.pom
    from mvn: 1122 - non-mvn: 1867 - buildinfo: 0 - module: 1657 - gradle timestamp: 768 - atlasdb: 0 = 0 release
+20260119
+com/fasterxml/jackson/core/jackson-core/2.20.2/jackson-core-2.20.2.pom
+com/fasterxml/jackson/core/jackson-databind/2.20.2/jackson-databind-2.20.2.pom
+com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.20.2/jackson-dataformat-xml-2.20.2.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-binary/2.20.2/jackson-dataformats-binary-2.20.2.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.20.2/jackson-dataformats-text-2.20.2.pom
+com/fasterxml/jackson/datatype/jackson-datatype-joda/2.20.2/jackson-datatype-joda-2.20.2.pom
+com/fasterxml/jackson/datatype/jackson-datatype-joda/2.21.0/jackson-datatype-joda-2.21.0.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-collections/2.20.2/jackson-datatypes-collections-2.20.2.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-collections/2.21.0/jackson-datatypes-collections-2.21.0.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/2.20.2/jackson-datatypes-misc-parent-2.20.2.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/2.21.0/jackson-datatypes-misc-parent-2.21.0.pom
+com/fasterxml/jackson/jackson-base/2.20.2/jackson-base-2.20.2.pom
+com/fasterxml/jackson/jackson-bom/2.20.2/jackson-bom-2.20.2.pom
+com/fasterxml/jackson/jr/jackson-jr-all/2.20.2/jackson-jr-all-2.20.2.pom
+com/fasterxml/jackson/jr/jackson-jr-annotation-support/2.20.2/jackson-jr-annotation-support-2.20.2.pom
+com/fasterxml/jackson/jr/jackson-jr-extension-javatime/2.20.2/jackson-jr-extension-javatime-2.20.2.pom
+com/fasterxml/jackson/jr/jackson-jr-objects/2.20.2/jackson-jr-objects-2.20.2.pom
+com/fasterxml/jackson/jr/jackson-jr-parent/2.20.2/jackson-jr-parent-2.20.2.pom
+com/fasterxml/jackson/jr/jackson-jr-retrofit2/2.20.2/jackson-jr-retrofit2-2.20.2.pom
+com/fasterxml/jackson/jr/jackson-jr-stree/2.20.2/jackson-jr-stree-2.20.2.pom
+com/flowlogix/checkstyle/103/checkstyle-103-build.pom
+com/flowlogix/infra-pom/103/infra-pom-103-build.pom
+com/flowlogix/infra-pom/103/infra-pom-103.pom
+com/github/seregamorph/maven-surefire-cached/0.27/maven-surefire-cached-0.27.pom
+com/github/sitture/env-config/2.2.0/env-config-2.2.0.pom
+eu/maveniverse/maven/ipfs/ipfs/0.2.1/ipfs-0.2.1.pom
+eu/maveniverse/maven/njord/njord/0.9.3/njord-0.9.3.pom
+io/airlift/airbase-policy/344/airbase-policy-344.pom
+io/airlift/airbase/344/airbase-344.pom
+   from mvn: 3623 - non-mvn: 8626 - buildinfo: 8 - module: 8398 - gradle timestamp: 5622 - atlasdb: 0 = 0 release
