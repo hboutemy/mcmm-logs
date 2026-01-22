@@ -19537,3 +19537,15 @@ eu/maveniverse/maven/njord/njord/0.9.3/njord-0.9.3.pom
 io/airlift/airbase-policy/344/airbase-policy-344.pom
 io/airlift/airbase/344/airbase-344.pom
    from mvn: 3623 - non-mvn: 8626 - buildinfo: 8 - module: 8398 - gradle timestamp: 5622 - atlasdb: 0 = 0 release
+20260120
+io/avaje/avaje-jsonb-parent/3.10-RC3/avaje-jsonb-parent-3.10-RC3.pom
+io/cucumber/cucumber-expressions/18.1.0/cucumber-expressions-18.1.0.pom
+io/github/dboncioaga/cui4j/0.1.0/cui4j-0.1.0.pom
+io/javalin/javalin-parent/7.0.0-beta.2/javalin-parent-7.0.0-beta.2.pom
+jakarta/websocket/jakarta.websocket-all/2.3.0-M2/jakarta.websocket-all-2.3.0-M2.pom
+org/craftercms/mariaDB4j/mariaDB4j-pom/3.3.0.2/mariaDB4j-pom-3.3.0.2.pom
+org/cyclonedx/cyclonedx-core-java/12.0.0/cyclonedx-core-java-12.0.0.pom
+org/green-code-initiative/creedengo-integration-test/0.2.2/creedengo-integration-test-0.2.2.pom
+org/jpmml/jpmml-sklearn/1.9.25/jpmml-sklearn-1.9.25.pom
+org/simplify4u/pgp-keys-map/2026.01.20/pgp-keys-map-2026.01.20.pom
+   from mvn: 3867 - non-mvn: 4837 - buildinfo: 16 - module: 3984 - gradle timestamp: 2513 - atlasdb: 0 = 0 release
