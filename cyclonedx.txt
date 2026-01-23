@@ -5335,6 +5335,12 @@ org.glassfish.pfl:pfl-dynamic
 org.glassfish.pfl:pfl-test
 org.glassfish.pfl:pfl-tf
 org.glassfish.pfl:pfl-tf-tools
+org.glassfish.shoal:shoal
+org.glassfish.shoal:shoal-backing-store
+org.glassfish.shoal:shoal-cache
+org.glassfish.shoal:shoal-gms
+org.glassfish.shoal:shoal-gms-api
+org.glassfish.shoal:shoal-gms-impl
 org.glassfish.soteria:parent
 org.glassfish.soteria:soteria
 org.glassfish.soteria:soteria.spi.bean.decorator.weld

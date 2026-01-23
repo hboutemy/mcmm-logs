@@ -19549,3 +19549,26 @@ org/green-code-initiative/creedengo-integration-test/0.2.2/creedengo-integration
 org/jpmml/jpmml-sklearn/1.9.25/jpmml-sklearn-1.9.25.pom
 org/simplify4u/pgp-keys-map/2026.01.20/pgp-keys-map-2026.01.20.pom
    from mvn: 3867 - non-mvn: 4837 - buildinfo: 16 - module: 3984 - gradle timestamp: 2513 - atlasdb: 0 = 0 release
+20260121
+at/yawk/lz4/lz4-java/1.10.3/lz4-java-1.10.3.pom
+com/sap/ai/sdk/sdk-parent/1.15.0/sdk-parent-1.15.0.pom
+com/sonatype/central/testing/apache/maven-clean-plugin/3.5.0/maven-clean-plugin-3.5.0.pom
+eu/maveniverse/maven/ipfs/ipfs/0.2.2/ipfs-0.2.2.pom
+eu/maveniverse/maven/ipfs/ipfs/0.2.3/ipfs-0.2.3.pom
+io/cucumber/cucumber-parent/5.0.0/cucumber-parent-5.0.0.pom
+io/cucumber/messages-ndjson/0.4.0/messages-ndjson-0.4.0.pom
+io/cucumber/messages/32.0.0/messages-32.0.0.pom
+io/quarkus/quarkus-parent/3.30.7/quarkus-parent-3.30.7.pom
+io/quarkus/quarkus-parent/3.31.0/quarkus-parent-3.31.0.pom
+net/optionfactory/spring/optionfactory-spring/23.8/optionfactory-spring-23.8.pom
+org/apache/commons/commons-parent/96/commons-parent-96.pom
+org/apache/sshd/sshd-osgi/2.17.0/sshd-osgi-2.17.0.pom
+org/cyclonedx/cyclonedx-core-java/12.0.1/cyclonedx-core-java-12.0.1.pom
+org/gosu-lang/gosu/gosu-parent/1.18.7-incremental-alpha-2/gosu-parent-1.18.7-incremental-alpha-2.pom
+org/green-code-initiative/creedengo-rules-specifications/2.7.0/creedengo-rules-specifications-2.7.0.pom
+org/metricshub/community-connectors/1.0.18/community-connectors-1.0.18.pom
+org/sentrysoftware/maven/maven-skin-tools/1.5.00/maven-skin-tools-1.5.00.pom
+org/sentrysoftware/oss-parent/5/oss-parent-5.pom
+tools/jackson/core/jackson-core/3.0.4/jackson-core-3.0.4.pom
+tools/jackson/jackson-bom/3.0.4/jackson-bom-3.0.4.pom
+   from mvn: 5170 - non-mvn: 6700 - buildinfo: 3 - module: 6812 - gradle timestamp: 3992 - atlasdb: 0 = 0 release
