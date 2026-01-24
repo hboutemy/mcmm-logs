@@ -19572,3 +19572,33 @@ org/sentrysoftware/oss-parent/5/oss-parent-5.pom
 tools/jackson/core/jackson-core/3.0.4/jackson-core-3.0.4.pom
 tools/jackson/jackson-bom/3.0.4/jackson-bom-3.0.4.pom
    from mvn: 5170 - non-mvn: 6700 - buildinfo: 3 - module: 6812 - gradle timestamp: 3992 - atlasdb: 0 = 0 release
+20260122
+com/github/nbbrd/sdmx-dl/sdmx-dl-bom/3.0.0-beta.17/sdmx-dl-bom-3.0.0-beta.17.pom
+com/github/nbbrd/sdmx-dl/sdmx-dl-parent/3.0.0-beta.17/sdmx-dl-parent-3.0.0-beta.17.pom
+com/github/seregamorph/maven-surefire-cached/0.28/maven-surefire-cached-0.28.pom
+io/cucumber/cucumber-json-formatter/0.4.0/cucumber-json-formatter-0.4.0.pom
+io/cucumber/gherkin/38.0.0/gherkin-38.0.0.pom
+io/cucumber/junit-xml-formatter/0.12.0/junit-xml-formatter-0.12.0.pom
+io/cucumber/query/15.0.1/query-15.0.1.pom
+io/cucumber/testng-xml-formatter/0.8.0/testng-xml-formatter-0.8.0.pom
+io/cucumber/usage-formatter/0.2.0/usage-formatter-0.2.0.pom
+io/quarkus/quarkus-parent/3.30.8/quarkus-parent-3.30.8.pom
+org/apache/bcel/bcel/6.12.0/bcel-6.12.0.pom
+org/entur/netex-java-model/2.0.15.1/netex-java-model-2.0.15.1.pom
+org/gosu-lang/gosu/gosu-parent/1.18.7-incremental-alpha-3/gosu-parent-1.18.7-incremental-alpha-3.pom
+org/metricshub/metricshub-community/3.9.00/metricshub-community-3.9.00.pom
+tools/jackson/core/jackson-databind/3.0.4/jackson-databind-3.0.4.pom
+tools/jackson/dataformat/jackson-dataformat-xml/3.0.4/jackson-dataformat-xml-3.0.4.pom
+tools/jackson/dataformat/jackson-dataformats-binary/3.0.4/jackson-dataformats-binary-3.0.4.pom
+tools/jackson/dataformat/jackson-dataformats-text/3.0.4/jackson-dataformats-text-3.0.4.pom
+tools/jackson/datatype/jackson-datatype-joda/3.0.4/jackson-datatype-joda-3.0.4.pom
+tools/jackson/datatype/jackson-datatypes-collections/3.0.4/jackson-datatypes-collections-3.0.4.pom
+tools/jackson/datatype/jackson-datatypes-misc-parent/3.0.4/jackson-datatypes-misc-parent-3.0.4.pom
+tools/jackson/jr/jackson-jr-all/3.0.4/jackson-jr-all-3.0.4.pom
+tools/jackson/jr/jackson-jr-annotation-support/3.0.4/jackson-jr-annotation-support-3.0.4.pom
+tools/jackson/jr/jackson-jr-extension-javatime/3.0.4/jackson-jr-extension-javatime-3.0.4.pom
+tools/jackson/jr/jackson-jr-objects/3.0.4/jackson-jr-objects-3.0.4.pom
+tools/jackson/jr/jackson-jr-parent/3.0.4/jackson-jr-parent-3.0.4.pom
+tools/jackson/jr/jackson-jr-retrofit2/3.0.4/jackson-jr-retrofit2-3.0.4.pom
+tools/jackson/jr/jackson-jr-stree/3.0.4/jackson-jr-stree-3.0.4.pom
+   from mvn: 5922 - non-mvn: 7346 - buildinfo: 3 - module: 6032 - gradle timestamp: 4379 - atlasdb: 0 = 0 release
