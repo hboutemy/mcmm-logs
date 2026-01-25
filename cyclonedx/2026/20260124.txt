@@ -1,0 +1,8 @@
+com/github/hazendaz/tomcat/tomcat9-config/9.0.115/tomcat9-config-9.0.115-cyclonedx.json
+com/github/hazendaz/tomcat/tomcat9-config/9.0.115/tomcat9-config-9.0.115-cyclonedx.xml
+org/apache/camel/quarkus/camel-quarkus/3.20.4/camel-quarkus-3.20.4-cyclonedx.xml
+org/apache/camel/quarkus/camel-quarkus/3.20.4/camel-quarkus-3.20.4-cyclonedx.json
+org/glassfish/tyrus/tyrus-bom/2.2.2-M1/tyrus-bom-2.2.2-M1-cyclonedx.json
+org/glassfish/tyrus/tyrus-bom/2.2.2-M1/tyrus-bom-2.2.2-M1-cyclonedx.xml
+org/glassfish/tyrus/tyrus-bom/2.2.2/tyrus-bom-2.2.2-cyclonedx.xml
+org/glassfish/tyrus/tyrus-bom/2.2.2/tyrus-bom-2.2.2-cyclonedx.json

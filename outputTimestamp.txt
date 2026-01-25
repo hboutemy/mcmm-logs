@@ -19602,3 +19602,25 @@ tools/jackson/jr/jackson-jr-parent/3.0.4/jackson-jr-parent-3.0.4.pom
 tools/jackson/jr/jackson-jr-retrofit2/3.0.4/jackson-jr-retrofit2-3.0.4.pom
 tools/jackson/jr/jackson-jr-stree/3.0.4/jackson-jr-stree-3.0.4.pom
    from mvn: 5922 - non-mvn: 7346 - buildinfo: 3 - module: 6032 - gradle timestamp: 4379 - atlasdb: 0 = 0 release
+20260123
+com/github/nbbrd/jdplus-sdmx/jdplus-sdmx-bom/3.3.3/jdplus-sdmx-bom-3.3.3.pom
+com/github/nbbrd/jdplus-sdmx/jdplus-sdmx/3.3.3/jdplus-sdmx-3.3.3.pom
+eu/maveniverse/maven/toolbox/toolbox/0.15.1/toolbox-0.15.1.pom
+io/avaje/avaje-inject-parent/12.3-javax/avaje-inject-parent-12.3-javax.pom
+io/avaje/avaje-inject-parent/12.3/avaje-inject-parent-12.3.pom
+io/avaje/avaje-jsonb-parent/3.10/avaje-jsonb-parent-3.10.pom
+io/cucumber/teamcity-formatter/0.3.0/teamcity-formatter-0.3.0.pom
+io/fabric8/kubernetes-client-project/7.5.2/kubernetes-client-project-7.5.2.pom
+io/github/chains-project/maven-lockfile-parent/5.12.0/maven-lockfile-parent-5.12.0.pom
+io/github/chains-project/maven-lockfile-parent/5.12.1/maven-lockfile-parent-5.12.1.pom
+io/telicent/smart-caches/graph/scg-base/0.93.0/scg-base-0.93.0.pom
+net/optionfactory/spring/optionfactory-spring/23.10/optionfactory-spring-23.10.pom
+net/optionfactory/spring/optionfactory-spring/23.9/optionfactory-spring-23.9.pom
+org/apache/artemis/artemis-project/2.50.0/artemis-project-2.50.0.pom
+org/apache/qpid/qpid-jms-parent/1.16.0/qpid-jms-parent-1.16.0.pom
+org/apache/qpid/qpid-jms-parent/2.10.0/qpid-jms-parent-2.10.0.pom
+org/cryptomator/siv-mode/2.0.0-rc1/siv-mode-2.0.0-rc1.pom
+org/gosu-lang/gosu/gosu-parent/1.18.7-incremental-alpha-4/gosu-parent-1.18.7-incremental-alpha-4.pom
+org/jpmml/jpmml-sklearn/1.9.26/jpmml-sklearn-1.9.26.pom
+org/sentrysoftware/maven/sentry-maven-skin/6.5.00/sentry-maven-skin-6.5.00.pom
+   from mvn: 4500 - non-mvn: 5735 - buildinfo: 2 - module: 5138 - gradle timestamp: 3019 - atlasdb: 0 = 0 release
