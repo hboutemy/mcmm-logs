@@ -19624,3 +19624,9 @@ org/gosu-lang/gosu/gosu-parent/1.18.7-incremental-alpha-4/gosu-parent-1.18.7-inc
 org/jpmml/jpmml-sklearn/1.9.26/jpmml-sklearn-1.9.26.pom
 org/sentrysoftware/maven/sentry-maven-skin/6.5.00/sentry-maven-skin-6.5.00.pom
    from mvn: 4500 - non-mvn: 5735 - buildinfo: 2 - module: 5138 - gradle timestamp: 3019 - atlasdb: 0 = 0 release
+20260124
+digital/pragmatech/testing/spring-test-profiler/0.0.15/spring-test-profiler-0.0.15.pom
+io/avaje/avaje-jex-parent/3.4/avaje-jex-parent-3.4.pom
+org/apache/cxf/xjc-utils/xjc-utils/4.1.2/xjc-utils-4.1.2.pom
+org/eclipse/tycho/tycho/5.0.2/tycho-5.0.2.pom
+   from mvn: 857 - non-mvn: 2534 - buildinfo: 0 - module: 2121 - gradle timestamp: 1123 - atlasdb: 0 = 0 release

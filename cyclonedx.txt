@@ -147,6 +147,7 @@ com.github.hazendaz.ant:apache-ant
 com.github.hazendaz.catch-exception:catch-exception
 com.github.hazendaz.catch-exception:catch-exception-parent
 com.github.hazendaz.catch-exception:catch-throwable
+com.github.hazendaz.cdi:beanprovider
 com.github.hazendaz.fnm:fnm
 com.github.hazendaz.git:git-for-windows
 com.github.hazendaz.git:github-desktop
