@@ -1,0 +1,12 @@
+com/flowlogix/depchain/depchain/107/depchain-107-cyclonedx.xml
+com/flowlogix/depchain/depchain/107/depchain-107-cyclonedx.json
+com/flowlogix/depchain/integration-test/107/integration-test-107-cyclonedx.json
+com/flowlogix/depchain/integration-test/107/integration-test-107-cyclonedx.xml
+com/flowlogix/depchain/shiro-jakarta/107/shiro-jakarta-107-cyclonedx.xml
+com/flowlogix/depchain/shiro-jakarta/107/shiro-jakarta-107-cyclonedx.json
+com/flowlogix/depchain/unit-test/107/unit-test-107-cyclonedx.xml
+com/flowlogix/depchain/unit-test/107/unit-test-107-cyclonedx.json
+org/apache/camel/quarkus/camel-quarkus/3.31.0/camel-quarkus-3.31.0-cyclonedx.xml
+org/apache/camel/quarkus/camel-quarkus/3.31.0/camel-quarkus-3.31.0-cyclonedx.json
+org/orekit/orekit/13.1.3/orekit-13.1.3-cyclonedx.xml
+org/orekit/orekit/13.1.3/orekit-13.1.3-cyclonedx.json
