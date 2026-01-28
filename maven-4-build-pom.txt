@@ -1937,3 +1937,8 @@ com/flowlogix/depchain/shiro-jakarta/107/shiro-jakarta-107-build.pom
 com/flowlogix/depchain/unit-test/107/unit-test-107-build.pom
 com/flowlogix/infra-pom/104/infra-pom-104-build.pom
 com/flowlogix/payara-pom/104/payara-pom-104-build.pom
+20260127
+com/flowlogix/depchain/depchain/108/depchain-108-build.pom
+com/flowlogix/depchain/integration-test/108/integration-test-108-build.pom
+com/flowlogix/depchain/shiro-jakarta/108/shiro-jakarta-108-build.pom
+com/flowlogix/depchain/unit-test/108/unit-test-108-build.pom

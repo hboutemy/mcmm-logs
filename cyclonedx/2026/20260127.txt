@@ -1,0 +1,10 @@
+com/flowlogix/depchain/depchain/108/depchain-108-cyclonedx.json
+com/flowlogix/depchain/depchain/108/depchain-108-cyclonedx.xml
+com/flowlogix/depchain/integration-test/108/integration-test-108-cyclonedx.xml
+com/flowlogix/depchain/integration-test/108/integration-test-108-cyclonedx.json
+com/flowlogix/depchain/shiro-jakarta/108/shiro-jakarta-108-cyclonedx.json
+com/flowlogix/depchain/shiro-jakarta/108/shiro-jakarta-108-cyclonedx.xml
+com/flowlogix/depchain/unit-test/108/unit-test-108-cyclonedx.xml
+com/flowlogix/depchain/unit-test/108/unit-test-108-cyclonedx.json
+org/apache/maven/extensions/maven-build-cache-extension/1.2.2/maven-build-cache-extension-1.2.2-cyclonedx.xml
+org/apache/maven/extensions/maven-build-cache-extension/1.2.2/maven-build-cache-extension-1.2.2-cyclonedx.json
