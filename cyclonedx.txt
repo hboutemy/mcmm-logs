@@ -7387,6 +7387,11 @@ tools.jackson.dataformat:jackson-dataformat-xml
 tools.jackson.dataformat:jackson-dataformat-yaml
 tools.jackson.datatype:jackson-datatype-eclipse-collections
 tools.jackson.datatype:jackson-datatype-guava
+tools.jackson.datatype:jackson-datatype-hibernate4
+tools.jackson.datatype:jackson-datatype-hibernate5
+tools.jackson.datatype:jackson-datatype-hibernate5-jakarta
+tools.jackson.datatype:jackson-datatype-hibernate6
+tools.jackson.datatype:jackson-datatype-hibernate7
 tools.jackson.datatype:jackson-datatype-hppc
 tools.jackson.datatype:jackson-datatype-jakarta-jsonp
 tools.jackson.datatype:jackson-datatype-jakarta-mail
@@ -7423,6 +7428,8 @@ tools.jackson.module:jackson-module-guice
 tools.jackson.module:jackson-module-guice7
 tools.jackson.module:jackson-module-jakarta-xmlbind-annotations
 tools.jackson.module:jackson-module-jaxb-annotations
+tools.jackson.module:jackson-module-jsonSchema
+tools.jackson.module:jackson-module-jsonSchema-jakarta
 tools.jackson.module:jackson-module-kotlin
 tools.jackson.module:jackson-module-mrbean
 tools.jackson.module:jackson-module-no-ctor-deser
