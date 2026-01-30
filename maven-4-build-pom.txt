@@ -1944,3 +1944,8 @@ com/flowlogix/depchain/shiro-jakarta/108/shiro-jakarta-108-build.pom
 com/flowlogix/depchain/unit-test/108/unit-test-108-build.pom
 20260128
 com/flowlogix/archetypes/starter/121/starter-121-build.pom
+20260129
+com/flowlogix/base-pom/105/base-pom-105-build.pom
+com/flowlogix/checkstyle/105/checkstyle-105-build.pom
+com/flowlogix/infra-pom/105/infra-pom-105-build.pom
+com/flowlogix/payara-pom/105/payara-pom-105-build.pom

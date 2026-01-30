@@ -169,6 +169,7 @@ org.frankframework:property-expression-evaluator
 org.ikasan:commons-dbcp2
 org.jetbrains.kotlin:abi-tools
 org.jetbrains.kotlin:abi-tools-api
+org.jetbrains.kotlin:abi-tools-embeddable
 org.jetbrains.kotlin:analysis-api-test-framework
 org.jetbrains.kotlin:atomicfu
 org.jetbrains.kotlin:compose-compiler-gradle-plugin

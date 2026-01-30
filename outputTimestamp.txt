@@ -19688,3 +19688,28 @@ org/sentrysoftware/maven/maven-skin-tools/1.6.00/maven-skin-tools-1.6.00.pom
 org/sentrysoftware/maven/sentry-maven-skin/6.6.00/sentry-maven-skin-6.6.00.pom
 us/k5n/javacaltools/2.0.0/javacaltools-2.0.0.pom
    from mvn: 4536 - non-mvn: 5622 - buildinfo: 3 - module: 6307 - gradle timestamp: 3805 - atlasdb: 0 = 0 release
+20260128
+com/sonatype/central/testing/apache/maven-deploy-plugin/3.1.4/maven-deploy-plugin-3.1.4.pom
+io/cucumber/cucumber-jvm/7.34.0/cucumber-jvm-7.34.0.pom
+io/cucumber/cucumber-jvm/7.34.1/cucumber-jvm-7.34.1.pom
+io/quarkus/quarkus-parent/3.31.1/quarkus-parent-3.31.1.pom
+org/entur/netex-java-model/2.0.15.2/netex-java-model-2.0.15.2.pom
+org/finos/legend/engine/legend-engine/4.118.6/legend-engine-4.118.6.pom
+org/sentrysoftware/maven/sentry-maven-skin/6.6.01/sentry-maven-skin-6.6.01.pom
+tools/jackson/core/jackson-core/3.1.0-rc1/jackson-core-3.1.0-rc1.pom
+tools/jackson/core/jackson-databind/3.1.0-rc1/jackson-databind-3.1.0-rc1.pom
+tools/jackson/dataformat/jackson-dataformat-xml/3.1.0-rc1/jackson-dataformat-xml-3.1.0-rc1.pom
+tools/jackson/dataformat/jackson-dataformats-binary/3.1.0-rc1/jackson-dataformats-binary-3.1.0-rc1.pom
+tools/jackson/dataformat/jackson-dataformats-text/3.1.0-rc1/jackson-dataformats-text-3.1.0-rc1.pom
+tools/jackson/datatype/jackson-datatype-joda/3.1.0-rc1/jackson-datatype-joda-3.1.0-rc1.pom
+tools/jackson/datatype/jackson-datatypes-collections/3.1.0-rc1/jackson-datatypes-collections-3.1.0-rc1.pom
+tools/jackson/datatype/jackson-datatypes-misc-parent/3.1.0-rc1/jackson-datatypes-misc-parent-3.1.0-rc1.pom
+tools/jackson/jackson-bom/3.1.0-rc1/jackson-bom-3.1.0-rc1.pom
+tools/jackson/jr/jackson-jr-all/3.1.0-rc1/jackson-jr-all-3.1.0-rc1.pom
+tools/jackson/jr/jackson-jr-annotation-support/3.1.0-rc1/jackson-jr-annotation-support-3.1.0-rc1.pom
+tools/jackson/jr/jackson-jr-extension-javatime/3.1.0-rc1/jackson-jr-extension-javatime-3.1.0-rc1.pom
+tools/jackson/jr/jackson-jr-objects/3.1.0-rc1/jackson-jr-objects-3.1.0-rc1.pom
+tools/jackson/jr/jackson-jr-parent/3.1.0-rc1/jackson-jr-parent-3.1.0-rc1.pom
+tools/jackson/jr/jackson-jr-retrofit2/3.1.0-rc1/jackson-jr-retrofit2-3.1.0-rc1.pom
+tools/jackson/jr/jackson-jr-stree/3.1.0-rc1/jackson-jr-stree-3.1.0-rc1.pom
+   from mvn: 4924 - non-mvn: 6550 - buildinfo: 7 - module: 6346 - gradle timestamp: 3624 - atlasdb: 0 = 0 release
