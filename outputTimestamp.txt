@@ -19723,3 +19723,31 @@ io/airlift/airbase/346/airbase-346.pom
 io/cucumber/cucumber-jvm/7.34.2/cucumber-jvm-7.34.2.pom
 io/github/chains-project/maven-lockfile-parent/5.13.0/maven-lockfile-parent-5.13.0.pom
    from mvn: 4675 - non-mvn: 8616 - buildinfo: 1 - module: 8510 - gradle timestamp: 5765 - atlasdb: 0 = 0 release
+20260130
+ch/qos/logback/logback-parent/1.5.27/logback-parent-1.5.27.pom
+com/aoapps/ao-ant-tasks/1.2.1/ao-ant-tasks-1.2.1.pom
+com/aoapps/ao-checkstyle-config/1.4.0/ao-checkstyle-config-1.4.0.pom
+com/aoapps/ao-collections/4.0.0/ao-collections-4.0.0.pom
+com/aoapps/ao-encoding-servlet/4.3.0/ao-encoding-servlet-4.3.0.pom
+com/aoapps/ao-encoding/7.1.0/ao-encoding-7.1.0.pom
+com/aoapps/ao-hodgepodge/5.3.0/ao-hodgepodge-5.3.0.pom
+com/aoapps/ao-lang/5.7.0/ao-lang-5.7.0.pom
+com/aoapps/ao-net-types/3.0.0/ao-net-types-3.0.0.pom
+com/aoapps/ao-oss-parent/1.25.0/ao-oss-parent-1.25.0.pom
+com/aoapps/ao-oss-parent/1.25.1/ao-oss-parent-1.25.1.pom
+com/aoapps/ao-servlet-util/5.4.0/ao-servlet-util-5.4.0.pom
+com/aoapps/ao-servlet-util/6.0.0/ao-servlet-util-6.0.0.pom
+com/aoapps/ao-tempfiles/3.1.0/ao-tempfiles-3.1.0.pom
+com/aoapps/ao-tlds/2.1.0/ao-tlds-2.1.0.pom
+com/aoapps/jakartaee-web-profile-bom/10.0.0/jakartaee-web-profile-bom-10.0.0.pom
+com/aoapps/pgp-keys-map/1.14.0/pgp-keys-map-1.14.0.pom
+com/aoapps/pgp-keys-map/1.14.1/pgp-keys-map-1.14.1.pom
+io/micronaut/maven/micronaut-maven-plugin-parent/4.11.6/micronaut-maven-plugin-parent-4.11.6.pom
+io/roastedroot/lumis4j-parent/0.0.1/lumis4j-parent-0.0.1.pom
+net/sourceforge/pmd/pmd/7.21.0/pmd-7.21.0.pom
+org/cryptomator/cryptolib/2.2.2/cryptolib-2.2.2.pom
+org/eclipse/jetty/jetty-project/12.0.32/jetty-project-12.0.32.pom
+org/eclipse/jetty/jetty-project/12.1.6/jetty-project-12.1.6.pom
+org/jpmml/jpmml-parent/1.0.12/jpmml-parent-1.0.12.pom
+org/jpmml/jpmml-parent/1.0.13/jpmml-parent-1.0.13.pom
+   from mvn: 5920 - non-mvn: 7612 - buildinfo: 2 - module: 4412 - gradle timestamp: 2797 - atlasdb: 0 = 0 release
