@@ -1,0 +1,14 @@
+com/flowlogix/archetypes/starter/123/starter-123-cyclonedx.json
+com/flowlogix/archetypes/starter/123/starter-123-cyclonedx.xml
+com/flowlogix/weld/weld-native/6.0.4/weld-native-6.0.4-cyclonedx.json
+com/flowlogix/weld/weld-native/6.0.4/weld-native-6.0.4-cyclonedx.xml
+edu/hm/hafner/pmd-core/7.21.0-metrics/pmd-core-7.21.0-metrics-cyclonedx.json
+edu/hm/hafner/pmd-core/7.21.0-metrics/pmd-core-7.21.0-metrics-cyclonedx.xml
+edu/hm/hafner/pmd-java/7.21.0-metrics/pmd-java-7.21.0-metrics-cyclonedx.json
+edu/hm/hafner/pmd-java/7.21.0-metrics/pmd-java-7.21.0-metrics-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-pom/11.3.1-beta-6/spoon-pom-11.3.1-beta-6-cyclonedx.xml
+fr/inria/gforge/spoon/spoon-pom/11.3.1-beta-6/spoon-pom-11.3.1-beta-6-cyclonedx.json
+org/apache/maven/plugins/maven-compiler-plugin/3.15.0/maven-compiler-plugin-3.15.0-cyclonedx.xml
+org/apache/maven/plugins/maven-compiler-plugin/3.15.0/maven-compiler-plugin-3.15.0-cyclonedx.json
+org/apache/maven/plugins/maven-compiler-plugin/4.0.0-beta-4/maven-compiler-plugin-4.0.0-beta-4-cyclonedx.xml
+org/apache/maven/plugins/maven-compiler-plugin/4.0.0-beta-4/maven-compiler-plugin-4.0.0-beta-4-cyclonedx.json
