@@ -53,6 +53,10 @@ com.buschmais.jqassistant.plugin:xml
 com.buschmais.jqassistant.plugin:yaml2
 com.duosecurity:duo-client
 com.duosecurity:duo-universal-sdk
+com.erudika:para-client
+com.erudika:para-core
+com.erudika:para-parent
+com.erudika:para-server
 com.fasterxml.jackson.core:jackson-annotations
 com.fasterxml.jackson.core:jackson-core
 com.fasterxml.jackson.core:jackson-databind
@@ -5136,6 +5140,7 @@ org.glassfish.main.libpam4j:libpam4j
 org.glassfish.main.loadbalancer:gf-load-balancer-connector
 org.glassfish.main.loadbalancer:load-balancer
 org.glassfish.main.loadbalancer:load-balancer-admin
+org.glassfish.main.microprofile:glassfish-microprofile-jwt
 org.glassfish.main.microprofile:microprofile-config
 org.glassfish.main.microprofile:microprofile-connectors
 org.glassfish.main.microprofile:microprofile-health
