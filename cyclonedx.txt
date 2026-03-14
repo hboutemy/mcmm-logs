@@ -3084,6 +3084,7 @@ org.apache.hop:hop-transform-propertyinput
 org.apache.hop:hop-transform-propertyoutput
 org.apache.hop:hop-transform-randomvalue
 org.apache.hop:hop-transform-regexeval
+org.apache.hop:hop-transform-repeatfields
 org.apache.hop:hop-transform-replacestring
 org.apache.hop:hop-transform-reservoirsampling
 org.apache.hop:hop-transform-rest
