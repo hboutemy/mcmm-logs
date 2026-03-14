@@ -2289,6 +2289,17 @@ org.apache.cxf:cxf-tools-wsdlto-frontend-jaxws
 org.apache.cxf:cxf-tools-wsdlto-test
 org.apache.cxf:cxf-wadl2java-plugin
 org.apache.cxf:cxf-wsdl-validator-plugin
+org.apache.daffodil:daffodil-codegen-c_3
+org.apache.daffodil:daffodil-core_3
+org.apache.daffodil:daffodil-schematron_3
+org.apache.daffodil:daffodil-slf4j-logger_3
+org.apache.daffodil:daffodil-tdml-junit_3
+org.apache.daffodil:daffodil-tdml-lib_3
+org.apache.daffodil:daffodil-tdml-processor_3
+org.apache.daffodil:sbt-daffodil-utils_2.12
+org.apache.daffodil:sbt-daffodil-utils_2.13
+org.apache.daffodil:sbt-daffodil-utils_3
+org.apache.daffodil:sbt-daffodil_2.12_1.0
 org.apache.directory.api:apache-ldap-api
 org.apache.directory.api:api-all
 org.apache.directory.api:api-asn1-api
