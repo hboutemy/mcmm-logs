@@ -1984,3 +1984,9 @@ com/flowlogix/payara-pom/107/payara-pom-107-build.pom
 20260213
 20260214
 20260215
+20260216
+com/flowlogix/depchain/depchain/110/depchain-110-build.pom
+com/flowlogix/depchain/integration-test/110/integration-test-110-build.pom
+com/flowlogix/depchain/shiro-jakarta/110/shiro-jakarta-110-build.pom
+com/flowlogix/depchain/unit-test/110/unit-test-110-build.pom
+com/flowlogix/flowlogix-bom/19/flowlogix-bom-19-build.pom
