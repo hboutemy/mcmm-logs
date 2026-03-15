@@ -20425,3 +20425,15 @@ org/wso2/org/apache/commons/commons-vfs2-distribution/2.10.0-wso2v7/commons-vfs2
 org/wso2/org/apache/commons/commons-vfs2-project/2.10.0-wso2v7/commons-vfs2-project-2.10.0-wso2v7.pom
 org/wso2/org/apache/commons/commons-vfs2/2.10.0-wso2v7/commons-vfs2-2.10.0-wso2v7.pom
    from mvn: 6312 - non-mvn: 4967 - buildinfo: 1 - module: 3893 - gradle timestamp: 2653 - atlasdb: 0 = 0 release
+20260213
+io/airlift/airbase-policy/353/airbase-policy-353.pom
+io/airlift/airbase/353/airbase-353.pom
+io/github/chains-project/maven-lockfile-parent/5.13.3/maven-lockfile-parent-5.13.3.pom
+org/apache/activemq/activemq-parent/5.19.2/activemq-parent-5.19.2.pom
+org/apache/camel/camel/4.14.5/camel-4.14.5.pom
+org/apache/karaf/karaf/4.4.10/karaf-4.4.10.pom
+org/apache/nifi/nifi/2.8.0/nifi-2.8.0.pom
+org/gosu-lang/gosu/gosu-parent/1.18.7-incremental-alpha-9/gosu-parent-1.18.7-incremental-alpha-9.pom
+org/green-code-initiative/creedengo-integration-test/0.2.3/creedengo-integration-test-0.2.3.pom
+org/green-code-initiative/creedengo-rules-specifications/2.7.1/creedengo-rules-specifications-2.7.1.pom
+   from mvn: 4804 - non-mvn: 4212 - buildinfo: 1 - module: 3104 - gradle timestamp: 2264 - atlasdb: 0 = 0 release
