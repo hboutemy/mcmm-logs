@@ -1973,3 +1973,10 @@ com/flowlogix/base-pom/106/base-pom-106-build.pom
 com/flowlogix/checkstyle/106/checkstyle-106-build.pom
 com/flowlogix/infra-pom/106/infra-pom-106-build.pom
 com/flowlogix/payara-pom/106/payara-pom-106-build.pom
+20260211
+com/flowlogix/archetypes/starter/125/starter-125-build.pom
+com/flowlogix/base-pom/107/base-pom-107-build.pom
+com/flowlogix/checkstyle/107/checkstyle-107-build.pom
+com/flowlogix/flowlogix-bom/18/flowlogix-bom-18-build.pom
+com/flowlogix/infra-pom/107/infra-pom-107-build.pom
+com/flowlogix/payara-pom/107/payara-pom-107-build.pom
