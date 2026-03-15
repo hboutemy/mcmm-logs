@@ -20437,3 +20437,22 @@ org/gosu-lang/gosu/gosu-parent/1.18.7-incremental-alpha-9/gosu-parent-1.18.7-inc
 org/green-code-initiative/creedengo-integration-test/0.2.3/creedengo-integration-test-0.2.3.pom
 org/green-code-initiative/creedengo-rules-specifications/2.7.1/creedengo-rules-specifications-2.7.1.pom
    from mvn: 4804 - non-mvn: 4212 - buildinfo: 1 - module: 3104 - gradle timestamp: 2264 - atlasdb: 0 = 0 release
+20260214
+ch/qos/logback/access/parent/2.0.10/parent-2.0.10.pom
+ch/qos/logback/access/parent/2.0.11/parent-2.0.11.pom
+ch/qos/logback/logback-parent/1.5.30/logback-parent-1.5.30.pom
+ch/qos/logback/logback-parent/1.5.31/logback-parent-1.5.31.pom
+com/google/mug/mug-root/9.1.2/mug-root-9.1.2.pom
+com/google/mug/mug-root/9.9.2/mug-root-9.9.2.pom
+de/cuioss/cui-java-parent/1.4.2/cui-java-parent-1.4.2.pom
+de/cuioss/cui-parent-pom/1.4.2/cui-parent-pom-1.4.2.pom
+eu/maveniverse/maven/parent/parent/50/parent-50.pom
+eu/maveniverse/maven/toolbox/toolbox/0.15.2/toolbox-0.15.2.pom
+io/avaje/avaje-http-parent/3.8-RC1/avaje-http-parent-3.8-RC1.pom
+io/github/sebastian-toepfer/json/rpc/json-rpc/0.9.0/json-rpc-0.9.0.pom
+net/bytebuddy/byte-buddy-agent/1.18.5/byte-buddy-agent-1.18.5.pom
+net/bytebuddy/byte-buddy-dep/1.18.5/byte-buddy-dep-1.18.5.pom
+net/bytebuddy/byte-buddy-parent/1.18.5/byte-buddy-parent-1.18.5.pom
+net/glassless/glassless-provider/0.1.0/glassless-provider-0.1.0.pom
+org/jpmml/jpmml-sklearn/1.9.29/jpmml-sklearn-1.9.29.pom
+   from mvn: 4008 - non-mvn: 2113 - buildinfo: 0 - module: 2118 - gradle timestamp: 962 - atlasdb: 0 = 0 release
