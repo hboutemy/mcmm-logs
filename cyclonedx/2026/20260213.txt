@@ -1,0 +1,12 @@
+com/erudika/para-client/1.52.5/para-client-1.52.5-cyclonedx.json
+com/erudika/para-core/1.52.5/para-core-1.52.5-cyclonedx.json
+com/erudika/para-parent/1.52.5/para-parent-1.52.5-cyclonedx.json
+com/erudika/para-server/1.52.5/para-server-1.52.5-cyclonedx.json
+io/github/chains-project/maven-lockfile-parent/5.13.3/maven-lockfile-parent-5.13.3-cyclonedx.json
+io/github/chains-project/maven-lockfile-parent/5.13.3/maven-lockfile-parent-5.13.3-cyclonedx.xml
+io/github/chains-project/maven-lockfile/5.13.3/maven-lockfile-5.13.3-cyclonedx.xml
+io/github/chains-project/maven-lockfile/5.13.3/maven-lockfile-5.13.3-cyclonedx.json
+org/apache/camel/camel/4.14.5/camel-4.14.5-cyclonedx.xml
+org/apache/camel/camel/4.14.5/camel-4.14.5-cyclonedx.json
+org/apache/camel/springboot/spring-boot/4.14.5/spring-boot-4.14.5-cyclonedx.xml
+org/apache/camel/springboot/spring-boot/4.14.5/spring-boot-4.14.5-cyclonedx.json
