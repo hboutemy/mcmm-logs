@@ -1961,3 +1961,8 @@ com/flowlogix/weld/weld-native/6.0.4/weld-native-6.0.4-build.pom
 20260205
 20260206
 20260207
+20260208
+com/flowlogix/depchain/depchain/109/depchain-109-build.pom
+com/flowlogix/depchain/integration-test/109/integration-test-109-build.pom
+com/flowlogix/depchain/shiro-jakarta/109/shiro-jakarta-109-build.pom
+com/flowlogix/depchain/unit-test/109/unit-test-109-build.pom
