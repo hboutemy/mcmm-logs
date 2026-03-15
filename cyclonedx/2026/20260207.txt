@@ -1,0 +1,11 @@
+com/io7m/ervilla/com.io7m.ervilla.api/1.1.0/com.io7m.ervilla.api-1.1.0-cyclonedx.xml
+com/io7m/ervilla/com.io7m.ervilla.keycloak/1.1.0/com.io7m.ervilla.keycloak-1.1.0-cyclonedx.xml
+com/io7m/ervilla/com.io7m.ervilla.native_exec/1.1.0/com.io7m.ervilla.native_exec-1.1.0-cyclonedx.xml
+com/io7m/ervilla/com.io7m.ervilla.postgres/1.1.0/com.io7m.ervilla.postgres-1.1.0-cyclonedx.xml
+com/io7m/ervilla/com.io7m.ervilla.test_extension/1.1.0/com.io7m.ervilla.test_extension-1.1.0-cyclonedx.xml
+com/io7m/ervilla/com.io7m.ervilla.tests/1.1.0/com.io7m.ervilla.tests-1.1.0-cyclonedx.xml
+com/io7m/ervilla/com.io7m.ervilla/1.1.0/com.io7m.ervilla-1.1.0-cyclonedx.xml
+io/github/chains-project/maven-lockfile-parent/5.13.1/maven-lockfile-parent-5.13.1-cyclonedx.json
+io/github/chains-project/maven-lockfile-parent/5.13.1/maven-lockfile-parent-5.13.1-cyclonedx.xml
+io/github/chains-project/maven-lockfile/5.13.1/maven-lockfile-5.13.1-cyclonedx.json
+io/github/chains-project/maven-lockfile/5.13.1/maven-lockfile-5.13.1-cyclonedx.xml

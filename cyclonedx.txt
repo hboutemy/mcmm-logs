@@ -383,6 +383,7 @@ com.io7m.entomos:com.io7m.entomos.core
 com.io7m.entomos:com.io7m.entomos.tests
 com.io7m.ervilla:com.io7m.ervilla
 com.io7m.ervilla:com.io7m.ervilla.api
+com.io7m.ervilla:com.io7m.ervilla.keycloak
 com.io7m.ervilla:com.io7m.ervilla.native_exec
 com.io7m.ervilla:com.io7m.ervilla.postgres
 com.io7m.ervilla:com.io7m.ervilla.test_extension
