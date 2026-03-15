@@ -20147,3 +20147,15 @@ io/github/chains-project/maven-lockfile-parent/5.13.1/maven-lockfile-parent-5.13
 org/apache/shiro/shiro-root/2.1.0/shiro-root-2.1.0.pom
 org/eclipse/sisu/sisu-inject/1.0.0/sisu-inject-1.0.0.pom
    from mvn: 1312 - non-mvn: 2433 - buildinfo: 1 - module: 1478 - gradle timestamp: 803 - atlasdb: 0 = 0 release
+20260208
+fr/inria/gforge/spoon/spoon-pom/11.3.1-beta-7/spoon-pom-11.3.1-beta-7.pom
+io/cucumber/compatibility-kit/29.0.0/compatibility-kit-29.0.0.pom
+io/github/chains-project/maven-lockfile-parent/5.13.2-beta-1/maven-lockfile-parent-5.13.2-beta-1.pom
+io/javalin/javalin-parent/7.0.0-beta.3/javalin-parent-7.0.0-beta.3.pom
+land/oras/oras-java-sdk/0.3.3/oras-java-sdk-0.3.3.pom
+org/apache/maven/plugin-testing/maven-plugin-testing/3.5.1/maven-plugin-testing-3.5.1.pom
+org/apache/maven/plugins/maven-dependency-plugin/3.10.0/maven-dependency-plugin-3.10.0.pom
+org/apache/sling/org.apache.sling.feature.extension.apiregions/2.1.0/org.apache.sling.feature.extension.apiregions-2.1.0.pom
+org/jpmml/jpmml-evaluator-spark/2.0.2/jpmml-evaluator-spark-2.0.2.pom
+org/jpmml/jpmml-evaluator-spark/2.1.2/jpmml-evaluator-spark-2.1.2.pom
+   from mvn: 653 - non-mvn: 1704 - buildinfo: 0 - module: 1800 - gradle timestamp: 1009 - atlasdb: 0 = 0 release
