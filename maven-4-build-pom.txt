@@ -2018,3 +2018,4 @@ com/google/adk/google-adk/0.6.0/google-adk-0.6.0-build.pom
 com/google/adk/samples/configagent-samples/0.6.0/configagent-samples-0.6.0-build.pom
 com/google/adk/samples/google-adk-sample-helloworld/0.6.0/google-adk-sample-helloworld-0.6.0-build.pom
 com/google/adk/samples/google-adk-sample-mcpfilesystem/0.6.0/google-adk-sample-mcpfilesystem-0.6.0-build.pom
+20260221
