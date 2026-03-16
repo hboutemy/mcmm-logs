@@ -20572,3 +20572,24 @@ io/avaje/openapi-maven-plugin/3.8-RC3/openapi-maven-plugin-3.8-RC3.pom
 io/cucumber/cucumber-parent/5.2.0/cucumber-parent-5.2.0.pom
 org/apache/maven/surefire/surefire/3.5.5/surefire-3.5.5.pom
    from mvn: 1169 - non-mvn: 1740 - buildinfo: 0 - module: 1854 - gradle timestamp: 1164 - atlasdb: 0 = 0 release
+20260222
+com/fasterxml/jackson/core/jackson-annotations/2.18.6/jackson-annotations-2.18.6.pom
+com/fasterxml/jackson/core/jackson-core/2.18.6/jackson-core-2.18.6.pom
+com/fasterxml/jackson/core/jackson-databind/2.18.6/jackson-databind-2.18.6.pom
+com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.18.6/jackson-dataformat-xml-2.18.6.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-binary/2.18.6/jackson-dataformats-binary-2.18.6.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.18.6/jackson-dataformats-text-2.18.6.pom
+com/fasterxml/jackson/jackson-base/2.18.6/jackson-base-2.18.6.pom
+com/fasterxml/jackson/jackson-bom/2.18.6/jackson-bom-2.18.6.pom
+com/fasterxml/jackson/jr/jackson-jr-all/2.18.6/jackson-jr-all-2.18.6.pom
+com/fasterxml/jackson/jr/jackson-jr-annotation-support/2.18.6/jackson-jr-annotation-support-2.18.6.pom
+com/fasterxml/jackson/jr/jackson-jr-extension-javatime/2.18.6/jackson-jr-extension-javatime-2.18.6.pom
+com/fasterxml/jackson/jr/jackson-jr-objects/2.18.6/jackson-jr-objects-2.18.6.pom
+com/fasterxml/jackson/jr/jackson-jr-parent/2.18.6/jackson-jr-parent-2.18.6.pom
+com/fasterxml/jackson/jr/jackson-jr-retrofit2/2.18.6/jackson-jr-retrofit2-2.18.6.pom
+com/fasterxml/jackson/jr/jackson-jr-stree/2.18.6/jackson-jr-stree-2.18.6.pom
+io/airlift/airbase-policy/355/airbase-policy-355.pom
+io/airlift/airbase/355/airbase-355.pom
+io/cucumber/pretty-formatter/3.2.0/pretty-formatter-3.2.0.pom
+io/javalin/javalin-parent/7.0.0/javalin-parent-7.0.0.pom
+   from mvn: 2094 - non-mvn: 2299 - buildinfo: 0 - module: 2351 - gradle timestamp: 1613 - atlasdb: 0 = 0 release

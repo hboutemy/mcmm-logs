@@ -1035,8 +1035,11 @@ de.javatux.jfortune:jfortune
 de.knightsoft-net:gwt-commons-codec
 de.knightsoft-net:gwt-commons-lang3
 de.muenchen.oss:xjustiz
+de.muenchen.oss:xjustiz-0500-straf
 de.muenchen.oss:xjustiz-converter
+de.muenchen.oss:xjustiz-lib
 de.muenchen.oss:xjustiz-starter
+de.muenchen.oss:xjustiz-version-x-x-x
 de.muenchen.refarch.tools:refarch-pmd
 de.muenchen.refarch:refarch-address-integration
 de.muenchen.refarch:refarch-address-integration-client
@@ -1269,6 +1272,7 @@ io.github.amadeusitgroup.maven.wagon:ghrelasset-wagon
 io.github.chains-project:maven-lockfile
 io.github.chains-project:maven-lockfile-github-action
 io.github.chains-project:maven-lockfile-parent
+io.github.giulong:spectrum
 io.github.luigidemasi:jsch
 io.github.ptsdirect:pts
 io.github.r4fterman:abbot
@@ -1333,6 +1337,7 @@ io.smallrye.reactive:smallrye-mutiny-vertx-auth-properties
 io.smallrye.reactive:smallrye-mutiny-vertx-auth-shiro
 io.smallrye.reactive:smallrye-mutiny-vertx-auth-sql-client
 io.smallrye.reactive:smallrye-mutiny-vertx-auth-webauthn
+io.smallrye.reactive:smallrye-mutiny-vertx-auth-webauthn4j
 io.smallrye.reactive:smallrye-mutiny-vertx-bindings-projects
 io.smallrye.reactive:smallrye-mutiny-vertx-bridge-common
 io.smallrye.reactive:smallrye-mutiny-vertx-camel-bridge
@@ -1399,6 +1404,7 @@ io.smallrye.reactive:smallrye-mutiny-vertx-web-templ-thymeleaf
 io.smallrye.reactive:smallrye-mutiny-vertx-web-validation
 io.smallrye.reactive:vertx-mutiny-clients
 io.smallrye.reactive:vertx-mutiny-clients-bom
+io.smallrye.reactive:vertx-mutiny-code-generator
 io.smallrye.reactive:vertx-mutiny-generator
 io.telicent.jena.graphql:graphql-fuseki-module
 io.telicent.jena.graphql:graphql-jena-core
