@@ -1,0 +1,2 @@
+de/javatux/jfortune/jfortune/0.9/jfortune-0.9-cyclonedx.json
+de/javatux/jfortune/jfortune/0.9/jfortune-0.9-cyclonedx.xml

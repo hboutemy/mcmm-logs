@@ -1031,6 +1031,7 @@ de.frachtwerk:essencium-backend-sequence-model
 de.frachtwerk:essencium-backend-storage-module
 de.frachtwerk:essencium-backend-uuid-model
 de.gematik.demis:spring-parent
+de.javatux.jfortune:jfortune
 de.knightsoft-net:gwt-commons-codec
 de.knightsoft-net:gwt-commons-lang3
 de.muenchen.oss:xjustiz

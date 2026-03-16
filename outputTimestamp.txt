@@ -20528,3 +20528,14 @@ org/apache/commons/commons-fileupload2-portlet/2.0.0-M5/commons-fileupload2-port
 org/apache/commons/commons-fileupload2/2.0.0-M5/commons-fileupload2-2.0.0-M5.pom
 org/apache/sling/org.apache.sling.feature.extension.apiregions/2.1.2/org.apache.sling.feature.extension.apiregions-2.1.2.pom
    from mvn: 4670 - non-mvn: 5514 - buildinfo: 0 - module: 4042 - gradle timestamp: 2964 - atlasdb: 0 = 0 release
+20260218
+com/github/waffle/waffle/3.6.0/waffle-3.6.0.pom
+eu/maveniverse/maven/njord/njord/0.9.4/njord-0.9.4.pom
+io/cucumber/pretty-formatter/3.1.0/pretty-formatter-3.1.0.pom
+io/github/devacfr/maven/skins/reflow-parent/2.4.1/reflow-parent-2.4.1.pom
+io/quarkus/quarkus-parent/3.31.4/quarkus-parent-3.31.4.pom
+io/quarkus/quarkus-parent/3.32.0/quarkus-parent-3.32.0.pom
+net/glassless/glassless-provider/0.8.0/glassless-provider-0.8.0.pom
+org/gosu-lang/gosu/gosu-parent/1.18.7-incremental-alpha-10/gosu-parent-1.18.7-incremental-alpha-10.pom
+org/gosu-lang/gosu/gosu-parent/1.18.7-incremental-alpha-11/gosu-parent-1.18.7-incremental-alpha-11.pom
+   from mvn: 5331 - non-mvn: 4987 - buildinfo: 0 - module: 3764 - gradle timestamp: 2680 - atlasdb: 0 = 0 release
