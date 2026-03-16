@@ -1990,3 +1990,12 @@ com/flowlogix/depchain/integration-test/110/integration-test-110-build.pom
 com/flowlogix/depchain/shiro-jakarta/110/shiro-jakarta-110-build.pom
 com/flowlogix/depchain/unit-test/110/unit-test-110-build.pom
 com/flowlogix/flowlogix-bom/19/flowlogix-bom-19-build.pom
+20260217
+com/flowlogix/base-pom/108/base-pom-108-build.pom
+com/flowlogix/checkstyle/108/checkstyle-108-build.pom
+com/flowlogix/depchain/depchain/111/depchain-111-build.pom
+com/flowlogix/depchain/integration-test/111/integration-test-111-build.pom
+com/flowlogix/depchain/shiro-jakarta/111/shiro-jakarta-111-build.pom
+com/flowlogix/depchain/unit-test/111/unit-test-111-build.pom
+com/flowlogix/infra-pom/108/infra-pom-108-build.pom
+com/flowlogix/payara-pom/108/payara-pom-108-build.pom
