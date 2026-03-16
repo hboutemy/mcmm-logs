@@ -20566,3 +20566,9 @@ org/apache/wayang/wayang/1.1.1/wayang-1.1.1.pom
 org/finos/legend/engine/legend-engine/4.121.2/legend-engine-4.121.2.pom
 org/webjars/font-awesome/7.2.0/font-awesome-7.2.0.pom
    from mvn: 4734 - non-mvn: 7465 - buildinfo: 0 - module: 4223 - gradle timestamp: 3861 - atlasdb: 0 = 0 release
+20260221
+io/avaje/avaje-http-parent/3.8-RC3/avaje-http-parent-3.8-RC3.pom
+io/avaje/openapi-maven-plugin/3.8-RC3/openapi-maven-plugin-3.8-RC3.pom
+io/cucumber/cucumber-parent/5.2.0/cucumber-parent-5.2.0.pom
+org/apache/maven/surefire/surefire/3.5.5/surefire-3.5.5.pom
+   from mvn: 1169 - non-mvn: 1740 - buildinfo: 0 - module: 1854 - gradle timestamp: 1164 - atlasdb: 0 = 0 release
