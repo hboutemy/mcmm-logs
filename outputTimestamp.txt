@@ -20687,3 +20687,9 @@ io/telicent/jena/rdf-abac/2.0.0/rdf-abac-2.0.0.pom
 me/tamkungz/codecmedia/codecmedia/1.0.1/codecmedia-1.0.1.pom
 org/ow2/petals/axis2/axis2/2.0.0-PETALS-0/axis2-2.0.0-PETALS-0.pom
    from mvn: 4695 - non-mvn: 6954 - buildinfo: 0 - module: 6469 - gradle timestamp: 3575 - atlasdb: 0 = 0 release
+20260226
+de/gematik/pki/gemLibPki/4.0.2/gemLibPki-4.0.2.pom
+net/optionfactory/spring/optionfactory-spring/23.17/optionfactory-spring-23.17.pom
+org/apache/commons/commons-parent/97/commons-parent-97.pom
+org/kordamp/maven/kordamp-parent/1.6.0/kordamp-parent-1.6.0.pom
+   from mvn: 7148 - non-mvn: 5235 - buildinfo: 0 - module: 3566 - gradle timestamp: 2473 - atlasdb: 0 = 0 release
