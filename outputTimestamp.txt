@@ -20675,3 +20675,15 @@ net/optionfactory/spring/optionfactory-spring/23.16/optionfactory-spring-23.16.p
 org/apache/apache/resources/apache-resource-bundles/1.8/apache-resource-bundles-1.8.pom
 org/gosu-lang/gosu/gosu-parent/1.18.7-incremental-alpha-12/gosu-parent-1.18.7-incremental-alpha-12.pom
    from mvn: 4411 - non-mvn: 6346 - buildinfo: 3 - module: 4944 - gradle timestamp: 3273 - atlasdb: 0 = 0 release
+20260225
+com/fasterxml/oss-parent/77/oss-parent-77.pom
+com/topicus-keyhub/sdk-java/46.0.0/sdk-java-46.0.0.pom
+io/avaje/avaje-logback-encoder/1.1/avaje-logback-encoder-1.1.pom
+io/cucumber/junit-xml-formatter/0.13.1/junit-xml-formatter-0.13.1.pom
+io/cucumber/junit-xml-formatter/0.13.2/junit-xml-formatter-0.13.2.pom
+io/quarkus/quarkus-parent/3.32.1/quarkus-parent-3.32.1.pom
+io/roastedroot/jq4j-parent/0.0.3/jq4j-parent-0.0.3.pom
+io/telicent/jena/rdf-abac/2.0.0/rdf-abac-2.0.0.pom
+me/tamkungz/codecmedia/codecmedia/1.0.1/codecmedia-1.0.1.pom
+org/ow2/petals/axis2/axis2/2.0.0-PETALS-0/axis2-2.0.0-PETALS-0.pom
+   from mvn: 4695 - non-mvn: 6954 - buildinfo: 0 - module: 6469 - gradle timestamp: 3575 - atlasdb: 0 = 0 release
