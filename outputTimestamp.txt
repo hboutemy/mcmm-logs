@@ -20693,3 +20693,29 @@ net/optionfactory/spring/optionfactory-spring/23.17/optionfactory-spring-23.17.p
 org/apache/commons/commons-parent/97/commons-parent-97.pom
 org/kordamp/maven/kordamp-parent/1.6.0/kordamp-parent-1.6.0.pom
    from mvn: 7148 - non-mvn: 5235 - buildinfo: 0 - module: 3566 - gradle timestamp: 2473 - atlasdb: 0 = 0 release
+20260227
+com/spotify/github-client/0.5.7/github-client-0.5.7.pom
+com/spotify/github-client/0.5.8/github-client-0.5.8.pom
+eu/maveniverse/maven/mima/mima/2.4.40/mima-2.4.40.pom
+io/cucumber/messages/32.1.0/messages-32.1.0.pom
+io/github/finoid/parent/0.12.0/parent-0.12.0.pom
+io/roastedroot/pglite4j-parent/0.0.1/pglite4j-parent-0.0.1.pom
+io/telicent/smart-caches/graph/scg-base/0.93.1/scg-base-0.93.1.pom
+net/bytebuddy/byte-buddy-agent/1.18.6-jdk5/byte-buddy-agent-1.18.6-jdk5.pom
+net/bytebuddy/byte-buddy-dep/1.18.6-jdk5/byte-buddy-dep-1.18.6-jdk5.pom
+net/bytebuddy/byte-buddy-parent/1.18.6-jdk5/byte-buddy-parent-1.18.6-jdk5.pom
+net/sourceforge/pmd/pmd/7.22.0/pmd-7.22.0.pom
+org/apache/felix/maven-bundle-plugin/6.0.2/maven-bundle-plugin-6.0.2.pom
+org/apache/jackrabbit/vault/jackrabbit-filevault/4.2.0/jackrabbit-filevault-4.2.0.pom
+org/apache/jackrabbit/vault/parent/4.2.0/parent-4.2.0.pom
+org/apache/nifi/nifi-nar-maven-plugin/2.3.0/nifi-nar-maven-plugin-2.3.0.pom
+org/apache/shiro/shiro-root/3.0.0-alpha-1/shiro-root-3.0.0-alpha-1.pom
+org/apache/shiro/shiro-root/3.0.0-alpha-1/shiro-root-3.0.0-alpha-1-build.pom
+org/apache/sling/org.apache.sling.engine/3.0.2/org.apache.sling.engine-3.0.2.pom
+org/infinispan/infinispan-build-configuration-parent/16.0.7/infinispan-build-configuration-parent-16.0.7.pom
+org/infinispan/protostream/parent/6.0.5/parent-6.0.5.pom
+org/jpmml/jpmml-sklearn/1.9.30/jpmml-sklearn-1.9.30.pom
+org/kordamp/maven/kordamp-parent/1.7.0/kordamp-parent-1.7.0.pom
+org/kordamp/maven/pomchecker/1.15.0/pomchecker-1.15.0.pom
+org/siriushq/stellar/stellar/1.0-RC1/stellar-1.0-RC1.pom
+   from mvn: 5504 - non-mvn: 6825 - buildinfo: 3 - module: 6540 - gradle timestamp: 2744 - atlasdb: 0 = 0 release
