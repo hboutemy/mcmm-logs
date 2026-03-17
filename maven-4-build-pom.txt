@@ -2078,3 +2078,4 @@ org/apache/shiro/shiro-web/3.0.0-alpha-1/shiro-web-3.0.0-alpha-1-build.pom
 org/apache/shiro/tools/shiro-tools-hasher/3.0.0-alpha-1/shiro-tools-hasher-3.0.0-alpha-1-build.pom
 org/apache/shiro/tools/shiro-tools/3.0.0-alpha-1/shiro-tools-3.0.0-alpha-1-build.pom
 20260228
+20260301
