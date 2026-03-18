@@ -1407,6 +1407,7 @@ io.smallrye.reactive:vertx-mutiny-clients-bom
 io.smallrye.reactive:vertx-mutiny-code-generator
 io.smallrye.reactive:vertx-mutiny-generator
 io.telicent.jena.graphql:graphql-fuseki-module
+io.telicent.jena.graphql:graphql-jena-benchmarks
 io.telicent.jena.graphql:graphql-jena-core
 io.telicent.jena.graphql:graphql-server
 io.telicent.jena.graphql:parent

@@ -20751,3 +20751,32 @@ net/bytebuddy/byte-buddy-parent/1.18.7-jdk5/byte-buddy-parent-1.18.7-jdk5.pom
 net/bytebuddy/byte-buddy-parent/1.18.7/byte-buddy-parent-1.18.7.pom
 org/finos/legend/engine/legend-engine/4.121.4/legend-engine-4.121.4.pom
    from mvn: 1481 - non-mvn: 3221 - buildinfo: 0 - module: 1092 - gradle timestamp: 601 - atlasdb: 0 = 0 release
+20260302
+at/yawk/lz4/lz4-java/1.10.4/lz4-java-1.10.4.pom
+com/flowlogix/checkstyle/110/checkstyle-110-build.pom
+com/flowlogix/infra-pom/110/infra-pom-110.pom
+com/flowlogix/infra-pom/110/infra-pom-110-build.pom
+com/github/nbbrd/java-design-util/java-design-bom/1.9.0/java-design-bom-1.9.0.pom
+com/github/nbbrd/java-design-util/java-design-parent/1.9.0/java-design-parent-1.9.0.pom
+eu/europa/ted/eforms/eforms-sdk/1.14.2/eforms-sdk-1.14.2.pom
+io/airlift/airbase-policy/357/airbase-policy-357.pom
+io/airlift/airbase/357/airbase-357.pom
+io/avaje/avaje-http-parent/3.8-RC4/avaje-http-parent-3.8-RC4.pom
+io/avaje/avaje-jex-parent/3.5-RC5/avaje-jex-parent-3.5-RC5.pom
+io/avaje/openapi-maven-plugin/3.8-RC4/openapi-maven-plugin-3.8-RC4.pom
+io/cucumber/messages-ndjson/0.4.1/messages-ndjson-0.4.1.pom
+io/fabric8/kubernetes-client-project/7.6.0/kubernetes-client-project-7.6.0.pom
+io/github/cbarlin/aru-parent/0.8.1/aru-parent-0.8.1.pom
+io/jooby/jooby-project/4.0.16/jooby-project-4.0.16.pom
+me/tamkungz/codecmedia/codecmedia-cli/1.0.2/codecmedia-cli-1.0.2.pom
+me/tamkungz/codecmedia/codecmedia-cli/1.0.3/codecmedia-cli-1.0.3.pom
+me/tamkungz/codecmedia/codecmedia/1.0.2/codecmedia-1.0.2.pom
+org/apache/accumulo/accumulo-classloader-extras/1.0.0/accumulo-classloader-extras-1.0.0.pom
+org/apache/artemis/artemis-project/2.52.0/artemis-project-2.52.0.pom
+org/apache/orc/orc/2.3.0/orc-2.3.0.pom
+org/apache/sling/org.apache.sling.engine/2.16.8/org.apache.sling.engine-2.16.8.pom
+org/apache/sling/org.apache.sling.feature.extension.apiregions/2.2.0/org.apache.sling.feature.extension.apiregions-2.2.0.pom
+org/eclipse/ee4j/project/2.0.1/project-2.0.1.pom
+org/finos/legend/engine/legend-engine/4.121.5/legend-engine-4.121.5.pom
+world/convex/convex/0.8.3/convex-0.8.3.pom
+   from mvn: 4805 - non-mvn: 4282 - buildinfo: 0 - module: 3648 - gradle timestamp: 2130 - atlasdb: 0 = 0 release
