@@ -20909,3 +20909,8 @@ com/quietterminal/clockwork-jvm-parent/1.2.1/clockwork-jvm-parent-1.2.1.pom
 io/yupiik/bundlebee/1.0.32/bundlebee-1.0.32.pom
 io/yupiik/fusion/fusion/1.0.34/fusion-1.0.34.pom
    from mvn: 2332 - non-mvn: 4954 - buildinfo: 0 - module: 2336 - gradle timestamp: 2165 - atlasdb: 0 = 0 release
+20260308
+commons-logging/commons-logging/1.3.6/commons-logging-1.3.6.pom
+eu/maveniverse/maven/maven-boms/maven-boms/3.9.13-01/maven-boms-3.9.13-01.pom
+io/github/chains-project/maven-lockfile-parent/5.14.3-beta-1/maven-lockfile-parent-5.14.3-beta-1.pom
+   from mvn: 1997 - non-mvn: 3462 - buildinfo: 0 - module: 2314 - gradle timestamp: 1577 - atlasdb: 0 = 0 release
