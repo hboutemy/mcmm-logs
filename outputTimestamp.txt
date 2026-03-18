@@ -20903,3 +20903,9 @@ org/apache/maven/maven/3.9.13/maven-3.9.13.pom
 org/metricshub/community-connectors/1.0.19/community-connectors-1.0.19.pom
 org/metricshub/metricshub-community/3.9.01/metricshub-community-3.9.01.pom
    from mvn: 5456 - non-mvn: 6456 - buildinfo: 2 - module: 4178 - gradle timestamp: 2967 - atlasdb: 0 = 0 release
+20260307
+com/github/hazendaz/git/github-desktop/3.5.5/github-desktop-3.5.5.pom
+com/quietterminal/clockwork-jvm-parent/1.2.1/clockwork-jvm-parent-1.2.1.pom
+io/yupiik/bundlebee/1.0.32/bundlebee-1.0.32.pom
+io/yupiik/fusion/fusion/1.0.34/fusion-1.0.34.pom
+   from mvn: 2332 - non-mvn: 4954 - buildinfo: 0 - module: 2336 - gradle timestamp: 2165 - atlasdb: 0 = 0 release
