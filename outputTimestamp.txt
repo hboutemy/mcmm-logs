@@ -20780,3 +20780,20 @@ org/eclipse/ee4j/project/2.0.1/project-2.0.1.pom
 org/finos/legend/engine/legend-engine/4.121.5/legend-engine-4.121.5.pom
 world/convex/convex/0.8.3/convex-0.8.3.pom
    from mvn: 4805 - non-mvn: 4282 - buildinfo: 0 - module: 3648 - gradle timestamp: 2130 - atlasdb: 0 = 0 release
+20260303
+com/google/mug/mug-root/9.9.3/mug-root-9.9.3.pom
+io/avaje/avaje-jex-parent/3.5-RC6/avaje-jex-parent-3.5-RC6.pom
+io/brunoborges/jairosvg/1.0.1/jairosvg-1.0.1.pom
+io/cucumber/messages-ndjson/0.3.1/messages-ndjson-0.3.1.pom
+io/cucumber/testng-xml-formatter/0.8.1/testng-xml-formatter-0.8.1.pom
+io/kroxylicious/kroxylicious-bom/0.19.0/kroxylicious-bom-0.19.0.pom
+io/kroxylicious/kroxylicious-parent/0.19.0/kroxylicious-parent-0.19.0.pom
+io/liftwizard/liftwizard-minimal-parent/2.1.43/liftwizard-minimal-parent-2.1.43.pom
+io/telicent/jena/jena-kafka/3.0.0/jena-kafka-3.0.0.pom
+io/telicent/smart-caches/graph/scg-base/0.93.2/scg-base-0.93.2.pom
+org/apache/jackrabbit/oak-parent/1.92.0/oak-parent-1.92.0.pom
+org/jline/jline-parent/3.30.7/jline-parent-3.30.7.pom
+org/jline/jline-parent/3.30.7/jline-parent-3.30.7-build.pom
+org/jline/jline-parent/4.0.0/jline-parent-4.0.0-build.pom
+org/jline/jline-parent/4.0.0/jline-parent-4.0.0.pom
+   from mvn: 5158 - non-mvn: 6699 - buildinfo: 0 - module: 6551 - gradle timestamp: 4415 - atlasdb: 0 = 0 release
