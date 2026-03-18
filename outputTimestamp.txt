@@ -20797,3 +20797,24 @@ org/jline/jline-parent/3.30.7/jline-parent-3.30.7-build.pom
 org/jline/jline-parent/4.0.0/jline-parent-4.0.0-build.pom
 org/jline/jline-parent/4.0.0/jline-parent-4.0.0.pom
    from mvn: 5158 - non-mvn: 6699 - buildinfo: 0 - module: 6551 - gradle timestamp: 4415 - atlasdb: 0 = 0 release
+20260304
+io/airlift/airbase-policy/358/airbase-policy-358.pom
+io/airlift/airbase/358/airbase-358.pom
+io/avaje/avaje-validator-parent/2.17/avaje-validator-parent-2.17.pom
+io/brunoborges/jairosvg/1.0.2/jairosvg-1.0.2.pom
+io/cucumber/cucumber-jvm/7.34.3/cucumber-jvm-7.34.3.pom
+io/cucumber/messages-ndjson/0.3.2/messages-ndjson-0.3.2.pom
+io/github/agnistack/bom-test-parent/1.0.0/bom-test-parent-1.0.0.pom
+io/github/chains-project/maven-lockfile-parent/5.14.1/maven-lockfile-parent-5.14.1.pom
+io/hyte/platform/build/4.4.8.hyte-26100/build-4.4.8.hyte-26100.pom
+io/quarkus/quarkus-parent/3.32.2/quarkus-parent-3.32.2.pom
+io/roastedroot/pglite4j-parent/0.0.2/pglite4j-parent-0.0.2.pom
+io/roastedroot/quickjs4j-parent/0.0.15/quickjs4j-parent-0.0.15.pom
+io/telicent/smart-caches/graph/scg-base/0.93.3/scg-base-0.93.3.pom
+land/oras/oras-java-sdk/0.4.2/oras-java-sdk-0.4.2.pom
+org/eclipse/jetty/jetty-project/12.0.33/jetty-project-12.0.33.pom
+org/eclipse/jetty/jetty-project/12.1.7/jetty-project-12.1.7.pom
+org/glassfish/mq/project/6.8.0/project-6.8.0.pom
+org/infinispan/protostream/parent/6.0.6/parent-6.0.6.pom
+org/sentrysoftware/maven/sentry-maven-skin/8.0.00/sentry-maven-skin-8.0.00.pom
+   from mvn: 4541 - non-mvn: 6137 - buildinfo: 1 - module: 6800 - gradle timestamp: 3939 - atlasdb: 0 = 0 release

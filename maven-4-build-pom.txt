@@ -2134,3 +2134,6 @@ org/jline/jline-terminal/4.0.0/jline-terminal-4.0.0-build.pom
 org/jline/jline/3.30.7/jline-3.30.7-build.pom
 org/jline/jline/4.0.0/jline-4.0.0-build.pom
 20260304
+20260305
+eu/maveniverse/maven/mason/mason-parent/0.3.0/mason-parent-0.3.0-build.pom
+eu/maveniverse/maven/mason/mason/0.3.0/mason-0.3.0-build.pom
