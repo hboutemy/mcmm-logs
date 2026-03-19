@@ -1,3 +1,14 @@
+ai.timefold.solver.enterprise:timefold-solver-enterprise-bom
+ai.timefold.solver.enterprise:timefold-solver-enterprise-build-parent
+ai.timefold.solver.enterprise:timefold-solver-enterprise-core
+ai.timefold.solver.enterprise:timefold-solver-enterprise-parent
+ai.timefold.solver.enterprise:timefold-solver-enterprise-quarkus
+ai.timefold.solver.enterprise:timefold-solver-enterprise-quarkus-deployment
+ai.timefold.solver.enterprise:timefold-solver-enterprise-quarkus-integration-test
+ai.timefold.solver.enterprise:timefold-solver-enterprise-quarkus-parent
+ai.timefold.solver.enterprise:timefold-solver-enterprise-spring-boot-integration-test
+ai.timefold.solver.enterprise:timefold-solver-enterprise-spring-boot-starter
+ai.timefold.solver.enterprise:timefold-solver-enterprise-spring-parent
 ai.timefold.solver:spring-boot-integration-test
 ai.timefold.solver:timefold-solver-benchmark
 ai.timefold.solver:timefold-solver-benchmark-aggregator
@@ -5026,6 +5037,7 @@ org.glassfish.jersey.ext.rx:jersey-rx-client-rxjava
 org.glassfish.jersey.ext.rx:jersey-rx-client-rxjava2
 org.glassfish.jersey.ext.rx:project
 org.glassfish.jersey.ext:jersey-bean-validation
+org.glassfish.jersey.ext:jersey-constants
 org.glassfish.jersey.ext:jersey-declarative-linking
 org.glassfish.jersey.ext:jersey-entity-filtering
 org.glassfish.jersey.ext:jersey-metainf-services
