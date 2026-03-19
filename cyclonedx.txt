@@ -2126,6 +2126,7 @@ org.apache.arrow:arrow-memory-unsafe
 org.apache.arrow:arrow-performance
 org.apache.arrow:arrow-plasma
 org.apache.arrow:arrow-tools
+org.apache.arrow:arrow-variant
 org.apache.arrow:arrow-vector
 org.apache.arrow:flight-core
 org.apache.arrow:flight-grpc

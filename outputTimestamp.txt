@@ -21044,3 +21044,18 @@ me/tamkungz/codecmedia/codecmedia/1.1.2/codecmedia-1.1.2.pom
 org/codehaus/mojo/extra-enforcer-rules/1.12.0/extra-enforcer-rules-1.12.0.pom
 org/codehaus/mojo/mojo-parent/96/mojo-parent-96.pom
    from mvn: 1339 - non-mvn: 2669 - buildinfo: 0 - module: 1809 - gradle timestamp: 1383 - atlasdb: 0 = 0 release
+20260315
+com/google/mug/mug-bigquery/9.9.8/mug-bigquery-9.9.8.pom
+com/google/mug/mug-bom/9.9.8/mug-bom-9.9.8.pom
+com/google/mug/mug-concurrent24/9.9.8/mug-concurrent24-9.9.8.pom
+com/google/mug/mug-errorprone/9.9.8/mug-errorprone-9.9.8.pom
+com/google/mug/mug-guava/9.9.8/mug-guava-9.9.8.pom
+com/google/mug/mug-protobuf/9.9.8/mug-protobuf-9.9.8.pom
+com/google/mug/mug-root/9.9.8/mug-root-9.9.8.pom
+com/google/mug/mug-safesql/9.9.8/mug-safesql-9.9.8.pom
+com/google/mug/mug-spanner/9.9.8/mug-spanner-9.9.8.pom
+com/google/mug/mug/9.9.8/mug-9.9.8.pom
+io/github/heiye115/hyperliquid-java-sdk/0.2.13/hyperliquid-java-sdk-0.2.13.pom
+land/oras/oras-java-sdk/0.5.1/oras-java-sdk-0.5.1.pom
+org/glassfish/main/nucleus-parent/9.0.0-M1/nucleus-parent-9.0.0-M1.pom
+   from mvn: 2145 - non-mvn: 1567 - buildinfo: 0 - module: 1556 - gradle timestamp: 1081 - atlasdb: 0 = 0 release
