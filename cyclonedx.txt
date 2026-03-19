@@ -4352,6 +4352,9 @@ org.eclipse.angus:logging-mailhandler
 org.eclipse.angus:pop3
 org.eclipse.angus:providers
 org.eclipse.angus:smtp
+org.eclipse.csi:codesign-api
+org.eclipse.csi:codesign-cli
+org.eclipse.csi:codesign-maven-plugin
 org.eclipse.ecsp.vehicle-profile:vehicle-profile
 org.eclipse.ecsp.vehicle-profile:vehicle-profile-api
 org.eclipse.ecsp.vehicle-profile:vehicle-profile-commons
