@@ -1,0 +1,5 @@
+land/oras/oras-java-sdk/0.5.1/oras-java-sdk-0.5.1.spdx.json
+net/dapete/exceptional/0.3.0/exceptional-0.3.0.spdx.json
+org/opendaylight/bgpcep/bgpcep-sbom-1.0.1.spdx
+org/opendaylight/netconf/netconf-sbom-10.0.3.spdx
+org/opendaylight/openflowplugin/openflowplugin-sbom-0.21.3.spdx

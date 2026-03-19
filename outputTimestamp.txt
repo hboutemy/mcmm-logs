@@ -21021,3 +21021,26 @@ org/eclipse/ee4j/project/2.0.2/project-2.0.2.pom
 org/eclipse/jgit/org.eclipse.jgit-parent/7.6.0.202603022253-r/org.eclipse.jgit-parent-7.6.0.202603022253-r.pom
 org/jpmml/jpmml-sklearn/1.9.33/jpmml-sklearn-1.9.33.pom
    from mvn: 4586 - non-mvn: 6115 - buildinfo: 150 - module: 5054 - gradle timestamp: 3376 - atlasdb: 0 = 0 release
+20260314
+com/google/mug/mug-bigquery/9.9.7/mug-bigquery-9.9.7.pom
+com/google/mug/mug-concurrent-testing/9.9.7/mug-concurrent-testing-9.9.7.pom
+com/google/mug/mug-concurrent24/9.9.7/mug-concurrent24-9.9.7.pom
+com/google/mug/mug-errorprone/9.9.7/mug-errorprone-9.9.7.pom
+com/google/mug/mug-guava/9.9.7/mug-guava-9.9.7.pom
+com/google/mug/mug-protobuf/9.9.7/mug-protobuf-9.9.7.pom
+com/google/mug/mug-root/9.9.6/mug-root-9.9.6.pom
+com/google/mug/mug-root/9.9.7/mug-root-9.9.7.pom
+com/google/mug/mug-safesql/9.9.7/mug-safesql-9.9.7.pom
+com/google/mug/mug-spanner/9.9.7/mug-spanner-9.9.7.pom
+com/google/mug/mug/9.9.7/mug-9.9.7.pom
+io/github/cbarlin/aru-parent/0.8.3/aru-parent-0.8.3.pom
+io/javalin/javalin-parent/7.1.0/javalin-parent-7.1.0.pom
+io/kokuwa/micronaut/micronaut-openapi-codegen/4.5.1/micronaut-openapi-codegen-4.5.1.pom
+me/golemcore/plugins/golemcore-plugins/1.0.0/golemcore-plugins-1.0.0.pom
+me/tamkungz/codecmedia/codecmedia-cli/1.1.1/codecmedia-cli-1.1.1.pom
+me/tamkungz/codecmedia/codecmedia-cli/1.1.2/codecmedia-cli-1.1.2.pom
+me/tamkungz/codecmedia/codecmedia/1.1.1/codecmedia-1.1.1.pom
+me/tamkungz/codecmedia/codecmedia/1.1.2/codecmedia-1.1.2.pom
+org/codehaus/mojo/extra-enforcer-rules/1.12.0/extra-enforcer-rules-1.12.0.pom
+org/codehaus/mojo/mojo-parent/96/mojo-parent-96.pom
+   from mvn: 1339 - non-mvn: 2669 - buildinfo: 0 - module: 1809 - gradle timestamp: 1383 - atlasdb: 0 = 0 release
