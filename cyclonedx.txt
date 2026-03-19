@@ -1424,6 +1424,7 @@ io.github.chains-project:maven-lockfile-github-action
 io.github.chains-project:maven-lockfile-parent
 io.github.giulong:spectrum
 io.github.luigidemasi:jsch
+io.github.manishdait24-bot:maven-release-poc
 io.github.ptsdirect:pts
 io.github.r4fterman:abbot
 io.github.r4fterman:com.windowtester

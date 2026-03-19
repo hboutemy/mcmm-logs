@@ -1,0 +1,7 @@
+io/reshapr/reshapr-api/0.0.4/reshapr-api-0.0.4.spdx.json
+io/reshapr/reshapr-commons/0.0.4/reshapr-commons-0.0.4.spdx.json
+io/reshapr/reshapr-ctrl/0.0.4/reshapr-ctrl-0.0.4.spdx.json
+io/reshapr/reshapr-parent/0.0.4/reshapr-parent-0.0.4.spdx.json
+io/reshapr/reshapr/0.0.4/reshapr-0.0.4.spdx.json
+org/opendaylight/transportpce/models/models-sbom-23.1.0.spdx
+org/opendaylight/transportpce/transportpce-sbom-11.2.0.spdx
