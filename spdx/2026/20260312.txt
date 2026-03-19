@@ -1,0 +1,14 @@
+com/github/mwiede/jsch/2.27.9/jsch-2.27.9.spdx.json
+org/opendaylight/controller/controller-sbom-11.0.4.spdx
+org/opendaylight/ietf/ietf-sbom-1.0.4.spdx
+org/opendaylight/ietf/ietf-sbom-2.0.0.spdx
+org/opendaylight/mdsal/mdsal-sbom-15.0.4.spdx
+org/opendaylight/mdsal/mdsal-sbom-16.0.0.spdx
+org/opendaylight/mdsal/mdsal-sbom-14.0.21.spdx
+org/spdx/java-spdx-library/2.0.3/java-spdx-library-2.0.3.spdx.json
+org/spdx/spdx-jackson-store/2.0.5/spdx-jackson-store-2.0.5.spdx.json
+org/spdx/spdx-rdf-store/2.0.3/spdx-rdf-store-2.0.3.spdx.json
+org/spdx/spdx-spreadsheet-store/2.0.3/spdx-spreadsheet-store-2.0.3.spdx.json
+org/spdx/spdx-tagvalue-store/2.0.3/spdx-tagvalue-store-2.0.3.spdx.json
+org/spdx/spdx-v3jsonld-store/1.0.3/spdx-v3jsonld-store-1.0.3.spdx.json
+org/spdx/tools-java/2.0.5/tools-java-2.0.5.spdx.json

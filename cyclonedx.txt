@@ -1,5 +1,6 @@
 ai.timefold.solver:spring-boot-integration-test
 ai.timefold.solver:timefold-solver-benchmark
+ai.timefold.solver:timefold-solver-benchmark-aggregator
 ai.timefold.solver:timefold-solver-bom
 ai.timefold.solver:timefold-solver-build-parent
 ai.timefold.solver:timefold-solver-core
