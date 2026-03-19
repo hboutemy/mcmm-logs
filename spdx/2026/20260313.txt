@@ -1,0 +1,8 @@
+io/opentelemetry/javaagent/opentelemetry-javaagent/2.26.0/opentelemetry-javaagent-2.26.0-spdx.json
+io/reshapr/reshapr-api/0.0.2/reshapr-api-0.0.2.spdx.json
+io/reshapr/reshapr-commons/0.0.2/reshapr-commons-0.0.2.spdx.json
+io/reshapr/reshapr-ctrl/0.0.2/reshapr-ctrl-0.0.2.spdx.json
+io/reshapr/reshapr-parent/0.0.2/reshapr-parent-0.0.2.spdx.json
+io/reshapr/reshapr/0.0.2/reshapr-0.0.2.spdx.json
+org/opendaylight/aaa/aaa-sbom-0.21.4.spdx
+org/spdx/spdx-v3jsonld-store/1.0.4/spdx-v3jsonld-store-1.0.4.spdx.json

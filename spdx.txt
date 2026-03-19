@@ -82,6 +82,11 @@ io.mishmash.stacks.security:security-karaf-common
 io.mishmash.stacks.security:security-oidc-common
 io.mishmash.stacks:stacks-common
 io.opentelemetry.javaagent:opentelemetry-javaagent
+io.reshapr:reshapr
+io.reshapr:reshapr-api
+io.reshapr:reshapr-commons
+io.reshapr:reshapr-ctrl
+io.reshapr:reshapr-parent
 land.oras:oras-java-sdk
 net.dapete:exceptional
 net.dapete:locks
