@@ -1,0 +1,5 @@
+org/opendaylight/yangtools/yangtools-sbom-15.0.0.spdx
+org/opendaylight/yangtools/yangtools-sbom-14.0.23.spdx
+org/spdx/spdx-java-core/1.0.3/spdx-java-core-1.0.3.spdx.json
+org/spdx/spdx-java-model-2_X/1.0.3/spdx-java-model-2_X-1.0.3.spdx.json
+org/spdx/spdx-java-model-3_0/1.0.3/spdx-java-model-3_0-1.0.3.spdx.json
