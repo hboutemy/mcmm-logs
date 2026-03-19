@@ -59,7 +59,14 @@ io.mishmash.stacks.karaf:karaf-features
 io.mishmash.stacks.misc:openid
 io.mishmash.stacks.osgi:wrapper-protobuf
 io.mishmash.stacks.osgi:wrapper-vertx
+io.mishmash.stacks.patches:arrow-flight-core-patches
+io.mishmash.stacks.patches:arrow-format-patches
+io.mishmash.stacks.patches:arrow-memory-core-patches
+io.mishmash.stacks.patches:arrow-memory-netty-patches
+io.mishmash.stacks.patches:arrow-memory-unsafe-patches
+io.mishmash.stacks.patches:arrow-vector-patches
 io.mishmash.stacks.patches:hadoop-patches
+io.mishmash.stacks.patches:helix-patches
 io.mishmash.stacks.patches:zookeeper-patches
 io.mishmash.stacks.quorum:quorum-admin-rest
 io.mishmash.stacks.quorum:quorum-cli

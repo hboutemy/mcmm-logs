@@ -5315,6 +5315,8 @@ org.glassfish.metro:wstx-impl
 org.glassfish.metro:wstx-project
 org.glassfish.metro:wstx-services
 org.glassfish.metro:xmlfilter
+org.glassfish.mojarra:mojarra
+org.glassfish.mojarra:mojarra-parent
 org.glassfish.mq:bridge
 org.glassfish.mq:helpfiles
 org.glassfish.mq:http-tunnel
