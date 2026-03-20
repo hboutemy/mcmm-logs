@@ -1615,6 +1615,17 @@ io.telicent.smart-caches.graph:scg-base
 io.telicent.smart-caches.graph:scg-benchmark
 io.telicent.smart-caches.graph:scg-server
 io.telicent.smart-caches.graph:scg-system
+io.telicent.smart-caches.storage:common
+io.telicent.smart-caches.storage:hibernate
+io.telicent.smart-caches.storage:label-store-alternates
+io.telicent.smart-caches.storage:label-store-benchmarks
+io.telicent.smart-caches.storage:label-store-hibernate
+io.telicent.smart-caches.storage:label-store-mongodb
+io.telicent.smart-caches.storage:label-store-rocksdb
+io.telicent.smart-caches.storage:label-stores
+io.telicent.smart-caches.storage:mongodb
+io.telicent.smart-caches.storage:parent
+io.telicent.smart-caches.storage:rocksdb
 io.telicent.smart-caches:action-tracker
 io.telicent.smart-caches:benchmarks
 io.telicent.smart-caches:cli

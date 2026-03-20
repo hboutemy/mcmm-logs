@@ -1,0 +1,6 @@
+io/github/microcks/microcks-kube-api/0.0.8/microcks-kube-api-0.0.8.spdx.json
+io/github/microcks/microcks-kube-operator/0.0.8/microcks-kube-operator-0.0.8.spdx.json
+io/github/microcks/microcks-operator/0.0.8/microcks-operator-0.0.8.spdx.json
+org/opendaylight/aaa/aaa-sbom-0.23.0.spdx
+org/opendaylight/controller/controller-sbom-13.0.0.spdx
+org/opendaylight/transportpce/transportpce-sbom-12.1.0.spdx
