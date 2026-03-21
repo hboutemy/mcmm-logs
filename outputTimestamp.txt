@@ -21107,3 +21107,10 @@ org/jline/jline-parent/3.30.9/jline-parent-3.30.9-build.pom
 org/jline/jline-parent/3.30.9/jline-parent-3.30.9.pom
 org/jline/jline-parent/4.0.6/jline-parent-4.0.6.pom
    from mvn: 8913 - non-mvn: 6961 - buildinfo: 0 - module: 5393 - gradle timestamp: 3231 - atlasdb: 0 = 0 release
+20260319
+cloud/opencode/base/opencode-base-parent/1.0.0/opencode-base-parent-1.0.0.pom
+de/cuioss/nifi/nifi-extensions/0.3.0/nifi-extensions-0.3.0.pom
+io/avaje/avaje-inject-parent/12.5-RC5/avaje-inject-parent-12.5-RC5.pom
+io/telicent/jena/rdf-abac/2.0.2/rdf-abac-2.0.2.pom
+org/jline/jline-parent/4.0.7/jline-parent-4.0.7.pom
+   from mvn: 4634 - non-mvn: 9402 - buildinfo: 0 - module: 5845 - gradle timestamp: 4304 - atlasdb: 0 = 0 release

@@ -23,6 +23,7 @@ de.knightsoft-net:gwt-commons-validator
 de.powerstat.phplib:templateengine
 de.powerstat.toolbaseline:tbl-java-parent
 de.powerstat.validation:validation
+io.github.jiangood:commons-dbutils
 io.github.luigidemasi:jsch
 io.github.microcks.quarkus:quarkus-microcks
 io.github.microcks.quarkus:quarkus-microcks-deployment

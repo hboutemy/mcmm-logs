@@ -1,0 +1,6 @@
+io/github/jiangood/commons-dbutils/1.9.0/commons-dbutils-1.9.0.spdx.json
+org/opendaylight/controller/controller-sbom-13.0.1.spdx
+org/opendaylight/ietf/ietf-sbom-2.0.1.spdx
+org/opendaylight/mdsal/mdsal-sbom-16.0.2.spdx
+org/opendaylight/mdsal/mdsal-sbom-15.0.6.spdx
+org/opendaylight/yangtools/yangtools-sbom-15.0.1.spdx
