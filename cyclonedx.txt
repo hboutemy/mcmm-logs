@@ -5686,6 +5686,7 @@ org.janusgraph:janusgraph-test
 org.janusgraph:scylla-hadoop-util
 org.jdbi.internal:jdbi3-internal-cache-parent
 org.jdbi.internal:jdbi3-internal-parent
+org.jdbi.internal:jdbi3-native-tests
 org.jdbi.internal:jdbi3-parent
 org.jdbi:jdbi3-benchmark
 org.jdbi:jdbi3-bom
@@ -5711,6 +5712,7 @@ org.jdbi:jdbi3-json
 org.jdbi:jdbi3-kotlin
 org.jdbi:jdbi3-kotlin-sqlobject
 org.jdbi:jdbi3-moshi
+org.jdbi:jdbi3-mysql
 org.jdbi:jdbi3-noop-cache
 org.jdbi:jdbi3-noparameters
 org.jdbi:jdbi3-opentelemetry

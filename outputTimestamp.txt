@@ -21114,3 +21114,34 @@ io/avaje/avaje-inject-parent/12.5-RC5/avaje-inject-parent-12.5-RC5.pom
 io/telicent/jena/rdf-abac/2.0.2/rdf-abac-2.0.2.pom
 org/jline/jline-parent/4.0.7/jline-parent-4.0.7.pom
    from mvn: 4634 - non-mvn: 9402 - buildinfo: 0 - module: 5845 - gradle timestamp: 4304 - atlasdb: 0 = 0 release
+20260320
+com/fasterxml/jackson/core/jackson-core/2.21.2/jackson-core-2.21.2.pom
+com/fasterxml/jackson/core/jackson-databind/2.21.2/jackson-databind-2.21.2.pom
+com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.21.2/jackson-dataformat-xml-2.21.2.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-binary/2.21.2/jackson-dataformats-binary-2.21.2.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.21.2/jackson-dataformats-text-2.21.2.pom
+com/fasterxml/jackson/datatype/jackson-datatype-joda/2.21.2/jackson-datatype-joda-2.21.2.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-collections/2.21.2/jackson-datatypes-collections-2.21.2.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/2.21.2/jackson-datatypes-misc-parent-2.21.2.pom
+com/fasterxml/jackson/jackson-base/2.21.2/jackson-base-2.21.2.pom
+com/fasterxml/jackson/jackson-bom/2.21.2/jackson-bom-2.21.2.pom
+com/fasterxml/jackson/jr/jackson-jr-all/2.21.2/jackson-jr-all-2.21.2.pom
+com/fasterxml/jackson/jr/jackson-jr-annotation-support/2.21.2/jackson-jr-annotation-support-2.21.2.pom
+com/fasterxml/jackson/jr/jackson-jr-extension-javatime/2.21.2/jackson-jr-extension-javatime-2.21.2.pom
+com/fasterxml/jackson/jr/jackson-jr-objects/2.21.2/jackson-jr-objects-2.21.2.pom
+com/fasterxml/jackson/jr/jackson-jr-parent/2.21.2/jackson-jr-parent-2.21.2.pom
+com/fasterxml/jackson/jr/jackson-jr-retrofit2/2.21.2/jackson-jr-retrofit2-2.21.2.pom
+com/fasterxml/jackson/jr/jackson-jr-stree/2.21.2/jackson-jr-stree-2.21.2.pom
+com/github/seregamorph/maven-turbo-reactor-parent/0.2/maven-turbo-reactor-parent-0.2.pom
+com/topicus-keyhub/sdk-java/47.0.0/sdk-java-47.0.0.pom
+de/cuioss/nifi/nifi-extensions/0.3.1/nifi-extensions-0.3.1.pom
+io/avaje/avaje-jex-parent/3.5-RC8/avaje-jex-parent-3.5-RC8.pom
+io/fabric8/kubernetes-client-project/7.3.2/kubernetes-client-project-7.3.2.pom
+io/github/jiangood/commons-dbutils/1.9.0/commons-dbutils-1.9.0.pom
+io/github/koyan9/spring-correctness-linter-parent/0.1.1/spring-correctness-linter-parent-0.1.1.pom
+io/telicent/jena/rdf-abac/2.0.3/rdf-abac-2.0.3.pom
+nl/basjes/parse/useragent/yauaa-parent/8.1.1/yauaa-parent-8.1.1.pom
+nl/basjes/parse/useragent/yauaa/8.1.1/yauaa-8.1.1.pom
+org/apache/artemis/artemis-project/2.53.0/artemis-project-2.53.0.pom
+org/apache/rat/apache-rat-project/0.18/apache-rat-project-0.18.pom
+   from mvn: 7187 - non-mvn: 6918 - buildinfo: 5 - module: 4343 - gradle timestamp: 3054 - atlasdb: 0 = 0 release

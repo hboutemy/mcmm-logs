@@ -2333,3 +2333,4 @@ com/google/adk/google-adk/1.0.0-rc.1/google-adk-1.0.0-rc.1-build.pom
 com/google/adk/samples/configagent-samples/1.0.0-rc.1/configagent-samples-1.0.0-rc.1-build.pom
 com/google/adk/samples/google-adk-sample-helloworld/1.0.0-rc.1/google-adk-sample-helloworld-1.0.0-rc.1-build.pom
 com/google/adk/samples/google-adk-sample-mcpfilesystem/1.0.0-rc.1/google-adk-sample-mcpfilesystem-1.0.0-rc.1-build.pom
+20260321
