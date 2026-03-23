@@ -21145,3 +21145,7 @@ nl/basjes/parse/useragent/yauaa/8.1.1/yauaa-8.1.1.pom
 org/apache/artemis/artemis-project/2.53.0/artemis-project-2.53.0.pom
 org/apache/rat/apache-rat-project/0.18/apache-rat-project-0.18.pom
    from mvn: 7187 - non-mvn: 6918 - buildinfo: 5 - module: 4343 - gradle timestamp: 3054 - atlasdb: 0 = 0 release
+20260321
+org/apache/maven/doxia/doxia/2.1.0/doxia-2.1.0.pom
+org/jdbi/internal/jdbi3-root/3.52.0/jdbi3-root-3.52.0.pom
+   from mvn: 1704 - non-mvn: 2568 - buildinfo: 0 - module: 1659 - gradle timestamp: 1172 - atlasdb: 0 = 0 release

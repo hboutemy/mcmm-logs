@@ -666,6 +666,7 @@ com.io7m.jcoords:com.io7m.jcoords.tests
 com.io7m.jcoronado:com.io7m.jcoronado
 com.io7m.jcoronado:com.io7m.jcoronado.allocation_tracker
 com.io7m.jcoronado:com.io7m.jcoronado.api
+com.io7m.jcoronado:com.io7m.jcoronado.bom
 com.io7m.jcoronado:com.io7m.jcoronado.documentation
 com.io7m.jcoronado:com.io7m.jcoronado.examples
 com.io7m.jcoronado:com.io7m.jcoronado.extensions.ext_debug_utils.api
@@ -673,8 +674,11 @@ com.io7m.jcoronado:com.io7m.jcoronado.extensions.ext_layer_settings.api
 com.io7m.jcoronado:com.io7m.jcoronado.extensions.khr_surface.api
 com.io7m.jcoronado:com.io7m.jcoronado.fake
 com.io7m.jcoronado:com.io7m.jcoronado.layers.khronos_validation.api
+com.io7m.jcoronado:com.io7m.jcoronado.layers.lunarg_api_dump.api
 com.io7m.jcoronado:com.io7m.jcoronado.lwjgl
 com.io7m.jcoronado:com.io7m.jcoronado.tests
+com.io7m.jcoronado:com.io7m.jcoronado.utility.allocation_tracker
+com.io7m.jcoronado:com.io7m.jcoronado.utility.swapchain
 com.io7m.jcoronado:com.io7m.jcoronado.vma
 com.io7m.jdeferthrow:com.io7m.jdeferthrow
 com.io7m.jdeferthrow:com.io7m.jdeferthrow.core

@@ -1,0 +1,16 @@
+com/io7m/jcoronado/com.io7m.jcoronado.api/1.0.0-beta0001/com.io7m.jcoronado.api-1.0.0-beta0001-cyclonedx.xml
+com/io7m/jcoronado/com.io7m.jcoronado.bom/1.0.0-beta0001/com.io7m.jcoronado.bom-1.0.0-beta0001-cyclonedx.xml
+com/io7m/jcoronado/com.io7m.jcoronado.documentation/1.0.0-beta0001/com.io7m.jcoronado.documentation-1.0.0-beta0001-cyclonedx.xml
+com/io7m/jcoronado/com.io7m.jcoronado.examples/1.0.0-beta0001/com.io7m.jcoronado.examples-1.0.0-beta0001-cyclonedx.xml
+com/io7m/jcoronado/com.io7m.jcoronado.extensions.ext_debug_utils.api/1.0.0-beta0001/com.io7m.jcoronado.extensions.ext_debug_utils.api-1.0.0-beta0001-cyclonedx.xml
+com/io7m/jcoronado/com.io7m.jcoronado.extensions.ext_layer_settings.api/1.0.0-beta0001/com.io7m.jcoronado.extensions.ext_layer_settings.api-1.0.0-beta0001-cyclonedx.xml
+com/io7m/jcoronado/com.io7m.jcoronado.extensions.khr_surface.api/1.0.0-beta0001/com.io7m.jcoronado.extensions.khr_surface.api-1.0.0-beta0001-cyclonedx.xml
+com/io7m/jcoronado/com.io7m.jcoronado.fake/1.0.0-beta0001/com.io7m.jcoronado.fake-1.0.0-beta0001-cyclonedx.xml
+com/io7m/jcoronado/com.io7m.jcoronado.layers.khronos_validation.api/1.0.0-beta0001/com.io7m.jcoronado.layers.khronos_validation.api-1.0.0-beta0001-cyclonedx.xml
+com/io7m/jcoronado/com.io7m.jcoronado.layers.lunarg_api_dump.api/1.0.0-beta0001/com.io7m.jcoronado.layers.lunarg_api_dump.api-1.0.0-beta0001-cyclonedx.xml
+com/io7m/jcoronado/com.io7m.jcoronado.lwjgl/1.0.0-beta0001/com.io7m.jcoronado.lwjgl-1.0.0-beta0001-cyclonedx.xml
+com/io7m/jcoronado/com.io7m.jcoronado.tests/1.0.0-beta0001/com.io7m.jcoronado.tests-1.0.0-beta0001-cyclonedx.xml
+com/io7m/jcoronado/com.io7m.jcoronado.utility.allocation_tracker/1.0.0-beta0001/com.io7m.jcoronado.utility.allocation_tracker-1.0.0-beta0001-cyclonedx.xml
+com/io7m/jcoronado/com.io7m.jcoronado.utility.swapchain/1.0.0-beta0001/com.io7m.jcoronado.utility.swapchain-1.0.0-beta0001-cyclonedx.xml
+com/io7m/jcoronado/com.io7m.jcoronado.vma/1.0.0-beta0001/com.io7m.jcoronado.vma-1.0.0-beta0001-cyclonedx.xml
+com/io7m/jcoronado/com.io7m.jcoronado/1.0.0-beta0001/com.io7m.jcoronado-1.0.0-beta0001-cyclonedx.xml
