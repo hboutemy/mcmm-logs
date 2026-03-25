@@ -1,0 +1,6 @@
+io/reshapr/reshapr-api/0.0.5/reshapr-api-0.0.5.spdx.json
+io/reshapr/reshapr-commons/0.0.5/reshapr-commons-0.0.5.spdx.json
+io/reshapr/reshapr-ctrl/0.0.5/reshapr-ctrl-0.0.5.spdx.json
+io/reshapr/reshapr-parent/0.0.5/reshapr-parent-0.0.5.spdx.json
+io/reshapr/reshapr/0.0.5/reshapr-0.0.5.spdx.json
+org/opendaylight/yangtools/yangtools-sbom-15.0.2.spdx
