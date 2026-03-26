@@ -1,0 +1,7 @@
+io/mishmash/opentelemetry/collector-embedded/1.1.6/collector-embedded-1.1.6.spdx.json
+io/mishmash/opentelemetry/druid-otlp-format/1.1.6/druid-otlp-format-1.1.6.spdx.json
+io/mishmash/opentelemetry/opentelemetry-server-embedded/1.1.6/opentelemetry-server-embedded-1.1.6.spdx.json
+io/mishmash/opentelemetry/persistence-protobuf/1.1.6/persistence-protobuf-1.1.6.spdx.json
+io/mishmash/opentelemetry/server-parquet/1.1.6/server-parquet-1.1.6.spdx.json
+org/opendaylight/ietf/ietf-sbom-2.0.2.spdx
+org/opendaylight/mdsal/mdsal-sbom-16.0.3.spdx

@@ -47,6 +47,11 @@ io.github.microcks:microcks-util
 io.github.ptsdirect:pts
 io.github.ryunen344.webauthn:webauthn2-json-moshi
 io.github.ryunen344.webauthn:webauthn2-json-serialization
+io.mishmash.opentelemetry:collector-embedded
+io.mishmash.opentelemetry:druid-otlp-format
+io.mishmash.opentelemetry:opentelemetry-server-embedded
+io.mishmash.opentelemetry:persistence-protobuf
+io.mishmash.opentelemetry:server-parquet
 io.mishmash.stacks.compute:compute-azure-osgi
 io.mishmash.stacks.compute:compute-azure-utils
 io.mishmash.stacks.compute:compute-shell-karaf
