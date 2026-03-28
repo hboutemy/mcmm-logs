@@ -62,6 +62,15 @@ io.mishmash.stacks.data:blocks-high-availability
 io.mishmash.stacks.data:blocks-http
 io.mishmash.stacks.fs:fs-sftp
 io.mishmash.stacks.karaf:karaf-features
+io.mishmash.stacks.memory:memory-buffer
+io.mishmash.stacks.memory:memory-buffer-foreign-mishmash-io
+io.mishmash.stacks.memory:memory-buffer-foreign-mishmash-io-osgi
+io.mishmash.stacks.memory:memory-buffer-osgi
+io.mishmash.stacks.memory:memory-buffer-shell-karaf
+io.mishmash.stacks.memory:memory-buffer-unsafe
+io.mishmash.stacks.memory:memory-buffer-unsafe-osgi
+io.mishmash.stacks.memory:memory-vector
+io.mishmash.stacks.memory:memory-vector-osgi
 io.mishmash.stacks.misc:openid
 io.mishmash.stacks.osgi:wrapper-protobuf
 io.mishmash.stacks.osgi:wrapper-vertx

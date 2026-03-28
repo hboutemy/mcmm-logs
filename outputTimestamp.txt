@@ -21196,3 +21196,24 @@ org/glassfish/main/glassfish-main-aggregator/8.0.1/glassfish-main-aggregator-8.0
 org/glassfish/main/nucleus-parent/8.0.1/nucleus-parent-8.0.1.pom
 org/metricshub/jflat/1.1.00/jflat-1.1.00.pom
    from mvn: 7360 - non-mvn: 7368 - buildinfo: 1 - module: 5910 - gradle timestamp: 3979 - atlasdb: 0 = 0 release
+20260326
+com/github/nbbrd/heylogs/heylogs-bom/0.16.0/heylogs-bom-0.16.0.pom
+com/github/nbbrd/heylogs/heylogs-bom/0.16.1/heylogs-bom-0.16.1.pom
+com/github/nbbrd/heylogs/heylogs-parent/0.16.0/heylogs-parent-0.16.0.pom
+com/github/nbbrd/heylogs/heylogs-parent/0.16.1/heylogs-parent-0.16.1.pom
+digital/pragmatech/testing/spring-test-profiler/0.0.18/spring-test-profiler-0.0.18.pom
+eu/europa/ted/eforms/eforms-core-java/1.6.0/eforms-core-java-1.6.0.pom
+eu/europa/ted/eforms/eforms-notice-viewer/0.12.0/eforms-notice-viewer-0.12.0.pom
+eu/europa/ted/eforms/eforms-sdk/2.0.0-alpha.2/eforms-sdk-2.0.0-alpha.2.pom
+eu/europa/ted/eforms/efx-toolkit-java/2.0.0-alpha.6/efx-toolkit-java-2.0.0-alpha.6.pom
+eu/maveniverse/maven/nisse/nisse/0.8.1/nisse-0.8.1.pom
+fr/acinq/bitcoin-lib_2.13/0.47/bitcoin-lib_2.13-0.47.pom
+io/avaje/avaje-inject-parent/12.5-RC7/avaje-inject-parent-12.5-RC7.pom
+io/avaje/avaje-inject-parent/12.5-javax-RC7/avaje-inject-parent-12.5-javax-RC7.pom
+io/github/heiye115/hyperliquid-java-sdk/0.2.15/hyperliquid-java-sdk-0.2.15.pom
+io/github/koyan9/spring-correctness-linter-parent/0.1.2/spring-correctness-linter-parent-0.1.2.pom
+io/streamnative/buildtools/4.0.9.5/buildtools-4.0.9.5.pom
+io/streamnative/pulsar-bom/4.0.9.5/pulsar-bom-4.0.9.5.pom
+io/streamnative/pulsar/4.0.9.5/pulsar-4.0.9.5.pom
+io/telicent/jena/jena-kafka/3.0.1/jena-kafka-3.0.1.pom
+   from mvn: 6350 - non-mvn: 9286 - buildinfo: 0 - module: 7084 - gradle timestamp: 4750 - atlasdb: 0 = 0 release
