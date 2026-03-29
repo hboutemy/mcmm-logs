@@ -21217,3 +21217,37 @@ io/streamnative/pulsar-bom/4.0.9.5/pulsar-bom-4.0.9.5.pom
 io/streamnative/pulsar/4.0.9.5/pulsar-4.0.9.5.pom
 io/telicent/jena/jena-kafka/3.0.1/jena-kafka-3.0.1.pom
    from mvn: 6350 - non-mvn: 9286 - buildinfo: 0 - module: 7084 - gradle timestamp: 4750 - atlasdb: 0 = 0 release
+20260327
+com/fasterxml/oss-parent/78/oss-parent-78.pom
+com/fasterxml/oss-parent/79/oss-parent-79.pom
+com/sap/ai/sdk/sdk-parent/1.17.0/sdk-parent-1.17.0.pom
+digital/pragmatech/testing/spring-test-profiler/0.1.0/spring-test-profiler-0.1.0.pom
+io/brunoborges/jairosvg/1.0.3/jairosvg-1.0.3.pom
+io/github/koyan9/spring-correctness-linter-parent/0.1.3/spring-correctness-linter-parent-0.1.3.pom
+io/github/koyan9/spring-correctness-linter-parent/0.1.4/spring-correctness-linter-parent-0.1.4.pom
+net/optionfactory/spring/optionfactory-spring/23.20/optionfactory-spring-23.20.pom
+net/sourceforge/pmd/pmd/7.23.0/pmd-7.23.0.pom
+org/apache/camel/camel/4.18.1/camel-4.18.1.pom
+org/codehaus/plexus/plexus-utils/4.0.3/plexus-utils-4.0.3-build.pom
+org/codehaus/plexus/plexus-utils/4.0.3/plexus-utils-4.0.3.pom
+org/finos/legend/engine/legend-engine/4.124.1/legend-engine-4.124.1.pom
+org/fusesource/jansi/jansi/2.4.3/jansi-2.4.3.pom
+org/infinispan/infinispan-build-configuration-parent/16.0.9/infinispan-build-configuration-parent-16.0.9.pom
+org/infinispan/infinispan-build-configuration-parent/16.1.3/infinispan-build-configuration-parent-16.1.3.pom
+tools/jackson/core/jackson-core/3.1.1/jackson-core-3.1.1.pom
+tools/jackson/core/jackson-databind/3.1.1/jackson-databind-3.1.1.pom
+tools/jackson/dataformat/jackson-dataformat-xml/3.1.1/jackson-dataformat-xml-3.1.1.pom
+tools/jackson/dataformat/jackson-dataformats-binary/3.1.1/jackson-dataformats-binary-3.1.1.pom
+tools/jackson/dataformat/jackson-dataformats-text/3.1.1/jackson-dataformats-text-3.1.1.pom
+tools/jackson/datatype/jackson-datatype-joda/3.1.1/jackson-datatype-joda-3.1.1.pom
+tools/jackson/datatype/jackson-datatypes-collections/3.1.1/jackson-datatypes-collections-3.1.1.pom
+tools/jackson/datatype/jackson-datatypes-misc-parent/3.1.1/jackson-datatypes-misc-parent-3.1.1.pom
+tools/jackson/jackson-bom/3.1.1/jackson-bom-3.1.1.pom
+tools/jackson/jr/jackson-jr-all/3.1.1/jackson-jr-all-3.1.1.pom
+tools/jackson/jr/jackson-jr-annotation-support/3.1.1/jackson-jr-annotation-support-3.1.1.pom
+tools/jackson/jr/jackson-jr-extension-javatime/3.1.1/jackson-jr-extension-javatime-3.1.1.pom
+tools/jackson/jr/jackson-jr-objects/3.1.1/jackson-jr-objects-3.1.1.pom
+tools/jackson/jr/jackson-jr-parent/3.1.1/jackson-jr-parent-3.1.1.pom
+tools/jackson/jr/jackson-jr-retrofit2/3.1.1/jackson-jr-retrofit2-3.1.1.pom
+tools/jackson/jr/jackson-jr-stree/3.1.1/jackson-jr-stree-3.1.1.pom
+   from mvn: 8320 - non-mvn: 9634 - buildinfo: 0 - module: 7448 - gradle timestamp: 4720 - atlasdb: 0 = 0 release

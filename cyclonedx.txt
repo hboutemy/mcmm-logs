@@ -889,6 +889,7 @@ com.io7m.montarre:com.io7m.montarre.nativepack
 com.io7m.montarre:com.io7m.montarre.schema
 com.io7m.montarre:com.io7m.montarre.tests
 com.io7m.montarre:com.io7m.montarre.xml
+com.io7m.montarre:com.io7m.montarre.xml_format
 com.io7m.nanohttpd:nanohttpd
 com.io7m.nanohttpd:nanohttpd-apache-fileupload
 com.io7m.nanohttpd:nanohttpd-nanolets
@@ -1018,6 +1019,7 @@ com.io7m.xstructural:com.io7m.xstructural.maven_plugin
 com.io7m.xstructural:com.io7m.xstructural.tests
 com.io7m.xstructural:com.io7m.xstructural.vanilla
 com.io7m.xstructural:com.io7m.xstructural.xml
+com.io7m.xstructural:com.io7m.xstructural.xml_resources
 com.io7m.zelador:com.io7m.zelador
 com.io7m.zelador:com.io7m.zelador.test_extension
 com.io7m.zelador:com.io7m.zelador.tests

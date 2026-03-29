@@ -2347,3 +2347,7 @@ com/flowlogix/archetypes/starter/130/starter-130-build.pom
 20260326
 20260327
 org/codehaus/plexus/plexus-utils/4.0.3/plexus-utils-4.0.3-build.pom
+20260328
+com/flowlogix/flowlogix-datamodel/11.2/flowlogix-datamodel-11.2-build.pom
+com/flowlogix/flowlogix-jee/11.2/flowlogix-jee-11.2-build.pom
+com/flowlogix/flowlogix/11.2/flowlogix-11.2-build.pom
