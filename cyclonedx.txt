@@ -1218,6 +1218,8 @@ de.gematik.demis:spring-parent
 de.javatux.jfortune:jfortune
 de.knightsoft-net:gwt-commons-codec
 de.knightsoft-net:gwt-commons-lang3
+de.muenchen.oss.refarch:refarch-pmd
+de.muenchen.oss.refarch:refarch-tools
 de.muenchen.oss:xjustiz
 de.muenchen.oss:xjustiz-0500-straf
 de.muenchen.oss:xjustiz-converter
@@ -2900,6 +2902,7 @@ org.apache.hadoop:hadoop-client-modules
 org.apache.hadoop:hadoop-client-runtime
 org.apache.hadoop:hadoop-cloud-storage
 org.apache.hadoop:hadoop-common
+org.apache.hadoop:hadoop-compat-bench
 org.apache.hadoop:hadoop-cos
 org.apache.hadoop:hadoop-datajoin
 org.apache.hadoop:hadoop-distcp
@@ -2909,6 +2912,7 @@ org.apache.hadoop:hadoop-dynamometer-workload
 org.apache.hadoop:hadoop-extras
 org.apache.hadoop:hadoop-federation-balance
 org.apache.hadoop:hadoop-fs2img
+org.apache.hadoop:hadoop-gcp
 org.apache.hadoop:hadoop-gridmix
 org.apache.hadoop:hadoop-hdfs
 org.apache.hadoop:hadoop-hdfs-client
@@ -2945,6 +2949,7 @@ org.apache.hadoop:hadoop-resourceestimator
 org.apache.hadoop:hadoop-rumen
 org.apache.hadoop:hadoop-sls
 org.apache.hadoop:hadoop-streaming
+org.apache.hadoop:hadoop-tos
 org.apache.hadoop:hadoop-yarn
 org.apache.hadoop:hadoop-yarn-api
 org.apache.hadoop:hadoop-yarn-applications
@@ -2953,6 +2958,7 @@ org.apache.hadoop:hadoop-yarn-applications-catalog-docker
 org.apache.hadoop:hadoop-yarn-applications-catalog-webapp
 org.apache.hadoop:hadoop-yarn-applications-distributedshell
 org.apache.hadoop:hadoop-yarn-applications-unmanaged-am-launcher
+org.apache.hadoop:hadoop-yarn-capacity-scheduler-ui
 org.apache.hadoop:hadoop-yarn-client
 org.apache.hadoop:hadoop-yarn-common
 org.apache.hadoop:hadoop-yarn-csi
