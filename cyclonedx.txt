@@ -1496,6 +1496,11 @@ io.github.sebastian-toepfer.json.rpc:json-rpc-runtime
 io.github.sebastian-toepfer.json.rpc:json-rpc-spring-integration-autoconfigure
 io.github.sebastian-toepfer.json.rpc:json-rpc-spring-integration-starter
 io.github.sebastian-toepfer.oss:oss-parent
+io.github.sndnv:fsi
+io.github.sndnv:layers-testing_2.13
+io.github.sndnv:layers-testing_3
+io.github.sndnv:layers_2.13
+io.github.sndnv:layers_3
 io.github.sola-ris:jax-rs-client-test
 io.github.spannm:jackcess
 io.github.spannm:ucanaccess
