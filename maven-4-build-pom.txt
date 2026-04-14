@@ -2381,3 +2381,12 @@ com/flowlogix/plugins/container-deploy-plugin/1.2/container-deploy-plugin-1.2-bu
 com/flowlogix/plugins/live-reload/1.2/live-reload-1.2-build.pom
 20260401
 com/flowlogix/flowlogix-bom/24/flowlogix-bom-24-build.pom
+20260402
+com/flowlogix/base-pom/115/base-pom-115-build.pom
+com/flowlogix/checkstyle/115/checkstyle-115-build.pom
+com/flowlogix/depchain/depchain/115/depchain-115-build.pom
+com/flowlogix/depchain/integration-test/115/integration-test-115-build.pom
+com/flowlogix/depchain/shiro-jakarta/115/shiro-jakarta-115-build.pom
+com/flowlogix/depchain/unit-test/115/unit-test-115-build.pom
+com/flowlogix/infra-pom/115/infra-pom-115-build.pom
+com/flowlogix/payara-pom/115/payara-pom-115-build.pom
