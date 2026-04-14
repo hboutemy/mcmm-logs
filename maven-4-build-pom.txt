@@ -2391,3 +2391,10 @@ com/flowlogix/depchain/unit-test/115/unit-test-115-build.pom
 com/flowlogix/infra-pom/115/infra-pom-115-build.pom
 com/flowlogix/payara-pom/115/payara-pom-115-build.pom
 20260403
+20260404
+com/flowlogix/flowlogix-datamodel/11.2.1/flowlogix-datamodel-11.2.1-build.pom
+com/flowlogix/flowlogix-jee/11.2.1/flowlogix-jee-11.2.1-build.pom
+com/flowlogix/flowlogix/11.2.1/flowlogix-11.2.1-build.pom
+com/flowlogix/plugins/container-deploy-plugin-root/1.3/container-deploy-plugin-root-1.3-build.pom
+com/flowlogix/plugins/container-deploy-plugin/1.3/container-deploy-plugin-1.3-build.pom
+com/flowlogix/plugins/live-reload/1.3/live-reload-1.3-build.pom

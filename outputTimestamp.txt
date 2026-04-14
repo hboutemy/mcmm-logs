@@ -21343,3 +21343,17 @@ org/finos/legend/engine/legend-engine/4.124.5/legend-engine-4.124.5.pom
 org/jline/jline-parent/4.0.10/jline-parent-4.0.10.pom
 org/jpmml/jpmml-parent/1.0.15/jpmml-parent-1.0.15.pom
    from mvn: 5814 - non-mvn: 6679 - buildinfo: 0 - module: 5796 - gradle timestamp: 3647 - atlasdb: 0 = 0 release
+20260403
+eu/maveniverse/maven/nisse/nisse/0.8.2/nisse-0.8.2.pom
+io/airlift/airbase-policy/368/airbase-policy-368.pom
+io/airlift/airbase/368/airbase-368.pom
+io/github/git-commit-id/git-commit-id-maven-plugin/10.0.0/git-commit-id-maven-plugin-10.0.0.pom
+io/github/git-commit-id/git-commit-id-maven-plugin/9.2.0/git-commit-id-maven-plugin-9.2.0.pom
+io/streamnative/buildtools/4.2.0.2/buildtools-4.2.0.2.pom
+io/streamnative/pulsar-bom/4.2.0.2/pulsar-bom-4.2.0.2.pom
+io/streamnative/pulsar/4.2.0.2/pulsar-4.2.0.2.pom
+org/apache/syncope/fit/syncope-fit-build-tools/4.0.5/syncope-fit-build-tools-4.0.5.pom
+org/apache/syncope/fit/syncope-fit-build-tools/4.1.0/syncope-fit-build-tools-4.1.0.pom
+org/apache/syncope/syncope/4.0.5/syncope-4.0.5.pom
+org/apache/syncope/syncope/4.1.0/syncope-4.1.0.pom
+   from mvn: 4619 - non-mvn: 6467 - buildinfo: 85 - module: 4885 - gradle timestamp: 3047 - atlasdb: 0 = 0 release
