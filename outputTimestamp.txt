@@ -21357,3 +21357,14 @@ org/apache/syncope/fit/syncope-fit-build-tools/4.1.0/syncope-fit-build-tools-4.1
 org/apache/syncope/syncope/4.0.5/syncope-4.0.5.pom
 org/apache/syncope/syncope/4.1.0/syncope-4.1.0.pom
    from mvn: 4619 - non-mvn: 6467 - buildinfo: 85 - module: 4885 - gradle timestamp: 3047 - atlasdb: 0 = 0 release
+20260404
+com/github/hazendaz/git/github-desktop/3.5.7/github-desktop-3.5.7.pom
+com/tguzik/valueclasses-parent/2.0.2/valueclasses-parent-2.0.2.pom
+io/github/heiye115/hyperliquid-java-sdk/0.2.20/hyperliquid-java-sdk-0.2.20.pom
+org/apache/ratis/ratis/3.2.2/ratis-3.2.2.pom
+org/codehaus/plexus/plexus-classworlds/2.10.0/plexus-classworlds-2.10.0.pom
+org/jpmml/jpmml-parent/1.0.17/jpmml-parent-1.0.17.pom
+org/jpmml/jpmml-parent/1.0.18/jpmml-parent-1.0.18.pom
+org/jpmml/jpmml-parent/1.0.19/jpmml-parent-1.0.19.pom
+org/jpmml/jpmml-sklearn/1.9.35/jpmml-sklearn-1.9.35.pom
+   from mvn: 1125 - non-mvn: 4366 - buildinfo: 0 - module: 2931 - gradle timestamp: 2815 - atlasdb: 0 = 0 release

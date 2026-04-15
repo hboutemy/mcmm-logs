@@ -692,6 +692,8 @@ com.io7m.jcoronado:com.io7m.jcoronado.extensions.khr_surface.api
 com.io7m.jcoronado:com.io7m.jcoronado.fake
 com.io7m.jcoronado:com.io7m.jcoronado.layers.khronos_validation.api
 com.io7m.jcoronado:com.io7m.jcoronado.layers.lunarg_api_dump.api
+com.io7m.jcoronado:com.io7m.jcoronado.layers.lunarg_gfxreconstruct.api
+com.io7m.jcoronado:com.io7m.jcoronado.layers.renderdoc.api
 com.io7m.jcoronado:com.io7m.jcoronado.lwjgl
 com.io7m.jcoronado:com.io7m.jcoronado.tests
 com.io7m.jcoronado:com.io7m.jcoronado.utility.allocation_tracker
