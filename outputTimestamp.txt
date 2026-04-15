@@ -21378,3 +21378,12 @@ org/apache/openmeetings/openmeetings-parent/9.0.0/openmeetings-parent-9.0.0.pom
 org/jpmml/jpmml-parent/1.0.20/jpmml-parent-1.0.20.pom
 org/jpmml/jpmml-sklearn/1.9.36/jpmml-sklearn-1.9.36.pom
    from mvn: 698 - non-mvn: 2547 - buildinfo: 0 - module: 1840 - gradle timestamp: 1066 - atlasdb: 0 = 0 release
+20260406
+com/hibegin/zrlog-base/3.3.9/zrlog-base-3.3.9.pom
+io/avaje/avaje-inject-parent/12.5-javax/avaje-inject-parent-12.5-javax.pom
+io/avaje/avaje-inject-parent/12.5/avaje-inject-parent-12.5.pom
+io/avaje/avaje-jex-parent/3.5/avaje-jex-parent-3.5.pom
+io/avaje/avaje-jsonb-parent/3.12/avaje-jsonb-parent-3.12.pom
+org/apache/sshd/sshd-osgi/3.0.0-M3/sshd-osgi-3.0.0-M3.pom
+org/apache/sshd/sshd/3.0.0-M3/sshd-3.0.0-M3.pom
+   from mvn: 3376 - non-mvn: 4247 - buildinfo: 0 - module: 3815 - gradle timestamp: 2794 - atlasdb: 0 = 0 release
