@@ -21455,3 +21455,14 @@ org/apache/causeway/causeway-bom/3.6.0/causeway-bom-3.6.0.pom
 org/finos/legend/engine/legend-engine/4.127.0/legend-engine-4.127.0.pom
 org/jdbi/internal/jdbi3-root/3.52.1/jdbi3-root-3.52.1.pom
    from mvn: 6301 - non-mvn: 6455 - buildinfo: 0 - module: 5005 - gradle timestamp: 3289 - atlasdb: 0 = 0 release
+20260410
+com/github/nbbrd/java-desktop-util/java-desktop-util-bom/2.7.0/java-desktop-util-bom-2.7.0.pom
+com/github/nbbrd/java-desktop-util/java-desktop-util-parent/2.7.0/java-desktop-util-parent-2.7.0.pom
+com/zerionis/zerionis-log/1.1.0/zerionis-log-1.1.0.pom
+com/zerionis/zerionis-log/1.1.1/zerionis-log-1.1.1.pom
+com/zerionis/zerionis-log/1.1.2/zerionis-log-1.1.2.pom
+eu/maveniverse/maven/scalpel/scalpel/0.3.0/scalpel-0.3.0.pom
+io/avaje/avaje-metrics-parent/9.9-RC1/avaje-metrics-parent-9.9-RC1.pom
+org/apache/jackrabbit/jackrabbit-parent/2.23.4-beta/jackrabbit-parent-2.23.4-beta.pom
+org/apache/nifi/nifi/2.9.0/nifi-2.9.0.pom
+   from mvn: 3862 - non-mvn: 8109 - buildinfo: 0 - module: 6856 - gradle timestamp: 3735 - atlasdb: 0 = 0 release
