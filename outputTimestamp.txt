@@ -21466,3 +21466,32 @@ io/avaje/avaje-metrics-parent/9.9-RC1/avaje-metrics-parent-9.9-RC1.pom
 org/apache/jackrabbit/jackrabbit-parent/2.23.4-beta/jackrabbit-parent-2.23.4-beta.pom
 org/apache/nifi/nifi/2.9.0/nifi-2.9.0.pom
    from mvn: 3862 - non-mvn: 8109 - buildinfo: 0 - module: 6856 - gradle timestamp: 3735 - atlasdb: 0 = 0 release
+20260411
+io/avaje/avaje-jsonb-parent/3.13-RC1/avaje-jsonb-parent-3.13-RC1.pom
+io/avaje/avaje-spi-parent/2.17/avaje-spi-parent-2.17.pom
+io/github/anirbanmu/thriftc-jar/0.21.0/thriftc-jar-0.21.0.pom
+io/github/anirbanmu/thriftc-jar/0.22.0/thriftc-jar-0.22.0.pom
+io/github/anirbanmu/thriftc-maven-plugin/1.0.0/thriftc-maven-plugin-1.0.0.pom
+org/jpmml/jpmml-sparkml/3.0.11/jpmml-sparkml-3.0.11.pom
+org/jpmml/jpmml-sparkml/3.1.11/jpmml-sparkml-3.1.11.pom
+org/jpmml/jpmml-sparkml/3.2.10/jpmml-sparkml-3.2.10.pom
+org/jpmml/jpmml-sparkml/3.3.3/jpmml-sparkml-3.3.3.pom
+org/owasp/dependency-check-parent/12.2.1/dependency-check-parent-12.2.1.pom
+org/owasp/dependency-check-plugin/12.2.1/dependency-check-plugin-12.2.1.pom
+tools/jackson/core/jackson-core/3.1.2/jackson-core-3.1.2.pom
+tools/jackson/core/jackson-databind/3.1.2/jackson-databind-3.1.2.pom
+tools/jackson/dataformat/jackson-dataformat-xml/3.1.2/jackson-dataformat-xml-3.1.2.pom
+tools/jackson/dataformat/jackson-dataformats-binary/3.1.2/jackson-dataformats-binary-3.1.2.pom
+tools/jackson/dataformat/jackson-dataformats-text/3.1.2/jackson-dataformats-text-3.1.2.pom
+tools/jackson/datatype/jackson-datatype-joda/3.1.2/jackson-datatype-joda-3.1.2.pom
+tools/jackson/datatype/jackson-datatypes-collections/3.1.2/jackson-datatypes-collections-3.1.2.pom
+tools/jackson/datatype/jackson-datatypes-misc-parent/3.1.2/jackson-datatypes-misc-parent-3.1.2.pom
+tools/jackson/jackson-bom/3.1.2/jackson-bom-3.1.2.pom
+tools/jackson/jr/jackson-jr-all/3.1.2/jackson-jr-all-3.1.2.pom
+tools/jackson/jr/jackson-jr-annotation-support/3.1.2/jackson-jr-annotation-support-3.1.2.pom
+tools/jackson/jr/jackson-jr-extension-javatime/3.1.2/jackson-jr-extension-javatime-3.1.2.pom
+tools/jackson/jr/jackson-jr-objects/3.1.2/jackson-jr-objects-3.1.2.pom
+tools/jackson/jr/jackson-jr-parent/3.1.2/jackson-jr-parent-3.1.2.pom
+tools/jackson/jr/jackson-jr-retrofit2/3.1.2/jackson-jr-retrofit2-3.1.2.pom
+tools/jackson/jr/jackson-jr-stree/3.1.2/jackson-jr-stree-3.1.2.pom
+   from mvn: 1794 - non-mvn: 3349 - buildinfo: 4 - module: 2023 - gradle timestamp: 1085 - atlasdb: 0 = 0 release

@@ -1245,6 +1245,14 @@ de.gematik.demis:spring-parent
 de.javatux.jfortune:jfortune
 de.knightsoft-net:gwt-commons-codec
 de.knightsoft-net:gwt-commons-lang3
+de.muehlencord.facessupport:faces-support-bom
+de.muehlencord.facessupport:faces-support-lib
+de.muehlencord.facessupport:faces-support-parent
+de.muehlencord.facessupport:faces-support-spring-boot-autoconfigure
+de.muehlencord.facessupport:faces-support-spring-boot-starter
+de.muehlencord.facessupport:faces-support-spring-data-jpa
+de.muehlencord.facessupport:faces-support-spring-data-jpa-spring-boot-autoconfigure
+de.muehlencord.facessupport:faces-support-spring-data-jpa-spring-boot-starter
 de.muenchen.oss.refarch:refarch-pmd
 de.muenchen.oss.refarch:refarch-tools
 de.muenchen.oss:xjustiz
