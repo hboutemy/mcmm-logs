@@ -1536,6 +1536,7 @@ io.github.sparsick.testcontainers.gitserver:testcontainers-git-bom
 io.github.sparsick.testcontainers.gitserver:testcontainers-git-parent
 io.github.sparsick.testcontainers.gitserver:testcontainers-gitserver
 io.github.tomverin:sonar-dummy-oss-plugin
+io.sapl:sapl-language-server
 io.smallrye.reactive:mutiny
 io.smallrye.reactive:mutiny-kotlin
 io.smallrye.reactive:mutiny-math

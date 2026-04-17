@@ -21434,3 +21434,24 @@ org/apache/maven/doxia/doxia-sitetools/2.1.0/doxia-sitetools-2.1.0.pom
 org/jline/jline-parent/4.0.12/jline-parent-4.0.12.pom
 org/mybatis/generator/mybatis-generator/2.0.0/mybatis-generator-2.0.0.pom
    from mvn: 5728 - non-mvn: 6826 - buildinfo: 1 - module: 4902 - gradle timestamp: 3480 - atlasdb: 0 = 0 release
+20260409
+at/yawk/lz4/lz4-java/1.11.0/lz4-java-1.11.0.pom
+com/flowlogix/checkstyle/117/checkstyle-117-build.pom
+com/flowlogix/infra-pom/117/infra-pom-117-build.pom
+com/flowlogix/infra-pom/117/infra-pom-117.pom
+com/github/nbbrd/java-desktop-util/java-desktop-util-bom/2.6.2/java-desktop-util-bom-2.6.2.pom
+com/github/nbbrd/java-desktop-util/java-desktop-util-parent/2.6.2/java-desktop-util-parent-2.6.2.pom
+com/janeluo/tika-lite-parent/1.0.0/tika-lite-parent-1.0.0.pom
+dev/langchain4j/langchain4j-community/1.13.0-beta23/langchain4j-community-1.13.0-beta23.pom
+dev/langchain4j/langchain4j-parent/1.13.0-beta23/langchain4j-parent-1.13.0-beta23.pom
+dev/langchain4j/langchain4j-spring/1.13.0-beta23/langchain4j-spring-1.13.0-beta23.pom
+eu/maveniverse/maven/scalpel/scalpel/0.1.0/scalpel-0.1.0.pom
+eu/maveniverse/maven/scalpel/scalpel/0.2.0/scalpel-0.2.0.pom
+io/alapierre/ksef/ksef-fop/1.2.18/ksef-fop-1.2.18.pom
+io/github/heiye115/hyperliquid-java-sdk/0.2.22/hyperliquid-java-sdk-0.2.22.pom
+io/hyte/platform/build/4.4.8.hyte-26150/build-4.4.8.hyte-26150.pom
+org/apache/activemq/activemq-parent/5.19.5/activemq-parent-5.19.5.pom
+org/apache/causeway/causeway-bom/3.6.0/causeway-bom-3.6.0.pom
+org/finos/legend/engine/legend-engine/4.127.0/legend-engine-4.127.0.pom
+org/jdbi/internal/jdbi3-root/3.52.1/jdbi3-root-3.52.1.pom
+   from mvn: 6301 - non-mvn: 6455 - buildinfo: 0 - module: 5005 - gradle timestamp: 3289 - atlasdb: 0 = 0 release
