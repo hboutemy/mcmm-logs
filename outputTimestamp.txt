@@ -21525,3 +21525,13 @@ io/cucumber/junit-xml-formatter/0.13.3/junit-xml-formatter-0.13.3.pom
 io/jooby/jooby-project/4.4.0/jooby-project-4.4.0.pom
 io/roastedroot/chicory-redline-parent/0.0.2/chicory-redline-parent-0.0.2.pom
    from mvn: 7398 - non-mvn: 5714 - buildinfo: 0 - module: 3998 - gradle timestamp: 2278 - atlasdb: 0 = 0 release
+20260415
+com/github/nbbrd/java-design-util/java-design-bom/1.10.1/java-design-bom-1.10.1.pom
+com/github/nbbrd/java-design-util/java-design-parent/1.10.1/java-design-parent-1.10.1.pom
+eu/europa/ted/eforms/eforms-sdk/1.13.3/eforms-sdk-1.13.3.pom
+id/devcode/spring-extension-parent/1.0.13/spring-extension-parent-1.0.13.pom
+io/airlift/airbase-policy/370/airbase-policy-370.pom
+io/airlift/airbase/370/airbase-370.pom
+io/github/stellaraxis/starmap-java-sdk/0.0.1/starmap-java-sdk-0.0.1.pom
+io/quarkus/quarkus-parent/3.34.4/quarkus-parent-3.34.4.pom
+   from mvn: 3330 - non-mvn: 4115 - buildinfo: 0 - module: 4123 - gradle timestamp: 2203 - atlasdb: 0 = 0 release
