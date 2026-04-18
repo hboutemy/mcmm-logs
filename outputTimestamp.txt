@@ -21500,3 +21500,16 @@ io/airlift/airbase-policy/369/airbase-policy-369.pom
 io/airlift/airbase/369/airbase-369.pom
 org/codehaus/modello/modello/2.7.0/modello-2.7.0.pom
    from mvn: 1199 - non-mvn: 3328 - buildinfo: 0 - module: 1803 - gradle timestamp: 1402 - atlasdb: 0 = 0 release
+20260413
+com/elharo/propernouns/1.0.5/propernouns-1.0.5.pom
+com/zerionis/zerionis-log/1.2.0/zerionis-log-1.2.0.pom
+de/stklcode/jvault/jvault-connector/1.5.4/jvault-connector-1.5.4.pom
+io/cucumber/cucumber-parent/5.3.0/cucumber-parent-5.3.0.pom
+io/cucumber/cucumber-parent/5.3.1/cucumber-parent-5.3.1.pom
+io/cucumber/html-formatter/23.1.0/html-formatter-23.1.0.pom
+io/cucumber/messages/32.3.1/messages-32.3.1.pom
+org/apache/sling/org.apache.sling.bundleresource.impl/3.0.0/org.apache.sling.bundleresource.impl-3.0.0.pom
+org/apache/sling/org.apache.sling.serviceuser.webconsole/2.0.0/org.apache.sling.serviceuser.webconsole-2.0.0.pom
+org/finos/legend/engine/legend-engine/4.127.1/legend-engine-4.127.1.pom
+tech/picnic/error-prone-support/error-prone-support/0.29.0/error-prone-support-0.29.0.pom
+   from mvn: 7893 - non-mvn: 5754 - buildinfo: 0 - module: 4692 - gradle timestamp: 3082 - atlasdb: 0 = 0 release
