@@ -1904,6 +1904,12 @@ jakarta.batch:jakarta.batch.official.tck
 jakarta.batch:jakarta.batch.reporting
 jakarta.batch:jakarta.batch.tck.util
 jakarta.batch:tck-parent
+jakarta.cdi:jakarta.cdi-api
+jakarta.cdi:jakarta.cdi-el-api
+jakarta.cdi:jakarta.cdi-ide-config
+jakarta.cdi:jakarta.cdi-lang-model-api
+jakarta.cdi:jakarta.cdi-parent
+jakarta.cdi:jakarta.cdi-spec-doc
 jakarta.config:jakarta.config
 jakarta.config:jakarta.config-api
 jakarta.data:jakarta.data-api
