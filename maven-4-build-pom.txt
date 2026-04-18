@@ -2442,3 +2442,7 @@ com/google/adk/samples/google-adk-sample-helloworld/1.1.0/google-adk-sample-hell
 com/google/adk/samples/google-adk-sample-mcpfilesystem/1.1.0/google-adk-sample-mcpfilesystem-1.1.0-build.pom
 20260411
 20260412
+20260413
+com/flowlogix/flowlogix-datamodel/11.3/flowlogix-datamodel-11.3-build.pom
+com/flowlogix/flowlogix-jee/11.3/flowlogix-jee-11.3-build.pom
+com/flowlogix/flowlogix/11.3/flowlogix-11.3-build.pom
