@@ -7153,6 +7153,7 @@ org.opendaylight.netconf:netconf-test-perf
 org.opendaylight.netconf:netconf-test-util
 org.opendaylight.netconf:netconf-testtool
 org.opendaylight.netconf:netconf-topology
+org.opendaylight.netconf:netconf-topology-1node-transient
 org.opendaylight.netconf:netconf-topology-impl
 org.opendaylight.netconf:netconf-topology-singleton
 org.opendaylight.netconf:netconf-util
@@ -7219,6 +7220,8 @@ org.opendaylight.netconf:restconf-nb
 org.opendaylight.netconf:restconf-nb-bierman02
 org.opendaylight.netconf:restconf-nb-rfc8040
 org.opendaylight.netconf:restconf-openapi
+org.opendaylight.netconf:restconf-openapi-common
+org.opendaylight.netconf:restconf-openapi-jaxrs
 org.opendaylight.netconf:restconf-server
 org.opendaylight.netconf:restconf-server-api
 org.opendaylight.netconf:restconf-server-api-testlib
