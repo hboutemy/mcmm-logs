@@ -1,0 +1,10 @@
+com/github/hazendaz/git/github-desktop/3.5.8/github-desktop-3.5.8-cyclonedx.xml
+com/github/hazendaz/git/github-desktop/3.5.8/github-desktop-3.5.8-cyclonedx.json
+com/open-elements/spring-services/0.7.0/spring-services-0.7.0-cyclonedx.json
+com/open-elements/spring-services/0.7.0/spring-services-0.7.0-cyclonedx.xml
+org/apache/camel/camel/4.14.6/camel-4.14.6-cyclonedx.json
+org/apache/camel/camel/4.14.6/camel-4.14.6-cyclonedx.xml
+org/apache/camel/springboot/spring-boot/4.14.6/spring-boot-4.14.6-cyclonedx.xml
+org/apache/camel/springboot/spring-boot/4.14.6/spring-boot-4.14.6-cyclonedx.json
+org/apache/maven/shared/maven-script-interpreter/1.7/maven-script-interpreter-1.7-cyclonedx.json
+org/apache/maven/shared/maven-script-interpreter/1.7/maven-script-interpreter-1.7-cyclonedx.xml
