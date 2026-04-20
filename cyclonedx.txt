@@ -1520,6 +1520,7 @@ io.dropwizard:dropwizard-views
 io.dropwizard:dropwizard-views-freemarker
 io.dropwizard:dropwizard-views-mustache
 io.github.amadeusitgroup.maven.wagon:ghrelasset-wagon
+io.github.arun0009:pulse-spring-boot-starter
 io.github.chains-project:maven-lockfile
 io.github.chains-project:maven-lockfile-github-action
 io.github.chains-project:maven-lockfile-parent
