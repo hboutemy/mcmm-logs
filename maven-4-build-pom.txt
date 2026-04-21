@@ -2463,3 +2463,10 @@ com/flowlogix/base-pom/119/base-pom-119-build.pom
 com/flowlogix/checkstyle/119/checkstyle-119-build.pom
 com/flowlogix/infra-pom/119/infra-pom-119-build.pom
 com/flowlogix/payara-pom/119/payara-pom-119-build.pom
+20260420
+com/flowlogix/archetypes/starter/134/starter-134-build.pom
+com/flowlogix/depchain/depchain/116/depchain-116-build.pom
+com/flowlogix/depchain/integration-test/116/integration-test-116-build.pom
+com/flowlogix/depchain/shiro-jakarta/116/shiro-jakarta-116-build.pom
+com/flowlogix/depchain/unit-test/116/unit-test-116-build.pom
+com/flowlogix/flowlogix-bom/28/flowlogix-bom-28-build.pom
