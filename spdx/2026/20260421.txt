@@ -1,0 +1,6 @@
+io/opentelemetry/javaagent/opentelemetry-javaagent/2.27.0/opentelemetry-javaagent-2.27.0-spdx.json
+org/apache/commons/commons-rng-client-api/1.7/commons-rng-client-api-1.7.spdx.rdf.xml
+org/apache/commons/commons-rng-core/1.7/commons-rng-core-1.7.spdx.rdf.xml
+org/apache/commons/commons-rng-parent/1.7/commons-rng-parent-1.7.spdx.rdf.xml
+org/apache/commons/commons-rng-sampling/1.7/commons-rng-sampling-1.7.spdx.rdf.xml
+org/apache/commons/commons-rng-simple/1.7/commons-rng-simple-1.7.spdx.rdf.xml
