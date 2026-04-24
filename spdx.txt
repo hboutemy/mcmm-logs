@@ -187,6 +187,7 @@ org.apache.openmeetings:openmeetings-db
 org.apache.openmeetings:openmeetings-parent
 org.apache.openmeetings:openmeetings-tests
 org.apache.openmeetings:openmeetings-util
+org.frankframework:bootable-runner
 org.frankframework:credentialprovider
 org.frankframework:frankframework-akamai
 org.frankframework:frankframework-aspose
