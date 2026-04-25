@@ -23,6 +23,9 @@ de.knightsoft-net:gwt-commons-validator
 de.powerstat.phplib:templateengine
 de.powerstat.toolbaseline:tbl-java-parent
 de.powerstat.validation:validation
+io.aiven.kafka.connect:connectors-common-for-amqp
+io.aiven.kafka.connect:connectors-for-amqp
+io.aiven.kafka.connect:source-connector-for-amqp
 io.github.jiangood:commons-dbutils
 io.github.luigidemasi:jsch
 io.github.microcks.quarkus:quarkus-microcks

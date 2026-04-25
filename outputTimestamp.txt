@@ -21667,3 +21667,17 @@ io/telicent/jena/rdf-abac/3.0.0/rdf-abac-3.0.0.pom
 org/apache/camel/camel/4.18.2/camel-4.18.2.pom
 org/finos/legend/engine/legend-engine/4.128.1/legend-engine-4.128.1.pom
    from mvn: 7600 - non-mvn: 7254 - buildinfo: 26 - module: 5916 - gradle timestamp: 4088 - atlasdb: 0 = 0 release
+20260423
+com/github/nbbrd/spreadsheet4j/spreadsheet-bom/2.6.0/spreadsheet-bom-2.6.0.pom
+com/github/nbbrd/spreadsheet4j/spreadsheet-parent/2.6.0/spreadsheet-parent-2.6.0.pom
+com/google/code/gson/gson-parent/2.14.0/gson-parent-2.14.0.pom
+com/google/code/gson/gson/2.14.0/gson-2.14.0.pom
+commons-io/commons-io/2.22.0/commons-io-2.22.0.pom
+dev/langchain4j/langchain4j-community/1.13.1-beta23/langchain4j-community-1.13.1-beta23.pom
+id/devcode/spring-extension-parent/1.0.15/spring-extension-parent-1.0.15.pom
+io/alapierre/ksef/ksef-fop/1.2.20/ksef-fop-1.2.20.pom
+org/apache/activemq/activemq-parent/5.19.6/activemq-parent-5.19.6.pom
+org/apache/sling/org.apache.sling.installer.core/3.14.6/org.apache.sling.installer.core-3.14.6.pom
+org/entur/netex-java-model/2.0.15.3/netex-java-model-2.0.15.3.pom
+org/liquibase/ext/liquibase-percona/5.0.2/liquibase-percona-5.0.2.pom
+   from mvn: 5083 - non-mvn: 6497 - buildinfo: 0 - module: 6673 - gradle timestamp: 4656 - atlasdb: 0 = 0 release

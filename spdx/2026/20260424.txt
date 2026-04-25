@@ -1,0 +1,4 @@
+io/aiven/kafka/connect/connectors-common-for-amqp/0.1.0/connectors-common-for-amqp-0.1.0.spdx.json
+io/aiven/kafka/connect/connectors-for-amqp/0.1.0/connectors-for-amqp-0.1.0.spdx.json
+io/aiven/kafka/connect/source-connector-for-amqp/0.1.0/source-connector-for-amqp-0.1.0.spdx.json
+land/oras/oras-java-sdk/0.6.0/oras-java-sdk-0.6.0.spdx.json

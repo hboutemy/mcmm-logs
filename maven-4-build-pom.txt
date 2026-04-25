@@ -2477,3 +2477,7 @@ com/flowlogix/checkstyle/120/checkstyle-120-build.pom
 com/flowlogix/infra-pom/120/infra-pom-120-build.pom
 com/flowlogix/payara-pom/120/payara-pom-120-build.pom
 20260423
+20260424
+com/flowlogix/flowlogix-datamodel/11.4/flowlogix-datamodel-11.4-build.pom
+com/flowlogix/flowlogix-jee/11.4/flowlogix-jee-11.4-build.pom
+com/flowlogix/flowlogix/11.4/flowlogix-11.4-build.pom

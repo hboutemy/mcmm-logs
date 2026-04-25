@@ -1184,6 +1184,9 @@ com.vesoft:nebula-spark-common_2.11
 com.vesoft:nebula-spark-common_2.12
 com.vesoft:spark-connector
 com.vesoft:spark-connector_spark2.4
+com.wultra.security:user-data-store
+com.wultra.security:user-data-store-client-model
+com.wultra.security:user-data-store-rest-client
 com.xenoamess.fork.org.apache.commons:commons-compress
 com.xenoamess:cyclonedx-maven-plugin
 com.yahoo.athenz:athenz
