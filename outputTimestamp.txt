@@ -21681,3 +21681,34 @@ org/apache/sling/org.apache.sling.installer.core/3.14.6/org.apache.sling.install
 org/entur/netex-java-model/2.0.15.3/netex-java-model-2.0.15.3.pom
 org/liquibase/ext/liquibase-percona/5.0.2/liquibase-percona-5.0.2.pom
    from mvn: 5083 - non-mvn: 6497 - buildinfo: 0 - module: 6673 - gradle timestamp: 4656 - atlasdb: 0 = 0 release
+20260424
+com/fasterxml/jackson/core/jackson-annotations/2.18.7/jackson-annotations-2.18.7.pom
+com/fasterxml/jackson/core/jackson-core/2.18.7/jackson-core-2.18.7.pom
+com/fasterxml/jackson/core/jackson-databind/2.18.7/jackson-databind-2.18.7.pom
+com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.18.7/jackson-dataformat-xml-2.18.7.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-binary/2.18.7/jackson-dataformats-binary-2.18.7.pom
+com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.18.7/jackson-dataformats-text-2.18.7.pom
+com/fasterxml/jackson/datatype/jackson-datatype-joda/2.18.7/jackson-datatype-joda-2.18.7.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-collections/2.18.7/jackson-datatypes-collections-2.18.7.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/2.18.7/jackson-datatypes-misc-parent-2.18.7.pom
+com/fasterxml/jackson/jackson-base/2.18.7/jackson-base-2.18.7.pom
+com/fasterxml/jackson/jackson-bom/2.18.7/jackson-bom-2.18.7.pom
+com/fasterxml/jackson/jr/jackson-jr-all/2.18.7/jackson-jr-all-2.18.7.pom
+com/fasterxml/jackson/jr/jackson-jr-annotation-support/2.18.7/jackson-jr-annotation-support-2.18.7.pom
+com/fasterxml/jackson/jr/jackson-jr-extension-javatime/2.18.7/jackson-jr-extension-javatime-2.18.7.pom
+com/fasterxml/jackson/jr/jackson-jr-objects/2.18.7/jackson-jr-objects-2.18.7.pom
+com/fasterxml/jackson/jr/jackson-jr-parent/2.18.7/jackson-jr-parent-2.18.7.pom
+com/fasterxml/jackson/jr/jackson-jr-retrofit2/2.18.7/jackson-jr-retrofit2-2.18.7.pom
+com/fasterxml/jackson/jr/jackson-jr-stree/2.18.7/jackson-jr-stree-2.18.7.pom
+com/seaglassfoundry/swingtopdf/1.2.0/swingtopdf-1.2.0.pom
+io/github/stellhub/stellmap-java-sdk/0.0.2/stellmap-java-sdk-0.0.2.pom
+io/streamnative/buildtools/4.2.0.5/buildtools-4.2.0.5.pom
+io/streamnative/pulsar-bom/4.2.0.5/pulsar-bom-4.2.0.5.pom
+io/streamnative/pulsar/4.2.0.5/pulsar-4.2.0.5.pom
+land/oras/oras-java-sdk/0.6.0/oras-java-sdk-0.6.0.pom
+net/sourceforge/pmd/pmd/7.24.0/pmd-7.24.0.pom
+org/apache/camel/camel/4.14.7/camel-4.14.7.pom
+org/apache/sling/org.apache.sling.installer.console/2.0.0/org.apache.sling.installer.console-2.0.0.pom
+org/apache/sling/org.apache.sling.installer.factory.configuration/2.0.0/org.apache.sling.installer.factory.configuration-2.0.0.pom
+org/infinispan/infinispan-build-configuration-parent/16.0.10/infinispan-build-configuration-parent-16.0.10.pom
+   from mvn: 5263 - non-mvn: 6716 - buildinfo: 11 - module: 5397 - gradle timestamp: 3398 - atlasdb: 0 = 0 release
