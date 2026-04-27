@@ -1,0 +1,8 @@
+com/open-elements/spring-services/0.10.0/spring-services-0.10.0-cyclonedx.xml
+com/open-elements/spring-services/0.10.0/spring-services-0.10.0-cyclonedx.json
+com/open-elements/spring-services/0.9.0/spring-services-0.9.0-cyclonedx.json
+com/open-elements/spring-services/0.9.0/spring-services-0.9.0-cyclonedx.xml
+org/apache/commons/commons-parent/99/commons-parent-99-cyclonedx.json
+org/apache/commons/commons-parent/99/commons-parent-99-cyclonedx.xml
+org/apache/maven/plugins/maven-invoker-plugin/3.10.0/maven-invoker-plugin-3.10.0-cyclonedx.json
+org/apache/maven/plugins/maven-invoker-plugin/3.10.0/maven-invoker-plugin-3.10.0-cyclonedx.xml
