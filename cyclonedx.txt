@@ -1368,6 +1368,7 @@ de.svenkubiak:simple-http
 de.trustable.cmp.client:cmpClient
 de.trustable:cryptoUtil
 dev.iabudiab:dependency-track-maven-plugin
+dev.jcputney:magika-java
 dev.openfeature.contrib.hooks:otel
 dev.openfeature.contrib.providers:configcat
 dev.openfeature.contrib.providers:env-var
@@ -4462,6 +4463,9 @@ org.apache.zookeeper:zookeeper-it
 org.apache.zookeeper:zookeeper-jute
 org.apache.zookeeper:zookeeper-metrics-providers
 org.apache.zookeeper:zookeeper-prometheus-metrics
+org.atsign:at_client
+org.atsign:at_java_parent
+org.atsign:at_shell
 org.bonitasoft.archetypes:process-reader-archetype
 org.bonitasoft.bpm:org.bonitasoft.bonita2bar
 org.bonitasoft.bpm:org.bonitasoft.bonita2bpmn
