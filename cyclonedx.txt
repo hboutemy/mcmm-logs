@@ -1605,6 +1605,9 @@ io.github.sparsick.testcontainers.gitserver:testcontainers-git-bom
 io.github.sparsick.testcontainers.gitserver:testcontainers-git-parent
 io.github.sparsick.testcontainers.gitserver:testcontainers-gitserver
 io.github.tomverin:sonar-dummy-oss-plugin
+io.jexxa.common:common-adapters
+io.jexxa:adapter-api
+io.jexxa:jexxa-adapters
 io.sapl:sapl-language-server
 io.smallrye.reactive:mutiny
 io.smallrye.reactive:mutiny-kotlin
@@ -5008,6 +5011,7 @@ org.glassfish.hk2:hk2-metadata-generator-test1
 org.glassfish.hk2:hk2-mockito
 org.glassfish.hk2:hk2-parent
 org.glassfish.hk2:hk2-pbuf
+org.glassfish.hk2:hk2-project
 org.glassfish.hk2:hk2-property-file
 org.glassfish.hk2:hk2-runlevel
 org.glassfish.hk2:hk2-runlevel-extras
