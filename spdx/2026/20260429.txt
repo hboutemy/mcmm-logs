@@ -1,0 +1,11 @@
+com/github/mwiede/jsch/2.28.1/jsch-2.28.1.spdx.json
+io/github/microcks/microcks-app/1.14.0/microcks-app-1.14.0.spdx.json
+io/github/microcks/microcks-async-minion/1.14.0/microcks-async-minion-1.14.0.spdx.json
+io/github/microcks/microcks-distro/1.14.0/microcks-distro-1.14.0.spdx.json
+io/github/microcks/microcks-el/1.14.0/microcks-el-1.14.0.spdx.json
+io/github/microcks/microcks-model/1.14.0/microcks-model-1.14.0.spdx.json
+io/github/microcks/microcks-uber-app/1.14.0/microcks-uber-app-1.14.0.spdx.json
+io/github/microcks/microcks-uber-async-minion/1.14.0/microcks-uber-async-minion-1.14.0.spdx.json
+io/github/microcks/microcks-util/1.14.0/microcks-util-1.14.0.spdx.json
+io/github/microcks/microcks/1.14.0/microcks-1.14.0.spdx.json
+org/opendaylight/gnmi/gnmi-sbom-2.0.0.spdx

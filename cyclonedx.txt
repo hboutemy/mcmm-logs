@@ -1605,7 +1605,13 @@ io.github.sparsick.testcontainers.gitserver:testcontainers-git-bom
 io.github.sparsick.testcontainers.gitserver:testcontainers-git-parent
 io.github.sparsick.testcontainers.gitserver:testcontainers-gitserver
 io.github.tomverin:sonar-dummy-oss-plugin
+io.jexxa.adapters:adapter-api
+io.jexxa.adapters:common-adapters
+io.jexxa.adapters:parent
 io.jexxa.common:common-adapters
+io.jexxa.jlegmed:jlegmed
+io.jexxa.jlegmed:jlegmed-core
+io.jexxa.jlegmed:jlegmed-test
 io.jexxa:adapter-api
 io.jexxa:jexxa-adapters
 io.sapl:sapl-language-server
@@ -1973,6 +1979,13 @@ jakarta.cdi:jakarta.cdi-ide-config
 jakarta.cdi:jakarta.cdi-lang-model-api
 jakarta.cdi:jakarta.cdi-parent
 jakarta.cdi:jakarta.cdi-spec-doc
+jakarta.cdi:jakarta.cdi-tck-api
+jakarta.cdi:jakarta.cdi-tck-core-impl
+jakarta.cdi:jakarta.cdi-tck-dist
+jakarta.cdi:jakarta.cdi-tck-ext-lib
+jakarta.cdi:jakarta.cdi-tck-lang-model
+jakarta.cdi:jakarta.cdi-tck-parent
+jakarta.cdi:jakarta.cdi-tck-reference-guide
 jakarta.config:jakarta.config
 jakarta.config:jakarta.config-api
 jakarta.data:jakarta.data-api
@@ -4962,6 +4975,9 @@ org.glassfish.grizzly:grizzly-http-servlet-server
 org.glassfish.grizzly:grizzly-http2
 org.glassfish.grizzly:grizzly-modules
 org.glassfish.grizzly:grizzly-monitoring
+org.glassfish.grizzly:grizzly-npn
+org.glassfish.grizzly:grizzly-npn-api
+org.glassfish.grizzly:grizzly-npn-osgi
 org.glassfish.grizzly:grizzly-portunif
 org.glassfish.grizzly:grizzly-project
 org.glassfish.grizzly:grizzly-websockets
