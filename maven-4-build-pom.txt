@@ -2584,3 +2584,6 @@ org/jline/jline-terminal-jna/3.30.12/jline-terminal-jna-3.30.12-build.pom
 org/jline/jline-terminal-jni/3.30.12/jline-terminal-jni-3.30.12-build.pom
 org/jline/jline-terminal/3.30.12/jline-terminal-3.30.12-build.pom
 org/jline/jline/3.30.12/jline-3.30.12-build.pom
+20260430
+io/github/youngledo/godot-java-core/0.1.0/godot-java-core-0.1.0-build.pom
+io/github/youngledo/godot-java/0.1.0/godot-java-0.1.0-build.pom

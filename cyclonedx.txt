@@ -4933,8 +4933,13 @@ org.glassfish.exousia:parent
 org.glassfish.exousia:spi
 org.glassfish.expressly:expressly
 org.glassfish.external:ant
+org.glassfish.external:ant-osgi
+org.glassfish.external:dbschema
+org.glassfish.external:dbschema-osgi
 org.glassfish.external:derby
 org.glassfish.external:management-api
+org.glassfish.external:schema2beans
+org.glassfish.external:schema2beans-osgi
 org.glassfish.gmbal:gmbal
 org.glassfish.gmbal:gmbal-api-only
 org.glassfish.gmbal:gmbal-project
@@ -4973,6 +4978,7 @@ org.glassfish.grizzly:grizzly-http-servlet
 org.glassfish.grizzly:grizzly-http-servlet-extras
 org.glassfish.grizzly:grizzly-http-servlet-server
 org.glassfish.grizzly:grizzly-http2
+org.glassfish.grizzly:grizzly-memcached
 org.glassfish.grizzly:grizzly-modules
 org.glassfish.grizzly:grizzly-monitoring
 org.glassfish.grizzly:grizzly-npn
@@ -5959,6 +5965,7 @@ org.jreleaser:jreleaser-tool-provider
 org.jreleaser:jreleaser-twitter-java-sdk
 org.jreleaser:jreleaser-utils
 org.jreleaser:jreleaser-webhooks-java-sdk
+org.jreleaser:jreleaser-zernio-java-sdk
 org.jreleaser:jreleaser-zulip-java-sdk
 org.kordamp.ezmorph:ezmorph-core
 org.kordamp.json:json-lib-core
