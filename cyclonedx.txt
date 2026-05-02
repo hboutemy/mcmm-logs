@@ -4968,6 +4968,7 @@ org.glassfish.grizzly:grizzly-framework-monitoring
 org.glassfish.grizzly:grizzly-http
 org.glassfish.grizzly:grizzly-http-ajp
 org.glassfish.grizzly:grizzly-http-all
+org.glassfish.grizzly:grizzly-http-client
 org.glassfish.grizzly:grizzly-http-monitoring
 org.glassfish.grizzly:grizzly-http-server
 org.glassfish.grizzly:grizzly-http-server-core
