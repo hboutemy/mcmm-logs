@@ -5691,6 +5691,9 @@ org.glassfish.mq:mqbridge-stomp
 org.glassfish.mq:mqbroker-comm
 org.glassfish.mq:mqbroker-core
 org.glassfish.mq:mqcomm-io
+org.glassfish.mq:mqcomm-lists
+org.glassfish.mq:mqcomm-options
+org.glassfish.mq:mqcomm-selector
 org.glassfish.mq:mqcomm-util
 org.glassfish.mq:mqdisk-io
 org.glassfish.mq:mqhttp-tunnel
@@ -5968,6 +5971,7 @@ org.jreleaser:jreleaser-utils
 org.jreleaser:jreleaser-webhooks-java-sdk
 org.jreleaser:jreleaser-zernio-java-sdk
 org.jreleaser:jreleaser-zulip-java-sdk
+org.jvnet.mimepull:mimepull
 org.kordamp.ezmorph:ezmorph-core
 org.kordamp.json:json-lib-core
 org.leplus:ristretto
