@@ -2589,3 +2589,4 @@ io/github/youngledo/godot-java-core/0.1.0/godot-java-core-0.1.0-build.pom
 io/github/youngledo/godot-java/0.1.0/godot-java-0.1.0-build.pom
 20260501
 20260502
+20260503

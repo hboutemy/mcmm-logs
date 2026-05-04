@@ -5441,6 +5441,7 @@ org.glassfish.main.extras:appserv-rt-pom
 org.glassfish.main.extras:bootstrap
 org.glassfish.main.extras:command-logger
 org.glassfish.main.extras:embedded
+org.glassfish.main.extras:embedded-tests-extras
 org.glassfish.main.extras:extras
 org.glassfish.main.extras:glassfish-embedded-all
 org.glassfish.main.extras:glassfish-embedded-common
