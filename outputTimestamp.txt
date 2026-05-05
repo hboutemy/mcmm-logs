@@ -21909,3 +21909,22 @@ io/streamnative/pulsar-bom/4.0.10.1/pulsar-bom-4.0.10.1.pom
 io/streamnative/pulsar/4.0.10.1/pulsar-4.0.10.1.pom
 org/glassfish/mq/project/6.9.0/project-6.9.0.pom
    from mvn: 1461 - non-mvn: 2257 - buildinfo: 0 - module: 2905 - gradle timestamp: 1562 - atlasdb: 0 = 0 release
+20260503
+com/google/mug/mug-bigquery/10.0/mug-bigquery-10.0.pom
+com/google/mug/mug-bom/10.0/mug-bom-10.0.pom
+com/google/mug/mug-concurrent-testing/10.0/mug-concurrent-testing-10.0.pom
+com/google/mug/mug-concurrent24/10.0/mug-concurrent24-10.0.pom
+com/google/mug/mug-errorprone/10.0/mug-errorprone-10.0.pom
+com/google/mug/mug-guava/10.0/mug-guava-10.0.pom
+com/google/mug/mug-protobuf/10.0/mug-protobuf-10.0.pom
+com/google/mug/mug-root/10.0/mug-root-10.0.pom
+com/google/mug/mug-safesql/10.0/mug-safesql-10.0.pom
+com/google/mug/mug-spanner/10.0/mug-spanner-10.0.pom
+com/google/mug/mug/10.0/mug-10.0.pom
+io/bothy/tog/tog/0.8.7/tog-0.8.7.pom
+io/cucumber/pretty-formatter/3.3.0/pretty-formatter-3.3.0.pom
+org/glassfish/main/glassfish-main-aggregator/9.0.0-M2/glassfish-main-aggregator-9.0.0-M2.pom
+org/glassfish/main/nucleus-parent/9.0.0-M2/nucleus-parent-9.0.0-M2.pom
+org/owasp/dependency-check-parent/12.2.2/dependency-check-parent-12.2.2.pom
+org/owasp/dependency-check-plugin/12.2.2/dependency-check-plugin-12.2.2.pom
+   from mvn: 1348 - non-mvn: 3513 - buildinfo: 1 - module: 2498 - gradle timestamp: 1837 - atlasdb: 0 = 0 release
