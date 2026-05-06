@@ -4508,6 +4508,8 @@ org.bonitasoft.bpm:org.bonitasoft.bpm.model.edit
 org.bonitasoft.bpm:org.bonitasoft.bpm.plugin-dependencies
 org.bonitasoft.bpm:org.bonitasoft.gmf.plugin-dependencies
 org.bonitasoft.bpm:org.bonitasoft.spec.bpmn
+org.connectbot.sshlib:protocol
+org.connectbot.sshlib:sshlib
 org.csveed:csveed
 org.cyclonedx:cyclonedx-core-java
 org.cyclonedx:cyclonedx-maven-plugin
@@ -7554,6 +7556,7 @@ org.opendaylight.transportpce.models:odl-openroadm-models
 org.opendaylight.transportpce.models:odl-tapi-2.1.1-models
 org.opendaylight.transportpce.models:odl-tapi-2.4.0-models
 org.opendaylight.transportpce.models:odl-tapi-models
+org.opendaylight.transportpce.models:openconfig-200
 org.opendaylight.transportpce.models:openconfig-240119
 org.opendaylight.transportpce.models:openroadm-common-1.2.1
 org.opendaylight.transportpce.models:openroadm-common-10.1.0

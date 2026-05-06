@@ -21928,3 +21928,15 @@ org/glassfish/main/nucleus-parent/9.0.0-M2/nucleus-parent-9.0.0-M2.pom
 org/owasp/dependency-check-parent/12.2.2/dependency-check-parent-12.2.2.pom
 org/owasp/dependency-check-plugin/12.2.2/dependency-check-plugin-12.2.2.pom
    from mvn: 1348 - non-mvn: 3513 - buildinfo: 1 - module: 2498 - gradle timestamp: 1837 - atlasdb: 0 = 0 release
+20260504
+io/github/cbarlin/aru-parent/0.9.1/aru-parent-0.9.1.pom
+io/jawk/jawk/6.2.00/jawk-6.2.00.pom
+io/quarkus/quarkus-parent/3.20.6.1/quarkus-parent-3.20.6.1.pom
+io/quarkus/quarkus-parent/3.27.3.1/quarkus-parent-3.27.3.1.pom
+io/quarkus/quarkus-parent/3.33.1.1/quarkus-parent-3.33.1.1.pom
+io/quarkus/quarkus-parent/3.34.7/quarkus-parent-3.34.7.pom
+io/quarkus/quarkus-parent/3.35.2/quarkus-parent-3.35.2.pom
+org/jline/jline-parent/3.30.13/jline-parent-3.30.13-build.pom
+org/jline/jline-parent/3.30.13/jline-parent-3.30.13.pom
+org/jline/jline-parent/4.0.15/jline-parent-4.0.15.pom
+   from mvn: 7237 - non-mvn: 4613 - buildinfo: 1 - module: 4604 - gradle timestamp: 2821 - atlasdb: 0 = 0 release
