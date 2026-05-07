@@ -2685,6 +2685,7 @@ org.apache.druid.extensions.contrib:dropwizard-emitter
 org.apache.druid.extensions.contrib:druid-cassandra-storage
 org.apache.druid.extensions.contrib:druid-cloudfiles-extensions
 org.apache.druid.extensions.contrib:druid-compressed-bigdecimal
+org.apache.druid.extensions.contrib:druid-consul-extensions
 org.apache.druid.extensions.contrib:druid-ddsketch
 org.apache.druid.extensions.contrib:druid-deltalake-extensions
 org.apache.druid.extensions.contrib:druid-distinctcount
@@ -4345,6 +4346,8 @@ org.apache.spark:spark-tags_2.12
 org.apache.spark:spark-tags_2.13
 org.apache.spark:spark-token-provider-kafka-0-10_2.12
 org.apache.spark:spark-token-provider-kafka-0-10_2.13
+org.apache.spark:spark-udf-worker-core_2.13
+org.apache.spark:spark-udf-worker-proto_2.13
 org.apache.spark:spark-unsafe_2.12
 org.apache.spark:spark-unsafe_2.13
 org.apache.spark:spark-variant_2.13
