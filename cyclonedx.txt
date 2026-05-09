@@ -62,6 +62,7 @@ ai.timefold.solver:timefold-solver-spring-integration
 ai.timefold.solver:timefold-solver-test
 ai.timefold.solver:timefold-solver-tools-parent
 ai.timefold.solver:timefold-solver-webui
+app.epistola.valtimo:epistola-plugin
 at.asitplus.awesn1:core
 at.asitplus.awesn1:core-android
 at.asitplus.awesn1:core-androidnativearm32
