@@ -721,6 +721,7 @@ com.io7m.ivoirax:com.io7m.ivoirax.demo
 com.io7m.ivoirax:com.io7m.ivoirax.tests
 com.io7m.jade:com.io7m.jade
 com.io7m.jade:com.io7m.jade.api
+com.io7m.jade:com.io7m.jade.bom
 com.io7m.jade:com.io7m.jade.spi
 com.io7m.jade:com.io7m.jade.tests
 com.io7m.jade:com.io7m.jade.vanilla
@@ -925,6 +926,7 @@ com.io7m.looseleaf:com.io7m.looseleaf.server.api
 com.io7m.looseleaf:com.io7m.looseleaf.tests
 com.io7m.medrina:com.io7m.medrina
 com.io7m.medrina:com.io7m.medrina.api
+com.io7m.medrina:com.io7m.medrina.bom
 com.io7m.medrina:com.io7m.medrina.cmdline
 com.io7m.medrina:com.io7m.medrina.documentation
 com.io7m.medrina:com.io7m.medrina.parser.api

@@ -22009,3 +22009,13 @@ io/jawk/jawk/6.3.00/jawk-6.3.00.pom
 io/jooby/jooby-project/4.5.0/jooby-project-4.5.0.pom
 org/finos/legend/engine/legend-engine/4.128.6/legend-engine-4.128.6.pom
    from mvn: 6285 - non-mvn: 7367 - buildinfo: 1 - module: 4775 - gradle timestamp: 3132 - atlasdb: 0 = 0 release
+20260508
+com/hibegin/common-dao/1.1.8/common-dao-1.1.8.pom
+com/sap/ai/sdk/sdk-parent/1.19.0/sdk-parent-1.19.0.pom
+dev/langchain4j/langchain4j-community/1.14.1-beta24/langchain4j-community-1.14.1-beta24.pom
+eu/maveniverse/maven/toolrunner/toolrunner/0.2.2/toolrunner-0.2.2.pom
+io/alapierre/ksef/ksef-fop/1.2.21/ksef-fop-1.2.21.pom
+io/alapierre/ksef/ksef-fop/1.2.22/ksef-fop-1.2.22.pom
+io/avaje/avaje-inject-parent/12.6-RC2/avaje-inject-parent-12.6-RC2.pom
+org/phoebus/parent/5.0.5/parent-5.0.5.pom
+   from mvn: 3657 - non-mvn: 7027 - buildinfo: 1 - module: 5830 - gradle timestamp: 3451 - atlasdb: 0 = 0 release
