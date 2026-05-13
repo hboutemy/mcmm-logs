@@ -22057,3 +22057,22 @@ jaxen/jaxen-parent/2.0.2/jaxen-parent-2.0.2.pom
 org/apache/apache/38/apache-38.pom
 org/apache/maven/maven-parent/48/maven-parent-48.pom
    from mvn: 1572 - non-mvn: 2889 - buildinfo: 0 - module: 2186 - gradle timestamp: 1835 - atlasdb: 0 = 0 release
+20260511
+dev/langchain4j/langchain4j-parent/1.11.7-beta19/langchain4j-parent-1.11.7-beta19.pom
+eu/maveniverse/maven/scalpel/scalpel/0.3.2/scalpel-0.3.2.pom
+io/avaje/avaje-jsonb-parent/3.14-RC2/avaje-jsonb-parent-3.14-RC2.pom
+io/brunoborges/jairosvg/1.0.11/jairosvg-1.0.11.pom
+io/cucumber/compatibility-kit/29.2.0/compatibility-kit-29.2.0.pom
+io/cucumber/compatibility-kit/29.2.1/compatibility-kit-29.2.1.pom
+io/cucumber/compatibility-kit/29.2.2/compatibility-kit-29.2.2.pom
+io/github/anirbanmu/thriftc-jar/0.23.0/thriftc-jar-0.23.0.pom
+io/github/anirbanmu/thriftc-maven-plugin/1.1.0/thriftc-maven-plugin-1.1.0.pom
+io/github/sonofmagic/javachanges/1.12.1/javachanges-1.12.1.pom
+io/jooby/jooby-project/3.11.8/jooby-project-3.11.8.pom
+io/liftwizard/liftwizard-minimal-parent/2.1.45/liftwizard-minimal-parent-2.1.45.pom
+land/oras/oras-java-sdk/0.6.1/oras-java-sdk-0.6.1.pom
+org/apache/jena/jena/6.1.0/jena-6.1.0.pom
+org/apache/sling/org.apache.sling.adapter/3.0.0/org.apache.sling.adapter-3.0.0.pom
+org/codehaus/plexus/plexus-classworlds/2.11.0/plexus-classworlds-2.11.0.pom
+org/jvnet/jaxb/jaxb-tools-project/4.0.14/jaxb-tools-project-4.0.14.pom
+   from mvn: 4481 - non-mvn: 4640 - buildinfo: 0 - module: 4000 - gradle timestamp: 2543 - atlasdb: 0 = 0 release

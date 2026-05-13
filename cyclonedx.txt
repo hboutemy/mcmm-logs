@@ -7812,6 +7812,14 @@ org.orekit:orekit
 org.orekit:rugged
 org.owasp.antisamy:antisamy
 org.owasp.esapi:esapi
+org.pageseeder.sdk:pageseeder-sdk-cli
+org.pageseeder.sdk:pageseeder-sdk-core
+org.pageseeder.sdk:pageseeder-sdk-legacy
+org.pageseeder.sdk:pageseeder-sdk-model
+org.pageseeder.sdk:sdk-cli
+org.pageseeder.sdk:sdk-core
+org.pageseeder.sdk:sdk-legacy
+org.pageseeder.sdk:sdk-model
 org.primefaces.extensions:primefaces-extensions
 org.primefaces:primefaces
 org.seleniumhq.selenium:htmlunit3-driver
