@@ -22076,3 +22076,15 @@ org/apache/sling/org.apache.sling.adapter/3.0.0/org.apache.sling.adapter-3.0.0.p
 org/codehaus/plexus/plexus-classworlds/2.11.0/plexus-classworlds-2.11.0.pom
 org/jvnet/jaxb/jaxb-tools-project/4.0.14/jaxb-tools-project-4.0.14.pom
    from mvn: 4481 - non-mvn: 4640 - buildinfo: 0 - module: 4000 - gradle timestamp: 2543 - atlasdb: 0 = 0 release
+20260512
+com/io7m/primogenitor/com.io7m.primogenitor/10.0.0-beta0001/com.io7m.primogenitor-10.0.0-beta0001.pom
+com/ongres/stringprep/stringprep-parent/2.3/stringprep-parent-2.3.pom
+eu/maveniverse/maven/scalpel/scalpel/0.3.3/scalpel-0.3.3.pom
+io/avaje/avaje-jsonb-parent/3.14-RC3/avaje-jsonb-parent-3.14-RC3.pom
+io/fabric8/kubernetes-client-project/7.7.0/kubernetes-client-project-7.7.0.pom
+io/jooby/jooby-project/4.5.1/jooby-project-4.5.1.pom
+io/trino/trino-root/481/trino-root-481.pom
+net/optionfactory/spring/optionfactory-spring/23.25/optionfactory-spring-23.25.pom
+org/dbunit/dbunit/3.1.0/dbunit-3.1.0.pom
+org/slf4j/slf4j-parent/2.0.18/slf4j-parent-2.0.18.pom
+   from mvn: 3793 - non-mvn: 6243 - buildinfo: 0 - module: 4965 - gradle timestamp: 3299 - atlasdb: 0 = 0 release

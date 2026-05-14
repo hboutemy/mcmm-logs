@@ -1843,6 +1843,7 @@ io.telicent.smart-caches:cli-core
 io.telicent.smart-caches:cli-debug
 io.telicent.smart-caches:cli-probe-server
 io.telicent.smart-caches:configurator
+io.telicent.smart-caches:distribution-lifecycle
 io.telicent.smart-caches:event-source-file
 io.telicent.smart-caches:event-source-kafka
 io.telicent.smart-caches:event-sources
@@ -2107,6 +2108,10 @@ jakarta.nosql:jakarta.nosql-parent
 jakarta.nosql:jakarta.nosql-spec
 jakarta.nosql:jakarta.nosql-tck
 jakarta.persistence:jakarta.persistence-api
+jakarta.persistence:persistence-tck-common
+jakarta.persistence:persistence-tck-dbprocedures
+jakarta.persistence:persistence-tck-dist
+jakarta.persistence:persistence-tck-spec-tests
 jakarta.platform:jakarta.jakartaee-api
 jakarta.platform:jakarta.jakartaee-bom
 jakarta.platform:jakarta.jakartaee-core-api
