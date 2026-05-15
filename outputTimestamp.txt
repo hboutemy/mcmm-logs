@@ -22088,3 +22088,16 @@ net/optionfactory/spring/optionfactory-spring/23.25/optionfactory-spring-23.25.p
 org/dbunit/dbunit/3.1.0/dbunit-3.1.0.pom
 org/slf4j/slf4j-parent/2.0.18/slf4j-parent-2.0.18.pom
    from mvn: 3793 - non-mvn: 6243 - buildinfo: 0 - module: 4965 - gradle timestamp: 3299 - atlasdb: 0 = 0 release
+20260513
+dev/langchain4j/cdi/langchain4j-cdi-parent/1.2.0/langchain4j-cdi-parent-1.2.0.pom
+eu/maveniverse/maven/mase/mase/1.1.1/mase-1.1.1.pom
+eu/maveniverse/maven/maven-boms/maven-boms/3.9.15-01/maven-boms-3.9.15-01.pom
+eu/maveniverse/maven/toolbox/toolbox/0.15.9/toolbox-0.15.9.pom
+io/jawk/jawk/6.4.00/jawk-6.4.00.pom
+io/quarkus/quarkus-parent/3.35.3/quarkus-parent-3.35.3.pom
+io/quarkus/quarkus-parent/3.36.0.CR1/quarkus-parent-3.36.0.CR1.pom
+io/telicent/jena/rdf-abac/3.1.1/rdf-abac-3.1.1.pom
+land/oras/oras-java-sdk/0.6.2/oras-java-sdk-0.6.2.pom
+org/apache/commons/commons-configuration2/2.15.0/commons-configuration2-2.15.0.pom
+org/apache/paimon/paimon-parent/1.3.2/paimon-parent-1.3.2.pom
+   from mvn: 5996 - non-mvn: 8715 - buildinfo: 59 - module: 8310 - gradle timestamp: 5732 - atlasdb: 0 = 0 release

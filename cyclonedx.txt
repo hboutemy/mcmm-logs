@@ -338,6 +338,8 @@ com.buschmais.jqassistant.plugin:xml
 com.buschmais.jqassistant.plugin:yaml2
 com.duosecurity:duo-client
 com.duosecurity:duo-universal-sdk
+com.engine:protoc-utils
+com.engine:protoc-utils-recorder
 com.erudika:para-client
 com.erudika:para-core
 com.erudika:para-parent
@@ -1681,6 +1683,9 @@ io.github.sparsick.testcontainers.gitserver:testcontainers-gitserver
 io.github.tomverin:sonar-dummy-oss-plugin
 io.jexxa.adapters:adapter-api
 io.jexxa.adapters:common-adapters
+io.jexxa.adapters:esp-adapters
+io.jexxa.adapters:esp-adapters-core
+io.jexxa.adapters:esp-adapters-test
 io.jexxa.adapters:parent
 io.jexxa.common:common-adapters
 io.jexxa.jlegmed:jlegmed
