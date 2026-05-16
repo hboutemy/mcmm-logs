@@ -1,0 +1,15 @@
+com/flowlogix/depchain/depchain/119/depchain-119-cyclonedx.xml
+com/flowlogix/depchain/depchain/119/depchain-119-cyclonedx.json
+com/flowlogix/depchain/integration-test/119/integration-test-119-cyclonedx.json
+com/flowlogix/depchain/integration-test/119/integration-test-119-cyclonedx.xml
+com/flowlogix/depchain/shiro-jakarta/119/shiro-jakarta-119-cyclonedx.xml
+com/flowlogix/depchain/shiro-jakarta/119/shiro-jakarta-119-cyclonedx.json
+com/flowlogix/depchain/unit-test/119/unit-test-119-cyclonedx.json
+com/flowlogix/depchain/unit-test/119/unit-test-119-cyclonedx.xml
+io/github/openwebview/openwebview/0.1.23/openwebview-0.1.23-cyclonedx.json
+io/github/openwebview/openwebview/0.1.24/openwebview-0.1.24-cyclonedx.json
+org/apache/camel/kamelets/camel-kamelets-parent/4.18.2/camel-kamelets-parent-4.18.2-cyclonedx.json
+org/apache/camel/kamelets/camel-kamelets-parent/4.18.2/camel-kamelets-parent-4.18.2-cyclonedx.xml
+org/apache/commons/commons-parent/100/commons-parent-100-cyclonedx.json
+org/apache/commons/commons-parent/100/commons-parent-100-cyclonedx.xml
+org/pageseeder/pso-psml/1.8.0/pso-psml-1.8.0-cyclonedx.json

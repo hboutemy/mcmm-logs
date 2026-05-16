@@ -7830,6 +7830,7 @@ org.pageseeder.sdk:sdk-cli
 org.pageseeder.sdk:sdk-core
 org.pageseeder.sdk:sdk-legacy
 org.pageseeder.sdk:sdk-model
+org.pageseeder:pso-psml
 org.primefaces.extensions:primefaces-extensions
 org.primefaces:primefaces
 org.seleniumhq.selenium:htmlunit3-driver
