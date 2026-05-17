@@ -1,0 +1,16 @@
+com/open-elements/java-parent/0.1.0/java-parent-0.1.0-cyclonedx.xml
+com/open-elements/java-parent/0.1.0/java-parent-0.1.0-cyclonedx.json
+com/open-elements/spring-services/0.14.0/spring-services-0.14.0-cyclonedx.xml
+com/open-elements/spring-services/0.14.0/spring-services-0.14.0-cyclonedx.json
+com/open-elements/spring-services/0.14.1/spring-services-0.14.1-cyclonedx.xml
+com/open-elements/spring-services/0.14.1/spring-services-0.14.1-cyclonedx.json
+com/open-elements/spring-services/0.15.0/spring-services-0.15.0-cyclonedx.json
+com/open-elements/spring-services/0.15.0/spring-services-0.15.0-cyclonedx.xml
+io/github/chains-project/maven-lockfile-parent/5.16.1-beta-1/maven-lockfile-parent-5.16.1-beta-1-cyclonedx.json
+io/github/chains-project/maven-lockfile-parent/5.16.1-beta-1/maven-lockfile-parent-5.16.1-beta-1-cyclonedx.xml
+io/github/chains-project/maven-lockfile/5.16.1-beta-1/maven-lockfile-5.16.1-beta-1-cyclonedx.xml
+io/github/chains-project/maven-lockfile/5.16.1-beta-1/maven-lockfile-5.16.1-beta-1-cyclonedx.json
+io/github/openwebview/openwebview/0.1.25/openwebview-0.1.25-cyclonedx.json
+io/github/openwebview/openwebview/0.1.26/openwebview-0.1.26-cyclonedx.json
+org/apache/maven/shared/maven-dependency-analyzer/1.17.1/maven-dependency-analyzer-1.17.1-cyclonedx.xml
+org/apache/maven/shared/maven-dependency-analyzer/1.17.1/maven-dependency-analyzer-1.17.1-cyclonedx.json
