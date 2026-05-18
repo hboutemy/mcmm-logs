@@ -22137,3 +22137,24 @@ org/apache/commons/commons-parent/100/commons-parent-100.pom
 org/itsallcode/hamcrest-mutliline-text-matcher/2.0.4/hamcrest-mutliline-text-matcher-2.0.4.pom
 org/itsallcode/openfasttrace-asciidoc-plugin/0.3.1/openfasttrace-asciidoc-plugin-0.3.1.pom
    from mvn: 4396 - non-mvn: 7756 - buildinfo: 0 - module: 4932 - gradle timestamp: 4473 - atlasdb: 0 = 0 release
+20260516
+com/github/veithen/phos/phos/0.5.0/phos-0.5.0.pom
+com/google/mug/mug-bigquery/10.1/mug-bigquery-10.1.pom
+com/google/mug/mug-bom/10.1/mug-bom-10.1.pom
+com/google/mug/mug-concurrent-testing/10.1/mug-concurrent-testing-10.1.pom
+com/google/mug/mug-concurrent24/10.1/mug-concurrent24-10.1.pom
+com/google/mug/mug-errorprone/10.1/mug-errorprone-10.1.pom
+com/google/mug/mug-guava/10.1/mug-guava-10.1.pom
+com/google/mug/mug-protobuf/10.1/mug-protobuf-10.1.pom
+com/google/mug/mug-root/10.1/mug-root-10.1.pom
+com/google/mug/mug-safesql/10.1/mug-safesql-10.1.pom
+com/google/mug/mug-spanner/10.1/mug-spanner-10.1.pom
+com/google/mug/mug/10.1/mug-10.1.pom
+dev/langchain4j/langchain4j-community/1.15.0-beta25/langchain4j-community-1.15.0-beta25.pom
+eu/maveniverse/maven/nisse/nisse/0.9.0/nisse-0.9.0.pom
+io/avaje/avaje-jsonb-parent/3.14-RC4/avaje-jsonb-parent-3.14-RC4.pom
+io/github/chains-project/maven-lockfile-parent/5.16.1-beta-1/maven-lockfile-parent-5.16.1-beta-1.pom
+org/apache/maven/shared/maven-dependency-analyzer/1.17.1/maven-dependency-analyzer-1.17.1.pom
+org/finos/legend/engine/legend-engine/4.128.7/legend-engine-4.128.7.pom
+org/gaul/modernizer-maven-parent/3.4.0/modernizer-maven-parent-3.4.0.pom
+   from mvn: 1506 - non-mvn: 2025 - buildinfo: 0 - module: 2183 - gradle timestamp: 1149 - atlasdb: 0 = 0 release

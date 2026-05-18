@@ -1,0 +1,3 @@
+land/oras/oras-java-sdk/0.6.3/oras-java-sdk-0.6.3.spdx.json
+net/dapete/exceptional/0.4.0/exceptional-0.4.0.spdx.json
+net/dapete/exceptional/0.4.1/exceptional-0.4.1.spdx.json
