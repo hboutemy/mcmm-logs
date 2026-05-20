@@ -22169,3 +22169,32 @@ land/oras/oras-java-sdk/0.6.3/oras-java-sdk-0.6.3.pom
 org/apache/maven/maven/3.9.16/maven-3.9.16.pom
 org/apache/maven/reporting/maven-reporting-exec/2.0.1/maven-reporting-exec-2.0.1.pom
    from mvn: 839 - non-mvn: 2310 - buildinfo: 0 - module: 2565 - gradle timestamp: 1556 - atlasdb: 0 = 0 release
+20260518
+com/github/hazendaz/htmlcompressor/1.13.0/htmlcompressor-1.13.0.pom
+com/github/hazendaz/htmlcompressor/2.4.0/htmlcompressor-2.4.0.pom
+com/google/mug/mug-bigquery/10.1.1/mug-bigquery-10.1.1.pom
+com/google/mug/mug-bom/10.1.1/mug-bom-10.1.1.pom
+com/google/mug/mug-concurrent-testing/10.1.1/mug-concurrent-testing-10.1.1.pom
+com/google/mug/mug-concurrent24/10.1.1/mug-concurrent24-10.1.1.pom
+com/google/mug/mug-errorprone/10.1.1/mug-errorprone-10.1.1.pom
+com/google/mug/mug-guava/10.1.1/mug-guava-10.1.1.pom
+com/google/mug/mug-protobuf/10.1.1/mug-protobuf-10.1.1.pom
+com/google/mug/mug-root/10.1.1/mug-root-10.1.1.pom
+com/google/mug/mug-safesql/10.1.1/mug-safesql-10.1.1.pom
+com/google/mug/mug-spanner/10.1.1/mug-spanner-10.1.1.pom
+com/google/mug/mug/10.1.1/mug-10.1.1.pom
+eu/maveniverse/maven/maven-boms/maven-boms/3.9.16-01/maven-boms-3.9.16-01.pom
+eu/maveniverse/maven/mima/mima/2.4.44/mima-2.4.44.pom
+eu/maveniverse/maven/parent/parent/53/parent-53.pom
+eu/maveniverse/maven/toolbox/toolbox/0.15.10/toolbox-0.15.10.pom
+eu/maveniverse/maven/toolrunner/toolrunner/0.2.4/toolrunner-0.2.4.pom
+io/cucumber/cucumber-parent/5.4.0/cucumber-parent-5.4.0.pom
+io/cucumber/cucumber-parent/5.4.1/cucumber-parent-5.4.1.pom
+jakarta/servlet/jakarta.servlet-api/6.2.0-M2/jakarta.servlet-api-6.2.0-M2.pom
+jakarta/servlet/jsp/jakarta.servlet.jsp-api/4.1.0-M2/jakarta.servlet.jsp-api-4.1.0-M2.pom
+org/apache/maven/enforcer/enforcer/3.6.3/enforcer-3.6.3.pom
+org/apache/maven/resolver/maven-resolver/2.0.18/maven-resolver-2.0.18.pom
+org/apache/shiro/shiro-root/2.2.0/shiro-root-2.2.0.pom
+org/eclipse/ee4j/project/2.0.3/project-2.0.3.pom
+org/itsallcode/openfasttrace-maven-plugin/2.3.1/openfasttrace-maven-plugin-2.3.1.pom
+   from mvn: 4102 - non-mvn: 7739 - buildinfo: 0 - module: 6208 - gradle timestamp: 3779 - atlasdb: 0 = 0 release
