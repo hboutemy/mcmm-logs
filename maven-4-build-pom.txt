@@ -2658,3 +2658,9 @@ com/google/adk/google-adk/1.3.0/google-adk-1.3.0-build.pom
 com/google/adk/samples/configagent-samples/1.3.0/configagent-samples-1.3.0-build.pom
 com/google/adk/samples/google-adk-sample-helloworld/1.3.0/google-adk-sample-helloworld-1.3.0-build.pom
 com/google/adk/samples/google-adk-sample-mcpfilesystem/1.3.0/google-adk-sample-mcpfilesystem-1.3.0-build.pom
+20260520
+com/flowlogix/depchain/depchain/121/depchain-121-build.pom
+com/flowlogix/depchain/integration-test/121/integration-test-121-build.pom
+com/flowlogix/depchain/shiro-jakarta/121/shiro-jakarta-121-build.pom
+com/flowlogix/depchain/unit-test/121/unit-test-121-build.pom
+com/flowlogix/flowlogix-bom/32/flowlogix-bom-32-build.pom

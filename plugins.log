@@ -6231,6 +6231,7 @@ org.nuiton -> license:maven-license-plugin = "Plugin maven de changement de lice
 org.nuiton -> nuiton-config:nuiton-config-maven-plugin = "Nuiton Config :: Maven plugin"
 org.nuiton -> nuitonreport:nuiton-maven-report-plugin = "Nuiton Maven reports plugin"
 org.nuiton -> nuiton-utilsreport:nuiton-utils-maven-report-plugin = "Nuiton Utils :: Maven Report Plugin"
+org.nuiton.eugene -> eugene:eugene-maven-plugin = "EUGene :: Maven plugin"
 org.nuiton.i18n -> i18n:i18n-maven-plugin = "I18n :: Maven Plugin"
 org.nuiton.processor -> processor:processor-maven-plugin = "Nuiton Processor :: Maven plugin"
 org.nuiton.thirdparty -> webstart:webstart-maven-plugin = "Maven Webstart Plugin"

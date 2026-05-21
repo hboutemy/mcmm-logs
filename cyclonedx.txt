@@ -1445,6 +1445,8 @@ de.trustable.cmp.client:cmpClient
 de.trustable:cryptoUtil
 dev.iabudiab:dependency-track-maven-plugin
 dev.jcputney:magika-java
+dev.jcputney:magika-java-parent
+dev.jcputney:magika-java-tika
 dev.openfeature.contrib.hooks:otel
 dev.openfeature.contrib.providers:configcat
 dev.openfeature.contrib.providers:env-var
@@ -2286,6 +2288,7 @@ network.ike.tooling:ike-java-support
 network.ike.tooling:ike-maven-plugin
 network.ike.tooling:ike-maven-plugin-support
 network.ike.tooling:ike-tooling
+network.ike.tooling:ike-workspace-extension
 network.ike.tooling:ike-workspace-model
 nl.basjes.codeowners:codeowners-parent
 nl.basjes.codeowners:codeowners-reader
