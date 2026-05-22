@@ -22234,3 +22234,27 @@ org/finos/legend/engine/legend-engine/4.129.7/legend-engine-4.129.7.pom
 org/green-code-initiative/creedengo-integration-test/0.4.0/creedengo-integration-test-0.4.0.pom
 org/metricshub/community-connectors/1.0.21/community-connectors-1.0.21.pom
    from mvn: 5878 - non-mvn: 8855 - buildinfo: 1 - module: 6632 - gradle timestamp: 4030 - atlasdb: 0 = 0 release
+20260520
+dev/jcputney/magika-java-parent/0.4.0/magika-java-parent-0.4.0.pom
+io/avaje/avaje-jsonb-parent/3.14-RC5/avaje-jsonb-parent-3.14-RC5.pom
+io/avaje/avaje-metrics-parent/9.9-RC3/avaje-metrics-parent-9.9-RC3.pom
+io/quarkus/quarkus-parent/3.27.4/quarkus-parent-3.27.4.pom
+io/quarkus/quarkus-parent/3.33.2/quarkus-parent-3.33.2.pom
+io/quarkus/quarkus-parent/3.35.4/quarkus-parent-3.35.4.pom
+io/quarkus/quarkus-parent/3.36.0/quarkus-parent-3.36.0.pom
+network/ike/docs/ike-docs/47/ike-docs-47.pom
+network/ike/docs/ike-docs/48/ike-docs-48.pom
+network/ike/platform/ike-platform/75/ike-platform-75.pom
+network/ike/platform/ike-platform/76/ike-platform-76.pom
+network/ike/platform/ike-platform/77/ike-platform-77.pom
+network/ike/platform/ike-platform/78/ike-platform-78.pom
+network/ike/tooling/ike-tooling/190/ike-tooling-190.pom
+network/ike/tooling/ike-tooling/191/ike-tooling-191.pom
+org/apache/artemis/artemis-project/2.54.0/artemis-project-2.54.0.pom
+org/apache/sling/org.apache.sling.tracer/1.1.0/org.apache.sling.tracer-1.1.0.pom
+org/apache/wicket/wicket-parent/10.9.1/wicket-parent-10.9.1.pom
+org/brylex/stax4json/0.2/stax4json-0.2.pom
+org/brylex/xmlgen/0.3/xmlgen-0.3.pom
+org/infinispan/infinispan-build-configuration-parent/16.0.12/infinispan-build-configuration-parent-16.0.12.pom
+org/metricshub/metricshub-community/3.9.04/metricshub-community-3.9.04.pom
+   from mvn: 8236 - non-mvn: 5625 - buildinfo: 0 - module: 6302 - gradle timestamp: 3169 - atlasdb: 0 = 0 release
