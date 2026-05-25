@@ -22308,3 +22308,19 @@ network/ike/platform/ike-platform/82/ike-platform-82.pom
 org/apache/maven/extensions/maven-build-cache-extension/1.2.3/maven-build-cache-extension-1.2.3.pom
 org/jline/jline-parent/4.1.1/jline-parent-4.1.1.pom
    from mvn: 3637 - non-mvn: 6150 - buildinfo: 1 - module: 5827 - gradle timestamp: 2957 - atlasdb: 0 = 0 release
+20260523
+com/google/mug/mug-bigquery/10.2/mug-bigquery-10.2.pom
+com/google/mug/mug-bom/10.2/mug-bom-10.2.pom
+com/google/mug/mug-concurrent-testing/10.2/mug-concurrent-testing-10.2.pom
+com/google/mug/mug-concurrent24/10.2/mug-concurrent24-10.2.pom
+com/google/mug/mug-errorprone/10.2/mug-errorprone-10.2.pom
+com/google/mug/mug-guava/10.2/mug-guava-10.2.pom
+com/google/mug/mug-protobuf/10.2/mug-protobuf-10.2.pom
+com/google/mug/mug-root/10.2/mug-root-10.2.pom
+com/google/mug/mug-safesql/10.2/mug-safesql-10.2.pom
+com/google/mug/mug-spanner/10.2/mug-spanner-10.2.pom
+com/google/mug/mug/10.2/mug-10.2.pom
+org/apache/maven/plugins/maven-changelog-plugin/3.0.0-M2/maven-changelog-plugin-3.0.0-M2.pom
+org/apache/maven/plugins/maven-site-plugin/3.22.0/maven-site-plugin-3.22.0.pom
+org/jline/jline-parent/4.1.2/jline-parent-4.1.2.pom
+   from mvn: 1669 - non-mvn: 2920 - buildinfo: 0 - module: 2447 - gradle timestamp: 1295 - atlasdb: 0 = 0 release
