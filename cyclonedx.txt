@@ -7843,6 +7843,7 @@ org.orekit:orekit
 org.orekit:rugged
 org.owasp.antisamy:antisamy
 org.owasp.esapi:esapi
+org.pageseeder.bastille:pso-bastille
 org.pageseeder.sdk:pageseeder-sdk-cli
 org.pageseeder.sdk:pageseeder-sdk-core
 org.pageseeder.sdk:pageseeder-sdk-legacy
