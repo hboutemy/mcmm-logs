@@ -1,0 +1,7 @@
+io/github/microcks/microcks-java-client/0.0.8/microcks-java-client-0.0.8.spdx.json
+io/reshapr/reshapr-api/0.0.12/reshapr-api-0.0.12.spdx.json
+io/reshapr/reshapr-commons/0.0.12/reshapr-commons-0.0.12.spdx.json
+io/reshapr/reshapr-ctrl/0.0.12/reshapr-ctrl-0.0.12.spdx.json
+io/reshapr/reshapr-parent/0.0.12/reshapr-parent-0.0.12.spdx.json
+io/reshapr/reshapr/0.0.12/reshapr-0.0.12.spdx.json
+org/apache/commons/commons-configuration2/2.15.1/commons-configuration2-2.15.1.spdx.json

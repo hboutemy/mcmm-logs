@@ -1904,6 +1904,7 @@ io.vertx:vertx-config-zookeeper
 io.vertx:vertx-consul-client
 io.vertx:vertx-core
 io.vertx:vertx-core-aggregator
+io.vertx:vertx-core-java21-it
 io.vertx:vertx-core-logging
 io.vertx:vertx-db2-client
 io.vertx:vertx-dependencies
@@ -1911,6 +1912,9 @@ io.vertx:vertx-docgen-api
 io.vertx:vertx-docgen-parent
 io.vertx:vertx-docgen-processor
 io.vertx:vertx-dropwizard-metrics
+io.vertx:vertx-eventbus-bridge-common
+io.vertx:vertx-eventbus-bridge-grpc
+io.vertx:vertx-eventbus-bridge-parent
 io.vertx:vertx-ext
 io.vertx:vertx-ext-parent
 io.vertx:vertx-ext-resources
@@ -1919,6 +1923,7 @@ io.vertx:vertx-grpc-aggregator
 io.vertx:vertx-grpc-client
 io.vertx:vertx-grpc-common
 io.vertx:vertx-grpc-docs
+io.vertx:vertx-grpc-eventbus
 io.vertx:vertx-grpc-health
 io.vertx:vertx-grpc-it
 io.vertx:vertx-grpc-parent
@@ -1999,6 +2004,7 @@ io.vertx:vertx-service-resolver
 io.vertx:vertx-shell
 io.vertx:vertx-sockjs-service-proxy
 io.vertx:vertx-sql-client
+io.vertx:vertx-sql-client-codec
 io.vertx:vertx-sql-client-parent
 io.vertx:vertx-sql-client-templates
 io.vertx:vertx-stack
@@ -2127,6 +2133,10 @@ jakarta.platform:jakarta.jakartaee-web-api
 jakarta.platform:jakartaee-api-parent
 jakarta.security.enterprise:jakarta.security.enterprise-api
 jakarta.servlet.jsp:jakarta.servlet.jsp-api
+jakarta.servlet.tck:servlet-tck
+jakarta.servlet.tck:servlet-tck-dist
+jakarta.servlet.tck:servlet-tck-runtime
+jakarta.servlet.tck:servlet-tck-util
 jakarta.servlet:jakarta.servlet-api
 jakarta.tck.arquillian:arquillian-protocol-appclient
 jakarta.tck.arquillian:arquillian-protocol-common
