@@ -324,6 +324,12 @@ codes.domix:fun-resilience4j
 codes.domix:fun-spring
 codes.domix:fun-spring-boot
 codes.domix:fun-tracing
+com.arcmutate:arcmutate-base-parent
+com.arcmutate:arcmutate-licence-lib
+com.arcmutate:arcmutate-spring
+com.arcmutate:base
+com.arcmutate:mutators-verification
+com.arcmutate:pitest-kotlin-plugin
 com.axonivy.ivy.ci:project-build-plugin
 com.buschmais.jqassistant.cli:jqassistant-commandline-neo4jv4
 com.buschmais.jqassistant.cli:jqassistant-commandline-neo4jv5
