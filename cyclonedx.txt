@@ -329,6 +329,7 @@ com.arcmutate:arcmutate-licence-lib
 com.arcmutate:arcmutate-spring
 com.arcmutate:base
 com.arcmutate:mutators-verification
+com.arcmutate:pitest-agent-plugin
 com.arcmutate:pitest-annotations
 com.arcmutate:pitest-azure-lib
 com.arcmutate:pitest-azure-maven-plugin
@@ -2127,6 +2128,13 @@ jakarta.enterprise:jakarta.enterprise.cdi-spec-doc
 jakarta.enterprise:jakarta.enterprise.lang-model
 jakarta.faces:jakarta.faces-api
 jakarta.interceptor:jakarta.interceptor-api
+jakarta.json.bind:jakarta.json.bind-api
+jakarta.json.bind:jakarta.json.bind-docs
+jakarta.json.bind:jakarta.json.bind-parent
+jakarta.json.bind:jakarta.json.bind-spec
+jakarta.json.bind:jakarta.json.bind-tck
+jakarta.json.bind:jakarta.json.bind-tck-dist
+jakarta.json.bind:jakarta.json.bind-tck-ug
 jakarta.mail:jakarta.mail-api
 jakarta.mvc.tck:mvc-tck-api
 jakarta.mvc.tck:mvc-tck-bom
