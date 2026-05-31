@@ -1484,6 +1484,7 @@ dev.openfeature.contrib.tools:flagdhttpconnector
 dev.openfeature.contrib.tools:junitopenfeature
 dev.openfeature.contrib:parent
 dev.openfeature:sdk
+dev.retreever:retreever
 dev.samsanders.openvex:jvex
 dev.vality:kotlin-service-parent-pom
 dev.vality:service-parent-pom
