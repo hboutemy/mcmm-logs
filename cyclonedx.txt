@@ -2258,6 +2258,9 @@ jakarta.xml.ws:jakarta.xml.ws-api
 life.qbic:linksmith
 me.dmmax.akka:akka-spawn-protocol
 me.dmmax.akka:akka-spawn-protocol-guice
+media.barney:contract-core
+media.barney:contract-java
+media.barney:contract-spring-boot-starter
 net.dapete:exceptional
 net.dapete:locks
 net.e175.klaus:solarpositioning
