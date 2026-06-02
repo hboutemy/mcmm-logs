@@ -22573,3 +22573,23 @@ io/streamnative/buildtools/4.2.0.9/buildtools-4.2.0.9.pom
 io/streamnative/pulsar-bom/4.2.0.9/pulsar-bom-4.2.0.9.pom
 io/streamnative/pulsar/4.2.0.9/pulsar-4.2.0.9.pom
    from mvn: 1712 - non-mvn: 3320 - buildinfo: 0 - module: 3521 - gradle timestamp: 2390 - atlasdb: 0 = 0 release
+20260531
+com/fasterxml/jackson/core/jackson-annotations/2.22/jackson-annotations-2.22.pom
+com/fasterxml/jackson/jackson-base/2.22.0/jackson-base-2.22.0.pom
+com/fasterxml/jackson/jackson-bom/2.22.0/jackson-bom-2.22.0.pom
+com/fasterxml/jackson/jackson-parent/2.22/jackson-parent-2.22.pom
+com/github/hazendaz/git/github-desktop/3.5.11/github-desktop-3.5.11.pom
+dev/hardwood/hardwood-parent/1.0.0.CR1/hardwood-parent-1.0.0.CR1.pom
+io/dropwizard/dropwizard-project/5.0.2/dropwizard-project-5.0.2.pom
+io/github/chains-project/maven-lockfile-parent/5.16.1-beta-3/maven-lockfile-parent-5.16.1-beta-3.pom
+io/streamnative/buildtools/4.0.10.4/buildtools-4.0.10.4.pom
+io/streamnative/pulsar-bom/4.0.10.4/pulsar-bom-4.0.10.4.pom
+io/streamnative/pulsar/4.0.10.4/pulsar-4.0.10.4.pom
+network/ike/docs/ike-docs/68/ike-docs-68.pom
+network/ike/platform/ike-platform/99/ike-platform-99.pom
+org/apache/activemq/activemq-parent/5.19.7/activemq-parent-5.19.7.pom
+org/apache/directory/api/api-parent/2.1.8/api-parent-2.1.8.pom
+org/connectorio/connectorio-oss/6/connectorio-oss-6.pom
+org/connectorio/plc4x/extras/0.13.0-connectorio-3/extras-0.13.0-connectorio-3.pom
+org/mybatis/mybatis-parent/52/mybatis-parent-52.pom
+   from mvn: 1819 - non-mvn: 3604 - buildinfo: 0 - module: 3892 - gradle timestamp: 2876 - atlasdb: 0 = 0 release

@@ -3453,6 +3453,7 @@ org.apache.hop:hop-misc-import
 org.apache.hop:hop-misc-mail
 org.apache.hop:hop-misc-passwords
 org.apache.hop:hop-misc-projects
+org.apache.hop:hop-misc-py4j
 org.apache.hop:hop-misc-reflection
 org.apache.hop:hop-misc-rest
 org.apache.hop:hop-misc-static-schema
@@ -3468,6 +3469,7 @@ org.apache.hop:hop-plugins-transforms
 org.apache.hop:hop-plugins-valuetypes
 org.apache.hop:hop-resolvers-pipeline
 org.apache.hop:hop-rest
+org.apache.hop:hop-tech-arrow
 org.apache.hop:hop-tech-avro
 org.apache.hop:hop-tech-aws
 org.apache.hop:hop-tech-azure
@@ -3477,11 +3479,13 @@ org.apache.hop:hop-tech-dropbox
 org.apache.hop:hop-tech-elastic
 org.apache.hop:hop-tech-google
 org.apache.hop:hop-tech-minio
+org.apache.hop:hop-tech-mongodb
 org.apache.hop:hop-tech-neo4j
 org.apache.hop:hop-tech-opensearch
 org.apache.hop:hop-tech-parquet
 org.apache.hop:hop-tech-salesforce
 org.apache.hop:hop-tech-vault
+org.apache.hop:hop-tech-webdav
 org.apache.hop:hop-transform-abort
 org.apache.hop:hop-transform-addsequence
 org.apache.hop:hop-transform-addsnowflakeid
@@ -3506,7 +3510,10 @@ org.apache.hop:hop-transform-cubeoutput
 org.apache.hop:hop-transform-databasejoin
 org.apache.hop:hop-transform-databaselookup
 org.apache.hop:hop-transform-datagrid
+org.apache.hop:hop-transform-datastream
+org.apache.hop:hop-transform-dbimpact
 org.apache.hop:hop-transform-dbproc
+org.apache.hop:hop-transform-ddl
 org.apache.hop:hop-transform-delay
 org.apache.hop:hop-transform-delete
 org.apache.hop:hop-transform-denormaliser
@@ -3637,6 +3644,7 @@ org.apache.hop:hop-transform-zipfile
 org.apache.hop:hop-ui
 org.apache.hop:hop-ui-rap
 org.apache.hop:hop-ui-rcp
+org.apache.hop:hop-ui-rcp-parent
 org.apache.hop:hop-valuetypes-json
 org.apache.hop:hop-valuetypes-uuid
 org.apache.iotdb:iotdb-extras-parent
@@ -7899,6 +7907,9 @@ org.orekit:rugged
 org.owasp.antisamy:antisamy
 org.owasp.esapi:esapi
 org.pageseeder.bastille:pso-bastille
+org.pageseeder.berlioz:pso-berlioz
+org.pageseeder.berlioz:pso-berlioz-kickstart
+org.pageseeder.berlioz:pso-berlioz-mock
 org.pageseeder.sdk:pageseeder-sdk-cli
 org.pageseeder.sdk:pageseeder-sdk-core
 org.pageseeder.sdk:pageseeder-sdk-legacy

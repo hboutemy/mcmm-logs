@@ -1,0 +1,4 @@
+org/opendaylight/bgpcep/bgpcep-sbom-2.0.0.spdx
+org/opendaylight/gnmi/gnmi-sbom-3.0.0.spdx
+org/opendaylight/odlparent/odlparent-sbom-14.3.4.spdx
+org/opendaylight/openflowplugin/openflowplugin-sbom-1.0.0.spdx
