@@ -1492,6 +1492,7 @@ edu.hm.hafner:pmd-core
 edu.hm.hafner:pmd-java
 ee.omnifish.arquillian:arquillian-glassfish-server-embedded
 ee.omnifish.arquillian:arquillian-glassfish-server-managed
+ee.omnifish.arquillian:arquillian-glassfish-server-pool
 ee.omnifish.arquillian:arquillian-glassfish-server-remote
 ee.omnifish.arquillian:glassfish-client-ee10
 ee.omnifish.arquillian:glassfish-client-ee11
@@ -1499,6 +1500,7 @@ ee.omnifish.arquillian:glassfish-container-common
 ee.omnifish.arquillian:glassfish-containers-dependencies
 ee.omnifish.arquillian:glassfish-containers-docs
 ee.omnifish.arquillian:glassfish-containers-main
+ee.omnifish.arquillian:glassfish-pool-maven-plugin
 eu.michael-simons.neo4j:neo4j-migrations
 eu.michael-simons.neo4j:neo4j-migrations-annotation-catalog
 eu.michael-simons.neo4j:neo4j-migrations-annotation-processing
@@ -2420,6 +2422,7 @@ one.microstream:microstream-storage-restclient-jersey
 one.microstream:microstream-storage-restservice
 one.microstream:microstream-storage-restservice-sparkjava
 org.aarboard.nextcloud:nextcloud-api
+org.apache.ant:ant-cyclonedx
 org.apache.apache.resources:apache-incubator-disclaimer-resource-bundle
 org.apache.apache.resources:apache-jar-resource-bundle
 org.apache.apache.resources:apache-jar-txt-resource-bundle
@@ -7729,19 +7732,23 @@ org.opendaylight.transportpce.models:openroadm-common-1.2.1
 org.opendaylight.transportpce.models:openroadm-common-10.1.0
 org.opendaylight.transportpce.models:openroadm-common-13.1.0
 org.opendaylight.transportpce.models:openroadm-common-13.1.1
+org.opendaylight.transportpce.models:openroadm-common-17.1.0
 org.opendaylight.transportpce.models:openroadm-common-2.2.1
 org.opendaylight.transportpce.models:openroadm-common-7.1.0
 org.opendaylight.transportpce.models:openroadm-device-1.2.1
 org.opendaylight.transportpce.models:openroadm-device-13.1.0
 org.opendaylight.transportpce.models:openroadm-device-13.1.1
+org.opendaylight.transportpce.models:openroadm-device-17.1.0
 org.opendaylight.transportpce.models:openroadm-device-2.2.1
 org.opendaylight.transportpce.models:openroadm-device-7.1.0
 org.opendaylight.transportpce.models:openroadm-network-10.1.0
 org.opendaylight.transportpce.models:openroadm-network-13.1.0
 org.opendaylight.transportpce.models:openroadm-network-13.1.1
+org.opendaylight.transportpce.models:openroadm-network-17.1.0
 org.opendaylight.transportpce.models:openroadm-service-10.1.0
 org.opendaylight.transportpce.models:openroadm-service-13.1.0
 org.opendaylight.transportpce.models:openroadm-service-13.1.1
+org.opendaylight.transportpce.models:openroadm-service-17.1.0
 org.opendaylight.transportpce.models:tapi-2.1.1
 org.opendaylight.transportpce.models:tapi-2.4.0
 org.opendaylight.transportpce.models:transportpce-models-artifacts
