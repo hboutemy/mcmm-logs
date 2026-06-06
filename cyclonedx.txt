@@ -1524,6 +1524,9 @@ fr.inria.gforge.spoon:spoon-javadoc
 fr.inria.gforge.spoon:spoon-pom
 fr.marcwrobel:jbanking
 gov.nist.secauto.oscal:liboscal-java
+io.decentralchain:blst
+io.decentralchain:curve25519
+io.decentralchain:groth16
 io.docops:docops-extension-server
 io.dropwizard.archetypes:dropwizard-archetypes
 io.dropwizard.archetypes:java-simple
