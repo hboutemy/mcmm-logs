@@ -1,0 +1,10 @@
+io/decentralchain/crypto/2.0.7/crypto-2.0.7-cyclonedx.xml
+io/decentralchain/crypto/2.0.7/crypto-2.0.7-cyclonedx.json
+io/decentralchain/java-sdk/2.0.1/java-sdk-2.0.1-cyclonedx.xml
+io/decentralchain/java-sdk/2.0.1/java-sdk-2.0.1-cyclonedx.json
+io/decentralchain/transactions/1.0.0/transactions-1.0.0-cyclonedx.xml
+io/decentralchain/transactions/1.0.0/transactions-1.0.0-cyclonedx.json
+io/github/chains-project/maven-lockfile-parent/5.17.0/maven-lockfile-parent-5.17.0-cyclonedx.json
+io/github/chains-project/maven-lockfile-parent/5.17.0/maven-lockfile-parent-5.17.0-cyclonedx.xml
+io/github/chains-project/maven-lockfile/5.17.0/maven-lockfile-5.17.0-cyclonedx.xml
+io/github/chains-project/maven-lockfile/5.17.0/maven-lockfile-5.17.0-cyclonedx.json
