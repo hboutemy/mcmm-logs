@@ -1715,6 +1715,11 @@ io.github.sparsick.testcontainers.gitserver:testcontainers-git-bom
 io.github.sparsick.testcontainers.gitserver:testcontainers-git-parent
 io.github.sparsick.testcontainers.gitserver:testcontainers-gitserver
 io.github.tomverin:sonar-dummy-oss-plugin
+io.github.usmanovmahmudkhan:chat-server-core
+io.github.usmanovmahmudkhan:chat-server-postgres
+io.github.usmanovmahmudkhan:chat-server-redis
+io.github.usmanovmahmudkhan:real-time-chat-server
+io.github.usmanovmahmudkhan:real-time-chat-server-parent
 io.jexxa.adapters:adapter-api
 io.jexxa.adapters:common-adapters
 io.jexxa.adapters:esp-adapters
@@ -5512,6 +5517,7 @@ org.glassfish.main.admingui:console-jca-plugin
 org.glassfish.main.admingui:console-jdbc-plugin
 org.glassfish.main.admingui:console-jms-plugin
 org.glassfish.main.admingui:console-jts-plugin
+org.glassfish.main.admingui:console-mail-plugin
 org.glassfish.main.admingui:console-plugin-service
 org.glassfish.main.admingui:console-web-plugin
 org.glassfish.main.admingui:dataprovider
