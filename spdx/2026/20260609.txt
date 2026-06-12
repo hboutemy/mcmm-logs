@@ -1,0 +1,5 @@
+org/opendaylight/ietf/ietf-sbom-1.0.5.spdx
+org/opendaylight/infrautils/infrautils-sbom-7.1.13.spdx
+org/opendaylight/odlparent/odlparent-sbom-14.3.6.spdx
+org/opendaylight/yangtools/yangtools-sbom-14.0.24.spdx
+org/opendaylight/yangtools/yangtools-sbom-15.1.2.spdx
