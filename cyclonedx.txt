@@ -483,6 +483,7 @@ com.github.hazendaz.jmockit:tutorial
 com.github.hazendaz.maven:coveralls-maven-plugin
 com.github.hazendaz.maven:directory-maven-plugin
 com.github.hazendaz.maven:htmlcompressor-maven-plugin
+com.github.hazendaz.maven:jautodoc-maven-plugin
 com.github.hazendaz.maven:makeself-maven-plugin
 com.github.hazendaz.maven:smartsprites-maven-plugin
 com.github.hazendaz.maven:whitespace-maven-plugin
