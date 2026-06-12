@@ -1502,6 +1502,7 @@ ee.omnifish.arquillian:glassfish-containers-dependencies
 ee.omnifish.arquillian:glassfish-containers-docs
 ee.omnifish.arquillian:glassfish-containers-main
 ee.omnifish.arquillian:glassfish-pool-maven-plugin
+eu.copernik:copernik-xml-factory
 eu.michael-simons.neo4j:neo4j-migrations
 eu.michael-simons.neo4j:neo4j-migrations-annotation-catalog
 eu.michael-simons.neo4j:neo4j-migrations-annotation-processing
@@ -1703,6 +1704,7 @@ io.github.sebastian-toepfer.json.rpc:json-rpc-runtime
 io.github.sebastian-toepfer.json.rpc:json-rpc-spring-integration-autoconfigure
 io.github.sebastian-toepfer.json.rpc:json-rpc-spring-integration-starter
 io.github.sebastian-toepfer.oss:oss-parent
+io.github.shafthq:shaft-parent
 io.github.sndnv:fsi
 io.github.sndnv:layers-testing_2.13
 io.github.sndnv:layers-testing_3

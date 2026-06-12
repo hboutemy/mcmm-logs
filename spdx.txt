@@ -23,6 +23,7 @@ de.knightsoft-net:gwt-commons-validator
 de.powerstat.phplib:templateengine
 de.powerstat.toolbaseline:tbl-java-parent
 de.powerstat.validation:validation
+eu.copernik:copernik-xml-factory
 io.aiven.kafka.connect:connectors-common-for-amqp
 io.aiven.kafka.connect:connectors-for-amqp
 io.aiven.kafka.connect:source-connector-for-amqp
