@@ -2713,3 +2713,15 @@ com/google/adk/samples/google-adk-sample-mcpfilesystem/1.4.0/google-adk-sample-m
 20260610
 20260611
 com/flowlogix/flowlogix-bom/33/flowlogix-bom-33-build.pom
+20260612
+com/flowlogix/base-pom/125/base-pom-125-build.pom
+com/flowlogix/checkstyle/125/checkstyle-125-build.pom
+com/flowlogix/depchain/depchain/123/depchain-123-build.pom
+com/flowlogix/depchain/integration-test/123/integration-test-123-build.pom
+com/flowlogix/depchain/shiro-jakarta/123/shiro-jakarta-123-build.pom
+com/flowlogix/depchain/unit-test/123/unit-test-123-build.pom
+com/flowlogix/flowlogix-datamodel/11.4.1/flowlogix-datamodel-11.4.1-build.pom
+com/flowlogix/flowlogix-jee/11.4.1/flowlogix-jee-11.4.1-build.pom
+com/flowlogix/flowlogix/11.4.1/flowlogix-11.4.1-build.pom
+com/flowlogix/infra-pom/125/infra-pom-125-build.pom
+com/flowlogix/payara-pom/125/payara-pom-125-build.pom
