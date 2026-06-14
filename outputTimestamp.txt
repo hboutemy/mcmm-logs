@@ -22936,3 +22936,29 @@ org/apache/commons/commons-parent/102/commons-parent-102.pom
 org/jvnet/jaxb/jaxb-tools-project/2.0.16/jaxb-tools-project-2.0.16.pom
 world/convex/convex/0.8.5/convex-0.8.5.pom
    from mvn: 6225 - non-mvn: 8619 - buildinfo: 0 - module: 6437 - gradle timestamp: 4121 - atlasdb: 0 = 0 release
+20260612
+com/aoapps/ao-checkstyle-config-book/13.5.0/ao-checkstyle-config-book-13.5.0.pom
+com/aoapps/ao-checkstyle-config/13.5.0/ao-checkstyle-config-13.5.0.pom
+com/aoapps/ao-lang-book/5.8.0/ao-lang-book-5.8.0.pom
+com/aoapps/ao-lang/5.8.0/ao-lang-5.8.0.pom
+com/aoapps/ao-oss-parent-book/1.28.0/ao-oss-parent-book-1.28.0.pom
+com/aoapps/ao-oss-parent/1.28.0/ao-oss-parent-1.28.0.pom
+com/aoapps/ao-security-book/3.3.1/ao-security-book-3.3.1.pom
+com/aoapps/ao-security/3.3.1/ao-security-3.3.1.pom
+com/aoapps/pgp-keys-map-book/1.16.0/pgp-keys-map-book-1.16.0.pom
+com/aoapps/pgp-keys-map/1.16.0/pgp-keys-map-1.16.0.pom
+com/flowlogix/checkstyle/125/checkstyle-125-build.pom
+com/flowlogix/infra-pom/125/infra-pom-125.pom
+com/flowlogix/infra-pom/125/infra-pom-125-build.pom
+com/github/hazendaz/maven/makeself-maven-plugin/1.12.0/makeself-maven-plugin-1.12.0.pom
+com/github/hazendaz/maven/yuicompressor-maven-plugin/2.4.0/yuicompressor-maven-plugin-2.4.0.pom
+eu/maveniverse/maven/checksum/checksum/0.1.0/checksum-0.1.0.pom
+eu/maveniverse/maven/checksum/checksum/0.1.1/checksum-0.1.1.pom
+io/avaje/avaje-jex-parent/3.6/avaje-jex-parent-3.6.pom
+io/avaje/avaje-metrics-parent/9.16-RC8/avaje-metrics-parent-9.16-RC8.pom
+io/roastedroot/quickjs4j-parent/0.0.19/quickjs4j-parent-0.0.19.pom
+io/wcm/tooling/commons/io.wcm.tooling.commons.crx-packmgr-helper/2.5.0/io.wcm.tooling.commons.crx-packmgr-helper-2.5.0.pom
+net/optionfactory/ranges/2.2/ranges-2.2.pom
+net/optionfactory/spring/optionfactory-spring/24.7/optionfactory-spring-24.7.pom
+net/optionfactory/spring/optionfactory-spring/24.8/optionfactory-spring-24.8.pom
+   from mvn: 4038 - non-mvn: 10709 - buildinfo: 2 - module: 3660 - gradle timestamp: 2624 - atlasdb: 0 = 0 release
