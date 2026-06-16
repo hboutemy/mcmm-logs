@@ -3914,6 +3914,12 @@ org.apache.maven.doxia:doxia-tools
 org.apache.maven.enforcer:enforcer
 org.apache.maven.enforcer:enforcer-api
 org.apache.maven.enforcer:enforcer-rules
+org.apache.maven.executor.providers:docker-exe
+org.apache.maven.executor.providers:providers
+org.apache.maven.executor.providers:testcontainers
+org.apache.maven.executor:executor
+org.apache.maven.executor:maven-executor
+org.apache.maven.executor:test-utilities
 org.apache.maven.extensions:maven-build-cache-extension
 org.apache.maven.extensions:maven-enforcer-extension
 org.apache.maven.extensions:maven-extensions
