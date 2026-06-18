@@ -2735,3 +2735,11 @@ com/flowlogix/server-common/126/server-common-126-build.pom
 20260614
 20260615
 20260616
+20260617
+com/flowlogix/archetypes/starter/136/starter-136-build.pom
+com/flowlogix/depchain/depchain/124/depchain-124-build.pom
+com/flowlogix/depchain/integration-test-ng/124/integration-test-ng-124-build.pom
+com/flowlogix/depchain/integration-test/124/integration-test-124-build.pom
+com/flowlogix/depchain/shiro-jakarta/124/shiro-jakarta-124-build.pom
+com/flowlogix/depchain/unit-test/124/unit-test-124-build.pom
+com/flowlogix/flowlogix-bom/34/flowlogix-bom-34-build.pom

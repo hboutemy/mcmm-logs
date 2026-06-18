@@ -438,6 +438,7 @@ com.fasterxml.jackson.module:jackson-module-scala_3
 com.flowlogix.archetypes:starter
 com.flowlogix.depchain:depchain
 com.flowlogix.depchain:integration-test
+com.flowlogix.depchain:integration-test-ng
 com.flowlogix.depchain:shiro-jakarta
 com.flowlogix.depchain:unit-test
 com.flowlogix.plugins:container-deploy-plugin
@@ -1470,6 +1471,7 @@ dev.iabudiab:dependency-track-maven-plugin
 dev.jcputney:magika-java
 dev.jcputney:magika-java-parent
 dev.jcputney:magika-java-tika
+dev.nthings:adf4j
 dev.openfeature.contrib.hooks:otel
 dev.openfeature.contrib.providers:configcat
 dev.openfeature.contrib.providers:env-var
@@ -1668,6 +1670,13 @@ io.github.chains-project:maven-lockfile-parent
 io.github.giulong:spectrum
 io.github.luigidemasi:jsch
 io.github.manishdait24-bot:maven-release-poc
+io.github.manishdait:app
+io.github.manishdait:app2
+io.github.manishdait:app3
+io.github.manishdait:app4
+io.github.manishdait:app5
+io.github.manishdait:app6
+io.github.manishdait:maven-release-poc
 io.github.openwebview:openwebview
 io.github.ptsdirect:pts
 io.github.r4fterman:abbot
@@ -6020,6 +6029,10 @@ org.glassfish:jakarta.enterprise.concurrent
 org.glassfish:jakarta.faces
 org.glassfish:mojarra-parent
 org.graylog2:graylog2-server
+org.hiero:hiero-enterprise
+org.hiero:hiero-enterprise-base
+org.hiero:hiero-enterprise-microprofile
+org.hiero:hiero-enterprise-spring
 org.htmlunit:htmlunit
 org.htmlunit:htmlunit-jsoup
 org.huiche:huiche
@@ -7939,6 +7952,7 @@ org.pageseeder.bastille:pso-bastille
 org.pageseeder.berlioz:pso-berlioz
 org.pageseeder.berlioz:pso-berlioz-kickstart
 org.pageseeder.berlioz:pso-berlioz-mock
+org.pageseeder.diffx:pso-diffx
 org.pageseeder.sdk:pageseeder-sdk-cli
 org.pageseeder.sdk:pageseeder-sdk-core
 org.pageseeder.sdk:pageseeder-sdk-legacy
