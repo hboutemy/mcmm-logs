@@ -2743,3 +2743,15 @@ com/flowlogix/depchain/integration-test/124/integration-test-124-build.pom
 com/flowlogix/depchain/shiro-jakarta/124/shiro-jakarta-124-build.pom
 com/flowlogix/depchain/unit-test/124/unit-test-124-build.pom
 com/flowlogix/flowlogix-bom/34/flowlogix-bom-34-build.pom
+20260618
+com/flowlogix/base-pom/127/base-pom-127-build.pom
+com/flowlogix/checkstyle/127/checkstyle-127-build.pom
+com/flowlogix/depchain/depchain/125/depchain-125-build.pom
+com/flowlogix/depchain/integration-test-ng/125/integration-test-ng-125-build.pom
+com/flowlogix/depchain/integration-test/125/integration-test-125-build.pom
+com/flowlogix/depchain/shiro-jakarta/125/shiro-jakarta-125-build.pom
+com/flowlogix/depchain/unit-test/125/unit-test-125-build.pom
+com/flowlogix/glassfish-pom/127/glassfish-pom-127-build.pom
+com/flowlogix/infra-pom/127/infra-pom-127-build.pom
+com/flowlogix/payara-pom/127/payara-pom-127-build.pom
+com/flowlogix/server-common/127/server-common-127-build.pom

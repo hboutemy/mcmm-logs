@@ -23085,3 +23085,27 @@ org/expath/expath-parent/1.9.1/expath-parent-1.9.1.pom
 org/green-code-initiative/creedengo-rules-specifications/3.1.0/creedengo-rules-specifications-3.1.0.pom
 org/jline/jline-parent/4.2.0/jline-parent-4.2.0.pom
    from mvn: 5482 - non-mvn: 7553 - buildinfo: 11 - module: 5999 - gradle timestamp: 4077 - atlasdb: 0 = 0 release
+20260617
+com/github/nbbrd/beanzooka/beanzooka/1.5.1/beanzooka-1.5.1.pom
+com/github/nbbrd/heylogs/heylogs-bom/0.19.1/heylogs-bom-0.19.1.pom
+com/github/nbbrd/heylogs/heylogs-parent/0.19.1/heylogs-parent-0.19.1.pom
+com/github/nbbrd/sasquatch/sasquatch-bom/1.1.2/sasquatch-bom-1.1.2.pom
+com/github/nbbrd/sasquatch/sasquatch-parent/1.1.2/sasquatch-parent-1.1.2.pom
+com/github/nbbrd/sdmx-dl/sdmx-dl-bom/3.1.1/sdmx-dl-bom-3.1.1.pom
+com/github/nbbrd/sdmx-dl/sdmx-dl-parent/3.1.1/sdmx-dl-parent-3.1.1.pom
+commons-logging/commons-logging/1.4.0/commons-logging-1.4.0.pom
+de/cuioss/nifi/nifi-extensions/0.4.0/nifi-extensions-0.4.0.pom
+eu/maveniverse/maven/toolrunner/toolrunner/0.4.0/toolrunner-0.4.0.pom
+eu/maveniverse/maven/toolrunner/toolrunner/0.4.1/toolrunner-0.4.1.pom
+io/github/chains-project/maven-lockfile-parent/5.17.1-beta-1/maven-lockfile-parent-5.17.1-beta-1.pom
+io/jooby/jooby-project/3.11.9/jooby-project-3.11.9.pom
+io/quarkus/quarkus-parent/3.20.6.2/quarkus-parent-3.20.6.2.pom
+io/quarkus/quarkus-parent/3.27.4.1/quarkus-parent-3.27.4.1.pom
+io/quarkus/quarkus-parent/3.33.2.1/quarkus-parent-3.33.2.1.pom
+io/quarkus/quarkus-parent/3.36.3/quarkus-parent-3.36.3.pom
+io/quarkus/quarkus-parent/3.37.0/quarkus-parent-3.37.0.pom
+net/optionfactory/spring/optionfactory-spring/24.12/optionfactory-spring-24.12.pom
+org/apache/shiro/shiro-root/2.2.1/shiro-root-2.2.1.pom
+org/apache/sling/slingfeature-maven-plugin/1.9.6/slingfeature-maven-plugin-1.9.6.pom
+org/jline/jline-parent/4.2.1/jline-parent-4.2.1.pom
+   from mvn: 8681 - non-mvn: 6204 - buildinfo: 0 - module: 5478 - gradle timestamp: 3688 - atlasdb: 0 = 0 release
