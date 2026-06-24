@@ -2755,3 +2755,5 @@ com/flowlogix/glassfish-pom/127/glassfish-pom-127-build.pom
 com/flowlogix/infra-pom/127/infra-pom-127-build.pom
 com/flowlogix/payara-pom/127/payara-pom-127-build.pom
 com/flowlogix/server-common/127/server-common-127-build.pom
+20260619
+com/flowlogix/archetypes/starter/137/starter-137-build.pom
