@@ -4712,6 +4712,7 @@ org.apache.syncope:syncope-ext
 org.apache.syncope:syncope-fit
 org.apache.syncope:syncope-sra
 org.apache.syncope:syncope-wa
+org.apache.tooling:atr-maven-plugin
 org.apache.tsfile:tsfile-parent
 org.apache.turbine:turbine
 org.apache.turbine:turbine-parent
