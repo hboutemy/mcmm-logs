@@ -2758,3 +2758,11 @@ com/flowlogix/server-common/127/server-common-127-build.pom
 20260619
 com/flowlogix/archetypes/starter/137/starter-137-build.pom
 20260620
+20260621
+com/flowlogix/base-pom/128/base-pom-128-build.pom
+com/flowlogix/checkstyle/128/checkstyle-128-build.pom
+com/flowlogix/flowlogix-bom/35/flowlogix-bom-35-build.pom
+com/flowlogix/glassfish-pom/128/glassfish-pom-128-build.pom
+com/flowlogix/infra-pom/128/infra-pom-128-build.pom
+com/flowlogix/payara-pom/128/payara-pom-128-build.pom
+com/flowlogix/server-common/128/server-common-128-build.pom
