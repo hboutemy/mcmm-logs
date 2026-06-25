@@ -23250,3 +23250,14 @@ io/telicent/smart-caches/graph/scg-base/1.0.8/scg-base-1.0.8.pom
 org/apache/tooling/atr-maven-plugin/1.0.0-alpha-1/atr-maven-plugin-1.0.0-alpha-1.pom
 world/convex/convex/0.8.6/convex-0.8.6.pom
    from mvn: 3974 - non-mvn: 6386 - buildinfo: 3 - module: 6184 - gradle timestamp: 4208 - atlasdb: 0 = 0 release
+20260623
+ch/qos/logback/logback-parent/1.5.35/logback-parent-1.5.35.pom
+io/cucumber/cucumber-parent/5.6.0/cucumber-parent-5.6.0.pom
+io/github/database-audits/database-audits-parent/1.1.0/database-audits-parent-1.1.0.pom
+it/mulders/mcs/0.10.1/mcs-0.10.1.pom
+net/delopay/delopay-sdk/1.0.0/delopay-sdk-1.0.0.pom
+net/sourceforge/pmd/pmd-designer/7.19.3/pmd-designer-7.19.3.pom
+org/apache/commons/commons-jexl3/3.6.3/commons-jexl3-3.6.3.pom
+org/apache/paimon/paimon-parent/1.4.2/paimon-parent-1.4.2.pom
+org/finos/legend/engine/legend-engine/4.131.8/legend-engine-4.131.8.pom
+   from mvn: 5022 - non-mvn: 6164 - buildinfo: 0 - module: 5502 - gradle timestamp: 3554 - atlasdb: 0 = 0 release

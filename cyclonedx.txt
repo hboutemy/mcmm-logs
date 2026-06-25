@@ -1513,6 +1513,7 @@ de.powerstat.validation:validation
 de.softwareforge.testing:maven-loader
 de.softwareforge.testing:pg-embedded
 de.speedbanking:iban-commons
+de.speedbanking:iban-commons-validation
 de.stklcode.jvault:jvault-connector
 de.stklcode.pubtrans:juraclient
 de.svenkubiak:embedded-mongodb
@@ -1719,6 +1720,13 @@ io.github.arun0009:pulse-spring-boot-starter
 io.github.chains-project:maven-lockfile
 io.github.chains-project:maven-lockfile-github-action
 io.github.chains-project:maven-lockfile-parent
+io.github.ggomarighetti:rsql-jpa-search-api
+io.github.ggomarighetti:rsql-jpa-search-core
+io.github.ggomarighetti:rsql-jpa-search-jpa-validation
+io.github.ggomarighetti:rsql-jpa-search-parent
+io.github.ggomarighetti:rsql-jpa-search-perplexhub
+io.github.ggomarighetti:rsql-jpa-search-rsql-spi
+io.github.ggomarighetti:rsql-jpa-search-spring-boot-starter
 io.github.giulong:spectrum
 io.github.luigidemasi:jsch
 io.github.manishdait24-bot:maven-release-poc
@@ -2399,6 +2407,7 @@ network.ike.docs:ike-doc-maven-plugin
 network.ike.docs:ike-doc-resources
 network.ike.docs:ike-docs
 network.ike.docs:koncept-asciidoc-extension
+network.ike.docs:koncept-core
 network.ike.docs:minimal-fonts
 network.ike.docs:semantic-linebreak
 network.ike.platform:ike-bom
