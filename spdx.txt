@@ -1,3 +1,8 @@
+com.exasol:project-keeper-cli
+com.exasol:project-keeper-core
+com.exasol:project-keeper-java-project-crawler
+com.exasol:project-keeper-maven-plugin
+com.exasol:project-keeper-shared-model-classes
 com.github.mwiede:jsch
 com.hack23.cia:cia-dist-deb
 com.hack23.cia:citizen-intelligence-agency

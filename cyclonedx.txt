@@ -571,6 +571,8 @@ com.hack23.cia:cia-dist-cloudformation
 com.hack23.cia:cia-dist-deb
 com.hack23.cia:citizen-intelligence-agency
 com.hack23.sonar:sonar-cloudformation-plugin
+com.indi-an.plccom:plccom-opc-ua-pubsub
+com.indi-an.plccom:plccom-opc-ua-sdk
 com.io7m.abstand:com.io7m.abstand
 com.io7m.abstand:com.io7m.abstand.core
 com.io7m.abstand:com.io7m.abstand.generation
@@ -1581,6 +1583,10 @@ fr.inria.gforge.spoon:spoon-javadoc
 fr.inria.gforge.spoon:spoon-pom
 fr.marcwrobel:jbanking
 gov.nist.secauto.oscal:liboscal-java
+io.arconia.migrations:rewrite-arconia
+io.arconia.migrations:rewrite-docling
+io.arconia.migrations:rewrite-spring
+io.arconia.migrations:rewrite-test
 io.decentralchain:blst
 io.decentralchain:crypto
 io.decentralchain:curve25519
