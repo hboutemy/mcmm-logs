@@ -23307,3 +23307,34 @@ org/alexmond/gotmpl4j-parent/1.0.0/gotmpl4j-parent-1.0.0.pom
 org/finos/legend/engine/legend-engine/4.132.0/legend-engine-4.132.0.pom
 org/spdx/spdx-java-core/1.0.4/spdx-java-core-1.0.4.pom
    from mvn: 4882 - non-mvn: 6240 - buildinfo: 0 - module: 6906 - gradle timestamp: 4354 - atlasdb: 0 = 0 release
+20260626
+ch/qos/logback/logback-parent/1.5.37/logback-parent-1.5.37.pom
+com/github/hazendaz/git/github-desktop/3.6.1/github-desktop-3.6.1.pom
+com/github/tomcat-slf4j-logback/tomcat-slf4j-logback-parent/2.0.0/tomcat-slf4j-logback-parent-2.0.0.pom
+com/github/tomcat-slf4j-logback/tomcat-slf4j-logback-parent/2.0.1/tomcat-slf4j-logback-parent-2.0.1.pom
+com/io7m/primogenitor/com.io7m.primogenitor/10.0.0-beta0002/com.io7m.primogenitor-10.0.0-beta0002.pom
+dev/langchain4j/langchain4j-internal-test-retry/1.17.0-beta27/langchain4j-internal-test-retry-1.17.0-beta27.pom
+dev/langchain4j/langchain4j-parent/1.17.0-beta27/langchain4j-parent-1.17.0-beta27.pom
+dev/langchain4j/langchain4j-spring/1.17.0-beta27/langchain4j-spring-1.17.0-beta27.pom
+eu/maveniverse/maven/scalpel/scalpel/0.3.7/scalpel-0.3.7.pom
+eu/maveniverse/maven/toolbox/toolbox/0.15.15/toolbox-0.15.15.pom
+io/cucumber/cucumber-jvm/7.34.4/cucumber-jvm-7.34.4.pom
+io/cucumber/messages-ndjson/0.3.4/messages-ndjson-0.3.4.pom
+io/streamnative/buildtools/4.2.1.5/buildtools-4.2.1.5.pom
+io/streamnative/pulsar-bom/4.2.1.5/pulsar-bom-4.2.1.5.pom
+io/streamnative/pulsar/4.2.1.5/pulsar-4.2.1.5.pom
+network/ike/docs/ike-docs/81/ike-docs-81.pom
+network/ike/docs/ike-docs/82/ike-docs-82.pom
+network/ike/platform/ike-platform/116/ike-platform-116.pom
+network/ike/platform/ike-platform/117/ike-platform-117.pom
+network/ike/platform/ike-platform/118/ike-platform-118.pom
+network/ike/tooling/ike-tooling/226/ike-tooling-226.pom
+network/ike/tooling/ike-tooling/227/ike-tooling-227.pom
+org/alexmond/gotmpl4j-parent/1.1.0/gotmpl4j-parent-1.1.0.pom
+org/jline/jline-parent/3.30.14/jline-parent-3.30.14.pom
+org/jline/jline-parent/3.30.14/jline-parent-3.30.14-build.pom
+org/jline/jline-parent/4.0.16/jline-parent-4.0.16.pom
+org/wso2/org/apache/commons/commons-vfs2-distribution/2.10.0-wso2v8/commons-vfs2-distribution-2.10.0-wso2v8.pom
+org/wso2/org/apache/commons/commons-vfs2-project/2.10.0-wso2v8/commons-vfs2-project-2.10.0-wso2v8.pom
+org/wso2/org/apache/commons/commons-vfs2/2.10.0-wso2v8/commons-vfs2-2.10.0-wso2v8.pom
+   from mvn: 4663 - non-mvn: 4530 - buildinfo: 11 - module: 4446 - gradle timestamp: 2654 - atlasdb: 0 = 0 release
