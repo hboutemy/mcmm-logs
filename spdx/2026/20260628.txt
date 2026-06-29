@@ -1,0 +1,7 @@
+org/apache/commons/commons-jexl3/3.6.4/commons-jexl3-3.6.4.spdx.json
+org/spdx/java-spdx-library/2.0.4/java-spdx-library-2.0.4.spdx.json
+org/spdx/spdx-jackson-store/2.0.6/spdx-jackson-store-2.0.6.spdx.json
+org/spdx/spdx-rdf-store/2.0.4/spdx-rdf-store-2.0.4.spdx.json
+org/spdx/spdx-spreadsheet-store/2.0.4/spdx-spreadsheet-store-2.0.4.spdx.json
+org/spdx/spdx-tagvalue-store/2.0.4/spdx-tagvalue-store-2.0.4.spdx.json
+org/spdx/spdx-v3jsonld-store/1.0.5/spdx-v3jsonld-store-1.0.5.spdx.json
