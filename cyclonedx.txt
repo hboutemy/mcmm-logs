@@ -1587,6 +1587,7 @@ io.arconia.migrations:rewrite-arconia
 io.arconia.migrations:rewrite-docling
 io.arconia.migrations:rewrite-spring
 io.arconia.migrations:rewrite-test
+io.arconia.migrations:rewrite-testing
 io.decentralchain:blst
 io.decentralchain:crypto
 io.decentralchain:curve25519
@@ -1948,6 +1949,7 @@ io.telicent.smart-caches.graph:scg-benchmark
 io.telicent.smart-caches.graph:scg-server
 io.telicent.smart-caches.graph:scg-system
 io.telicent.smart-caches.storage:common
+io.telicent.smart-caches.storage:distribution-state-hibernate
 io.telicent.smart-caches.storage:hibernate
 io.telicent.smart-caches.storage:label-store-alternates
 io.telicent.smart-caches.storage:label-store-benchmarks
@@ -4780,6 +4782,7 @@ org.docx4j:docx4j-ImportXHTML-samples
 org.docx4j:docx4j-JAXB-MOXy
 org.docx4j:docx4j-JAXB-ReferenceImpl
 org.docx4j:docx4j-conversion-via-microsoft-graph
+org.docx4j:docx4j-copy
 org.docx4j:docx4j-core
 org.docx4j:docx4j-core-tests
 org.docx4j:docx4j-diffx
@@ -4791,11 +4794,13 @@ org.docx4j:docx4j-export-fo-fonts-croscore
 org.docx4j:docx4j-export-fo-fonts-crosextra
 org.docx4j:docx4j-export-fo-fonts-liberation
 org.docx4j:docx4j-export-fo-fonts-symbol
+org.docx4j:docx4j-generated-objects
 org.docx4j:docx4j-legacy-service
 org.docx4j:docx4j-openxml-objects
 org.docx4j:docx4j-openxml-objects-pml
 org.docx4j:docx4j-openxml-objects-sml
 org.docx4j:docx4j-parent
+org.docx4j:docx4j-xjc-copy
 org.eclipse.angus:all
 org.eclipse.angus:angus-activation
 org.eclipse.angus:angus-activation-project

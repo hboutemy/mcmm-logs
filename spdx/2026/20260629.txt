@@ -1,0 +1,2 @@
+org/opendaylight/gnmi/gnmi-sbom-1.0.1.spdx
+org/spdx/tools-java/2.0.7/tools-java-2.0.7.spdx.json
