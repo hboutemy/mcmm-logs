@@ -363,6 +363,7 @@ at.asitplus.warden:supreme-verifier
 at.asitplus.warden:supreme-verifier-jvm
 au.com.acegi:xml-format-maven-plugin
 build.jenesis:build.jenesis
+build.jenesis:build.jenesis.crawler
 codes.domix:fun
 codes.domix:fun-assertj
 codes.domix:fun-http
@@ -373,9 +374,11 @@ codes.domix:fun-micrometer
 codes.domix:fun-observation
 codes.domix:fun-quarkus
 codes.domix:fun-quarkus-deployment
+codes.domix:fun-reactor
 codes.domix:fun-resilience4j
 codes.domix:fun-spring
 codes.domix:fun-spring-boot
+codes.domix:fun-spring-webflux
 codes.domix:fun-tracing
 com.arcmutate:arcmutate-base-parent
 com.arcmutate:arcmutate-licence-lib
