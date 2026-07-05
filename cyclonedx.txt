@@ -362,6 +362,7 @@ at.asitplus.warden:supreme-common-jvm
 at.asitplus.warden:supreme-verifier
 at.asitplus.warden:supreme-verifier-jvm
 au.com.acegi:xml-format-maven-plugin
+build.jenesis:build.jenesis
 codes.domix:fun
 codes.domix:fun-assertj
 codes.domix:fun-http
@@ -571,6 +572,7 @@ com.hack23.cia:cia-dist-cloudformation
 com.hack23.cia:cia-dist-deb
 com.hack23.cia:citizen-intelligence-agency
 com.hack23.sonar:sonar-cloudformation-plugin
+com.indi-an.plccom:plccom-for-s7
 com.indi-an.plccom:plccom-opc-ua-pubsub
 com.indi-an.plccom:plccom-opc-ua-sdk
 com.io7m.abstand:com.io7m.abstand
@@ -1586,6 +1588,7 @@ gov.nist.secauto.oscal:liboscal-java
 io.arconia.migrations:rewrite-arconia
 io.arconia.migrations:rewrite-docling
 io.arconia.migrations:rewrite-spring
+io.arconia.migrations:rewrite-spring-core
 io.arconia.migrations:rewrite-test
 io.arconia.migrations:rewrite-testing
 io.decentralchain:blst

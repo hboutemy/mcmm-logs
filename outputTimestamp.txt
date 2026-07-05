@@ -23389,3 +23389,36 @@ org/mybatis/scripting/mybatis-freemarker/1.3.2/mybatis-freemarker-1.3.2.pom
 org/spdx/java-spdx-library/2.0.4/java-spdx-library-2.0.4.pom
 org/spdx/spdx-maven-plugin/1.0.4/spdx-maven-plugin-1.0.4.pom
    from mvn: 1085 - non-mvn: 2443 - buildinfo: 0 - module: 2508 - gradle timestamp: 1860 - atlasdb: 0 = 0 release
+20260629
+io/airlift/airbase-policy/392/airbase-policy-392.pom
+io/airlift/airbase/392/airbase-392.pom
+io/fabric8/kubernetes-client-project/7.8.0/kubernetes-client-project-7.8.0.pom
+io/github/database-audits/database-audits-parent/1.2.0/database-audits-parent-1.2.0.pom
+io/github/database-audits/database-audits-parent/1.2.1/database-audits-parent-1.2.1.pom
+io/github/mavencrafted/scheduled-audit-autoconfigure/2.3.2/scheduled-audit-autoconfigure-2.3.2.pom
+io/roastedroot/chicory-redline-parent/0.0.5/chicory-redline-parent-0.0.5.pom
+io/roastedroot/quickjs4j-parent/0.1.0/quickjs4j-parent-0.1.0.pom
+io/wcm/io.wcm.wcm.core.components.parent/2.1.0-2.25.4/io.wcm.wcm.core.components.parent-2.1.0-2.25.4.pom
+io/wcm/io.wcm.wcm.ui.granite/1.12.0/io.wcm.wcm.ui.granite-1.12.0.pom
+net/ladenthin/llama/5.0.3/llama-5.0.3.pom
+net/ladenthin/llamacpp-ai-index-maven-plugin/1.0.1/llamacpp-ai-index-maven-plugin-1.0.1.pom
+net/sourceforge/pmd/pmd/7.26.0/pmd-7.26.0.pom
+network/ike/docs/ike-docs/84/ike-docs-84.pom
+network/ike/docs/ike-docs/85/ike-docs-85.pom
+network/ike/platform/ike-platform/125/ike-platform-125.pom
+network/ike/platform/ike-platform/126/ike-platform-126.pom
+network/ike/tooling/ike-tooling/229/ike-tooling-229.pom
+network/ike/tooling/ike-tooling/230/ike-tooling-230.pom
+org/alexmond/gotmpl4j-parent/1.1.2/gotmpl4j-parent-1.1.2.pom
+org/alexmond/gotmpl4j-parent/1.1.3/gotmpl4j-parent-1.1.3.pom
+org/alexmond/gotmpl4j-parent/1.1.4/gotmpl4j-parent-1.1.4.pom
+org/alexmond/gotmpl4j-parent/1.1.5/gotmpl4j-parent-1.1.5.pom
+org/alexmond/gotmpl4j-parent/1.2.0/gotmpl4j-parent-1.2.0.pom
+org/apache/activemq/activemq-parent/5.19.8/activemq-parent-5.19.8.pom
+org/apache/artemis/artemis-project/2.55.0/artemis-project-2.55.0.pom
+org/apache/struts/struts2-project/7.2.1/struts2-project-7.2.1.pom
+org/finos/legend/engine/legend-engine/4.132.2/legend-engine-4.132.2.pom
+org/plukh/spyglass/spyglass-parent/1.2.0/spyglass-parent-1.2.0.pom
+org/scip-code/scip-java-bindings/0.9.0/scip-java-bindings-0.9.0.pom
+org/scip-code/scip-kotlin-bindings/0.9.0/scip-kotlin-bindings-0.9.0.pom
+   from mvn: 5052 - non-mvn: 5625 - buildinfo: 0 - module: 5982 - gradle timestamp: 3976 - atlasdb: 0 = 0 release
