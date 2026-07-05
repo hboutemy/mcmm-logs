@@ -1750,6 +1750,12 @@ io.github.manishdait:app4
 io.github.manishdait:app5
 io.github.manishdait:app6
 io.github.manishdait:maven-release-poc
+io.github.marceldankert.sentinel:sentinel-ai-core-bom
+io.github.marceldankert.sentinel:sentinel-ai-core-core
+io.github.marceldankert.sentinel:sentinel-ai-core-parent
+io.github.marceldankert.sentinel:sentinel-ai-core-provider-openai
+io.github.marceldankert.sentinel:sentinel-ai-core-spring-boot-starter
+io.github.marceldankert.sentinel:sentinel-ai-core-test-support
 io.github.openwebview:openwebview
 io.github.ptsdirect:pts
 io.github.r4fterman:abbot
