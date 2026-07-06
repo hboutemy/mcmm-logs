@@ -1,0 +1,7 @@
+fr/inria/gforge/spoon/spoon-pom/11.4.1-beta-2/spoon-pom-11.4.1-beta-2-cyclonedx.json
+fr/inria/gforge/spoon/spoon-pom/11.4.1-beta-2/spoon-pom-11.4.1-beta-2-cyclonedx.xml
+io/github/chains-project/maven-lockfile-parent/5.17.1-beta-4/maven-lockfile-parent-5.17.1-beta-4-cyclonedx.xml
+io/github/chains-project/maven-lockfile-parent/5.17.1-beta-4/maven-lockfile-parent-5.17.1-beta-4-cyclonedx.json
+io/github/chains-project/maven-lockfile/5.17.1-beta-4/maven-lockfile-5.17.1-beta-4-cyclonedx.json
+io/github/chains-project/maven-lockfile/5.17.1-beta-4/maven-lockfile-5.17.1-beta-4-cyclonedx.xml
+io/github/shafthq/shaft-parent/10.3.20260705/shaft-parent-10.3.20260705-cyclonedx.json
