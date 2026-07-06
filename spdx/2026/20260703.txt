@@ -1,0 +1,5 @@
+com/exasol/project-keeper-cli/5.7.2/project-keeper-cli-5.7.2-sbom.spdx
+com/exasol/project-keeper-core/5.7.2/project-keeper-core-5.7.2-sbom.spdx
+com/exasol/project-keeper-java-project-crawler/5.7.2/project-keeper-java-project-crawler-5.7.2-sbom.spdx
+com/exasol/project-keeper-maven-plugin/5.7.2/project-keeper-maven-plugin-5.7.2-sbom.spdx
+com/exasol/project-keeper-shared-model-classes/5.7.2/project-keeper-shared-model-classes-5.7.2-sbom.spdx
