@@ -23543,3 +23543,12 @@ network/ike/platform/ike-platform/132/ike-platform-132.pom
 network/ike/tooling/ike-tooling/234/ike-tooling-234.pom
 org/apache/camel/camel/4.14.8/camel-4.14.8.pom
    from mvn: 2480 - non-mvn: 2088 - buildinfo: 0 - module: 1871 - gradle timestamp: 1517 - atlasdb: 0 = 0 release
+20260705
+dev/zems/root/0.0.10/root-0.0.10.pom
+dev/zems/root/0.0.11/root-0.0.11.pom
+fr/inria/gforge/spoon/spoon-pom/11.4.1-beta-2/spoon-pom-11.4.1-beta-2.pom
+io/cucumber/messages/34.0.0/messages-34.0.0.pom
+io/cucumber/messages/34.0.1/messages-34.0.1.pom
+io/github/chains-project/maven-lockfile-parent/5.17.1-beta-4/maven-lockfile-parent-5.17.1-beta-4.pom
+tech/picnic/error-prone-support/error-prone-support/0.30.0/error-prone-support-0.30.0.pom
+   from mvn: 748 - non-mvn: 3318 - buildinfo: 0 - module: 4379 - gradle timestamp: 3024 - atlasdb: 0 = 0 release

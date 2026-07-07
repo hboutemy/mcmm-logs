@@ -1,0 +1,2 @@
+com/exasol/artifact-reference-checker-maven-plugin/1.0.0/artifact-reference-checker-maven-plugin-1.0.0-sbom.spdx
+com/exasol/artifact-reference-checker-maven-plugin/1.0.1/artifact-reference-checker-maven-plugin-1.0.1-sbom.spdx
