@@ -2922,3 +2922,5 @@ com/google/adk/samples/google-adk-sample-adk-triaging-agent/1.6.0/google-adk-sam
 com/google/adk/samples/google-adk-sample-github-tools/1.6.0/google-adk-sample-github-tools-1.6.0-build.pom
 com/google/adk/samples/google-adk-sample-helloworld/1.6.0/google-adk-sample-helloworld-1.6.0-build.pom
 com/google/adk/samples/google-adk-sample-mcpfilesystem/1.6.0/google-adk-sample-mcpfilesystem-1.6.0-build.pom
+20260708
+com/flowlogix/flowlogix-bom/37/flowlogix-bom-37-build.pom

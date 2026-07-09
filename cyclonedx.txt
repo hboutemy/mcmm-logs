@@ -1979,6 +1979,10 @@ io.telicent.smart-caches:cli-core
 io.telicent.smart-caches:cli-debug
 io.telicent.smart-caches:cli-probe-server
 io.telicent.smart-caches:configurator
+io.telicent.smart-caches:data-security-core
+io.telicent.smart-caches:data-security-parent
+io.telicent.smart-caches:data-security-plugin-rdf-abac
+io.telicent.smart-caches:data-security-plugin-rdf-abac-registration
 io.telicent.smart-caches:distribution-lifecycle
 io.telicent.smart-caches:event-source-file
 io.telicent.smart-caches:event-source-kafka
