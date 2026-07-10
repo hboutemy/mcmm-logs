@@ -576,6 +576,9 @@ com.hack23.cia:cia-dist-deb
 com.hack23.cia:citizen-intelligence-agency
 com.hack23.sonar:sonar-cloudformation-plugin
 com.indi-an.plccom:plccom-for-s7
+com.indi-an.plccom:plccom-mqtt-broker
+com.indi-an.plccom:plccom-mqtt-client
+com.indi-an.plccom:plccom-mqtt-core
 com.indi-an.plccom:plccom-opc-ua-pubsub
 com.indi-an.plccom:plccom-opc-ua-sdk
 com.io7m.abstand:com.io7m.abstand
@@ -1800,6 +1803,7 @@ io.github.sndnv:layers_2.13
 io.github.sndnv:layers_3
 io.github.sola-ris:jax-rs-client-test
 io.github.spannm:jackcess
+io.github.spannm:jackcess-encrypt
 io.github.spannm:ucanaccess
 io.github.sparsick.testcontainers.gitserver:rewrite-testcontainers-gitserver
 io.github.sparsick.testcontainers.gitserver:testcontainers-git-bom
