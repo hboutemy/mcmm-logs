@@ -1,0 +1,9 @@
+com/github/hazendaz/git/git-for-windows/2.55.0.2/git-for-windows-2.55.0.2-cyclonedx.json
+com/github/hazendaz/git/git-for-windows/2.55.0.2/git-for-windows-2.55.0.2-cyclonedx.xml
+com/github/hazendaz/tomcat/tomcat10-config/10.1.57/tomcat10-config-10.1.57-cyclonedx.json
+com/github/hazendaz/tomcat/tomcat10-config/10.1.57/tomcat10-config-10.1.57-cyclonedx.xml
+com/github/hazendaz/tomcat/tomcat11-config/11.0.24/tomcat11-config-11.0.24-cyclonedx.json
+com/github/hazendaz/tomcat/tomcat11-config/11.0.24/tomcat11-config-11.0.24-cyclonedx.xml
+com/github/hazendaz/tomcat/tomcat9-config/9.0.120/tomcat9-config-9.0.120-cyclonedx.xml
+com/github/hazendaz/tomcat/tomcat9-config/9.0.120/tomcat9-config-9.0.120-cyclonedx.json
+io/github/shafthq/shaft-parent/10.3.20260711/shaft-parent-10.3.20260711-cyclonedx.json
