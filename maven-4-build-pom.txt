@@ -2927,3 +2927,17 @@ com/flowlogix/flowlogix-bom/37/flowlogix-bom-37-build.pom
 20260709
 20260710
 20260711
+20260712
+com/flowlogix/archetypes/starter/140/starter-140-build.pom
+com/flowlogix/base-pom/131/base-pom-131-build.pom
+com/flowlogix/checkstyle/131/checkstyle-131-build.pom
+com/flowlogix/depchain/depchain/128/depchain-128-build.pom
+com/flowlogix/depchain/integration-test-ng/128/integration-test-ng-128-build.pom
+com/flowlogix/depchain/integration-test/128/integration-test-128-build.pom
+com/flowlogix/depchain/shiro-jakarta/128/shiro-jakarta-128-build.pom
+com/flowlogix/depchain/unit-test/128/unit-test-128-build.pom
+com/flowlogix/flowlogix-bom/38/flowlogix-bom-38-build.pom
+com/flowlogix/glassfish-pom/131/glassfish-pom-131-build.pom
+com/flowlogix/infra-pom/131/infra-pom-131-build.pom
+com/flowlogix/payara-pom/131/payara-pom-131-build.pom
+com/flowlogix/server-common/131/server-common-131-build.pom

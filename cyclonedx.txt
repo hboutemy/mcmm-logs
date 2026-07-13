@@ -1845,6 +1845,7 @@ io.jexxa.adapters:parent
 io.jexxa.common:common-adapters
 io.jexxa.jlegmed:jlegmed
 io.jexxa.jlegmed:jlegmed-core
+io.jexxa.jlegmed:jlegmed-metrics
 io.jexxa.jlegmed:jlegmed-test
 io.jexxa:adapter-api
 io.jexxa:jexxa-adapters
