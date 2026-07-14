@@ -1,4 +1,5 @@
 com.exasol:artifact-reference-checker-maven-plugin
+com.exasol:exasol-test-setup-abstraction-java
 com.exasol:project-keeper-cli
 com.exasol:project-keeper-core
 com.exasol:project-keeper-java-project-crawler

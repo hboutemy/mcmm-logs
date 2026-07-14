@@ -385,6 +385,10 @@ build.jenesis:build.jenesis.repository.store.s3
 build.jenesis:build.jenesis.repository.store.testkit
 build.jenesis:build.jenesis.repository.ui
 build.jenesis:build.jenesis.repository.usage
+co.pango:sdk-core
+co.pango:sdk-hydra
+co.pango:sdk-openvpn
+co.pango:sdk-wireguard
 codes.domix:fun
 codes.domix:fun-assertj
 codes.domix:fun-http
