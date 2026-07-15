@@ -2302,6 +2302,7 @@ jakarta.platform:jakarta.jakartaee-core-api
 jakarta.platform:jakarta.jakartaee-web-api
 jakarta.platform:jakartaee-api-parent
 jakarta.security.enterprise:jakarta.security.enterprise-api
+jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api
 jakarta.servlet.jsp:jakarta.servlet.jsp-api
 jakarta.servlet.tck:servlet-tck
 jakarta.servlet.tck:servlet-tck-dist
@@ -8150,7 +8151,9 @@ run.ratchet:ratchet-parent
 run.ratchet:ratchet-store-core
 run.ratchet:ratchet-store-mongodb
 run.ratchet:ratchet-store-mysql
+run.ratchet:ratchet-store-oracle
 run.ratchet:ratchet-store-postgresql
+run.ratchet:ratchet-store-sqlserver
 run.ratchet:ratchet-tck
 run.ratchet:ratchet-tck-api
 run.ratchet:ratchet-tck-coordinator
