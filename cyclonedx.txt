@@ -1308,6 +1308,14 @@ com.open-elements:recordstore-parent
 com.open-elements:recordstore-runtime
 com.open-elements:recordstore-server
 com.open-elements:spring-services
+com.open-elements:spring-services-all
+com.open-elements:spring-services-bom
+com.open-elements:spring-services-core
+com.open-elements:spring-services-dbbackup
+com.open-elements:spring-services-email
+com.open-elements:spring-services-mcp
+com.open-elements:spring-services-search
+com.open-elements:spring-services-slack
 com.oracle.database.graph:opg-client
 com.oracle.database.graph:opg-graph-importer
 com.oracle.database.graph:opg-pgql-jdbc
@@ -3424,6 +3432,7 @@ org.apache.hbase:hbase-annotations
 org.apache.hbase:hbase-archetype-builder
 org.apache.hbase:hbase-archetypes
 org.apache.hbase:hbase-assembly
+org.apache.hbase:hbase-assembly-byo-hadoop
 org.apache.hbase:hbase-asyncfs
 org.apache.hbase:hbase-backup
 org.apache.hbase:hbase-balancer
@@ -3439,6 +3448,8 @@ org.apache.hbase:hbase-compression-lz4
 org.apache.hbase:hbase-compression-snappy
 org.apache.hbase:hbase-compression-xz
 org.apache.hbase:hbase-compression-zstd
+org.apache.hbase:hbase-dev-generate-classpath
+org.apache.hbase:hbase-diagnostics
 org.apache.hbase:hbase-endpoint
 org.apache.hbase:hbase-examples
 org.apache.hbase:hbase-extensions
@@ -4300,6 +4311,7 @@ org.apache.orc:orc-shims
 org.apache.orc:orc-tools
 org.apache.ozone:hdds
 org.apache.ozone:hdds-annotation-processing
+org.apache.ozone:hdds-cli-common
 org.apache.ozone:hdds-client
 org.apache.ozone:hdds-common
 org.apache.ozone:hdds-config
@@ -4322,6 +4334,9 @@ org.apache.ozone:hdds-tools
 org.apache.ozone:mini-chaos-tests
 org.apache.ozone:ozone
 org.apache.ozone:ozone-cli-admin
+org.apache.ozone:ozone-cli-debug
+org.apache.ozone:ozone-cli-interactive
+org.apache.ozone:ozone-cli-repair
 org.apache.ozone:ozone-cli-shell
 org.apache.ozone:ozone-client
 org.apache.ozone:ozone-common
@@ -4354,6 +4369,7 @@ org.apache.ozone:ozone-reconcodegen
 org.apache.ozone:ozone-s3-secret-store
 org.apache.ozone:ozone-s3gateway
 org.apache.ozone:ozone-tools
+org.apache.ozone:ozone-vapor
 org.apache.ozone:rocksdb-checkpoint-differ
 org.apache.parquet:parquet
 org.apache.parquet:parquet-arrow

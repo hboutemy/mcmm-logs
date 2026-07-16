@@ -23834,3 +23834,36 @@ io/kroxylicious/kroxylicious-parent/0.20.1/kroxylicious-parent-0.20.1.pom
 org/apache/maven/maven/3.10.0-rc-1/maven-3.10.0-rc-1.pom
 org/apache/openmeetings/openmeetings-parent/9.1.0/openmeetings-parent-9.1.0.pom
    from mvn: 8887 - non-mvn: 7976 - buildinfo: 2 - module: 5496 - gradle timestamp: 3740 - atlasdb: 0 = 0 release
+20260714
+com/helger/parent-pom/3.1.0/parent-pom-3.1.0.pom
+fr/inria/gforge/spoon/spoon-pom/11.5.0/spoon-pom-11.5.0.pom
+io/github/slaouiss/spring-ai-hybrid-retriever/1.0.0/spring-ai-hybrid-retriever-1.0.0.pom
+io/roastedroot/protobuf4j-parent/0.1.1/protobuf4j-parent-0.1.1.pom
+io/telicent/smart-caches/graph/scg-base/1.0.10/scg-base-1.0.10.pom
+it/mulders/stryker/pit-dashboard-reporter/0.3.18/pit-dashboard-reporter-0.3.18.pom
+org/apache/jackrabbit/oak-parent/2.4.0/oak-parent-2.4.0.pom
+run/ratchet/ratchet-api/0.2.0/ratchet-api-0.2.0.pom
+run/ratchet/ratchet-bom/0.2.0/ratchet-bom-0.2.0.pom
+run/ratchet/ratchet-coordinator-common/0.2.0/ratchet-coordinator-common-0.2.0.pom
+run/ratchet/ratchet-coordinator-hazelcast/0.2.0/ratchet-coordinator-hazelcast-0.2.0.pom
+run/ratchet/ratchet-coordinator-infinispan/0.2.0/ratchet-coordinator-infinispan-0.2.0.pom
+run/ratchet/ratchet-coordinator-jms/0.2.0/ratchet-coordinator-jms-0.2.0.pom
+run/ratchet/ratchet-coordinator-postgresql/0.2.0/ratchet-coordinator-postgresql-0.2.0.pom
+run/ratchet/ratchet-encryption/0.2.0/ratchet-encryption-0.2.0.pom
+run/ratchet/ratchet-micrometer/0.2.0/ratchet-micrometer-0.2.0.pom
+run/ratchet/ratchet-otel/0.2.0/ratchet-otel-0.2.0.pom
+run/ratchet/ratchet-parent/0.2.0/ratchet-parent-0.2.0.pom
+run/ratchet/ratchet-store-core/0.2.0/ratchet-store-core-0.2.0.pom
+run/ratchet/ratchet-store-mongodb/0.2.0/ratchet-store-mongodb-0.2.0.pom
+run/ratchet/ratchet-store-mysql/0.2.0/ratchet-store-mysql-0.2.0.pom
+run/ratchet/ratchet-store-oracle/0.2.0/ratchet-store-oracle-0.2.0.pom
+run/ratchet/ratchet-store-postgresql/0.2.0/ratchet-store-postgresql-0.2.0.pom
+run/ratchet/ratchet-store-sqlserver/0.2.0/ratchet-store-sqlserver-0.2.0.pom
+run/ratchet/ratchet-tck-api/0.2.0/ratchet-tck-api-0.2.0.pom
+run/ratchet/ratchet-tck-coordinator/0.2.0/ratchet-tck-coordinator-0.2.0.pom
+run/ratchet/ratchet-tck-jakarta/0.2.0/ratchet-tck-jakarta-0.2.0.pom
+run/ratchet/ratchet-tck-store/0.2.0/ratchet-tck-store-0.2.0.pom
+run/ratchet/ratchet-tck-util/0.2.0/ratchet-tck-util-0.2.0.pom
+run/ratchet/ratchet-tck/0.2.0/ratchet-tck-0.2.0.pom
+run/ratchet/ratchet/0.2.0/ratchet-0.2.0.pom
+   from mvn: 4327 - non-mvn: 8207 - buildinfo: 0 - module: 6761 - gradle timestamp: 5211 - atlasdb: 0 = 0 release
