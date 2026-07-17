@@ -23867,3 +23867,19 @@ run/ratchet/ratchet-tck-util/0.2.0/ratchet-tck-util-0.2.0.pom
 run/ratchet/ratchet-tck/0.2.0/ratchet-tck-0.2.0.pom
 run/ratchet/ratchet/0.2.0/ratchet-0.2.0.pom
    from mvn: 4327 - non-mvn: 8207 - buildinfo: 0 - module: 6761 - gradle timestamp: 5211 - atlasdb: 0 = 0 release
+20260715
+de/redsix/dmn-check/1.4.0/dmn-check-1.4.0.pom
+eu/europa/ted/eforms/eforms-sdk/1.15.0/eforms-sdk-1.15.0.pom
+id/devcode/spring-extension-parent/1.0.16/spring-extension-parent-1.0.16.pom
+io/cucumber/messages/34.1.0/messages-34.1.0.pom
+io/github/kbuntrock/openapi-maven-plugin/0.0.34/openapi-maven-plugin-0.0.34.pom
+io/quarkus/quarkus-parent/3.37.3/quarkus-parent-3.37.3.pom
+io/quarkus/quarkus-parent/3.38.0.CR1/quarkus-parent-3.38.0.CR1.pom
+net/ladenthin/srcmorph-cli/1.1.1/srcmorph-cli-1.1.1.pom
+net/ladenthin/srcmorph-maven-plugin/1.1.1/srcmorph-maven-plugin-1.1.1.pom
+net/ladenthin/srcmorph/1.1.1/srcmorph-1.1.1.pom
+org/apache/ozone/ozone-main/2.2.0/ozone-main-2.2.0.pom
+org/finos/legend/engine/legend-engine/4.134.0/legend-engine-4.134.0.pom
+org/plukh/spyglass/spyglass-parent/1.4.0/spyglass-parent-1.4.0.pom
+org/webjars/webjars-locator-lite/1.1.4/webjars-locator-lite-1.1.4.pom
+   from mvn: 7180 - non-mvn: 7948 - buildinfo: 1 - module: 7400 - gradle timestamp: 4731 - atlasdb: 0 = 0 release
