@@ -23883,3 +23883,21 @@ org/finos/legend/engine/legend-engine/4.134.0/legend-engine-4.134.0.pom
 org/plukh/spyglass/spyglass-parent/1.4.0/spyglass-parent-1.4.0.pom
 org/webjars/webjars-locator-lite/1.1.4/webjars-locator-lite-1.1.4.pom
    from mvn: 7180 - non-mvn: 7948 - buildinfo: 1 - module: 7400 - gradle timestamp: 4731 - atlasdb: 0 = 0 release
+20260716
+com/cognite/units/units-catalog/0.1.27/units-catalog-0.1.27.pom
+eu/europa/ted/eforms/eforms-sdk-analyzer/1.15.0/eforms-sdk-analyzer-1.15.0.pom
+fun/fengwk/convention4j/convention4j-agent/1.2.2/convention4j-agent-1.2.2.pom
+io/avaje/avaje-metrics-parent/10.0/avaje-metrics-parent-10.0.pom
+io/kroxylicious/kroxylicious-bom/0.23.0/kroxylicious-bom-0.23.0.pom
+io/kroxylicious/kroxylicious-parent/0.23.0/kroxylicious-parent-0.23.0.pom
+net/jsign/jsign-parent/7.5/jsign-parent-7.5.pom
+net/jsign/jsign/7.5/jsign-7.5.pom
+org/apache/orc/orc/2.3.1/orc-2.3.1.pom
+org/cyclonedx/cyclonedx-core-java/13.0.0/cyclonedx-core-java-13.0.0.pom
+org/mybatis/spring/boot/mybatis-spring-boot/4.1.0/mybatis-spring-boot-4.1.0.pom
+top/yolaila/pay/yopay-openapi-java/0.1.0/yopay-openapi-java-0.1.0.pom
+xyz/elemental/elemental-parent/6.11.0/elemental-parent-6.11.0.pom
+xyz/elemental/elemental-parent/7.7.0/elemental-parent-7.7.0.pom
+xyz/elemental/fork/org/exist-db/exist-parent/6.11.0/exist-parent-6.11.0.pom
+xyz/elemental/fork/org/exist-db/exist-parent/7.7.0/exist-parent-7.7.0.pom
+   from mvn: 4326 - non-mvn: 8039 - buildinfo: 0 - module: 6084 - gradle timestamp: 3880 - atlasdb: 0 = 0 release

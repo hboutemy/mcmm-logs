@@ -450,6 +450,10 @@ com.buschmais.jqassistant.plugin:xml
 com.buschmais.jqassistant.plugin:yaml2
 com.duosecurity:duo-client
 com.duosecurity:duo-universal-sdk
+com.engine:protoc-gen-markdown
+com.engine:protoc-gen-markdown-jekyll
+com.engine:protoc-gen-openapi
+com.engine:protoc-gen-openapi-model
 com.engine:protoc-utils
 com.engine:protoc-utils-recorder
 com.erudika:para-client
@@ -8125,6 +8129,7 @@ org.primefaces:primefaces
 org.seleniumhq.selenium:htmlunit3-driver
 org.sonarsource.dummy:sonar-dummy-gradle-oss-plugin
 org.sonarsource.dummy:sonar-dummy-oss-plugin
+org.sonarsource.javascript:sonar-javascript-plugin
 org.sonarsource.scanner.cli:sonar-scanner-cli
 org.sonarsource.scanner.maven:sonar-maven-plugin
 org.sonarsource.sonarqube:sonar-application

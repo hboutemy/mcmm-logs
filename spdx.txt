@@ -214,6 +214,7 @@ org.frankframework:frankframework-console-backend
 org.frankframework:frankframework-console-frontend
 org.frankframework:frankframework-console-webapp
 org.frankframework:frankframework-core
+org.frankframework:frankframework-cypress
 org.frankframework:frankframework-dbms
 org.frankframework:frankframework-example
 org.frankframework:frankframework-filesystem
