@@ -23901,3 +23901,25 @@ xyz/elemental/elemental-parent/7.7.0/elemental-parent-7.7.0.pom
 xyz/elemental/fork/org/exist-db/exist-parent/6.11.0/exist-parent-6.11.0.pom
 xyz/elemental/fork/org/exist-db/exist-parent/7.7.0/exist-parent-7.7.0.pom
    from mvn: 4326 - non-mvn: 8039 - buildinfo: 0 - module: 6084 - gradle timestamp: 3880 - atlasdb: 0 = 0 release
+20260717
+com/github/hazendaz/git/github-desktop/3.6.3/github-desktop-3.6.3.pom
+de/cuioss/nifi/nifi-extensions/0.6.0/nifi-extensions-0.6.0.pom
+dev/langchain4j/langchain4j-internal-test-retry/1.18.0-beta28/langchain4j-internal-test-retry-1.18.0-beta28.pom
+dev/langchain4j/langchain4j-parent/1.18.0-beta28/langchain4j-parent-1.18.0-beta28.pom
+dev/langchain4j/langchain4j-spring/1.18.0-beta28/langchain4j-spring-1.18.0-beta28.pom
+eu/europa/ted/eforms/eforms-core-java/1.7.0/eforms-core-java-1.7.0.pom
+eu/europa/ted/eforms/eforms-sdk-analyzer/1.15.1/eforms-sdk-analyzer-1.15.1.pom
+eu/europa/ted/eforms/efx-toolkit-java/2.0.0-alpha.7/efx-toolkit-java-2.0.0-alpha.7.pom
+io/github/vitorcamillo/javadriveless/1.11.9/javadriveless-1.11.9.pom
+io/yupiik/maven/yupiik-tools-maven-plugin-parent/1.2.15/yupiik-tools-maven-plugin-parent-1.2.15.pom
+it/mulders/mcs/0.10.2/mcs-0.10.2.pom
+it/mulders/puml/puml-parent/0.5.1/puml-parent-0.5.1.pom
+it/mulders/puml/puml-parent/0.5.2/puml-parent-0.5.2.pom
+net/optionfactory/spring/optionfactory-spring/25.6/optionfactory-spring-25.6.pom
+net/optionfactory/spring/optionfactory-spring/25.7/optionfactory-spring-25.7.pom
+org/apache/accumulo/accumulo-project/2.1.6/accumulo-project-2.1.6.pom
+org/apache/ratis/ratis-thirdparty/1.1.0/ratis-thirdparty-1.1.0.pom
+org/apache/sling/org.apache.sling.feature.analyser/2.0.18/org.apache.sling.feature.analyser-2.0.18.pom
+org/finos/legend/engine/legend-engine/4.135.0/legend-engine-4.135.0.pom
+world/convex/convex/0.8.9/convex-0.8.9.pom
+   from mvn: 6115 - non-mvn: 8122 - buildinfo: 1 - module: 6887 - gradle timestamp: 5761 - atlasdb: 0 = 0 release
