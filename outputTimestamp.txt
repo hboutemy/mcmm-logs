@@ -23923,3 +23923,11 @@ org/apache/sling/org.apache.sling.feature.analyser/2.0.18/org.apache.sling.featu
 org/finos/legend/engine/legend-engine/4.135.0/legend-engine-4.135.0.pom
 world/convex/convex/0.8.9/convex-0.8.9.pom
    from mvn: 6115 - non-mvn: 8122 - buildinfo: 1 - module: 6887 - gradle timestamp: 5761 - atlasdb: 0 = 0 release
+20260718
+com/github/hazendaz/jmockit/jmockit-parent/2.3.0/jmockit-parent-2.3.0.pom
+de/cuioss/cui-java-parent/1.5.2/cui-java-parent-1.5.2.pom
+de/cuioss/cui-parent-pom/1.5.2/cui-parent-pom-1.5.2.pom
+io/gitlab/disco48/uk-proj/0.1.0/uk-proj-0.1.0.pom
+io/trino/trino-root/483/trino-root-483.pom
+org/javerland/jdbc-sheets/26.3.1/jdbc-sheets-26.3.1.pom
+   from mvn: 1607 - non-mvn: 4849 - buildinfo: 0 - module: 4795 - gradle timestamp: 4147 - atlasdb: 0 = 0 release

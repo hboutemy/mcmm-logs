@@ -2583,6 +2583,7 @@ one.microstream:microstream-storage-restclient-jersey
 one.microstream:microstream-storage-restservice
 one.microstream:microstream-storage-restservice-sparkjava
 org.aarboard.nextcloud:nextcloud-api
+org.agentforge4j:agentforge4j
 org.apache.ant:ant-antunit
 org.apache.ant:ant-cyclonedx
 org.apache.apache.resources:apache-incubator-disclaimer-resource-bundle
