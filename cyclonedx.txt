@@ -452,6 +452,7 @@ com.duosecurity:duo-client
 com.duosecurity:duo-universal-sdk
 com.engine:protoc-gen-markdown
 com.engine:protoc-gen-markdown-jekyll
+com.engine:protoc-gen-mermaid
 com.engine:protoc-gen-openapi
 com.engine:protoc-gen-openapi-model
 com.engine:protoc-utils
@@ -1580,6 +1581,7 @@ dev.iabudiab:dependency-track-maven-plugin
 dev.jcputney:magika-java
 dev.jcputney:magika-java-parent
 dev.jcputney:magika-java-tika
+dev.ketoy.vm:ketoy-sdk
 dev.nthings:adf4j
 dev.openfeature.contrib.hooks:otel
 dev.openfeature.contrib.providers:configcat
@@ -1782,6 +1784,19 @@ io.github.arun0009:pulse-spring-boot-starter
 io.github.chains-project:maven-lockfile
 io.github.chains-project:maven-lockfile-github-action
 io.github.chains-project:maven-lockfile-parent
+io.github.dgp-eu:tools
+io.github.dgp-eu:tools-archiving
+io.github.dgp-eu:tools-cli
+io.github.dgp-eu:tools-core
+io.github.dgp-eu:tools-database-demo
+io.github.dgp-eu:tools-databases
+io.github.dgp-eu:tools-environment
+io.github.dgp-eu:tools-incubator
+io.github.dgp-eu:tools-json
+io.github.dgp-eu:tools-json_split
+io.github.dgp-eu:tools-undertow
+io.github.dgp-eu:tools-utils
+io.github.dgp-eu:tools-web
 io.github.ggomarighetti:rsql-jpa-search-api
 io.github.ggomarighetti:rsql-jpa-search-core
 io.github.ggomarighetti:rsql-jpa-search-jpa-validation
@@ -2492,6 +2507,7 @@ network.ike.platform:ike-platform
 network.ike.platform:ike-workspace-maven-plugin
 network.ike.tooling:ike-build-standards
 network.ike.tooling:ike-java-support
+network.ike.tooling:ike-knowledge-spi
 network.ike.tooling:ike-maven-plugin
 network.ike.tooling:ike-maven-plugin-support
 network.ike.tooling:ike-tooling
