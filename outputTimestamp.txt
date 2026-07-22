@@ -23968,3 +23968,27 @@ org/mybatis/scala/mybatis-scala-parent_3/2.0.0/mybatis-scala-parent_3-2.0.0.pom
 org/mybatis/scripting/mybatis-thymeleaf/1.2.0/mybatis-thymeleaf-1.2.0.pom
 org/mybatis/scripting/mybatis-velocity/2.3.2/mybatis-velocity-2.3.2.pom
    from mvn: 1306 - non-mvn: 5533 - buildinfo: 0 - module: 7584 - gradle timestamp: 5245 - atlasdb: 0 = 0 release
+20260720
+eu/europa/ted/eforms/eforms-sdk/1.15.1/eforms-sdk-1.15.1.pom
+io/atlasarc/atlasarc-ci-parent/1.0.0/atlasarc-ci-parent-1.0.0.pom
+io/github/nikitatsym/report/0.2.0/report-0.2.0.pom
+io/gitlab/disco48/uk-proj/0.2.0/uk-proj-0.2.0.pom
+io/kokuwa/maven/k3s-maven-plugin/2.2.0/k3s-maven-plugin-2.2.0.pom
+net/optionfactory/spring/optionfactory-spring/26.0/optionfactory-spring-26.0.pom
+net/optionfactory/spring/optionfactory-spring/26.1/optionfactory-spring-26.1.pom
+net/optionfactory/spring/optionfactory-spring/26.2/optionfactory-spring-26.2.pom
+net/optionfactory/spring/optionfactory-spring/26.3/optionfactory-spring-26.3.pom
+net/optionfactory/spring/optionfactory-spring/27.0/optionfactory-spring-27.0.pom
+network/ike/docs/ike-docs/90/ike-docs-90.pom
+network/ike/platform/ike-platform/133/ike-platform-133.pom
+network/ike/platform/ike-platform/134/ike-platform-134.pom
+network/ike/tooling/ike-tooling/235/ike-tooling-235.pom
+org/apache/syncope/fit/syncope-fit-build-tools/4.0.7/syncope-fit-build-tools-4.0.7.pom
+org/apache/syncope/fit/syncope-fit-build-tools/4.1.2/syncope-fit-build-tools-4.1.2.pom
+org/apache/syncope/syncope/4.0.7/syncope-4.0.7.pom
+org/apache/syncope/syncope/4.1.2/syncope-4.1.2.pom
+org/codehaus/mojo/mojo-parent/97/mojo-parent-97.pom
+org/finos/legend/engine/legend-engine/4.135.1/legend-engine-4.135.1.pom
+org/mybatis/caches/mybatis-memcached/1.3.0/mybatis-memcached-1.3.0.pom
+org/sentrysoftware/maven/maven-skin-tools/1.8.00/maven-skin-tools-1.8.00.pom
+   from mvn: 5224 - non-mvn: 6908 - buildinfo: 2 - module: 7454 - gradle timestamp: 4519 - atlasdb: 0 = 0 release
