@@ -1857,6 +1857,8 @@ io.github.sebastian-toepfer.json.rpc:json-rpc-spring-integration-autoconfigure
 io.github.sebastian-toepfer.json.rpc:json-rpc-spring-integration-starter
 io.github.sebastian-toepfer.oss:oss-parent
 io.github.shafthq:shaft-parent
+io.github.skhokhlov.rewriterunner:cli
+io.github.skhokhlov.rewriterunner:core
 io.github.sndnv:fsi
 io.github.sndnv:layers-testing_2.13
 io.github.sndnv:layers-testing_3
