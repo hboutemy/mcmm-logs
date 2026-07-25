@@ -1,0 +1,4 @@
+com/exasol/virtual-schema-common-document-files/9.0.2/virtual-schema-common-document-files-9.0.2-sbom.spdx
+net/dapete/exceptional/0.5.0/exceptional-0.5.0.spdx.json
+net/dapete/exceptional/0.5.1/exceptional-0.5.1.spdx.json
+net/dapete/locks/1.4.0/locks-1.4.0.spdx.json

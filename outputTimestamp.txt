@@ -24067,3 +24067,32 @@ org/finos/legend/engine/legend-engine/4.135.2/legend-engine-4.135.2.pom
 org/gaul/modernizer-maven-parent/3.5.0/modernizer-maven-parent-3.5.0.pom
 org/jpmml/jpmml-lightgbm/1.6.7/jpmml-lightgbm-1.6.7.pom
    from mvn: 6656 - non-mvn: 7753 - buildinfo: 0 - module: 6982 - gradle timestamp: 4973 - atlasdb: 0 = 0 release
+20260723
+ch/qos/logback/access/parent/2.0.14/parent-2.0.14.pom
+ch/qos/logback/logback-parent/1.6.0/logback-parent-1.6.0.pom
+cloud/xuantong/xuantong-parent/2.0.0/xuantong-parent-2.0.0.pom
+com/hibegin/zrlog-base/3.5.8/zrlog-base-3.5.8.pom
+de/stklcode/jvault/jvault-connector/1.5.5/jvault-connector-1.5.5.pom
+dev/cjfravel/ariadne-spark35_2.12/0.1.6-beta/ariadne-spark35_2.12-0.1.6-beta.pom
+dev/cjfravel/ariadne-spark41_2.13/0.1.6-beta/ariadne-spark41_2.13-0.1.6-beta.pom
+io/airlift/airbase-policy/397/airbase-policy-397.pom
+io/airlift/airbase/397/airbase-397.pom
+io/cucumber/cucumber-jvm/7.34.5/cucumber-jvm-7.34.5.pom
+io/cucumber/messages-ndjson/0.3.5/messages-ndjson-0.3.5.pom
+io/cucumber/tag-expressions/11.0.0/tag-expressions-11.0.0.pom
+io/github/nikitoo0os/ghostwork/0.1.0/ghostwork-0.1.0.pom
+io/github/nikitoo0os/ghostwork/0.2.0/ghostwork-0.2.0.pom
+io/github/orhaugh/chord-parent/0.1.0/chord-parent-0.1.0.pom
+io/github/sonofmagic/javachanges/1.12.3/javachanges-1.12.3.pom
+io/github/sonofmagic/javachanges/1.13.0/javachanges-1.13.0.pom
+io/github/unknow0/server/unknow-server/1.0.3/unknow-server-1.0.3.pom
+io/micronaut/maven/micronaut-maven-plugin-parent/5.0.2/micronaut-maven-plugin-parent-5.0.2.pom
+io/quarkus/quarkus-parent/3.33.3/quarkus-parent-3.33.3.pom
+land/oras/oras-java-sdk/0.8.1/oras-java-sdk-0.8.1.pom
+net/ladenthin/bitcoinaddressfinder/1.7.0/bitcoinaddressfinder-1.7.0.pom
+network/ike/docs/ike-docs/92/ike-docs-92.pom
+network/ike/platform/ike-platform/136/ike-platform-136.pom
+network/ike/tooling/ike-tooling/237/ike-tooling-237.pom
+org/finos/legend/engine/legend-engine/4.135.5/legend-engine-4.135.5.pom
+org/finos/legend/engine/legend-engine/4.135.6/legend-engine-4.135.6.pom
+   from mvn: 6587 - non-mvn: 7463 - buildinfo: 0 - module: 6865 - gradle timestamp: 5396 - atlasdb: 0 = 0 release
