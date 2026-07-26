@@ -28,6 +28,12 @@
     <archetype>
       <groupId>ai.raics</groupId>
       <artifactId>spark-scala-archetype_2.13</artifactId>
+      <version>4.1.3_1.0.0</version>
+      <description>Archetype for Apache Spark project (Scala 2.13)</description>
+    </archetype>
+    <archetype>
+      <groupId>ai.raics</groupId>
+      <artifactId>spark-scala-archetype_2.13</artifactId>
       <version>4.1.2_1.0.0</version>
       <description>Archetype for Apache Spark project (Scala 2.13)</description>
     </archetype>
@@ -41,6 +47,12 @@
       <groupId>ai.raics</groupId>
       <artifactId>spark-scala-archetype_2.13</artifactId>
       <version>4.1.0_1.0.0</version>
+      <description>Archetype for Spark project (Scala 2.13)</description>
+    </archetype>
+    <archetype>
+      <groupId>ai.raics</groupId>
+      <artifactId>spark-scala-archetype_2.13</artifactId>
+      <version>4.0.4_1.0.0</version>
       <description>Archetype for Spark project (Scala 2.13)</description>
     </archetype>
     <archetype>
@@ -84,6 +96,21 @@
       <artifactId>spark-scala-archetype_2.13</artifactId>
       <version>3.5.5_1.0.0</version>
       <description>Archetype for Spark project (Scala 2.13)</description>
+    </archetype>
+    <archetype>
+      <groupId>ai.wanaku.sdk</groupId>
+      <artifactId>capabilities-archetypes-java-tool</artifactId>
+      <version>0.2.2</version>
+    </archetype>
+    <archetype>
+      <groupId>ai.wanaku.sdk</groupId>
+      <artifactId>capabilities-archetypes-java-tool</artifactId>
+      <version>0.2.1</version>
+    </archetype>
+    <archetype>
+      <groupId>ai.wanaku.sdk</groupId>
+      <artifactId>capabilities-archetypes-java-tool</artifactId>
+      <version>0.2.0</version>
     </archetype>
     <archetype>
       <groupId>ai.wanaku.sdk</groupId>
@@ -8497,6 +8524,18 @@
     <archetype>
       <groupId>com.almis.awe</groupId>
       <artifactId>awe-boot-angular-archetype</artifactId>
+      <version>4.12.5</version>
+      <description>This archetype generates a simple AWE web application with spring boot using the AngularJS frontend engine</description>
+    </archetype>
+    <archetype>
+      <groupId>com.almis.awe</groupId>
+      <artifactId>awe-boot-angular-archetype</artifactId>
+      <version>4.12.4</version>
+      <description>This archetype generates a simple AWE web application with spring boot using the AngularJS frontend engine</description>
+    </archetype>
+    <archetype>
+      <groupId>com.almis.awe</groupId>
+      <artifactId>awe-boot-angular-archetype</artifactId>
       <version>4.12.3</version>
       <description>This archetype generates a simple AWE web application with spring boot using the AngularJS frontend engine</description>
     </archetype>
@@ -9261,6 +9300,18 @@
       <artifactId>awe-boot-archetype</artifactId>
       <version>4.0.3</version>
       <description>This archetype generates a simple AWE web application with spring boot</description>
+    </archetype>
+    <archetype>
+      <groupId>com.almis.awe</groupId>
+      <artifactId>awe-boot-react-archetype</artifactId>
+      <version>4.12.5</version>
+      <description>This archetype generates a simple AWE web application with spring boot using the React frontend engine</description>
+    </archetype>
+    <archetype>
+      <groupId>com.almis.awe</groupId>
+      <artifactId>awe-boot-react-archetype</artifactId>
+      <version>4.12.4</version>
+      <description>This archetype generates a simple AWE web application with spring boot using the React frontend engine</description>
     </archetype>
     <archetype>
       <groupId>com.almis.awe</groupId>
@@ -19334,6 +19385,12 @@
     <archetype>
       <groupId>com.codenameone</groupId>
       <artifactId>cn1app-archetype</artifactId>
+      <version>7.0.260</version>
+      <description>Codename One bare-bones app project archetype.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.codenameone</groupId>
+      <artifactId>cn1app-archetype</artifactId>
       <version>7.0.259</version>
       <description>Codename One bare-bones app project archetype.</description>
     </archetype>
@@ -20644,6 +20701,12 @@
       <artifactId>cn1app-archetype</artifactId>
       <version>v7.0.81</version>
       <description>Codename One Bare-bones App project archetype</description>
+    </archetype>
+    <archetype>
+      <groupId>com.codenameone</groupId>
+      <artifactId>cn1lib-archetype</artifactId>
+      <version>7.0.260</version>
+      <description>Codename One cn1lib (library) project archetype.</description>
     </archetype>
     <archetype>
       <groupId>com.codenameone</groupId>
@@ -28577,6 +28640,12 @@
       <artifactId>tdp-javafx-archetype</artifactId>
       <version>2.0.0</version>
       <description>Maven archetype to create JavaFX applications with Java 11</description>
+    </archetype>
+    <archetype>
+      <groupId>com.github.anylogic</groupId>
+      <artifactId>codeloom-statedb-quickstart</artifactId>
+      <version>26.2.3</version>
+      <description>This is a statedb-maven archetype to help you create a new statedb project.</description>
     </archetype>
     <archetype>
       <groupId>com.github.anylogic</groupId>
@@ -40214,6 +40283,18 @@
     <archetype>
       <groupId>com.ibm.cics</groupId>
       <artifactId>cics-bundle-deploy-reactor-archetype</artifactId>
+      <version>2.0.3</version>
+      <description>An archetype demonstrating how to use the cics-bundle-maven-plugin to build and deploy a CICS bundle using a build with a Maven reactor.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.ibm.cics</groupId>
+      <artifactId>cics-bundle-deploy-reactor-archetype</artifactId>
+      <version>2.0.2</version>
+      <description>An archetype demonstrating how to use the cics-bundle-maven-plugin to build and deploy a CICS bundle using a build with a Maven reactor.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.ibm.cics</groupId>
+      <artifactId>cics-bundle-deploy-reactor-archetype</artifactId>
       <version>2.0.1</version>
       <description>An archetype demonstrating how to use the cics-bundle-maven-plugin to build and deploy a CICS bundle using a build with a Maven reactor.</description>
     </archetype>
@@ -40270,6 +40351,18 @@
       <groupId>com.ibm.cics</groupId>
       <artifactId>cics-bundle-deploy-reactor-archetype</artifactId>
       <version>1.0.0</version>
+    </archetype>
+    <archetype>
+      <groupId>com.ibm.cics</groupId>
+      <artifactId>cics-bundle-reactor-archetype</artifactId>
+      <version>2.0.3</version>
+      <description>An archetype demonstrating how to use the cics-bundle-maven-plugin to build a CICS bundle using a build with a Maven reactor.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.ibm.cics</groupId>
+      <artifactId>cics-bundle-reactor-archetype</artifactId>
+      <version>2.0.2</version>
+      <description>An archetype demonstrating how to use the cics-bundle-maven-plugin to build a CICS bundle using a build with a Maven reactor.</description>
     </archetype>
     <archetype>
       <groupId>com.ibm.cics</groupId>
@@ -85620,6 +85713,12 @@
     <archetype>
       <groupId>com.memority.api.archetypes</groupId>
       <artifactId>memority-tenant-archetype</artifactId>
+      <version>3.4.0</version>
+      <description>This Maven Archetype provides a base tenant configuration. It should be used in addition to the memority-tenant-bootstrap-archetype Maven Archetype.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.memority.api.archetypes</groupId>
+      <artifactId>memority-tenant-archetype</artifactId>
       <version>3.3.0</version>
       <description>This Maven Archetype provides a base tenant configuration. It should be used in addition to the
     memority-tenant-bootstrap-archetype Maven Archetype.</description>
@@ -102224,6 +102323,12 @@
     <archetype>
       <groupId>com.solace.microintegration.core.archetype</groupId>
       <artifactId>micro-integration-archetype</artifactId>
+      <version>3.3.5</version>
+      <description>Archetype to generate Solace Micro-Integrations using the Micro-Integration Framework</description>
+    </archetype>
+    <archetype>
+      <groupId>com.solace.microintegration.core.archetype</groupId>
+      <artifactId>micro-integration-archetype</artifactId>
       <version>3.3.3</version>
       <description>Archetype to generate Solace Micro-Integrations using the Micro-Integration Framework</description>
     </archetype>
@@ -102484,6 +102589,12 @@
       <artifactId>micro-integration-archetype</artifactId>
       <version>2.16.0</version>
       <description>Archetype to generate Solace Micro-Integrations using the Micro-Integration Framework</description>
+    </archetype>
+    <archetype>
+      <groupId>com.solace.microintegration.core.archetype</groupId>
+      <artifactId>micro-integration-binder-archetype</artifactId>
+      <version>3.3.5</version>
+      <description>Archetype to generate Spring Cloud Stream binders for Micro-Integrations using the Micro-Integration Framework</description>
     </archetype>
     <archetype>
       <groupId>com.solace.microintegration.core.archetype</groupId>
@@ -107908,6 +108019,13 @@
     <archetype>
       <groupId>com.vaadin</groupId>
       <artifactId>vaadin-archetype-application</artifactId>
+      <version>25.2.3</version>
+      <description>This archetype creates a Vaadin Flow application for basic
+        servlet container and can be used as a project base.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-application</artifactId>
       <version>25.2.1</version>
       <description>This archetype creates a Vaadin Flow application for basic
         servlet container and can be used as a project base.</description>
@@ -107999,6 +108117,13 @@
     <archetype>
       <groupId>com.vaadin</groupId>
       <artifactId>vaadin-archetype-application</artifactId>
+      <version>25.0.13</version>
+      <description>This archetype creates a Vaadin Flow application for basic
+        servlet container and can be used as a project base.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-application</artifactId>
       <version>25.0.12</version>
       <description>This archetype creates a Vaadin Flow application for basic
         servlet container and can be used as a project base.</description>
@@ -108083,6 +108208,13 @@
     <archetype>
       <groupId>com.vaadin</groupId>
       <artifactId>vaadin-archetype-application</artifactId>
+      <version>24.10.8</version>
+      <description>This archetype creates a Vaadin Flow application for basic
+        servlet container and can be used as a project base.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-application</artifactId>
       <version>24.10.7</version>
       <description>This archetype creates a Vaadin Flow application for basic
         servlet container and can be used as a project base.</description>
@@ -108119,6 +108251,13 @@
       <groupId>com.vaadin</groupId>
       <artifactId>vaadin-archetype-application</artifactId>
       <version>24.10.0</version>
+      <description>This archetype creates a Vaadin Flow application for basic
+        servlet container and can be used as a project base.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-application</artifactId>
+      <version>24.9.19</version>
       <description>This archetype creates a Vaadin Flow application for basic
         servlet container and can be used as a project base.</description>
     </archetype>
@@ -109309,6 +109448,20 @@
       <groupId>com.vaadin</groupId>
       <artifactId>vaadin-archetype-application</artifactId>
       <version>24.0.0</version>
+      <description>This archetype creates a Vaadin Flow application for basic
+        servlet container and can be used as a project base.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-application</artifactId>
+      <version>23.6.12</version>
+      <description>This archetype creates a Vaadin Flow application for basic
+        servlet container and can be used as a project base.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-application</artifactId>
+      <version>23.6.11</version>
       <description>This archetype creates a Vaadin Flow application for basic
         servlet container and can be used as a project base.</description>
     </archetype>
@@ -118951,6 +119104,12 @@
     <archetype>
       <groupId>com.vaadin</groupId>
       <artifactId>vaadin-archetype-spring-application</artifactId>
+      <version>25.2.3</version>
+      <description>This archetype creates a Vaadin Java application with Spring Boot.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-spring-application</artifactId>
       <version>25.2.1</version>
       <description>This archetype creates a Vaadin Java application with Spring Boot.</description>
     </archetype>
@@ -119029,6 +119188,12 @@
     <archetype>
       <groupId>com.vaadin</groupId>
       <artifactId>vaadin-archetype-spring-application</artifactId>
+      <version>25.0.13</version>
+      <description>This archetype creates a Vaadin Java application with Spring Boot.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-spring-application</artifactId>
       <version>25.0.12</version>
       <description>This archetype creates a Vaadin Java application with Spring Boot.</description>
     </archetype>
@@ -119101,6 +119266,12 @@
     <archetype>
       <groupId>com.vaadin</groupId>
       <artifactId>vaadin-archetype-spring-application</artifactId>
+      <version>24.10.8</version>
+      <description>This archetype creates a Vaadin Java application with Spring Boot.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-spring-application</artifactId>
       <version>24.10.7</version>
       <description>This archetype creates a Vaadin Java application with Spring Boot.</description>
     </archetype>
@@ -119132,6 +119303,12 @@
       <groupId>com.vaadin</groupId>
       <artifactId>vaadin-archetype-spring-application</artifactId>
       <version>24.10.0</version>
+      <description>This archetype creates a Vaadin Java application with Spring Boot.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-spring-application</artifactId>
+      <version>24.9.19</version>
       <description>This archetype creates a Vaadin Java application with Spring Boot.</description>
     </archetype>
     <archetype>
@@ -120152,6 +120329,18 @@
       <groupId>com.vaadin</groupId>
       <artifactId>vaadin-archetype-spring-application</artifactId>
       <version>24.0.0</version>
+      <description>This archetype creates a Vaadin Java application with Spring Boot.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-spring-application</artifactId>
+      <version>23.6.12</version>
+      <description>This archetype creates a Vaadin Java application with Spring Boot.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-spring-application</artifactId>
+      <version>23.6.11</version>
       <description>This archetype creates a Vaadin Java application with Spring Boot.</description>
     </archetype>
     <archetype>
@@ -125135,6 +125324,11 @@
     <archetype>
       <groupId>com.vmware.pscoe.bsc.archetypes</groupId>
       <artifactId>package-bsc-archetype</artifactId>
+      <version>4.24.0</version>
+    </archetype>
+    <archetype>
+      <groupId>com.vmware.pscoe.bsc.archetypes</groupId>
+      <artifactId>package-bsc-archetype</artifactId>
       <version>4.23.0</version>
     </archetype>
     <archetype>
@@ -125410,6 +125604,11 @@
     <archetype>
       <groupId>com.vmware.pscoe.cs.archetypes</groupId>
       <artifactId>package-cs-archetype</artifactId>
+      <version>4.24.0</version>
+    </archetype>
+    <archetype>
+      <groupId>com.vmware.pscoe.cs.archetypes</groupId>
+      <artifactId>package-cs-archetype</artifactId>
       <version>4.23.0</version>
     </archetype>
     <archetype>
@@ -125685,6 +125884,11 @@
     <archetype>
       <groupId>com.vmware.pscoe.o11n.archetypes</groupId>
       <artifactId>package-actions-archetype</artifactId>
+      <version>4.24.0</version>
+    </archetype>
+    <archetype>
+      <groupId>com.vmware.pscoe.o11n.archetypes</groupId>
+      <artifactId>package-actions-archetype</artifactId>
       <version>4.23.0</version>
     </archetype>
     <archetype>
@@ -125960,6 +126164,11 @@
     <archetype>
       <groupId>com.vmware.pscoe.o11n.archetypes</groupId>
       <artifactId>package-mixed-archetype</artifactId>
+      <version>4.24.0</version>
+    </archetype>
+    <archetype>
+      <groupId>com.vmware.pscoe.o11n.archetypes</groupId>
+      <artifactId>package-mixed-archetype</artifactId>
       <version>4.23.0</version>
     </archetype>
     <archetype>
@@ -126235,6 +126444,11 @@
     <archetype>
       <groupId>com.vmware.pscoe.o11n.archetypes</groupId>
       <artifactId>package-npmconv-archetype</artifactId>
+      <version>4.24.0</version>
+    </archetype>
+    <archetype>
+      <groupId>com.vmware.pscoe.o11n.archetypes</groupId>
+      <artifactId>package-npmconv-archetype</artifactId>
       <version>4.23.0</version>
     </archetype>
     <archetype>
@@ -126510,6 +126724,11 @@
     <archetype>
       <groupId>com.vmware.pscoe.o11n.archetypes</groupId>
       <artifactId>package-ts-vra-ng-archetype</artifactId>
+      <version>4.24.0</version>
+    </archetype>
+    <archetype>
+      <groupId>com.vmware.pscoe.o11n.archetypes</groupId>
+      <artifactId>package-ts-vra-ng-archetype</artifactId>
       <version>4.23.0</version>
     </archetype>
     <archetype>
@@ -126785,6 +127004,11 @@
     <archetype>
       <groupId>com.vmware.pscoe.o11n.archetypes</groupId>
       <artifactId>package-typescript-archetype</artifactId>
+      <version>4.24.0</version>
+    </archetype>
+    <archetype>
+      <groupId>com.vmware.pscoe.o11n.archetypes</groupId>
+      <artifactId>package-typescript-archetype</artifactId>
       <version>4.23.0</version>
     </archetype>
     <archetype>
@@ -127195,6 +127419,11 @@
     <archetype>
       <groupId>com.vmware.pscoe.o11n.archetypes</groupId>
       <artifactId>package-xml-archetype</artifactId>
+      <version>4.24.0</version>
+    </archetype>
+    <archetype>
+      <groupId>com.vmware.pscoe.o11n.archetypes</groupId>
+      <artifactId>package-xml-archetype</artifactId>
       <version>4.23.0</version>
     </archetype>
     <archetype>
@@ -127470,6 +127699,11 @@
     <archetype>
       <groupId>com.vmware.pscoe.polyglot.archetypes</groupId>
       <artifactId>package-polyglot-archetype</artifactId>
+      <version>4.24.0</version>
+    </archetype>
+    <archetype>
+      <groupId>com.vmware.pscoe.polyglot.archetypes</groupId>
+      <artifactId>package-polyglot-archetype</artifactId>
       <version>4.23.0</version>
     </archetype>
     <archetype>
@@ -127741,6 +127975,11 @@
       <groupId>com.vmware.pscoe.polyglot.archetypes</groupId>
       <artifactId>package-polyglot-archetype</artifactId>
       <version>0.111.112</version>
+    </archetype>
+    <archetype>
+      <groupId>com.vmware.pscoe.vcd.archetypes</groupId>
+      <artifactId>package-vcd-ng-archetype</artifactId>
+      <version>4.24.0</version>
     </archetype>
     <archetype>
       <groupId>com.vmware.pscoe.vcd.archetypes</groupId>
@@ -128020,7 +128259,17 @@
     <archetype>
       <groupId>com.vmware.pscoe.vcfa-all-apps.archetypes</groupId>
       <artifactId>package-vcfa-all-apps-archetype</artifactId>
+      <version>4.24.0</version>
+    </archetype>
+    <archetype>
+      <groupId>com.vmware.pscoe.vcfa-all-apps.archetypes</groupId>
+      <artifactId>package-vcfa-all-apps-archetype</artifactId>
       <version>4.23.0</version>
+    </archetype>
+    <archetype>
+      <groupId>com.vmware.pscoe.vra-ng.archetypes</groupId>
+      <artifactId>package-vra-ng-archetype</artifactId>
+      <version>4.24.0</version>
     </archetype>
     <archetype>
       <groupId>com.vmware.pscoe.vra-ng.archetypes</groupId>
@@ -128395,6 +128644,11 @@
     <archetype>
       <groupId>com.vmware.pscoe.vrli.archetypes</groupId>
       <artifactId>package-vrli-archetype</artifactId>
+      <version>4.24.0</version>
+    </archetype>
+    <archetype>
+      <groupId>com.vmware.pscoe.vrli.archetypes</groupId>
+      <artifactId>package-vrli-archetype</artifactId>
       <version>4.23.0</version>
     </archetype>
     <archetype>
@@ -128666,6 +128920,11 @@
       <groupId>com.vmware.pscoe.vrli.archetypes</groupId>
       <artifactId>package-vrli-archetype</artifactId>
       <version>0.111.112</version>
+    </archetype>
+    <archetype>
+      <groupId>com.vmware.pscoe.vrops.archetypes</groupId>
+      <artifactId>package-vrops-archetype</artifactId>
+      <version>4.24.0</version>
     </archetype>
     <archetype>
       <groupId>com.vmware.pscoe.vrops.archetypes</groupId>
@@ -135181,6 +135440,11 @@ JavaFX 2.0 SDK.</description>
     <archetype>
       <groupId>dev.getelements.elements</groupId>
       <artifactId>sdk-element-standard</artifactId>
+      <version>3.8.10</version>
+    </archetype>
+    <archetype>
+      <groupId>dev.getelements.elements</groupId>
+      <artifactId>sdk-element-standard</artifactId>
       <version>3.8.8</version>
     </archetype>
     <archetype>
@@ -135257,6 +135521,11 @@ JavaFX 2.0 SDK.</description>
       <groupId>dev.getelements.elements</groupId>
       <artifactId>sdk-element-standard</artifactId>
       <version>3.7.10</version>
+    </archetype>
+    <archetype>
+      <groupId>dev.getelements.elements</groupId>
+      <artifactId>sdk-element-standard-kt</artifactId>
+      <version>3.8.10</version>
     </archetype>
     <archetype>
       <groupId>dev.getelements.elements</groupId>
@@ -135660,6 +135929,12 @@ JavaFX 2.0 SDK.</description>
     </archetype>
     <archetype>
       <groupId>dev.mohterbaord</groupId>
+      <artifactId>scaffold-java-application</artifactId>
+      <version>0.0.1</version>
+      <description>Maven archetype for creating modern Java applications</description>
+    </archetype>
+    <archetype>
+      <groupId>dev.mohterbaord</groupId>
       <artifactId>scaffold-java-library</artifactId>
       <version>0.4.0</version>
       <description>Maven archetype for creating Java 21+ libraries</description>
@@ -135759,6 +136034,12 @@ JavaFX 2.0 SDK.</description>
       <artifactId>scaffold-maven-archetype</artifactId>
       <version>0.1.0</version>
       <description>A meta Maven archetype for creating other Maven archetypes</description>
+    </archetype>
+    <archetype>
+      <groupId>dev.mohterbaord</groupId>
+      <artifactId>scaffold-maven-parent-pom</artifactId>
+      <version>0.2.0</version>
+      <description>A Maven archetype to create parent POMs</description>
     </archetype>
     <archetype>
       <groupId>dev.mohterbaord</groupId>
@@ -136120,6 +136401,18 @@ JavaFX 2.0 SDK.</description>
       <artifactId>scala-archetype</artifactId>
       <version>0.0.1</version>
       <description>An up-to-date Maven Archetype for Scala</description>
+    </archetype>
+    <archetype>
+      <groupId>dev.rafex.ether</groupId>
+      <artifactId>ether-hexagonal-archetype</artifactId>
+      <version>1.0.3</version>
+      <description>Maven archetype for hexagonal architecture using the Ether framework</description>
+    </archetype>
+    <archetype>
+      <groupId>dev.rafex.ether</groupId>
+      <artifactId>ether-hexagonal-archetype</artifactId>
+      <version>1.0.2</version>
+      <description>Maven archetype for hexagonal architecture using the Ether framework</description>
     </archetype>
     <archetype>
       <groupId>dev.rafex.ether</groupId>
@@ -139163,6 +139456,12 @@ with flight information</description>
     <archetype>
       <groupId>fish.payara.starter</groupId>
       <artifactId>payara-starter-archetype</artifactId>
+      <version>2.3.0</version>
+      <description>Archetype for Payara Platform application.</description>
+    </archetype>
+    <archetype>
+      <groupId>fish.payara.starter</groupId>
+      <artifactId>payara-starter-archetype</artifactId>
       <version>2.2.1</version>
       <description>Archetype for Payara Platform application.</description>
     </archetype>
@@ -139935,6 +140234,11 @@ with flight information</description>
       <artifactId>simpleweb4j-archetype</artifactId>
       <version>0.0.1</version>
       <description>An archetype for SimpleWeb4j.</description>
+    </archetype>
+    <archetype>
+      <groupId>fun.fengwk.convention4j</groupId>
+      <artifactId>convention4j-archetype</artifactId>
+      <version>1.2.2</version>
     </archetype>
     <archetype>
       <groupId>fun.fengwk.convention4j</groupId>
@@ -152121,6 +152425,12 @@ with flight information</description>
       <groupId>io.avaje</groupId>
       <artifactId>avaje-nima-archetype-minimal-rest</artifactId>
       <version>1.9-RC1</version>
+      <description>Maven archetype for a minimal avaje-nima REST service with plain-text and JSON endpoints.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.avaje.archetype</groupId>
+      <artifactId>avaje-nima-archetype-minimal-rest</artifactId>
+      <version>1.12</version>
       <description>Maven archetype for a minimal avaje-nima REST service with plain-text and JSON endpoints.</description>
     </archetype>
     <archetype>
@@ -189499,6 +189809,20 @@ with flight information</description>
 		Lombok.</description>
     </archetype>
     <archetype>
+      <groupId>io.github.jhqxx</groupId>
+      <artifactId>springai-agent-archetype</artifactId>
+      <version>1.0.1</version>
+      <description>Maven Archetype for generating Spring Boot 3 + Spring AI agent projects.
+        Includes ChatClient, @Tool annotations, RAG with vector store, and REST APIs.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.github.jhqxx</groupId>
+      <artifactId>springai-agent-archetype</artifactId>
+      <version>1.0.0</version>
+      <description>Maven Archetype for generating Spring Boot 3 + Spring AI agent projects.
+        Includes ChatClient, @Tool annotations, RAG with vector store, and REST APIs.</description>
+    </archetype>
+    <archetype>
       <groupId>io.github.jica98</groupId>
       <artifactId>aws-java-dynamo-streams</artifactId>
       <version>0.0.5</version>
@@ -197466,6 +197790,12 @@ with flight information</description>
     <archetype>
       <groupId>io.jexxa</groupId>
       <artifactId>jexxa-blank-archetype</artifactId>
+      <version>5.0.8</version>
+      <description>JexxaBlankArchetype - Create your own Jexxa Application</description>
+    </archetype>
+    <archetype>
+      <groupId>io.jexxa</groupId>
+      <artifactId>jexxa-blank-archetype</artifactId>
       <version>5.0.7</version>
       <description>JexxaBlankArchetype - Create your own Jexxa Application</description>
     </archetype>
@@ -197684,6 +198014,12 @@ with flight information</description>
       <artifactId>jexxa-blank-archetype</artifactId>
       <version>1.1.0</version>
       <description>JexxaBlankArchetype - Create your own Jexxa Application</description>
+    </archetype>
+    <archetype>
+      <groupId>io.jexxa</groupId>
+      <artifactId>jlegmed-blank-archetype</artifactId>
+      <version>5.0.8</version>
+      <description>JLegMedBlankArchetype - Create your own JLegMed Application</description>
     </archetype>
     <archetype>
       <groupId>io.jexxa</groupId>
@@ -202838,6 +203174,13 @@ with flight information</description>
     <archetype>
       <groupId>io.kroxylicious</groupId>
       <artifactId>kroxylicious-filter-archetype</artifactId>
+      <version>0.23.0</version>
+      <description>A Maven Archetype to generate an independent Custom Filter project, demonstrating how to structure a
+        Filter and integration test it against Apache Kafka</description>
+    </archetype>
+    <archetype>
+      <groupId>io.kroxylicious</groupId>
+      <artifactId>kroxylicious-filter-archetype</artifactId>
       <version>0.22.0</version>
       <description>A Maven Archetype to generate an independent Custom Filter project, demonstrating how to structure a
         Filter and integration test it against Apache Kafka</description>
@@ -202846,6 +203189,13 @@ with flight information</description>
       <groupId>io.kroxylicious</groupId>
       <artifactId>kroxylicious-filter-archetype</artifactId>
       <version>0.21.0</version>
+      <description>A Maven Archetype to generate an independent Custom Filter project, demonstrating how to structure a
+        Filter and integration test it against Apache Kafka</description>
+    </archetype>
+    <archetype>
+      <groupId>io.kroxylicious</groupId>
+      <artifactId>kroxylicious-filter-archetype</artifactId>
+      <version>0.20.1</version>
       <description>A Maven Archetype to generate an independent Custom Filter project, demonstrating how to structure a
         Filter and integration test it against Apache Kafka</description>
     </archetype>
@@ -207014,6 +207364,11 @@ with flight information</description>
     <archetype>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-amazon-lambda-archetype</artifactId>
+      <version>3.37.3</version>
+    </archetype>
+    <archetype>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-amazon-lambda-archetype</artifactId>
       <version>3.37.2</version>
     </archetype>
     <archetype>
@@ -208000,6 +208355,11 @@ with flight information</description>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-amazon-lambda-archetype</artifactId>
       <version>3.4.0.CR1</version>
+    </archetype>
+    <archetype>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-amazon-lambda-archetype</artifactId>
+      <version>3.38.0.CR1</version>
     </archetype>
     <archetype>
       <groupId>io.quarkus</groupId>
@@ -209314,6 +209674,11 @@ with flight information</description>
     <archetype>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-amazon-lambda-http-archetype</artifactId>
+      <version>3.37.3</version>
+    </archetype>
+    <archetype>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-amazon-lambda-http-archetype</artifactId>
       <version>3.37.2</version>
     </archetype>
     <archetype>
@@ -210300,6 +210665,11 @@ with flight information</description>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-amazon-lambda-http-archetype</artifactId>
       <version>3.4.0.CR1</version>
+    </archetype>
+    <archetype>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-amazon-lambda-http-archetype</artifactId>
+      <version>3.38.0.CR1</version>
     </archetype>
     <archetype>
       <groupId>io.quarkus</groupId>
@@ -211634,6 +212004,11 @@ with flight information</description>
     <archetype>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-amazon-lambda-rest-archetype</artifactId>
+      <version>3.37.3</version>
+    </archetype>
+    <archetype>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-amazon-lambda-rest-archetype</artifactId>
       <version>3.37.2</version>
     </archetype>
     <archetype>
@@ -212605,6 +212980,11 @@ with flight information</description>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-amazon-lambda-rest-archetype</artifactId>
       <version>3.4.0.CR1</version>
+    </archetype>
+    <archetype>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-amazon-lambda-rest-archetype</artifactId>
+      <version>3.38.0.CR1</version>
     </archetype>
     <archetype>
       <groupId>io.quarkus</groupId>
@@ -214579,6 +214959,11 @@ with flight information</description>
     <archetype>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-funqy-amazon-lambda-archetype</artifactId>
+      <version>3.37.3</version>
+    </archetype>
+    <archetype>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-funqy-amazon-lambda-archetype</artifactId>
       <version>3.37.2</version>
     </archetype>
     <archetype>
@@ -215550,6 +215935,11 @@ with flight information</description>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-funqy-amazon-lambda-archetype</artifactId>
       <version>3.4.0.CR1</version>
+    </archetype>
+    <archetype>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-funqy-amazon-lambda-archetype</artifactId>
+      <version>3.38.0.CR1</version>
     </archetype>
     <archetype>
       <groupId>io.quarkus</groupId>
@@ -230378,6 +230768,11 @@ This new archetype upgrade libraries to JSF 2.2, Spring 4 and JPA 2.1</descripti
       <groupId>net.thucydides</groupId>
       <artifactId>thucydides-simple-archetype</artifactId>
       <version>0.4.16</version>
+    </archetype>
+    <archetype>
+      <groupId>net.tirasa.connid</groupId>
+      <artifactId>connector-archetype</artifactId>
+      <version>1.6.1.1</version>
     </archetype>
     <archetype>
       <groupId>net.tirasa.connid</groupId>
@@ -274508,6 +274903,11 @@ get started using the Apache Beam Java SDK.</description>
     <archetype>
       <groupId>org.apache.tomee.maven</groupId>
       <artifactId>tomee-webapp-archetype</artifactId>
+      <version>10.2.0</version>
+    </archetype>
+    <archetype>
+      <groupId>org.apache.tomee.maven</groupId>
+      <artifactId>tomee-webapp-archetype</artifactId>
       <version>10.1.5</version>
     </archetype>
     <archetype>
@@ -283693,6 +284093,12 @@ get started using the Apache Beam Java SDK.</description>
       <artifactId>rpc-tomcat-war</artifactId>
       <version>1.2.2</version>
       <description>Maven archetype for creation of Brutusin-RPC (standalone and deployable) war projects with a Tomcat runtime available for standalone scenarios</description>
+    </archetype>
+    <archetype>
+      <groupId>org.bsc.langgraph4j</groupId>
+      <artifactId>spring-ai-agent-archetype</artifactId>
+      <version>1.9.0-beta1</version>
+      <description>A Maven archetype to create a Spring AI Agent project powered by LangGraph4j</description>
     </archetype>
     <archetype>
       <groupId>org.bsc.langgraph4j</groupId>
@@ -304962,6 +305368,12 @@ get started using the Apache Beam Java SDK.</description>
       <groupId>org.faktorips</groupId>
       <artifactId>faktorips-maven-archetype</artifactId>
       <version>26.7.0.rc01</version>
+      <description>Defines versions for and configures Maven plugins used to build the Faktor-IPS runtime libraries</description>
+    </archetype>
+    <archetype>
+      <groupId>org.faktorips</groupId>
+      <artifactId>faktorips-maven-archetype</artifactId>
+      <version>26.1.3.release</version>
       <description>Defines versions for and configures Maven plugins used to build the Faktor-IPS runtime libraries</description>
     </archetype>
     <archetype>
@@ -330647,6 +331059,12 @@ get started using the Apache Beam Java SDK.</description>
     <archetype>
       <groupId>org.jetbrains.kotlin</groupId>
       <artifactId>kotlin-archetype-jvm</artifactId>
+      <version>2.4.10</version>
+      <description>Kotlin single-module JVM project archetype</description>
+    </archetype>
+    <archetype>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <artifactId>kotlin-archetype-jvm</artifactId>
       <version>2.4.10-RC</version>
       <description>Kotlin single-module JVM project archetype</description>
     </archetype>
@@ -340684,6 +341102,12 @@ get started using the Apache Beam Java SDK.</description>
     <archetype>
       <groupId>org.linkki-framework.archetypes</groupId>
       <artifactId>linkki-archetype-plain-application-vaadin-flow</artifactId>
+      <version>2.9.10</version>
+      <description>Vaadin Flow Modules for linkki</description>
+    </archetype>
+    <archetype>
+      <groupId>org.linkki-framework.archetypes</groupId>
+      <artifactId>linkki-archetype-plain-application-vaadin-flow</artifactId>
       <version>2.9.9</version>
       <description>Vaadin Flow Modules for linkki</description>
     </archetype>
@@ -341279,6 +341703,12 @@ get started using the Apache Beam Java SDK.</description>
     <archetype>
       <groupId>org.linkki-framework.archetypes</groupId>
       <artifactId>linkki-archetype-spring-application-vaadin-flow</artifactId>
+      <version>2.9.10</version>
+      <description>Vaadin Flow Modules for linkki</description>
+    </archetype>
+    <archetype>
+      <groupId>org.linkki-framework.archetypes</groupId>
+      <artifactId>linkki-archetype-spring-application-vaadin-flow</artifactId>
       <version>2.9.9</version>
       <description>Vaadin Flow Modules for linkki</description>
     </archetype>
@@ -341864,6 +342294,11 @@ get started using the Apache Beam Java SDK.</description>
       <groupId>org.linkki-framework.archetypes</groupId>
       <artifactId>linkki-archetype-spring-application-vaadin8</artifactId>
       <version>linkki-0.9.20190528</version>
+    </archetype>
+    <archetype>
+      <groupId>org.lockss</groupId>
+      <artifactId>lockss-plugins-archetype</artifactId>
+      <version>1.5.0</version>
     </archetype>
     <archetype>
       <groupId>org.lockss</groupId>
@@ -373024,6 +373459,13 @@ get started using the Apache Beam Java SDK.</description>
     <archetype>
       <groupId>org.refcodes</groupId>
       <artifactId>refcodes-archetype-alt-c2</artifactId>
+      <version>4.1.3</version>
+      <description>A minimum REFCODES.ORG enabled C2 (Command + Control) RESTful server teaming
+		up with itself as client application. Get inspired by "https://bitbucket.org/funcodez".</description>
+    </archetype>
+    <archetype>
+      <groupId>org.refcodes</groupId>
+      <artifactId>refcodes-archetype-alt-c2</artifactId>
       <version>4.1.2</version>
       <description>A minimum REFCODES.ORG enabled C2 (Command + Control) RESTful server teaming
 		up with itself as client application. Get inspired by "https://bitbucket.org/funcodez".</description>
@@ -373342,6 +373784,13 @@ get started using the Apache Beam Java SDK.</description>
       <version>2.1.3</version>
       <description>A minimum REFCODES.ORG enabled C2 (Command + Control) RESTful server teaming
 		up with itself as client application. Get inspired by "https://bitbucket.org/funcodez".</description>
+    </archetype>
+    <archetype>
+      <groupId>org.refcodes</groupId>
+      <artifactId>refcodes-archetype-alt-cli</artifactId>
+      <version>4.1.3</version>
+      <description>A minimum REFCODES.ORG enabled command line interface (CLI) application. 
+		Get inspired by "https://bitbucket.org/funcodez".</description>
     </archetype>
     <archetype>
       <groupId>org.refcodes</groupId>
@@ -373682,6 +374131,13 @@ get started using the Apache Beam Java SDK.</description>
     <archetype>
       <groupId>org.refcodes</groupId>
       <artifactId>refcodes-archetype-alt-csv</artifactId>
+      <version>4.1.3</version>
+      <description>A minimum REFCODES.ORG enabled command application processing CSV files. 
+		Get inspired by "https://bitbucket.org/funcodez".</description>
+    </archetype>
+    <archetype>
+      <groupId>org.refcodes</groupId>
+      <artifactId>refcodes-archetype-alt-csv</artifactId>
       <version>4.1.2</version>
       <description>A minimum REFCODES.ORG enabled command application processing CSV files. 
 		Get inspired by "https://bitbucket.org/funcodez".</description>
@@ -374011,6 +374467,14 @@ get started using the Apache Beam Java SDK.</description>
     <archetype>
       <groupId>org.refcodes</groupId>
       <artifactId>refcodes-archetype-alt-decoupling</artifactId>
+      <version>4.1.3</version>
+      <description>A minimum REFCODES.ORG enabled dependency injection and inversion of control
+		driven application for breaking up dependencies between components or modules
+		of a software system. Get inspired by "https://bitbucket.org/funcodez".</description>
+    </archetype>
+    <archetype>
+      <groupId>org.refcodes</groupId>
+      <artifactId>refcodes-archetype-alt-decoupling</artifactId>
       <version>4.1.2</version>
       <description>A minimum REFCODES.ORG enabled dependency injection and inversion of control
 		driven application for breaking up dependencies between components or modules
@@ -374231,6 +374695,13 @@ get started using the Apache Beam Java SDK.</description>
       <description>A minimum REFCODES.ORG enabled dependency injection and inversion of control
 		driven application for breaking up dependencies between components or modules
 		of a software system. Get inspired by "https://bitbucket.org/funcodez".</description>
+    </archetype>
+    <archetype>
+      <groupId>org.refcodes</groupId>
+      <artifactId>refcodes-archetype-alt-eventbus</artifactId>
+      <version>4.1.3</version>
+      <description>A minimum REFCODES.ORG enabled eventbus (publish and subscribe) driven
+		application. Get inspired by "https://bitbucket.org/funcodez".</description>
     </archetype>
     <archetype>
       <groupId>org.refcodes</groupId>
@@ -374564,6 +375035,13 @@ get started using the Apache Beam Java SDK.</description>
     <archetype>
       <groupId>org.refcodes</groupId>
       <artifactId>refcodes-archetype-alt-filter</artifactId>
+      <version>4.1.3</version>
+      <description>A minimum REFCODES.ORG enabled command line interface (CLI) application. 
+		Get inspired by "https://bitbucket.org/funcodez".</description>
+    </archetype>
+    <archetype>
+      <groupId>org.refcodes</groupId>
+      <artifactId>refcodes-archetype-alt-filter</artifactId>
       <version>4.1.2</version>
       <description>A minimum REFCODES.ORG enabled command line interface (CLI) application. 
 		Get inspired by "https://bitbucket.org/funcodez".</description>
@@ -374783,6 +375261,13 @@ get started using the Apache Beam Java SDK.</description>
       <artifactId>refcodes-archetype-alt-filter</artifactId>
       <version>3.0.7</version>
       <description>A minimum REFCODES.ORG enabled command line interface (CLI) application. 
+		Get inspired by "https://bitbucket.org/funcodez".</description>
+    </archetype>
+    <archetype>
+      <groupId>org.refcodes</groupId>
+      <artifactId>refcodes-archetype-alt-rest</artifactId>
+      <version>4.1.3</version>
+      <description>A minimum REFCODES.ORG enabled RESTful server and client application. 
 		Get inspired by "https://bitbucket.org/funcodez".</description>
     </archetype>
     <archetype>
@@ -387386,6 +387871,11 @@ get started using the Apache Beam Java SDK.</description>
     <archetype>
       <groupId>org.voltdb</groupId>
       <artifactId>volt-stream-maven-quickstart</artifactId>
+      <version>1.8.1</version>
+    </archetype>
+    <archetype>
+      <groupId>org.voltdb</groupId>
+      <artifactId>volt-stream-maven-quickstart</artifactId>
       <version>1.8.0</version>
     </archetype>
     <archetype>
@@ -395223,6 +395713,12 @@ get started using the Apache Beam Java SDK.</description>
     <archetype>
       <groupId>org.xwiki.commons</groupId>
       <artifactId>xwiki-commons-component-archetype</artifactId>
+      <version>17.10.10</version>
+      <description>Make it easy to create a maven project for creating XWiki Components.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.xwiki.commons</groupId>
+      <artifactId>xwiki-commons-component-archetype</artifactId>
       <version>17.10.9</version>
       <description>Make it easy to create a maven project for creating XWiki Components.</description>
     </archetype>
@@ -398632,6 +399128,12 @@ get started using the Apache Beam Java SDK.</description>
       <groupId>org.xwiki.rendering</groupId>
       <artifactId>xwiki-rendering-archetype-macro</artifactId>
       <version>18.0.0-rc-1</version>
+      <description>Make it easy to create a maven project for creating XWiki Rendering Macros.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.xwiki.rendering</groupId>
+      <artifactId>xwiki-rendering-archetype-macro</artifactId>
+      <version>17.10.10</version>
       <description>Make it easy to create a maven project for creating XWiki Rendering Macros.</description>
     </archetype>
     <archetype>
@@ -403737,6 +404239,48 @@ NOTE: Retrolambda support provided "as is" - if you have any problems, please fi
       <artifactId>jpaz2-archetype-theater</artifactId>
       <version>1.1.0</version>
       <description>An archetype which contains a sample Java project based on theater subpackage included in JPAZ2.</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-app-quickstart</artifactId>
+      <version>2.48.3</version>
+      <description>The AWS SDK for Java - Maven archetype for a sample application using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-app-quickstart</artifactId>
+      <version>2.48.2</version>
+      <description>The AWS SDK for Java - Maven archetype for a sample application using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-app-quickstart</artifactId>
+      <version>2.48.1</version>
+      <description>The AWS SDK for Java - Maven archetype for a sample application using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-app-quickstart</artifactId>
+      <version>2.48.0</version>
+      <description>The AWS SDK for Java - Maven archetype for a sample application using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-app-quickstart</artifactId>
+      <version>2.47.6</version>
+      <description>The AWS SDK for Java - Maven archetype for a sample application using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-app-quickstart</artifactId>
+      <version>2.47.5</version>
+      <description>The AWS SDK for Java - Maven archetype for a sample application using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-app-quickstart</artifactId>
+      <version>2.47.4</version>
+      <description>The AWS SDK for Java - Maven archetype for a sample application using AWS Java SDK 2.x</description>
     </archetype>
     <archetype>
       <groupId>software.amazon.awssdk</groupId>
@@ -411555,6 +412099,48 @@ NOTE: Retrolambda support provided "as is" - if you have any problems, please fi
       <artifactId>archetype-app-quickstart</artifactId>
       <version>2.16.1</version>
       <description>The AWS SDK for Java - Maven archetype for a sample application using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-lambda</artifactId>
+      <version>2.48.3</version>
+      <description>The AWS SDK for Java - Maven archetype for Java lambda function using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-lambda</artifactId>
+      <version>2.48.2</version>
+      <description>The AWS SDK for Java - Maven archetype for Java lambda function using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-lambda</artifactId>
+      <version>2.48.1</version>
+      <description>The AWS SDK for Java - Maven archetype for Java lambda function using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-lambda</artifactId>
+      <version>2.48.0</version>
+      <description>The AWS SDK for Java - Maven archetype for Java lambda function using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-lambda</artifactId>
+      <version>2.47.6</version>
+      <description>The AWS SDK for Java - Maven archetype for Java lambda function using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-lambda</artifactId>
+      <version>2.47.5</version>
+      <description>The AWS SDK for Java - Maven archetype for Java lambda function using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-lambda</artifactId>
+      <version>2.47.4</version>
+      <description>The AWS SDK for Java - Maven archetype for Java lambda function using AWS Java SDK 2.x</description>
     </archetype>
     <archetype>
       <groupId>software.amazon.awssdk</groupId>
@@ -422883,14 +423469,32 @@ NOTE: Retrolambda support provided "as is" - if you have any problems, please fi
     <archetype>
       <groupId>top.egon</groupId>
       <artifactId>egon-cola-archetype-light</artifactId>
+      <version>5.2.3</version>
+      <description>egon-cola-archetype-light</description>
+    </archetype>
+    <archetype>
+      <groupId>top.egon</groupId>
+      <artifactId>egon-cola-archetype-light</artifactId>
       <version>5.1.2</version>
       <description>egon-cola-archetype-light</description>
     </archetype>
     <archetype>
       <groupId>top.egon</groupId>
       <artifactId>egon-cola-archetype-service</artifactId>
+      <version>5.2.3</version>
+      <description>egon-cola-archetype-service</description>
+    </archetype>
+    <archetype>
+      <groupId>top.egon</groupId>
+      <artifactId>egon-cola-archetype-service</artifactId>
       <version>5.1.2</version>
       <description>egon-cola-archetype-service</description>
+    </archetype>
+    <archetype>
+      <groupId>top.egon</groupId>
+      <artifactId>egon-cola-archetype-web</artifactId>
+      <version>5.2.3</version>
+      <description>egon-cola-archetype-web</description>
     </archetype>
     <archetype>
       <groupId>top.egon</groupId>
@@ -425343,6 +425947,12 @@ NOTE: Retrolambda support provided "as is" - if you have any problems, please fi
       <artifactId>zaftig_offal_hamisha</artifactId>
       <version>7.0</version>
       <description>A maven archetype for my style of project.</description>
+    </archetype>
+    <archetype>
+      <groupId>ws.osiris</groupId>
+      <artifactId>osiris-archetype</artifactId>
+      <version>2.1.0</version>
+      <description>Maven Archetype for Osiris</description>
     </archetype>
     <archetype>
       <groupId>ws.osiris</groupId>

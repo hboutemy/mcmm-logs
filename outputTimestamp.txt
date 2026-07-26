@@ -24096,3 +24096,25 @@ network/ike/tooling/ike-tooling/237/ike-tooling-237.pom
 org/finos/legend/engine/legend-engine/4.135.5/legend-engine-4.135.5.pom
 org/finos/legend/engine/legend-engine/4.135.6/legend-engine-4.135.6.pom
    from mvn: 6587 - non-mvn: 7463 - buildinfo: 0 - module: 6865 - gradle timestamp: 5396 - atlasdb: 0 = 0 release
+20260724
+digital/pragmatech/testing/spring-test-profiler/0.2.0/spring-test-profiler-0.2.0.pom
+digital/pragmatech/testing/spring-test-profiler/0.2.1/spring-test-profiler-0.2.1.pom
+digital/pragmatech/testing/spring-test-profiler/0.2.2/spring-test-profiler-0.2.2.pom
+eu/maveniverse/maven/mima/mima/2.4.47/mima-2.4.47.pom
+id/devcode/spring-extension-parent/1.0.17/spring-extension-parent-1.0.17.pom
+io/airlift/airbase-policy/398/airbase-policy-398.pom
+io/airlift/airbase/398/airbase-398.pom
+io/cucumber/cucumber-jvm/7.34.6/cucumber-jvm-7.34.6.pom
+io/github/nikitoo0os/ghostwork/0.3.0/ghostwork-0.3.0.pom
+io/github/nikitoo0os/ghostwork/0.4.0/ghostwork-0.4.0.pom
+io/github/orhaugh/chord-parent/0.2.0/chord-parent-0.2.0.pom
+io/github/vpelikh/swagger-project/4.0.1/swagger-project-4.0.1.pom
+io/liftwizard/liftwizard-minimal-parent/2.1.48/liftwizard-minimal-parent-2.1.48.pom
+nl/basjes/parse/useragent/yauaa-parent/8.2.0/yauaa-parent-8.2.0.pom
+nl/basjes/parse/useragent/yauaa/8.2.0/yauaa-8.2.0.pom
+org/apache/maven/resolver/maven-resolver/2.0.21/maven-resolver-2.0.21.pom
+org/apache/systemds/systemds/3.4.0/systemds-3.4.0.pom
+org/codehaus/mojo/flatten-maven-plugin/1.8.0/flatten-maven-plugin-1.8.0.pom
+org/eclipse/ee4j/project/2.0.5/project-2.0.5.pom
+org/finos/legend/engine/legend-engine/4.136.0/legend-engine-4.136.0.pom
+   from mvn: 5622 - non-mvn: 5722 - buildinfo: 22 - module: 4627 - gradle timestamp: 3457 - atlasdb: 0 = 0 release
