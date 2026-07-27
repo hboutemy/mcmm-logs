@@ -24118,3 +24118,15 @@ org/codehaus/mojo/flatten-maven-plugin/1.8.0/flatten-maven-plugin-1.8.0.pom
 org/eclipse/ee4j/project/2.0.5/project-2.0.5.pom
 org/finos/legend/engine/legend-engine/4.136.0/legend-engine-4.136.0.pom
    from mvn: 5622 - non-mvn: 5722 - buildinfo: 22 - module: 4627 - gradle timestamp: 3457 - atlasdb: 0 = 0 release
+20260725
+dev/juherr/datex4j/datex4j/0.1.0/datex4j-0.1.0.pom
+id/devcode/spring-extension-parent/1.0.18/spring-extension-parent-1.0.18.pom
+id/devcode/spring-extension-parent/1.0.19/spring-extension-parent-1.0.19.pom
+io/github/khopland/xsd/validation/xsd-validator/0.0.1/xsd-validator-0.0.1.pom
+network/ike/docs/ike-docs/93/ike-docs-93.pom
+network/ike/docs/ike-docs/94/ike-docs-94.pom
+network/ike/platform/ike-platform/137/ike-platform-137.pom
+network/ike/platform/ike-platform/138/ike-platform-138.pom
+org/eclipse/jgit/org.eclipse.jgit-parent/7.7.1.202607240634-r/org.eclipse.jgit-parent-7.7.1.202607240634-r.pom
+world/convex/convex/0.8.10/convex-0.8.10.pom
+   from mvn: 2501 - non-mvn: 3399 - buildinfo: 0 - module: 3983 - gradle timestamp: 2658 - atlasdb: 0 = 0 release
