@@ -1,0 +1,7 @@
+com/exasol/bucketfs-java/5.0.0/bucketfs-java-5.0.0-sbom.spdx
+com/exasol/error-code-crawler-maven-plugin/2.1.1/error-code-crawler-maven-plugin-2.1.1-sbom.spdx
+com/exasol/error-code-model-java/2.1.5/error-code-model-java-2.1.5-sbom.spdx
+com/exasol/exasol-testcontainers/8.0.0/exasol-testcontainers-8.0.0-sbom.spdx
+com/exasol/exasol-testcontainers/8.0.1/exasol-testcontainers-8.0.1-sbom.spdx
+com/exasol/import-export-udf-common-scala/2.0.3/import-export-udf-common-scala-2.0.3-sbom.spdx
+com/exasol/udf-api-java/1.0.11/udf-api-java-1.0.11-sbom.spdx

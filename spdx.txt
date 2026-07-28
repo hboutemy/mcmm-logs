@@ -1,10 +1,16 @@
 com.exasol:artifact-reference-checker-maven-plugin
+com.exasol:bucketfs-java
+com.exasol:error-code-crawler-maven-plugin
+com.exasol:error-code-model-java
 com.exasol:exasol-test-setup-abstraction-java
+com.exasol:exasol-testcontainers
+com.exasol:import-export-udf-common-scala
 com.exasol:project-keeper-cli
 com.exasol:project-keeper-core
 com.exasol:project-keeper-java-project-crawler
 com.exasol:project-keeper-maven-plugin
 com.exasol:project-keeper-shared-model-classes
+com.exasol:udf-api-java
 com.exasol:udf-debugging-java
 com.exasol:virtual-schema-common-document
 com.exasol:virtual-schema-common-document-files

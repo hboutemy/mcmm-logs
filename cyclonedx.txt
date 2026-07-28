@@ -8300,6 +8300,12 @@ tools.jackson.module:jackson-module-osgi
 tools.jackson.module:jackson-module-scala_2.12
 tools.jackson.module:jackson-module-scala_2.13
 tools.jackson.module:jackson-module-scala_3
+tools.refinery.z3:refinery-z3-solver
+tools.refinery.z3:refinery-z3-solver-darwin-aarch64
+tools.refinery.z3:refinery-z3-solver-darwin-x86-64
+tools.refinery.z3:refinery-z3-solver-linux-aarch64
+tools.refinery.z3:refinery-z3-solver-linux-x86-64
+tools.refinery.z3:refinery-z3-solver-win32-x86-64
 us.ny.nyc.hope:deploytest
 us.ny.nyc.hope:testdeploy
 us.springett:alpine
