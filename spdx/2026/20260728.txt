@@ -1,0 +1,5 @@
+com/exasol/ci-isolation-aws/3.0.0/ci-isolation-aws-3.0.0-sbom.spdx
+com/exasol/database-cleaner/2.0.0/database-cleaner-2.0.0-sbom.spdx
+com/exasol/hamcrest-resultset-matcher/1.7.3/hamcrest-resultset-matcher-1.7.3-sbom.spdx
+com/exasol/telemetry-java/0.2.2/telemetry-java-0.2.2-sbom.spdx
+com/exasol/test-db-builder-java/4.0.2/test-db-builder-java-4.0.2-sbom.spdx

@@ -24145,3 +24145,25 @@ org/apache/maven/plugins/maven-toolchains-plugin/3.3.0/maven-toolchains-plugin-3
 org/apache/wicket/wicket-parent/10.10.0/wicket-parent-10.10.0.pom
 org/jpmml/jpmml-xgboost/1.9.9/jpmml-xgboost-1.9.9.pom
    from mvn: 1973 - non-mvn: 2551 - buildinfo: 0 - module: 2953 - gradle timestamp: 1929 - atlasdb: 0 = 0 release
+20260727
+dev/langchain4j/langchain4j-parent/1.11.9-beta19/langchain4j-parent-1.11.9-beta19.pom
+dev/langchain4j/langchain4j-parent/1.5.2-beta11/langchain4j-parent-1.5.2-beta11.pom
+digital/pragmatech/testing/spring-test-profiler/0.2.3/spring-test-profiler-0.2.3.pom
+io/airlift/airbase-policy/399/airbase-policy-399.pom
+io/airlift/airbase/399/airbase-399.pom
+io/cucumber/query/16.1.0/query-16.1.0.pom
+io/github/nikitoo0os/ghostwork-observability-parent/0.9.1/ghostwork-observability-parent-0.9.1.pom
+io/github/nikitoo0os/ghostwork-spring-webmvc/0.9.1/ghostwork-spring-webmvc-0.9.1.pom
+io/github/nikitoo0os/ghostwork-spring/0.9.1/ghostwork-spring-0.9.1.pom
+io/github/nikitoo0os/ghostwork/0.9.1/ghostwork-0.9.1.pom
+io/modularmonolith/modulith-rules-parent/0.2.0/modulith-rules-parent-0.2.0.pom
+io/streamnative/buildtools/4.0.10.9/buildtools-4.0.10.9.pom
+io/streamnative/pulsar-bom/4.0.10.9/pulsar-bom-4.0.10.9.pom
+io/streamnative/pulsar/4.0.10.9/pulsar-4.0.10.9.pom
+network/ike/docs/ike-docs/97/ike-docs-97.pom
+network/ike/platform/ike-platform/141/ike-platform-141.pom
+network/ike/platform/ike-platform/142/ike-platform-142.pom
+network/ike/platform/ike-platform/143/ike-platform-143.pom
+org/apache/activemq/activemq-parent/5.19.9/activemq-parent-5.19.9.pom
+org/eclipse/sisu/sisu-inject/1.1.0/sisu-inject-1.1.0.pom
+   from mvn: 5857 - non-mvn: 9997 - buildinfo: 0 - module: 7912 - gradle timestamp: 6754 - atlasdb: 0 = 0 release
