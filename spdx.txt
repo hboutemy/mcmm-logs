@@ -13,6 +13,7 @@ com.exasol:project-keeper-core
 com.exasol:project-keeper-java-project-crawler
 com.exasol:project-keeper-maven-plugin
 com.exasol:project-keeper-shared-model-classes
+com.exasol:spark-connector-common-java
 com.exasol:telemetry-java
 com.exasol:test-db-builder-java
 com.exasol:udf-api-java

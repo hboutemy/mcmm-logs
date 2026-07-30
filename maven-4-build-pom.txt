@@ -3003,3 +3003,10 @@ org/jline/jline/3.30.16/jline-3.30.16-build.pom
 20260727
 20260728
 com/flowlogix/flowlogix-bom/40/flowlogix-bom-40-build.pom
+20260729
+com/flowlogix/base-pom/132/base-pom-132-build.pom
+com/flowlogix/checkstyle/132/checkstyle-132-build.pom
+com/flowlogix/glassfish-pom/132/glassfish-pom-132-build.pom
+com/flowlogix/infra-pom/132/infra-pom-132-build.pom
+com/flowlogix/payara-pom/132/payara-pom-132-build.pom
+com/flowlogix/server-common/132/server-common-132-build.pom
