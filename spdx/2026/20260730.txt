@@ -1,0 +1,2 @@
+com/exasol/virtual-schema-shared-integration-tests/3.0.3/virtual-schema-shared-integration-tests-3.0.3-sbom.spdx
+commons-codec/commons-codec/1.22.1/commons-codec-1.22.1.spdx.json

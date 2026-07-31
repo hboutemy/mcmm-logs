@@ -5302,6 +5302,7 @@ org.eclipse.store:storage-restservice
 org.eclipse.store:storage-restservice-sparkjava
 org.eclipse.store:storage-restservice-springboot
 org.eclipse.store:store-parent
+org.eclipse.yasson:yasson
 org.eclipse:yasson
 org.fryske-akademy:CrudApi
 org.fryske-akademy:TeiLinguisticsFa

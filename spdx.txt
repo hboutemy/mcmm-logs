@@ -20,6 +20,7 @@ com.exasol:udf-api-java
 com.exasol:udf-debugging-java
 com.exasol:virtual-schema-common-document
 com.exasol:virtual-schema-common-document-files
+com.exasol:virtual-schema-shared-integration-tests
 com.github.mwiede:jsch
 com.hack23.cia:cia-dist-deb
 com.hack23.cia:citizen-intelligence-agency
