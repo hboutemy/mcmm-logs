@@ -24215,3 +24215,23 @@ org/dbunit/dbunit/3.4.0/dbunit-3.4.0.pom
 org/finos/legend/engine/legend-engine/4.137.0/legend-engine-4.137.0.pom
 org/metricshub/winrm-java/2.0.00/winrm-java-2.0.00.pom
    from mvn: 5365 - non-mvn: 5826 - buildinfo: 1 - module: 5398 - gradle timestamp: 3781 - atlasdb: 0 = 0 release
+20260730
+commons-codec/commons-codec/1.22.1/commons-codec-1.22.1.pom
+dev/flyfish/flyfish-validation-parent/1.0.0/flyfish-validation-parent-1.0.0.pom
+dev/flyfish/passguard-parent/2.1.0/passguard-parent-2.1.0.pom
+dev/flyfish/unilog-parent/2.0.0/unilog-parent-2.0.0.pom
+dev/nebulatoken/nebula-token/1.0.1/nebula-token-1.0.1.pom
+dev/stxt/stxt-core/0.5.2/stxt-core-0.5.2.pom
+eu/maveniverse/maven/scalpel/scalpel/0.3.8/scalpel-0.3.8.pom
+eu/maveniverse/maven/scalpel/scalpel/0.3.9/scalpel-0.3.9.pom
+io/avaje/avaje-http-parent/3.11-RC1/avaje-http-parent-3.11-RC1.pom
+io/avaje/openapi-maven-plugin/3.11-RC1/openapi-maven-plugin-3.11-RC1.pom
+io/jawk/jawk/7.0.00/jawk-7.0.00.pom
+io/repaint/maven/tiles-maven-plugin/2.45/tiles-maven-plugin-2.45.pom
+jakarta/agentic-ai/jakarta.agentic-ai-parent/1.0.0-M1/jakarta.agentic-ai-parent-1.0.0-M1.pom
+net/delopay/delopay-sdk/2.2.0/delopay-sdk-2.2.0.pom
+net/optionfactory/spring/optionfactory-spring/27.1/optionfactory-spring-27.1.pom
+org/apache/felix/maven-bundle-plugin/6.1.0/maven-bundle-plugin-6.1.0.pom
+org/apache/paimon/paimon-vector-index-java/0.3.0/paimon-vector-index-java-0.3.0.pom
+org/cyclonedx/cyclonedx-maven-plugin/2.9.3/cyclonedx-maven-plugin-2.9.3.pom
+   from mvn: 8804 - non-mvn: 9708 - buildinfo: 1 - module: 5851 - gradle timestamp: 4336 - atlasdb: 0 = 0 release

@@ -6,6 +6,7 @@ com.exasol:error-code-crawler-maven-plugin
 com.exasol:error-code-model-java
 com.exasol:exasol-test-setup-abstraction-java
 com.exasol:exasol-testcontainers
+com.exasol:exasol-virtual-schema
 com.exasol:hamcrest-resultset-matcher
 com.exasol:import-export-udf-common-scala
 com.exasol:project-keeper-cli

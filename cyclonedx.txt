@@ -8222,6 +8222,14 @@ run.ratchet:ratchet-encryption
 run.ratchet:ratchet-micrometer
 run.ratchet:ratchet-otel
 run.ratchet:ratchet-parent
+run.ratchet:ratchet-quarkus
+run.ratchet:ratchet-quarkus-core
+run.ratchet:ratchet-quarkus-core-deployment
+run.ratchet:ratchet-quarkus-deployment
+run.ratchet:ratchet-quarkus-mongodb
+run.ratchet:ratchet-quarkus-mongodb-deployment
+run.ratchet:ratchet-quarkus-parent
+run.ratchet:ratchet-security-jakarta
 run.ratchet:ratchet-store-core
 run.ratchet:ratchet-store-mongodb
 run.ratchet:ratchet-store-mysql

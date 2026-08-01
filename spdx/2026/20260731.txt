@@ -1,0 +1,2 @@
+com/exasol/exasol-virtual-schema/9.0.2/exasol-virtual-schema-9.0.2-sbom.spdx
+commons-validator/commons-validator/1.11.0/commons-validator-1.11.0.spdx.json
