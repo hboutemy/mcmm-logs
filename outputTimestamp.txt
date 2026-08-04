@@ -24327,3 +24327,31 @@ org/apache/plc4x/plugins/plc4x-code-generation/1.9.0/plc4x-code-generation-1.9.0
 org/apache/plc4x/plugins/plc4x-code-generation/1.9.0/plc4x-code-generation-1.9.0-build.pom
 org/apache/stormcrawler/stormcrawler/3.7.0/stormcrawler-3.7.0.pom
    from mvn: 1176 - non-mvn: 2455 - buildinfo: 1 - module: 2937 - gradle timestamp: 1947 - atlasdb: 0 = 0 release
+20260802
+com/flowlogix/checkstyle/133/checkstyle-133-build.pom
+com/flowlogix/infra-pom/133/infra-pom-133-build.pom
+com/flowlogix/infra-pom/133/infra-pom-133.pom
+com/github/hazendaz/httpunit/httpunit/1.18.0/httpunit-1.18.0.pom
+com/github/hazendaz/httpunit/httpunit/2.7.0/httpunit-2.7.0.pom
+fr/inria/gforge/spoon/spoon-pom/11.5.1-beta-3/spoon-pom-11.5.1-beta-3.pom
+io/github/chains-project/maven-lockfile/5.17.4-beta-1/maven-lockfile-5.17.4-beta-1.pom
+io/github/ghosthack/libvips-ffm-parent/8.18.3-0.1.0/libvips-ffm-parent-8.18.3-0.1.0.pom
+io/github/ghosthack/libvips-ffm-parent/8.18.3-0.1.1/libvips-ffm-parent-8.18.3-0.1.1.pom
+io/github/ghosthack/libvips-ffm-parent/8.18.3-0.1.2/libvips-ffm-parent-8.18.3-0.1.2.pom
+io/github/ghosthack/libvips-ffm-parent/8.18.3-0.1.3/libvips-ffm-parent-8.18.3-0.1.3.pom
+io/github/khopland/xsd/validation/xsd-validator/0.1.1/xsd-validator-0.1.1.pom
+io/github/xfoundries/jfoundry-dependencies/1.0.0/jfoundry-dependencies-1.0.0.pom
+io/github/xfoundries/jfoundry-foundation-dependencies/1.0.0/jfoundry-foundation-dependencies-1.0.0.pom
+io/github/xfoundries/jfoundry-helidon-dependencies/1.0.0/jfoundry-helidon-dependencies-1.0.0.pom
+io/github/xfoundries/jfoundry-modules-dependencies/1.0.0/jfoundry-modules-dependencies-1.0.0.pom
+io/github/xfoundries/jfoundry-parent/1.0.0/jfoundry-parent-1.0.0.pom
+io/github/xfoundries/jfoundry-quarkus-dependencies/1.0.0/jfoundry-quarkus-dependencies-1.0.0.pom
+io/github/xfoundries/jfoundry-spring-dependencies/1.0.0/jfoundry-spring-dependencies-1.0.0.pom
+io/paymos/paymos-java/1.1.0/paymos-java-1.1.0.pom
+io/paymos/paymos-java/1.1.1/paymos-java-1.1.1.pom
+io/paymos/paymos-java/1.1.2/paymos-java-1.1.2.pom
+io/streamnative/buildtools/4.0.12.1/buildtools-4.0.12.1.pom
+io/streamnative/pulsar-bom/4.0.12.1/pulsar-bom-4.0.12.1.pom
+io/streamnative/pulsar/4.0.12.1/pulsar-4.0.12.1.pom
+org/objenesis/objenesis-parent/3.6/objenesis-parent-3.6.pom
+   from mvn: 1665 - non-mvn: 2227 - buildinfo: 0 - module: 2528 - gradle timestamp: 1761 - atlasdb: 0 = 0 release

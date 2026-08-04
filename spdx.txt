@@ -9,6 +9,7 @@ com.exasol:exasol-testcontainers
 com.exasol:exasol-virtual-schema
 com.exasol:hamcrest-resultset-matcher
 com.exasol:import-export-udf-common-scala
+com.exasol:parquet-io-java
 com.exasol:project-keeper-cli
 com.exasol:project-keeper-core
 com.exasol:project-keeper-java-project-crawler
@@ -21,6 +22,8 @@ com.exasol:udf-api-java
 com.exasol:udf-debugging-java
 com.exasol:virtual-schema-common-document
 com.exasol:virtual-schema-common-document-files
+com.exasol:virtual-schema-common-java
+com.exasol:virtual-schema-common-jdbc
 com.exasol:virtual-schema-shared-integration-tests
 com.github.mwiede:jsch
 com.hack23.cia:cia-dist-deb

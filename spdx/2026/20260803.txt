@@ -1,0 +1,5 @@
+com/exasol/parquet-io-java/2.1.0/parquet-io-java-2.1.0-sbom.spdx
+com/exasol/virtual-schema-common-document/12.1.0/virtual-schema-common-document-12.1.0-sbom.spdx
+com/exasol/virtual-schema-common-java/18.0.4/virtual-schema-common-java-18.0.4-sbom.spdx
+com/exasol/virtual-schema-common-jdbc/14.0.5/virtual-schema-common-jdbc-14.0.5-sbom.spdx
+org/opendaylight/odlparent/odlparent-sbom-14.3.7.spdx

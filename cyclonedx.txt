@@ -1794,6 +1794,7 @@ io.dropwizard:dropwizard-validation
 io.dropwizard:dropwizard-views
 io.dropwizard:dropwizard-views-freemarker
 io.dropwizard:dropwizard-views-mustache
+io.fluxzero:lychee-maven-plugin
 io.github.amadeusitgroup.maven.wagon:ghrelasset-wagon
 io.github.arun0009:pulse-spring-boot-starter
 io.github.chains-project:maven-lockfile
