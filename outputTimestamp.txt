@@ -24355,3 +24355,35 @@ io/streamnative/pulsar-bom/4.0.12.1/pulsar-bom-4.0.12.1.pom
 io/streamnative/pulsar/4.0.12.1/pulsar-4.0.12.1.pom
 org/objenesis/objenesis-parent/3.6/objenesis-parent-3.6.pom
    from mvn: 1665 - non-mvn: 2227 - buildinfo: 0 - module: 2528 - gradle timestamp: 1761 - atlasdb: 0 = 0 release
+20260803
+com/pyranid/pyranid-otel/1.3.0/pyranid-otel-1.3.0.pom
+com/pyranid/pyranid/4.6.0/pyranid-4.6.0.pom
+de/seitenbau/serviceportal/prozess-scripting-api/1.213.2/prozess-scripting-api-1.213.2.pom
+digital/pragmatech/testing/spring-test-profiler/0.3.0/spring-test-profiler-0.3.0.pom
+eu/maveniverse/maven/mwm/mwm/0.1.0/mwm-0.1.0.pom
+eu/rekawek/coffeegb/coffee-gb/2.0.0/coffee-gb-2.0.0.pom
+eu/rekawek/coffeegb/swing/2.0.0/swing-2.0.0.pom
+io/avaje/avaje-jsonb-parent/3.15-RC3/avaje-jsonb-parent-3.15-RC3.pom
+io/fluxzero/lychee-maven-plugin/0.2.7/lychee-maven-plugin-0.2.7.pom
+io/github/aaabramov/glogging/0.1.2/glogging-0.1.2.pom
+io/github/aaabramov/glogging/0.2.0/glogging-0.2.0.pom
+io/github/chomingi/langfuse-otel-java/0.2.0/langfuse-otel-java-0.2.0.pom
+io/github/j-util/reduction-store-processor/1.0.0/reduction-store-processor-1.0.0.pom
+io/github/j-util/reduction-store/1.0.0/reduction-store-1.0.0.pom
+io/swagger/core/v3/swagger-project-jakarta/2.2.53/swagger-project-jakarta-2.2.53.pom
+io/swagger/core/v3/swagger-project/2.2.53/swagger-project-2.2.53.pom
+io/telicent/jena/rdf-abac/3.1.5/rdf-abac-3.1.5.pom
+org/apache/maven/maven/4.0.0-rc-6/maven-4.0.0-rc-6.pom
+org/apache/nifi/nifi/2.11.0/nifi-2.11.0.pom
+org/apache/pulsar/buildtools/4.0.13/buildtools-4.0.13.pom
+org/apache/pulsar/buildtools/4.2.4/buildtools-4.2.4.pom
+org/apache/pulsar/pulsar-bom/4.0.13/pulsar-bom-4.0.13.pom
+org/apache/pulsar/pulsar-bom/4.2.4/pulsar-bom-4.2.4.pom
+org/apache/pulsar/pulsar/4.0.13/pulsar-4.0.13.pom
+org/apache/pulsar/pulsar/4.2.4/pulsar-4.2.4.pom
+org/finos/legend/engine/legend-engine/4.138.0/legend-engine-4.138.0.pom
+org/glassfish/main/glassfish-main-aggregator/8.0.4/glassfish-main-aggregator-8.0.4.pom
+org/glassfish/main/nucleus-parent/8.0.4/nucleus-parent-8.0.4.pom
+org/owasp/dependency-check-parent/13.0.0/dependency-check-parent-13.0.0.pom
+org/owasp/dependency-check-plugin/13.0.0/dependency-check-plugin-13.0.0.pom
+   from mvn: 6028 - non-mvn: 6463 - buildinfo: 1 - module: 6566 - gradle timestamp: 4456 - atlasdb: 0 = 0 release

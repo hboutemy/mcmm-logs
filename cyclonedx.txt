@@ -381,9 +381,11 @@ build.jenesis:build.jenesis.repository.importer.maven
 build.jenesis:build.jenesis.repository.importer.nexus
 build.jenesis:build.jenesis.repository.observation
 build.jenesis:build.jenesis.repository.oidc
+build.jenesis:build.jenesis.repository.posture
 build.jenesis:build.jenesis.repository.proxy
 build.jenesis:build.jenesis.repository.ratelimit
 build.jenesis:build.jenesis.repository.server
+build.jenesis:build.jenesis.repository.server.spi
 build.jenesis:build.jenesis.repository.store
 build.jenesis:build.jenesis.repository.store.azure
 build.jenesis:build.jenesis.repository.store.filesystem
@@ -448,6 +450,7 @@ com.buschmais.jqassistant.plugin:maven3
 com.buschmais.jqassistant.plugin:parent
 com.buschmais.jqassistant.plugin:xml
 com.buschmais.jqassistant.plugin:yaml2
+com.codbex.gaia:codbex-gaia-application
 com.duosecurity:duo-client
 com.duosecurity:duo-universal-sdk
 com.engine:protoc-gen-markdown
@@ -3353,6 +3356,7 @@ org.apache.groovy:groovy-ant
 org.apache.groovy:groovy-astbuilder
 org.apache.groovy:groovy-binary
 org.apache.groovy:groovy-bom
+org.apache.groovy:groovy-callsite
 org.apache.groovy:groovy-cli-commons
 org.apache.groovy:groovy-cli-picocli
 org.apache.groovy:groovy-concurrent-java
@@ -4953,6 +4957,7 @@ org.eclipse.angus:smtp
 org.eclipse.csi:codesign-api
 org.eclipse.csi:codesign-cli
 org.eclipse.csi:codesign-maven-plugin
+org.eclipse.dirigible:dirigible-application
 org.eclipse.ecsp.vehicle-profile:vehicle-profile
 org.eclipse.ecsp.vehicle-profile:vehicle-profile-api
 org.eclipse.ecsp.vehicle-profile:vehicle-profile-commons

@@ -1,0 +1,8 @@
+com/exasol/sql-statement-builder/4.6.2/sql-statement-builder-4.6.2-sbom.spdx
+com/exasol/virtual-schema-common-document-files/9.1.0/virtual-schema-common-document-files-9.1.0-sbom.spdx
+org/opendaylight/ietf/ietf-sbom-2.0.4.spdx
+org/opendaylight/ietf/ietf-sbom-1.0.6.spdx
+org/opendaylight/infrautils/infrautils-sbom-7.1.14.spdx
+org/opendaylight/mdsal/mdsal-sbom-14.0.22.spdx
+org/opendaylight/yangtools/yangtools-sbom-15.1.4.spdx
+org/opendaylight/yangtools/yangtools-sbom-14.0.25.spdx
