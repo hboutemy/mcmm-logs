@@ -24387,3 +24387,24 @@ org/glassfish/main/nucleus-parent/8.0.4/nucleus-parent-8.0.4.pom
 org/owasp/dependency-check-parent/13.0.0/dependency-check-parent-13.0.0.pom
 org/owasp/dependency-check-plugin/13.0.0/dependency-check-plugin-13.0.0.pom
    from mvn: 6028 - non-mvn: 6463 - buildinfo: 1 - module: 6566 - gradle timestamp: 4456 - atlasdb: 0 = 0 release
+20260804
+codes/ivanov/ephpo/0.1.1/ephpo-0.1.1.pom
+com/flowlogix/checkstyle/134/checkstyle-134-build.pom
+com/flowlogix/infra-pom/134/infra-pom-134-build.pom
+com/flowlogix/infra-pom/134/infra-pom-134.pom
+dev/nebulatoken/nebula-token/1.0.2/nebula-token-1.0.2.pom
+eu/maveniverse/maven/parent/parent/58/parent-58.pom
+eu/maveniverse/maven/parent/parent/59/parent-59.pom
+io/github/aaabramov/glogging/0.3.0/glogging-0.3.0.pom
+io/github/ezraio/thrift-annotation-lint/0.2.3/thrift-annotation-lint-0.2.3.pom
+io/quarkus/quarkus-parent/3.27.5.1/quarkus-parent-3.27.5.1.pom
+io/quarkus/quarkus-parent/3.33.3.1/quarkus-parent-3.33.3.1.pom
+io/quarkus/quarkus-parent/3.38.1/quarkus-parent-3.38.1.pom
+org/apache/qpid/proton-j-parent/0.35.0/proton-j-parent-0.35.0.pom
+org/apache/qpid/protonj2-parent/1.2.0/protonj2-parent-1.2.0.pom
+org/apache/sling/org.apache.sling.resourceresolver/1.12.16/org.apache.sling.resourceresolver-1.12.16.pom
+org/eclipse/jetty/jetty-project/12.0.38/jetty-project-12.0.38.pom
+org/eclipse/jetty/jetty-project/12.1.12/jetty-project-12.1.12.pom
+org/finos/legend/engine/legend-engine/4.138.1/legend-engine-4.138.1.pom
+org/jopenagent/jopenagent/1.0.0/jopenagent-1.0.0.pom
+   from mvn: 8845 - non-mvn: 8028 - buildinfo: 0 - module: 6601 - gradle timestamp: 5360 - atlasdb: 0 = 0 release
