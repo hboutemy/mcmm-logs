@@ -1,0 +1,1 @@
+io/github/microcks/microcks-testcontainers/0.5.0/microcks-testcontainers-0.5.0.spdx.json

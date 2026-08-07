@@ -3058,3 +3058,10 @@ com/flowlogix/infra-pom/134/infra-pom-134-build.pom
 com/flowlogix/payara-pom/134/payara-pom-134-build.pom
 com/flowlogix/server-common/134/server-common-134-build.pom
 20260805
+20260806
+com/flowlogix/archetypes/starter/141/starter-141-build.pom
+com/flowlogix/depchain/depchain/129/depchain-129-build.pom
+com/flowlogix/depchain/integration-test-ng/129/integration-test-ng-129-build.pom
+com/flowlogix/depchain/integration-test/129/integration-test-129-build.pom
+com/flowlogix/depchain/shiro-jakarta/129/shiro-jakarta-129-build.pom
+com/flowlogix/depchain/unit-test/129/unit-test-129-build.pom

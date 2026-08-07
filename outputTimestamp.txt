@@ -24408,3 +24408,27 @@ org/eclipse/jetty/jetty-project/12.1.12/jetty-project-12.1.12.pom
 org/finos/legend/engine/legend-engine/4.138.1/legend-engine-4.138.1.pom
 org/jopenagent/jopenagent/1.0.0/jopenagent-1.0.0.pom
    from mvn: 8845 - non-mvn: 8028 - buildinfo: 0 - module: 6601 - gradle timestamp: 5360 - atlasdb: 0 = 0 release
+20260805
+codes/ivanov/ephpo/1.0.0/ephpo-1.0.0.pom
+com/kohlschutter/kohlschutter-parent/1.8.7/kohlschutter-parent-1.8.7.pom
+dev/flyfish/unilog-parent/2.2.1/unilog-parent-2.2.1.pom
+eu/maveniverse/maven/toolbox/toolbox/0.15.16/toolbox-0.15.16.pom
+io/avaje/avaje-inject-parent/12.7-RC2/avaje-inject-parent-12.7-RC2.pom
+io/cucumber/ci-environment/15.0.0/ci-environment-15.0.0.pom
+io/cucumber/compatibility-kit/30.0.0/compatibility-kit-30.0.0.pom
+io/cucumber/cucumber-expressions/20.1.0/cucumber-expressions-20.1.0.pom
+io/cucumber/gherkin-utils/12.0.2/gherkin-utils-12.0.2.pom
+io/cucumber/gherkin/42.0.1/gherkin-42.0.1.pom
+io/cucumber/html-formatter/24.1.1/html-formatter-24.1.1.pom
+io/cucumber/junit-xml-formatter/0.14.1/junit-xml-formatter-0.14.1.pom
+io/cucumber/messages-ndjson/0.5.2/messages-ndjson-0.5.2.pom
+io/cucumber/messages/34.2.1/messages-34.2.1.pom
+io/cucumber/query/16.1.1/query-16.1.1.pom
+io/cucumber/tag-expressions/11.0.1/tag-expressions-11.0.1.pom
+io/cucumber/testng-xml-formatter/0.8.3/testng-xml-formatter-0.8.3.pom
+io/github/ezraio/thrift-annotation-lint/0.2.4/thrift-annotation-lint-0.2.4.pom
+net/optionfactory/spring/optionfactory-spring/27.3/optionfactory-spring-27.3.pom
+org/audit-fabric/audit-fabric-sdk/0.1.0-GA/audit-fabric-sdk-0.1.0-GA.pom
+org/cyclonedx/cyclonedx-core-java/13.1.0/cyclonedx-core-java-13.1.0.pom
+org/finos/legend/engine/legend-engine/4.138.2/legend-engine-4.138.2.pom
+   from mvn: 6286 - non-mvn: 8534 - buildinfo: 1 - module: 8196 - gradle timestamp: 6217 - atlasdb: 0 = 0 release

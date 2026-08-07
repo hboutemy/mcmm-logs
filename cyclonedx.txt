@@ -365,6 +365,7 @@ au.com.acegi:xml-format-maven-plugin
 build.jenesis:build.jenesis
 build.jenesis:build.jenesis.crawler
 build.jenesis:build.jenesis.repository.bundle
+build.jenesis:build.jenesis.repository.contract.testkit
 build.jenesis:build.jenesis.repository.format
 build.jenesis:build.jenesis.repository.format.java
 build.jenesis:build.jenesis.repository.format.jenesis
@@ -450,6 +451,7 @@ com.buschmais.jqassistant.plugin:maven3
 com.buschmais.jqassistant.plugin:parent
 com.buschmais.jqassistant.plugin:xml
 com.buschmais.jqassistant.plugin:yaml2
+com.codbex.atlas:codbex-atlas-application
 com.codbex.gaia:codbex-gaia-application
 com.duosecurity:duo-client
 com.duosecurity:duo-universal-sdk
@@ -8269,6 +8271,7 @@ se.deversity.async-test-lib:async-test-analysis
 se.deversity.async-test-lib:async-test-lib
 se.deversity.async-test-lib:async-test-parent
 se.deversity.common:common-license-lib
+se.deversity.vibetags:vibetags-processor
 tech.pantheon.triemap:bom
 tech.pantheon.triemap:pt-triemap
 tech.pantheon.triemap:triemap
