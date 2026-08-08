@@ -24432,3 +24432,27 @@ org/audit-fabric/audit-fabric-sdk/0.1.0-GA/audit-fabric-sdk-0.1.0-GA.pom
 org/cyclonedx/cyclonedx-core-java/13.1.0/cyclonedx-core-java-13.1.0.pom
 org/finos/legend/engine/legend-engine/4.138.2/legend-engine-4.138.2.pom
    from mvn: 6286 - non-mvn: 8534 - buildinfo: 1 - module: 8196 - gradle timestamp: 6217 - atlasdb: 0 = 0 release
+20260806
+at/yawk/lz4/lz4-java/1.11.2/lz4-java-1.11.2.pom
+com/hibegin/zrlog-base/3.5.9/zrlog-base-3.5.9.pom
+dev/cjfravel/ariadne-spark35_2.12/0.1.7-beta/ariadne-spark35_2.12-0.1.7-beta.pom
+dev/cjfravel/ariadne-spark41_2.13/0.1.7-beta/ariadne-spark41_2.13-0.1.7-beta.pom
+dev/nebulatoken/nebula-token/1.0.3/nebula-token-1.0.3.pom
+io/airlift/airbase-policy/400/airbase-policy-400.pom
+io/airlift/airbase/400/airbase-400.pom
+io/github/cbarlin/aru-parent/0.11.0/aru-parent-0.11.0.pom
+io/github/cbarlin/aru-parent/0.11.1/aru-parent-0.11.1.pom
+io/github/xfoundries/jfoundry-dependencies/1.0.1/jfoundry-dependencies-1.0.1.pom
+io/github/xfoundries/jfoundry-foundation-dependencies/1.0.1/jfoundry-foundation-dependencies-1.0.1.pom
+io/github/xfoundries/jfoundry-helidon-dependencies/1.0.1/jfoundry-helidon-dependencies-1.0.1.pom
+io/github/xfoundries/jfoundry-modules-dependencies/1.0.1/jfoundry-modules-dependencies-1.0.1.pom
+io/github/xfoundries/jfoundry-parent/1.0.1/jfoundry-parent-1.0.1.pom
+io/github/xfoundries/jfoundry-quarkus-dependencies/1.0.1/jfoundry-quarkus-dependencies-1.0.1.pom
+io/github/xfoundries/jfoundry-spring-boot-parent/1.0.0/jfoundry-spring-boot-parent-1.0.0.pom
+io/github/xfoundries/jfoundry-spring-boot-parent/1.0.1/jfoundry-spring-boot-parent-1.0.1.pom
+io/github/xfoundries/jfoundry-spring-dependencies/1.0.1/jfoundry-spring-dependencies-1.0.1.pom
+org/apache/jackrabbit/jackrabbit-parent/2.22.4/jackrabbit-parent-2.22.4.pom
+org/apache/maven/resolver/maven-resolver-ant-tasks/2.0.0/maven-resolver-ant-tasks-2.0.0.pom
+org/audit-fabric/audit-fabric-sdk/0.1.1-R1/audit-fabric-sdk-0.1.1-R1.pom
+org/pijota/pijota/0.2.0/pijota-0.2.0.pom
+   from mvn: 3976 - non-mvn: 6214 - buildinfo: 0 - module: 6674 - gradle timestamp: 4626 - atlasdb: 0 = 0 release

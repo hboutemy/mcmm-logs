@@ -1432,6 +1432,7 @@ com.yahoo.athenz:athenz-msd-core
 com.yahoo.athenz:athenz-msd-java-client
 com.yahoo.athenz:athenz-server-aws-common
 com.yahoo.athenz:athenz-server-common
+com.yahoo.athenz:athenz-server-gcp-common
 com.yahoo.athenz:athenz-server-k8s-common
 com.yahoo.athenz:athenz-server-msg-pulsar
 com.yahoo.athenz:athenz-server-notification-slack
@@ -8194,6 +8195,7 @@ org.pitest:pitest-maven
 org.pitest:pitest-parent
 org.primefaces.extensions:primefaces-extensions
 org.primefaces:primefaces
+org.security4media:pgp-keys-map
 org.seleniumhq.selenium:htmlunit3-driver
 org.sonarsource.dummy:sonar-dummy-gradle-oss-plugin
 org.sonarsource.dummy:sonar-dummy-oss-plugin
