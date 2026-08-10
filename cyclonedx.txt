@@ -397,6 +397,7 @@ build.jenesis:build.jenesis.repository.ui
 build.jenesis:build.jenesis.repository.usage
 build.jenesis:build.jenesis.repository.walk
 build.jenesis:build.jenesis.repository.walk.store
+ch.vautherin:valhalla
 co.pango:sdk-core
 co.pango:sdk-hydra
 co.pango:sdk-openvpn
@@ -1828,6 +1829,8 @@ io.github.ggomarighetti:rsql-jpa-search-perplexhub
 io.github.ggomarighetti:rsql-jpa-search-rsql-spi
 io.github.ggomarighetti:rsql-jpa-search-spring-boot-starter
 io.github.giulong:spectrum
+io.github.java-helpers:simple-builders-core
+io.github.java-helpers:simple-builders-processor
 io.github.luigidemasi:jsch
 io.github.lutzseverino.cardo:authorization
 io.github.lutzseverino.cardo:authorization-keycloak-client
