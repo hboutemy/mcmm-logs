@@ -24539,3 +24539,27 @@ org/codehaus/plexus/plexus/26/plexus-26.pom
 org/dkpro/dkpro-parent-pom/38/dkpro-parent-pom-38.pom
 wtf/metio/yosql/yosql/2026.8.8/yosql-2026.8.8.pom
    from mvn: 2182 - non-mvn: 3083 - buildinfo: 1 - module: 3659 - gradle timestamp: 2402 - atlasdb: 0 = 0 release
+20260809
+com/google/mug/mug-bigquery/10.8.1/mug-bigquery-10.8.1.pom
+com/google/mug/mug-bom/10.8.1/mug-bom-10.8.1.pom
+com/google/mug/mug-concurrent-testing/10.8.1/mug-concurrent-testing-10.8.1.pom
+com/google/mug/mug-concurrent24/10.8.1/mug-concurrent24-10.8.1.pom
+com/google/mug/mug-errorprone/10.8.1/mug-errorprone-10.8.1.pom
+com/google/mug/mug-guava/10.8.1/mug-guava-10.8.1.pom
+com/google/mug/mug-protobuf/10.8.1/mug-protobuf-10.8.1.pom
+com/google/mug/mug-root/10.8.1/mug-root-10.8.1.pom
+com/google/mug/mug-safesql/10.8.1/mug-safesql-10.8.1.pom
+com/google/mug/mug-spanner/10.8.1/mug-spanner-10.8.1.pom
+com/google/mug/mug/10.8.1/mug-10.8.1.pom
+fr/inria/gforge/spoon/spoon-pom/11.5.1-beta-4/spoon-pom-11.5.1-beta-4.pom
+io/fabric8/docker-maven-plugin/0.49.0/docker-maven-plugin-0.49.0.pom
+io/github/chains-project/maven-lockfile/5.17.4-beta-2/maven-lockfile-5.17.4-beta-2.pom
+io/github/ghosthack/media-inspection-parent/0.4.0/media-inspection-parent-0.4.0.pom
+io/github/java-helpers/simple-builders-core/0.5.0/simple-builders-core-0.5.0.pom
+io/github/java-helpers/simple-builders-processor/0.5.0/simple-builders-processor-0.5.0.pom
+io/github/nasa-runtime/nasa-core/1.0.1/nasa-core-1.0.1.pom
+io/streamnative/buildtools/4.0.12.2/buildtools-4.0.12.2.pom
+io/streamnative/pulsar-bom/4.0.12.2/pulsar-bom-4.0.12.2.pom
+io/streamnative/pulsar/4.0.12.2/pulsar-4.0.12.2.pom
+one/nextera/openat/javelle/javelle/0.2.2/javelle-0.2.2.pom
+   from mvn: 2185 - non-mvn: 2639 - buildinfo: 0 - module: 2567 - gradle timestamp: 1831 - atlasdb: 0 = 0 release

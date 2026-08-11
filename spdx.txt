@@ -256,6 +256,7 @@ org.frankframework:frankframework-tibco
 org.frankframework:frankframework-webapp
 org.frankframework:property-expression-evaluator
 org.ikasan:commons-dbcp2
+org.itsallcode:openfasttrace-maven-plugin
 org.jetbrains.kotlin:abi-tools
 org.jetbrains.kotlin:abi-tools-api
 org.jetbrains.kotlin:abi-tools-embeddable

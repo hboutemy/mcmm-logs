@@ -1,0 +1,4 @@
+org/apache/commons/commons-collections4/4.6.0/commons-collections4-4.6.0.spdx.json
+org/itsallcode/openfasttrace-maven-plugin/3.0.0/openfasttrace-maven-plugin-3.0.0-sbom.spdx
+org/itsallcode/openfasttrace-maven-plugin/3.0.0/openfasttrace-maven-plugin-3.0.0.spdx.json
+org/opendaylight/controller/controller-sbom-11.0.5.spdx

@@ -1493,6 +1493,10 @@ de.frachtwerk:essencium-backend-sequence-model
 de.frachtwerk:essencium-backend-storage-module
 de.frachtwerk:essencium-backend-uuid-model
 de.gematik.demis:spring-parent
+de.hilling.lang.metamodel:api
+de.hilling.lang.metamodel:integration-tests
+de.hilling.lang.metamodel:metamodel-generator
+de.hilling.lang.metamodel:processor
 de.javatux.jfortune:jfortune
 de.jfachwert:bank
 de.jfachwert:core
