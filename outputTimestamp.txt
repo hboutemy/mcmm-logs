@@ -24563,3 +24563,33 @@ io/streamnative/pulsar-bom/4.0.12.2/pulsar-bom-4.0.12.2.pom
 io/streamnative/pulsar/4.0.12.2/pulsar-4.0.12.2.pom
 one/nextera/openat/javelle/javelle/0.2.2/javelle-0.2.2.pom
    from mvn: 2185 - non-mvn: 2639 - buildinfo: 0 - module: 2567 - gradle timestamp: 1831 - atlasdb: 0 = 0 release
+20260810
+be/imgn/parent/parent/2026-08-02/parent-2026-08-02.pom
+berlin/yuna/and-wait-matcher/2026.8.10/and-wait-matcher-2026.8.10.pom
+berlin/yuna/command-line-util/2026.8.10/command-line-util-2026.8.10.pom
+berlin/yuna/config-metadata-generator/2026.8.10/config-metadata-generator-2026.8.10.pom
+berlin/yuna/csv-streamer/2026.8.10/csv-streamer-2026.8.10.pom
+berlin/yuna/just-log/2026.8.10/just-log-2026.8.10.pom
+berlin/yuna/streamline/2026.8.10/streamline-2026.8.10.pom
+berlin/yuna/surveys/2026.8.10/surveys-2026.8.10.pom
+berlin/yuna/type-map/2026.8.10/type-map-2026.8.10.pom
+berlin/yuna/wiser-unit/2026.8.10/wiser-unit-2026.8.10.pom
+com/kohlschutter/junixsocket/junixsocket-native/2.11.0/junixsocket-native-2.11.0.pom
+dev/stxt/stxt-core/0.5.4/stxt-core-0.5.4.pom
+dev/stxt/stxt-core/0.6.0/stxt-core-0.6.0.pom
+eu/maveniverse/maven/nisse/nisse/0.9.5/nisse-0.9.5.pom
+eu/maveniverse/maven/parent/parent/60/parent-60.pom
+eu/maveniverse/maven/parent/parent/61/parent-61.pom
+eu/maveniverse/maven/parent/parent/62/parent-62.pom
+eu/rekawek/coffeegb/coffee-gb/2.0.1/coffee-gb-2.0.1.pom
+eu/rekawek/coffeegb/swing/2.0.1/swing-2.0.1.pom
+io/atlasarc/atlasarc-ci-parent/1.4.1/atlasarc-ci-parent-1.4.1.pom
+io/roastedroot/inlay-parent/0.0.1/inlay-parent-0.0.1.pom
+io/telicent/smart-caches/graph/scg-base/1.1.1/scg-base-1.1.1.pom
+network/ike/platform/ike-platform/150/ike-platform-150.pom
+org/apache/activemq/activemq-parent/5.19.10/activemq-parent-5.19.10.pom
+org/apache/commons/commons-collections4/4.6.0/commons-collections4-4.6.0.pom
+org/itsallcode/openfasttrace-maven-plugin/3.0.0/openfasttrace-maven-plugin-3.0.0.pom
+org/jpmml/jpmml-sklearn/1.9.40/jpmml-sklearn-1.9.40.pom
+world/convex/convex/0.8.11/convex-0.8.11.pom
+   from mvn: 6679 - non-mvn: 6458 - buildinfo: 0 - module: 5532 - gradle timestamp: 3540 - atlasdb: 0 = 0 release

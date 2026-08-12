@@ -418,6 +418,7 @@ codes.domix:fun-spring
 codes.domix:fun-spring-boot
 codes.domix:fun-spring-webflux
 codes.domix:fun-tracing
+com.antepod:taffy4j
 com.arcmutate:arcmutate-base-parent
 com.arcmutate:arcmutate-licence-lib
 com.arcmutate:arcmutate-spring
@@ -1341,6 +1342,7 @@ com.oracle.database.graph:opg-client
 com.oracle.database.graph:opg-graph-importer
 com.oracle.database.graph:opg-pgql-jdbc
 com.oracle.database.graph:opg-pgx-jdbc
+com.peak-solution:openatfx
 com.siemens.pki:CmpRaComponent
 com.soartech:jsoar
 com.soartech:jsoar-core
@@ -2561,6 +2563,7 @@ network.ike.platform:ike-bom
 network.ike.platform:ike-parent
 network.ike.platform:ike-platform
 network.ike.platform:ike-workspace-maven-plugin
+network.ike.tooling:ike-build-report-extension
 network.ike.tooling:ike-build-standards
 network.ike.tooling:ike-java-support
 network.ike.tooling:ike-knowledge-spi
