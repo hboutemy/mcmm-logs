@@ -24593,3 +24593,34 @@ org/itsallcode/openfasttrace-maven-plugin/3.0.0/openfasttrace-maven-plugin-3.0.0
 org/jpmml/jpmml-sklearn/1.9.40/jpmml-sklearn-1.9.40.pom
 world/convex/convex/0.8.11/convex-0.8.11.pom
    from mvn: 6679 - non-mvn: 6458 - buildinfo: 0 - module: 5532 - gradle timestamp: 3540 - atlasdb: 0 = 0 release
+20260811
+ch/qos/logback/logback-parent/1.6.2/logback-parent-1.6.2.pom
+dev/langchain4j/langchain4j-parent/1.11.11-beta19/langchain4j-parent-1.11.11-beta19.pom
+eu/rekawek/coffeegb/coffee-gb/2.0.2/coffee-gb-2.0.2.pom
+eu/rekawek/coffeegb/swing/2.0.2/swing-2.0.2.pom
+io/fluxzero/lychee-maven-plugin/0.2.8/lychee-maven-plugin-0.2.8.pom
+io/github/xfoundries/jfoundry-dependencies/1.0.2/jfoundry-dependencies-1.0.2.pom
+io/github/xfoundries/jfoundry-foundation-dependencies/1.0.2/jfoundry-foundation-dependencies-1.0.2.pom
+io/github/xfoundries/jfoundry-helidon-dependencies/1.0.2/jfoundry-helidon-dependencies-1.0.2.pom
+io/github/xfoundries/jfoundry-modules-dependencies/1.0.2/jfoundry-modules-dependencies-1.0.2.pom
+io/github/xfoundries/jfoundry-parent/1.0.2/jfoundry-parent-1.0.2.pom
+io/github/xfoundries/jfoundry-quarkus-dependencies/1.0.2/jfoundry-quarkus-dependencies-1.0.2.pom
+io/github/xfoundries/jfoundry-spring-boot-parent/1.0.2/jfoundry-spring-boot-parent-1.0.2.pom
+io/github/xfoundries/jfoundry-spring-dependencies/1.0.2/jfoundry-spring-dependencies-1.0.2.pom
+io/javalin/javalin-parent/7.2.3/javalin-parent-7.2.3.pom
+network/ike/docs/ike-docs/102/ike-docs-102.pom
+network/ike/platform/ike-platform/151/ike-platform-151.pom
+network/ike/platform/ike-platform/152/ike-platform-152.pom
+network/ike/platform/ike-platform/153/ike-platform-153.pom
+network/ike/platform/ike-platform/154/ike-platform-154.pom
+network/ike/tooling/ike-tooling/244/ike-tooling-244.pom
+org/apache/camel/camel/4.22.0/camel-4.22.0.pom
+org/apache/qpid/qpid-jms-parent/1.17.0/qpid-jms-parent-1.17.0.pom
+org/apache/qpid/qpid-jms-parent/2.11.0/qpid-jms-parent-2.11.0.pom
+org/apache/struts/struts2-parent/6.11.0/struts2-parent-6.11.0.pom
+org/apache/struts/struts2-project/7.3.0/struts2-project-7.3.0.pom
+org/finos/legend/engine/legend-engine/4.139.2/legend-engine-4.139.2.pom
+org/glassfish/main/glassfish-main-aggregator/9.0.0-M3/glassfish-main-aggregator-9.0.0-M3.pom
+org/glassfish/main/nucleus-parent/9.0.0-M3/nucleus-parent-9.0.0-M3.pom
+org/metricshub/winrm-java/2.1.00/winrm-java-2.1.00.pom
+   from mvn: 7496 - non-mvn: 8203 - buildinfo: 1 - module: 8111 - gradle timestamp: 6188 - atlasdb: 0 = 0 release

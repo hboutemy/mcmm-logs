@@ -1607,6 +1607,7 @@ de.svenkubiak:simple-http
 de.trustable.cmp.client:cmpClient
 de.trustable:cryptoUtil
 dev.iabudiab:dependency-track-maven-plugin
+dev.jcputney:elearning-module-parser
 dev.jcputney:magika-java
 dev.jcputney:magika-java-parent
 dev.jcputney:magika-java-tika
@@ -4593,6 +4594,7 @@ org.apache.ratis:ratis-test
 org.apache.ratis:ratis-thirdparty
 org.apache.ratis:ratis-thirdparty-misc
 org.apache.ratis:ratis-tools
+org.apache.ratis:ratis-trace-otel
 org.apache.santuario:xmlsec
 org.apache.skywalking:agent-analyzer
 org.apache.skywalking:ai-pipeline
