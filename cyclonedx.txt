@@ -1927,6 +1927,7 @@ io.github.sparsick.testcontainers.gitserver:rewrite-testcontainers-gitserver
 io.github.sparsick.testcontainers.gitserver:testcontainers-git-bom
 io.github.sparsick.testcontainers.gitserver:testcontainers-git-parent
 io.github.sparsick.testcontainers.gitserver:testcontainers-gitserver
+io.github.tfw-org:tfw
 io.github.thibaudledent.j8583:j8583
 io.github.tomverin:sonar-dummy-oss-plugin
 io.github.usmanovmahmudkhan:chat-server-core
