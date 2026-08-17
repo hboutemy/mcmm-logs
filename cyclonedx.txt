@@ -617,6 +617,11 @@ com.github.hazendaz:scriptable-dataset
 com.github.hazendaz:sitemesh
 com.github.hazendaz:smartsprites
 com.github.hazendaz:test-aggregator
+com.github.marks-yag:mecha-demo
+com.github.marks-yag:mecha-demo-http4k
+com.github.marks-yag:mecha-demo-ktor
+com.github.marks-yag:mecha-demo-spring-boot
+com.github.marks-yag:mecha-repository
 com.github.mwiede:jsch
 com.github.nhojpatrick.qa:nhojpatrick-versions-ruleset
 com.github.oscerd:finnhub-java-client
@@ -1872,6 +1877,7 @@ io.github.marceldankert.sentinel:sentinel-ai-core-parent
 io.github.marceldankert.sentinel:sentinel-ai-core-provider-openai
 io.github.marceldankert.sentinel:sentinel-ai-core-spring-boot-starter
 io.github.marceldankert.sentinel:sentinel-ai-core-test-support
+io.github.markpollack:agent-judge-parent
 io.github.openwebview:openwebview
 io.github.orhaugh:chord-bom
 io.github.orhaugh:chord-client

@@ -24806,3 +24806,27 @@ tools/jackson/jr/jackson-jr-retrofit2/3.2.2/jackson-jr-retrofit2-3.2.2.pom
 tools/jackson/jr/jackson-jr-stree/3.1.6/jackson-jr-stree-3.1.6.pom
 tools/jackson/jr/jackson-jr-stree/3.2.2/jackson-jr-stree-3.2.2.pom
    from mvn: 4450 - non-mvn: 8160 - buildinfo: 6 - module: 6302 - gradle timestamp: 6417 - atlasdb: 0 = 0 release
+20260815
+com/fasterxml/jackson/datatype/jackson-datatype-joda/2.21.6/jackson-datatype-joda-2.21.6.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-collections/2.21.6/jackson-datatypes-collections-2.21.6.pom
+com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/2.21.6/jackson-datatypes-misc-parent-2.21.6.pom
+com/gitee/kamismile/akka-ex/1.9.0/akka-ex-1.9.0.pom
+com/rejment/jhttp/1.2.0/jhttp-1.2.0.pom
+dev/stxt/stxt-core/0.6.1/stxt-core-0.6.1.pom
+eu/maveniverse/maven/bom-builder/bom-builder/1.3.4/bom-builder-1.3.4.pom
+eu/maveniverse/maven/checksum/checksum/0.2.1/checksum-0.2.1.pom
+eu/maveniverse/maven/mase/mase/1.1.2/mase-1.1.2.pom
+eu/maveniverse/maven/zippy/zippy/0.2.0/zippy-0.2.0.pom
+io/github/enesdurmus/mqtt-spring-boot-starter/2.0.0/mqtt-spring-boot-starter-2.0.0.pom
+io/github/willibrandon/jtreesitter-logrotate/0.2.0/jtreesitter-logrotate-0.2.0.pom
+io/streamnative/buildtools/4.0.12.3/buildtools-4.0.12.3.pom
+io/streamnative/pulsar-bom/4.0.12.3/pulsar-bom-4.0.12.3.pom
+io/streamnative/pulsar/4.0.12.3/pulsar-4.0.12.3.pom
+it/mulders/stryker/pit-dashboard-reporter/0.3.19/pit-dashboard-reporter-0.3.19.pom
+net/optionfactory/spring/optionfactory-spring/27.4/optionfactory-spring-27.4.pom
+net/sourceforge/pmd/pmd-build-tools-config/40/pmd-build-tools-config-40.pom
+network/ike/platform/ike-platform/165/ike-platform-165.pom
+network/ike/platform/ike-platform/166/ike-platform-166.pom
+network/ike/platform/ike-platform/167/ike-platform-167.pom
+org/rspond/jmxmp/jmxmp-parent/1.0.0/jmxmp-parent-1.0.0.pom
+   from mvn: 1846 - non-mvn: 3678 - buildinfo: 4 - module: 4120 - gradle timestamp: 2855 - atlasdb: 0 = 0 release
