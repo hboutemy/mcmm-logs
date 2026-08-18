@@ -617,6 +617,10 @@ com.github.hazendaz:scriptable-dataset
 com.github.hazendaz:sitemesh
 com.github.hazendaz:smartsprites
 com.github.hazendaz:test-aggregator
+com.github.ifrugal:gateway-app
+com.github.ifrugal:gateway-core
+com.github.ifrugal:gateway-starter
+com.github.ifrugal:spring-gateway-toolkit
 com.github.marks-yag:mecha-demo
 com.github.marks-yag:mecha-demo-http4k
 com.github.marks-yag:mecha-demo-ktor
@@ -1877,6 +1881,7 @@ io.github.marceldankert.sentinel:sentinel-ai-core-parent
 io.github.marceldankert.sentinel:sentinel-ai-core-provider-openai
 io.github.marceldankert.sentinel:sentinel-ai-core-spring-boot-starter
 io.github.marceldankert.sentinel:sentinel-ai-core-test-support
+io.github.markpollack:agent-bench-parent
 io.github.markpollack:agent-judge-parent
 io.github.openwebview:openwebview
 io.github.orhaugh:chord-bom
@@ -3630,6 +3635,7 @@ org.apache.hop:hop-action-ping
 org.apache.hop:hop-action-pipeline
 org.apache.hop:hop-action-repeat
 org.apache.hop:hop-action-sendnagiospassivecheck
+org.apache.hop:hop-action-setpasswordencoder
 org.apache.hop:hop-action-setvariables
 org.apache.hop:hop-action-shell
 org.apache.hop:hop-action-simpleeval
@@ -3705,14 +3711,19 @@ org.apache.hop:hop-databases-vertica
 org.apache.hop:hop-engine
 org.apache.hop:hop-engine-beam
 org.apache.hop:hop-engines-beam
+org.apache.hop:hop-engines-single-threaded
+org.apache.hop:hop-engines-spark
 org.apache.hop:hop-libs
 org.apache.hop:hop-libs-jdbc
+org.apache.hop:hop-libs-p2
 org.apache.hop:hop-misc-async
 org.apache.hop:hop-misc-debug
 org.apache.hop:hop-misc-documentation
+org.apache.hop:hop-misc-execution-database
 org.apache.hop:hop-misc-git
 org.apache.hop:hop-misc-import
 org.apache.hop:hop-misc-mail
+org.apache.hop:hop-misc-marketplace
 org.apache.hop:hop-misc-passwords
 org.apache.hop:hop-misc-projects
 org.apache.hop:hop-misc-py4j
@@ -3745,7 +3756,9 @@ org.apache.hop:hop-tech-mongodb
 org.apache.hop:hop-tech-neo4j
 org.apache.hop:hop-tech-opensearch
 org.apache.hop:hop-tech-parquet
+org.apache.hop:hop-tech-redis
 org.apache.hop:hop-tech-salesforce
+org.apache.hop:hop-tech-sftp
 org.apache.hop:hop-tech-vault
 org.apache.hop:hop-tech-webdav
 org.apache.hop:hop-transform-abort
@@ -3753,6 +3766,7 @@ org.apache.hop:hop-transform-addsequence
 org.apache.hop:hop-transform-addsnowflakeid
 org.apache.hop:hop-transform-analyticquery
 org.apache.hop:hop-transform-append
+org.apache.hop:hop-transform-binaryfileoutput
 org.apache.hop:hop-transform-blockingtransform
 org.apache.hop:hop-transform-blockuntiltransformsfinish
 org.apache.hop:hop-transform-calculator
@@ -3839,6 +3853,7 @@ org.apache.hop:hop-transform-mysqlbulkloader
 org.apache.hop:hop-transform-normaliser
 org.apache.hop:hop-transform-nullif
 org.apache.hop:hop-transform-numberrange
+org.apache.hop:hop-transform-odata
 org.apache.hop:hop-transform-orabulkloader
 org.apache.hop:hop-transform-pgbulkloader
 org.apache.hop:hop-transform-pgp
@@ -3868,6 +3883,7 @@ org.apache.hop:hop-transform-setvariable
 org.apache.hop:hop-transform-snowflake-bulkloader
 org.apache.hop:hop-transform-sort
 org.apache.hop:hop-transform-sortedmerge
+org.apache.hop:hop-transform-sortedschemamerge
 org.apache.hop:hop-transform-splitfieldtorows
 org.apache.hop:hop-transform-splunk
 org.apache.hop:hop-transform-sql
@@ -3879,6 +3895,7 @@ org.apache.hop:hop-transform-streamlookup
 org.apache.hop:hop-transform-streamschemamerge
 org.apache.hop:hop-transform-stringcut
 org.apache.hop:hop-transform-stringoperations
+org.apache.hop:hop-transform-surefirereport
 org.apache.hop:hop-transform-switchcase
 org.apache.hop:hop-transform-synchronizeaftermerge
 org.apache.hop:hop-transform-systemdata
@@ -3895,6 +3912,7 @@ org.apache.hop:hop-transform-uniquerowsbyhashset
 org.apache.hop:hop-transform-update
 org.apache.hop:hop-transform-validator
 org.apache.hop:hop-transform-valuemapper
+org.apache.hop:hop-transform-vcard
 org.apache.hop:hop-transform-verticabulkloader
 org.apache.hop:hop-transform-webserviceavailable
 org.apache.hop:hop-transform-webservices
