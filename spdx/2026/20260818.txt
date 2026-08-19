@@ -1,0 +1,5 @@
+io/reshapr/reshapr-api/0.2.1/reshapr-api-0.2.1.spdx.json
+io/reshapr/reshapr-commons/0.2.1/reshapr-commons-0.2.1.spdx.json
+io/reshapr/reshapr-ctrl/0.2.1/reshapr-ctrl-0.2.1.spdx.json
+io/reshapr/reshapr-parent/0.2.1/reshapr-parent-0.2.1.spdx.json
+io/reshapr/reshapr/0.2.1/reshapr-0.2.1.spdx.json
