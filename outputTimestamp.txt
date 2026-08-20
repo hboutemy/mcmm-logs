@@ -24928,3 +24928,20 @@ org/finos/legend/engine/legend-engine/4.140.0/legend-engine-4.140.0.pom
 org/glassfish/hk2/hk2-project/4.0.2/hk2-project-4.0.2.pom
 world/convex/convex/0.8.13/convex-0.8.13.pom
    from mvn: 6497 - non-mvn: 5272 - buildinfo: 0 - module: 5218 - gradle timestamp: 3544 - atlasdb: 0 = 0 release
+20260818
+ai/fireweave/fireweave-java-parent/0.1.0/fireweave-java-parent-0.1.0.pom
+biz/aQute/bnd/bnd-plugin-parent/7.4.0/bnd-plugin-parent-7.4.0.pom
+com/google/guava/guava-parent/33.7.1-android/guava-parent-33.7.1-android.pom
+com/google/guava/guava-parent/33.7.1-jre/guava-parent-33.7.1-jre.pom
+com/nomendi6/orgsec/orgsec-keycloak-mapper/1.0.0/orgsec-keycloak-mapper-1.0.0.pom
+dev/langchain4j/cdi/langchain4j-cdi-parent/1.4.0/langchain4j-cdi-parent-1.4.0.pom
+io/avaje/avaje-http-parent/3.11/avaje-http-parent-3.11.pom
+io/avaje/avaje-jsonb-parent/3.15-RC5/avaje-jsonb-parent-3.15-RC5.pom
+io/avaje/avaje-metrics-parent/10.4-RC5/avaje-metrics-parent-10.4-RC5.pom
+io/avaje/openapi-maven-plugin/3.11/openapi-maven-plugin-3.11.pom
+io/swagger/core/v3/swagger-project-jakarta/2.2.54/swagger-project-jakarta-2.2.54.pom
+io/swagger/core/v3/swagger-project/2.2.54/swagger-project-2.2.54.pom
+net/delopay/delopay-sdk/2.5.0/delopay-sdk-2.5.0.pom
+one/nextera/openat/javelle/javelle/0.2.6/javelle-0.2.6.pom
+org/codehaus/plexus/plexus/27/plexus-27.pom
+   from mvn: 4915 - non-mvn: 10015 - buildinfo: 0 - module: 6659 - gradle timestamp: 8232 - atlasdb: 0 = 0 release
