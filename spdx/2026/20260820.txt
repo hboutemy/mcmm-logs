@@ -1,0 +1,6 @@
+com/github/mwiede/jsch/2.28.7/jsch-2.28.7.spdx.json
+io/opentelemetry/javaagent/opentelemetry-javaagent/2.31.0/opentelemetry-javaagent-2.31.0-spdx.json
+org/opendaylight/ietf/ietf-sbom-2.0.6.spdx
+org/opendaylight/l2switch/l2switch-sbom-2.0.3.spdx
+org/opendaylight/mdsal/mdsal-sbom-16.0.6.spdx
+org/opendaylight/odlparent/odlparent-sbom-15.0.0.spdx

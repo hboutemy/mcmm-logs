@@ -1726,6 +1726,7 @@ eu.michael-simons.neo4j:neo4j-migrations-spring-boot-starter-parent
 fr.inria.gforge.spoon:spoon-core
 fr.inria.gforge.spoon:spoon-javadoc
 fr.inria.gforge.spoon:spoon-pom
+fr.maif:otoroshi_3
 fr.marcwrobel:jbanking
 gov.nist.secauto.oscal:liboscal-java
 io.arconia.migrations:rewrite-arconia
@@ -8382,6 +8383,8 @@ se.deversity.async-test-lib:async-test-analysis
 se.deversity.async-test-lib:async-test-lib
 se.deversity.async-test-lib:async-test-parent
 se.deversity.common:common-license-lib
+se.deversity.vibetags:vibetags-annotations
+se.deversity.vibetags:vibetags-cli
 se.deversity.vibetags:vibetags-processor
 sh.stubborn.contract:sh.stubborn.contract.gradle.plugin
 sh.stubborn:stubborn-contract-build
