@@ -462,6 +462,7 @@ com.buschmais.jqassistant.plugin:yaml2
 com.codbex.atlas:codbex-atlas-application
 com.codbex.gaia:codbex-gaia-application
 com.codbex.rhea:codbex-rhea-application
+com.condation.cms:cms-parent
 com.duosecurity:duo-client
 com.duosecurity:duo-universal-sdk
 com.engine:protoc-gen-markdown
@@ -1927,6 +1928,7 @@ io.github.marceldankert.sentinel:sentinel-ai-core-provider-openai
 io.github.marceldankert.sentinel:sentinel-ai-core-spring-boot-starter
 io.github.marceldankert.sentinel:sentinel-ai-core-test-support
 io.github.markpollack:agent-bench-parent
+io.github.markpollack:agent-client-parent
 io.github.markpollack:agent-experiment-parent
 io.github.markpollack:agent-hooks-parent
 io.github.markpollack:agent-journal-parent
@@ -2019,6 +2021,7 @@ io.github.usmanovmahmudkhan:chat-server-redis
 io.github.usmanovmahmudkhan:real-time-chat-server
 io.github.usmanovmahmudkhan:real-time-chat-server-parent
 io.github.xfoundries:jfoundry-parent
+io.github.xhufang:skis-parent
 io.jexxa.adapters:adapter-api
 io.jexxa.adapters:common-adapters
 io.jexxa.adapters:esp-adapters
