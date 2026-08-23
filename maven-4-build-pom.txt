@@ -3123,3 +3123,17 @@ com/antwerkz/cartographer-maven-plugin/1.0.0/cartographer-maven-plugin-1.0.0-bui
 com/antwerkz/cartographer/1.0.0/cartographer-1.0.0-build.pom
 20260820
 20260821
+20260822
+com/antwerkz/cartographer-agent/1.0.1/cartographer-agent-1.0.1-build.pom
+com/antwerkz/cartographer-maven-plugin/1.0.1/cartographer-maven-plugin-1.0.1-build.pom
+com/antwerkz/cartographer/1.0.1/cartographer-1.0.1-build.pom
+com/flowlogix/flowlogix-datamodel/11.4.3/flowlogix-datamodel-11.4.3-build.pom
+com/flowlogix/flowlogix-jee/11.4.3/flowlogix-jee-11.4.3-build.pom
+com/flowlogix/flowlogix/11.4.3/flowlogix-11.4.3-build.pom
+com/flowlogix/plugins/container-deploy-plugin-common/1.4.1/container-deploy-plugin-common-1.4.1-build.pom
+com/flowlogix/plugins/container-deploy-plugin-root/1.4.1/container-deploy-plugin-root-1.4.1-build.pom
+com/flowlogix/plugins/container-deploy-plugin-root/1.4/container-deploy-plugin-root-1.4-build.pom
+com/flowlogix/plugins/container-deploy-plugin/1.4.1/container-deploy-plugin-1.4.1-build.pom
+com/flowlogix/plugins/container-deploy-plugin/1.4/container-deploy-plugin-1.4-build.pom
+com/flowlogix/plugins/live-reload/1.4.1/live-reload-1.4.1-build.pom
+com/flowlogix/plugins/live-reload/1.4/live-reload-1.4-build.pom

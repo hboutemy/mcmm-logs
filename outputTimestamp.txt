@@ -25014,3 +25014,32 @@ org/dbunit/dbunit/3.5.1/dbunit-3.5.1.pom
 org/finos/legend/engine/legend-engine/4.140.1/legend-engine-4.140.1.pom
 org/finos/legend/engine/legend-engine/4.141.0/legend-engine-4.141.0.pom
    from mvn: 6372 - non-mvn: 8723 - buildinfo: 1 - module: 6762 - gradle timestamp: 5918 - atlasdb: 0 = 0 release
+20260821
+dev/stxt/stxt-core/0.10.0/stxt-core-0.10.0.pom
+dev/stxt/stxt-core/0.11.0/stxt-core-0.11.0.pom
+dev/stxt/stxt-core/0.8.1/stxt-core-0.8.1.pom
+dev/stxt/stxt-core/0.9.0/stxt-core-0.9.0.pom
+dev/stxt/stxt-core/0.9.1/stxt-core-0.9.1.pom
+io/airlift/airbase-policy/403/airbase-policy-403.pom
+io/airlift/airbase/403/airbase-403.pom
+io/github/arun0009/pulse-spring-boot-starter/2.0.2/pulse-spring-boot-starter-2.0.2.pom
+io/github/vpelikh/swagger-project/4.0.5/swagger-project-4.0.5.pom
+io/github/xfoundries/jfoundry-dependencies/1.2.0/jfoundry-dependencies-1.2.0.pom
+io/github/xfoundries/jfoundry-foundation-dependencies/1.2.0/jfoundry-foundation-dependencies-1.2.0.pom
+io/github/xfoundries/jfoundry-helidon-dependencies/1.2.0/jfoundry-helidon-dependencies-1.2.0.pom
+io/github/xfoundries/jfoundry-modules-dependencies/1.2.0/jfoundry-modules-dependencies-1.2.0.pom
+io/github/xfoundries/jfoundry-parent/1.2.0/jfoundry-parent-1.2.0.pom
+io/github/xfoundries/jfoundry-quarkus-dependencies/1.2.0/jfoundry-quarkus-dependencies-1.2.0.pom
+io/github/xfoundries/jfoundry-spring-boot-dependencies/1.2.0/jfoundry-spring-boot-dependencies-1.2.0.pom
+io/github/xfoundries/jfoundry-spring-boot-parent/1.2.0/jfoundry-spring-boot-parent-1.2.0.pom
+io/github/xfoundries/jfoundry-spring-cloud-dependencies/1.2.0/jfoundry-spring-cloud-dependencies-1.2.0.pom
+io/roastedroot/inlay-parent/0.0.3/inlay-parent-0.0.3.pom
+io/roastedroot/oras-java/0.0.2/oras-java-0.0.2.pom
+io/seatlayer/seatlayer-java/0.5.0/seatlayer-java-0.5.0.pom
+net/optionfactory/spring/optionfactory-spring/27.6/optionfactory-spring-27.6.pom
+org/apache/paimon/paimon-vector-index-java/0.4.0/paimon-vector-index-java-0.4.0.pom
+org/apache/sling/org.apache.sling.resourceresolver/1.12.18/org.apache.sling.resourceresolver-1.12.18.pom
+org/conformatron/conformatron-parent-pom/1.0.0/conformatron-parent-pom-1.0.0.pom
+org/finos/legend/engine/legend-engine/4.138.5/legend-engine-4.138.5.pom
+org/liquibase/ext/liquibase-percona/5.0.4/liquibase-percona-5.0.4.pom
+   from mvn: 5477 - non-mvn: 6171 - buildinfo: 67 - module: 4113 - gradle timestamp: 3629 - atlasdb: 0 = 0 release
