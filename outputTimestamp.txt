@@ -25043,3 +25043,25 @@ org/conformatron/conformatron-parent-pom/1.0.0/conformatron-parent-pom-1.0.0.pom
 org/finos/legend/engine/legend-engine/4.138.5/legend-engine-4.138.5.pom
 org/liquibase/ext/liquibase-percona/5.0.4/liquibase-percona-5.0.4.pom
    from mvn: 5477 - non-mvn: 6171 - buildinfo: 67 - module: 4113 - gradle timestamp: 3629 - atlasdb: 0 = 0 release
+20260822
+eu/maveniverse/maven/mwm/mwm/0.1.1/mwm-0.1.1.pom
+eu/maveniverse/maven/mwm/mwm/0.1.2/mwm-0.1.2.pom
+eu/rekawek/coffeegb/coffee-gb/2.0.5/coffee-gb-2.0.5.pom
+eu/rekawek/coffeegb/swing/2.0.5/swing-2.0.5.pom
+io/github/patricklfdm/general-search-engine/1.0.0/general-search-engine-1.0.0.pom
+network/ike/platform/ike-platform/174/ike-platform-174.pom
+network/ike/tooling/ike-tooling/251/ike-tooling-251.pom
+org/alexmond/gotmpl4j-parent/1.4.0/gotmpl4j-parent-1.4.0.pom
+org/alexmond/gotmpl4j-spring-boot-parent/4.0.8.1/gotmpl4j-spring-boot-parent-4.0.8.1.pom
+org/alexmond/gotmpl4j-spring-boot-parent/4.1.1.1/gotmpl4j-spring-boot-parent-4.1.1.1.pom
+org/apache/commons/commons-parent/104/commons-parent-104.pom
+org/apache/jspwiki/jspwiki-builder/2.12.5/jspwiki-builder-2.12.5.pom
+org/apache/jspwiki/jspwiki-builder/3.0.0/jspwiki-builder-3.0.0.pom
+org/apache/tika/tika-parent/4.0.0/tika-parent-4.0.0.pom
+org/jpmml/jpmml-sparkml/3.0.13/jpmml-sparkml-3.0.13.pom
+org/jpmml/jpmml-sparkml/3.1.13/jpmml-sparkml-3.1.13.pom
+org/jpmml/jpmml-sparkml/3.2.12/jpmml-sparkml-3.2.12.pom
+org/jpmml/jpmml-sparkml/3.3.5/jpmml-sparkml-3.3.5.pom
+org/jpmml/jpmml-sparkml/3.4.0/jpmml-sparkml-3.4.0.pom
+org/jpmml/jpmml-xgboost/1.9.10/jpmml-xgboost-1.9.10.pom
+   from mvn: 2779 - non-mvn: 2951 - buildinfo: 0 - module: 2732 - gradle timestamp: 2019 - atlasdb: 0 = 0 release

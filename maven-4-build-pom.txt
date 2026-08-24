@@ -3137,3 +3137,12 @@ com/flowlogix/plugins/container-deploy-plugin/1.4.1/container-deploy-plugin-1.4.
 com/flowlogix/plugins/container-deploy-plugin/1.4/container-deploy-plugin-1.4-build.pom
 com/flowlogix/plugins/live-reload/1.4.1/live-reload-1.4.1-build.pom
 com/flowlogix/plugins/live-reload/1.4/live-reload-1.4-build.pom
+20260823
+com/flowlogix/archetypes/starter/142/starter-142-build.pom
+com/flowlogix/base-pom/136/base-pom-136-build.pom
+com/flowlogix/checkstyle/136/checkstyle-136-build.pom
+com/flowlogix/flowlogix-bom/42/flowlogix-bom-42-build.pom
+com/flowlogix/glassfish-pom/136/glassfish-pom-136-build.pom
+com/flowlogix/infra-pom/136/infra-pom-136-build.pom
+com/flowlogix/payara-pom/136/payara-pom-136-build.pom
+com/flowlogix/server-common/136/server-common-136-build.pom
