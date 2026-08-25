@@ -1,0 +1,5 @@
+com/exasol/ci-isolation-aws/3.0.1/ci-isolation-aws-3.0.1-sbom.spdx
+io/github/microcks/quarkus/quarkus-microcks-deployment/0.5.0/quarkus-microcks-deployment-0.5.0.spdx.json
+io/github/microcks/quarkus/quarkus-microcks-parent/0.5.0/quarkus-microcks-parent-0.5.0.spdx.json
+io/github/microcks/quarkus/quarkus-microcks-test/0.5.0/quarkus-microcks-test-0.5.0.spdx.json
+io/github/microcks/quarkus/quarkus-microcks/0.5.0/quarkus-microcks-0.5.0.spdx.json
