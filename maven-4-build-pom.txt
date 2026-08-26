@@ -3158,3 +3158,11 @@ com/steeplesoft/ticker/0.2/ticker-0.2-build.pom
 io/github/jonesbusy/oci-extension-common/0.0.2/oci-extension-common-0.0.2-build.pom
 io/github/jonesbusy/oci-extension-core/0.0.2/oci-extension-core-0.0.2-build.pom
 io/github/jonesbusy/oci-extension-parent/0.0.2/oci-extension-parent-0.0.2-build.pom
+20260825
+com/flowlogix/archetypes/starter/143/starter-143-build.pom
+com/flowlogix/base-pom/138/base-pom-138-build.pom
+com/flowlogix/checkstyle/138/checkstyle-138-build.pom
+com/flowlogix/glassfish-pom/138/glassfish-pom-138-build.pom
+com/flowlogix/infra-pom/138/infra-pom-138-build.pom
+com/flowlogix/payara-pom/138/payara-pom-138-build.pom
+com/flowlogix/server-common/138/server-common-138-build.pom

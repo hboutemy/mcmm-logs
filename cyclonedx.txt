@@ -1971,6 +1971,8 @@ io.github.marceldankert.sentinel:sentinel-ai-core-test-support
 io.github.markpollack:agent-amazon-q
 io.github.markpollack:agent-amp
 io.github.markpollack:agent-antigravity
+io.github.markpollack:agent-bench-agents
+io.github.markpollack:agent-bench-core
 io.github.markpollack:agent-bench-parent
 io.github.markpollack:agent-claude
 io.github.markpollack:agent-client-core
@@ -1986,7 +1988,17 @@ io.github.markpollack:agent-hooks-gemini
 io.github.markpollack:agent-hooks-parent
 io.github.markpollack:agent-hooks-spring
 io.github.markpollack:agent-journal-parent
+io.github.markpollack:agent-judge-agent-client
+io.github.markpollack:agent-judge-ai-core
+io.github.markpollack:agent-judge-core
+io.github.markpollack:agent-judge-exec
+io.github.markpollack:agent-judge-file
+io.github.markpollack:agent-judge-koog
+io.github.markpollack:agent-judge-langchain4j
+io.github.markpollack:agent-judge-llm
 io.github.markpollack:agent-judge-parent
+io.github.markpollack:agent-judge-rag
+io.github.markpollack:agent-judge-spring-ai
 io.github.markpollack:agent-launcher
 io.github.markpollack:agent-memory-parent
 io.github.markpollack:agent-model
@@ -2006,6 +2018,7 @@ io.github.markpollack:agent-starter-qwen-code
 io.github.markpollack:agent-starters
 io.github.markpollack:agent-swe
 io.github.markpollack:agent-tck
+io.github.markpollack:agent-workflow-parent
 io.github.markpollack:amazon-q-cli-sdk
 io.github.markpollack:amp-cli-sdk
 io.github.markpollack:antigravity-cli-capture
@@ -2015,6 +2028,9 @@ io.github.markpollack:claude-code-capture
 io.github.markpollack:claude-code-sdk
 io.github.markpollack:codex-cli-capture
 io.github.markpollack:codex-cli-sdk
+io.github.markpollack:experiment-claude
+io.github.markpollack:experiment-core
+io.github.markpollack:experiment-workflow
 io.github.markpollack:gemini-cli-capture
 io.github.markpollack:gemini-cli-sdk
 io.github.markpollack:grok-cli-capture
@@ -2023,6 +2039,14 @@ io.github.markpollack:journal-core
 io.github.markpollack:memory-advisor
 io.github.markpollack:memory-core
 io.github.markpollack:swe-agent-sdk
+io.github.markpollack:workflow-agents
+io.github.markpollack:workflow-api
+io.github.markpollack:workflow-batch
+io.github.markpollack:workflow-core
+io.github.markpollack:workflow-flows
+io.github.markpollack:workflow-journal
+io.github.markpollack:workflow-temporal
+io.github.markpollack:workflow-tools
 io.github.openwebview:openwebview
 io.github.orhaugh:chord-bom
 io.github.orhaugh:chord-client
@@ -2671,6 +2695,7 @@ me.dmmax.akka:akka-spawn-protocol-guice
 media.barney:contract-core
 media.barney:contract-java
 media.barney:contract-spring-boot-starter
+my.bookmaker:make
 net.dapete:exceptional
 net.dapete:locks
 net.e175.klaus:solarpositioning
