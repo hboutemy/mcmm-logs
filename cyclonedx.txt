@@ -1782,6 +1782,7 @@ io.dropwizard.metrics5:metrics-httpasyncclient
 io.dropwizard.metrics5:metrics-httpclient
 io.dropwizard.metrics5:metrics-httpclient5
 io.dropwizard.metrics5:metrics-influxdb
+io.dropwizard.metrics5:metrics-jackson3
 io.dropwizard.metrics5:metrics-jakarta-servlet
 io.dropwizard.metrics5:metrics-jakarta-servlet6
 io.dropwizard.metrics5:metrics-jakarta-servlets
@@ -1792,10 +1793,12 @@ io.dropwizard.metrics5:metrics-jdbi3
 io.dropwizard.metrics5:metrics-jersey2
 io.dropwizard.metrics5:metrics-jersey3
 io.dropwizard.metrics5:metrics-jersey31
+io.dropwizard.metrics5:metrics-jersey40
 io.dropwizard.metrics5:metrics-jetty10
 io.dropwizard.metrics5:metrics-jetty11
 io.dropwizard.metrics5:metrics-jetty12
 io.dropwizard.metrics5:metrics-jetty12-ee10
+io.dropwizard.metrics5:metrics-jetty12-ee11
 io.dropwizard.metrics5:metrics-jetty9
 io.dropwizard.metrics5:metrics-jmx
 io.dropwizard.metrics5:metrics-json
@@ -1807,6 +1810,7 @@ io.dropwizard.metrics5:metrics-logback
 io.dropwizard.metrics5:metrics-logback13
 io.dropwizard.metrics5:metrics-logback14
 io.dropwizard.metrics5:metrics-logback15
+io.dropwizard.metrics5:metrics-logback16
 io.dropwizard.metrics5:metrics-parent
 io.dropwizard.metrics5:metrics-servlet
 io.dropwizard.metrics5:metrics-servlets
@@ -1824,6 +1828,7 @@ io.dropwizard.metrics:metrics-healthchecks
 io.dropwizard.metrics:metrics-httpasyncclient
 io.dropwizard.metrics:metrics-httpclient
 io.dropwizard.metrics:metrics-httpclient5
+io.dropwizard.metrics:metrics-jackson3
 io.dropwizard.metrics:metrics-jakarta-servlet
 io.dropwizard.metrics:metrics-jakarta-servlet6
 io.dropwizard.metrics:metrics-jakarta-servlets
@@ -1834,10 +1839,12 @@ io.dropwizard.metrics:metrics-jdbi3
 io.dropwizard.metrics:metrics-jersey2
 io.dropwizard.metrics:metrics-jersey3
 io.dropwizard.metrics:metrics-jersey31
+io.dropwizard.metrics:metrics-jersey40
 io.dropwizard.metrics:metrics-jetty10
 io.dropwizard.metrics:metrics-jetty11
 io.dropwizard.metrics:metrics-jetty12
 io.dropwizard.metrics:metrics-jetty12-ee10
+io.dropwizard.metrics:metrics-jetty12-ee11
 io.dropwizard.metrics:metrics-jetty9
 io.dropwizard.metrics:metrics-jmx
 io.dropwizard.metrics:metrics-json
@@ -1847,6 +1854,7 @@ io.dropwizard.metrics:metrics-logback
 io.dropwizard.metrics:metrics-logback13
 io.dropwizard.metrics:metrics-logback14
 io.dropwizard.metrics:metrics-logback15
+io.dropwizard.metrics:metrics-logback16
 io.dropwizard.metrics:metrics-parent
 io.dropwizard.metrics:metrics-servlet
 io.dropwizard.metrics:metrics-servlets
@@ -1983,6 +1991,7 @@ io.github.marceldankert.sentinel:sentinel-ai-core-parent
 io.github.marceldankert.sentinel:sentinel-ai-core-provider-openai
 io.github.marceldankert.sentinel:sentinel-ai-core-spring-boot-starter
 io.github.marceldankert.sentinel:sentinel-ai-core-test-support
+io.github.markpollack:agent-acp
 io.github.markpollack:agent-amazon-q
 io.github.markpollack:agent-amp
 io.github.markpollack:agent-antigravity
@@ -2014,6 +2023,7 @@ io.github.markpollack:agent-judge-llm
 io.github.markpollack:agent-judge-parent
 io.github.markpollack:agent-judge-rag
 io.github.markpollack:agent-judge-spring-ai
+io.github.markpollack:agent-junie
 io.github.markpollack:agent-launcher
 io.github.markpollack:agent-memory-parent
 io.github.markpollack:agent-model
@@ -2029,6 +2039,7 @@ io.github.markpollack:agent-starter-claude
 io.github.markpollack:agent-starter-codex
 io.github.markpollack:agent-starter-gemini
 io.github.markpollack:agent-starter-grok
+io.github.markpollack:agent-starter-junie
 io.github.markpollack:agent-starter-qwen-code
 io.github.markpollack:agent-starters
 io.github.markpollack:agent-swe

@@ -25177,3 +25177,11 @@ org/gosu-lang/gosu/gosu-parent/1.18.10/gosu-parent-1.18.10.pom
 org/infinispan/protostream/parent/6.0.11/parent-6.0.11.pom
 org/jline/jline-parent/4.4.0/jline-parent-4.4.0.pom
    from mvn: 4206 - non-mvn: 8051 - buildinfo: 0 - module: 5044 - gradle timestamp: 3597 - atlasdb: 0 = 0 release
+20260827
+de/gematik/pki/gemLibPki/5.0.1/gemLibPki-5.0.1.pom
+org/apache/artemis/artemis-project/2.56.0/artemis-project-2.56.0.pom
+org/apache/ozone/ozone-main/2.2.1/ozone-main-2.2.1.pom
+org/apache/shiro/shiro-root/3.0.1/shiro-root-3.0.1.pom
+org/apache/shiro/shiro-root/3.0.1/shiro-root-3.0.1-build.pom
+org/green-code-initiative/creedengo-integration-test/0.7.0/creedengo-integration-test-0.7.0.pom
+   from mvn: 2468 - non-mvn: 3946 - buildinfo: 0 - module: 2494 - gradle timestamp: 2251 - atlasdb: 0 = 0 release
