@@ -1728,6 +1728,7 @@ ee.omnifish.arquillian:glassfish-containers-docs
 ee.omnifish.arquillian:glassfish-containers-main
 ee.omnifish.arquillian:glassfish-pool-maven-plugin
 eu.copernik:copernik-xml-factory
+eu.inqudium:tabellarium
 eu.michael-simons.neo4j:neo4j-migrations
 eu.michael-simons.neo4j:neo4j-migrations-annotation-catalog
 eu.michael-simons.neo4j:neo4j-migrations-annotation-processing
@@ -2812,6 +2813,17 @@ nl.basjes.codeowners:codeowners-reader
 nl.basjes.gitignore:gitignore-reader
 nl.basjes.maven.enforcer.codeowners:codeowners-enforcer-rules
 nl.basjes.maven.release:conventional-commits-version-policy
+nl.basjes.modbus:modbus-api
+nl.basjes.modbus:modbus-api-digitalpetri
+nl.basjes.modbus:modbus-api-j2mod
+nl.basjes.modbus:modbus-api-parent
+nl.basjes.modbus:modbus-api-plc4j
+nl.basjes.modbus:modbus-api-testing
+nl.basjes.modbus:modbus-schema-bom
+nl.basjes.modbus:modbus-schema-device
+nl.basjes.modbus:modbus-schema-maven-plugin
+nl.basjes.modbus:modbus-schema-parent
+nl.basjes.modbus:modbus-schema-reference
 nl.basjes.parse.useragent:yauaa
 nl.basjes.parse.useragent:yauaa-beam
 nl.basjes.parse.useragent:yauaa-beam-sql

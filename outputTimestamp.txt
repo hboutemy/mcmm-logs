@@ -25185,3 +25185,36 @@ org/apache/shiro/shiro-root/3.0.1/shiro-root-3.0.1.pom
 org/apache/shiro/shiro-root/3.0.1/shiro-root-3.0.1-build.pom
 org/green-code-initiative/creedengo-integration-test/0.7.0/creedengo-integration-test-0.7.0.pom
    from mvn: 2468 - non-mvn: 3946 - buildinfo: 0 - module: 2494 - gradle timestamp: 2251 - atlasdb: 0 = 0 release
+20260828
+com/sap/ai/sdk/sdk-parent/1.24.0/sdk-parent-1.24.0.pom
+dev/cjfravel/nomos-parent/0.0.1-alpha9/nomos-parent-0.0.1-alpha9.pom
+dev/stxt/stxt-core/0.15.0/stxt-core-0.15.0.pom
+eu/maveniverse/maven/nisse/nisse/0.9.10/nisse-0.9.10.pom
+eu/maveniverse/maven/toolrunner/toolrunner/0.4.2/toolrunner-0.4.2.pom
+io/avaje/avaje-http-parent/3.12-RC1/avaje-http-parent-3.12-RC1.pom
+io/avaje/avaje-jsonb-parent/3.15/avaje-jsonb-parent-3.15.pom
+io/avaje/openapi-maven-plugin/3.12-RC1/openapi-maven-plugin-3.12-RC1.pom
+io/dropwizard/metrics/metrics-parent/4.2.40/metrics-parent-4.2.40.pom
+io/dropwizard/metrics5/metrics-parent/5.0.8/metrics-parent-5.0.8.pom
+io/github/114qq/simple-cron/1.0.0/simple-cron-1.0.0.pom
+io/github/114qq/simple-scheduler/1.0.0/simple-scheduler-1.0.0.pom
+io/github/vpelikh/swagger-project/4.0.6/swagger-project-4.0.6.pom
+io/github/xfoundries/jfoundry-dependencies/1.4.0/jfoundry-dependencies-1.4.0.pom
+io/github/xfoundries/jfoundry-foundation-dependencies/1.4.0/jfoundry-foundation-dependencies-1.4.0.pom
+io/github/xfoundries/jfoundry-helidon-dependencies/1.4.0/jfoundry-helidon-dependencies-1.4.0.pom
+io/github/xfoundries/jfoundry-modules-dependencies/1.4.0/jfoundry-modules-dependencies-1.4.0.pom
+io/github/xfoundries/jfoundry-parent/1.4.0/jfoundry-parent-1.4.0.pom
+io/github/xfoundries/jfoundry-quarkus-dependencies/1.4.0/jfoundry-quarkus-dependencies-1.4.0.pom
+io/github/xfoundries/jfoundry-spring-boot-dependencies/1.4.0/jfoundry-spring-boot-dependencies-1.4.0.pom
+io/github/xfoundries/jfoundry-spring-boot-parent/1.4.0/jfoundry-spring-boot-parent-1.4.0.pom
+io/github/xfoundries/jfoundry-spring-cloud-dependencies/1.4.0/jfoundry-spring-cloud-dependencies-1.4.0.pom
+io/streamnative/buildtools/4.0.12.5/buildtools-4.0.12.5.pom
+io/streamnative/buildtools/4.2.1.13/buildtools-4.2.1.13.pom
+io/streamnative/pulsar-bom/4.0.12.5/pulsar-bom-4.0.12.5.pom
+io/streamnative/pulsar-bom/4.2.1.13/pulsar-bom-4.2.1.13.pom
+io/streamnative/pulsar/4.0.12.5/pulsar-4.0.12.5.pom
+io/streamnative/pulsar/4.2.1.13/pulsar-4.2.1.13.pom
+net/optionfactory/spring/optionfactory-spring/27.7/optionfactory-spring-27.7.pom
+net/optionfactory/spring/optionfactory-spring/27.8/optionfactory-spring-27.8.pom
+net/sourceforge/pmd/pmd/7.27.0/pmd-7.27.0.pom
+   from mvn: 7263 - non-mvn: 10696 - buildinfo: 0 - module: 9491 - gradle timestamp: 8910 - atlasdb: 0 = 0 release
