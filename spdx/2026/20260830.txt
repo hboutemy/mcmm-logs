@@ -1,0 +1,4 @@
+land/oras/oras-java-sdk/0.8.4/oras-java-sdk-0.8.4.spdx.json
+org/opendaylight/ietf/ietf-sbom-3.0.0.spdx
+org/opendaylight/odlparent/odlparent-sbom-15.0.1.spdx
+org/opendaylight/yangtools/yangtools-sbom-16.0.0.spdx

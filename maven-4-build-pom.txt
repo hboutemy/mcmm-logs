@@ -3202,3 +3202,5 @@ org/apache/shiro/tools/shiro-tools-hasher/3.0.1/shiro-tools-hasher-3.0.1-build.p
 org/apache/shiro/tools/shiro-tools/3.0.1/shiro-tools-3.0.1-build.pom
 20260828
 20260829
+20260830
+org/apache/maven/plugins/maven-compiler-plugin/4.0.0-beta-5/maven-compiler-plugin-4.0.0-beta-5-build.pom

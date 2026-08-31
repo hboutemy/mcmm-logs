@@ -2813,6 +2813,10 @@ nl.basjes.codeowners:codeowners-reader
 nl.basjes.gitignore:gitignore-reader
 nl.basjes.maven.enforcer.codeowners:codeowners-enforcer-rules
 nl.basjes.maven.release:conventional-commits-version-policy
+nl.basjes.modbus.devices:modbus-device-sdm230
+nl.basjes.modbus.devices:modbus-device-sdm630
+nl.basjes.modbus.devices:modbus-device-thermia-genesis
+nl.basjes.modbus.devices:modbus-devices-parent
 nl.basjes.modbus:modbus-api
 nl.basjes.modbus:modbus-api-digitalpetri
 nl.basjes.modbus:modbus-api-j2mod
@@ -2842,6 +2846,9 @@ nl.basjes.parse.useragent:yauaa-snowflake
 nl.basjes.parse.useragent:yauaa-trino
 nl.basjes.parse.useragent:yauaa-udf-parent
 nl.basjes.parse.useragent:yauaa-webapp
+nl.basjes.sunspec:sunspec-device
+nl.basjes.sunspec:sunspec-device-parent
+nl.basjes.sunspec:sunspec-model
 one.microstream:microstream-afs
 one.microstream:microstream-afs-aws
 one.microstream:microstream-afs-aws-dynamodb
@@ -8347,6 +8354,7 @@ org.opendaylight.yangtools:odl-yangtools-binding-runtime
 org.opendaylight.yangtools:odl-yangtools-binding-spec
 org.opendaylight.yangtools:odl-yangtools-codec
 org.opendaylight.yangtools:odl-yangtools-common
+org.opendaylight.yangtools:odl-yangtools-concepts
 org.opendaylight.yangtools:odl-yangtools-data
 org.opendaylight.yangtools:odl-yangtools-data-api
 org.opendaylight.yangtools:odl-yangtools-databind
@@ -8556,6 +8564,7 @@ se.deversity.codekarta:code-karta-cli
 se.deversity.codekarta:code-karta-core
 se.deversity.codekarta:code-karta-input
 se.deversity.codekarta:code-karta-layout
+se.deversity.codekarta:code-karta-maven-plugin
 se.deversity.codekarta:code-karta-render
 se.deversity.common:common-license-lib
 se.deversity.vibetags:vibetags-annotations

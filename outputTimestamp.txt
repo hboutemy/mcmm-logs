@@ -25218,3 +25218,36 @@ net/optionfactory/spring/optionfactory-spring/27.7/optionfactory-spring-27.7.pom
 net/optionfactory/spring/optionfactory-spring/27.8/optionfactory-spring-27.8.pom
 net/sourceforge/pmd/pmd/7.27.0/pmd-7.27.0.pom
    from mvn: 7263 - non-mvn: 10696 - buildinfo: 0 - module: 9491 - gradle timestamp: 8910 - atlasdb: 0 = 0 release
+20260829
+cloud/opencode/base/opencode-base-parent/1.0.5/opencode-base-parent-1.0.5.pom
+com/google/mug/mug-bigquery/10.9/mug-bigquery-10.9.pom
+com/google/mug/mug-bom/10.9/mug-bom-10.9.pom
+com/google/mug/mug-concurrent-testing/10.9/mug-concurrent-testing-10.9.pom
+com/google/mug/mug-concurrent24/10.9/mug-concurrent24-10.9.pom
+com/google/mug/mug-errorprone/10.9/mug-errorprone-10.9.pom
+com/google/mug/mug-guava/10.9/mug-guava-10.9.pom
+com/google/mug/mug-protobuf/10.9/mug-protobuf-10.9.pom
+com/google/mug/mug-root/10.9/mug-root-10.9.pom
+com/google/mug/mug-safesql/10.9/mug-safesql-10.9.pom
+com/google/mug/mug-spanner/10.9/mug-spanner-10.9.pom
+com/google/mug/mug/10.9/mug-10.9.pom
+de/cuioss/cui-java-parent/1.5.10/cui-java-parent-1.5.10.pom
+de/cuioss/cui-parent-pom/1.5.10/cui-parent-pom-1.5.10.pom
+dev/cjfravel/ariadne-spark35_2.12/0.1.9-beta/ariadne-spark35_2.12-0.1.9-beta.pom
+dev/cjfravel/ariadne-spark41_2.13/0.1.9-beta/ariadne-spark41_2.13-0.1.9-beta.pom
+eu/rekawek/coffeegb/coffee-gb/2.0.6/coffee-gb-2.0.6.pom
+eu/rekawek/coffeegb/coffee-gb/2.0.7/coffee-gb-2.0.7.pom
+eu/rekawek/coffeegb/swing/2.0.6/swing-2.0.6.pom
+eu/rekawek/coffeegb/swing/2.0.7/swing-2.0.7.pom
+io/avaje/avaje-validator-parent/2.18-RC1/avaje-validator-parent-2.18-RC1.pom
+io/github/alexmercedcoder/agentic-graph-spec/1.0.3/agentic-graph-spec-1.0.3.pom
+io/github/alexmercedcoder/agentic-graph-spec/1.0.4/agentic-graph-spec-1.0.4.pom
+io/github/alexmercedcoder/open-agent-profile/1.0.3/open-agent-profile-1.0.3.pom
+io/github/alexmercedcoder/open-agent-profile/1.0.4/open-agent-profile-1.0.4.pom
+io/github/chains-project/maven-lockfile/5.18.0/maven-lockfile-5.18.0.pom
+net/ladenthin/bitcoinaddressfinder/1.8.0/bitcoinaddressfinder-1.8.0.pom
+net/ladenthin/llama/5.1.0/llama-5.1.0.pom
+nl/basjes/modbus/modbus-schema-parent/0.15.0/modbus-schema-parent-0.15.0.pom
+org/rspond/jmx/jmxmp-parent/1.0.3/jmxmp-parent-1.0.3.pom
+org/rspond/jmxmp/jmxmp-parent/1.0.3/jmxmp-parent-1.0.3.pom
+   from mvn: 2600 - non-mvn: 3208 - buildinfo: 1 - module: 3730 - gradle timestamp: 2517 - atlasdb: 0 = 0 release
