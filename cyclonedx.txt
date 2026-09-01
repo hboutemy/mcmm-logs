@@ -1665,6 +1665,7 @@ de.powerstat.toolbaseline:tbl-java-parent
 de.powerstat.validation:validation
 de.softwareforge.testing:maven-loader
 de.softwareforge.testing:pg-embedded
+de.soptim.opencgmes:cimxml
 de.speedbanking:iban-commons
 de.speedbanking:iban-commons-validation
 de.stklcode.jvault:jvault-connector
@@ -1728,6 +1729,9 @@ ee.omnifish.arquillian:glassfish-containers-docs
 ee.omnifish.arquillian:glassfish-containers-main
 ee.omnifish.arquillian:glassfish-pool-maven-plugin
 eu.copernik:copernik-xml-factory
+eu.inqudium:limesium
+eu.inqudium:limesium-reactive-logging
+eu.inqudium:limesium-servlet-logging
 eu.inqudium:tabellarium
 eu.michael-simons.neo4j:neo4j-migrations
 eu.michael-simons.neo4j:neo4j-migrations-annotation-catalog

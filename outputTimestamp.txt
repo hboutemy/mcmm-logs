@@ -25251,3 +25251,33 @@ nl/basjes/modbus/modbus-schema-parent/0.15.0/modbus-schema-parent-0.15.0.pom
 org/rspond/jmx/jmxmp-parent/1.0.3/jmxmp-parent-1.0.3.pom
 org/rspond/jmxmp/jmxmp-parent/1.0.3/jmxmp-parent-1.0.3.pom
    from mvn: 2600 - non-mvn: 3208 - buildinfo: 1 - module: 3730 - gradle timestamp: 2517 - atlasdb: 0 = 0 release
+20260830
+cloud/xuantong/xuantong-parent/2.1.0/xuantong-parent-2.1.0.pom
+com/accelhack/monica/monica-java-sdk/0.1.0/monica-java-sdk-0.1.0.pom
+com/github/hazendaz/base-parent/61/base-parent-61.pom
+com/kohlschutter/junixsocket/junixsocket-native/2.11.1/junixsocket-native-2.11.1.pom
+eu/rekawek/coffeegb/coffee-gb/2.0.8/coffee-gb-2.0.8.pom
+eu/rekawek/coffeegb/swing/2.0.8/swing-2.0.8.pom
+fr/inria/gforge/spoon/spoon-pom/11.5.1-beta-7/spoon-pom-11.5.1-beta-7.pom
+io/github/alexmercedcoder/open-agent-profile/1.0.5/open-agent-profile-1.0.5.pom
+io/github/chains-project/maven-lockfile/5.18.1-beta-1/maven-lockfile-5.18.1-beta-1.pom
+io/github/chains-project/maven-lockfile/5.18.1/maven-lockfile-5.18.1.pom
+io/github/patricklfdm/general-search-engine-processor/3.1.0/general-search-engine-processor-3.1.0.pom
+io/github/patricklfdm/general-search-engine/3.1.0/general-search-engine-3.1.0.pom
+io/github/pzhin/sfqd-core/1.1.0/sfqd-core-1.1.0.pom
+io/github/pzhin/sfqd-java-parent/1.1.0/sfqd-java-parent-1.1.0.pom
+io/hyte/platform/build/4.4.11.hyte-26350/build-4.4.11.hyte-26350.pom
+io/seatlayer/seatlayer-java/0.7.0/seatlayer-java-0.7.0.pom
+io/yupiik/fusion/fusion/1.1.0/fusion-1.1.0.pom
+land/oras/oras-java-sdk/0.8.4/oras-java-sdk-0.8.4.pom
+nl/basjes/modbus/devices/modbus-devices-parent/0.7.0/modbus-devices-parent-0.7.0.pom
+nl/basjes/sunspec/sunspec-device-parent/0.8.0/sunspec-device-parent-0.8.0.pom
+org/apache/maven/plugins/maven-compiler-plugin/4.0.0-beta-5/maven-compiler-plugin-4.0.0-beta-5-build.pom
+org/apache/maven/plugins/maven-compiler-plugin/4.0.0-beta-5/maven-compiler-plugin-4.0.0-beta-5.pom
+org/apache/wicket/wicket-parent/10.11.0/wicket-parent-10.11.0.pom
+org/codehaus/modello/modello/2.8.1/modello-2.8.1.pom
+org/hara-lang/hara-native-jvm/0.1.8/hara-native-jvm-0.1.8.pom
+org/javerland/jdbc-sheets/26.3.2/jdbc-sheets-26.3.2.pom
+org/jpmml/jpmml-sklearn/1.9.41/jpmml-sklearn-1.9.41.pom
+org/pijota/pijota/0.2.2/pijota-0.2.2.pom
+   from mvn: 1936 - non-mvn: 3414 - buildinfo: 2 - module: 3151 - gradle timestamp: 2136 - atlasdb: 0 = 0 release
