@@ -1715,6 +1715,7 @@ dev.tnsai:tnsai-server
 dev.tnsai:tnsai-tools
 dev.vality:kotlin-service-parent-pom
 dev.vality:service-parent-pom
+dk.kvalitetsit.medcom.sdn:medcom-sdn-core
 edu.hm.hafner:pmd-core
 edu.hm.hafner:pmd-java
 ee.omnifish.arquillian:arquillian-glassfish-server-embedded

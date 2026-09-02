@@ -1,0 +1,2 @@
+org/apache/commons/commons-skin/5.3.0/commons-skin-5.3.0.spdx.json
+org/opendaylight/transportpce/models/models-sbom-22.3.0.spdx
