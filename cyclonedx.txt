@@ -347,6 +347,7 @@ at.asitplus.propigator:yaml-watchosarm64
 at.asitplus.propigator:yaml-watchossimulatorarm64
 at.asitplus.warden:config-hoplite
 at.asitplus.warden:config-spring
+at.asitplus.warden:generator
 at.asitplus.warden:makoto
 at.asitplus.warden:roboto
 at.asitplus.warden:supreme-client

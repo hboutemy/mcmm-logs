@@ -1,0 +1,6 @@
+com/marklogic/marklogic-client-api/8.2.0/marklogic-client-api-8.2.0.spdx.json
+io/reshapr/reshapr-api/0.2.3/reshapr-api-0.2.3.spdx.json
+io/reshapr/reshapr-commons/0.2.3/reshapr-commons-0.2.3.spdx.json
+io/reshapr/reshapr-ctrl/0.2.3/reshapr-ctrl-0.2.3.spdx.json
+io/reshapr/reshapr-parent/0.2.3/reshapr-parent-0.2.3.spdx.json
+io/reshapr/reshapr/0.2.3/reshapr-0.2.3.spdx.json
