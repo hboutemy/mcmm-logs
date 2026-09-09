@@ -373,6 +373,7 @@ build.jenesis:build.jenesis.repository.feed
 build.jenesis:build.jenesis.repository.format
 build.jenesis:build.jenesis.repository.format.java
 build.jenesis:build.jenesis.repository.format.jenesis
+build.jenesis:build.jenesis.repository.format.lifecycle
 build.jenesis:build.jenesis.repository.format.maven
 build.jenesis:build.jenesis.repository.format.oci
 build.jenesis:build.jenesis.repository.format.raw
@@ -387,11 +388,13 @@ build.jenesis:build.jenesis.repository.importer.jenesis
 build.jenesis:build.jenesis.repository.importer.maven
 build.jenesis:build.jenesis.repository.importer.nexus
 build.jenesis:build.jenesis.repository.importer.testkit
+build.jenesis:build.jenesis.repository.net
 build.jenesis:build.jenesis.repository.observation
 build.jenesis:build.jenesis.repository.oidc
 build.jenesis:build.jenesis.repository.posture
 build.jenesis:build.jenesis.repository.proxy
 build.jenesis:build.jenesis.repository.ratelimit
+build.jenesis:build.jenesis.repository.scope
 build.jenesis:build.jenesis.repository.server
 build.jenesis:build.jenesis.repository.server.spi
 build.jenesis:build.jenesis.repository.store
@@ -399,6 +402,7 @@ build.jenesis:build.jenesis.repository.store.azure
 build.jenesis:build.jenesis.repository.store.filesystem
 build.jenesis:build.jenesis.repository.store.gcs
 build.jenesis:build.jenesis.repository.store.s3
+build.jenesis:build.jenesis.repository.store.s3compatible
 build.jenesis:build.jenesis.repository.store.testkit
 build.jenesis:build.jenesis.repository.ui
 build.jenesis:build.jenesis.repository.usage
@@ -2096,6 +2100,7 @@ io.github.orhaugh:chord-protocol
 io.github.orhaugh:chord-testkit
 io.github.orhaugh:chord-transport
 io.github.ptsdirect:pts
+io.github.quant1x:mopr
 io.github.r4fterman:abbot
 io.github.r4fterman:com.windowtester
 io.github.r4fterman:com.windowtester.runtime

@@ -25520,3 +25520,19 @@ org/hara-lang/hara-native-jvm/0.1.26/hara-native-jvm-0.1.26.pom
 org/jdbscript/jdbscript/1.1.0/jdbscript-1.1.0.pom
 org/metricshub/winrm-java/2.2.00/winrm-java-2.2.00.pom
    from mvn: 1841 - non-mvn: 2868 - buildinfo: 1 - module: 3166 - gradle timestamp: 2380 - atlasdb: 0 = 0 release
+20260906
+com/codinglair/taf/codinglair-taf/1.0.0/codinglair-taf-1.0.0.pom
+com/flowlogix/checkstyle/139/checkstyle-139-build.pom
+com/flowlogix/infra-pom/139/infra-pom-139-build.pom
+com/flowlogix/infra-pom/139/infra-pom-139.pom
+com/netflix/com.netflix.tools.cli/0.17.1/com.netflix.tools.cli-0.17.1.pom
+com/netflix/com.netflix.tools.ja/0.17.1/com.netflix.tools.ja-0.17.1.pom
+com/netflix/com.netflix.tools.launcher/0.17.1/com.netflix.tools.launcher-0.17.1.pom
+eu/europa/ted/eforms/eforms-core-java/1.9.0/eforms-core-java-1.9.0.pom
+eu/europa/ted/eforms/efx-toolkit-java/2.0.0-alpha.8/efx-toolkit-java-2.0.0-alpha.8.pom
+fr/inria/gforge/spoon/spoon-pom/11.5.1-beta-8/spoon-pom-11.5.1-beta-8.pom
+io/cucumber/cucumber-jvm/7.34.8/cucumber-jvm-7.34.8.pom
+io/github/minh124199/viet-template-parent/0.1.0/viet-template-parent-0.1.0.pom
+org/apache/activemq/activemq-parent/5.19.11/activemq-parent-5.19.11.pom
+org/apache/commons/commons-secure-xml/1.0.0/commons-secure-xml-1.0.0.pom
+   from mvn: 2386 - non-mvn: 4557 - buildinfo: 0 - module: 3156 - gradle timestamp: 1995 - atlasdb: 0 = 0 release
