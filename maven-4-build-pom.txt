@@ -3238,3 +3238,16 @@ com/flowlogix/flowlogix/11.5/flowlogix-11.5-build.pom
 20260903
 20260904
 20260905
+20260906
+com/flowlogix/base-pom/139/base-pom-139-build.pom
+com/flowlogix/checkstyle/139/checkstyle-139-build.pom
+com/flowlogix/depchain/depchain/131/depchain-131-build.pom
+com/flowlogix/depchain/integration-test-ng/131/integration-test-ng-131-build.pom
+com/flowlogix/depchain/integration-test/131/integration-test-131-build.pom
+com/flowlogix/depchain/shiro-jakarta/131/shiro-jakarta-131-build.pom
+com/flowlogix/depchain/unit-test/131/unit-test-131-build.pom
+com/flowlogix/flowlogix-bom/45/flowlogix-bom-45-build.pom
+com/flowlogix/glassfish-pom/139/glassfish-pom-139-build.pom
+com/flowlogix/infra-pom/139/infra-pom-139-build.pom
+com/flowlogix/payara-pom/139/payara-pom-139-build.pom
+com/flowlogix/server-common/139/server-common-139-build.pom

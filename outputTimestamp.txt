@@ -25490,3 +25490,33 @@ org/peekaboot/peekaboot-parent/0.1.0/peekaboot-parent-0.1.0.pom
 org/slf4j/slf4j-parent/2.0.19/slf4j-parent-2.0.19.pom
 se/kth/castor/depclean-parent-pom/2.2.0/depclean-parent-pom-2.2.0.pom
    from mvn: 7337 - non-mvn: 6285 - buildinfo: 1 - module: 5442 - gradle timestamp: 4461 - atlasdb: 0 = 0 release
+20260905
+com/github/spotbugs/spotbugs-maven-plugin/4.10.4.1/spotbugs-maven-plugin-4.10.4.1.pom
+com/github/tomcat-slf4j-logback/tomcat-slf4j-logback-parent/2.0.2/tomcat-slf4j-logback-parent-2.0.2.pom
+com/netflix/com.netflix.tools.cli/0.17.0/com.netflix.tools.cli-0.17.0.pom
+com/netflix/com.netflix.tools.ja/0.17.0/com.netflix.tools.ja-0.17.0.pom
+com/netflix/com.netflix.tools.jig.test/0.13.0/com.netflix.tools.jig.test-0.13.0.pom
+com/netflix/com.netflix.tools.jig.test/0.13.1/com.netflix.tools.jig.test-0.13.1.pom
+com/netflix/com.netflix.tools.jig.test/0.13.2/com.netflix.tools.jig.test-0.13.2.pom
+com/netflix/com.netflix.tools.jig/0.13.0/com.netflix.tools.jig-0.13.0.pom
+com/netflix/com.netflix.tools.jig/0.13.1/com.netflix.tools.jig-0.13.1.pom
+com/netflix/com.netflix.tools.jig/0.13.2/com.netflix.tools.jig-0.13.2.pom
+com/netflix/com.netflix.tools.launcher/0.17.0/com.netflix.tools.launcher-0.17.0.pom
+com/patbaumgartner/embabel/embabel-workflow-visualizer-parent/1.1.0/embabel-workflow-visualizer-parent-1.1.0.pom
+com/rejment/jhttp/1.4.0/jhttp-1.4.0.pom
+eu/maveniverse/maven/nisse/nisse/0.9.11/nisse-0.9.11.pom
+io/github/dancan254/log-guard/0.1.0/log-guard-0.1.0.pom
+io/github/wangruis/flying-orm/3.3.0/flying-orm-3.3.0.pom
+io/seatlayer/seatlayer-java/0.7.1/seatlayer-java-0.7.1.pom
+io/streamnative/buildtools/4.0.12.6/buildtools-4.0.12.6.pom
+io/streamnative/buildtools/4.2.1.14/buildtools-4.2.1.14.pom
+io/streamnative/pulsar-bom/4.0.12.6/pulsar-bom-4.0.12.6.pom
+io/streamnative/pulsar-bom/4.2.1.14/pulsar-bom-4.2.1.14.pom
+io/streamnative/pulsar/4.0.12.6/pulsar-4.0.12.6.pom
+io/streamnative/pulsar/4.2.1.14/pulsar-4.2.1.14.pom
+org/hara-lang/hara-native-jvm/0.1.24/hara-native-jvm-0.1.24.pom
+org/hara-lang/hara-native-jvm/0.1.25/hara-native-jvm-0.1.25.pom
+org/hara-lang/hara-native-jvm/0.1.26/hara-native-jvm-0.1.26.pom
+org/jdbscript/jdbscript/1.1.0/jdbscript-1.1.0.pom
+org/metricshub/winrm-java/2.2.00/winrm-java-2.2.00.pom
+   from mvn: 1841 - non-mvn: 2868 - buildinfo: 1 - module: 3166 - gradle timestamp: 2380 - atlasdb: 0 = 0 release
