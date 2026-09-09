@@ -133,7 +133,11 @@ io.opentelemetry.javaagent:opentelemetry-javaagent
 io.reshapr:reshapr
 io.reshapr:reshapr-api
 io.reshapr:reshapr-commons
+io.reshapr:reshapr-controllers
 io.reshapr:reshapr-ctrl
+io.reshapr:reshapr-kube-admission
+io.reshapr:reshapr-kube-api
+io.reshapr:reshapr-kube-operator
 io.reshapr:reshapr-parent
 land.oras:oras-java-sdk
 net.dapete:exceptional

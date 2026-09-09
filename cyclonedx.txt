@@ -2,6 +2,7 @@ ai.docling:docling-core
 ai.docling:docling-serve-api
 ai.docling:docling-serve-client
 ai.docling:docling-testcontainers
+ai.ravenroot:ravenroot-parent
 ai.timefold.solver.enterprise:timefold-solver-enterprise-bom
 ai.timefold.solver.enterprise:timefold-solver-enterprise-build-parent
 ai.timefold.solver.enterprise:timefold-solver-enterprise-core
@@ -2737,6 +2738,15 @@ media.barney:contract-core
 media.barney:contract-java
 media.barney:contract-spring-boot-starter
 my.bookmaker:make
+net.bytebuddy:byte-buddy
+net.bytebuddy:byte-buddy-agent
+net.bytebuddy:byte-buddy-android
+net.bytebuddy:byte-buddy-android-test
+net.bytebuddy:byte-buddy-benchmark
+net.bytebuddy:byte-buddy-dep
+net.bytebuddy:byte-buddy-gradle-plugin
+net.bytebuddy:byte-buddy-maven-plugin
+net.bytebuddy:byte-buddy-parent
 net.dapete:exceptional
 net.dapete:locks
 net.e175.klaus:solarpositioning
@@ -5214,6 +5224,7 @@ org.docx4j:docx4j-ImportXHTML-parent
 org.docx4j:docx4j-ImportXHTML-samples
 org.docx4j:docx4j-JAXB-MOXy
 org.docx4j:docx4j-JAXB-ReferenceImpl
+org.docx4j:docx4j-bundle
 org.docx4j:docx4j-conversion-via-microsoft-graph
 org.docx4j:docx4j-copy
 org.docx4j:docx4j-core
@@ -5229,6 +5240,7 @@ org.docx4j:docx4j-export-fo-fonts-liberation
 org.docx4j:docx4j-export-fo-fonts-symbol
 org.docx4j:docx4j-generated-objects
 org.docx4j:docx4j-legacy-service
+org.docx4j:docx4j-markdown
 org.docx4j:docx4j-openxml-objects
 org.docx4j:docx4j-openxml-objects-pml
 org.docx4j:docx4j-openxml-objects-sml
@@ -8282,12 +8294,14 @@ org.opendaylight.transportpce.models:openroadm-common-13.1.0
 org.opendaylight.transportpce.models:openroadm-common-13.1.1
 org.opendaylight.transportpce.models:openroadm-common-17.1.0
 org.opendaylight.transportpce.models:openroadm-common-2.2.1
+org.opendaylight.transportpce.models:openroadm-common-6.1.0
 org.opendaylight.transportpce.models:openroadm-common-7.1.0
 org.opendaylight.transportpce.models:openroadm-device-1.2.1
 org.opendaylight.transportpce.models:openroadm-device-13.1.0
 org.opendaylight.transportpce.models:openroadm-device-13.1.1
 org.opendaylight.transportpce.models:openroadm-device-17.1.0
 org.opendaylight.transportpce.models:openroadm-device-2.2.1
+org.opendaylight.transportpce.models:openroadm-device-6.1.0
 org.opendaylight.transportpce.models:openroadm-device-7.1.0
 org.opendaylight.transportpce.models:openroadm-network-10.1.0
 org.opendaylight.transportpce.models:openroadm-network-13.1.0

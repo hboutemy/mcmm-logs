@@ -3231,3 +3231,7 @@ com/google/adk/samples/google-adk-sample-github-tools/1.9.0/google-adk-sample-gi
 com/google/adk/samples/google-adk-sample-helloworld/1.9.0/google-adk-sample-helloworld-1.9.0-build.pom
 com/google/adk/samples/google-adk-sample-mcpfilesystem/1.9.0/google-adk-sample-mcpfilesystem-1.9.0-build.pom
 20260901
+20260902
+com/flowlogix/flowlogix-datamodel/11.5/flowlogix-datamodel-11.5-build.pom
+com/flowlogix/flowlogix-jee/11.5/flowlogix-jee-11.5-build.pom
+com/flowlogix/flowlogix/11.5/flowlogix-11.5-build.pom

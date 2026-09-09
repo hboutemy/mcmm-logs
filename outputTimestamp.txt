@@ -25343,3 +25343,32 @@ org/jline/jline-parent/4.4.1/jline-parent-4.4.1.pom
 org/xwiki/commons/xwiki-commons/18.7.0/xwiki-commons-18.7.0.pom
 org/xwiki/rendering/xwiki-rendering/18.7.0/xwiki-rendering-18.7.0.pom
    from mvn: 5911 - non-mvn: 9163 - buildinfo: 0 - module: 7265 - gradle timestamp: 6694 - atlasdb: 0 = 0 release
+20260901
+com/github/nbbrd/jdplus-sdmx/jdplus-sdmx-bom/3.5.0/jdplus-sdmx-bom-3.5.0.pom
+com/github/nbbrd/jdplus-sdmx/jdplus-sdmx/3.5.0/jdplus-sdmx-3.5.0.pom
+com/guanmengyuan/xbatis-tdengine/1.0.5/xbatis-tdengine-1.0.5.pom
+com/intechcore/polarion-compatibility-maven-plugin/0.1.1/polarion-compatibility-maven-plugin-0.1.1.pom
+com/pritset/pritset-java/0.1.5/pritset-java-0.1.5.pom
+de/splatgames/aether/weaver/aether-weaver/0.1.0/aether-weaver-0.1.0.pom
+io/cucumber/cucumber-parent/5.7.0/cucumber-parent-5.7.0.pom
+io/cucumber/pretty-formatter/4.0.2/pretty-formatter-4.0.2.pom
+io/github/bilalefeuysl/notification/notification-parent/0.1.0/notification-parent-0.1.0.pom
+io/github/chains-project/maven-lockfile/5.18.2/maven-lockfile-5.18.2.pom
+io/github/chains-project/maven-lockfile/5.18.3/maven-lockfile-5.18.3.pom
+io/github/git-commit-id/git-commit-id-maven-plugin/10.0.1/git-commit-id-maven-plugin-10.0.1.pom
+io/github/patricklfdm/general-search-engine-processor/3.4.0/general-search-engine-processor-3.4.0.pom
+io/github/patricklfdm/general-search-engine/3.4.0/general-search-engine-3.4.0.pom
+io/github/tristankruse/archunitjava/0.1.0/archunitjava-0.1.0.pom
+io/hyte/platform/build/4.4.11.hyte-26351/build-4.4.11.hyte-26351.pom
+io/telicent/smart-caches/graph/scg-base/1.1.7/scg-base-1.1.7.pom
+net/ladenthin/srcmorph-cli/1.2.0/srcmorph-cli-1.2.0.pom
+net/ladenthin/srcmorph-maven-plugin/1.2.0/srcmorph-maven-plugin-1.2.0.pom
+net/ladenthin/srcmorph/1.2.0/srcmorph-1.2.0.pom
+org/apache/commons/commons-skin/5.3.0/commons-skin-5.3.0.pom
+org/apache/tooling/atr-maven-plugin/1.0.0-beta-1/atr-maven-plugin-1.0.0-beta-1.pom
+org/finos/legend/engine/legend-engine/4.140.3/legend-engine-4.140.3.pom
+org/hara-lang/hara-native-jvm/0.1.17/hara-native-jvm-0.1.17.pom
+org/hara-lang/hara-native-jvm/0.1.18/hara-native-jvm-0.1.18.pom
+org/hara-lang/hara-native-jvm/0.1.19/hara-native-jvm-0.1.19.pom
+org/hara-lang/hara-native-jvm/0.1.20/hara-native-jvm-0.1.20.pom
+   from mvn: 6865 - non-mvn: 8153 - buildinfo: 1 - module: 6296 - gradle timestamp: 5568 - atlasdb: 0 = 0 release
