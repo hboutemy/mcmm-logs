@@ -1733,6 +1733,9 @@ ee.omnifish.arquillian:glassfish-containers-main
 ee.omnifish.arquillian:glassfish-pool-maven-plugin
 es.blackleg:jlibnotify
 eu.copernik:copernik-xml-factory
+eu.inqudium:legatium
+eu.inqudium:legatium-restclient-logging
+eu.inqudium:legatium-webclient-logging
 eu.inqudium:limesium
 eu.inqudium:limesium-reactive-logging
 eu.inqudium:limesium-servlet-logging
@@ -7810,6 +7813,7 @@ org.opendaylight.mdsal:binding-parent
 org.opendaylight.mdsal:bnd-parent
 org.opendaylight.mdsal:bundle-parent
 org.opendaylight.mdsal:dom-parent
+org.opendaylight.mdsal:dom-store-inmemory
 org.opendaylight.mdsal:feature-parent
 org.opendaylight.mdsal:features-mdsal
 org.opendaylight.mdsal:features-mdsal-experimental
@@ -7861,6 +7865,8 @@ org.opendaylight.mdsal:mdsal-trace-impl
 org.opendaylight.mdsal:mdsal-yanglib-api
 org.opendaylight.mdsal:mdsal-yanglib-rfc7895
 org.opendaylight.mdsal:mdsal-yanglib-rfc8525
+org.opendaylight.mdsal:odl-mdsal-1node-binding
+org.opendaylight.mdsal:odl-mdsal-1node-dom
 org.opendaylight.mdsal:odl-mdsal-binding
 org.opendaylight.mdsal:odl-mdsal-binding-api
 org.opendaylight.mdsal:odl-mdsal-binding-base

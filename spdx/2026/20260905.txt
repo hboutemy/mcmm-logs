@@ -1,0 +1,2 @@
+org/opendaylight/infrautils/infrautils-sbom-8.0.2.spdx
+org/opendaylight/mdsal/mdsal-sbom-17.0.0.spdx
