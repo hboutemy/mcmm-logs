@@ -1,0 +1,6 @@
+com/exasol/project-keeper-cli/5.7.5/project-keeper-cli-5.7.5-sbom.spdx
+com/exasol/project-keeper-core/5.7.5/project-keeper-core-5.7.5-sbom.spdx
+com/exasol/project-keeper-java-project-crawler/5.7.5/project-keeper-java-project-crawler-5.7.5-sbom.spdx
+com/exasol/project-keeper-maven-plugin/5.7.5/project-keeper-maven-plugin-5.7.5-sbom.spdx
+com/exasol/project-keeper-shared-model-classes/5.7.5/project-keeper-shared-model-classes-5.7.5-sbom.spdx
+org/opendaylight/transportpce/models/models-sbom-23.2.0.spdx
