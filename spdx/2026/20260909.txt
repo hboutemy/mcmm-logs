@@ -1,0 +1,2 @@
+com/exasol/exasol-testcontainers/8.0.2/exasol-testcontainers-8.0.2-sbom.spdx
+org/opendaylight/transportpce/transportpce-sbom-12.2.0.spdx
