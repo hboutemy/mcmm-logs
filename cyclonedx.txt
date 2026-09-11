@@ -1744,6 +1744,7 @@ eu.inqudium:limesium
 eu.inqudium:limesium-reactive-logging
 eu.inqudium:limesium-servlet-logging
 eu.inqudium:tabellarium
+eu.maveniverse.maven.scalpel:scalpel
 eu.michael-simons.neo4j:neo4j-migrations
 eu.michael-simons.neo4j:neo4j-migrations-annotation-catalog
 eu.michael-simons.neo4j:neo4j-migrations-annotation-processing
@@ -2099,6 +2100,10 @@ io.github.orhaugh:chord-parent
 io.github.orhaugh:chord-protocol
 io.github.orhaugh:chord-testkit
 io.github.orhaugh:chord-transport
+io.github.prabhnoor12:handoff-checker
+io.github.prabhnoor12:handoff-core
+io.github.prabhnoor12:handoff-parent
+io.github.prabhnoor12:handoff-testkit
 io.github.ptsdirect:pts
 io.github.quant1x:mopr
 io.github.r4fterman:abbot
