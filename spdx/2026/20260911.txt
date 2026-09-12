@@ -1,0 +1,4 @@
+com/exasol/exasol-virtual-schema/9.0.4/exasol-virtual-schema-9.0.4-sbom.spdx
+org/opendaylight/gnmi/gnmi-sbom-3.0.1.spdx
+org/opendaylight/transportpce/models/models-sbom-24.1.0.spdx
+org/opendaylight/transportpce/transportpce-sbom-13.1.0.spdx
