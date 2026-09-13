@@ -1,0 +1,7 @@
+build/jenesis/build.jenesis/0.13.0/build.jenesis-0.13.0-cyclonedx.json
+media/barney/contract-core/0.1.13/contract-core-0.1.13-cyclonedx.xml
+media/barney/contract-core/0.1.13/contract-core-0.1.13-cyclonedx.json
+media/barney/contract-java/0.1.13/contract-java-0.1.13-cyclonedx.xml
+media/barney/contract-java/0.1.13/contract-java-0.1.13-cyclonedx.json
+media/barney/contract-spring-boot-starter/0.1.13/contract-spring-boot-starter-0.1.13-cyclonedx.json
+media/barney/contract-spring-boot-starter/0.1.13/contract-spring-boot-starter-0.1.13-cyclonedx.xml
