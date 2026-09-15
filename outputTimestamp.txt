@@ -25921,3 +25921,32 @@ org/codehaus/mojo/buildplan-maven-plugin/2.3.1/buildplan-maven-plugin-2.3.1.pom
 org/codehaus/mojo/mrm/2.0.0/mrm-2.0.0.pom
 org/lolaf/betty/betty-parent/0.9.0/betty-parent-0.9.0.pom
    from mvn: 2583 - non-mvn: 6797 - buildinfo: 0 - module: 6046 - gradle timestamp: 4954 - atlasdb: 0 = 0 release
+20260913
+com/github/jsqlparser/jsqlparser/5.4/jsqlparser-5.4.pom
+com/rejment/jparq/1.1.0/jparq-1.1.0.pom
+com/rejment/jparq/1.2.0/jparq-1.2.0.pom
+eu/rekawek/coffeegb/coffee-gb/2.1.5/coffee-gb-2.1.5.pom
+eu/rekawek/coffeegb/swing/2.1.5/swing-2.1.5.pom
+fr/inria/gforge/spoon/spoon-pom/11.5.1-beta-9/spoon-pom-11.5.1-beta-9.pom
+io/airlift/airbase-policy/411/airbase-policy-411.pom
+io/airlift/airbase/411/airbase-411.pom
+io/fluxzero/fluxzero-sdk-java/2.0.0-rc.11/fluxzero-sdk-java-2.0.0-rc.11.pom
+io/fluxzero/tools/fluxzero-dev-server/1.10.2/fluxzero-dev-server-1.10.2.pom
+io/github/chains-project/maven-lockfile/5.18.4-beta-2/maven-lockfile-5.18.4-beta-2.pom
+io/github/raialmeida/qa-database-utils/1.0.1/qa-database-utils-1.0.1.pom
+io/github/raialmeida/qa-database-utils/2.0.0/qa-database-utils-2.0.0.pom
+io/github/xfoundries/jfoundry-dependencies/1.6.0/jfoundry-dependencies-1.6.0.pom
+io/github/xfoundries/jfoundry-foundation-dependencies/1.6.0/jfoundry-foundation-dependencies-1.6.0.pom
+io/github/xfoundries/jfoundry-helidon-dependencies/1.6.0/jfoundry-helidon-dependencies-1.6.0.pom
+io/github/xfoundries/jfoundry-modules-dependencies/1.6.0/jfoundry-modules-dependencies-1.6.0.pom
+io/github/xfoundries/jfoundry-parent/1.6.0/jfoundry-parent-1.6.0.pom
+io/github/xfoundries/jfoundry-quarkus-dependencies/1.6.0/jfoundry-quarkus-dependencies-1.6.0.pom
+io/github/xfoundries/jfoundry-spring-boot-dependencies/1.6.0/jfoundry-spring-boot-dependencies-1.6.0.pom
+io/github/xfoundries/jfoundry-spring-boot-parent/1.6.0/jfoundry-spring-boot-parent-1.6.0.pom
+io/github/xfoundries/jfoundry-spring-cloud-dependencies/1.6.0/jfoundry-spring-cloud-dependencies-1.6.0.pom
+io/jstach/rainbowgum/rainbowgum-maven-parent/0.11.0/rainbowgum-maven-parent-0.11.0.pom
+one/nextera/openat/javelle/javelle/0.2.7/javelle-0.2.7.pom
+org/apache/camel/karaf/camel-karaf/4.18.4/camel-karaf-4.18.4.pom
+org/apache/nifi/nifi/2.12.0/nifi-2.12.0.pom
+org/simplify4u/plugins/sign-maven-plugin/1.2.0/sign-maven-plugin-1.2.0.pom
+   from mvn: 3288 - non-mvn: 3771 - buildinfo: 0 - module: 3970 - gradle timestamp: 3304 - atlasdb: 0 = 0 release

@@ -470,6 +470,16 @@ com.bloomberg.pushiko:pushiko-json
 com.bloomberg.pushiko:pushiko-metrics
 com.bloomberg.pushiko:pushiko-netty-ktx
 com.bloomberg.pushiko:pushiko-pools
+com.bloomberg.selekt:selekt-android-lint
+com.bloomberg.selekt:selekt-api
+com.bloomberg.selekt:selekt-commons
+com.bloomberg.selekt:selekt-java
+com.bloomberg.selekt:selekt-jdbc
+com.bloomberg.selekt:selekt-jvm
+com.bloomberg.selekt:selekt-sqlite3-api
+com.bloomberg.selekt:selekt-sqlite3-classes
+com.bloomberg.selekt:selekt-sqlite3-ext
+com.bloomberg.selekt:selekt-sqlite3-sqlcipher
 com.buschmais.jqassistant.cli:jqassistant-commandline-neo4jv4
 com.buschmais.jqassistant.cli:jqassistant-commandline-neo4jv5
 com.buschmais.jqassistant.plugin:common
@@ -1341,6 +1351,7 @@ com.io7m.zugorum:com.io7m.zugorum.distribution
 com.io7m.zugorum:com.io7m.zugorum.oci
 com.io7m.zugorum:com.io7m.zugorum.server
 com.io7m.zugorum:com.io7m.zugorum.tests
+com.larksuite.oapi:channel-sdk
 com.mountainminds:three4j
 com.ongres.pgconfig:pgconfig-validator
 com.ongres.scram:scram-aggregator
@@ -4660,6 +4671,7 @@ org.apache.maven.shared:maven-invoker
 org.apache.maven.shared:maven-jarsigner
 org.apache.maven.shared:maven-script-interpreter
 org.apache.maven.shared:maven-shared-components
+org.apache.maven.shared:maven-shared-io
 org.apache.maven.shared:maven-shared-jar
 org.apache.maven.shared:maven-shared-resources
 org.apache.maven.skins:maven-fluido-skin

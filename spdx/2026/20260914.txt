@@ -1,0 +1,10 @@
+com/exasol/error-code-crawler-maven-plugin/2.1.2/error-code-crawler-maven-plugin-2.1.2-sbom.spdx
+com/exasol/exasol-test-setup-abstraction-java/3.0.1/exasol-test-setup-abstraction-java-3.0.1-sbom.spdx
+com/exasol/virtual-schema-common-document/12.1.1/virtual-schema-common-document-12.1.1-sbom.spdx
+com/exasol/virtual-schema-shared-integration-tests/3.0.4/virtual-schema-shared-integration-tests-3.0.4-sbom.spdx
+io/mishmash/opentelemetry/collector-embedded/1.2.1/collector-embedded-1.2.1.spdx.json
+io/mishmash/opentelemetry/druid-otlp-format/1.2.1/druid-otlp-format-1.2.1.spdx.json
+io/mishmash/opentelemetry/opentelemetry-server-embedded/1.2.1/opentelemetry-server-embedded-1.2.1.spdx.json
+io/mishmash/opentelemetry/persistence-protobuf/1.2.1/persistence-protobuf-1.2.1.spdx.json
+io/mishmash/opentelemetry/server-parquet/1.2.1/server-parquet-1.2.1.spdx.json
+org/opendaylight/odlparent/odlparent-sbom-15.0.2.spdx
