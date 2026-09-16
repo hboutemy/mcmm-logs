@@ -1,0 +1,9 @@
+com/exasol/hamcrest-resultset-matcher/1.7.4/hamcrest-resultset-matcher-1.7.4-sbom.spdx
+com/exasol/import-export-udf-common-scala/2.0.4/import-export-udf-common-scala-2.0.4-sbom.spdx
+com/exasol/parquet-io-java/2.1.1/parquet-io-java-2.1.1-sbom.spdx
+com/exasol/small-json-files-test-fixture/0.1.16/small-json-files-test-fixture-0.1.16-sbom.spdx
+org/opendaylight/infrautils/infrautils-sbom-8.0.3.spdx
+org/spdx/java-spdx-library/2.0.5/java-spdx-library-2.0.5.spdx.json
+org/spdx/spdx-java-core/1.0.5/spdx-java-core-1.0.5.spdx.json
+org/spdx/spdx-java-model-2_X/1.0.5/spdx-java-model-2_X-1.0.5.spdx.json
+org/spdx/spdx-java-model-3_0/1.0.5/spdx-java-model-3_0-1.0.5.spdx.json

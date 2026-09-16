@@ -15,6 +15,7 @@ com.exasol:project-keeper-core
 com.exasol:project-keeper-java-project-crawler
 com.exasol:project-keeper-maven-plugin
 com.exasol:project-keeper-shared-model-classes
+com.exasol:small-json-files-test-fixture
 com.exasol:spark-connector-common-java
 com.exasol:sql-statement-builder
 com.exasol:telemetry-java
