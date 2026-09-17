@@ -2219,6 +2219,12 @@ io.github.usmanovmahmudkhan:chat-server-postgres
 io.github.usmanovmahmudkhan:chat-server-redis
 io.github.usmanovmahmudkhan:real-time-chat-server
 io.github.usmanovmahmudkhan:real-time-chat-server-parent
+io.github.vadimbabich:entity-metamodel-bom
+io.github.vadimbabich:entity-metamodel-core
+io.github.vadimbabich:entity-metamodel-parent
+io.github.vadimbabich:entity-metamodel-processor
+io.github.vadimbabich:entity-metamodel-runtime
+io.github.vadimbabich:entity-metamodel-runtime-r2dbc
 io.github.xfoundries:jfoundry-parent
 io.github.xhufang:skis-parent
 io.github.yravelo:postgres-bulk-core

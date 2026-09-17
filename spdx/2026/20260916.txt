@@ -1,0 +1,11 @@
+com/exasol/bucketfs-java/5.0.1/bucketfs-java-5.0.1-sbom.spdx
+com/exasol/database-cleaner/2.0.1/database-cleaner-2.0.1-sbom.spdx
+com/exasol/test-db-builder-java/4.0.3/test-db-builder-java-4.0.3-sbom.spdx
+com/exasol/udf-api-java/1.0.12/udf-api-java-1.0.12-sbom.spdx
+com/exasol/virtual-schema-common-document-files/9.1.1/virtual-schema-common-document-files-9.1.1-sbom.spdx
+org/opendaylight/ietf/ietf-sbom-3.0.1.spdx
+org/opendaylight/yangtools/yangtools-sbom-16.1.0.spdx
+org/spdx/spdx-jackson-store/2.0.7/spdx-jackson-store-2.0.7.spdx.json
+org/spdx/spdx-rdf-store/2.0.5/spdx-rdf-store-2.0.5.spdx.json
+org/spdx/spdx-tagvalue-store/2.0.5/spdx-tagvalue-store-2.0.5.spdx.json
+org/spdx/spdx-v3jsonld-store/1.0.6/spdx-v3jsonld-store-1.0.6.spdx.json

@@ -3395,3 +3395,13 @@ com/antwerkz/cartographer-maven-plugin/1.0.2/cartographer-maven-plugin-1.0.2-bui
 com/antwerkz/cartographer/1.0.2/cartographer-1.0.2-build.pom
 org/apache/maven/plugins/maven-deploy-plugin/4.0.0-beta-3/maven-deploy-plugin-4.0.0-beta-3-build.pom
 org/apache/maven/plugins/maven-install-plugin/4.0.0-beta-3/maven-install-plugin-4.0.0-beta-3-build.pom
+20260916
+com/flowlogix/archetypes/starter/145/starter-145-build.pom
+com/flowlogix/archetypes/starter/146/starter-146-build.pom
+com/flowlogix/base-pom/141/base-pom-141-build.pom
+com/flowlogix/checkstyle/141/checkstyle-141-build.pom
+com/flowlogix/flowlogix-bom/47/flowlogix-bom-47-build.pom
+com/flowlogix/glassfish-pom/141/glassfish-pom-141-build.pom
+com/flowlogix/infra-pom/141/infra-pom-141-build.pom
+com/flowlogix/payara-pom/141/payara-pom-141-build.pom
+com/flowlogix/server-common/141/server-common-141-build.pom
