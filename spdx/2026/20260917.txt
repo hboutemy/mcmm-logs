@@ -1,0 +1,12 @@
+com/exasol/project-keeper-cli/5.7.6/project-keeper-cli-5.7.6-sbom.spdx
+com/exasol/project-keeper-core/5.7.6/project-keeper-core-5.7.6-sbom.spdx
+com/exasol/project-keeper-java-project-crawler/5.7.6/project-keeper-java-project-crawler-5.7.6-sbom.spdx
+com/exasol/project-keeper-maven-plugin/5.7.6/project-keeper-maven-plugin-5.7.6-sbom.spdx
+com/exasol/project-keeper-shared-model-classes/5.7.6/project-keeper-shared-model-classes-5.7.6-sbom.spdx
+io/reshapr/reshapr-api/1.0.0-rc1/reshapr-api-1.0.0-rc1.spdx.json
+io/reshapr/reshapr-commons/1.0.0-rc1/reshapr-commons-1.0.0-rc1.spdx.json
+io/reshapr/reshapr-ctrl/1.0.0-rc1/reshapr-ctrl-1.0.0-rc1.spdx.json
+io/reshapr/reshapr-parent/1.0.0-rc1/reshapr-parent-1.0.0-rc1.spdx.json
+io/reshapr/reshapr/1.0.0-rc1/reshapr-1.0.0-rc1.spdx.json
+org/opendaylight/mdsal/mdsal-sbom-17.0.1.spdx
+org/spdx/spdx-spreadsheet-store/2.0.5/spdx-spreadsheet-store-2.0.5.spdx.json

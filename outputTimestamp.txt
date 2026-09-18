@@ -26028,3 +26028,29 @@ org/spdx/java-spdx-library/2.0.5/java-spdx-library-2.0.5.pom
 org/spdx/spdx-java-core/1.0.5/spdx-java-core-1.0.5.pom
 tech/schematic/supertest/schematic-supertest/0.1.0/schematic-supertest-0.1.0.pom
    from mvn: 7090 - non-mvn: 8547 - buildinfo: 1 - module: 6193 - gradle timestamp: 4327 - atlasdb: 0 = 0 release
+20260916
+ai/ravenroot/ravenroot-parent/0.4.1-alpha.1/ravenroot-parent-0.4.1-alpha.1.pom
+com/flowlogix/checkstyle/141/checkstyle-141-build.pom
+com/flowlogix/infra-pom/141/infra-pom-141-build.pom
+com/flowlogix/infra-pom/141/infra-pom-141.pom
+de/cuioss/cui-java-parent/1.7.5/cui-java-parent-1.7.5.pom
+de/cuioss/cui-parent-pom/1.7.5/cui-parent-pom-1.7.5.pom
+eu/maveniverse/maven/domtrip/domtrip/1.6.1/domtrip-1.6.1.pom
+eu/maveniverse/maven/scalpel/scalpel/0.4.2/scalpel-0.4.2.pom
+io/fluxzero/fluxzero-sdk-java/1.280.0/fluxzero-sdk-java-1.280.0.pom
+io/fluxzero/fluxzero-sdk-java/1.281.0/fluxzero-sdk-java-1.281.0.pom
+io/fluxzero/fluxzero-sdk-java/1.282.0/fluxzero-sdk-java-1.282.0.pom
+io/fluxzero/fluxzero-sdk-java/2.0.0-rc.14/fluxzero-sdk-java-2.0.0-rc.14.pom
+io/fluxzero/fluxzero-sdk-java/2.0.0-rc.15/fluxzero-sdk-java-2.0.0-rc.15.pom
+io/fluxzero/fluxzero-sdk-java/2.0.0-rc.16/fluxzero-sdk-java-2.0.0-rc.16.pom
+io/github/gastongouron/ironpress/1.7.0/ironpress-1.7.0.pom
+io/github/jefersonsantos06/stdnum4j-parent/1.0.1/stdnum4j-parent-1.0.1.pom
+io/github/nicklambourne/slackblocks/2.3.0/slackblocks-2.3.0.pom
+io/github/sangbui-pm/centralprobe/central-publication-probe/0.0.1/central-publication-probe-0.0.1.pom
+io/github/slaouiss/semantic-chunker/1.0.1/semantic-chunker-1.0.1.pom
+io/github/slaouiss/semantic-chunker/1.0.2/semantic-chunker-1.0.2.pom
+io/github/vadimbabich/entity-metamodel-parent/2.0.0-RC1/entity-metamodel-parent-2.0.0-RC1.pom
+io/quarkus/quarkus-parent/3.39.4/quarkus-parent-3.39.4.pom
+io/quarkus/quarkus-parent/3.40.0.CR1/quarkus-parent-3.40.0.CR1.pom
+io/telicent/smart-caches/graph/scg-base/1.1.11/scg-base-1.1.11.pom
+   from mvn: 5156 - non-mvn: 10165 - buildinfo: 0 - module: 9014 - gradle timestamp: 6805 - atlasdb: 0 = 0 release
