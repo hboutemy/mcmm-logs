@@ -1,0 +1,4 @@
+io/reshapr/reshapr-controllers/0.0.2/reshapr-controllers-0.0.2.spdx.json
+io/reshapr/reshapr-kube-admission/0.0.2/reshapr-kube-admission-0.0.2.spdx.json
+io/reshapr/reshapr-kube-api/0.0.2/reshapr-kube-api-0.0.2.spdx.json
+io/reshapr/reshapr-kube-operator/0.0.2/reshapr-kube-operator-0.0.2.spdx.json
