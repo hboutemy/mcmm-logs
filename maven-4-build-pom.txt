@@ -3431,3 +3431,11 @@ com/google/adk/samples/google-adk-sample-adk-triaging-agent/1.10.1/google-adk-sa
 com/google/adk/samples/google-adk-sample-github-tools/1.10.1/google-adk-sample-github-tools-1.10.1-build.pom
 com/google/adk/samples/google-adk-sample-helloworld/1.10.1/google-adk-sample-helloworld-1.10.1-build.pom
 com/google/adk/samples/google-adk-sample-mcpfilesystem/1.10.1/google-adk-sample-mcpfilesystem-1.10.1-build.pom
+20260919
+com/flowlogix/archetypes/starter/147/starter-147-build.pom
+com/flowlogix/base-pom/142/base-pom-142-build.pom
+com/flowlogix/checkstyle/142/checkstyle-142-build.pom
+com/flowlogix/glassfish-pom/142/glassfish-pom-142-build.pom
+com/flowlogix/infra-pom/142/infra-pom-142-build.pom
+com/flowlogix/payara-pom/142/payara-pom-142-build.pom
+com/flowlogix/server-common/142/server-common-142-build.pom

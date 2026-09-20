@@ -2392,6 +2392,7 @@ io.smallrye.reactive:vertx-mutiny-clients
 io.smallrye.reactive:vertx-mutiny-clients-bom
 io.smallrye.reactive:vertx-mutiny-code-generator
 io.smallrye.reactive:vertx-mutiny-generator
+io.sypt:sypt-core
 io.telicent.jena.graphql:graphql-fuseki-module
 io.telicent.jena.graphql:graphql-jena-benchmarks
 io.telicent.jena.graphql:graphql-jena-core
