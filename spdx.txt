@@ -27,6 +27,7 @@ com.exasol:virtual-schema-common-document-files
 com.exasol:virtual-schema-common-java
 com.exasol:virtual-schema-common-jdbc
 com.exasol:virtual-schema-shared-integration-tests
+com.flowlogix:flowlogix-bom
 com.github.mwiede:jsch
 com.hack23.cia:cia-dist-deb
 com.hack23.cia:citizen-intelligence-agency

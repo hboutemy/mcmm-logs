@@ -1756,6 +1756,7 @@ dev.openfeature.contrib:parent
 dev.openfeature:sdk
 dev.retreever:retreever
 dev.samsanders.openvex:jvex
+dev.tachyonmcp:root
 dev.tnsai:tnsai-bom
 dev.tnsai:tnsai-channels
 dev.tnsai:tnsai-coordination
@@ -2033,6 +2034,11 @@ io.github.ggomarighetti:rsql-jpa-search-spring-boot-starter
 io.github.giulong:spectrum
 io.github.java-helpers:simple-builders-core
 io.github.java-helpers:simple-builders-processor
+io.github.libtmux:libtmux
+io.github.libtmux:libtmux-jackson
+io.github.libtmux:libtmux-junit5
+io.github.libtmux:libtmux-mcp
+io.github.libtmux:libtmux-workspace
 io.github.luigidemasi:jsch
 io.github.lutzseverino.cardo:authorization
 io.github.lutzseverino.cardo:authorization-keycloak-client
@@ -2916,6 +2922,7 @@ net.sourceforge.pmd:pmd-velocity
 net.sourceforge.pmd:pmd-visualforce
 net.sourceforge.pmd:pmd-vm
 net.sourceforge.pmd:pmd-xml
+net.tlabs-data:tablesaw_0.44.4-parquet
 network.ike.docs:docbook-xsl
 network.ike.docs:ike-doc-ingest
 network.ike.docs:ike-doc-maven-plugin
