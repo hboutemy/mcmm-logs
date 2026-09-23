@@ -1,0 +1,9 @@
+io/reshapr/reshapr-api/1.0.0/reshapr-api-1.0.0.spdx.json
+io/reshapr/reshapr-commons/1.0.0/reshapr-commons-1.0.0.spdx.json
+io/reshapr/reshapr-ctrl/1.0.0/reshapr-ctrl-1.0.0.spdx.json
+io/reshapr/reshapr-parent/1.0.0/reshapr-parent-1.0.0.spdx.json
+io/reshapr/reshapr/1.0.0/reshapr-1.0.0.spdx.json
+org/itsallcode/openfasttrace-maven-plugin/3.1.0/openfasttrace-maven-plugin-3.1.0-sbom.spdx
+org/itsallcode/openfasttrace-maven-plugin/3.1.0/openfasttrace-maven-plugin-3.1.0.spdx.json
+org/opendaylight/aaa/aaa-sbom-0.24.0.spdx
+org/opendaylight/controller/controller-sbom-14.0.0.spdx

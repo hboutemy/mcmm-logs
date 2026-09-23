@@ -1,3 +1,4 @@
+ai.askamerica:askamerica-engine
 ai.docling:docling-core
 ai.docling:docling-serve-api
 ai.docling:docling-serve-client
@@ -494,6 +495,8 @@ com.buschmais.jqassistant.plugin:yaml2
 com.codbex.atlas:codbex-atlas-application
 com.codbex.gaia:codbex-gaia-application
 com.codbex.hades:codbex-hades-application
+com.codbex.helios:codbex-helios-application
+com.codbex.hyperion:codbex-hyperion-application
 com.codbex.rhea:codbex-rhea-application
 com.condation.cms:cms-parent
 com.duosecurity:duo-client
@@ -2041,6 +2044,7 @@ io.github.dgp-eu:tools-json_split
 io.github.dgp-eu:tools-undertow
 io.github.dgp-eu:tools-utils
 io.github.dgp-eu:tools-web
+io.github.emindeniz99:apple-purchase-receipt-verifier
 io.github.ggomarighetti:rsql-jpa-search-api
 io.github.ggomarighetti:rsql-jpa-search-core
 io.github.ggomarighetti:rsql-jpa-search-jpa-validation
@@ -2326,6 +2330,13 @@ io.jexxa.jlegmed:jlegmed-test
 io.jexxa:adapter-api
 io.jexxa:jexxa-adapters
 io.sapl:sapl-language-server
+io.simpleishard:govdata
+io.simpleishard:trino-calcite
+io.simpleishard:trino-calcite-base
+io.simpleishard:trino-cloudops
+io.simpleishard:trino-file
+io.simpleishard:trino-sharepoint
+io.simpleishard:trino-splunk
 io.smallrye.reactive:mutiny
 io.smallrye.reactive:mutiny-kotlin
 io.smallrye.reactive:mutiny-math
@@ -7188,6 +7199,7 @@ org.opendaylight.aaa:aaa-cli
 org.opendaylight.aaa:aaa-cli-jar
 org.opendaylight.aaa:aaa-docs
 org.opendaylight.aaa:aaa-encrypt-service
+org.opendaylight.aaa:aaa-encrypt-service-api
 org.opendaylight.aaa:aaa-encrypt-service-impl
 org.opendaylight.aaa:aaa-encryption-service-aggregator
 org.opendaylight.aaa:aaa-filterchain
@@ -7200,6 +7212,7 @@ org.opendaylight.aaa:aaa-password-service-impl
 org.opendaylight.aaa:aaa-shiro
 org.opendaylight.aaa:aaa-shiro-api
 org.opendaylight.aaa:aaa-tokenauthrealm
+org.opendaylight.aaa:bundle-parent
 org.opendaylight.aaa:features-aaa
 org.opendaylight.aaa:odl-aaa-api
 org.opendaylight.aaa:odl-aaa-cert
@@ -7397,6 +7410,7 @@ org.opendaylight.controller.samples:sample-toaster-consumer
 org.opendaylight.controller.samples:sample-toaster-provider
 org.opendaylight.controller:atomix-storage
 org.opendaylight.controller:benchmark-api
+org.opendaylight.controller:binding-parent
 org.opendaylight.controller:blueprint
 org.opendaylight.controller:bnd-parent
 org.opendaylight.controller:bundle-parent
@@ -7404,6 +7418,7 @@ org.opendaylight.controller:cds-access-api
 org.opendaylight.controller:cds-access-client
 org.opendaylight.controller:cds-dom-api
 org.opendaylight.controller:cds-mgmt-api
+org.opendaylight.controller:cds-types
 org.opendaylight.controller:controller-artifacts
 org.opendaylight.controller:controller-docs
 org.opendaylight.controller:controller-test-karaf
@@ -7413,6 +7428,7 @@ org.opendaylight.controller:feature-parent
 org.opendaylight.controller:features-controller
 org.opendaylight.controller:features-controller-experimental
 org.opendaylight.controller:features-controller-testing
+org.opendaylight.controller:jmx-core
 org.opendaylight.controller:karaf4-parent
 org.opendaylight.controller:mdsal-it-base
 org.opendaylight.controller:mdsal-it-parent
@@ -7438,8 +7454,10 @@ org.opendaylight.controller:odl-mdsal-distributed-datastore
 org.opendaylight.controller:odl-mdsal-remoterpc-connector
 org.opendaylight.controller:odl-pekko
 org.opendaylight.controller:odl-raft-api
+org.opendaylight.controller:odl-raft-pekko
 org.opendaylight.controller:odl-raft-spi
 org.opendaylight.controller:odl-toaster
+org.opendaylight.controller:pekko-support
 org.opendaylight.controller:raft-api
 org.opendaylight.controller:raft-journal
 org.opendaylight.controller:raft-spi
