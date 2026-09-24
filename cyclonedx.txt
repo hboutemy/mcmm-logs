@@ -2960,6 +2960,7 @@ network.ike.docs:koncept-asciidoc-extension
 network.ike.docs:koncept-core
 network.ike.docs:minimal-fonts
 network.ike.docs:semantic-linebreak
+network.ike.knowledge:ike-knowledge-provider
 network.ike.platform:ike-bom
 network.ike.platform:ike-parent
 network.ike.platform:ike-platform

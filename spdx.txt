@@ -325,6 +325,7 @@ org.jetbrains.kotlin:kotlin-gradle-plugin
 org.jetbrains.kotlin:kotlin-gradle-plugin-annotations
 org.jetbrains.kotlin:kotlin-gradle-plugin-api
 org.jetbrains.kotlin:kotlin-gradle-plugin-idea
+org.jetbrains.kotlin:kotlin-gradle-plugin-idea-browser-debug
 org.jetbrains.kotlin:kotlin-gradle-plugin-idea-proto
 org.jetbrains.kotlin:kotlin-gradle-plugin-model
 org.jetbrains.kotlin:kotlin-gradle-statistics
@@ -370,6 +371,7 @@ org.jetbrains.kotlin:kotlin-power-assert-runtime-iossimulatorarm64
 org.jetbrains.kotlin:kotlin-power-assert-runtime-iosx64
 org.jetbrains.kotlin:kotlin-power-assert-runtime-js
 org.jetbrains.kotlin:kotlin-power-assert-runtime-jvm
+org.jetbrains.kotlin:kotlin-power-assert-runtime-linuxarm32hfp
 org.jetbrains.kotlin:kotlin-power-assert-runtime-linuxarm64
 org.jetbrains.kotlin:kotlin-power-assert-runtime-linuxx64
 org.jetbrains.kotlin:kotlin-power-assert-runtime-macosarm64
