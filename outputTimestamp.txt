@@ -26380,3 +26380,37 @@ tools/jackson/jr/jackson-jr-retrofit2/3.2.3/jackson-jr-retrofit2-3.2.3.pom
 tools/jackson/jr/jackson-jr-stree/3.1.7/jackson-jr-stree-3.1.7.pom
 tools/jackson/jr/jackson-jr-stree/3.2.3/jackson-jr-stree-3.2.3.pom
    from mvn: 7656 - non-mvn: 7956 - buildinfo: 6 - module: 6297 - gradle timestamp: 6413 - atlasdb: 0 = 0 release
+20260923
+ai/cekat/cekat-event-sdk-parent/0.3.0/cekat-event-sdk-parent-0.3.0.pom
+dev/bitspark/archon-core/0.8.1/archon-core-0.8.1.pom
+dev/bitspark/archon-sdk/0.8.1/archon-sdk-0.8.1.pom
+eu/maveniverse/maven/mwm/mwm/0.2.0/mwm-0.2.0.pom
+eu/maveniverse/maven/parent/parent/63/parent-63.pom
+eu/maveniverse/maven/toolrunner/toolrunner/0.4.3/toolrunner-0.4.3.pom
+io/airlift/airbase-policy/415/airbase-policy-415.pom
+io/airlift/airbase/415/airbase-415.pom
+io/fluxzero/fluxzero-sdk-java/1.292.0/fluxzero-sdk-java-1.292.0.pom
+io/fluxzero/fluxzero-sdk-java/2.0.0-rc.20/fluxzero-sdk-java-2.0.0-rc.20.pom
+io/fluxzero/tools/fluxzero-dev-server/1.15.2/fluxzero-dev-server-1.15.2.pom
+io/fluxzero/tools/fluxzero-dev-server/1.15.3/fluxzero-dev-server-1.15.3.pom
+io/fluxzero/tools/fluxzero-dev-server/1.15.4/fluxzero-dev-server-1.15.4.pom
+io/github/baljinnyamday/xyp-sdk/0.1.0-alpha.1/xyp-sdk-0.1.0-alpha.1.pom
+io/github/huahill/vadmin-parent/0.3.0/vadmin-parent-0.3.0.pom
+io/github/kirstenali/deepj/0.7.2-alpha/deepj-0.7.2-alpha.pom
+io/github/nasa-runtime/nasa-redis/2.0.2/nasa-redis-2.0.2.pom
+io/github/youngledo/vadmin-parent/0.2.0/vadmin-parent-0.2.0.pom
+io/quarkus/quarkus-parent/3.27.6/quarkus-parent-3.27.6.pom
+io/quarkus/quarkus-parent/3.33.4/quarkus-parent-3.33.4.pom
+io/quarkus/quarkus-parent/3.39.5/quarkus-parent-3.39.5.pom
+io/quarkus/quarkus-parent/3.40.0/quarkus-parent-3.40.0.pom
+net/optionfactory/spring/optionfactory-spring/28.0/optionfactory-spring-28.0.pom
+net/optionfactory/spring/optionfactory-spring/28.1/optionfactory-spring-28.1.pom
+net/osslabz/bitcoin-commons/0.4.0/bitcoin-commons-0.4.0.pom
+one/nextera/openat/javelle/javelle/0.2.9/javelle-0.2.9.pom
+org/audit-fabric/audit-fabric-sdk/0.2.0/audit-fabric-sdk-0.2.0.pom
+org/finos/legend/engine/legend-engine/4.140.5/legend-engine-4.140.5.pom
+org/jline/jline-parent/4.4.6/jline-parent-4.4.6.pom
+org/openl/jgit/org.eclipse.jgit-parent/7.8.0.202609011348-openl2/org.eclipse.jgit-parent-7.8.0.202609011348-openl2.pom
+org/truyn/truyn-sdk/0.1.0-alpha.1/truyn-sdk-0.1.0-alpha.1.pom
+xyz/elemental/fork/saxon/saxon-regex-translator/12.10.e3/saxon-regex-translator-12.10.e3.pom
+   from mvn: 9249 - non-mvn: 9655 - buildinfo: 11 - module: 6993 - gradle timestamp: 5855 - atlasdb: 0 = 0 release

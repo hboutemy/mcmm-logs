@@ -1,0 +1,11 @@
+com/flowlogix/flowlogix-datamodel/11.7/flowlogix-datamodel-11.7.spdx.json
+com/flowlogix/flowlogix-jee/11.7/flowlogix-jee-11.7.spdx.json
+com/flowlogix/flowlogix/11.7/flowlogix-11.7.spdx.json
+com/flowlogix/plugins/container-deploy-plugin-common/1.5.1/container-deploy-plugin-common-1.5.1.spdx.json
+com/flowlogix/plugins/container-deploy-plugin-common/1.5/container-deploy-plugin-common-1.5.spdx.json
+com/flowlogix/plugins/container-deploy-plugin-root/1.5.1/container-deploy-plugin-root-1.5.1.spdx.json
+com/flowlogix/plugins/container-deploy-plugin-root/1.5/container-deploy-plugin-root-1.5.spdx.json
+com/flowlogix/plugins/container-deploy-plugin/1.5.1/container-deploy-plugin-1.5.1.spdx.json
+com/flowlogix/plugins/container-deploy-plugin/1.5/container-deploy-plugin-1.5.spdx.json
+com/flowlogix/plugins/live-reload/1.5.1/live-reload-1.5.1.spdx.json
+com/flowlogix/plugins/live-reload/1.5/live-reload-1.5.spdx.json
