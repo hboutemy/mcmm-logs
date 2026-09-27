@@ -2064,8 +2064,13 @@ io.github.java-helpers:simple-builders-processor
 io.github.libtmux:libtmux
 io.github.libtmux:libtmux-jackson
 io.github.libtmux:libtmux-junit5
+io.github.libtmux:libtmux-kotlin
 io.github.libtmux:libtmux-mcp
+io.github.libtmux:libtmux-scala-cats_3
+io.github.libtmux:libtmux-scala-ox_3
+io.github.libtmux:libtmux-scala_3
 io.github.libtmux:libtmux-workspace
+io.github.libtmux:libtmux-workspace-cli
 io.github.luigidemasi:jsch
 io.github.lutzseverino.cardo:authorization
 io.github.lutzseverino.cardo:authorization-keycloak-client
@@ -2290,6 +2295,7 @@ io.github.tasure:sure-cron
 io.github.tasure:sure-crypto
 io.github.tasure:sure-dfa
 io.github.tasure:sure-examples
+io.github.tasure:sure-extra
 io.github.tasure:sure-http
 io.github.tasure:sure-json
 io.github.tasure:sure-jwt
@@ -4776,6 +4782,7 @@ org.apache.maven.shared:maven-shared-components
 org.apache.maven.shared:maven-shared-io
 org.apache.maven.shared:maven-shared-jar
 org.apache.maven.shared:maven-shared-resources
+org.apache.maven.shared:maven-shared-utils
 org.apache.maven.skins:maven-fluido-skin
 org.apache.maven.skins:maven-skins
 org.apache.maven.surefire:common-java5
@@ -8367,6 +8374,7 @@ org.opendaylight.openflowplugin.openflowjava:openflow-protocol-spi
 org.opendaylight.openflowplugin.openflowjava:openflowjava-blueprint-config
 org.opendaylight.openflowplugin.openflowjava:openflowjava-parent
 org.opendaylight.openflowplugin.openflowjava:openflowjava-util
+org.opendaylight.openflowplugin:bundle-parent
 org.opendaylight.openflowplugin:drop-test-karaf
 org.opendaylight.openflowplugin:features-aggregator
 org.opendaylight.openflowplugin:features-extension-aggregator
@@ -8772,6 +8780,11 @@ run.ratchet:ratchet-quarkus-mongodb-deployment
 run.ratchet:ratchet-quarkus-observability-integration-tests
 run.ratchet:ratchet-quarkus-parent
 run.ratchet:ratchet-security-jakarta
+run.ratchet:ratchet-spring-boot-autoconfigure
+run.ratchet:ratchet-spring-boot-autoconfigure-jpa
+run.ratchet:ratchet-spring-boot-autoconfigure-mongodb
+run.ratchet:ratchet-spring-boot-starter
+run.ratchet:ratchet-spring-boot-starter-mongodb
 run.ratchet:ratchet-store-core
 run.ratchet:ratchet-store-mongodb
 run.ratchet:ratchet-store-mysql

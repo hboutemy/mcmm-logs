@@ -27,6 +27,7 @@ com.exasol:virtual-schema-common-document-files
 com.exasol:virtual-schema-common-java
 com.exasol:virtual-schema-common-jdbc
 com.exasol:virtual-schema-shared-integration-tests
+com.flowlogix.archetypes:starter
 com.flowlogix.plugins:container-deploy-plugin
 com.flowlogix.plugins:container-deploy-plugin-common
 com.flowlogix.plugins:container-deploy-plugin-root

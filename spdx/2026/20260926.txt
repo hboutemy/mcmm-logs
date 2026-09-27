@@ -1,0 +1,2 @@
+com/flowlogix/archetypes/starter/149/starter-149.spdx.json
+org/opendaylight/openflowplugin/openflowplugin-sbom-2.0.0.spdx
