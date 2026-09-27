@@ -3457,3 +3457,10 @@ com/flowlogix/plugins/container-deploy-plugin/1.5.1/container-deploy-plugin-1.5.
 com/flowlogix/plugins/container-deploy-plugin/1.5/container-deploy-plugin-1.5-build.pom
 com/flowlogix/plugins/live-reload/1.5.1/live-reload-1.5.1-build.pom
 com/flowlogix/plugins/live-reload/1.5/live-reload-1.5-build.pom
+20260925
+com/flowlogix/base-pom/143/base-pom-143-build.pom
+com/flowlogix/checkstyle/143/checkstyle-143-build.pom
+com/flowlogix/glassfish-pom/143/glassfish-pom-143-build.pom
+com/flowlogix/infra-pom/143/infra-pom-143-build.pom
+com/flowlogix/payara-pom/143/payara-pom-143-build.pom
+com/flowlogix/server-common/143/server-common-143-build.pom

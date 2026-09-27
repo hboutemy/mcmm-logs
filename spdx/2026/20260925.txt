@@ -1,0 +1,4 @@
+land/oras/oras-java-sdk/0.8.5/oras-java-sdk-0.8.5.spdx.json
+org/opendaylight/aaa/aaa-sbom-0.24.1.spdx
+org/opendaylight/controller/controller-sbom-14.0.1.spdx
+org/opendaylight/netconf/netconf-sbom-12.0.0.spdx

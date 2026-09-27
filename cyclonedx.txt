@@ -435,6 +435,9 @@ com.agentclientprotocol:acp-agent-support
 com.agentclientprotocol:acp-annotations
 com.agentclientprotocol:acp-core
 com.agentclientprotocol:acp-java-sdk
+com.agentclientprotocol:acp-json-jackson2
+com.agentclientprotocol:acp-json-jackson3
+com.agentclientprotocol:acp-streamable-http-jetty
 com.agentclientprotocol:acp-test
 com.agentclientprotocol:acp-websocket-jetty
 com.antepod:taffy4j
@@ -1392,8 +1395,10 @@ com.open-elements:spring-services-core
 com.open-elements:spring-services-dbbackup
 com.open-elements:spring-services-email
 com.open-elements:spring-services-mcp
+com.open-elements:spring-services-scim
 com.open-elements:spring-services-search
 com.open-elements:spring-services-slack
+com.open-elements:spring-services-tenant
 com.oracle.cloud.spring:spring-cloud-oci
 com.oracle.cloud.spring:spring-cloud-oci-adb
 com.oracle.cloud.spring:spring-cloud-oci-autoconfigure
@@ -2031,6 +2036,7 @@ io.github.cameleogrey:spring-boot-integration-test
 io.github.chains-project:maven-lockfile
 io.github.chains-project:maven-lockfile-github-action
 io.github.chains-project:maven-lockfile-parent
+io.github.chomingi:langfuse-otel-java
 io.github.dgp-eu:tools
 io.github.dgp-eu:tools-archiving
 io.github.dgp-eu:tools-cli
@@ -8082,8 +8088,11 @@ org.opendaylight.mdsal:template-feature-parent
 org.opendaylight.mdsal:unified-html-generator
 org.opendaylight.mdsal:yang-binding
 org.opendaylight.netconf.model:draft-ietf-crypto-types
+org.opendaylight.netconf.model:draft-ietf-netconf-client
 org.opendaylight.netconf.model:draft-ietf-netconf-crypto-types
+org.opendaylight.netconf.model:draft-ietf-netconf-server
 org.opendaylight.netconf.model:draft-ietf-restconf-server
+org.opendaylight.netconf.model:odl-netconf-monitoring
 org.opendaylight.netconf.model:rfc5277
 org.opendaylight.netconf.model:rfc6022
 org.opendaylight.netconf.model:rfc6241
@@ -8212,8 +8221,10 @@ org.opendaylight.netconf:odl-restconf-api
 org.opendaylight.netconf:odl-restconf-common
 org.opendaylight.netconf:odl-restconf-nb
 org.opendaylight.netconf:odl-restconf-nb-bierman02
+org.opendaylight.netconf:odl-restconf-nb-jaxrs
 org.opendaylight.netconf:odl-restconf-nb-rfc8040
 org.opendaylight.netconf:odl-restconf-openapi
+org.opendaylight.netconf:odl-restconf-openapi-jaxrs
 org.opendaylight.netconf:odl-restconf-server-api
 org.opendaylight.netconf:odl-yanglib
 org.opendaylight.netconf:odl-yanglib-mdsal-writer
@@ -8225,6 +8236,7 @@ org.opendaylight.netconf:restconf-mdsal-spi
 org.opendaylight.netconf:restconf-models
 org.opendaylight.netconf:restconf-nb
 org.opendaylight.netconf:restconf-nb-bierman02
+org.opendaylight.netconf:restconf-nb-jaxrs
 org.opendaylight.netconf:restconf-nb-rfc8040
 org.opendaylight.netconf:restconf-openapi
 org.opendaylight.netconf:restconf-openapi-common
