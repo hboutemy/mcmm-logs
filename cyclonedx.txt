@@ -2286,6 +2286,7 @@ io.github.tansuasici:tnsai-rewrite
 io.github.tansuasici:tnsai-server
 io.github.tansuasici:tnsai-tools
 io.github.tasure:sure-all
+io.github.tasure:sure-aop
 io.github.tasure:sure-benchmark
 io.github.tasure:sure-bom
 io.github.tasure:sure-cache
@@ -2293,14 +2294,19 @@ io.github.tasure:sure-captcha
 io.github.tasure:sure-core
 io.github.tasure:sure-cron
 io.github.tasure:sure-crypto
+io.github.tasure:sure-db
 io.github.tasure:sure-dfa
 io.github.tasure:sure-examples
 io.github.tasure:sure-extra
 io.github.tasure:sure-http
 io.github.tasure:sure-json
 io.github.tasure:sure-jwt
+io.github.tasure:sure-log
+io.github.tasure:sure-pdf
 io.github.tasure:sure-poi
+io.github.tasure:sure-script
 io.github.tasure:sure-spring-boot-starter
+io.github.tasure:sure-template
 io.github.tasure:sure-xml
 io.github.tasure:suretool
 io.github.tfw-org:tfw
@@ -6783,6 +6789,7 @@ org.janusgraph:janusgraph-backend-testutils
 org.janusgraph:janusgraph-benchmark
 org.janusgraph:janusgraph-berkeleyje
 org.janusgraph:janusgraph-bigtable
+org.janusgraph:janusgraph-cdc
 org.janusgraph:janusgraph-core
 org.janusgraph:janusgraph-cql
 org.janusgraph:janusgraph-dist
