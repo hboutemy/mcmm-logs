@@ -3486,3 +3486,10 @@ org/apache/plc4x/extras/plc4x-opcua-server/1.0.0/plc4x-opcua-server-1.0.0-build.
 20260929
 20260930
 com/flowlogix/flowlogix-bom/49/flowlogix-bom-49-build.pom
+20261001
+com/flowlogix/base-pom/144/base-pom-144-build.pom
+com/flowlogix/checkstyle/144/checkstyle-144-build.pom
+com/flowlogix/glassfish-pom/144/glassfish-pom-144-build.pom
+com/flowlogix/infra-pom/144/infra-pom-144-build.pom
+com/flowlogix/payara-pom/144/payara-pom-144-build.pom
+com/flowlogix/server-common/144/server-common-144-build.pom

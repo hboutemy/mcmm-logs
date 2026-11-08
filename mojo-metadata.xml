@@ -467,7 +467,7 @@
       <artifactId>rpm-cbuild-maven-plugin</artifactId>
     </plugin>
     <plugin>
-      <name>rpm-maven-plugin</name>
+      <name>RPM Maven Plugin</name>
       <prefix>rpm</prefix>
       <artifactId>rpm-maven-plugin</artifactId>
     </plugin>
