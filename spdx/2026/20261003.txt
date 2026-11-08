@@ -1,0 +1,10 @@
+com/flowlogix/archetypes/starter/150/starter-150.spdx.json
+com/flowlogix/flowlogix-bom/50/flowlogix-bom-50.spdx.json
+com/flowlogix/plugins/container-deploy-plugin-common/1.5.2/container-deploy-plugin-common-1.5.2.spdx.json
+com/flowlogix/plugins/container-deploy-plugin-root/1.5.2/container-deploy-plugin-root-1.5.2.spdx.json
+com/flowlogix/plugins/container-deploy-plugin/1.5.2/container-deploy-plugin-1.5.2.spdx.json
+com/flowlogix/plugins/live-reload/1.5.2/live-reload-1.5.2.spdx.json
+io/opentelemetry/javaagent/opentelemetry-javaagent/2.32.0/opentelemetry-javaagent-2.32.0-spdx.json
+org/opendaylight/aaa/aaa-sbom-0.24.4.spdx
+org/opendaylight/controller/controller-sbom-14.0.4.spdx
+org/opendaylight/mdsal/mdsal-sbom-17.0.2.spdx
