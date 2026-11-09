@@ -1545,6 +1545,7 @@ com.power4j.fist3:fist-trace
 com.power4j.fist3:fist-trace-context
 com.power4j.fist3:fist-trace-context-spring-boot-starter
 com.power4j.fist3:fist-web
+com.rejment:jsess
 com.rootline.connect:connect-sdk
 com.siemens.pki:CmpRaComponent
 com.soartech:jsoar
