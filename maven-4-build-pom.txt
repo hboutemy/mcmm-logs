@@ -3529,3 +3529,8 @@ com/google/adk/samples/google-adk-sample-mcpfilesystem/1.11.0/google-adk-sample-
 com/flowlogix/archetypes/starter/151/starter-151-build.pom
 20261005
 20261006
+20261007
+com/flowlogix/flowlogix-bom/51/flowlogix-bom-51-build.pom
+com/flowlogix/flowlogix-datamodel/11.7.1/flowlogix-datamodel-11.7.1-build.pom
+com/flowlogix/flowlogix-jee/11.7.1/flowlogix-jee-11.7.1-build.pom
+com/flowlogix/flowlogix/11.7.1/flowlogix-11.7.1-build.pom

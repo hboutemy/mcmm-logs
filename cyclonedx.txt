@@ -2425,6 +2425,7 @@ io.simpleishard:trino-calcite
 io.simpleishard:trino-calcite-base
 io.simpleishard:trino-cloudops
 io.simpleishard:trino-file
+io.simpleishard:trino-salesforce
 io.simpleishard:trino-sharepoint
 io.simpleishard:trino-splunk
 io.smallrye.reactive:mutiny

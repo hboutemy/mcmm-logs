@@ -1,0 +1,5 @@
+com/flowlogix/flowlogix-bom/51/flowlogix-bom-51.spdx.json
+com/flowlogix/flowlogix-datamodel/11.7.1/flowlogix-datamodel-11.7.1.spdx.json
+com/flowlogix/flowlogix-jee/11.7.1/flowlogix-jee-11.7.1.spdx.json
+com/flowlogix/flowlogix/11.7.1/flowlogix-11.7.1.spdx.json
+net/dapete/exceptional/0.6.0/exceptional-0.6.0.spdx.json
