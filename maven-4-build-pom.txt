@@ -3579,3 +3579,9 @@ com/google/adk/google-adk/1.12.0/google-adk-1.12.0-build.pom
 com/google/adk/samples/configagent-samples/1.12.0/configagent-samples-1.12.0-build.pom
 com/google/adk/samples/google-adk-sample-helloworld/1.12.0/google-adk-sample-helloworld-1.12.0-build.pom
 com/google/adk/samples/google-adk-sample-mcpfilesystem/1.12.0/google-adk-sample-mcpfilesystem-1.12.0-build.pom
+20261015
+com/flowlogix/archetypes/starter/155/starter-155-build.pom
+com/flowlogix/archetypes/starter/156/starter-156-build.pom
+com/flowlogix/flowlogix-datamodel/11.7.2/flowlogix-datamodel-11.7.2-build.pom
+com/flowlogix/flowlogix-jee/11.7.2/flowlogix-jee-11.7.2-build.pom
+com/flowlogix/flowlogix/11.7.2/flowlogix-11.7.2-build.pom

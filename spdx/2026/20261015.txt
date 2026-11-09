@@ -1,0 +1,16 @@
+com/exasol/project-keeper-cli/5.7.7/project-keeper-cli-5.7.7-sbom.spdx
+com/exasol/project-keeper-core/5.7.7/project-keeper-core-5.7.7-sbom.spdx
+com/exasol/project-keeper-java-project-crawler/5.7.7/project-keeper-java-project-crawler-5.7.7-sbom.spdx
+com/exasol/project-keeper-maven-plugin/5.7.7/project-keeper-maven-plugin-5.7.7-sbom.spdx
+com/exasol/project-keeper-shared-model-classes/5.7.7/project-keeper-shared-model-classes-5.7.7-sbom.spdx
+com/exasol/virtual-schema-common-java/18.1.0/virtual-schema-common-java-18.1.0-sbom.spdx
+com/flowlogix/archetypes/starter/155/starter-155.spdx.json
+com/flowlogix/archetypes/starter/156/starter-156.spdx.json
+com/flowlogix/flowlogix-datamodel/11.7.2/flowlogix-datamodel-11.7.2.spdx.json
+com/flowlogix/flowlogix-jee/11.7.2/flowlogix-jee-11.7.2.spdx.json
+com/flowlogix/flowlogix/11.7.2/flowlogix-11.7.2.spdx.json
+io/reshapr/reshapr-api/1.1.0/reshapr-api-1.1.0.spdx.json
+io/reshapr/reshapr-commons/1.1.0/reshapr-commons-1.1.0.spdx.json
+io/reshapr/reshapr-ctrl/1.1.0/reshapr-ctrl-1.1.0.spdx.json
+io/reshapr/reshapr-parent/1.1.0/reshapr-parent-1.1.0.spdx.json
+io/reshapr/reshapr/1.1.0/reshapr-1.1.0.spdx.json
