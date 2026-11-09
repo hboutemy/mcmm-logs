@@ -2421,6 +2421,14 @@ io.github.vadimbabich:entity-metamodel-parent
 io.github.vadimbabich:entity-metamodel-processor
 io.github.vadimbabich:entity-metamodel-runtime
 io.github.vadimbabich:entity-metamodel-runtime-r2dbc
+io.github.visplabs:tierwise-cli
+io.github.visplabs:tierwise-core
+io.github.visplabs:tierwise-openfeature
+io.github.visplabs:tierwise-parent
+io.github.visplabs:tierwise-server
+io.github.visplabs:tierwise-server-s3
+io.github.visplabs:tierwise-spring-boot-starter
+io.github.visplabs:tierwise-spring-boot-starter-s3
 io.github.xfoundries:jfoundry-parent
 io.github.xhufang:skis-parent
 io.github.yravelo:postgres-bulk-core
@@ -8861,6 +8869,10 @@ org.primefaces.extensions:primefaces-extensions
 org.primefaces:primefaces
 org.security4media:pgp-keys-map
 org.seleniumhq.selenium:htmlunit3-driver
+org.sliceworkz:sliceworkz-eventmodeling-api
+org.sliceworkz:sliceworkz-eventmodeling-bom
+org.sliceworkz:sliceworkz-eventmodeling-impl
+org.sliceworkz:sliceworkz-eventmodeling-testing
 org.sonarsource.dummy:sonar-dummy-gradle-oss-plugin
 org.sonarsource.dummy:sonar-dummy-oss-plugin
 org.sonarsource.javascript:sonar-javascript-plugin

@@ -3550,3 +3550,11 @@ com/flowlogix/payara-pom/146/payara-pom-146-build.pom
 com/flowlogix/server-common/146/server-common-146-build.pom
 20261010
 20261011
+20261012
+com/flowlogix/archetypes/starter/153/starter-153-build.pom
+com/flowlogix/archetypes/starter/154/starter-154-build.pom
+com/flowlogix/depchain/depchain/133/depchain-133-build.pom
+com/flowlogix/depchain/integration-test-ng/133/integration-test-ng-133-build.pom
+com/flowlogix/depchain/integration-test/133/integration-test-133-build.pom
+com/flowlogix/depchain/shiro-jakarta/133/shiro-jakarta-133-build.pom
+com/flowlogix/depchain/unit-test/133/unit-test-133-build.pom
