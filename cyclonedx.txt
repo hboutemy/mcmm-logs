@@ -428,6 +428,7 @@ build.jenesis:build.jenesis.repository.walk.testkit
 ca.marcusdunn.jsonlens:jsonlens-jackson
 ca.marcusdunn.jsonlens:jsonlens-kotlinx-serialization
 ca.marcusdunn.jsonlens:jsonlens-mapped
+ca.marcusdunn.jsonlens:jsonlens-merge-patch
 ca.marcusdunn.jsonlens:jsonlens-model
 ca.marcusdunn.jsonlens:jsonlens-model-testkit
 ca.marcusdunn.jsonlens:jsonlens-patch
@@ -2045,6 +2046,15 @@ io.dropwizard:dropwizard-views
 io.dropwizard:dropwizard-views-freemarker
 io.dropwizard:dropwizard-views-mustache
 io.fluxzero:lychee-maven-plugin
+io.gatool:gatool-core
+io.gatool:gatool-in-process-spring-boot
+io.gatool:gatool-in-process-spring-boot-starter
+io.gatool:gatool-mcp-spring-boot
+io.gatool:gatool-mcp-spring-boot-starter
+io.gatool:gatool-parent
+io.gatool:gatool-spring-boot
+io.gatool:gatool-spring-boot-starter-test
+io.gatool:gatool-spring-boot-test
 io.github.amadeusitgroup.maven.wagon:ghrelasset-wagon
 io.github.arun0009:pulse-spring-boot-starter
 io.github.cameleogrey:greycos-solver-benchmark
@@ -2366,6 +2376,13 @@ io.github.tasure:suretool
 io.github.tfw-org:tfw
 io.github.thibaudledent.j8583:j8583
 io.github.tomverin:sonar-dummy-oss-plugin
+io.github.treetrail:jsonpath-core
+io.github.treetrail:jsonpath-gson
+io.github.treetrail:jsonpath-jackson2
+io.github.treetrail:jsonpath-jackson3
+io.github.treetrail:jsonpath-jsonp
+io.github.treetrail:jsonpath-migration
+io.github.treetrail:jsonpath-rewrite
 io.github.usmanovmahmudkhan:chat-server-core
 io.github.usmanovmahmudkhan:chat-server-postgres
 io.github.usmanovmahmudkhan:chat-server-redis
@@ -2401,6 +2418,7 @@ io.jexxa.jlegmed:jlegmed-metrics
 io.jexxa.jlegmed:jlegmed-test
 io.jexxa:adapter-api
 io.jexxa:jexxa-adapters
+io.prometheus.jmx:collector
 io.sapl:sapl-language-server
 io.simpleishard:govdata
 io.simpleishard:trino-calcite
@@ -2794,6 +2812,11 @@ jakarta.cdi:jakarta.cdi-tck-ext-lib
 jakarta.cdi:jakarta.cdi-tck-lang-model
 jakarta.cdi:jakarta.cdi-tck-parent
 jakarta.cdi:jakarta.cdi-tck-reference-guide
+jakarta.concurrency:jakarta.concurrency-api
+jakarta.concurrency:jakarta.concurrency-parent
+jakarta.concurrency:jakarta.concurrency-spec
+jakarta.concurrency:jakarta.concurrency-tck
+jakarta.concurrency:jakarta.concurrency-tck-dist
 jakarta.config:jakarta.config
 jakarta.config:jakarta.config-api
 jakarta.data:jakarta.data-api
@@ -6854,6 +6877,7 @@ org.huiche:huiche-sql-dsl
 org.huiche:huiche-sql-jdbc
 org.huiche:huiche-sql-spring-boot-starter
 org.ikasan:commons-dbcp2
+org.infinispan:infinispan-distribution
 org.janusgraph:cassandra-hadoop-util
 org.janusgraph:example-berkeleyje
 org.janusgraph:example-common
