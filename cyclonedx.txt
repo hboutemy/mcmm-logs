@@ -460,9 +460,18 @@ codes.domix:fun-tracing
 com.agentclientprotocol:acp-agent-support
 com.agentclientprotocol:acp-annotations
 com.agentclientprotocol:acp-core
+com.agentclientprotocol:acp-http-core
+com.agentclientprotocol:acp-http-servlet
+com.agentclientprotocol:acp-http-webflux
+com.agentclientprotocol:acp-integration
 com.agentclientprotocol:acp-java-sdk
 com.agentclientprotocol:acp-json-jackson2
 com.agentclientprotocol:acp-json-jackson3
+com.agentclientprotocol:acp-micronaut
+com.agentclientprotocol:acp-quarkus
+com.agentclientprotocol:acp-quarkus-deployment
+com.agentclientprotocol:acp-spring-boot-autoconfigure
+com.agentclientprotocol:acp-spring-boot-starter
 com.agentclientprotocol:acp-streamable-http-jetty
 com.agentclientprotocol:acp-test
 com.agentclientprotocol:acp-websocket-jetty
@@ -528,6 +537,8 @@ com.codbex.helios:codbex-helios-application
 com.codbex.hyperion:codbex-hyperion-application
 com.codbex.rhea:codbex-rhea-application
 com.condation.cms:cms-parent
+com.deque.android:axe-devtools-android
+com.deque.android:axe-devtools-android-plugin
 com.duosecurity:duo-client
 com.duosecurity:duo-universal-sdk
 com.engine:protoc-gen-markdown
@@ -1393,6 +1404,13 @@ com.io7m.zugorum:com.io7m.zugorum.distribution
 com.io7m.zugorum:com.io7m.zugorum.oci
 com.io7m.zugorum:com.io7m.zugorum.server
 com.io7m.zugorum:com.io7m.zugorum.tests
+com.kazforge:jsonapi-java-annotations
+com.kazforge:jsonapi-java-api
+com.kazforge:jsonapi-java-core
+com.kazforge:jsonapi-java-jackson2
+com.kazforge:jsonapi-java-jackson3
+com.kazforge:jsonapi-java-mapping
+com.kazforge:jsonapi-java-query
 com.larksuite.oapi:channel-sdk
 com.mountainminds:three4j
 com.ongres.pgconfig:pgconfig-validator
@@ -2180,9 +2198,13 @@ io.github.markpollack:agent-hooks-spring
 io.github.markpollack:agent-journal-parent
 io.github.markpollack:agent-judge-agent-client
 io.github.markpollack:agent-judge-ai-core
+io.github.markpollack:agent-judge-assertions
+io.github.markpollack:agent-judge-assertj
 io.github.markpollack:agent-judge-core
 io.github.markpollack:agent-judge-exec
 io.github.markpollack:agent-judge-file
+io.github.markpollack:agent-judge-jev
+io.github.markpollack:agent-judge-json-jackson2
 io.github.markpollack:agent-judge-koog
 io.github.markpollack:agent-judge-langchain4j
 io.github.markpollack:agent-judge-llm
@@ -2344,6 +2366,7 @@ io.github.tansuasici:tnsai-quality
 io.github.tansuasici:tnsai-rewrite
 io.github.tansuasici:tnsai-server
 io.github.tansuasici:tnsai-tools
+io.github.tasure:sure-ai-all
 io.github.tasure:sure-all
 io.github.tasure:sure-aop
 io.github.tasure:sure-benchmark
@@ -2376,6 +2399,7 @@ io.github.tasure:suretool
 io.github.tfw-org:tfw
 io.github.thibaudledent.j8583:j8583
 io.github.tomverin:sonar-dummy-oss-plugin
+io.github.treetrail:jsonpath-assertj
 io.github.treetrail:jsonpath-core
 io.github.treetrail:jsonpath-gson
 io.github.treetrail:jsonpath-jackson2
@@ -2383,6 +2407,7 @@ io.github.treetrail:jsonpath-jackson3
 io.github.treetrail:jsonpath-jsonp
 io.github.treetrail:jsonpath-migration
 io.github.treetrail:jsonpath-rewrite
+io.github.treetrail:jsonpath-spring-test
 io.github.usmanovmahmudkhan:chat-server-core
 io.github.usmanovmahmudkhan:chat-server-postgres
 io.github.usmanovmahmudkhan:chat-server-redis
@@ -5933,6 +5958,7 @@ org.fryske-akademy:udpipe-service
 org.fryske-akademy:validation
 org.fuin.sokar:sokar-acceptance-kit
 org.fuin.sokar:sokar-agent-api
+org.fuin.sokar:sokar-build-api
 org.fuin.sokar:sokar-wire
 org.glassfish.annotations:logging-annotation-processor
 org.glassfish.build:command-security-maven-plugin

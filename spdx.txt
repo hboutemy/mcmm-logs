@@ -1,3 +1,5 @@
+com.deque.android:axe-devtools-android
+com.deque.android:axe-devtools-android-plugin
 com.exasol:artifact-reference-checker-maven-plugin
 com.exasol:bucketfs-java
 com.exasol:ci-isolation-aws
