@@ -3535,3 +3535,16 @@ com/flowlogix/flowlogix-datamodel/11.7.1/flowlogix-datamodel-11.7.1-build.pom
 com/flowlogix/flowlogix-jee/11.7.1/flowlogix-jee-11.7.1-build.pom
 com/flowlogix/flowlogix/11.7.1/flowlogix-11.7.1-build.pom
 20261008
+20261009
+com/flowlogix/archetypes/starter/152/starter-152-build.pom
+com/flowlogix/base-pom/146/base-pom-146-build.pom
+com/flowlogix/checkstyle/146/checkstyle-146-build.pom
+com/flowlogix/depchain/depchain/132/depchain-132-build.pom
+com/flowlogix/depchain/integration-test-ng/132/integration-test-ng-132-build.pom
+com/flowlogix/depchain/integration-test/132/integration-test-132-build.pom
+com/flowlogix/depchain/shiro-jakarta/132/shiro-jakarta-132-build.pom
+com/flowlogix/depchain/unit-test/132/unit-test-132-build.pom
+com/flowlogix/glassfish-pom/146/glassfish-pom-146-build.pom
+com/flowlogix/infra-pom/146/infra-pom-146-build.pom
+com/flowlogix/payara-pom/146/payara-pom-146-build.pom
+com/flowlogix/server-common/146/server-common-146-build.pom

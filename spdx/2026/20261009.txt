@@ -1,0 +1,6 @@
+com/flowlogix/archetypes/starter/152/starter-152.spdx.json
+com/flowlogix/depchain/depchain/132/depchain-132.spdx.json
+com/flowlogix/depchain/integration-test-ng/132/integration-test-ng-132.spdx.json
+com/flowlogix/depchain/integration-test/132/integration-test-132.spdx.json
+com/flowlogix/depchain/shiro-jakarta/132/shiro-jakarta-132.spdx.json
+com/flowlogix/depchain/unit-test/132/unit-test-132.spdx.json

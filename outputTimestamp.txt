@@ -27048,3 +27048,34 @@ org/apache/jackrabbit/jackrabbit-parent/2.23.6-beta/jackrabbit-parent-2.23.6-bet
 tech/jaylu/lite-jdbc/0.1.0/lite-jdbc-0.1.0.pom
 us/abstracta/jmeter/jmeter-java-dsl-parent/2.3/jmeter-java-dsl-parent-2.3.pom
    from mvn: 6544 - non-mvn: 6467 - buildinfo: 33 - module: 5573 - gradle timestamp: 4669 - atlasdb: 0 = 0 release
+20261008
+br/gov/go/saude/icpbrasil-truststore/0.0.2/icpbrasil-truststore-0.0.2.pom
+com/codinglair/taf/codinglair-taf/1.3.0/codinglair-taf-1.3.0.pom
+com/desktopaccountingapi/quickbooks-desktop/0.3.0/quickbooks-desktop-0.3.0.pom
+com/desktopaccountingapi/quickbooks-desktop/0.4.0/quickbooks-desktop-0.4.0.pom
+com/rulescascade/rules-cascade-core/1.0.0-alpha.8/rules-cascade-core-1.0.0-alpha.8.pom
+de/bsnsoft/esj/en16931-semantic-json/0.9.6/en16931-semantic-json-0.9.6.pom
+de/gematik/pki/gemLibPki/6.0.0/gemLibPki-6.0.0.pom
+de/stklcode/jvault/jvault-connector/1.5.6/jvault-connector-1.5.6.pom
+dev/frontseat/maven/extensions/maven-deploy-extension/0.49.0/maven-deploy-extension-0.49.0.pom
+dev/frontseat/maven/extensions/maven-deploy-extension/0.49.1/maven-deploy-extension-0.49.1.pom
+io/github/emindeniz99/apple-purchase-receipt-verifier/0.11.0/apple-purchase-receipt-verifier-0.11.0.pom
+io/github/minh124199/viet-template-parent/1.3.0/viet-template-parent-1.3.0.pom
+io/github/molorane/pathora-test-harness/0.0.5/pathora-test-harness-0.0.5.pom
+io/github/molorane/pathora-test-harness/1.0.5/pathora-test-harness-1.0.5.pom
+io/github/praktimarc/mikrotik/3.0.8-praktimarc.4/mikrotik-3.0.8-praktimarc.4.pom
+io/github/rey5137/model-query-parent/0.6.0/model-query-parent-0.6.0.pom
+io/github/tasure/suretool/1.7.0/suretool-1.7.0.pom
+io/github/tasure/suretool/1.8.0/suretool-1.8.0.pom
+io/jawk/jawk/7.1.02/jawk-7.1.02.pom
+io/kroxylicious/kroxylicious-bom/0.25.0/kroxylicious-bom-0.25.0.pom
+io/kroxylicious/kroxylicious-parent/0.25.0/kroxylicious-parent-0.25.0.pom
+io/nats/spring-boot-4-nats-parent/2026.10.8/spring-boot-4-nats-parent-2026.10.8.pom
+io/sxda/scout/addon/base/26.2.0/base-26.2.0.pom
+org/apache/jackrabbit/jackrabbit-parent/2.20.18/jackrabbit-parent-2.20.18.pom
+org/infinispan/protostream/parent/6.0.12/parent-6.0.12.pom
+org/metricshub/jflat/1.2.00/jflat-1.2.00.pom
+org/metricshub/simple-http-java/1.0.03/simple-http-java-1.0.03.pom
+org/metricshub/ssh-java/1.1.00/ssh-java-1.1.00.pom
+wtf/metio/yosql/yosql/2026.10.8/yosql-2026.10.8.pom
+   from mvn: 6624 - non-mvn: 10923 - buildinfo: 37 - module: 7028 - gradle timestamp: 7067 - atlasdb: 0 = 0 release

@@ -5537,6 +5537,7 @@ org.docx4j:docx4j-copy
 org.docx4j:docx4j-core
 org.docx4j:docx4j-core-tests
 org.docx4j:docx4j-diffx
+org.docx4j:docx4j-digsig
 org.docx4j:docx4j-documents4j-local
 org.docx4j:docx4j-documents4j-remote
 org.docx4j:docx4j-docx-anon
