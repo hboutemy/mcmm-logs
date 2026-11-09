@@ -1,0 +1,2 @@
+com/github/mwiede/jsch/2.28.8/jsch-2.28.8.spdx.json
+net/dapete/exceptional/0.6.2/exceptional-0.6.2.spdx.json
