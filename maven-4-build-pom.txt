@@ -3558,3 +3558,5 @@ com/flowlogix/depchain/integration-test-ng/133/integration-test-ng-133-build.pom
 com/flowlogix/depchain/integration-test/133/integration-test-133-build.pom
 com/flowlogix/depchain/shiro-jakarta/133/shiro-jakarta-133-build.pom
 com/flowlogix/depchain/unit-test/133/unit-test-133-build.pom
+20261013
+com/flowlogix/flowlogix-bom/52/flowlogix-bom-52-build.pom

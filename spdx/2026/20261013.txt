@@ -1,0 +1,2 @@
+com/flowlogix/flowlogix-bom/52/flowlogix-bom-52.spdx.json
+org/opendaylight/odlparent/odlparent-sbom-15.1.0.spdx
