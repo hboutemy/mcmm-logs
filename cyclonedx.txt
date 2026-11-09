@@ -2404,8 +2404,10 @@ io.github.treetrail:jsonpath-core
 io.github.treetrail:jsonpath-gson
 io.github.treetrail:jsonpath-jackson2
 io.github.treetrail:jsonpath-jackson3
+io.github.treetrail:jsonpath-jayway-functions
 io.github.treetrail:jsonpath-jsonp
 io.github.treetrail:jsonpath-migration
+io.github.treetrail:jsonpath-model-testkit
 io.github.treetrail:jsonpath-rewrite
 io.github.treetrail:jsonpath-spring-test
 io.github.usmanovmahmudkhan:chat-server-core
@@ -5976,6 +5978,7 @@ org.glassfish.corba:glassfish-corba-tests
 org.glassfish.corba:idlj
 org.glassfish.corba:rmic
 org.glassfish.embedded:embedded-glassfish-maven-plugin
+org.glassfish.embedded:maven-embedded-glassfish-plugin
 org.glassfish.epicyro:epicyro
 org.glassfish.epicyro:parent
 org.glassfish.epicyro:quarkus-epicyro
