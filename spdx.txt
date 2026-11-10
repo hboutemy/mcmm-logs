@@ -296,6 +296,16 @@ org.jetbrains.kotlin:jvm-abi-gen-embeddable
 org.jetbrains.kotlin:kotlin-allopen
 org.jetbrains.kotlin:kotlin-allopen-compiler-plugin
 org.jetbrains.kotlin:kotlin-allopen-compiler-plugin-embeddable
+org.jetbrains.kotlin:kotlin-analysis-api
+org.jetbrains.kotlin:kotlin-analysis-api-fir-diagnostics
+org.jetbrains.kotlin:kotlin-analysis-api-implementation
+org.jetbrains.kotlin:kotlin-analysis-api-intellij-api-surface-components
+org.jetbrains.kotlin:kotlin-analysis-api-intellij-implementation-components
+org.jetbrains.kotlin:kotlin-analysis-api-internal-test-framework
+org.jetbrains.kotlin:kotlin-analysis-api-platform-interface
+org.jetbrains.kotlin:kotlin-analysis-api-standalone-implementation
+org.jetbrains.kotlin:kotlin-analysis-api-standalone-surface
+org.jetbrains.kotlin:kotlin-analysis-api-surface
 org.jetbrains.kotlin:kotlin-android-extensions
 org.jetbrains.kotlin:kotlin-android-extensions-runtime
 org.jetbrains.kotlin:kotlin-annotation-processing
@@ -315,6 +325,7 @@ org.jetbrains.kotlin:kotlin-atomicfu-compiler-plugin-embeddable
 org.jetbrains.kotlin:kotlin-build-common
 org.jetbrains.kotlin:kotlin-build-statistics
 org.jetbrains.kotlin:kotlin-build-tools-api
+org.jetbrains.kotlin:kotlin-build-tools-api-jps
 org.jetbrains.kotlin:kotlin-build-tools-compat
 org.jetbrains.kotlin:kotlin-build-tools-cri-impl
 org.jetbrains.kotlin:kotlin-build-tools-impl
@@ -462,6 +473,7 @@ org.jetbrains.kotlin:sir-providers
 org.jetbrains.kotlin:swift-export-embeddable
 org.jetbrains.kotlin:swift-export-ide
 org.jetbrains.kotlin:swift-export-standalone
+org.jetbrains.kotlin:typescript-export-standalone-embeddable
 org.jetbrains.kotlinx:kotlinx-metadata-jvm
 org.jetbrains.kotlinx:kotlinx-metadata-klib
 org.opendaylight:transportpce
