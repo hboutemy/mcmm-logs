@@ -1,0 +1,7 @@
+io/reshapr/reshapr-controllers/0.0.4/reshapr-controllers-0.0.4.spdx.json
+io/reshapr/reshapr-kube-admission/0.0.4/reshapr-kube-admission-0.0.4.spdx.json
+io/reshapr/reshapr-kube-api/0.0.4/reshapr-kube-api-0.0.4.spdx.json
+io/reshapr/reshapr-kube-operator/0.0.4/reshapr-kube-operator-0.0.4.spdx.json
+org/apache/commons/commons-jexl3/3.7.1/commons-jexl3-3.7.1.spdx.json
+org/opendaylight/gnmi/gnmi-sbom-4.0.0.spdx
+org/opendaylight/odlparent/odlparent-sbom-14.4.0.spdx

@@ -2498,7 +2498,13 @@ io.jexxa.jlegmed:jlegmed-metrics
 io.jexxa.jlegmed:jlegmed-test
 io.jexxa:adapter-api
 io.jexxa:jexxa-adapters
+io.mapsmessaging:JsonQuery
+io.mapsmessaging:configuration_library
 io.mapsmessaging:jms_selector_parser
+io.mapsmessaging:mavlink
+io.mapsmessaging:naturally_ordered_long_collections
+io.mapsmessaging:non_block_task_scheduler
+io.mapsmessaging:schemas
 io.mapsmessaging:simple_logging
 io.prometheus.jmx:collector
 io.sapl:sapl-language-server
@@ -6978,6 +6984,8 @@ org.glassfish.tyrus:tyrus-documentation
 org.glassfish.tyrus:tyrus-project
 org.glassfish.tyrus:tyrus-server
 org.glassfish.tyrus:tyrus-spi
+org.glassfish.wasp:quarkus-wasp
+org.glassfish.wasp:quarkus-wasp-deployment
 org.glassfish.wasp:wasp
 org.glassfish.woodstock.external:dojo
 org.glassfish.woodstock.external:prototype
