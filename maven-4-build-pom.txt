@@ -3632,3 +3632,6 @@ com/flowlogix/infra-pom/147/infra-pom-147-build.pom
 com/flowlogix/payara-pom/147/payara-pom-147-build.pom
 com/flowlogix/server-common/147/server-common-147-build.pom
 20261023
+20261024
+com/flowlogix/archetypes/starter/157/starter-157-build.pom
+com/flowlogix/flowlogix-bom/53/flowlogix-bom-53-build.pom

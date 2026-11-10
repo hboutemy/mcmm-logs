@@ -1945,6 +1945,10 @@ eu.inqudium:limesium
 eu.inqudium:limesium-reactive-logging
 eu.inqudium:limesium-servlet-logging
 eu.inqudium:tabellarium
+eu.inqudium:veredium
+eu.inqudium:veredium-core
+eu.inqudium:veredium-restclient
+eu.inqudium:veredium-webclient
 eu.maveniverse.maven.scalpel:scalpel
 eu.michael-simons.neo4j:neo4j-migrations
 eu.michael-simons.neo4j:neo4j-migrations-annotation-catalog
@@ -5792,6 +5796,7 @@ org.eclipse.lyo.oslc4j.core:oslc4j-jena-provider
 org.eclipse.lyo.oslc4j.core:oslc4j-json4j-provider
 org.eclipse.lyo.oslc4j.core:oslc4j-utils
 org.eclipse.lyo.oslc4j.server:lyo-server-build
+org.eclipse.lyo.oslc4j.server:lyo-server-common
 org.eclipse.lyo.server:net.oauth.core-oauth-consumer-jakarta
 org.eclipse.lyo.server:net.oauth.core-oauth-httpclient4-jakarta
 org.eclipse.lyo.server:net.oauth.core-oauth-jakarta
@@ -6259,6 +6264,9 @@ org.glassfish.epicyro:spi
 org.glassfish.exousia:exousia
 org.glassfish.exousia:exousia.spi.tomcat
 org.glassfish.exousia:parent
+org.glassfish.exousia:quarkus-exousia
+org.glassfish.exousia:quarkus-exousia-deployment
+org.glassfish.exousia:quarkus-exousia-parent
 org.glassfish.exousia:spi
 org.glassfish.expressly:expressly
 org.glassfish.external:ant
@@ -9446,6 +9454,7 @@ tools.refinery.z3:refinery-z3-solver-darwin-x86-64
 tools.refinery.z3:refinery-z3-solver-linux-aarch64
 tools.refinery.z3:refinery-z3-solver-linux-x86-64
 tools.refinery.z3:refinery-z3-solver-win32-x86-64
+uk.org.hecaton:hecaton-root
 us.ny.nyc.hope:deploytest
 us.ny.nyc.hope:testdeploy
 us.springett:alpine

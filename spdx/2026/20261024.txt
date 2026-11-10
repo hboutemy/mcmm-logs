@@ -1,0 +1,2 @@
+com/flowlogix/archetypes/starter/157/starter-157.spdx.json
+com/flowlogix/flowlogix-bom/53/flowlogix-bom-53.spdx.json
