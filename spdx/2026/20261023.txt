@@ -1,0 +1,8 @@
+com/exasol/project-keeper-cli/5.8.1/project-keeper-cli-5.8.1-sbom.spdx
+com/exasol/project-keeper-core/5.8.1/project-keeper-core-5.8.1-sbom.spdx
+com/exasol/project-keeper-java-project-crawler/5.8.1/project-keeper-java-project-crawler-5.8.1-sbom.spdx
+com/exasol/project-keeper-maven-plugin/5.8.1/project-keeper-maven-plugin-5.8.1-sbom.spdx
+com/exasol/project-keeper-shared-model-classes/5.8.1/project-keeper-shared-model-classes-5.8.1-sbom.spdx
+com/marklogic/marklogic-data-hub-api/6.2.2/marklogic-data-hub-api-6.2.2-sbom.spdx.json
+de/knightsoft-net/gwt-commons-lang3/3.21.0-1/gwt-commons-lang3-3.21.0-1.spdx.rdf.xml
+io/opentelemetry/javaagent/opentelemetry-javaagent/2.33.0/opentelemetry-javaagent-2.33.0-spdx.json
