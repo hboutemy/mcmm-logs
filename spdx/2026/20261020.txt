@@ -1,0 +1,6 @@
+com/exasol/project-keeper-cli/5.8.0/project-keeper-cli-5.8.0-sbom.spdx
+com/exasol/project-keeper-core/5.8.0/project-keeper-core-5.8.0-sbom.spdx
+com/exasol/project-keeper-java-project-crawler/5.8.0/project-keeper-java-project-crawler-5.8.0-sbom.spdx
+com/exasol/project-keeper-maven-plugin/5.8.0/project-keeper-maven-plugin-5.8.0-sbom.spdx
+com/exasol/project-keeper-shared-model-classes/5.8.0/project-keeper-shared-model-classes-5.8.0-sbom.spdx
+com/exasol/udf-debugging-java/0.6.22/udf-debugging-java-0.6.22-sbom.spdx
