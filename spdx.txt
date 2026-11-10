@@ -270,6 +270,7 @@ org.frankframework:frankframework-ladybug-debugger
 org.frankframework:frankframework-ladybug-rerunner
 org.frankframework:frankframework-larva
 org.frankframework:frankframework-management-gateway
+org.frankframework:frankframework-mcp
 org.frankframework:frankframework-messaging
 org.frankframework:frankframework-nn-specials
 org.frankframework:frankframework-parent

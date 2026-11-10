@@ -3585,3 +3585,7 @@ com/flowlogix/archetypes/starter/156/starter-156-build.pom
 com/flowlogix/flowlogix-datamodel/11.7.2/flowlogix-datamodel-11.7.2-build.pom
 com/flowlogix/flowlogix-jee/11.7.2/flowlogix-jee-11.7.2-build.pom
 com/flowlogix/flowlogix/11.7.2/flowlogix-11.7.2-build.pom
+20261016
+com/flowlogix/flowlogix-datamodel/11.7.3/flowlogix-datamodel-11.7.3-build.pom
+com/flowlogix/flowlogix-jee/11.7.3/flowlogix-jee-11.7.3-build.pom
+com/flowlogix/flowlogix/11.7.3/flowlogix-11.7.3-build.pom
