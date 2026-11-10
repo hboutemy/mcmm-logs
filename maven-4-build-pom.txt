@@ -3624,3 +3624,10 @@ com/google/adk/google-adk/1.13.0/google-adk-1.13.0-build.pom
 com/google/adk/samples/configagent-samples/1.13.0/configagent-samples-1.13.0-build.pom
 com/google/adk/samples/google-adk-sample-helloworld/1.13.0/google-adk-sample-helloworld-1.13.0-build.pom
 com/google/adk/samples/google-adk-sample-mcpfilesystem/1.13.0/google-adk-sample-mcpfilesystem-1.13.0-build.pom
+20261022
+com/flowlogix/base-pom/147/base-pom-147-build.pom
+com/flowlogix/checkstyle/147/checkstyle-147-build.pom
+com/flowlogix/glassfish-pom/147/glassfish-pom-147-build.pom
+com/flowlogix/infra-pom/147/infra-pom-147-build.pom
+com/flowlogix/payara-pom/147/payara-pom-147-build.pom
+com/flowlogix/server-common/147/server-common-147-build.pom

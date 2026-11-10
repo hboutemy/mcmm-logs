@@ -572,6 +572,7 @@ com.codbex.gaia:codbex-gaia-application
 com.codbex.hades:codbex-hades-application
 com.codbex.helios:codbex-helios-application
 com.codbex.hyperion:codbex-hyperion-application
+com.codbex.iapetus:codbex-iapetus-application
 com.codbex.rhea:codbex-rhea-application
 com.condation.cms:cms-parent
 com.deque.android:axe-devtools-android
@@ -2199,6 +2200,7 @@ io.github.ggomarighetti:rsql-jpa-search-perplexhub
 io.github.ggomarighetti:rsql-jpa-search-rsql-spi
 io.github.ggomarighetti:rsql-jpa-search-spring-boot-starter
 io.github.giulong:spectrum
+io.github.jamescarr:ankusa-sdk
 io.github.java-helpers:simple-builders-core
 io.github.java-helpers:simple-builders-processor
 io.github.libtmux:libtmux
@@ -3094,6 +3096,7 @@ jakarta.xml.ws:jakarta.xml.ws-api
 life.qbic:linksmith
 me.dmmax.akka:akka-spawn-protocol
 me.dmmax.akka:akka-spawn-protocol-guice
+me.yakar.muster:muster-core
 media.barney:contract-core
 media.barney:contract-java
 media.barney:contract-spring-boot-starter
@@ -5622,6 +5625,7 @@ org.docx4j:docx4j-ImportXHTML-samples
 org.docx4j:docx4j-JAXB-MOXy
 org.docx4j:docx4j-JAXB-ReferenceImpl
 org.docx4j:docx4j-bundle
+org.docx4j:docx4j-bundle-extras
 org.docx4j:docx4j-chart-render
 org.docx4j:docx4j-conversion-via-microsoft-graph
 org.docx4j:docx4j-copy

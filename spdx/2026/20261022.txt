@@ -1,0 +1,5 @@
+com/exasol/error-code-crawler-maven-plugin/2.1.3/error-code-crawler-maven-plugin-2.1.3-sbom.spdx
+com/exasol/import-export-udf-common-scala/2.0.5/import-export-udf-common-scala-2.0.5-sbom.spdx
+com/exasol/parquet-io-java/2.1.2/parquet-io-java-2.1.2-sbom.spdx
+com/exasol/spark-connector-common-java/4.0.1/spark-connector-common-java-4.0.1-sbom.spdx
+com/exasol/virtual-schema-common-document/12.1.2/virtual-schema-common-document-12.1.2-sbom.spdx
