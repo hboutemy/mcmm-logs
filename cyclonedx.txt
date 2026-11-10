@@ -1875,6 +1875,17 @@ ee.omnifish.arquillian:glassfish-containers-main
 ee.omnifish.arquillian:glassfish-pool-maven-plugin
 ee.omnifish.arquillian:quarkus-containers-main
 es.blackleg:jlibnotify
+eu.ciechanowiec:airness
+eu.ciechanowiec:airness-annotations
+eu.ciechanowiec:airness-assets
+eu.ciechanowiec:airness-config
+eu.ciechanowiec:airness-error-prone
+eu.ciechanowiec:airness-governance
+eu.ciechanowiec:airness-maven-plugin
+eu.ciechanowiec:airness-parent
+eu.ciechanowiec:airness-parent-spring-boot
+eu.ciechanowiec:airness-spring-evidence
+eu.ciechanowiec:airness-web-evidence
 eu.copernik:copernik-xml-factory
 eu.exeris:exeris-kernel-bom
 eu.exeris:exeris-kernel-build-config
@@ -2559,6 +2570,7 @@ io.smallrye.reactive:vertx-mutiny-code-generator
 io.smallrye.reactive:vertx-mutiny-generator
 io.sypt:sypt-core
 io.sypt:sypt-core-jackson-2
+io.sypt:sypt-sdk
 io.telicent.jena.graphql:graphql-fuseki-module
 io.telicent.jena.graphql:graphql-jena-benchmarks
 io.telicent.jena.graphql:graphql-jena-core
@@ -6011,6 +6023,10 @@ org.fryske-akademy:primefacesgui
 org.fryske-akademy:teidictionaries
 org.fryske-akademy:udpipe-service
 org.fryske-akademy:validation
+org.fuin.porelo:porelo-acceptance-kit
+org.fuin.porelo:porelo-agent-api
+org.fuin.porelo:porelo-build-api
+org.fuin.porelo:porelo-wire
 org.fuin.sokar:sokar-acceptance-kit
 org.fuin.sokar:sokar-agent-api
 org.fuin.sokar:sokar-build-api
