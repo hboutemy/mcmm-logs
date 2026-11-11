@@ -1,0 +1,2 @@
+com/exasol/virtual-schema-common-document-files/10.0.0/virtual-schema-common-document-files-10.0.0-sbom.spdx
+com/exasol/virtual-schema-common-document-files/10.0.1/virtual-schema-common-document-files-10.0.1-sbom.spdx
