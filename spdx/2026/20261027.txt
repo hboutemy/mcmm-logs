@@ -1,0 +1,4 @@
+com/flowlogix/plugins/container-deploy-plugin-common/1.5.3/container-deploy-plugin-common-1.5.3.spdx.json
+com/flowlogix/plugins/container-deploy-plugin-root/1.5.3/container-deploy-plugin-root-1.5.3.spdx.json
+com/flowlogix/plugins/container-deploy-plugin/1.5.3/container-deploy-plugin-1.5.3.spdx.json
+com/flowlogix/plugins/live-reload/1.5.3/live-reload-1.5.3.spdx.json

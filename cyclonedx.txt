@@ -1889,6 +1889,7 @@ de.svenkubiak:embedded-mongodb
 de.svenkubiak:simple-http
 de.trustable.cmp.client:cmpClient
 de.trustable:cryptoUtil
+de.wenzlaff.ruhestand:de.wenzlaff.ruhestand
 dev.iabudiab:dependency-track-maven-plugin
 dev.jcputney:elearning-module-parser
 dev.jcputney:magika-java

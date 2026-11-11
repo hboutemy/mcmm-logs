@@ -3639,3 +3639,8 @@ com/flowlogix/flowlogix-bom/53/flowlogix-bom-53-build.pom
 20261026
 com/flowlogix/archetypes/starter/158/starter-158-build.pom
 com/flowlogix/flowlogix-bom/54/flowlogix-bom-54-build.pom
+20261027
+com/flowlogix/plugins/container-deploy-plugin-common/1.5.3/container-deploy-plugin-common-1.5.3-build.pom
+com/flowlogix/plugins/container-deploy-plugin-root/1.5.3/container-deploy-plugin-root-1.5.3-build.pom
+com/flowlogix/plugins/container-deploy-plugin/1.5.3/container-deploy-plugin-1.5.3-build.pom
+com/flowlogix/plugins/live-reload/1.5.3/live-reload-1.5.3-build.pom
