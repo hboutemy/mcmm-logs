@@ -3645,3 +3645,8 @@ com/flowlogix/plugins/container-deploy-plugin-root/1.5.3/container-deploy-plugin
 com/flowlogix/plugins/container-deploy-plugin/1.5.3/container-deploy-plugin-1.5.3-build.pom
 com/flowlogix/plugins/live-reload/1.5.3/live-reload-1.5.3-build.pom
 20261028
+20261029
+com/flowlogix/plugins/container-deploy-plugin-common/1.5.4/container-deploy-plugin-common-1.5.4-build.pom
+com/flowlogix/plugins/container-deploy-plugin-root/1.5.4/container-deploy-plugin-root-1.5.4-build.pom
+com/flowlogix/plugins/container-deploy-plugin/1.5.4/container-deploy-plugin-1.5.4-build.pom
+com/flowlogix/plugins/live-reload/1.5.4/live-reload-1.5.4-build.pom

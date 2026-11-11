@@ -1,0 +1,9 @@
+com/exasol/project-keeper-cli/5.8.2/project-keeper-cli-5.8.2-sbom.spdx
+com/exasol/project-keeper-core/5.8.2/project-keeper-core-5.8.2-sbom.spdx
+com/exasol/project-keeper-java-project-crawler/5.8.2/project-keeper-java-project-crawler-5.8.2-sbom.spdx
+com/exasol/project-keeper-maven-plugin/5.8.2/project-keeper-maven-plugin-5.8.2-sbom.spdx
+com/exasol/project-keeper-shared-model-classes/5.8.2/project-keeper-shared-model-classes-5.8.2-sbom.spdx
+com/flowlogix/plugins/container-deploy-plugin-common/1.5.4/container-deploy-plugin-common-1.5.4.spdx.json
+com/flowlogix/plugins/container-deploy-plugin-root/1.5.4/container-deploy-plugin-root-1.5.4.spdx.json
+com/flowlogix/plugins/container-deploy-plugin/1.5.4/container-deploy-plugin-1.5.4.spdx.json
+com/flowlogix/plugins/live-reload/1.5.4/live-reload-1.5.4.spdx.json

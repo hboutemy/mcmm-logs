@@ -2586,6 +2586,7 @@ io.github.yravelo:postgres-bulk-spring-boot-starter
 io.github.yravelo:postgres-bulk-spring-boot-starter-data-jdbc
 io.github.yravelo:postgres-bulk-spring-data
 io.github.yravelo:postgres-bulk-spring-data-jdbc
+io.hud:hud-api
 io.jexxa.adapters:adapter-api
 io.jexxa.adapters:common-adapters
 io.jexxa.adapters:esp-adapters
@@ -3261,6 +3262,7 @@ network.ike.docs:koncept-asciidoc-extension
 network.ike.docs:koncept-core
 network.ike.docs:minimal-fonts
 network.ike.docs:semantic-linebreak
+network.ike.docs:typst-asciidoc-converter
 network.ike.knowledge:ike-knowledge-provider
 network.ike.platform:ike-bom
 network.ike.platform:ike-parent
@@ -9382,6 +9384,7 @@ sh.oso:connect-servicenow-sink
 sh.oso:connect-servicenow-source
 sh.oso:kafka-connect-servicenow-parent
 sh.oso:snow-core
+sh.soml:soml
 sh.stubborn.contract:sh.stubborn.contract.gradle.plugin
 sh.stubborn:stubborn-contract-build
 sh.stubborn:stubborn-contract-converters
