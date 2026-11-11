@@ -1,0 +1,3 @@
+com/flowlogix/flowlogix-datamodel/11.7.4/flowlogix-datamodel-11.7.4.spdx.json
+com/flowlogix/flowlogix-jee/11.7.4/flowlogix-jee-11.7.4.spdx.json
+com/flowlogix/flowlogix/11.7.4/flowlogix-11.7.4.spdx.json

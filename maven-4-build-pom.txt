@@ -3650,3 +3650,7 @@ com/flowlogix/plugins/container-deploy-plugin-common/1.5.4/container-deploy-plug
 com/flowlogix/plugins/container-deploy-plugin-root/1.5.4/container-deploy-plugin-root-1.5.4-build.pom
 com/flowlogix/plugins/container-deploy-plugin/1.5.4/container-deploy-plugin-1.5.4-build.pom
 com/flowlogix/plugins/live-reload/1.5.4/live-reload-1.5.4-build.pom
+20261030
+com/flowlogix/flowlogix-datamodel/11.7.4/flowlogix-datamodel-11.7.4-build.pom
+com/flowlogix/flowlogix-jee/11.7.4/flowlogix-jee-11.7.4-build.pom
+com/flowlogix/flowlogix/11.7.4/flowlogix-11.7.4-build.pom

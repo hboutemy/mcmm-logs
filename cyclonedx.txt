@@ -1625,6 +1625,7 @@ com.power4j.fist3:fist-web
 com.rejment:jsess
 com.rootline.connect:connect-sdk
 com.siemens.pki:CmpRaComponent
+com.signwell:signwell-sdk
 com.soartech:jsoar
 com.soartech:jsoar-core
 com.soartech:jsoar-debugger
@@ -2221,6 +2222,10 @@ io.github.cameleogrey:greycos-solver-spring-integration
 io.github.cameleogrey:greycos-solver-tools-parent
 io.github.cameleogrey:greycos-solver-webui
 io.github.cameleogrey:spring-boot-integration-test
+io.github.cbc-tola:boot-buddy-core
+io.github.cbc-tola:boot-buddy-maven-plugin
+io.github.cbc-tola:boot-buddy-parent
+io.github.cbc-tola:boot-buddy-spring-boot-starter
 io.github.cd-lc:vegaduta-agent-api
 io.github.cd-lc:vegaduta-agent-core
 io.github.cd-lc:vegaduta-agent-jdbc
@@ -2428,6 +2433,7 @@ io.github.r4fterman:com.windowtester.runtime
 io.github.r4fterman:com.windowtester.runtime.junit4
 io.github.r4fterman:com.windowtester.swing.recorder
 io.github.r4fterman:com.windowtester.swing.runtime
+io.github.rajadilipkolli:microservices-common
 io.github.sbom-enforcer:sbom-enforcer-maven-plugin
 io.github.sebastian-toepfer.common:condition4j
 io.github.sebastian-toepfer.common:condition4j-api
@@ -5470,6 +5476,7 @@ org.apache.spark:spark-catalyst_2.13
 org.apache.spark:spark-common-utils-java_2.13
 org.apache.spark:spark-common-utils_2.12
 org.apache.spark:spark-common-utils_2.13
+org.apache.spark:spark-config_2.13
 org.apache.spark:spark-connect-client-jdbc_2.13
 org.apache.spark:spark-connect-client-jvm_2.12
 org.apache.spark:spark-connect-client-jvm_2.13
@@ -5537,6 +5544,7 @@ org.apache.spark:spark-tags_2.13
 org.apache.spark:spark-token-provider-kafka-0-10_2.12
 org.apache.spark:spark-token-provider-kafka-0-10_2.13
 org.apache.spark:spark-udf-worker-core_2.13
+org.apache.spark:spark-udf-worker-grpc_2.13
 org.apache.spark:spark-udf-worker-proto_2.13
 org.apache.spark:spark-unsafe_2.12
 org.apache.spark:spark-unsafe_2.13
@@ -9246,6 +9254,7 @@ org.pageseeder.bastille:pso-bastille
 org.pageseeder.berlioz:pso-berlioz
 org.pageseeder.berlioz:pso-berlioz-kickstart
 org.pageseeder.berlioz:pso-berlioz-mock
+org.pageseeder.berlioz:pso-bzadmin
 org.pageseeder.diffx:pso-diffx
 org.pageseeder.sdk:pageseeder-sdk-cli
 org.pageseeder.sdk:pageseeder-sdk-core
