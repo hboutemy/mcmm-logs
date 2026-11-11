@@ -1948,6 +1948,9 @@ ee.omnifish.arquillian:glassfish-containers-docs
 ee.omnifish.arquillian:glassfish-containers-main
 ee.omnifish.arquillian:glassfish-pool-maven-plugin
 ee.omnifish.arquillian:quarkus-containers-main
+ee.omnifish:omnibeans
+ee.omnifish:omnibeans-parent
+ee.omnifish:omnibeans-quarkus
 es.blackleg:jlibnotify
 eu.ciechanowiec:airness
 eu.ciechanowiec:airness-annotations
@@ -2216,6 +2219,14 @@ io.github.cameleogrey:greycos-solver-spring-integration
 io.github.cameleogrey:greycos-solver-tools-parent
 io.github.cameleogrey:greycos-solver-webui
 io.github.cameleogrey:spring-boot-integration-test
+io.github.cd-lc:vegaduta-agent-api
+io.github.cd-lc:vegaduta-agent-core
+io.github.cd-lc:vegaduta-agent-jdbc
+io.github.cd-lc:vegaduta-agent-parent
+io.github.cd-lc:vegaduta-agent-scanner
+io.github.cd-lc:vegaduta-agent-spring-ai
+io.github.cd-lc:vegaduta-agent-spring-boot-starter
+io.github.cd-lc:vegaduta-agent-testkit
 io.github.chains-project:maven-lockfile
 io.github.chains-project:maven-lockfile-github-action
 io.github.chains-project:maven-lockfile-parent
@@ -3158,6 +3169,12 @@ net.dapete:locks
 net.e175.klaus:solarpositioning
 net.intelie.pipes:pipes
 net.intelie.pipes:pipes-api
+net.ladenthin:llama
+net.ladenthin:llama-ffm
+net.ladenthin:llama-kotlin
+net.ladenthin:llama-langchain4j
+net.ladenthin:llama-parent
+net.ladenthin:llama-platform
 net.sigmalab.maven.plugins:jira-maven-plugin
 net.sourceforge.pmd:pmd
 net.sourceforge.pmd:pmd-ant

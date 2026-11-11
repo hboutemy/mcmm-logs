@@ -27981,3 +27981,35 @@ org/finos/legend/engine/legend-engine/5.0.2/legend-engine-5.0.2.pom
 sh/basaltic/sdk-java/0.8.0/sdk-java-0.8.0.pom
 sh/basaltic/sdk-java/0.8.1/sdk-java-0.8.1.pom
    from mvn: 2963 - non-mvn: 5637 - buildinfo: 0 - module: 4869 - gradle timestamp: 4981 - atlasdb: 0 = 0 release
+20261025
+ch/qos/logback/logback-parent/1.6.6/logback-parent-1.6.6.pom
+com/files/files-sdk/2.0.47/files-sdk-2.0.47.pom
+com/files/files-sdk/2.0.48/files-sdk-2.0.48.pom
+com/files/files-sdk/2.0.49/files-sdk-2.0.49.pom
+com/files/files-sdk/2.0.50/files-sdk-2.0.50.pom
+com/fillumina/xjc-bean-validation-plugin/1.0.1/xjc-bean-validation-plugin-1.0.1.pom
+com/github/seregamorph/spring-test-smart-context-parent/1.3/spring-test-smart-context-parent-1.3.pom
+com/yangqiongai/agent/yangqiong-agent-harness/1.1.2/yangqiong-agent-harness-1.1.2.pom
+de/speedbanking/iban-commons-parent/1.8.13/iban-commons-parent-1.8.13.pom
+fr/inria/gforge/spoon/spoon-pom/11.5.1-beta-15/spoon-pom-11.5.1-beta-15.pom
+in/slashmark/maven-suite/1.0.0/maven-suite-1.0.0.pom
+io/github/chains-project/maven-lockfile/5.18.7-beta-2/maven-lockfile-5.18.7-beta-2.pom
+io/github/kirstenali/deepj/0.11.0-alpha/deepj-0.11.0-alpha.pom
+io/github/revsnai/ffm-sqlite-parent/0.2.2/ffm-sqlite-parent-0.2.2.pom
+io/github/revsnai/ffm-sqlite-parent/0.2.4/ffm-sqlite-parent-0.2.4.pom
+io/github/rey5137/model-query-parent/0.11.0/model-query-parent-0.11.0.pom
+io/github/rey5137/model-query-parent/0.11.1/model-query-parent-0.11.1.pom
+io/github/ta-lib/ta-lib/0.8.3/ta-lib-0.8.3.pom
+io/github/xxd763795151/esl-client-parent/2.0.0/esl-client-parent-2.0.0.pom
+io/javalin/javalin-parent/7.2.4/javalin-parent-7.2.4.pom
+io/mateu/mateu-bom/3.0-beta.14/mateu-bom-3.0-beta.14.pom
+io/mateu/mateu-parent/3.0-beta.14/mateu-parent-3.0-beta.14.pom
+net/mwalser/openapi-toolkit-maven-plugin/0.3.0/openapi-toolkit-maven-plugin-0.3.0.pom
+network/ike/docs/ike-docs/127/ike-docs-127.pom
+network/ike/docs/ike-docs/128/ike-docs-128.pom
+network/ike/platform/ike-platform/210/ike-platform-210.pom
+network/ike/platform/ike-platform/211/ike-platform-211.pom
+network/ike/tooling/ike-tooling/270/ike-tooling-270.pom
+network/ike/tooling/ike-tooling/271/ike-tooling-271.pom
+world/convex/convex/0.8.18/convex-0.8.18.pom
+   from mvn: 1413 - non-mvn: 4045 - buildinfo: 0 - module: 5391 - gradle timestamp: 3509 - atlasdb: 0 = 0 release

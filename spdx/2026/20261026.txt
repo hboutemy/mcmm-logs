@@ -1,0 +1,6 @@
+com/exasol/ci-isolation-aws/3.0.2/ci-isolation-aws-3.0.2-sbom.spdx
+com/exasol/virtual-schema-common-java/18.1.1/virtual-schema-common-java-18.1.1-sbom.spdx
+com/exasol/virtual-schema-common-jdbc/14.1.1/virtual-schema-common-jdbc-14.1.1-sbom.spdx
+com/flowlogix/archetypes/starter/158/starter-158.spdx.json
+com/flowlogix/flowlogix-bom/54/flowlogix-bom-54.spdx.json
+io/opentelemetry/javaagent/opentelemetry-javaagent/2.33.1/opentelemetry-javaagent-2.33.1-spdx.json
