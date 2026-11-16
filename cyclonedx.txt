@@ -412,12 +412,14 @@ build.jenesis:build.jenesis.plugin.openrewrite
 build.jenesis:build.jenesis.plugin.palantir
 build.jenesis:build.jenesis.plugin.pitest
 build.jenesis:build.jenesis.plugin.pmd
+build.jenesis:build.jenesis.plugin.princeofspace
 build.jenesis:build.jenesis.plugin.protoc
 build.jenesis:build.jenesis.plugin.revapi
 build.jenesis:build.jenesis.plugin.scala
 build.jenesis:build.jenesis.plugin.scalafmt
 build.jenesis:build.jenesis.plugin.scalastyle
 build.jenesis:build.jenesis.plugin.spotbugs
+build.jenesis:build.jenesis.plugin.spotless
 build.jenesis:build.jenesis.plugin.wsimport
 build.jenesis:build.jenesis.plugin.xjc
 build.jenesis:build.jenesis.repository.bundle
