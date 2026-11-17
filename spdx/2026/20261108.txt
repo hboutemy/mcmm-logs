@@ -1,0 +1,2 @@
+ch/nvaria/iso8601/1.0.0/iso8601-1.0.0-sbom.spdx.json
+land/oras/oras-java-sdk/0.9.1/oras-java-sdk-0.9.1.spdx.json

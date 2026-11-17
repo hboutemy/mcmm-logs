@@ -776,6 +776,7 @@ com.github.ifrugal:gateway-app
 com.github.ifrugal:gateway-core
 com.github.ifrugal:gateway-starter
 com.github.ifrugal:spring-gateway-toolkit
+com.github.luben:zstd-jni
 com.github.marks-yag:mecha-demo
 com.github.marks-yag:mecha-demo-http4k
 com.github.marks-yag:mecha-demo-ktor
@@ -1900,6 +1901,7 @@ de.svenkubiak:simple-http
 de.trustable.cmp.client:cmpClient
 de.trustable:cryptoUtil
 de.wenzlaff.ruhestand:de.wenzlaff.ruhestand
+dev.brewkits:grant-desktop-jvm
 dev.iabudiab:dependency-track-maven-plugin
 dev.jcputney:elearning-module-parser
 dev.jcputney:magika-java
@@ -2666,6 +2668,12 @@ io.github.yravelo:postgres-bulk-spring-data
 io.github.yravelo:postgres-bulk-spring-data-jdbc
 io.hud:hud-api
 io.jexxa.adapters:adapter-api
+io.jexxa.adapters:adapter-core
+io.jexxa.adapters:adapter-esp
+io.jexxa.adapters:adapter-jdbc
+io.jexxa.adapters:adapter-jms
+io.jexxa.adapters:adapter-rest
+io.jexxa.adapters:adapter-s3
 io.jexxa.adapters:common-adapters
 io.jexxa.adapters:esp-adapters
 io.jexxa.adapters:esp-adapters-core
@@ -9670,6 +9678,7 @@ tools.jackson.dataformat:jackson-dataformat-toml
 tools.jackson.dataformat:jackson-dataformat-xml
 tools.jackson.dataformat:jackson-dataformat-yaml
 tools.jackson.datatype:jackson-datatype-eclipse-collections
+tools.jackson.datatype:jackson-datatype-fastutil
 tools.jackson.datatype:jackson-datatype-guava
 tools.jackson.datatype:jackson-datatype-hibernate4
 tools.jackson.datatype:jackson-datatype-hibernate5

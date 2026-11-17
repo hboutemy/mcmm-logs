@@ -3698,3 +3698,11 @@ com/flowlogix/flowlogix/11.7.6/flowlogix-11.7.6-build.pom
 com/flowlogix/flowlogix-bom/56/flowlogix-bom-56-build.pom
 com/flowlogix/flowlogix-quarkus-bom/56/flowlogix-quarkus-bom-56-build.pom
 20261107
+20261108
+com/flowlogix/base-pom/149/base-pom-149-build.pom
+com/flowlogix/checkstyle/149/checkstyle-149-build.pom
+com/flowlogix/glassfish-pom/149/glassfish-pom-149-build.pom
+com/flowlogix/infra-pom/149/infra-pom-149-build.pom
+com/flowlogix/payara-pom/149/payara-pom-149-build.pom
+com/flowlogix/quarkus-pom/149/quarkus-pom-149-build.pom
+com/flowlogix/server-common/149/server-common-149-build.pom
