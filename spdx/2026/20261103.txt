@@ -1,0 +1,17 @@
+com/flowlogix/archetypes/starter/159/starter-159.spdx.json
+com/flowlogix/flowlogix-bom/55/flowlogix-bom-55.spdx.json
+io/github/microcks/microcks-app/1.16.0-rc1/microcks-app-1.16.0-rc1.spdx.json
+io/github/microcks/microcks-async-minion/1.16.0-rc1/microcks-async-minion-1.16.0-rc1.spdx.json
+io/github/microcks/microcks-distro/1.16.0-rc1/microcks-distro-1.16.0-rc1.spdx.json
+io/github/microcks/microcks-el/1.16.0-rc1/microcks-el-1.16.0-rc1.spdx.json
+io/github/microcks/microcks-model/1.16.0-rc1/microcks-model-1.16.0-rc1.spdx.json
+io/github/microcks/microcks-uber-app/1.16.0-rc1/microcks-uber-app-1.16.0-rc1.spdx.json
+io/github/microcks/microcks-uber-async-minion/1.16.0-rc1/microcks-uber-async-minion-1.16.0-rc1.spdx.json
+io/github/microcks/microcks-util/1.16.0-rc1/microcks-util-1.16.0-rc1.spdx.json
+io/github/microcks/microcks/1.16.0-rc1/microcks-1.16.0-rc1.spdx.json
+io/reshapr/reshapr-api/1.1.1/reshapr-api-1.1.1.spdx.json
+io/reshapr/reshapr-commons/1.1.1/reshapr-commons-1.1.1.spdx.json
+io/reshapr/reshapr-ctrl/1.1.1/reshapr-ctrl-1.1.1.spdx.json
+io/reshapr/reshapr-parent/1.1.1/reshapr-parent-1.1.1.spdx.json
+io/reshapr/reshapr/1.1.1/reshapr-1.1.1.spdx.json
+org/opendaylight/gnmi/gnmi-sbom-1.0.2.spdx
