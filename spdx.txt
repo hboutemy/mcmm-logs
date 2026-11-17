@@ -1,4 +1,5 @@
 ch.nvaria:iso8601
+ch.nvaria:rsql-criteria
 com.deque.android:axe-devtools-android
 com.deque.android:axe-devtools-android-plugin
 com.exasol:artifact-reference-checker-maven-plugin

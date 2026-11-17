@@ -1788,6 +1788,7 @@ de.frachtwerk:essencium-backend-sequence-model
 de.frachtwerk:essencium-backend-storage-module
 de.frachtwerk:essencium-backend-uuid-model
 de.gematik.demis:spring-parent
+de.grobmeier:sbom-verifier-maven-plugin
 de.hilling.lang.metamodel:api
 de.hilling.lang.metamodel:integration-tests
 de.hilling.lang.metamodel:metamodel-generator
@@ -1982,6 +1983,7 @@ eu.ciechanowiec:airness-parent-payload
 eu.ciechanowiec:airness-parent-spring-boot
 eu.ciechanowiec:airness-payload-assets
 eu.ciechanowiec:airness-spring-evidence
+eu.ciechanowiec:airness-starters
 eu.ciechanowiec:airness-web-evidence
 eu.copernik:copernik-xml-factory
 eu.exeris:exeris-kernel-bom
