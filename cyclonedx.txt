@@ -2209,6 +2209,7 @@ io.github.aindriub:data-prism-spring-boot-starter
 io.github.aindriub:data-prism-validation
 io.github.amadeusitgroup.maven.wagon:ghrelasset-wagon
 io.github.arun0009:pulse-spring-boot-starter
+io.github.biglv666:api-governance-spring-boot-starter
 io.github.brunopacheco1:praecepta
 io.github.brunopacheco1:praecepta-engine
 io.github.brunopacheco1:praecepta-loader
