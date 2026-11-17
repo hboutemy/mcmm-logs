@@ -1,0 +1,2 @@
+com/flowlogix/flowlogix-bom/56/flowlogix-bom-56.spdx.json
+com/flowlogix/flowlogix-quarkus-bom/56/flowlogix-quarkus-bom-56.spdx.json

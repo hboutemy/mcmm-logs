@@ -43,6 +43,7 @@ com.flowlogix:flowlogix
 com.flowlogix:flowlogix-bom
 com.flowlogix:flowlogix-datamodel
 com.flowlogix:flowlogix-jee
+com.flowlogix:flowlogix-quarkus-bom
 com.github.mwiede:jsch
 com.hack23.cia:cia-dist-deb
 com.hack23.cia:citizen-intelligence-agency

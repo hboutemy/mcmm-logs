@@ -712,6 +712,7 @@ com.flowlogix:flowlogix
 com.flowlogix:flowlogix-bom
 com.flowlogix:flowlogix-datamodel
 com.flowlogix:flowlogix-jee
+com.flowlogix:flowlogix-quarkus-bom
 com.flowlogix:jakarta-ee
 com.flowlogix:jee-examples
 com.flowlogix:shiro-ee
@@ -1490,6 +1491,10 @@ com.kazforge:jsonapi-java-query
 com.kazforge:jsonapi-java-spring-webmvc
 com.larksuite.oapi:channel-sdk
 com.mountainminds:three4j
+com.mr-cisne.cispalmocks:cispalmocks-embedded-core
+com.mr-cisne.cispalmocks:cispalmocks-quarkus
+com.mr-cisne.cispalmocks:cispalmocks-quarkus2
+com.mr-cisne.cispalmocks:cispalmocks-spring-boot-starter
 com.nhparikh.repo:boot-mcp-doctor-autoconfigure
 com.nhparikh.repo:boot-mcp-doctor-parent
 com.nhparikh.repo:boot-mcp-doctor-spring-boot-starter
@@ -9392,6 +9397,15 @@ org.pitest:pitest-maven
 org.pitest:pitest-parent
 org.primefaces.extensions:primefaces-extensions
 org.primefaces:primefaces
+org.projectnessie.nessie-integrations:nessie-gc-tool
+org.projectnessie.nessie-integrations:nessie-spark-extensions-3.5_2.12
+org.projectnessie.nessie-integrations:nessie-spark-extensions-3.5_2.13
+org.projectnessie.nessie-integrations:nessie-spark-extensions-4.0_2.13
+org.projectnessie.nessie-integrations:nessie-spark-extensions-4.1_2.13
+org.projectnessie.nessie:nessie-cli
+org.projectnessie.nessie:nessie-content-generator
+org.projectnessie.nessie:nessie-quarkus
+org.projectnessie.nessie:nessie-server-admin-tool
 org.security4media:pgp-keys-map
 org.seleniumhq.selenium:htmlunit3-driver
 org.sliceworkz:sliceworkz-eventmodeling-api
