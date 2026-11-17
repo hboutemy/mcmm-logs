@@ -3684,3 +3684,12 @@ com/flowlogix/glassfish-pom/148/glassfish-pom-148-build.pom
 com/flowlogix/infra-pom/148/infra-pom-148-build.pom
 com/flowlogix/payara-pom/148/payara-pom-148-build.pom
 com/flowlogix/server-common/148/server-common-148-build.pom
+20261104
+com/flowlogix/archetypes/starter/160/starter-160-build.pom
+com/flowlogix/archetypes/starter/161/starter-161-build.pom
+com/flowlogix/flowlogix-datamodel/11.7.5/flowlogix-datamodel-11.7.5-build.pom
+com/flowlogix/flowlogix-datamodel/11.7.6/flowlogix-datamodel-11.7.6-build.pom
+com/flowlogix/flowlogix-jee/11.7.5/flowlogix-jee-11.7.5-build.pom
+com/flowlogix/flowlogix-jee/11.7.6/flowlogix-jee-11.7.6-build.pom
+com/flowlogix/flowlogix/11.7.5/flowlogix-11.7.5-build.pom
+com/flowlogix/flowlogix/11.7.6/flowlogix-11.7.6-build.pom

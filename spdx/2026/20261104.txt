@@ -1,0 +1,9 @@
+com/exasol/test-db-builder-java/5.0.0/test-db-builder-java-5.0.0-sbom.spdx
+com/flowlogix/archetypes/starter/160/starter-160.spdx.json
+com/flowlogix/archetypes/starter/161/starter-161.spdx.json
+com/flowlogix/flowlogix-datamodel/11.7.5/flowlogix-datamodel-11.7.5.spdx.json
+com/flowlogix/flowlogix-datamodel/11.7.6/flowlogix-datamodel-11.7.6.spdx.json
+com/flowlogix/flowlogix-jee/11.7.5/flowlogix-jee-11.7.5.spdx.json
+com/flowlogix/flowlogix-jee/11.7.6/flowlogix-jee-11.7.6.spdx.json
+com/flowlogix/flowlogix/11.7.5/flowlogix-11.7.5.spdx.json
+com/flowlogix/flowlogix/11.7.6/flowlogix-11.7.6.spdx.json
