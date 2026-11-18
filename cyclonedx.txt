@@ -576,14 +576,18 @@ com.arcmutate:pitest-maven-verification
 com.arcmutate:pitest-pr-lib
 com.axonivy.ivy.ci:project-build-plugin
 com.barrybecker4:bb4-A-star
+com.barrybecker4:bb4-adventure
 com.barrybecker4:bb4-catalog
 com.barrybecker4:bb4-common
 com.barrybecker4:bb4-expression
+com.barrybecker4:bb4-games
 com.barrybecker4:bb4-gradle
 com.barrybecker4:bb4-math
 com.barrybecker4:bb4-optimization
 com.barrybecker4:bb4-platform
+com.barrybecker4:bb4-puzzles
 com.barrybecker4:bb4-shortest-paths
+com.barrybecker4:bb4-simulations
 com.barrybecker4:bb4-sound
 com.barrybecker4:bb4-ui
 com.barrybecker4:bb4-xml
@@ -1671,6 +1675,10 @@ com.power4j.fist3:fist-trace-context
 com.power4j.fist3:fist-trace-context-spring-boot-starter
 com.power4j.fist3:fist-web
 com.rejment:jsess
+com.revetsec:revetsec
+com.revetsec:revetsec-servlet-jakarta
+com.revetsec:revetsec-servlet-javax
+com.revetsec:revetsec-soklet
 com.rootline.connect:connect-sdk
 com.siemens.pki:CmpRaComponent
 com.signwell:signwell-sdk
@@ -1735,6 +1743,9 @@ com.sun.xml.ws:servlet
 com.sun.xml.ws:tools
 com.sun.xml.ws:wscompile
 com.sun.xml.ws:www
+com.svenruppert.chronogrid:chronogrid
+com.svenruppert.chronogrid:chronogrid-caldav
+com.svenruppert.chronogrid:chronogrid-core
 com.swardana:oofx
 com.swardana:wisteria
 com.theoryinpractise:clojure-maven-plugin
@@ -7690,6 +7701,7 @@ org.jreleaser:jreleaser-webhooks-java-sdk
 org.jreleaser:jreleaser-zernio-java-sdk
 org.jreleaser:jreleaser-zulip-java-sdk
 org.jvnet.mimepull:mimepull
+org.jwcarman.who:who-admin
 org.jwcarman.who:who-apikey
 org.jwcarman.who:who-autoconfigure
 org.jwcarman.who:who-bom
@@ -7706,6 +7718,7 @@ org.jwcarman.who:who-rbac
 org.jwcarman.who:who-spring-boot-starter
 org.jwcarman.who:who-spring-security
 org.jwcarman.who:who-test
+org.jwcarman.who:who-turnstile
 org.kordamp.ezmorph:ezmorph-core
 org.kordamp.json:json-lib-core
 org.leplus:ristretto
@@ -8079,6 +8092,7 @@ org.mock-server:mockserver-junit-jupiter-no-dependencies
 org.mock-server:mockserver-junit-rule
 org.mock-server:mockserver-junit-rule-no-dependencies
 org.mock-server:mockserver-k8s-webhook
+org.mock-server:mockserver-maven-plugin
 org.mock-server:mockserver-netty
 org.mock-server:mockserver-netty-no-dependencies
 org.mock-server:mockserver-proxy-war
