@@ -1531,6 +1531,7 @@ com.open-elements:recordstore-runtime
 com.open-elements:recordstore-server
 com.open-elements:spring-services
 com.open-elements:spring-services-all
+com.open-elements:spring-services-altcha
 com.open-elements:spring-services-bom
 com.open-elements:spring-services-core
 com.open-elements:spring-services-dbbackup
@@ -1539,6 +1540,7 @@ com.open-elements:spring-services-mcp
 com.open-elements:spring-services-scim
 com.open-elements:spring-services-search
 com.open-elements:spring-services-slack
+com.open-elements:spring-services-storage
 com.open-elements:spring-services-tenant
 com.oracle.cloud.spring:spring-cloud-oci
 com.oracle.cloud.spring:spring-cloud-oci-adb
@@ -2577,6 +2579,9 @@ io.github.simplezac1995:strata-system-ops-biz
 io.github.simplezac1995:strata-system-rbac
 io.github.simplezac1995:strata-system-rbac-api
 io.github.simplezac1995:strata-system-rbac-biz
+io.github.sjacek.promptjig:promptjig-core
+io.github.sjacek.promptjig:promptjig-maven-plugin
+io.github.sjacek.promptjig:promptjig-spring-ai
 io.github.skhokhlov.rewriterunner:cli
 io.github.skhokhlov.rewriterunner:core
 io.github.sndnv:fsi
@@ -7319,16 +7324,21 @@ org.glassfish.mq:mq-packager-opensource
 org.glassfish.mq:mq-partition
 org.glassfish.mq:mq-portunif
 org.glassfish.mq:mq-share
+org.glassfish.mq:mq-share-auth
 org.glassfish.mq:mq-txnlog
 org.glassfish.mq:mq-ums
 org.glassfish.mq:mqadmin-cli
+org.glassfish.mq:mqadmin-commons
 org.glassfish.mq:mqadmin-gui
+org.glassfish.mq:mqadmin-resources
+org.glassfish.mq:mqadmin-utils
 org.glassfish.mq:mqbridge-admin
 org.glassfish.mq:mqbridge-api
 org.glassfish.mq:mqbridge-jms
 org.glassfish.mq:mqbridge-stomp
 org.glassfish.mq:mqbroker-comm
 org.glassfish.mq:mqbroker-core
+org.glassfish.mq:mqcomm-coders
 org.glassfish.mq:mqcomm-io
 org.glassfish.mq:mqcomm-lists
 org.glassfish.mq:mqcomm-options
