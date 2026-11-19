@@ -1,0 +1,6 @@
+de/knightsoft-net/gwt-commons-lang3/3.22.0-0/gwt-commons-lang3-3.22.0-0.spdx.rdf.xml
+io/reshapr/reshapr-api/1.2.0/reshapr-api-1.2.0.spdx.json
+io/reshapr/reshapr-commons/1.2.0/reshapr-commons-1.2.0.spdx.json
+io/reshapr/reshapr-ctrl/1.2.0/reshapr-ctrl-1.2.0.spdx.json
+io/reshapr/reshapr-parent/1.2.0/reshapr-parent-1.2.0.spdx.json
+io/reshapr/reshapr/1.2.0/reshapr-1.2.0.spdx.json
