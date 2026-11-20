@@ -1,0 +1,6 @@
+io/opentelemetry/javaagent/opentelemetry-javaagent/2.34.0/opentelemetry-javaagent-2.34.0-spdx.json
+io/reshapr/reshapr-controllers/0.0.5/reshapr-controllers-0.0.5.spdx.json
+io/reshapr/reshapr-kube-admission/0.0.5/reshapr-kube-admission-0.0.5.spdx.json
+io/reshapr/reshapr-kube-api/0.0.5/reshapr-kube-api-0.0.5.spdx.json
+io/reshapr/reshapr-kube-operator/0.0.5/reshapr-kube-operator-0.0.5.spdx.json
+org/opendaylight/gnmi/gnmi-sbom-2.0.2.spdx

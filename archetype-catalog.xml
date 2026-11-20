@@ -436823,5 +436823,802 @@ NOTE: Retrolambda support provided "as is" - if you have any problems, please fi
       <artifactId>component-archetype_2.12</artifactId>
       <version>4.2.1</version>
     </archetype>
+    <archetype>
+      <groupId>com.almis.awe</groupId>
+      <artifactId>awe-boot-angular-archetype</artifactId>
+      <version>5.0.0</version>
+      <description>This archetype generates a simple AWE web application with spring boot using the AngularJS frontend engine. The AngularJS client is supported in compatibility mode through the 5.x line, for projects that keep the AngularJS stack</description>
+    </archetype>
+    <archetype>
+      <groupId>com.almis.awe</groupId>
+      <artifactId>awe-boot-react-archetype</artifactId>
+      <version>5.0.0</version>
+      <description>This archetype generates a simple AWE web application with spring boot using the React frontend engine. This is the recommended archetype for new AWE 5 projects</description>
+    </archetype>
+    <archetype>
+      <groupId>com.domaindrivenkit</groupId>
+      <artifactId>ddk-layer3-archetype</artifactId>
+      <version>1.0.1</version>
+      <description>Generates a three-layer DDD service: adapter / business / infrastructure</description>
+    </archetype>
+    <archetype>
+      <groupId>com.domaindrivenkit</groupId>
+      <artifactId>ddk-layer3-archetype</artifactId>
+      <version>1.0.0</version>
+      <description>Generates a three-layer DDD service: adapter / business / infrastructure</description>
+    </archetype>
+    <archetype>
+      <groupId>com.domaindrivenkit</groupId>
+      <artifactId>ddk-layer3-archetype</artifactId>
+      <version>1.0.0-RC1</version>
+      <description>Generates a three-layer DDD service: adapter / business / infrastructure</description>
+    </archetype>
+    <archetype>
+      <groupId>com.domaindrivenkit</groupId>
+      <artifactId>ddk-layer3-archetype</artifactId>
+      <version>0.12.2</version>
+      <description>Generates a three-layer DDD service: adapter / business / infrastructure</description>
+    </archetype>
+    <archetype>
+      <groupId>com.domaindrivenkit</groupId>
+      <artifactId>ddk-layer4-archetype</artifactId>
+      <version>1.0.1</version>
+      <description>Generates a four-layer DDD service: adapter / application / domain / infrastructure</description>
+    </archetype>
+    <archetype>
+      <groupId>com.domaindrivenkit</groupId>
+      <artifactId>ddk-layer4-archetype</artifactId>
+      <version>1.0.0</version>
+      <description>Generates a four-layer DDD service: adapter / application / domain / infrastructure</description>
+    </archetype>
+    <archetype>
+      <groupId>com.domaindrivenkit</groupId>
+      <artifactId>ddk-layer4-archetype</artifactId>
+      <version>1.0.0-RC1</version>
+      <description>Generates a four-layer DDD service: adapter / application / domain / infrastructure</description>
+    </archetype>
+    <archetype>
+      <groupId>com.domaindrivenkit</groupId>
+      <artifactId>ddk-layer4-archetype</artifactId>
+      <version>0.12.2</version>
+      <description>Generates a four-layer DDD service: adapter / application / domain / infrastructure</description>
+    </archetype>
+    <archetype>
+      <groupId>com.flowlogix.archetypes</groupId>
+      <artifactId>starter</artifactId>
+      <version>162</version>
+      <description>Create Complete, testable projects for Jakarta EE</description>
+    </archetype>
+    <archetype>
+      <groupId>com.mobidevelop.robovm</groupId>
+      <artifactId>robovm-templates-console</artifactId>
+      <version>3.0.1</version>
+    </archetype>
+    <archetype>
+      <groupId>com.mobidevelop.robovm</groupId>
+      <artifactId>robovm-templates-ios-framework</artifactId>
+      <version>3.0.1</version>
+    </archetype>
+    <archetype>
+      <groupId>com.mobidevelop.robovm</groupId>
+      <artifactId>robovm-templates-ios-single-view-no-ib</artifactId>
+      <version>3.0.1</version>
+    </archetype>
+    <archetype>
+      <groupId>com.solace.microintegration.core.archetype</groupId>
+      <artifactId>micro-integration-archetype</artifactId>
+      <version>4.3.13</version>
+      <description>Archetype to generate Solace Micro-Integrations using the Micro-Integration Framework</description>
+    </archetype>
+    <archetype>
+      <groupId>com.solace.microintegration.core.archetype</groupId>
+      <artifactId>micro-integration-binder-archetype</artifactId>
+      <version>4.3.13</version>
+      <description>Archetype to generate Spring Cloud Stream binders for Micro-Integrations using the Micro-Integration Framework</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-application</artifactId>
+      <version>7.7.56</version>
+      <description>This archetype generates a sample Vaadin application as a single-module Maven project.
+      This archetype is primarily meant for simple applications, quick tests and demos.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-application-example</artifactId>
+      <version>7.7.56</version>
+      <description>This archetype generates a sample Vaadin application as a multi-module Maven project.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-application-multimodule</artifactId>
+      <version>7.7.56</version>
+      <description>This archetype generates the skeleton for a multi-module Vaadin application.
+      For a full example project, see vaadin-archetype-application-example.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-liferay-portlet</artifactId>
+      <version>7.7.56</version>
+      <description>This archetype generates a self-contained Vaadin 7 Liferay portlet.
+        It packages all Vaadin static resources (widgetset, theme etc.)
+        and doesn't make use of portal-provided resources.
+
+        Liferay-specific properties should be defined in a Maven profile
+        and you should activate this profile when performing builds of a
+        project based on this archetype.
+        Please see https://www.liferay.com/documentation/liferay-portal/6.2/development/-/ai/developing-plugins-using-maven-liferay-portal-6-2-dev-guide-02-en</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-widget</artifactId>
+      <version>7.7.56</version>
+      <description>This archetype generates a Vaadin 7 widget project and a related demo application.</description>
+    </archetype>
+    <archetype>
+      <groupId>cool.klass</groupId>
+      <artifactId>klass-maven-archetype</artifactId>
+      <version>0.7.0</version>
+    </archetype>
+    <archetype>
+      <groupId>dev.getelements.elements</groupId>
+      <artifactId>sdk-element-standard</artifactId>
+      <version>3.8.17-rc-3</version>
+    </archetype>
+    <archetype>
+      <groupId>dev.getelements.elements</groupId>
+      <artifactId>sdk-element-standard-kt</artifactId>
+      <version>3.8.17-rc-3</version>
+    </archetype>
+    <archetype>
+      <groupId>dev.inditex.karate</groupId>
+      <artifactId>karatetools-archetype</artifactId>
+      <version>6.1.0</version>
+      <description>InditexOSS Karate Tools - Archetype</description>
+    </archetype>
+    <archetype>
+      <groupId>eu.cloudhopper.mc</groupId>
+      <artifactId>cloudhopper-maven-archetype-core</artifactId>
+      <version>1.1.0</version>
+      <description>A configurable Maven archetype for Cloudhopper‐based function projects</description>
+    </archetype>
+    <archetype>
+      <groupId>eu.europa.ec.itb</groupId>
+      <artifactId>template-test-service</artifactId>
+      <version>1.30.3</version>
+      <description>Maven archetype for the generation of a GITB-compliant test service application.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.github.diovamny</groupId>
+      <artifactId>inertia-quarkus-react-archetype</artifactId>
+      <version>0.0.6</version>
+      <description>Generates a minimal Quarkus 3.38 (REST reactive) + React 19 + Inertia.js v3 application</description>
+    </archetype>
+    <archetype>
+      <groupId>io.github.diovamny</groupId>
+      <artifactId>inertia-quarkus-svelte-archetype</artifactId>
+      <version>0.0.6</version>
+      <description>Generates a minimal Quarkus 3.38 (REST reactive) + Svelte 5 + Inertia.js v3 application</description>
+    </archetype>
+    <archetype>
+      <groupId>io.github.diovamny</groupId>
+      <artifactId>inertia-quarkus-vue-archetype</artifactId>
+      <version>0.0.6</version>
+      <description>Generates a minimal Quarkus 3.38 (REST reactive) + Vue 3 + Inertia.js v3 application</description>
+    </archetype>
+    <archetype>
+      <groupId>io.github.diovamny</groupId>
+      <artifactId>inertia-spring-react-archetype</artifactId>
+      <version>0.0.6</version>
+      <description>Generates a minimal Spring Boot 4.1 + React 19 + Inertia.js v3 application</description>
+    </archetype>
+    <archetype>
+      <groupId>io.github.diovamny</groupId>
+      <artifactId>inertia-spring-svelte-archetype</artifactId>
+      <version>0.0.6</version>
+      <description>Generates a minimal Spring Boot 4.1 + Svelte 5 + Inertia.js v3 application</description>
+    </archetype>
+    <archetype>
+      <groupId>io.github.diovamny</groupId>
+      <artifactId>inertia-spring-vue-archetype</artifactId>
+      <version>0.0.6</version>
+      <description>Generates a minimal Spring Boot 4.1 + Vue 3 + Inertia.js v3 application</description>
+    </archetype>
+    <archetype>
+      <groupId>io.github.gallop.fastddd</groupId>
+      <artifactId>fastddd-project-archetype</artifactId>
+      <version>1.0.7</version>
+      <description>Maven Archetype for FastDDD project scaffolding</description>
+    </archetype>
+    <archetype>
+      <groupId>io.github.zqxxjs</groupId>
+      <artifactId>ssh-archetype</artifactId>
+      <version>1.0.2</version>
+      <description>SSH scaffold Maven archetype: Spring MVC7.0.10 +
+		Hibernate7.4.14.Final + Redis session + Redisson 2nd-level cache</description>
+    </archetype>
+    <archetype>
+      <groupId>io.github.zqxxjs</groupId>
+      <artifactId>ssh-archetype</artifactId>
+      <version>1.0.1</version>
+      <description>SSH scaffold Maven archetype: Spring MVC7.0.10 +
+		Hibernate7.4.14.Final + Redis session + Redisson 2nd-level cache</description>
+    </archetype>
+    <archetype>
+      <groupId>io.mateu</groupId>
+      <artifactId>mateu-archetype</artifactId>
+      <version>3.0.0</version>
+      <description>Creates a new Mateu project: code (@UI classes on Spring Boot), YAML only served by Spring
+    Boot, or YAML only as a static bundle with no backend. Built from the official starters.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.mateu</groupId>
+      <artifactId>mateu-archetype</artifactId>
+      <version>3.0-rc.2</version>
+      <description>Creates a new Mateu project: code (@UI classes on Spring Boot), YAML only served by Spring
+    Boot, or YAML only as a static bundle with no backend. Built from the official starters.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.mateu</groupId>
+      <artifactId>mateu-archetype</artifactId>
+      <version>3.0-rc.1</version>
+      <description>Creates a new Mateu project: code (@UI classes on Spring Boot), YAML only served by Spring
+    Boot, or YAML only as a static bundle with no backend. Built from the official starters.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.mateu</groupId>
+      <artifactId>mateu-archetype</artifactId>
+      <version>3.0-beta.68</version>
+      <description>Creates a new Mateu project: code (@UI classes on Spring Boot), YAML only served by Spring
+    Boot, or YAML only as a static bundle with no backend. Built from the official starters.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.mateu</groupId>
+      <artifactId>mateu-archetype</artifactId>
+      <version>3.0-beta.67</version>
+      <description>Creates a new Mateu project: code (@UI classes on Spring Boot), YAML only served by Spring
+    Boot, or YAML only as a static bundle with no backend. Built from the official starters.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.mateu</groupId>
+      <artifactId>mateu-archetype</artifactId>
+      <version>3.0-beta.66</version>
+      <description>Creates a new Mateu project: code (@UI classes on Spring Boot), YAML only served by Spring
+    Boot, or YAML only as a static bundle with no backend. Built from the official starters.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.mateu</groupId>
+      <artifactId>mateu-archetype</artifactId>
+      <version>3.0-beta.65</version>
+      <description>Creates a new Mateu project: code (@UI classes on Spring Boot), YAML only served by Spring
+    Boot, or YAML only as a static bundle with no backend. Built from the official starters.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.mateu</groupId>
+      <artifactId>mateu-archetype</artifactId>
+      <version>3.0-beta.64</version>
+      <description>Creates a new Mateu project: code (@UI classes on Spring Boot), YAML only served by Spring
+    Boot, or YAML only as a static bundle with no backend. Built from the official starters.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.mateu</groupId>
+      <artifactId>mateu-archetype</artifactId>
+      <version>3.0-beta.63</version>
+      <description>Creates a new Mateu project: code (@UI classes on Spring Boot), YAML only served by Spring
+    Boot, or YAML only as a static bundle with no backend. Built from the official starters.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.mateu</groupId>
+      <artifactId>mateu-archetype</artifactId>
+      <version>3.0-beta.58</version>
+      <description>Creates a new Mateu project: code (@UI classes on Spring Boot), YAML only served by Spring
+    Boot, or YAML only as a static bundle with no backend. Built from the official starters.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.mateu</groupId>
+      <artifactId>mateu-archetype</artifactId>
+      <version>3.0-beta.57</version>
+      <description>Creates a new Mateu project: code (@UI classes on Spring Boot), YAML only served by Spring
+    Boot, or YAML only as a static bundle with no backend. Built from the official starters.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.mateu</groupId>
+      <artifactId>mateu-archetype</artifactId>
+      <version>3.0-beta.56</version>
+      <description>Creates a new Mateu project: code (@UI classes on Spring Boot), YAML only served by Spring
+    Boot, or YAML only as a static bundle with no backend. Built from the official starters.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.mateu</groupId>
+      <artifactId>mateu-archetype</artifactId>
+      <version>3.0-beta.55</version>
+      <description>Creates a new Mateu project: code (@UI classes on Spring Boot), YAML only served by Spring
+    Boot, or YAML only as a static bundle with no backend. Built from the official starters.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-amazon-lambda-archetype</artifactId>
+      <version>4.0.0.CR1</version>
+    </archetype>
+    <archetype>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-amazon-lambda-http-archetype</artifactId>
+      <version>4.0.0.CR1</version>
+    </archetype>
+    <archetype>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-amazon-lambda-rest-archetype</artifactId>
+      <version>4.0.0.CR1</version>
+    </archetype>
+    <archetype>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-funqy-amazon-lambda-archetype</artifactId>
+      <version>4.0.0.CR1</version>
+    </archetype>
+    <archetype>
+      <groupId>io.smallrye.reactive</groupId>
+      <artifactId>smallrye-reactive-messaging-connector-archetype</artifactId>
+      <version>5.0.0</version>
+    </archetype>
+    <archetype>
+      <groupId>org.apache.tomee.maven</groupId>
+      <artifactId>tomee-webapp-archetype</artifactId>
+      <version>11.0.0-M2</version>
+    </archetype>
+    <archetype>
+      <groupId>org.apache.tomee.maven</groupId>
+      <artifactId>tomee-webapp-archetype</artifactId>
+      <version>10.3.0</version>
+    </archetype>
+    <archetype>
+      <groupId>org.bonitasoft.archetypes</groupId>
+      <artifactId>process-reader-archetype</artifactId>
+      <version>10.0.5</version>
+      <description>Contains the Bonita Process Domain Logic.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.bonitasoft.archetypes</groupId>
+      <artifactId>process-reader-archetype</artifactId>
+      <version>9.0.13</version>
+      <description>Contains the Bonita Process Domain Logic.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.bonitasoft.archetypes</groupId>
+      <artifactId>process-reader-archetype</artifactId>
+      <version>8.1.4</version>
+      <description>Contains the Bonita Process Domain Logic.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <artifactId>kotlin-archetype-jvm</artifactId>
+      <version>2.5.0-RC</version>
+      <description>Kotlin single-module JVM project archetype</description>
+    </archetype>
+    <archetype>
+      <groupId>org.jrebirth.af</groupId>
+      <artifactId>archetype</artifactId>
+      <version>12.0.0</version>
+      <description>JRebirth Archetype used to build a new fresh application</description>
+    </archetype>
+    <archetype>
+      <groupId>org.tentackle</groupId>
+      <artifactId>tentackle-project-archetype</artifactId>
+      <version>25.20.1.0</version>
+      <description>Archetype for a multi-module Tentackle application</description>
+    </archetype>
+    <archetype>
+      <groupId>org.voltdb</groupId>
+      <artifactId>volt-stream-maven-quickstart</artifactId>
+      <version>1.8.7</version>
+    </archetype>
+    <archetype>
+      <groupId>org.wicketstuff.scala</groupId>
+      <artifactId>wicketstuff-scala-archetype</artifactId>
+      <version>11.0.0</version>
+      <description>Basic setup for a project that combines Scala and Wicket,
+		depending on the Wicket-Scala project. Includes an example Specs
+		test.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.xwiki.commons</groupId>
+      <artifactId>xwiki-commons-component-archetype</artifactId>
+      <version>17.10.15</version>
+      <description>Make it easy to create a maven project for creating XWiki Components.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.xwiki.rendering</groupId>
+      <artifactId>xwiki-rendering-archetype-macro</artifactId>
+      <version>17.10.15</version>
+      <description>Make it easy to create a maven project for creating XWiki Rendering Macros.</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-app-quickstart</artifactId>
+      <version>2.59.0</version>
+      <description>The AWS SDK for Java - Maven archetype for a sample application using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-app-quickstart</artifactId>
+      <version>2.58.0</version>
+      <description>The AWS SDK for Java - Maven archetype for a sample application using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-app-quickstart</artifactId>
+      <version>2.57.13</version>
+      <description>The AWS SDK for Java - Maven archetype for a sample application using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-app-quickstart</artifactId>
+      <version>2.57.12</version>
+      <description>The AWS SDK for Java - Maven archetype for a sample application using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-lambda</artifactId>
+      <version>2.59.0</version>
+      <description>The AWS SDK for Java - Maven archetype for Java lambda function using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-lambda</artifactId>
+      <version>2.58.0</version>
+      <description>The AWS SDK for Java - Maven archetype for Java lambda function using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-lambda</artifactId>
+      <version>2.57.13</version>
+      <description>The AWS SDK for Java - Maven archetype for Java lambda function using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-lambda</artifactId>
+      <version>2.57.12</version>
+      <description>The AWS SDK for Java - Maven archetype for Java lambda function using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>com.psiwray.organization</groupId>
+      <artifactId>terminal-window-archetype</artifactId>
+      <version>2.0.0</version>
+      <description>Maven archetype for a Kotlin terminal-window executable.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.solace.microintegration.core.archetype</groupId>
+      <artifactId>micro-integration-archetype</artifactId>
+      <version>4.3.15</version>
+      <description>Archetype to generate Solace Micro-Integrations using the Micro-Integration Framework</description>
+    </archetype>
+    <archetype>
+      <groupId>com.solace.microintegration.core.archetype</groupId>
+      <artifactId>micro-integration-archetype</artifactId>
+      <version>4.3.14</version>
+      <description>Archetype to generate Solace Micro-Integrations using the Micro-Integration Framework</description>
+    </archetype>
+    <archetype>
+      <groupId>com.solace.microintegration.core.archetype</groupId>
+      <artifactId>micro-integration-binder-archetype</artifactId>
+      <version>4.3.15</version>
+      <description>Archetype to generate Spring Cloud Stream binders for Micro-Integrations using the Micro-Integration Framework</description>
+    </archetype>
+    <archetype>
+      <groupId>com.solace.microintegration.core.archetype</groupId>
+      <artifactId>micro-integration-binder-archetype</artifactId>
+      <version>4.3.14</version>
+      <description>Archetype to generate Spring Cloud Stream binders for Micro-Integrations using the Micro-Integration Framework</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-application</artifactId>
+      <version>25.4.0-beta1</version>
+      <description>This archetype creates a Vaadin Flow application for basic
+        servlet container and can be used as a project base.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-archetype-spring-application</artifactId>
+      <version>25.4.0-beta1</version>
+      <description>This archetype creates a Vaadin Java application with Spring Boot.</description>
+    </archetype>
+    <archetype>
+      <groupId>dev.macula.boot</groupId>
+      <artifactId>macula-boot-archetype</artifactId>
+      <version>5.0.23</version>
+      <description>Macula Boot ArcheType</description>
+    </archetype>
+    <archetype>
+      <groupId>dev.macula.boot</groupId>
+      <artifactId>macula-boot-archetype</artifactId>
+      <version>5.0.22</version>
+      <description>Macula Boot ArcheType</description>
+    </archetype>
+    <archetype>
+      <groupId>dev.macula.boot</groupId>
+      <artifactId>macula-boot-archetype</artifactId>
+      <version>5.0.21</version>
+      <description>Macula Boot ArcheType</description>
+    </archetype>
+    <archetype>
+      <groupId>eu.cloudhopper.mc</groupId>
+      <artifactId>cloudhopper-maven-archetype-core</artifactId>
+      <version>1.2.0</version>
+      <description>A configurable Maven archetype for Cloudhopper‐based function projects</description>
+    </archetype>
+    <archetype>
+      <groupId>eu.europa.ec.itb</groupId>
+      <artifactId>template-test-service</artifactId>
+      <version>1.30.4</version>
+      <description>Maven archetype for the generation of a GITB-compliant test service application.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-archetype</artifactId>
+      <version>8.1.0</version>
+      <description>Cucumber JVM: Maven Archetype</description>
+    </archetype>
+    <archetype>
+      <groupId>io.github.expertflow</groupId>
+      <artifactId>cx-audit-logger</artifactId>
+      <version>2.0.2</version>
+      <description>This dependency contains json logger for audit logging in expert flow's CIM project</description>
+    </archetype>
+    <archetype>
+      <groupId>io.github.tianhaocui</groupId>
+      <artifactId>aura-archetype</artifactId>
+      <version>1.0.0</version>
+      <description>Generates a minimal, testable Aura 1.0 Maven application</description>
+    </archetype>
+    <archetype>
+      <groupId>io.github.tomas-samek</groupId>
+      <artifactId>tiko-archetype</artifactId>
+      <version>0.7.0</version>
+      <description>Maven archetype that scaffolds a runnable single-module Tiko DI project</description>
+    </archetype>
+    <archetype>
+      <groupId>io.helidon.archetypes</groupId>
+      <artifactId>helidon-bare-mp</artifactId>
+      <version>4.5.7</version>
+    </archetype>
+    <archetype>
+      <groupId>io.helidon.archetypes</groupId>
+      <artifactId>helidon-bare-mp</artifactId>
+      <version>3.2.23</version>
+    </archetype>
+    <archetype>
+      <groupId>io.helidon.archetypes</groupId>
+      <artifactId>helidon-bare-se</artifactId>
+      <version>4.5.7</version>
+    </archetype>
+    <archetype>
+      <groupId>io.helidon.archetypes</groupId>
+      <artifactId>helidon-bare-se</artifactId>
+      <version>3.2.23</version>
+    </archetype>
+    <archetype>
+      <groupId>io.helidon.archetypes</groupId>
+      <artifactId>helidon-database-mp</artifactId>
+      <version>4.5.7</version>
+    </archetype>
+    <archetype>
+      <groupId>io.helidon.archetypes</groupId>
+      <artifactId>helidon-database-mp</artifactId>
+      <version>3.2.23</version>
+    </archetype>
+    <archetype>
+      <groupId>io.helidon.archetypes</groupId>
+      <artifactId>helidon-database-se</artifactId>
+      <version>4.5.7</version>
+    </archetype>
+    <archetype>
+      <groupId>io.helidon.archetypes</groupId>
+      <artifactId>helidon-database-se</artifactId>
+      <version>3.2.23</version>
+    </archetype>
+    <archetype>
+      <groupId>io.helidon.archetypes</groupId>
+      <artifactId>helidon-quickstart-mp</artifactId>
+      <version>4.5.7</version>
+    </archetype>
+    <archetype>
+      <groupId>io.helidon.archetypes</groupId>
+      <artifactId>helidon-quickstart-mp</artifactId>
+      <version>3.2.23</version>
+    </archetype>
+    <archetype>
+      <groupId>io.helidon.archetypes</groupId>
+      <artifactId>helidon-quickstart-se</artifactId>
+      <version>4.5.7</version>
+    </archetype>
+    <archetype>
+      <groupId>io.helidon.archetypes</groupId>
+      <artifactId>helidon-quickstart-se</artifactId>
+      <version>3.2.23</version>
+    </archetype>
+    <archetype>
+      <groupId>io.mangoo</groupId>
+      <artifactId>mangooio-maven-archetype</artifactId>
+      <version>11.1.0</version>
+    </archetype>
+    <archetype>
+      <groupId>io.mateu</groupId>
+      <artifactId>mateu-archetype</artifactId>
+      <version>3.0.1</version>
+      <description>Creates a new Mateu project: code (@UI classes on Spring Boot), YAML only served by Spring
+    Boot, or YAML only as a static bundle with no backend. Built from the official starters.</description>
+    </archetype>
+    <archetype>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-amazon-lambda-archetype</artifactId>
+      <version>4.0.0</version>
+    </archetype>
+    <archetype>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-amazon-lambda-http-archetype</artifactId>
+      <version>4.0.0</version>
+    </archetype>
+    <archetype>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-amazon-lambda-rest-archetype</artifactId>
+      <version>4.0.0</version>
+    </archetype>
+    <archetype>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-funqy-amazon-lambda-archetype</artifactId>
+      <version>4.0.0</version>
+    </archetype>
+    <archetype>
+      <groupId>org.apache.beam</groupId>
+      <artifactId>beam-sdks-java-maven-archetypes-examples</artifactId>
+      <version>2.78.0</version>
+    </archetype>
+    <archetype>
+      <groupId>org.apache.beam</groupId>
+      <artifactId>beam-sdks-java-maven-archetypes-gcp-bom-examples</artifactId>
+      <version>2.78.0</version>
+    </archetype>
+    <archetype>
+      <groupId>org.apache.beam</groupId>
+      <artifactId>beam-sdks-java-maven-archetypes-starter</artifactId>
+      <version>2.78.0</version>
+    </archetype>
+    <archetype>
+      <groupId>org.eclipse.scout.archetypes</groupId>
+      <artifactId>scout-hellojs-app</artifactId>
+      <version>26.2.13</version>
+      <description>Creates a Hello World sample application using Scout JS (UI written in JavaScript)</description>
+    </archetype>
+    <archetype>
+      <groupId>org.eclipse.scout.archetypes</groupId>
+      <artifactId>scout-helloworld-app</artifactId>
+      <version>26.2.13</version>
+      <description>Creates a Hello World sample application using Scout Classic (UI written in Java)</description>
+    </archetype>
+    <archetype>
+      <groupId>org.eclipse.scout.archetypes</groupId>
+      <artifactId>scout-jaxws-module</artifactId>
+      <version>26.2.13</version>
+      <description>Maven Archetype which creates an empty Scout JaxWs Module</description>
+    </archetype>
+    <archetype>
+      <groupId>org.eclipse.xtext</groupId>
+      <artifactId>xtend-archetype</artifactId>
+      <version>2.45.0.M3</version>
+    </archetype>
+    <archetype>
+      <groupId>org.graalvm.python</groupId>
+      <artifactId>graalpy-archetype-polyglot-app</artifactId>
+      <version>25.0.5.1</version>
+      <description>Maven archetype providing a skeleton GraalPy - Java polyglot application.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.infinispan.archetypes</groupId>
+      <artifactId>client</artifactId>
+      <version>16.3.2</version>
+      <description>Maven archetype for a sample application using the Hot Rod Java client.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.infinispan.archetypes</groupId>
+      <artifactId>client</artifactId>
+      <version>16.0.16</version>
+      <description>Maven archetype for a sample application using the Hot Rod Java client.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.infinispan.archetypes</groupId>
+      <artifactId>custom-module</artifactId>
+      <version>16.3.2</version>
+      <description>Maven archetype to create an Infinispan ModuleLifecycle implementation</description>
+    </archetype>
+    <archetype>
+      <groupId>org.infinispan.archetypes</groupId>
+      <artifactId>custom-module</artifactId>
+      <version>16.0.16</version>
+      <description>Maven archetype to create an Infinispan ModuleLifecycle implementation</description>
+    </archetype>
+    <archetype>
+      <groupId>org.infinispan.archetypes</groupId>
+      <artifactId>embedded</artifactId>
+      <version>16.3.2</version>
+      <description>Maven archetype for a sample application that embeds Infinispan.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.infinispan.archetypes</groupId>
+      <artifactId>embedded</artifactId>
+      <version>16.0.16</version>
+      <description>Maven archetype for a sample application that embeds Infinispan.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.infinispan.archetypes</groupId>
+      <artifactId>server-task</artifactId>
+      <version>16.3.2</version>
+      <description>Maven archetype to create a Infinispan ServerTask implementation</description>
+    </archetype>
+    <archetype>
+      <groupId>org.infinispan.archetypes</groupId>
+      <artifactId>server-task</artifactId>
+      <version>16.0.16</version>
+      <description>Maven archetype to create a Infinispan ServerTask implementation</description>
+    </archetype>
+    <archetype>
+      <groupId>org.infinispan.archetypes</groupId>
+      <artifactId>store</artifactId>
+      <version>16.3.2</version>
+      <description>Maven archetype for a sample implementation of a custom cache store.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.infinispan.archetypes</groupId>
+      <artifactId>store</artifactId>
+      <version>16.0.16</version>
+      <description>Maven archetype for a sample implementation of a custom cache store.</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-app-quickstart</artifactId>
+      <version>2.59.4</version>
+      <description>The AWS SDK for Java - Maven archetype for a sample application using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-app-quickstart</artifactId>
+      <version>2.59.3</version>
+      <description>The AWS SDK for Java - Maven archetype for a sample application using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-app-quickstart</artifactId>
+      <version>2.59.2</version>
+      <description>The AWS SDK for Java - Maven archetype for a sample application using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-app-quickstart</artifactId>
+      <version>2.59.1</version>
+      <description>The AWS SDK for Java - Maven archetype for a sample application using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-lambda</artifactId>
+      <version>2.59.4</version>
+      <description>The AWS SDK for Java - Maven archetype for Java lambda function using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-lambda</artifactId>
+      <version>2.59.3</version>
+      <description>The AWS SDK for Java - Maven archetype for Java lambda function using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-lambda</artifactId>
+      <version>2.59.2</version>
+      <description>The AWS SDK for Java - Maven archetype for Java lambda function using AWS Java SDK 2.x</description>
+    </archetype>
+    <archetype>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>archetype-lambda</artifactId>
+      <version>2.59.1</version>
+      <description>The AWS SDK for Java - Maven archetype for Java lambda function using AWS Java SDK 2.x</description>
+    </archetype>
   </archetypes>
 </archetype-catalog>
