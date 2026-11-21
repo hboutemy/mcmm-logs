@@ -76,6 +76,8 @@ de.powerstat.validation:validation
 eu.copernik:copernik-xml-factory
 io.aiven.kafka.connect:connectors-common-for-amqp
 io.aiven.kafka.connect:connectors-for-amqp
+io.aiven.kafka.connect:roundTripTests
+io.aiven.kafka.connect:sink-connector-for-amqp
 io.aiven.kafka.connect:source-connector-for-amqp
 io.github.jiangood:commons-dbutils
 io.github.luigidemasi:jsch

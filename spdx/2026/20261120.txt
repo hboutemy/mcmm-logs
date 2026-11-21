@@ -1,0 +1,10 @@
+io/aiven/kafka/connect/connectors-common-for-amqp/0.2.0/connectors-common-for-amqp-0.2.0.spdx.json
+io/aiven/kafka/connect/connectors-for-amqp/0.2.0/connectors-for-amqp-0.2.0.spdx.json
+io/aiven/kafka/connect/roundTripTests/0.2.0/roundTripTests-0.2.0.spdx.json
+io/aiven/kafka/connect/sink-connector-for-amqp/0.2.0/sink-connector-for-amqp-0.2.0.spdx.json
+io/aiven/kafka/connect/source-connector-for-amqp/0.2.0/source-connector-for-amqp-0.2.0.spdx.json
+io/reshapr/reshapr-api/1.2.1/reshapr-api-1.2.1.spdx.json
+io/reshapr/reshapr-commons/1.2.1/reshapr-commons-1.2.1.spdx.json
+io/reshapr/reshapr-ctrl/1.2.1/reshapr-ctrl-1.2.1.spdx.json
+io/reshapr/reshapr-parent/1.2.1/reshapr-parent-1.2.1.spdx.json
+io/reshapr/reshapr/1.2.1/reshapr-1.2.1.spdx.json

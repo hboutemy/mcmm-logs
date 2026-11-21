@@ -2136,6 +2136,11 @@ fr.inria.gforge.spoon:spoon-pom
 fr.maif:otoroshi_3
 fr.marcwrobel:jbanking
 gov.nist.secauto.oscal:liboscal-java
+io.aiven.kafka.connect:connectors-common-for-amqp
+io.aiven.kafka.connect:connectors-for-amqp
+io.aiven.kafka.connect:roundTripTests
+io.aiven.kafka.connect:sink-connector-for-amqp
+io.aiven.kafka.connect:source-connector-for-amqp
 io.arconia.migrations:rewrite-arconia
 io.arconia.migrations:rewrite-docling
 io.arconia.migrations:rewrite-openapi
@@ -2830,6 +2835,7 @@ io.jexxa.adapters:adapter-esp
 io.jexxa.adapters:adapter-esp-test
 io.jexxa.adapters:adapter-jdbc
 io.jexxa.adapters:adapter-jms
+io.jexxa.adapters:adapter-micrometer
 io.jexxa.adapters:adapter-rest
 io.jexxa.adapters:adapter-s3
 io.jexxa.adapters:common-adapters
@@ -6039,6 +6045,8 @@ org.bonitasoft.bpm:org.bonitasoft.gmf.plugin-dependencies
 org.bonitasoft.bpm:org.bonitasoft.spec.bpmn
 org.candium:candium-logs
 org.candium:candium-logs-viewer
+org.cibseven.bpm:cibseven-root
+org.cibseven.webapp:cibseven-webclient
 org.connectbot.sshlib:protocol
 org.connectbot.sshlib:sshlib
 org.connectbot.sshlib:sshlib-webauthn
@@ -7763,6 +7771,11 @@ org.jreleaser:jreleaser-webhooks-java-sdk
 org.jreleaser:jreleaser-zernio-java-sdk
 org.jreleaser:jreleaser-zulip-java-sdk
 org.jvnet.mimepull:mimepull
+org.jwcarman.migratory:migratory-autoconfigure
+org.jwcarman.migratory:migratory-bom
+org.jwcarman.migratory:migratory-core
+org.jwcarman.migratory:migratory-parent
+org.jwcarman.migratory:migratory-spring-boot-starter
 org.jwcarman.who:who-admin
 org.jwcarman.who:who-apikey
 org.jwcarman.who:who-autoconfigure
